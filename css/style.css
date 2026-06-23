@@ -797,6 +797,23 @@ footer {
     overflow: hidden;
 }
 
+@media (max-width: 768px) {
+    .time-input-group {
+        flex-direction: column !important;
+        align-items: center !important;
+        gap: 10px !important;
+    }
+
+    .time-input-group select {
+        width: 100% !important;
+        max-width: 200px !important;
+    }
+
+    .time-separator {
+        display: none !important;
+    }
+}
+
 .time-input-group select:focus {
     outline: none;
     border-color: var(--accent-color);
@@ -1074,6 +1091,23 @@ footer {
     max-width: 120px;
     flex-shrink: 1;
     overflow: hidden;
+}
+
+@media (max-width: 768px) {
+    .input-row {
+        flex-direction: column !important;
+        align-items: center !important;
+        gap: 10px !important;
+    }
+
+    .input-field {
+        width: 100% !important;
+    }
+
+    .select-small {
+        width: 100% !important;
+        max-width: 200px !important;
+    }
 }
 
 .full-width {
