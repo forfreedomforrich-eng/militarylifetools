@@ -19,6 +19,7 @@
 
 html {
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 body {
@@ -26,6 +27,9 @@ body {
     line-height: 1.6;
     color: var(--text-color);
     background-color: var(--light-bg);
+    overflow-x: hidden;
+    width: 100%;
+    max-width: 100vw;
 }
 
 /* Container */
@@ -1407,5 +1411,23 @@ footer {
 
     .converter-divider {
         padding: 1rem 0;
+    }
+}
+
+/* Global mobile fix - prevent any horizontal overflow */
+@media (max-width: 768px) {
+    *, *::before, *::after {
+        overflow-x: hidden;
+    }
+
+    select, input, button, textarea {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .converter-grid .card,
+    .card {
+        overflow: hidden;
+        width: 100%;
     }
 }
