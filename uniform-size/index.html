@@ -49,7 +49,7 @@
                 <h1 class="tool-title">Military Uniform Size Converter</h1>
                 <p class="tool-subtitle">Find your perfect uniform size for any branch of service</p>
 
-                <div class="card">
+                <div class="card" style="overflow:hidden;">
                     <div class="converter-grid">
                         <div class="converter-panel">
                             <h3>Select Your Branch</h3>
@@ -76,9 +76,9 @@
 
                         <div class="converter-panel">
                             <h3>Enter Your Measurement</h3>
-                            <div class="input-row">
-                                <input type="number" id="measurement" placeholder="Enter value" class="input-field">
-                                <select id="unit" class="select-small">
+                            <div class="input-row" style="display:flex;flex-wrap:wrap;gap:8px;width:100%;max-width:100%;overflow:hidden;">
+                                <input type="number" id="measurement" placeholder="Enter value" class="input-field" style="flex:1;min-width:0;">
+                                <select id="unit" class="select-small" style="flex:1;min-width:0;max-width:120px;width:auto;">
                                     <option value="inches">Inches</option>
                                     <option value="cm">Centimeters</option>
                                 </select>

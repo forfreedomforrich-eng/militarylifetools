@@ -49,7 +49,7 @@
                 <h1 class="tool-title">Military Time Converter</h1>
                 <p class="tool-subtitle">Convert between standard 12-hour time and military 24-hour time</p>
 
-                <div class="card converter-card">
+                <div class="card converter-card" style="overflow:hidden;">
                     <div class="time-display">
                         <div class="current-time">
                             <span class="time-label">Current Time</span>
@@ -61,15 +61,15 @@
                     <div class="converter-grid">
                         <div class="converter-panel">
                             <h3>Standard Time (12-Hour)</h3>
-                            <div class="time-input-group">
-                                <select id="stdHours">
+                            <div class="time-input-group" style="display:flex;flex-wrap:wrap;justify-content:center;gap:8px;width:100%;max-width:100%;overflow:hidden;">
+                                <select id="stdHours" style="flex:1;min-width:0;max-width:80px;width:auto;">
                                     <option value="">HH</option>
                                 </select>
                                 <span class="time-separator">:</span>
-                                <select id="stdMinutes">
+                                <select id="stdMinutes" style="flex:1;min-width:0;max-width:80px;width:auto;">
                                     <option value="">MM</option>
                                 </select>
-                                <select id="stdPeriod">
+                                <select id="stdPeriod" style="flex:1;min-width:0;max-width:80px;width:auto;">
                                     <option value="AM">AM</option>
                                     <option value="PM">PM</option>
                                 </select>
@@ -87,12 +87,12 @@
 
                         <div class="converter-panel">
                             <h3>Military Time (24-Hour)</h3>
-                            <div class="time-input-group">
-                                <select id="milHours">
+                            <div class="time-input-group" style="display:flex;flex-wrap:wrap;justify-content:center;gap:8px;width:100%;max-width:100%;overflow:hidden;">
+                                <select id="milHours" style="flex:1;min-width:0;max-width:80px;width:auto;">
                                     <option value="">HH</option>
                                 </select>
                                 <span class="time-separator">:</span>
-                                <select id="milMinutes">
+                                <select id="milMinutes" style="flex:1;min-width:0;max-width:80px;width:auto;">
                                     <option value="">MM</option>
                                 </select>
                             </div>
