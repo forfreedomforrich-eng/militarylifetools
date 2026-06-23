@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Military Time Converter - Standard to 24-Hour Clock | Military Life Tools</title>
+    <meta name="description" content="Convert between standard 12-hour time and military 24-hour time instantly. Free online military time converter with real-time clock and easy-to-use interface.">
+    <meta name="keywords" content="military time converter, 24 hour time, standard time to military time, military time chart, army time converter">
+    <link rel="canonical" href="https://militarylifetools.com/time-converter">
+    <link rel="stylesheet" href="/css/style.css">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Military Time Converter",
+        "url": "https://militarylifetools.com/time-converter",
+        "description": "Convert between standard 12-hour time and military 24-hour time instantly",
+        "applicationCategory": "UtilityApplication",
+        "operatingSystem": "All",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        }
+    }
+    </script>
+</head>
+<body>
+    <header class="header">
+        <nav class="nav container">
+            <a href="/" class="logo">Military Life Tools</a>
+            <ul class="nav-links">
+                <li><a href="/">ETS Countdown</a></li>
+                <li><a href="/time-converter" class="active">Time Converter</a></li>
+                <li><a href="/uniform-size">Uniform Size</a></li>
+                <li><a href="/bah-calculator">BAH Calculator</a></li>
+                <li><a href="/pay-calculator">Pay Calculator</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main">
+        <section class="tool-section">
+            <div class="container">
+                <h1 class="tool-title">Military Time Converter</h1>
+                <p class="tool-subtitle">Convert between standard 12-hour time and military 24-hour time</p>
+
+                <div class="card converter-card">
+                    <div class="time-display">
+                        <div class="current-time">
+                            <span class="time-label">Current Time</span>
+                            <div id="currentTime" class="time-value">--:--</div>
+                            <span id="currentTimeFormat" class="time-format">--</span>
+                        </div>
+                    </div>
+
+                    <div class="converter-grid">
+                        <div class="converter-panel">
+                            <h3>Standard Time (12-Hour)</h3>
+                            <div class="time-input-group">
+                                <select id="stdHours">
+                                    <option value="">HH</option>
+                                </select>
+                                <span class="time-separator">:</span>
+                                <select id="stdMinutes">
+                                    <option value="">MM</option>
+                                </select>
+                                <select id="stdPeriod">
+                                    <option value="AM">AM</option>
+                                    <option value="PM">PM</option>
+                                </select>
+                            </div>
+                            <button id="toMilitaryBtn" class="btn btn-primary">Convert to Military</button>
+                            <div id="militaryResult" class="result-box">
+                                <span class="result-label">Military Time</span>
+                                <span id="militaryOutput" class="result-value">----</span>
+                            </div>
+                        </div>
+
+                        <div class="converter-divider">
+                            <span class="divider-text">OR</span>
+                        </div>
+
+                        <div class="converter-panel">
+                            <h3>Military Time (24-Hour)</h3>
+                            <div class="time-input-group">
+                                <select id="milHours">
+                                    <option value="">HH</option>
+                                </select>
+                                <span class="time-separator">:</span>
+                                <select id="milMinutes">
+                                    <option value="">MM</option>
+                                </select>
+                            </div>
+                            <button id="toStandardBtn" class="btn btn-primary">Convert to Standard</button>
+                            <div id="standardResult" class="result-box">
+                                <span class="result-label">Standard Time</span>
+                                <span id="standardOutput" class="result-value">--:-- --</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quick-converts">
+                        <h3>Quick Reference</h3>
+                        <div class="reference-grid">
+                            <div class="reference-item">
+                                <span class="ref-military">0000</span>
+                                <span class="ref-standard">12:00 AM (Midnight)</span>
+                            </div>
+                            <div class="reference-item">
+                                <span class="ref-military">0600</span>
+                                <span class="ref-standard">6:00 AM</span>
+                            </div>
+                            <div class="reference-item">
+                                <span class="ref-military">1200</span>
+                                <span class="ref-standard">12:00 PM (Noon)</span>
+                            </div>
+                            <div class="reference-item">
+                                <span class="ref-military">1800</span>
+                                <span class="ref-standard">6:00 PM</span>
+                            </div>
+                            <div class="reference-item">
+                                <span class="ref-military">0030</span>
+                                <span class="ref-standard">12:30 AM</span>
+                            </div>
+                            <div class="reference-item">
+                                <span class="ref-military">1430</span>
+                                <span class="ref-standard">2:30 PM</span>
+                            </div>
+                            <div class="reference-item">
+                                <span class="ref-military">2359</span>
+                                <span class="ref-standard">11:59 PM</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="embed-section">
+                        <h3>Embed This Calculator</h3>
+                        <p>Copy the code below to embed this time converter on your website:</p>
+                        <div class="embed-code-wrapper">
+                            <code class="embed-code">&lt;iframe src="https://militarylifetools.com/time-converter" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;</code>
+                            <button class="btn btn-secondary copy-btn" onclick="copyEmbed(this)">Copy Code</button>
+                        </div>
+                    </div>
+                </div>
+
+                <article class="content-section">
+                    <h2>What is Military Time?</h2>
+                    <p>Military time is a 24-hour clock system used by the military, emergency services, and many other organizations worldwide. Unlike the standard 12-hour clock, military time runs from <strong>0000 (midnight) to 2359 (11:59 PM)</strong> without using AM or PM designations.</p>
+
+                    <p>The U.S. military uses the 24-hour clock because it eliminates confusion between morning and evening hours. When a soldier says "meet me at 1500," there's no ambiguity—it means 3:00 PM, not 3:00 AM.</p>
+
+                    <h2>How to Read Military Time</h2>
+                    <p>Reading military time is straightforward once you understand the format:</p>
+                    <ul>
+                        <li><strong>Hours 00-11:</strong> Same as standard time but without AM (0100 = 1:00 AM)</li>
+                        <li><strong>Hours 12-23:</strong> Subtract 12 to get PM time (1500 = 3:00 PM)</li>
+                        <li><strong>The minutes</strong> are the same in both systems</li>
+                    </ul>
+
+                    <div class="conversion-table">
+                        <h3>Military Time Conversion Chart</h3>
+                        <div class="table-wrapper">
+                            <table class="time-table">
+                                <thead>
+                                    <tr>
+                                        <th>Military Time</th>
+                                        <th>Standard Time</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr><td>0000</td><td>12:00 AM (Midnight)</td></tr>
+                                    <tr><td>0100</td><td>1:00 AM</td></tr>
+                                    <tr><td>0200</td><td>2:00 AM</td></tr>
+                                    <tr><td>0300</td><td>3:00 AM</td></tr>
+                                    <tr><td>0400</td><td>4:00 AM</td></tr>
+                                    <tr><td>0500</td><td>5:00 AM</td></tr>
+                                    <tr><td>0600</td><td>6:00 AM</td></tr>
+                                    <tr><td>0700</td><td>7:00 AM</td></tr>
+                                    <tr><td>0800</td><td>8:00 AM</td></tr>
+                                    <tr><td>0900</td><td>9:00 AM</td></tr>
+                                    <tr><td>1000</td><td>10:00 AM</td></tr>
+                                    <tr><td>1100</td><td>11:00 AM</td></tr>
+                                    <tr><td>1200</td><td>12:00 PM (Noon)</td></tr>
+                                    <tr><td>1300</td><td>1:00 PM</td></tr>
+                                    <tr><td>1400</td><td>2:00 PM</td></tr>
+                                    <tr><td>1500</td><td>3:00 PM</td></tr>
+                                    <tr><td>1600</td><td>4:00 PM</td></tr>
+                                    <tr><td>1700</td><td>5:00 PM</td></tr>
+                                    <tr><td>1800</td><td>6:00 PM</td></tr>
+                                    <tr><td>1900</td><td>7:00 PM</td></tr>
+                                    <tr><td>2000</td><td>8:00 PM</td></tr>
+                                    <tr><td>2100</td><td>9:00 PM</td></tr>
+                                    <tr><td>2200</td><td>10:00 PM</td></tr>
+                                    <tr><td>2300</td><td>11:00 PM</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <h2>Why Does the Military Use 24-Hour Time?</h2>
+                    <p>The 24-hour clock system is essential for military operations because:</p>
+                    <ul>
+                        <li><strong>Eliminates Ambiguity:</strong> No confusion between AM and PM hours</li>
+                        <li><strong>Standardization:</strong> NATO forces worldwide use the same time format</li>
+                        <li><strong>Precision:</strong> Critical for coordinating operations across time zones</li>
+                        <li><strong>Documentation:</strong> Military logs and reports require precise timestamps</li>
+                    </ul>
+
+                    <h2>Common Military Time Expressions</h2>
+                    <p>Here are some common ways military personnel express time:</p>
+                    <ul>
+                        <li><strong>"Zero-six-hundred"</strong> = 0600 = 6:00 AM</li>
+                        <li><strong>"Twelve-hundred"</strong> = 1200 = 12:00 PM (Noon)</li>
+                        <li><strong>"Eighteen-thirty"</strong> = 1830 = 6:30 PM</li>
+                        <li><strong>"Twenty-three-fifty-nine"</strong> = 2359 = 11:59 PM</li>
+                    </ul>
+
+                    <h2>Quick Conversion Formula</h2>
+                    <p>Converting between standard and military time is easy with these formulas:</p>
+                    <ul>
+                        <li><strong>AM to Military:</strong> Same hour, remove the AM (except midnight = 0000)</li>
+                        <li><strong>PM to Military:</strong> Add 12 to the hour (except noon = 1200)</li>
+                        <li><strong>Military to AM (0000-1159):</strong> Same hour, add AM</li>
+                        <li><strong>Military to PM (1200-2359):</strong> Subtract 12, add PM</li>
+                    </ul>
+
+                    <h2>Frequently Asked Questions</h2>
+
+                    <div class="faq-item">
+                        <h3>Is 0000 midnight or noon?</h3>
+                        <p><strong>0000 is midnight</strong> (the start of a new day). Noon is <strong>1200</strong>. This is one of the most common military time conversions people need to remember.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>What is 12 PM in military time?</h3>
+                        <p><strong>12:00 PM (noon) is 1200</strong> in military time. Unlike other PM times where you add 12, noon stays as 1200.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>What is 12 AM in military time?</h3>
+                        <p><strong>12:00 AM (midnight) is 0000</strong> in military time. This is the start of the 24-hour cycle.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>What time is 1730?</h3>
+                        <p><strong>1730 military time = 5:30 PM</strong> standard time. Subtract 12 from 17 to get 5, then add PM.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>Why is military time called Zulu time?</h3>
+                        <p><strong>Zulu time (Z)</strong> refers to Coordinated Universal Time (UTC). In military operations, Zulu time provides a standard reference across all time zones. For example, "1500Z" means 3:00 PM UTC, regardless of your local time zone.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>Do civilians use military time?</h3>
+                        <p>Many organizations besides the military use the 24-hour clock, including <strong>hospitals, emergency services, transportation (aviation, rail), and international businesses</strong>. Most countries outside the United States also use the 24-hour clock as their primary time format.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>How do I quickly convert PM times to military?</h3>
+                        <p><strong>Add 12 to the hour</strong> and drop the PM. For example:</p>
+                        <ul>
+                            <li>2 PM → 2 + 12 = 14 → 1400</li>
+                            <li>5 PM → 5 + 12 = 17 → 1700</li>
+                            <li>9 PM → 9 + 12 = 21 → 2100</li>
+                        </ul>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>What is the difference between military time and 24-hour time?</h3>
+                        <p>They are <strong>the same thing</strong>. The 24-hour clock is the technical term, while "military time" is the common American term for it. In the U.S., the 24-hour clock is often called "military time" because the military is one of the primary users of this format.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>How do I convert military time to minutes past the hour?</h3>
+                        <p>Look at the last two digits of the military time. For example, <strong>1435</strong> has "35" as the minutes, meaning it's <strong>35 minutes past the hour</strong> (2:35 PM in standard time).</p>
+                    </div>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Military Life Tools</h4>
+                    <p>Free online tools for military personnel, veterans, and their families.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Tools</h4>
+                    <ul>
+                        <li><a href="/">ETS Countdown</a></li>
+                        <li><a href="/time-converter">Time Converter</a></li>
+                        <li><a href="/uniform-size">Uniform Size</a></li>
+                        <li><a href="/bah-calculator">BAH Calculator</a></li>
+                        <li><a href="/pay-calculator">Pay Calculator</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li><a href="https://www.dfas.mil/" target="_blank" rel="noopener">DFAS</a></li>
+                        <li><a href="https://www.va.gov/" target="_blank" rel="noopener">VA.gov</a></li>
+                        <li><a href="https://www.militaryonesource.mil/" target="_blank" rel="noopener">Military OneSource</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Military Life Tools. All rights reserved.</p>
+                <p class="disclaimer">This is not an official Department of Defense or U.S. Government website. Data sourced from official public sources.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/js/time-converter.js"></script>
+</body>
+</html>

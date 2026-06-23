@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Military Pay Calculator 2026 - Base Pay, BAH, BAS | Military Life Tools</title>
+    <meta name="description" content="Calculate your total 2026 military compensation including base pay, BAH, and BAS. Free online military pay calculator for all ranks and pay grades.">
+    <meta name="keywords" content="military pay calculator, military salary 2026, military base pay, military compensation calculator, military pay chart">
+    <link rel="canonical" href="https://militarylifetools.com/pay-calculator">
+    <link rel="stylesheet" href="/css/style.css">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Military Pay Calculator 2026",
+        "url": "https://militarylifetools.com/pay-calculator",
+        "description": "Calculate your total 2026 military compensation including base pay, BAH, and BAS",
+        "applicationCategory": "FinanceApplication",
+        "operatingSystem": "All",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        }
+    }
+    </script>
+</head>
+<body>
+    <header class="header">
+        <nav class="nav container">
+            <a href="/" class="logo">Military Life Tools</a>
+            <ul class="nav-links">
+                <li><a href="/">ETS Countdown</a></li>
+                <li><a href="/time-converter/">Time Converter</a></li>
+                <li><a href="/uniform-size/">Uniform Size</a></li>
+                <li><a href="/bah-calculator/">BAH Calculator</a></li>
+                <li><a href="/pay-calculator/" class="active">Pay Calculator</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main">
+        <section class="tool-section">
+            <div class="container">
+                <h1 class="tool-title">Military Pay Calculator 2026</h1>
+                <p class="tool-subtitle">Calculate your total monthly and annual military compensation</p>
+
+                <div class="card">
+                    <div class="pay-form">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="payGrade">Pay Grade / Rank</label>
+                                <select id="payGrade" class="select-full">
+                                    <option value="">Select rank...</option>
+                                    <optgroup label="Enlisted">
+                                        <option value="E1">E-1 (PVT/SR/Amn/Pvt)</option>
+                                        <option value="E2">E-2 (PV2/FA/A1C/PFC)</option>
+                                        <option value="E3">E-3 (PFC/SA/SrA/LCpl)</option>
+                                        <option value="E4">E-4 (SPC/Cpl/SN/Cpl)</option>
+                                        <option value="E5">E-5 (SGT/PO2/SSgt)</option>
+                                        <option value="E6">E-6 (SSG/PO1/TSgt)</option>
+                                        <option value="E7">E-7 (SFC/CPO/MSgt)</option>
+                                        <option value="E8">E-8 (MSG/1SG/SCPO)</option>
+                                        <option value="E9">E-9 (SGM/CSM/MCPO)</option>
+                                    </optgroup>
+                                    <optgroup label="Warrant Officers">
+                                        <option value="W1">W-1 (WO1)</option>
+                                        <option value="W2">W-2 (CW2)</option>
+                                        <option value="W3">W-3 (CW3)</option>
+                                        <option value="W4">W-4 (CW4)</option>
+                                        <option value="W5">W-5 (CW5)</option>
+                                    </optgroup>
+                                    <optgroup label="Officers">
+                                        <option value="O1">O-1 (2LT/ENS/2ndLt)</option>
+                                        <option value="O2">O-2 (1LT/LTJG/1stLt)</option>
+                                        <option value="O3">O-3 (CPT/LT/Capt)</option>
+                                        <option value="O4">O-4 (MAJ/LCDR/Maj)</option>
+                                        <option value="O5">O-5 (LTC/CDR/LtCol)</option>
+                                        <option value="O6">O-6 (COL/CAPT/Col)</option>
+                                        <option value="O7">O-7 (BG/RDML/BGen)</option>
+                                    </optgroup>
+                                    <optgroup label="Officers (Prior Enlisted)">
+                                        <option value="O1E">O-1E (2LT - prior enlisted)</option>
+                                        <option value="O2E">O-2E (1LT - prior enlisted)</option>
+                                        <option value="O3E">O-3E (CPT - prior enlisted)</option>
+                                    </optgroup>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="years">Years of Service</label>
+                                <select id="years" class="select-full">
+                                    <option value="0">2 or less</option>
+                                    <option value="2">Over 2</option>
+                                    <option value="3">Over 3</option>
+                                    <option value="4">Over 4</option>
+                                    <option value="6">Over 6</option>
+                                    <option value="8">Over 8</option>
+                                    <option value="10">Over 10</option>
+                                    <option value="12">Over 12</option>
+                                    <option value="14">Over 14</option>
+                                    <option value="16">Over 16</option>
+                                    <option value="18">Over 18</option>
+                                    <option value="20">Over 20</option>
+                                    <option value="22">Over 22</option>
+                                    <option value="24">Over 24</option>
+                                    <option value="26">Over 26</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="zipCode">ZIP Code (for BAH)</label>
+                                <input type="text" id="zipCode" placeholder="Enter ZIP code" class="input-field">
+                                <div id="zipSuggestions" class="suggestions hidden"></div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="dependency">Dependency Status</label>
+                                <select id="dependency" class="select-full">
+                                    <option value="with">With Dependents</option>
+                                    <option value="without">Without Dependents</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <button id="calculateBtn" class="btn btn-primary full-width">Calculate Total Pay</button>
+                    </div>
+
+                    <div id="payResult" class="pay-result hidden">
+                        <div class="result-header">
+                            <h3>Your 2026 Military Compensation</h3>
+                            <p id="resultRank" class="result-rank"></p>
+                        </div>
+
+                        <div class="pay-breakdown">
+                            <div class="pay-item main-pay">
+                                <span class="pay-label">Base Pay</span>
+                                <span id="basePay" class="pay-value">$0</span>
+                                <span class="pay-note">Monthly (taxable)</span>
+                            </div>
+
+                            <div class="pay-item allowance">
+                                <span class="pay-label">BAH</span>
+                                <span id="bahPay" class="pay-value">$0</span>
+                                <span class="pay-note">Monthly (tax-free)</span>
+                            </div>
+
+                            <div class="pay-item allowance">
+                                <span class="pay-label">BAS</span>
+                                <span id="basPay" class="pay-value">$0</span>
+                                <span class="pay-note">Monthly (tax-free)</span>
+                            </div>
+
+                            <div class="pay-item total">
+                                <span class="pay-label">Total Monthly</span>
+                                <span id="totalMonthly" class="pay-value">$0</span>
+                                <span class="pay-note">Before taxes</span>
+                            </div>
+
+                            <div class="pay-item total">
+                                <span class="pay-label">Total Annual</span>
+                                <span id="totalAnnual" class="pay-value">$0</span>
+                                <span class="pay-note">Estimated yearly</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="embed-section">
+                        <h3>Embed This Calculator</h3>
+                        <p>Copy the code below to embed this pay calculator on your website:</p>
+                        <div class="embed-code-wrapper">
+                            <code class="embed-code">&lt;iframe src="https://militarylifetools.com/pay-calculator" width="100%" height="700" frameborder="0"&gt;&lt;/iframe&gt;</code>
+                            <button class="btn btn-secondary copy-btn" onclick="copyEmbed(this)">Copy Code</button>
+                        </div>
+                    </div>
+                </div>
+
+                <article class="content-section">
+                    <h2>2026 Military Pay Overview</h2>
+                    <p>U.S. military service members receive a comprehensive compensation package that includes base pay, housing allowance (BAH), food allowance (BAS), and numerous other benefits. In 2026, military base pay increased by <strong>3.8%</strong> compared to 2025 rates.</p>
+
+                    <h2>Components of Military Pay</h2>
+                    <ul>
+                        <li><strong>Base Pay:</strong> The main component of military compensation, determined by pay grade and years of service. This is taxable income.</li>
+                        <li><strong>BAH (Basic Allowance for Housing):</strong> A tax-free allowance based on location, pay grade, and dependency status. Varies significantly by duty station.</li>
+                        <li><strong>BAS (Basic Allowance for Subsistence):</strong> A tax-free food allowance. For 2026: $452.56/month for enlisted, $311.68/month for officers.</li>
+                        <li><strong>Special Pay:</strong> Additional pay for hazardous duty, flight duty, submarine duty, etc.</li>
+                        <li><strong>Incentive Pay:</strong> Bonuses for reenlistment, critical skills, and other incentives.</li>
+                    </ul>
+
+                    <h2>2026 Military Pay Chart</h2>
+                    <p>Here are the 2026 monthly base pay rates for selected ranks:</p>
+
+                    <div class="conversion-table">
+                        <div class="table-wrapper">
+                            <table class="time-table">
+                                <thead>
+                                    <tr>
+                                        <th>Rank</th>
+                                        <th>2 or less years</th>
+                                        <th>Over 4 years</th>
+                                        <th>Over 10 years</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr><td>E-1</td><td>$2,077.20</td><td>$2,077.20</td><td>$2,077.20</td></tr>
+                                    <tr><td>E-3</td><td>$2,377.80</td><td>$2,592.90</td><td>$2,592.90</td></tr>
+                                    <tr><td>E-5</td><td>$2,849.40</td><td>$3,222.30</td><td>$3,606.00</td></tr>
+                                    <tr><td>E-7</td><td>$3,632.10</td><td>$4,041.00</td><td>$4,617.60</td></tr>
+                                    <tr><td>E-9</td><td>$5,673.30</td><td>$5,673.30</td><td>$5,965.20</td></tr>
+                                    <tr><td>O-1</td><td>$4,150.20</td><td>$4,150.20</td><td>$4,150.20</td></tr>
+                                    <tr><td>O-3</td><td>$5,222.40</td><td>$6,111.00</td><td>$7,028.40</td></tr>
+                                    <tr><td>O-5</td><td>$7,579.50</td><td>$8,469.30</td><td>$9,765.30</td></tr>
+                                    <tr><td>O-7</td><td>$11,343.60</td><td>$11,343.60</td><td>$11,343.60</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <h2>Understanding Your Military Paycheck</h2>
+                    <p>Your military pay is composed of several components, each with different tax implications:</p>
+                    <ul>
+                        <li><strong>Taxable:</strong> Base pay is subject to federal and state income taxes</li>
+                        <li><strong>Tax-Free:</strong> BAH and BAS are completely excluded from federal income tax</li>
+                        <li><strong>Combat Zone:</strong> If serving in a designated combat zone, all pay may be tax-free</li>
+                    </ul>
+
+                    <h2>Military Pay vs. Civilian Salary</h2>
+                    <p>When comparing military pay to civilian salaries, remember that military compensation includes:</p>
+                    <ul>
+                        <li><strong>Tax advantages:</strong> BAH and BAS are tax-free, making them worth more than equivalent taxable income</li>
+                        <li><strong>Healthcare:</strong> TRICARE covers active duty members and families at minimal cost</li>
+                        <li><strong>Retirement:</strong> Thrift Savings Plan (TSP) with government matching up to 5%</li>
+                        <li><strong>Education:</strong> GI Bill benefits worth up to $100,000+</li>
+                        <li><strong>Housing:</strong> On-base housing or BAH for off-base housing</li>
+                    </ul>
+
+                    <h2>Frequently Asked Questions</h2>
+
+                    <div class="faq-item">
+                        <h3>How much does an E-5 make in 2026?</h3>
+                        <p>An E-5 with less than 2 years of service earns <strong>$2,849.40/month</strong> in base pay. With BAH and BAS, total compensation can range from $4,500 to $7,000+ per month depending on location and dependency status.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>How much does an O-1 make in 2026?</h3>
+                        <p>A new O-1 (Second Lieutenant or Ensign) earns <strong>$4,150.20/month</strong> in base pay. With allowances, total compensation typically ranges from $6,000 to $9,000+ per month.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>Is military pay taxable?</h3>
+                        <p><strong>Base pay is taxable</strong> at both federal and state levels. However, <strong>BAH and BAS are tax-free</strong>, which significantly reduces your overall tax burden. Combat zone pay is also tax-free.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>How often do military members get paid?</h3>
+                        <p>Active duty military members are paid <strong>twice a month</strong> (1st and 15th). If the pay date falls on a weekend or holiday, you'll receive pay on the preceding business day.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>What is the 2026 military pay raise?</h3>
+                        <p>The 2026 military pay raise is <strong>3.8%</strong>, the largest increase in over 20 years. This raise applies to all pay grades and years of service.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>Do military members get paid for leave?</h3>
+                        <p>Yes! Military members earn <strong>2.5 days of paid leave per month</strong> (30 days per year). Leave is paid at your regular base pay rate.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>What is BAS?</h3>
+                        <p><strong>Basic Allowance for Subsistence (BAS)</strong> is a monthly food allowance. For 2026: Enlisted receive $452.56/month, Officers receive $311.68/month. BAS is tax-free.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>How is military retirement pay calculated?</h3>
+                        <p>Military retirement pay is calculated based on <strong>years of service and base pay</strong>. Under the legacy system, you receive 50% of base pay after 20 years. The Blended Retirement System (BRS) includes TSP matching.</p>
+                    </div>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Military Life Tools</h4>
+                    <p>Free online tools for military personnel, veterans, and their families.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Tools</h4>
+                    <ul>
+                        <li><a href="/">ETS Countdown</a></li>
+                        <li><a href="/time-converter/">Time Converter</a></li>
+                        <li><a href="/uniform-size/">Uniform Size</a></li>
+                        <li><a href="/bah-calculator/">BAH Calculator</a></li>
+                        <li><a href="/pay-calculator/">Pay Calculator</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li><a href="https://www.dfas.mil/" target="_blank" rel="noopener">DFAS</a></li>
+                        <li><a href="https://www.va.gov/" target="_blank" rel="noopener">VA.gov</a></li>
+                        <li><a href="https://www.militaryonesource.mil/" target="_blank" rel="noopener">Military OneSource</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Military Life Tools. All rights reserved.</p>
+                <p class="disclaimer">This is not an official Department of Defense or U.S. Government website. Data sourced from official public sources.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/js/pay.js"></script>
+</body>
+</html>

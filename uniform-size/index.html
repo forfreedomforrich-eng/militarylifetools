@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Military Uniform Size Converter - Find Your Perfect Fit | Military Life Tools</title>
+    <meta name="description" content="Find your military uniform size instantly. Convert between US, EU, and UK sizes for Army, Navy, Air Force, and Marine Corps uniforms. Free online tool.">
+    <meta name="keywords" content="military uniform size, army uniform size chart, military clothing size, uniform size converter, military dress size">
+    <link rel="canonical" href="https://militarylifetools.com/uniform-size">
+    <link rel="stylesheet" href="/css/style.css">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Military Uniform Size Converter",
+        "url": "https://militarylifetools.com/uniform-size",
+        "description": "Find your military uniform size instantly with our free converter",
+        "applicationCategory": "UtilityApplication",
+        "operatingSystem": "All",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        }
+    }
+    </script>
+</head>
+<body>
+    <header class="header">
+        <nav class="nav container">
+            <a href="/" class="logo">Military Life Tools</a>
+            <ul class="nav-links">
+                <li><a href="/">ETS Countdown</a></li>
+                <li><a href="/time-converter/">Time Converter</a></li>
+                <li><a href="/uniform-size/" class="active">Uniform Size</a></li>
+                <li><a href="/bah-calculator/">BAH Calculator</a></li>
+                <li><a href="/pay-calculator/">Pay Calculator</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main">
+        <section class="tool-section">
+            <div class="container">
+                <h1 class="tool-title">Military Uniform Size Converter</h1>
+                <p class="tool-subtitle">Find your perfect uniform size for any branch of service</p>
+
+                <div class="card">
+                    <div class="converter-grid">
+                        <div class="converter-panel">
+                            <h3>Select Your Branch</h3>
+                            <select id="branch" class="select-full">
+                                <option value="army">Army</option>
+                                <option value="navy">Navy</option>
+                                <option value="airforce">Air Force</option>
+                                <option value="marines">Marine Corps</option>
+                                <option value="coastguard">Coast Guard</option>
+                            </select>
+                        </div>
+
+                        <div class="converter-panel">
+                            <h3>Select Measurement Type</h3>
+                            <select id="measurementType" class="select-full">
+                                <option value="height">Height</option>
+                                <option value="chest">Chest</option>
+                                <option value="waist">Waist</option>
+                                <option value="neck">Neck</option>
+                                <option value="sleeve">Sleeve Length</option>
+                                <option value="inseam">Inseam</option>
+                            </select>
+                        </div>
+
+                        <div class="converter-panel">
+                            <h3>Enter Your Measurement</h3>
+                            <div class="input-row">
+                                <input type="number" id="measurement" placeholder="Enter value" class="input-field">
+                                <select id="unit" class="select-small">
+                                    <option value="inches">Inches</option>
+                                    <option value="cm">Centimeters</option>
+                                </select>
+                            </div>
+                            <button id="findSizeBtn" class="btn btn-primary full-width">Find My Size</button>
+                        </div>
+                    </div>
+
+                    <div id="sizeResult" class="size-result hidden">
+                        <div class="result-header">
+                            <h3>Your Recommended Size</h3>
+                        </div>
+                        <div class="size-display">
+                            <div class="size-main">
+                                <span class="size-label">Size</span>
+                                <span id="sizeValue" class="size-value">--</span>
+                            </div>
+                            <div class="size-details">
+                                <div class="detail-item">
+                                    <span class="detail-label">Army Alpha</span>
+                                    <span id="armyAlpha" class="detail-value">--</span>
+                                </div>
+                                <div class="detail-item">
+                                    <span class="detail-label">Army Numeric</span>
+                                    <span id="armyNumeric" class="detail-value">--</span>
+                                </div>
+                                <div class="detail-item">
+                                    <span class="detail-label">NATO Size</span>
+                                    <span id="natoSize" class="detail-value">--</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="size-charts">
+                        <h3>Army Uniform Size Chart (Coat)</h3>
+                        <div class="table-wrapper">
+                            <table class="size-table">
+                                <thead>
+                                    <tr>
+                                        <th>Size</th>
+                                        <th>Chest (inches)</th>
+                                        <th>Neck (inches)</th>
+                                        <th>Sleeve (inches)</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr><td>XS</td><td>33-34</td><td>14-14.5</td><td>32-33</td></tr>
+                                    <tr><td>S</td><td>35-37</td><td>15-15.5</td><td>33-34</td></tr>
+                                    <tr><td>M</td><td>38-40</td><td>16-16.5</td><td>34-35</td></tr>
+                                    <tr><td>L</td><td>42-44</td><td>17-17.5</td><td>35-36</td></tr>
+                                    <tr><td>XL</td><td>46-48</td><td>18-18.5</td><td>36-37</td></tr>
+                                    <tr><td>2XL</td><td>50-52</td><td>19-19.5</td><td>37-38</td></tr>
+                                    <tr><td>3XL</td><td>54-56</td><td>20-20.5</td><td>38-39</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <h3>Army Uniform Size Chart (Pants)</h3>
+                        <div class="table-wrapper">
+                            <table class="size-table">
+                                <thead>
+                                    <tr>
+                                        <th>Size</th>
+                                        <th>Waist (inches)</th>
+                                        <th>Inseam (inches)</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr><td>28R</td><td>28</td><td>30-31</td></tr>
+                                    <tr><td>30R</td><td>30</td><td>30-31</td></tr>
+                                    <tr><td>32R</td><td>32</td><td>30-31</td></tr>
+                                    <tr><td>34R</td><td>34</td><td>30-31</td></tr>
+                                    <tr><td>36R</td><td>36</td><td>30-31</td></tr>
+                                    <tr><td>38R</td><td>38</td><td>30-31</td></tr>
+                                    <tr><td>40R</td><td>40</td><td>30-31</td></tr>
+                                    <tr><td>42R</td><td>42</td><td>30-31</td></tr>
+                                    <tr><td>44R</td><td>44</td><td>30-31</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <h3>International Size Conversion</h3>
+                        <div class="table-wrapper">
+                            <table class="size-table">
+                                <thead>
+                                    <tr>
+                                        <th>US Size</th>
+                                        <th>EU Size</th>
+                                        <th>UK Size</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr><td>XS</td><td>44</td><td>34</td></tr>
+                                    <tr><td>S</td><td>46</td><td>36</td></tr>
+                                    <tr><td>M</td><td>48-50</td><td>38-40</td></tr>
+                                    <tr><td>L</td><td>52-54</td><td>42-44</td></tr>
+                                    <tr><td>XL</td><td>56-58</td><td>46-48</td></tr>
+                                    <tr><td>2XL</td><td>60-62</td><td>50-52</td></tr>
+                                    <tr><td>3XL</td><td>64-66</td><td>54-56</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="embed-section">
+                        <h3>Embed This Calculator</h3>
+                        <p>Copy the code below to embed this uniform size converter on your website:</p>
+                        <div class="embed-code-wrapper">
+                            <code class="embed-code">&lt;iframe src="https://militarylifetools.com/uniform-size" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;</code>
+                            <button class="btn btn-secondary copy-btn" onclick="copyEmbed(this)">Copy Code</button>
+                        </div>
+                    </div>
+                </div>
+
+                <article class="content-section">
+                    <h2>How to Find Your Military Uniform Size</h2>
+                    <p>Finding the right uniform size is essential for comfort and a professional appearance. Each branch of the U.S. military has specific sizing standards. Use our converter above to find your perfect fit based on your body measurements.</p>
+
+                    <h2>Military Uniform Measurement Guide</h2>
+                    <p>To get accurate measurements, use a flexible measuring tape and follow these guidelines:</p>
+                    <ul>
+                        <li><strong>Chest:</strong> Measure around the fullest part of your chest, keeping the tape horizontal</li>
+                        <li><strong>Waist:</strong> Measure around your natural waistline, typically at the navel</li>
+                        <li><strong>Neck:</strong> Measure around the base of your neck where a collar would sit</li>
+                        <li><strong>Sleeve:</strong> Measure from the center back of your neck, along your shoulder, and down to your wrist</li>
+                        <li><strong>Inseam:</strong> Measure from the crotch to the bottom of your ankle</li>
+                    </ul>
+
+                    <h2>Branch-Specific Sizing</h2>
+                    <p>Each military branch has its own uniform sizing standards:</p>
+                    <ul>
+                        <li><strong>Army:</strong> Uses alpha sizing (XS, S, M, L, XL) for coats and numeric sizing for pants</li>
+                        <li><strong>Navy:</strong> Similar to Army with slight variations in measurements</li>
+                        <li><strong>Air Force:</strong> Uses the same sizing system as Army</li>
+                        <li><strong>Marine Corps:</strong> Slightly different sizing, especially for dress uniforms</li>
+                        <li><strong>Coast Guard:</strong> Follows Navy sizing standards</li>
+                    </ul>
+
+                    <h2>Tips for Getting the Right Fit</h2>
+                    <p>When ordering uniforms, keep these tips in mind:</p>
+                    <ul>
+                        <li><strong>When in doubt, size up:</strong> You can always have a uniform tailored smaller, but it's harder to let it out</li>
+                        <li><strong>Consider layering:</strong> If you'll wear thermal undergarments, size up accordingly</li>
+                        <li><strong>Check the return policy:</strong> Make sure you can exchange if the size doesn't fit</li>
+                        <li><strong>Try before you buy:</strong> If possible, try on a uniform before purchasing</li>
+                        <li><strong>Ask your unit:</strong> Your supply sergeant can help with sizing questions</li>
+                    </ul>
+
+                    <h2>Frequently Asked Questions</h2>
+
+                    <div class="faq-item">
+                        <h3>How do I measure my chest for a military uniform?</h3>
+                        <p>Wrap the measuring tape around the fullest part of your chest, under your armpits. Keep the tape horizontal and snug but not tight. Breathe normally and take the measurement at the end of a normal exhalation.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>What size uniform should I get if I'm between sizes?</h3>
+                        <p>Generally, <strong>size up</strong> if you're between sizes. Military uniforms are designed to be worn tucked in, and a slightly larger size can be tailored more easily than a smaller one.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>Do all branches use the same uniform sizes?</h3>
+                        <p>No, each branch has slightly different sizing standards. While the general sizing system (XS, S, M, L, XL) is similar, the actual measurements may vary slightly between branches.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>How do I convert my regular clothes size to military uniform size?</h3>
+                        <p>Military uniform sizes typically run similar to regular clothing sizes, but it's best to measure yourself and compare to the size chart. Military uniforms are designed for a more fitted, professional appearance.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>Where can I buy military uniforms?</h3>
+                        <p>Military uniforms can be purchased from the Post Exchange (PX), Navy Exchange (NEX), online military surplus stores, or authorized military uniform suppliers. Some uniforms are issued at no cost during basic training.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>How often should I replace my military uniform?</h3>
+                        <p>Military uniforms should be replaced when they show signs of wear, fading, or damage. Most service members replace their uniforms every 2-3 years, or as needed to maintain a professional appearance.</p>
+                    </div>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Military Life Tools</h4>
+                    <p>Free online tools for military personnel, veterans, and their families.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Tools</h4>
+                    <ul>
+                        <li><a href="/">ETS Countdown</a></li>
+                        <li><a href="/time-converter/">Time Converter</a></li>
+                        <li><a href="/uniform-size/">Uniform Size</a></li>
+                        <li><a href="/bah-calculator/">BAH Calculator</a></li>
+                        <li><a href="/pay-calculator/">Pay Calculator</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li><a href="https://www.dfas.mil/" target="_blank" rel="noopener">DFAS</a></li>
+                        <li><a href="https://www.va.gov/" target="_blank" rel="noopener">VA.gov</a></li>
+                        <li><a href="https://www.militaryonesource.mil/" target="_blank" rel="noopener">Military OneSource</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Military Life Tools. All rights reserved.</p>
+                <p class="disclaimer">This is not an official Department of Defense or U.S. Government website. Data sourced from official public sources.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/js/uniform.js"></script>
+</body>
+</html>

@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BAH Calculator 2026 - Basic Allowance for Housing Rates | Military Life Tools</title>
+    <meta name="description" content="Calculate your 2026 Basic Allowance for Housing (BAH) rate instantly. Look up BAH by ZIP code, pay grade, and dependency status. Free online calculator.">
+    <meta name="keywords" content="BAH calculator, basic allowance for housing, military housing allowance, BAH rates 2026, military pay calculator">
+    <link rel="canonical" href="https://militarylifetools.com/bah-calculator">
+    <link rel="stylesheet" href="/css/style.css">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "BAH Calculator 2026",
+        "url": "https://militarylifetools.com/bah-calculator",
+        "description": "Calculate your 2026 Basic Allowance for Housing rate by ZIP code, pay grade, and dependency status",
+        "applicationCategory": "FinanceApplication",
+        "operatingSystem": "All",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        }
+    }
+    </script>
+</head>
+<body>
+    <header class="header">
+        <nav class="nav container">
+            <a href="/" class="logo">Military Life Tools</a>
+            <ul class="nav-links">
+                <li><a href="/">ETS Countdown</a></li>
+                <li><a href="/time-converter/">Time Converter</a></li>
+                <li><a href="/uniform-size/">Uniform Size</a></li>
+                <li><a href="/bah-calculator/" class="active">BAH Calculator</a></li>
+                <li><a href="/pay-calculator/">Pay Calculator</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main">
+        <section class="tool-section">
+            <div class="container">
+                <h1 class="tool-title">BAH Calculator 2026</h1>
+                <p class="tool-subtitle">Calculate your Basic Allowance for Housing based on duty station, pay grade, and dependency status</p>
+
+                <div class="card">
+                    <div class="bah-form">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="zipCode">ZIP Code / Installation</label>
+                                <input type="text" id="zipCode" placeholder="Enter ZIP code or base name" class="input-field">
+                                <div id="zipSuggestions" class="suggestions hidden"></div>
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="payGrade">Pay Grade</label>
+                                <select id="payGrade" class="select-full">
+                                    <option value="">Select rank...</option>
+                                    <optgroup label="Enlisted">
+                                        <option value="E1">E-1 (PVT/SR/Amn/Pvt)</option>
+                                        <option value="E2">E-2 (PV2/FA/A1C/PFC)</option>
+                                        <option value="E3">E-3 (PFC/SA/SrA/LCpl)</option>
+                                        <option value="E4">E-4 (SPC/Cpl/SN/Cpl)</option>
+                                        <option value="E5">E-5 (SGT/PO2/SSgt)</option>
+                                        <option value="E6">E-6 (SSG/PO1/TSgt)</option>
+                                        <option value="E7">E-7 (SFC/CPO/MSgt)</option>
+                                        <option value="E8">E-8 (MSG/1SG/SCPO)</option>
+                                        <option value="E9">E-9 (SGM/CSM/MCPO)</option>
+                                    </optgroup>
+                                    <optgroup label="Warrant Officers">
+                                        <option value="W1">W-1 (WO1)</option>
+                                        <option value="W2">W-2 (CW2)</option>
+                                        <option value="W3">W-3 (CW3)</option>
+                                        <option value="W4">W-4 (CW4)</option>
+                                        <option value="W5">W-5 (CW5)</option>
+                                    </optgroup>
+                                    <optgroup label="Officers">
+                                        <option value="O1">O-1 (2LT/ENS/2ndLt)</option>
+                                        <option value="O2">O-2 (1LT/LTJG/1stLt)</option>
+                                        <option value="O3">O-3 (CPT/LT/Capt)</option>
+                                        <option value="O4">O-4 (MAJ/LCDR/Maj)</option>
+                                        <option value="O5">O-5 (LTC/CDR/LtCol)</option>
+                                        <option value="O6">O-6 (COL/CAPT/Col)</option>
+                                        <option value="O7">O-7 (BG/RDML/BGen)</option>
+                                    </optgroup>
+                                    <optgroup label="Officers (Prior Enlisted)">
+                                        <option value="O1E">O-1E (2LT - prior enlisted)</option>
+                                        <option value="O2E">O-2E (1LT - prior enlisted)</option>
+                                        <option value="O3E">O-3E (CPT - prior enlisted)</option>
+                                    </optgroup>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="dependency">Dependency Status</label>
+                                <select id="dependency" class="select-full">
+                                    <option value="with">With Dependents</option>
+                                    <option value="without">Without Dependents</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <button id="calculateBtn" class="btn btn-primary full-width">Calculate BAH</button>
+                    </div>
+
+                    <div id="bahResult" class="bah-result hidden">
+                        <div class="result-header">
+                            <h3>Your 2026 BAH Rate</h3>
+                            <p id="resultLocation" class="result-location"></p>
+                        </div>
+                        <div class="rate-display">
+                            <div class="rate-main">
+                                <span class="rate-label">Monthly BAH</span>
+                                <span id="monthlyRate" class="rate-value">$0</span>
+                            </div>
+                            <div class="rate-details">
+                                <div class="rate-item">
+                                    <span class="rate-item-label">Annual Value</span>
+                                    <span id="annualRate" class="rate-item-value">$0</span>
+                                </div>
+                                <div class="rate-item">
+                                    <span class="rate-item-label">Tax-Free</span>
+                                    <span id="taxFree" class="rate-item-value">Yes</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="embed-section">
+                        <h3>Embed This Calculator</h3>
+                        <p>Copy the code below to embed this BAH calculator on your website:</p>
+                        <div class="embed-code-wrapper">
+                            <code class="embed-code">&lt;iframe src="https://militarylifetools.com/bah-calculator" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;</code>
+                            <button class="btn btn-secondary copy-btn" onclick="copyEmbed(this)">Copy Code</button>
+                        </div>
+                    </div>
+                </div>
+
+                <article class="content-section">
+                    <h2>What is BAH (Basic Allowance for Housing)?</h2>
+                    <p>Basic Allowance for Housing (BAH) is a monthly tax-free allowance paid to U.S. military service members who are not assigned government-provided housing. BAH is designed to offset the cost of housing in the civilian market and is based on three factors:</p>
+                    <ul>
+                        <li><strong>Duty Station Location:</strong> Your ZIP code determines your Military Housing Area (MHA)</li>
+                        <li><strong>Pay Grade:</strong> Higher ranks receive higher BAH rates</li>
+                        <li><strong>Dependency Status:</strong> Service members with dependents receive higher rates</li>
+                    </ul>
+
+                    <h2>2026 BAH Rate Changes</h2>
+                    <p>BAH rates for 2026 have been updated to reflect current housing market conditions. The average BAH increase for 2026 is approximately 5.4% compared to 2025 rates. However, rates vary significantly by location:</p>
+                    <ul>
+                        <li><strong>Highest BAH areas:</strong> San Francisco, New York City, San Jose, Boston, and Hawaii</li>
+                        <li><strong>Lowest BAH areas:</strong> Rural areas in the Midwest and South</li>
+                        <li><strong>Rate protection:</strong> Your BAH will not decrease as long as you maintain uninterrupted eligibility at the same duty station</li>
+                    </ul>
+
+                    <h2>BAH Rates by State</h2>
+                    <p>BAH rates vary significantly by state and even within the same metropolitan area. Here are some examples for an E-5 with dependents in 2026:</p>
+
+                    <div class="conversion-table">
+                        <div class="table-wrapper">
+                            <table class="time-table">
+                                <thead>
+                                    <tr>
+                                        <th>Location</th>
+                                        <th>E-5 w/ Dependents</th>
+                                        <th>E-5 w/o Dependents</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr><td>San Diego, CA</td><td>$3,975</td><td>$3,321</td></tr>
+                                    <tr><td>San Francisco, CA</td><td>$4,992</td><td>$4,149</td></tr>
+                                    <tr><td>New York City, NY</td><td>$5,073</td><td>$4,215</td></tr>
+                                    <tr><td>Boston, MA</td><td>$4,632</td><td>$3,849</td></tr>
+                                    <tr><td>Washington, DC</td><td>$3,873</td><td>$3,231</td></tr>
+                                    <tr><td>Fort Hood, TX</td><td>$1,806</td><td>$1,527</td></tr>
+                                    <tr><td>Fort Bragg, NC</td><td>$1,806</td><td>$1,527</td></tr>
+                                    <tr><td>Fort Riley, KS</td><td>$1,260</td><td>$1,083</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <h2>How to Calculate Your BAH</h2>
+                    <p>Follow these steps to calculate your BAH rate:</p>
+                    <ul>
+                        <li><strong>Step 1:</strong> Enter your duty station ZIP code or installation name</li>
+                        <li><strong>Step 2:</strong> Select your pay grade (E-1 through O-7)</li>
+                        <li><strong>Step 3:</strong> Choose your dependency status (with or without dependents)</li>
+                        <li><strong>Step 4:</strong> Click "Calculate BAH" to see your monthly and annual rate</li>
+                    </ul>
+
+                    <h2>BAH Component Breakdown</h2>
+                    <p>Your BAH rate is calculated to cover approximately 95% of the median housing costs in your area. The rate includes:</p>
+                    <ul>
+                        <li><strong>Rent:</strong> The primary component based on median rental prices</li>
+                        <li><strong>Utilities:</strong> Average utility costs for the area</li>
+                        <li><strong>Renter's Insurance:</strong> Estimated cost of renter's insurance</li>
+                    </ul>
+
+                    <h2>BAH vs. OHA</h2>
+                    <p>There are important differences between BAH and OHA (Overseas Housing Allowance):</p>
+                    <ul>
+                        <li><strong>BAH:</strong> Fixed allowance based on location, rank, and dependency status (CONUS)</li>
+                        <li><strong>OHA:</strong> Based on actual rent paid, with caps (OCONUS)</li>
+                        <li><strong>Key difference:</strong> You can keep unused BAH, but OHA is limited to actual rent</li>
+                    </ul>
+
+                    <h2>Frequently Asked Questions</h2>
+
+                    <div class="faq-item">
+                        <h3>When do 2026 BAH rates take effect?</h3>
+                        <p>The 2026 BAH tables took effect <strong>January 1, 2026</strong>. If the published rate increased for your MHA, you receive the increase automatically. If the rate decreased, rate protection may keep you at the prior higher amount.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>How do I find my exact BAH rate?</h3>
+                        <p>Use the official <strong>DTMO BAH Rate Lookup</strong> at travel.dod.mil. Enter your duty station ZIP code, pay grade, and dependency status to pull the exact monthly amount for your MHA.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>What is rate protection?</h3>
+                        <p><strong>Individual Rate Protection</strong> means your BAH will not decrease as long as you maintain uninterrupted eligibility at the same duty station. Your rate only changes if you PCS, are demoted, or your dependency status changes.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>Can I keep unused BAH?</h3>
+                        <p><strong>Yes!</strong> BAH is a fixed allowance. If you find housing below your BAH rate or live with roommates, you keep the difference tax-free.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>Does BAH count as taxable income?</h3>
+                        <p><strong>No.</strong> BAH is completely excluded from federal income tax, FICA, and most state income taxes. This makes BAH more valuable than equivalent taxable income.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>How does PCS affect my BAH?</h3>
+                        <p>When you PCS to a new duty station, your BAH resets to the current published rate for your new location, rank, and dependency status. If the new rate is lower than your previous rate, rate protection does not transfer.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3>What is the difference between BAH and BAS?</h3>
+                        <p><strong>BAH</strong> is housing allowance based on location. <strong>BAS</strong> (Basic Allowance for Subsistence) is a flat monthly rate for food, regardless of location. BAS rates for 2026 are $452.56 for enlisted and $311.68 for officers.</p>
+                    </div>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Military Life Tools</h4>
+                    <p>Free online tools for military personnel, veterans, and their families.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Tools</h4>
+                    <ul>
+                        <li><a href="/">ETS Countdown</a></li>
+                        <li><a href="/time-converter/">Time Converter</a></li>
+                        <li><a href="/uniform-size/">Uniform Size</a></li>
+                        <li><a href="/bah-calculator/">BAH Calculator</a></li>
+                        <li><a href="/pay-calculator/">Pay Calculator</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li><a href="https://www.dfas.mil/" target="_blank" rel="noopener">DFAS</a></li>
+                        <li><a href="https://www.va.gov/" target="_blank" rel="noopener">VA.gov</a></li>
+                        <li><a href="https://www.militaryonesource.mil/" target="_blank" rel="noopener">Military OneSource</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Military Life Tools. All rights reserved.</p>
+                <p class="disclaimer">This is not an official Department of Defense or U.S. Government website. Data sourced from official public sources.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/js/bah.js"></script>
+</body>
+</html>
