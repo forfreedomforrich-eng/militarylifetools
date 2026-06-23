@@ -513,6 +513,18 @@ footer {
 
     .converter-grid {
         grid-template-columns: 1fr;
+        overflow: hidden;
+    }
+
+    .converter-grid .card {
+        overflow: hidden;
+        padding: 1rem;
+    }
+
+    .converter-grid .card select {
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
     }
 
     .converter-divider {
@@ -534,6 +546,12 @@ footer {
     .time-input-group {
         flex-wrap: wrap;
         justify-content: center;
+        gap: 0.5rem;
+    }
+
+    .time-input-group select {
+        max-width: 100px;
+        box-sizing: border-box;
     }
 
     .size-display {
@@ -557,6 +575,15 @@ footer {
 
     .reference-grid {
         grid-template-columns: 1fr;
+    }
+
+    form {
+        overflow: hidden;
+    }
+
+    select, input[type="text"], input[type="number"] {
+        max-width: 100%;
+        box-sizing: border-box;
     }
 }
 
