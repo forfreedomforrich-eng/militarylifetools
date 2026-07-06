@@ -12,9 +12,9 @@
     {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "Military Pay Calculator 2026",
+        "name": "Military Pay Calculator",
         "url": "https://militarylifetools.com/pay-calculator",
-        "description": "Calculate your total 2026 military compensation including base pay, BAH, and BAS",
+        "description": "Calculate your total military compensation including base pay, BAH, and BAS",
         "applicationCategory": "FinanceApplication",
         "operatingSystem": "All",
         "offers": {
@@ -22,6 +22,78 @@
             "price": "0",
             "priceCurrency": "USD"
         }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How much does an E-5 make in 2026?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "An E-5 with less than 2 years of service earns $2,849.40/month in base pay. With BAH and BAS, total compensation can range from $4,500 to $7,000+ per month depending on location and dependency status."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much does an O-1 make in 2026?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "A new O-1 (Second Lieutenant or Ensign) earns $4,150.20/month in base pay. With allowances, total compensation typically ranges from $6,000 to $9,000+ per month."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is military pay taxable?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Base pay is taxable at both federal and state levels. However, BAH and BAS are tax-free, which significantly reduces your overall tax burden. Combat zone pay is also tax-free."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How often do military members get paid?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Active duty military members are paid twice a month (1st and 15th). If the pay date falls on a weekend or holiday, you'll receive pay on the preceding business day."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the 2026 military pay raise?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The 2026 military pay raise is 3.8%, the largest increase in over 20 years. This raise applies to all pay grades and years of service."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do military members get paid for leave?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes! Military members earn 2.5 days of paid leave per month (30 days per year). Leave is paid at your regular base pay rate."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is BAS?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Basic Allowance for Subsistence (BAS) is a monthly food allowance. For 2026: Enlisted receive $452.56/month, Officers receive $311.68/month. BAS is tax-free."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How is military retirement pay calculated?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Military retirement pay is calculated based on years of service and base pay. Under the legacy system, you receive 50% of base pay after 20 years. The Blended Retirement System (BRS) includes TSP matching."
+                }
+            }
+        ]
     }
     </script>
     <meta name="google-site-verification" content="iepHyaZDEGkCra5Kge0jFWM0VhxzXDWzgHQkIWG-FA8" />
@@ -46,6 +118,7 @@
                 <li><a href="/uniform-size/">Uniform Size</a></li>
                 <li><a href="/bah-calculator/">BAH Calculator</a></li>
                 <li><a href="/pay-calculator/" class="active">Pay Calculator</a></li>
+                <li><a href="/blog">Blog</a></li>
             </ul>
         </nav>
     </header>
@@ -190,6 +263,16 @@
                             <button class="btn btn-secondary copy-btn" onclick="copyEmbed(this)">Copy Code</button>
                         </div>
                     </div>
+
+                    <div class="share-section">
+                        <h3>Share This Tool</h3>
+                        <div class="share-buttons">
+                            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmilitarylifetools.com%2Fpay-calculator" target="_blank" rel="noopener noreferrer" class="share-btn share-facebook" title="Share on Facebook">Facebook</a>
+                            <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fmilitarylifetools.com%2Fpay-calculator&text=Military%20Pay%20Calculator%202026" target="_blank" rel="noopener noreferrer" class="share-btn share-twitter" title="Share on X">X</a>
+                            <a href="https://reddit.com/submit?url=https%3A%2F%2Fmilitarylifetools.com%2Fpay-calculator&title=Military%20Pay%20Calculator%202026" target="_blank" rel="noopener noreferrer" class="share-btn share-reddit" title="Share on Reddit">Reddit</a>
+                            <button class="share-btn share-copy" onclick="copyShareLink(this)" title="Copy link">Copy Link</button>
+                        </div>
+                    </div>
                 </div>
 
                 <article class="content-section">
@@ -331,6 +414,7 @@
     </footer>
 
     <script src="/js/pay.js"></script>
+    <script src="/js/share.js"></script>
 </body>
 </html>
 
