@@ -1,2 +1,15 @@
+﻿# Secrets
 .env
+*.local
 
+# IndexNow verification key (regenerate via wrangler+INDEXNOW_KEY in .env if needed)
+/aaab226be6c9421c8bd694d329223940.txt
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Node
+node_modules/
