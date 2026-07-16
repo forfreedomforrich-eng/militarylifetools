@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Military Leave Calculator 2026 - Estimate Leave Balance | Military Life Tools</title>
+    <meta name="description" content="Estimate your military leave balance with our free leave calculator. Plan leave days, annual accrual, and ETS leave using simple inputs.">
+    <meta name="keywords" content="military leave calculator, leave balance calculator, military leave days, military annual leave, military leave tracker">
+    <link rel="canonical" href="https://militarylifetools.com/leave-calculator/">
+    <link rel="stylesheet" href="/css/v2.css">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Military Leave Calculator",
+        "url": "https://militarylifetools.com/leave-calculator/",
+        "description": "Estimate military annual leave balance, accrual, and remaining leave for planning purposes.",
+        "applicationCategory": "FinanceApplication",
+        "operatingSystem": "All",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How much leave do military members earn?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Most active-duty service members earn leave at a rate of 2.5 days per month, which is 30 days per year. This calculator provides an estimate for planning purposes."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can this calculator replace official leave records?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No. This tool is for planning and educational use only. Your official leave balance should be verified through your unit, leave and earnings statement, or personnel system."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I use the leave calculator before ETS?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Enter your current balance, leave used, and expected months remaining. The calculator estimates your projected balance so you can plan terminal leave or transition time."
+                }
+            }
+        ]
+    }
+    </script>
+    <meta name="google-site-verification" content="iepHyaZDEGkCra5Kge0jFWM0VhxzXDWzgHQkIWG-FA8" />
+    <script data-cfasync="false" src="https://cmp.gatekeeperconsent.com/min.js"></script>
+    <script data-cfasync="false" src="https://the.gatekeeperconsent.com/cmp.min.js"></script>
+    <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
+    <script>
+        window.ezstandalone = window.ezstandalone || {};
+        ezstandalone.cmd = ezstandalone.cmd || [];
+    </script>
+    <script src="//ezoicanalytics.com/analytics.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5JYW9XD3MZ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-5JYW9XD3MZ');
+    </script>
+</head>
+<body>
+    <header class="header">
+        <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox" aria-label="Toggle navigation menu">
+        <label for="nav-toggle" class="nav-toggle-icon" aria-hidden="true">&#9776;</label>
+        <nav class="nav container">
+            <a href="/" class="logo">Military Life Tools</a>
+            <ul class="nav-links">
+                <li><a href="/">ETS</a></li>
+                <li><a href="/time-converter/">Time</a></li>
+                <li><a href="/uniform-size/">Uniform</a></li>
+                <li><a href="/bah-calculator/">BAH</a></li>
+                <li><a href="/pay-calculator/">Pay</a></li>
+                <li><a href="/leave-calculator/" class="active">Leave</a></li>
+                <li><a href="/va-disability-calculator/">VA</a></li>
+                <li><a href="/retirement-calculator/">Retire</a></li>
+                <li><a href="/gi-bill-calculator/">GI Bill</a></li>
+                <li><a href="/tsp-withdrawal-calculator/">TSP</a></li>
+                <li><a href="/blog">Blog</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="ad-slot ad-top">
+        <span id="ezoic-ad-placeholder-top"></span>
+    </div>
+
+    <main class="main">
+        <section class="tool-section">
+            <div class="container">
+                <h1 class="tool-title">Military Leave Calculator</h1>
+                <p class="tool-subtitle">Estimate your available leave balance for planning your next PCS, deployment, or ETS timeline.</p>
+
+                <div class="card">
+                    <div class="pay-form">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="currentBalance">Current Leave Balance (days)</label>
+                                <input type="number" id="currentBalance" class="input-field" min="0" step="0.5" value="12">
+                            </div>
+                            <div class="form-group">
+                                <label for="usedThisYear">Leave Used This Year (days)</label>
+                                <input type="number" id="usedThisYear" class="input-field" min="0" step="0.5" value="5">
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="monthsRemaining">Months Remaining This Year</label>
+                                <input type="number" id="monthsRemaining" class="input-field" min="0" max="12" step="1" value="6">
+                            </div>
+                            <div class="form-group">
+                                <label for="leaveRate">Accrual Rate</label>
+                                <select id="leaveRate" class="select-full">
+                                    <option value="2.5">2.5 days/month (standard active-duty)</option>
+                                    <option value="0">0 days/month (not active duty)</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <button id="calculateLeaveBtn" class="btn btn-primary full-width" onclick="calculateLeave()">Estimate Leave</button>
+                    </div>
+
+                    <div id="leaveResult" class="bah-result">
+                        <div class="result-header">
+                            <h3>Your Estimated Leave Summary</h3>
+                            <p class="result-location">Planning estimate only</p>
+                        </div>
+                        <div class="rate-display">
+                            <div class="rate-main">
+                                <span class="rate-label">Projected Leave Balance</span>
+                                <span id="projectedBalance" class="rate-value">0.0</span>
+                            </div>
+                            <div class="rate-details">
+                                <div class="rate-item">
+                                    <span class="rate-item-label">Leave Earned This Year</span>
+                                    <span id="earnedThisYear" class="rate-item-value">0.0</span>
+                                </div>
+                                <div class="rate-item">
+                                    <span class="rate-item-label">Estimated Leave Left</span>
+                                    <span id="estimatedLeft" class="rate-item-value">0.0</span>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="date-format-hint">This estimate uses a standard accrual rate of 2.5 days per month. Your official balance may differ based on your branch, orders, and leave policy.</p>
+                    </div>
+
+                    <div class="share-section">
+                        <h3>Share This Tool</h3>
+                        <div class="share-buttons">
+                            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmilitarylifetools.com%2Fleave-calculator%2F" target="_blank" rel="noopener noreferrer" class="share-btn share-facebook" title="Share on Facebook">Facebook</a>
+                            <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fmilitarylifetools.com%2Fleave-calculator%2F&text=Military%20Leave%20Calculator" target="_blank" rel="noopener noreferrer" class="share-btn share-twitter" title="Share on X">X</a>
+                            <a href="https://reddit.com/submit?url=https%3A%2F%2Fmilitarylifetools.com%2Fleave-calculator%2F&title=Military%20Leave%20Calculator" target="_blank" rel="noopener noreferrer" class="share-btn share-reddit" title="Share on Reddit">Reddit</a>
+                            <button class="share-btn share-copy" onclick="copyShareLink(this)" title="Copy link">Copy Link</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="ad-slot ad-top">
+                    <span id="ezoic-ad-placeholder-mid-1"></span>
+                </div>
+
+                <section class="amazon-picks" aria-label="Recommended travel essentials for military members">
+                    <div class="amazon-picks-header">
+                        <h2>Military travel and leave essentials</h2>
+                        <p>Useful products for leave, PCS prep, and travel planning.</p>
+                    </div>
+                    <div class="amazon-grid">
+                        <div class="amazon-card"><div class="amazon-card-img">🧳</div><h3 class="amazon-card-title">Carry-On Luggage Set</h3><div class="amazon-card-price">$49.99 – $129.99</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=carry+on+luggage+set&i=travel&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                        <div class="amazon-card"><div class="amazon-card-img">🧠</div><h3 class="amazon-card-title">Travel Organizer Cubes</h3><div class="amazon-card-price">$12.99 – $29.99</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=travel+organizer+cubes&i=home&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                        <div class="amazon-card"><div class="amazon-card-img">🔒</div><h3 class="amazon-card-title">Portable Document Organizer</h3><div class="amazon-card-price">$19.99 – $39.99</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=document+organizer+travel&i=officeproducts&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                    </div>
+                    <p class="amazon-picks-footer">As an Amazon Associates, we earn from qualifying purchases.</p>
+                </section>
+
+                <article class="content-section">
+                    <div class="highlight-box" style="margin-bottom: 1.25rem; padding: 1rem; border-left: 4px solid var(--accent-color); background: #f8fbff;">
+                        <strong>Related guide:</strong> Read our <a href="/blog/military-leave-calculator-guide/">military leave calculator guide</a> for a fuller explanation of how leave works before PCS, ETS, and deployment.
+                    </div>
+                    <h2>What is military leave?</h2>
+                    <p>Military leave is the paid time off service members can earn while on active duty. Most members earn annual leave at a rate of 2.5 days per month, which adds up to 30 days per year. This leave is often used for travel, rest, PCS transitions, or planned time off before ETS.</p>
+
+                    <h2>Why this tool matters</h2>
+                    <p>Many service members search for terms like “military leave calculator,” “leave balance calculator,” or “how many leave days do I have left?” before a PCS, deployment, or separation. This page is designed to give a quick planning estimate and help people understand how leave accrues over time.</p>
+
+                    <h2>How to use it</h2>
+                    <ul>
+                        <li>Enter your current leave balance.</li>
+                        <li>Input leave already used this year.</li>
+                        <li>Select months remaining in the year.</li>
+                        <li>Review the projected balance and plan ahead.</li>
+                    </ul>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        function calculateLeave() {
+            const currentBalance = parseFloat(document.getElementById('currentBalance').value) || 0;
+            const usedThisYear = parseFloat(document.getElementById('usedThisYear').value) || 0;
+            const monthsRemaining = parseFloat(document.getElementById('monthsRemaining').value) || 0;
+            const leaveRate = parseFloat(document.getElementById('leaveRate').value) || 0;
+
+            const earnedThisYear = monthsRemaining * leaveRate;
+            const projectedBalance = currentBalance + earnedThisYear - usedThisYear;
+            const estimatedLeft = Math.max(projectedBalance, 0);
+
+            document.getElementById('earnedThisYear').textContent = earnedThisYear.toFixed(1) + ' days';
+            document.getElementById('projectedBalance').textContent = projectedBalance.toFixed(1) + ' days';
+            document.getElementById('estimatedLeft').textContent = estimatedLeft.toFixed(1) + ' days';
+        }
+
+        function copyShareLink(button) {
+            const url = window.location.href;
+            navigator.clipboard.writeText(url).then(() => {
+                const originalText = button.textContent;
+                button.textContent = 'Copied!';
+                setTimeout(() => {
+                    button.textContent = originalText;
+                }, 1500);
+            });
+        }
+
+        calculateLeave();
+    </script>
+</body>
+</html>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ï»¿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,6 +19,12 @@
     </script>
     <script src="//ezoicanalytics.com/analytics.js"></script>
     <style>
+        :root {
+            --primary-color: #1a3a5c;
+            --accent-color: #2c5f8a;
+            --secondary-color: #c9a227;
+            --light-bg: #f5f7fa;
+        }
         .blog-content { max-width: 800px; margin: 0 auto; padding: 2rem; }
         .blog-content h1 { font-size: 2.2rem; color: var(--primary-color); margin-bottom: 1rem; line-height: 1.3; }
         .blog-meta { color: #666; font-size: 0.95rem; margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; }
@@ -32,8 +38,22 @@
         .card-comparison th { background: var(--primary-color); color: white; padding: 1rem; text-align: left; }
         .card-comparison td { padding: 0.8rem 1rem; border-bottom: 1px solid #eee; }
         .card-comparison tr:hover { background: var(--light-bg); }
-        .highlight-box { background: linear-gradient(135deg, var(--primary-color), var(--accent-color)); color: white; padding: 1.5rem; border-radius: 10px; margin: 1.5rem 0; }
-        .highlight-box h3 { color: var(--secondary-color); margin-top: 0; }
+        .highlight-box { 
+            background: linear-gradient(135deg, #1a3a5c, #2c5f8a); 
+            color: white; 
+            padding: 1.5rem; 
+            border-radius: 10px; 
+            margin: 1.5rem 0; 
+            border: 2px solid rgba(201, 162, 39, 0.5);
+            box-shadow: 0 4px 15px rgba(26, 58, 92, 0.15);
+        }
+        .highlight-box h3 { 
+            color: #c9a227; 
+            margin-top: 0; 
+            font-size: 1.2rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
         .cta-button { display: inline-block; background: var(--secondary-color); color: var(--primary-color); padding: 0.8rem 1.5rem; border-radius: 5px; text-decoration: none; font-weight: 600; margin: 0.5rem 0; transition: transform 0.2s; }
         .cta-button:hover { transform: translateY(-2px); }
         .pro-con { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 1.5rem 0; }
@@ -125,15 +145,22 @@
 </head>
 <body>
     <header>
+        
+        <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox" aria-label="Toggle navigation menu">
+        <label for="nav-toggle" class="nav-toggle-icon" aria-hidden="true">&#9776;</label>
         <nav>
             <a href="/" class="logo">Military Life Tools</a>
-            <ul>
-                <li><a href="/">ETS Countdown</a></li>
-                <li><a href="/time-converter/">Time Converter</a></li>
-                <li><a href="/uniform-size/">Uniform Size</a></li>
-                <li><a href="/bah-calculator/">BAH Calculator</a></li>
-                <li><a href="/pay-calculator/">Pay Calculator</a></li>
-                <li><a href="/blog/">Blog</a></li>
+<ul class="nav-links">
+                <li><a href="/">ETS</a>
+                <li><a href="/time-converter/">Time</a>
+                <li><a href="/uniform-size/">Uniform</a>
+                <li><a href="/bah-calculator/">BAH</a>
+                <li><a href="/pay-calculator/">Pay</a>
+                <li><a href="/va-disability-calculator/">VA</a>
+                <li><a href="/retirement-calculator/">Retire</a>
+                <li><a href="/gi-bill-calculator/">GI Bill</a>
+                <li><a href="/tsp-withdrawal-calculator/">TSP</a>
+                <li><a href="/blog" class="active">Blog</a>
             </ul>
         </nav>
     </header>
@@ -154,7 +181,7 @@
 
             <div class="highlight-box">
                 <h3>Key Takeaway</h3>
-                <p>Active-duty military can get cards like the <strong>Amex Platinum ($695/year value)</strong> and <strong>Chase Sapphire Reserve ($550/year value)</strong> completely free. That's over $1,200 in annual fees waived ¡ª just for serving your country.</p>
+                <p>Active-duty military can get cards like the <strong>Amex Platinum ($695/year value)</strong> and <strong>Chase Sapphire Reserve ($550/year value)</strong> completely free. That's over $1,200 in annual fees waived ï¿½ï¿½ just for serving your country.</p>
             </div>
 
             <h2>How SCRA & MLA Credit Card Benefits Work</h2>
@@ -232,7 +259,7 @@
                 </table>
             </div>
 
-            <h3>1. American Express Platinum Card ¡ª Best Overall for Military</h3>
+            <h3>1. American Express Platinum Card ï¿½ï¿½ Best Overall for Military</h3>
             
             <p>The Amex Platinum is the gold standard for military credit cardholders. With a normal annual fee of $695, it's the most valuable card you can get fee-free as a service member.</p>
 
@@ -265,7 +292,7 @@
 
             <p><strong>Military Pro Tip:</strong> The Amex Platinum is especially valuable for military members who travel frequently for TDY or PCS. The lounge access alone can save hundreds per year on airport food and drinks.</p>
 
-            <h3>2. Chase Sapphire Reserve ¡ª Best for Travel Rewards</h3>
+            <h3>2. Chase Sapphire Reserve ï¿½ï¿½ Best for Travel Rewards</h3>
             
             <p>The Chase Sapphire Reserve is the premium travel card from Chase, and it's completely free for military members. It offers a more flexible rewards structure than the Amex Platinum.</p>
 
@@ -293,7 +320,7 @@
                 </div>
             </div>
 
-            <h3>3. American Express Gold ¡ª Best for Dining & Groceries</h3>
+            <h3>3. American Express Gold ï¿½ï¿½ Best for Dining & Groceries</h3>
             
             <p>The Amex Gold card is perfect for military families who spend heavily on dining and groceries. With 4x points at restaurants and supermarkets, it earns rewards fast.</p>
 
@@ -306,7 +333,7 @@
                 <li>No foreign transaction fees</li>
             </ul>
 
-            <h3>4. Amex Blue Cash Preferred ¡ª Best for Commissary Shopping</h3>
+            <h3>4. Amex Blue Cash Preferred ï¿½ï¿½ Best for Commissary Shopping</h3>
             
             <p>If you shop regularly at the DECA Commissary on base, this card is a must-have. The 6% cash back on groceries applies to commissary purchases.</p>
 
@@ -324,7 +351,7 @@
                 <p>Combine the 6% cash back from Blue Cash Preferred with the already lower commissary prices, and you're saving 20-30% on groceries compared to civilian stores. For a family spending $800/month on groceries, that's an extra $576/year in cash back.</p>
             </div>
 
-            <h3>5. Capital One Venture X ¡ª Best Simple Travel Card</h3>
+            <h3>5. Capital One Venture X ï¿½ï¿½ Best Simple Travel Card</h3>
             
             <p>The Venture X offers straightforward travel rewards with a simpler structure than Amex or Chase premium cards.</p>
 
@@ -343,10 +370,10 @@
             <p>The real power of military credit cards comes from combining multiple cards. Here's the optimal strategy:</p>
 
             <ol>
-                <li><strong>Apply for Amex Platinum first</strong> ¡ª Highest value, most benefits</li>
-                <li><strong>Add Chase Sapphire Reserve</strong> ¡ª Different rewards ecosystem, overlapping lounge access</li>
-                <li><strong>Get Amex Blue Cash Preferred</strong> ¡ª 6% at commissary for everyday savings</li>
-                <li><strong>Consider Amex Gold</strong> ¡ª If you spend heavily on dining out</li>
+                <li><strong>Apply for Amex Platinum first</strong> ï¿½ï¿½ Highest value, most benefits</li>
+                <li><strong>Add Chase Sapphire Reserve</strong> ï¿½ï¿½ Different rewards ecosystem, overlapping lounge access</li>
+                <li><strong>Get Amex Blue Cash Preferred</strong> ï¿½ï¿½ 6% at commissary for everyday savings</li>
+                <li><strong>Consider Amex Gold</strong> ï¿½ï¿½ If you spend heavily on dining out</li>
             </ol>
 
             <p>This "Amex Trifecta" + Chase strategy can earn you:</p>
@@ -362,9 +389,9 @@
             <p>To qualify for military annual fee waivers, you must meet one of these criteria:</p>
 
             <ul>
-                <li><strong>Active duty</strong> ¡ª Currently serving on active duty status</li>
-                <li><strong>Guard/Reserve on orders</strong> ¡ª On active duty orders of 30+ days</li>
-                <li><strong>Military spouse</strong> ¡ª Listed on DEERS as a dependent of an active-duty member</li>
+                <li><strong>Active duty</strong> ï¿½ï¿½ Currently serving on active duty status</li>
+                <li><strong>Guard/Reserve on orders</strong> ï¿½ï¿½ On active duty orders of 30+ days</li>
+                <li><strong>Military spouse</strong> ï¿½ï¿½ Listed on DEERS as a dependent of an active-duty member</li>
             </ul>
 
             <p><strong>Note:</strong> Retired military members generally do not qualify for MLA fee waivers, but may qualify for SCRA protections on pre-service accounts. Some issuers like USAA offer special benefits for veterans.</p>
@@ -372,10 +399,10 @@
             <h2>How to Apply and Get Fee Waivers</h2>
 
             <ol>
-                <li><strong>Apply for the card normally</strong> ¡ª Use the standard application process</li>
-                <li><strong>Verify military status</strong> ¡ª The issuer will check via the DMDC (Defense Manpower Data Center)</li>
-                <li><strong>If not automatically verified</strong> ¡ª Call the number on your card and provide your LES (Leave and Earnings Statement) or military ID</li>
-                <li><strong>Annual recertification</strong> ¡ª Some issuers require annual verification of active-duty status</li>
+                <li><strong>Apply for the card normally</strong> ï¿½ï¿½ Use the standard application process</li>
+                <li><strong>Verify military status</strong> ï¿½ï¿½ The issuer will check via the DMDC (Defense Manpower Data Center)</li>
+                <li><strong>If not automatically verified</strong> ï¿½ï¿½ Call the number on your card and provide your LES (Leave and Earnings Statement) or military ID</li>
+                <li><strong>Annual recertification</strong> ï¿½ï¿½ Some issuers require annual verification of active-duty status</li>
             </ol>
 
             <h2>Frequently Asked Questions</h2>
@@ -415,9 +442,9 @@
             <p>Credit cards are just one piece of the military financial puzzle. Use our free calculators to optimize your entire financial picture:</p>
 
             <ul>
-                <li><a href="/pay-calculator/">Military Pay Calculator</a> ¡ª See your total compensation including BAH and BAS</li>
-                <li><a href="/bah-calculator/">BAH Calculator</a> ¡ª Check housing allowance rates for your location</li>
-                <li><a href="/">ETS Countdown</a> ¡ª Track your time until separation</li>
+                <li><a href="/pay-calculator/">Military Pay Calculator</a> ï¿½ï¿½ See your total compensation including BAH and BAS</li>
+                <li><a href="/bah-calculator/">BAH Calculator</a> ï¿½ï¿½ Check housing allowance rates for your location</li>
+                <li><a href="/">ETS Countdown</a> ï¿½ï¿½ Track your time until separation</li>
             </ul>
 
             <div class="related-posts">
@@ -437,7 +464,48 @@
     </main>
 
     
-            <!-- Ezoic Bottom Banner -->
+            
+    <!-- Amazon Picks: Wallets & Card Accessories -->
+    <section class="amazon-picks" aria-label="Recommended Wallets & Card Accessories on Amazon">
+        <div class="amazon-picks-header">
+            <h2>â˜… Wallets & Card Accessories</h2>
+            <p>Carry your SCRA-friendly credit cards with confidence</p>
+        </div>
+        <div class="amazon-grid">
+        <div class="amazon-card">
+            <div class="amazon-card-img">ðŸ‘›</div>
+            <h3 class="amazon-card-title">Minimalist Aluminum Card Wallet</h3>
+            <div class="amazon-card-price">$19.99 â€“ $49.99</div>
+            <a class="amazon-card-cta" href="https://www.amazon.com/s?k=minimalist%20aluminum%20wallet&i=fashion&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+        </div>
+        <div class="amazon-card">
+            <div class="amazon-card-img">ðŸ’³</div>
+            <h3 class="amazon-card-title">RFID-Blocking Card Sleeves</h3>
+            <div class="amazon-card-price">$9.99 â€“ $19.99</div>
+            <a class="amazon-card-cta" href="https://www.amazon.com/s?k=RFID%20blocking%20card%20sleeves&i=fashion&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+        </div>
+        <div class="amazon-card">
+            <div class="amazon-card-img">ðŸ“’</div>
+            <h3 class="amazon-card-title">Expense Tracker Notebook</h3>
+            <div class="amazon-card-price">$12.99 â€“ $24.99</div>
+            <a class="amazon-card-cta" href="https://www.amazon.com/s?k=expense%20tracker%20notebook&i=fashion&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+        </div>
+        <div class="amazon-card">
+            <div class="amazon-card-img">ðŸ“±</div>
+            <h3 class="amazon-card-title">Phone Card Holder & Stand</h3>
+            <div class="amazon-card-price">$12.99 â€“ $29.99</div>
+            <a class="amazon-card-cta" href="https://www.amazon.com/s?k=phone%20card%20holder%20wallet&i=fashion&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+        </div>
+        <div class="amazon-card">
+            <div class="amazon-card-img">ðŸ”’</div>
+            <h3 class="amazon-card-title">Travel Safe for Documents</h3>
+            <div class="amazon-card-price">$29.99 â€“ $79.99</div>
+            <a class="amazon-card-cta" href="https://www.amazon.com/s?k=travel%20document%20safe&i=fashion&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+        </div>
+        </div>
+        <p class="amazon-picks-footer">As an Amazon Associates, we earn from qualifying purchases. Prices and availability are accurate as of the date/time indicated and are subject to change.</p>
+    </section>
+    <!-- Ezoic Bottom Banner -->
             <div style="margin: 2rem 0; text-align: center; min-height: 90px;">
                 <span id="ezoic-ad-placeholder-bottom"></span>
             </div>

@@ -1,0 +1,282 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TSP Withdrawal Calculator 2026 - Monthly Income from TSP | Military Life Tools</title>
+    <meta name="description" content="Free TSP withdrawal calculator. Estimate how long your Thrift Savings Plan balance will last, calculate monthly income, taxes, and early withdrawal penalties for 2026.">
+    <meta name="keywords" content="TSP withdrawal calculator, TSP monthly income, TSP 2026, Thrift Savings Plan, TSP taxes, retirement withdrawal">
+    <link rel="canonical" href="https://militarylifetools.com/tsp-withdrawal-calculator">
+    <link rel="stylesheet" href="/css/v2.css">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "TSP Withdrawal Calculator",
+        "url": "https://militarylifetools.com/tsp-withdrawal-calculator",
+        "description": "Calculate sustainable TSP withdrawals, taxes, and how long your balance will last",
+        "applicationCategory": "FinanceApplication",
+        "operatingSystem": "All",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+    }
+    </script>
+    <meta name="google-site-verification" content="iepHyaZDEGkCra5Kge0jFWM0VhxzXDWzgHQkIWG-FA8" />
+    <script data-cfasync="false" src="https://cmp.gatekeeperconsent.com/min.js"></script>
+    <script data-cfasync="false" src="https://the.gatekeeperconsent.com/cmp.min.js"></script>
+    <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
+    <script>window.ezstandalone = window.ezstandalone || {}; ezstandalone.cmd = ezstandalone.cmd || [];</script>
+    <script src="//ezoicanalytics.com/analytics.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5JYW9XD3MZ"></script>
+    <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag("js", new Date()); gtag("config", "G-5JYW9XD3MZ");</script>
+</head>
+<body>
+    <header class="header">
+        
+        <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox" aria-label="Toggle navigation menu">
+        <label for="nav-toggle" class="nav-toggle-icon" aria-hidden="true">&#9776;</label>
+        <nav class="nav container">
+            <a href="/" class="logo">Military Life Tools</a>
+<ul class="nav-links">
+                <li><a href="/">ETS</a>
+                <li><a href="/time-converter/">Time</a>
+                <li><a href="/uniform-size/">Uniform</a>
+                <li><a href="/bah-calculator/">BAH</a>
+                <li><a href="/pay-calculator/">Pay</a>
+                <li><a href="/va-disability-calculator/">VA</a>
+                <li><a href="/retirement-calculator/">Retire</a>
+                <li><a href="/gi-bill-calculator/">GI Bill</a>
+                <li><a href="/tsp-withdrawal-calculator/" class="active">TSP</a>
+                <li><a href="/blog">Blog</a>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="ad-slot ad-top">
+        <span id="ezoic-ad-placeholder-top"></span>
+    </div>
+
+    <main class="main">
+        <section class="tool-section">
+            <div class="container">
+                <h1 class="tool-title">TSP Withdrawal Calculator (2026)</h1>
+                <p class="tool-subtitle">Estimate how long your TSP balance will last and your monthly take-home after taxes.</p>
+
+                <div class="card">
+                    <div class="input-stack">
+                        <div>
+                            <label for="balance">Current TSP Balance ($)</label>
+                            <input type="number" id="balance" value="200000" min="0" placeholder="e.g. 200000" />
+                        </div>
+
+                        <div>
+                            <label for="monthlyWithdrawal">Desired Monthly Withdrawal ($)</label>
+                            <input type="number" id="monthlyWithdrawal" value="1500" min="0" placeholder="e.g. 1500" />
+                        </div>
+
+                        <div>
+                            <label for="tspType">TSP Account Type</label>
+                            <select id="tspType" style="padding: 0.85rem; border: 2px solid #ddd; border-radius: 8px; font-size: 1rem; min-height: 44px; width: 100%;">
+                                <option value="traditional">Traditional TSP (pre-tax)</option>
+                                <option value="roth">Roth TSP (after-tax)</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label for="age">Your Age at Withdrawal</label>
+                            <input type="number" id="age" value="60" min="18" max="100" placeholder="e.g. 60" />
+                            <small style="color: #666; font-size: 0.85rem;">Withdrawals before 59½ may trigger a 10% federal penalty.</small>
+                        </div>
+
+                        <div>
+                            <label for="taxBracket">Federal Income Tax Bracket (%)</label>
+                            <select id="taxBracket" style="padding: 0.85rem; border: 2px solid #ddd; border-radius: 8px; font-size: 1rem; min-height: 44px; width: 100%;">
+                                <option value="10">10% (low income)</option>
+                                <option value="12">12%</option>
+                                <option value="22" selected>22% (typical retiree)</option>
+                                <option value="24">24%</option>
+                                <option value="32">32%</option>
+                                <option value="35">35%</option>
+                                <option value="37">37% (top bracket)</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label for="annualReturn">Assumed Annual Return (%)</label>
+                            <input type="number" id="annualReturn" value="6" min="0" max="20" step="0.5" placeholder="e.g. 6" />
+                            <small style="color: #666; font-size: 0.85rem;">Historical S&P 500 average is ~10%. Conservative: 6-7%.</small>
+                        </div>
+                    </div>
+
+                    <button id="calculateBtn" class="btn btn-primary full-width" style="margin-top: 1.5rem;">Calculate My TSP Income</button>
+                </div>
+
+                <div id="tspResult" class="tool-result">
+                    <h2 style="text-align:center; margin-bottom: 0.5rem;">Your Monthly Take-Home</h2>
+                    <div class="result-headline big" id="resultNetMonthly">$0</div>
+                    <p style="text-align:center; opacity: 0.85; font-size: 0.95rem;">After taxes and penalties</p>
+
+                    <div class="result-breakdown">
+                        <div class="result-item">
+                            <div class="result-item-label">Balance Duration</div>
+                            <div class="result-item-value" id="resultDuration" style="font-size: 1.1rem;">0 years</div>
+                        </div>
+                        <div class="result-item">
+                            <div class="result-item-label">Total Withdrawn</div>
+                            <div class="result-item-value" id="resultTotalWithdrawn">$0</div>
+                        </div>
+                        <div class="result-item">
+                            <div class="result-item-label">Total Taxes + Penalties</div>
+                            <div class="result-item-value" id="resultTotalTax">$0</div>
+                        </div>
+                    </div>
+
+                    <div style="margin-top: 1.5rem; background: rgba(255,255,255,0.1); padding: 1rem; border-radius: 8px;">
+                        <h3 style="margin-bottom: 0.5rem; font-size: 1rem;">Analysis</h3>
+                        <p id="resultNote" style="font-size: 0.9rem; line-height: 1.5;"></p>
+                    </div>
+                </div>
+                <article class="content-section">
+                    <h2>TSP Withdrawal Strategies</h2>
+                    <p>How you withdraw from your TSP matters as much as how much you save. Common strategies include:</p>
+                    <ul>
+                        <li><strong>Installment Payments:</strong> TSP can send you equal monthly payments (fixed amount or fixed period). Easy to set up, automatic.</li>
+                        <li><strong>Partial Withdrawals:</strong> Take specific amounts as needed. More control, but requires active management.</li>
+                        <li><strong>Total Distributions:</strong> Take it all at once. Most tax-inefficient unless rolled into IRA.</li>
+                        <li><strong>Age-Based Withdrawals:</strong> Many retirees take more in early retirement (before Social Security/TSP RMDs) and less later.</li>
+                        <li><strong>Roth Conversion Ladder:</strong> Convert Traditional TSP to Roth over years to manage tax brackets.</li>
+                    </ul>
+
+                    <h2>Traditional vs Roth TSP: Tax Impact</h2>
+                    <div class="conversion-table">
+                        <div class="table-wrapper">
+                            <table class="time-table">
+                                <thead><tr><th>Factor</th><th>Traditional TSP</th><th>Roth TSP</th></tr></thead>
+                                <tbody>
+                                <tr><td>Contributions</td><td>Pre-tax (lowers current tax bill)</td><td>After-tax (no current deduction)</td></tr>
+                                <tr><td>Growth</td><td>Tax-deferred</td><td>Tax-free</td></tr>
+                                <tr><td>Withdrawals (qualified)</td><td>Taxed as ordinary income</td><td>Tax-free</td></tr>
+                                <tr><td>Early (under 59½)</td><td>Tax + 10% penalty</td><td>Earnings taxed + 10% penalty; contributions withdrawable tax-free</td></tr>
+                                <tr><td>RMDs (age 73+)</td><td>Required (and taxed)</td><td>No RMDs during owner's lifetime</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <h2>2026 TSP Withdrawal Rules</h2>
+                    <ul>
+                        <li><strong>Age 59½:</strong> No early-withdrawal penalty. Standard income tax still applies to Traditional.</li>
+                        <li><strong>Age 73:</strong> Required Minimum Distributions (RMDs) begin for Traditional TSP. Roth TSP has NO RMDs during owner's lifetime.</li>
+                        <li><strong>5-Year Rule (Roth):</strong> Account must be open 5 years before qualified tax-free earnings withdrawals.</li>
+                        <li><strong>SEPP / 72(t):</strong> Substantially Equal Periodic Payments allow penalty-free early Traditional withdrawals if structured properly.</li>
+                        <li><strong>TSP Loans:</strong> Active federal employees can borrow from their own TSP balance (not available after separation).</li>
+                    </ul>
+
+                    <h2>Common TSP Withdrawal Mistakes</h2>
+                    <ul>
+                        <li><strong>Taking it all at once</strong> — pushes you into the highest tax bracket. Better to spread over multiple years.</li>
+                        <li><strong>Ignoring state tax</strong> — most states tax retirement distributions. Plan your residency for retirement.</li>
+                        <li><strong>Forgetting RMDs</strong> — failing to take RMDs after 73 results in a 25% penalty (down from 50%). Set up automatic distributions.</li>
+                        <li><strong>Not having a withdrawal plan</strong> — retirees often withdraw too much in early years and run out later. The 4% rule is a starting point, not gospel.</li>
+                        <li><strong>Cashing out when changing jobs</strong> — if you separate, roll TSP to IRA, don't cash out. Cashing out before 59½ triggers tax + 10% penalty.</li>
+                    </ul>
+
+                    <div class="highlight-box" style="margin-bottom: 1rem; padding: 1rem; border-left: 4px solid var(--accent-color); background: #f8fbff;">
+                        <strong>Related guide:</strong> Read our <a href="/blog/tsp-retirement-guide/">TSP and retirement guide</a> for a broader overview of retirement planning and withdrawal decisions.
+                    </div>
+                    <h2>The 4% Rule: Is It Still Valid?</h2>
+                    <p>The traditional 4% rule (Bengen, 1994) says you can withdraw 4% of your starting balance in year 1, then adjust for inflation, and your money lasts 30+ years. With 2026's longer lifespans and lower bond yields, many advisors now suggest 3-3.5% for safer planning. This calculator shows the math — use the assumed return field to model different scenarios.</p>
+
+                    <h2>TSP-to-IRA Rollovers</h2>
+                    <p>When you separate from service, you can keep your TSP or roll it to an IRA. Benefits of rolling to IRA:</p>
+                    <ul>
+                        <li><strong>More investment options:</strong> TSP limits you to G, F, C, S, I, L funds. IRAs offer thousands of mutual funds, ETFs, individual stocks.</li>
+                        <li><strong>Better withdrawal flexibility:</strong> Easier partial withdrawals from IRA than TSP.</li>
+                        <li><strong>Consolidation:</strong> Combine multiple 401(k)s/TSPs into one IRA for easier management.</li>
+                    </ul>
+                    <p>Benefits of keeping TSP:</p>
+                    <ul>
+                        <li><strong>Lowest fees in industry:</strong> TSP expense ratios are typically 0.04-0.07%, vs 0.5-1.5% for most IRAs.</li>
+                        <li><strong>G Fund (government securities):</strong> Unique to TSP — protects principal while earning interest.</li>
+                        <li><strong>Lifecycle Funds:</strong> Pre-built diversified portfolios.</li>
+                    </ul>
+
+                    <h2>Tax-Efficient Withdrawal Order</h2>
+                    <p>For retirees with multiple account types (TSP, IRA, taxable brokerage, Roth), the typical tax-efficient withdrawal order is:</p>
+                    <ol>
+                        <li><strong>Required Minimum Distributions</strong> (Traditional TSP/IRA) — must take these</li>
+                        <li><strong>Taxable accounts</strong> (brokerage) — capital gains rates, lower than ordinary income</li>
+                        <li><strong>Traditional TSP/IRA</strong> — fill up your target tax bracket</li>
+                        <li><strong>Roth TSP/IRA</strong> — last, let it grow tax-free as long as possible</li>
+                    </ol>
+                </article>
+
+                <div style="margin: 2rem auto; text-align: center; max-width: 728px; min-height: 250px;">
+                    <span id="ezoic-ad-placeholder-mid-1"></span>
+                </div>
+
+                <h2 style="margin-top: 2rem;">Frequently Asked Questions</h2>
+                <div class="faq-item"><h3>How is TSP withdrawal taxed?</h3><p>Traditional TSP withdrawals are taxed as ordinary income (federal + state). Roth TSP qualified withdrawals are tax-free. Early withdrawals (under 59½) typically incur a 10% federal penalty on top of regular income tax.</p></div>
+                <div class="faq-item"><h3>What is the TSP early withdrawal penalty?</h3><p>A 10% federal income tax penalty applies to most TSP withdrawals before age 59½. Exceptions include death, disability, qualifying RMDs, IRS levies, and certain hardship withdrawals.</p></div>
+                <div class="faq-item"><h3>Can I withdraw from my TSP while still employed?</h3><p>Generally no, unless you're 59½ or older and separated from TSP-covered employment, or you meet specific hardship criteria. TSP loans are available while actively employed.</p></div>
+                <div class="faq-item"><h3>What is the 4% rule for TSP?</h3><p>The 4% rule suggests withdrawing 4% of your TSP balance in year 1 of retirement, then adjusting that amount for inflation each year. Historically this made money last 30+ years. Modern planners often use 3-3.5% for safety.</p></div>
+                <div class="faq-item"><h3>Should I roll my TSP to an IRA?</h3><p>It depends. TSP has ultra-low fees (0.04-0.07%) and unique G/L funds. IRAs offer more investment choices and easier withdrawals. Most military retirees keep their TSP for fees, but consolidate other 401(k)s into an IRA.</p></div>
+                <div class="faq-item"><h3>What are TSP Required Minimum Distributions?</h3><p>RMDs are mandatory withdrawals from Traditional TSP/IRA starting at age 73 (under SECURE Act 2.0). Failing to take RMDs incurs a 25% penalty. Roth TSP does NOT have RMDs during the owner's lifetime.</p></div>
+                <div class="faq-item"><h3>Can I do a Roth conversion from my TSP?</h3><p>Yes. You can move money from Traditional TSP to Roth TSP (or Roth IRA) and pay taxes now in exchange for tax-free growth and withdrawals. This works well in low-income years between retirement and RMD age.</p></div>
+            </div>
+        </section>
+
+        <section class="amazon-picks" aria-label="Recommended Retirement Income Books on Amazon">
+            <div class="amazon-picks-header">
+                <h2>💰 Recommended Retirement Income Books</h2>
+                <p>Strategies for sustainable TSP withdrawals</p>
+            </div>
+            <div class="amazon-grid">
+                <div class="amazon-card"><div class="amazon-card-img">📘</div><h3 class="amazon-card-title">TSP Investing Handbook</h3><div class="amazon-card-price">$12.99 – $19.95</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=TSP+investing+guide&i=stripbooks&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                <div class="amazon-card"><div class="amazon-card-img">💵</div><h3 class="amazon-card-title">Retirement Income Planning</h3><div class="amazon-card-price">$14.99 – $24.95</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=retirement+income+planning&i=stripbooks&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                <div class="amazon-card"><div class="amazon-card-img">📊</div><h3 class="amazon-card-title">Tax-Smart Retirement</h3><div class="amazon-card-price">$19.99 – $29.95</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=tax+smart+retirement&i=stripbooks&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                <div class="amazon-card"><div class="amazon-card-img">🧮</div><h3 class="amazon-card-title">Financial Calculator</h3><div class="amazon-card-price">$29.99 – $49.99</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=financial+calculator&i=officeproducts&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                <div class="amazon-card"><div class="amazon-card-img">📁</div><h3 class="amazon-card-title">Fireproof Document Safe</h3><div class="amazon-card-price">$29.99 – $89.99</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=fireproof+document+safe&i=homegarden&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+            </div>
+            <p class="amazon-picks-footer">As an Amazon Associate, we earn from qualifying purchases. Prices and availability are accurate as of the date/time indicated and are subject to change.</p>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Military Life Tools</h4>
+                    <p>Free online tools for military personnel, veterans, and their families.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Tools</h4>
+                    <ul>
+                        <li><a href="/">ETS Countdown</a></li>
+                        <li><a href="/time-converter/">Time Converter</a></li>
+                        <li><a href="/uniform-size/">Uniform Size</a></li>
+                        <li><a href="/bah-calculator/">BAH Calculator</a></li>
+                        <li><a href="/pay-calculator/">Pay Calculator</a></li>
+                        <li><a href="/va-disability-calculator/">VA Disability</a></li>
+                        <li><a href="/retirement-calculator/">Retirement</a></li>
+                        <li><a href="/gi-bill-calculator/">GI Bill</a></li>
+                        <li><a href="/tsp-withdrawal-calculator/">TSP Withdrawal</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="/privacy-policy">Privacy Policy</a></li>
+                        <li><a href="/contact">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Military Life Tools. All rights reserved.</p>
+                <p class="disclaimer">This is not an official Department of Defense, VA, or U.S. Government website. Data sourced from official public sources (TSP.gov, IRS).</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/js/tsp.js"></script>
+</body>
+</html>

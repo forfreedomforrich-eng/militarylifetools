@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Military PCS Move Checklist 2026 - Timeline Planner | Military Life Tools</title>
+    <meta name="description" content="Use our free military PCS move checklist and timeline planner to prepare for your next move with milestones, deadlines, and task reminders.">
+    <meta name="keywords" content="military pcs checklist, pcs move checklist, military move timeline, pcs timeline, military relocation checklist">
+    <link rel="canonical" href="https://militarylifetools.com/pcs-move-checklist/">
+    <link rel="stylesheet" href="/css/v2.css">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Military PCS Move Checklist",
+        "url": "https://militarylifetools.com/pcs-move-checklist/",
+        "description": "Plan your military PCS move with a step-by-step timeline and checklist.",
+        "applicationCategory": "UtilitiesApplication",
+        "operatingSystem": "All",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        }
+    }
+    </script>
+    <meta name="google-site-verification" content="iepHyaZDEGkCra5Kge0jFWM0VhxzXDWzgHQkIWG-FA8" />
+    <script data-cfasync="false" src="https://cmp.gatekeeperconsent.com/min.js"></script>
+    <script data-cfasync="false" src="https://the.gatekeeperconsent.com/cmp.min.js"></script>
+    <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
+    <script>
+        window.ezstandalone = window.ezstandalone || {};
+        ezstandalone.cmd = ezstandalone.cmd || [];
+    </script>
+    <script src="//ezoicanalytics.com/analytics.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5JYW9XD3MZ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-5JYW9XD3MZ');
+    </script>
+</head>
+<body>
+    <header class="header">
+        <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox" aria-label="Toggle navigation menu">
+        <label for="nav-toggle" class="nav-toggle-icon" aria-hidden="true">&#9776;</label>
+        <nav class="nav container">
+            <a href="/" class="logo">Military Life Tools</a>
+            <ul class="nav-links">
+                <li><a href="/">ETS</a></li>
+                <li><a href="/time-converter/">Time</a></li>
+                <li><a href="/uniform-size/">Uniform</a></li>
+                <li><a href="/bah-calculator/">BAH</a></li>
+                <li><a href="/pay-calculator/">Pay</a></li>
+                <li><a href="/leave-calculator/">Leave</a></li>
+                <li><a href="/pcs-move-checklist/" class="active">PCS</a></li>
+                <li><a href="/va-disability-calculator/">VA</a></li>
+                <li><a href="/retirement-calculator/">Retire</a></li>
+                <li><a href="/gi-bill-calculator/">GI Bill</a></li>
+                <li><a href="/tsp-withdrawal-calculator/">TSP</a></li>
+                <li><a href="/blog">Blog</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="ad-slot ad-top">
+        <span id="ezoic-ad-placeholder-top"></span>
+    </div>
+
+    <main class="main">
+        <section class="tool-section">
+            <div class="container">
+                <h1 class="tool-title">Military PCS Move Checklist</h1>
+                <p class="tool-subtitle">Plan your next move with a simple timeline of key milestones and action items.</p>
+
+                <div class="card">
+                    <div class="pay-form">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="moveDate">Move Date</label>
+                                <input type="date" id="moveDate" class="input-field">
+                            </div>
+                            <div class="form-group">
+                                <label for="branch">Branch</label>
+                                <select id="branch" class="select-full">
+                                    <option value="army">Army</option>
+                                    <option value="navy">Navy</option>
+                                    <option value="airforce">Air Force</option>
+                                    <option value="marine">Marine Corps</option>
+                                    <option value="spaceforce">Space Force</option>
+                                    <option value="coastguard">Coast Guard</option>
+                                </select>
+                            </div>
+                        </div>
+                        <button id="buildTimelineBtn" class="btn btn-primary full-width" onclick="buildTimeline()">Build Timeline</button>
+                    </div>
+
+                    <div id="timelineOutput" class="bah-result">
+                        <div class="result-header">
+                            <h3>Your PCS Timeline</h3>
+                            <p id="timelineSummary" class="result-location">Pick a move date to generate milestones.</p>
+                        </div>
+                        <div id="timelineList" class="rate-details"></div>
+                    </div>
+
+                    <div class="share-section">
+                        <h3>Share This Tool</h3>
+                        <div class="share-buttons">
+                            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmilitarylifetools.com%2Fpcs-move-checklist%2F" target="_blank" rel="noopener noreferrer" class="share-btn share-facebook" title="Share on Facebook">Facebook</a>
+                            <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fmilitarylifetools.com%2Fpcs-move-checklist%2F&text=Military%20PCS%20Move%20Checklist" target="_blank" rel="noopener noreferrer" class="share-btn share-twitter" title="Share on X">X</a>
+                            <a href="https://reddit.com/submit?url=https%3A%2F%2Fmilitarylifetools.com%2Fpcs-move-checklist%2F&title=Military%20PCS%20Move%20Checklist" target="_blank" rel="noopener noreferrer" class="share-btn share-reddit" title="Share on Reddit">Reddit</a>
+                            <button class="share-btn share-copy" onclick="copyShareLink(this)" title="Copy link">Copy Link</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="ad-slot ad-top">
+                    <span id="ezoic-ad-placeholder-mid-1"></span>
+                </div>
+
+                <section class="amazon-picks" aria-label="Recommended moving and organization essentials for military PCS moves">
+                    <div class="amazon-picks-header">
+                        <h2>PCS prep essentials</h2>
+                        <p>Practical products that make moving easier for military families.</p>
+                    </div>
+                    <div class="amazon-grid">
+                        <div class="amazon-card"><div class="amazon-card-img">📦</div><h3 class="amazon-card-title">Moving Box Set</h3><div class="amazon-card-price">$29.99 – $79.99</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=moving+box+set&i=home&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                        <div class="amazon-card"><div class="amazon-card-img">🧰</div><h3 class="amazon-card-title">Packing Tape Dispenser</h3><div class="amazon-card-price">$9.99 – $24.99</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=packing+tape+dispenser&i=home&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                        <div class="amazon-card"><div class="amazon-card-img">🗂️</div><h3 class="amazon-card-title">Document File Organizer</h3><div class="amazon-card-price">$14.99 – $34.99</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=document+file+organizer&i=officeproducts&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                    </div>
+                    <p class="amazon-picks-footer">As an Amazon Associates, we earn from qualifying purchases.</p>
+                </section>
+
+                <article class="content-section">
+                    <div class="highlight-box" style="margin-bottom: 1.25rem; padding: 1rem; border-left: 4px solid var(--accent-color); background: #f8fbff;">
+                        <strong>Related guide:</strong> Read our <a href="/blog/pcs-move-checklist-guide/">PCS move checklist guide</a> for practical timing advice and a simple planning framework.
+                    </div>
+                    <h2>Why this checklist helps</h2>
+                    <p>PCS moves are stressful because there are many small tasks with deadlines. This planner helps service members organize the move into simple milestones so nothing gets missed from orders to housing to paperwork.</p>
+
+                    <h2>What to prepare</h2>
+                    <ul>
+                        <li>Orders and move dates</li>
+                        <li>Housing and lease decisions</li>
+                        <li>Medical, school, and pet paperwork</li>
+                        <li>Weight limits and shipment planning</li>
+                    </ul>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        function buildTimeline() {
+            const moveDateInput = document.getElementById('moveDate').value;
+            const branch = document.getElementById('branch').value;
+            if (!moveDateInput) {
+                document.getElementById('timelineSummary').textContent = 'Please choose a move date first.';
+                return;
+            }
+
+            const moveDate = new Date(moveDateInput + 'T00:00:00');
+            const today = new Date();
+            const diffDays = Math.ceil((moveDate - today) / (1000 * 60 * 60 * 24));
+
+            const milestones = [
+                { days: 90, title: '90 days before move', tasks: ['Confirm orders and report dates', 'Start housing search', 'Begin inventory and household planning'] },
+                { days: 60, title: '60 days before move', tasks: ['Schedule movers or shipment', 'Update address and records', 'Review medical and school needs'] },
+                { days: 30, title: '30 days before move', tasks: ['Submit travel paperwork', 'Confirm temporary lodging', 'Pack nonessential items'] },
+                { days: 14, title: '14 days before move', tasks: ['Confirm utilities transfer', 'Prepare important documents', 'Finalize pet and vehicle plans'] },
+                { days: 7, title: '7 days before move', tasks: ['Pack essential bags', 'Confirm arrival logistics', 'Check out of current housing'] },
+                { days: 1, title: '1 day before move', tasks: ['Secure valuables', 'Document household condition', 'Keep IDs and orders handy'] }
+            ];
+
+            const list = document.getElementById('timelineList');
+            let html = '<div class="rate-item"><span class="rate-item-label">Move date</span><span class="rate-item-value">' + moveDate.toLocaleDateString() + '</span></div>';
+            html += '<div class="rate-item"><span class="rate-item-label">Days until move</span><span class="rate-item-value">' + diffDays + '</span></div>';
+            html += '<div class="rate-item"><span class="rate-item-label">Branch</span><span class="rate-item-value">' + branch.charAt(0).toUpperCase() + branch.slice(1) + '</span></div>';
+
+            milestones.forEach((item) => {
+                const targetDate = new Date(moveDate);
+                targetDate.setDate(targetDate.getDate() - item.days);
+                const label = targetDate.toLocaleDateString();
+                html += '<div class="rate-item"><span class="rate-item-label">' + item.title + '</span><span class="rate-item-value">' + label + '</span></div>';
+                html += '<div class="rate-details" style="margin-top:8px; margin-bottom:16px;">';
+                item.tasks.forEach((task) => {
+                    html += '<div class="rate-item"><span class="rate-item-label">•</span><span class="rate-item-value">' + task + '</span></div>';
+                });
+                html += '</div>';
+            });
+
+            list.innerHTML = html;
+            document.getElementById('timelineSummary').textContent = 'Use this timeline to prepare for your move.';
+        }
+
+        function copyShareLink(button) {
+            const url = window.location.href;
+            navigator.clipboard.writeText(url).then(() => {
+                const originalText = button.textContent;
+                button.textContent = 'Copied!';
+                setTimeout(() => {
+                    button.textContent = originalText;
+                }, 1500);
+            });
+        }
+
+        document.getElementById('moveDate').valueAsDate = new Date(new Date().setDate(new Date().getDate() + 90));
+        buildTimeline();
+    </script>
+</body>
+</html>

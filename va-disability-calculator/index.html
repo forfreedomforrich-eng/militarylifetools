@@ -1,0 +1,303 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VA Disability Rating Calculator 2026 - Combined Rating & Monthly Pay | Military Life Tools</title>
+    <meta name="description" content="Free VA disability rating calculator. Add multiple service-connected conditions, get your official VA combined rating (0% to 100%) and 2026 monthly compensation. Uses the real VA Combined Ratings Table formula.">
+    <meta name="keywords" content="VA disability rating calculator, VA combined rating, VA disability calculator 2026, VA pay chart, VA compensation, veterans disability">
+    <link rel="canonical" href="https://militarylifetools.com/va-disability-calculator">
+    <link rel="stylesheet" href="/css/v2.css">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "VA Disability Rating Calculator",
+        "url": "https://militarylifetools.com/va-disability-calculator",
+        "description": "Calculate your combined VA disability rating and 2026 monthly compensation. Free, no signup required.",
+        "applicationCategory": "FinanceApplication",
+        "operatingSystem": "All",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {"@type":"Question","name":"How does the VA combined rating calculator work?","acceptedAnswer":{"@type":"Answer","text":"The VA doesn't simply add your disability ratings. Instead, it uses the Combined Ratings Table formula: each rating is applied to your remaining 'healthy' percentage. For example, a 50% and a 30% rating combine to 65% (rounded down to 60%), not 80%."}},
+            {"@type":"Question","name":"How much does a 100% VA disability rating pay in 2026?","acceptedAnswer":{"@type":"Answer","text":"A 100% VA disability rating pays $3,829.44/month for a veteran with no dependents, $3,964.92 with a spouse, and $4,056.32 with a spouse and one child (2026 rates, effective Dec 1, 2025)."}},
+            {"@type":"Question","name":"How much does a 70% VA rating pay monthly?","acceptedAnswer":{"@type":"Answer","text":"A 70% VA rating pays $1,663.19/month for a veteran with no dependents in 2026, $1,737.74 with a spouse, and $1,801.78 with a spouse and one child."}},
+            {"@type":"Question","name":"What conditions qualify for VA disability?","acceptedAnswer":{"@type":"Answer","text":"Common VA-rated conditions include PTSD (often 30-70%), tinnitus (usually 10%), hearing loss, lower back pain, migraines, sleep apnea, knee injuries, and TBI. The VA rates conditions from 0% to 100% in 10% increments based on severity."}},
+            {"@type":"Question","name":"Is VA disability pay taxable?","acceptedAnswer":{"@type":"Answer","text":"No. VA disability compensation is tax-free at the federal level and exempt from state taxes in most states. It does not reduce your Social Security benefits."}},
+            {"@type":"Question","name":"Does the VA round up or down for combined ratings?","acceptedAnswer":{"@type":"Answer","text":"The VA rounds combined ratings DOWN to the nearest 10%. For example, a mathematical combined rating of 65% becomes 60%. This is why two 50% ratings combine to 75%, which rounds down to 70% (not up to 80%)."}}
+        ]
+    }
+    </script>
+    <meta name="google-site-verification" content="iepHyaZDEGkCra5Kge0jFWM0VhxzXDWzgHQkIWG-FA8" />
+    <script data-cfasync="false" src="https://cmp.gatekeeperconsent.com/min.js"></script>
+    <script data-cfasync="false" src="https://the.gatekeeperconsent.com/cmp.min.js"></script>
+    <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
+    <script>window.ezstandalone = window.ezstandalone || {}; ezstandalone.cmd = ezstandalone.cmd || [];</script>
+    <script src="//ezoicanalytics.com/analytics.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5JYW9XD3MZ"></script>
+    <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-5JYW9XD3MZ');</script>
+</head>
+<body>
+
+    <header class="header">
+        
+        <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox" aria-label="Toggle navigation menu">
+        <label for="nav-toggle" class="nav-toggle-icon" aria-hidden="true">&#9776;</label>
+        <nav class="nav container">
+            <a href="/" class="logo">Military Life Tools</a>
+<ul class="nav-links">
+                <li><a href="/">ETS</a>
+                <li><a href="/time-converter/">Time</a>
+                <li><a href="/uniform-size/">Uniform</a>
+                <li><a href="/bah-calculator/">BAH</a>
+                <li><a href="/pay-calculator/">Pay</a>
+                <li><a href="/va-disability-calculator/" class="active">VA</a>
+                <li><a href="/retirement-calculator/">Retire</a>
+                <li><a href="/gi-bill-calculator/">GI Bill</a>
+                <li><a href="/tsp-withdrawal-calculator/">TSP</a>
+                <li><a href="/blog">Blog</a>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="ad-slot ad-top">
+        <span id="ezoic-ad-placeholder-top"></span>
+    </div>
+
+    <main class="main">
+        <section class="tool-section">
+            <div class="container">
+                <h1 class="tool-title">VA Disability Rating Calculator (2026)</h1>
+                <p class="tool-subtitle">Add your service-connected conditions, get your combined rating and monthly compensation.</p>
+
+                <div class="card">
+                    <h2 style="margin-bottom: 1rem;">Your Conditions</h2>
+                    <p style="margin-bottom: 1rem; color: #555;">Add each VA-rated condition. Choose from common conditions or pick from the dropdown. The calculator uses the official VA Combined Ratings Table formula.</p>
+
+                    <div id="conditions"></div>
+
+                    <button type="button" id="addCondition" class="add-condition-btn">+ Add Another Condition</button>
+
+                    <div style="margin-top: 1.5rem;">
+                        <label for="dependency" style="display:block; font-weight:600; color:var(--primary-color); margin-bottom: 0.5rem;">Dependency Status</label>
+                        <select id="dependency" class="select-full" style="padding: 0.85rem; border: 2px solid #ddd; border-radius: 8px; font-size: 1rem; min-height: 44px;">
+                            <option value="noDependents">Veteran alone (no dependents)</option>
+                            <option value="withSpouse">Veteran + Spouse</option>
+                            <option value="withFamily">Veteran + Spouse + 1 Child</option>
+                        </select>
+                    </div>
+
+                    <button id="calculateBtn" class="btn btn-primary full-width" style="margin-top: 1.5rem;">Calculate Combined Rating & Pay</button>
+                </div>
+
+                <div id="vaResult" class="tool-result hidden">
+                    <h2 style="text-align:center; margin-bottom: 0.5rem;">Your Combined VA Rating</h2>
+                    <div class="result-headline big" id="resultCombined">0%</div>
+                    <p style="text-align:center; opacity: 0.85; font-size: 0.95rem;" id="resultRaw">0% (mathematical)</p>
+
+                    <div class="result-breakdown">
+                        <div class="result-item">
+                            <div class="result-item-label">Monthly Pay (2026)</div>
+                            <div class="result-item-value" id="resultMonthly">$0.00</div>
+                        </div>
+                        <div class="result-item">
+                            <div class="result-item-label">Annual Pay (2026)</div>
+                            <div class="result-item-value" id="resultAnnual">$0.00</div>
+                        </div>
+                    </div>
+
+                    <div style="margin-top: 1.5rem; background: rgba(255,255,255,0.1); padding: 1rem; border-radius: 8px;">
+                        <h3 style="margin-bottom: 0.5rem; font-size: 1rem;">Your Conditions</h3>
+                        <table style="width: 100%; color: #fff; font-size: 0.9rem;" id="resultTable">
+                            <tbody id="resultBreakdown"></tbody>
+                        </table>
+                    </div>
+
+                    <p style="margin-top: 1rem; font-size: 0.8rem; opacity: 0.7; text-align: center;">2026 rates effective Dec 1, 2025. VA disability pay is tax-free.</p>
+                </div>
+
+                <article class="content-section">
+                    <h2>How the VA Combined Rating Calculator Works</h2>
+                    <p>The VA doesn't simply add your disability ratings together. Instead, the <strong>Combined Ratings Table</strong> uses a "remaining efficiency" approach. Each rating is applied to your remaining "healthy" percentage, so a 50% and 30% rating combine to 65% (rounded down to 60%), not 80%.</p>
+
+                    <h2>2026 VA Disability Pay Chart</h2>
+                    <p>Monthly compensation rates effective December 1, 2025:</p>
+                    <div class="conversion-table">
+                        <div class="table-wrapper">
+                            <table class="time-table">
+                                <thead>
+                                    <tr>
+                                        <th>Rating</th>
+                                        <th>No Dependents</th>
+                                        <th>With Spouse</th>
+                                        <th>Spouse + 1 Child</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr><td>10%</td><td>$175.51</td><td>$211.41</td><td>$237.65</td></tr>
+                                    <tr><td>20%</td><td>$346.95</td><td>$388.95</td><td>$420.32</td></tr>
+                                    <tr><td>30%</td><td>$524.26</td><td>$573.41</td><td>$612.93</td></tr>
+                                    <tr><td>40%</td><td>$755.28</td><td>$810.53</td><td>$855.19</td></tr>
+                                    <tr><td>50%</td><td>$1,041.59</td><td>$1,102.94</td><td>$1,153.69</td></tr>
+                                    <tr><td>60%</td><td>$1,316.35</td><td>$1,383.80</td><td>$1,440.65</td></tr>
+                                    <tr><td>70%</td><td>$1,663.19</td><td>$1,737.74</td><td>$1,801.78</td></tr>
+                                    <tr><td>80%</td><td>$2,012.31</td><td>$2,093.96</td><td>$2,165.10</td></tr>
+                                    <tr><td>90%</td><td>$2,319.33</td><td>$2,407.08</td><td>$2,486.36</td></tr>
+                                    <tr><td>100%</td><td>$3,829.44</td><td>$3,964.92</td><td>$4,056.32</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <h2>Most Common VA-Rated Conditions</h2>
+                    <p>Based on VA claims data, the most frequently service-connected disabilities include:</p>
+                    <ul>
+                        <li><strong>Tinnitus (10%):</strong> The #1 most common VA rating, usually caused by noise exposure during service.</li>
+                        <li><strong>Hearing Loss (0-10%+):</strong> Often paired with tinnitus from the same cause.</li>
+                        <li><strong>PTSD (30-100%):</strong> Post-Traumatic Stress Disorder is rated based on severity of symptoms and occupational impairment.</li>
+                        <li><strong>Lower Back / Lumbar Strain (10-40%):</strong> Common from physical training, jumps, and equipment loads.</li>
+                        <li><strong>Migraines (10-50%):</strong> Rated by frequency, duration, and severity.</li>
+                        <li><strong>Sleep Apnea (30-50%):</strong> Often rated 50% if you need a CPAP machine.</li>
+                        <li><strong>Knee Injuries (10-30%):</strong> Common from running, jumps, and physical training.</li>
+                        <li><strong>Traumatic Brain Injury (TBI) (10-100%):</strong> Rated based on residual symptoms and cognitive effects.</li>
+                        <li><strong>Hypertension (10-30%):</strong> High blood pressure often service-connected.</li>
+                        <li><strong>Diabetes Type 2 (10-40%):</strong> Sometimes linked to Agent Orange exposure or other service causes.</li>
+                    </ul>
+
+                    <h2>Why the VA Doesn't Add Ratings</h2>
+                    <p>If the VA simply added ratings, two 50% disabilities would equal 100% — but the veteran would still have some "healthy" portion remaining. The Combined Ratings Table accounts for this by applying each rating to the remaining "well" percentage:</p>
+                    <ul>
+                        <li>50% + 30% = 65% combined (rounds down to 60%)</li>
+                        <li>50% + 50% = 75% combined (rounds down to 70%)</li>
+                        <li>70% + 30% = 79% combined (rounds down to 70%)</li>
+                        <li>100% + anything = 100% (you can't be more than 100%)</li>
+                    </ul>
+
+                    <h2>Tips for Increasing Your Rating</h2>
+                    <ul>
+                        <li><strong>Get a Current Diagnosis:</strong> Make sure each condition has a current medical diagnosis from a recent exam.</li>
+                        <li><strong>Strong Medical Evidence:</strong> Submit private medical opinions, buddy statements, and current treatment records.</li>
+                        <li><strong>File a Supplemental Claim:</strong> Use VA Form 20-0995 to add new evidence to an existing claim.</li>
+                        <li><strong>Be Specific About Severity:</strong> Describe how your condition affects work, sleep, relationships, and daily life.</li>
+                        <li><strong>Attend C&P Exams:</strong> Cooperate fully with Compensation & Pension exams — they're critical.</li>
+                    </ul>
+
+                    <h2>Tax Treatment of VA Disability</h2>
+                    <p>VA disability compensation is <strong>completely tax-free</strong> at the federal level. Most states also exempt it from state income tax. It does not affect your eligibility for Social Security Disability, SNAP, or housing assistance (and in some cases helps qualify you for additional state benefits).</p>
+                </article>
+
+                <div style="margin: 2rem auto; text-align: center; max-width: 728px; min-height: 250px;">
+                    <span id="ezoic-ad-placeholder-mid-1"></span>
+                </div>
+
+                <h2 style="margin-top: 2rem;">Frequently Asked Questions</h2>
+                <div class="faq-item">
+                    <h3>How does the VA combined rating calculator work?</h3>
+                    <p>The VA doesn't simply add your disability ratings. Instead, it uses the Combined Ratings Table formula: each rating is applied to your remaining 'healthy' percentage. For example, a 50% and a 30% rating combine to 65% (rounded down to 60%), not 80%.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>How much does a 100% VA disability rating pay in 2026?</h3>
+                    <p>A 100% VA disability rating pays <strong>$3,829.44/month</strong> for a veteran with no dependents, <strong>$3,964.92</strong> with a spouse, and <strong>$4,056.32</strong> with a spouse and one child (2026 rates, effective Dec 1, 2025).</p>
+                </div>
+                <div class="faq-item">
+                    <h3>How much does a 70% VA rating pay monthly?</h3>
+                    <p>A 70% VA rating pays <strong>$1,663.19/month</strong> for a veteran with no dependents in 2026, $1,737.74 with a spouse, and $1,801.78 with a spouse and one child.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>What conditions qualify for VA disability?</h3>
+                    <p>Common VA-rated conditions include PTSD (often 30-70%), tinnitus (usually 10%), hearing loss, lower back pain, migraines, sleep apnea, knee injuries, and TBI. The VA rates conditions from 0% to 100% in 10% increments based on severity.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>Is VA disability pay taxable?</h3>
+                    <p><strong>No.</strong> VA disability compensation is tax-free at the federal level and exempt from state taxes in most states. It does not reduce your Social Security benefits.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>Does the VA round up or down for combined ratings?</h3>
+                    <p>The VA rounds combined ratings <strong>DOWN</strong> to the nearest 10%. For example, a mathematical combined rating of 65% becomes 60%. This is why two 50% ratings combine to 75%, which rounds down to 70% (not up to 80%).</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="amazon-picks" aria-label="Recommended Veterans Benefits Resources on Amazon">
+            <div class="amazon-picks-header">
+                <h2>📘 Recommended VA & Veterans Resources</h2>
+                <p>Top-rated guides for navigating VA claims and benefits</p>
+            </div>
+            <div class="amazon-grid">
+                <div class="amazon-card">
+                    <div class="amazon-card-img">📘</div>
+                    <h3 class="amazon-card-title">VA Claims Guide Book</h3>
+                    <div class="amazon-card-price">$14.99 – $24.95</div>
+                    <a class="amazon-card-cta" href="https://www.amazon.com/s?k=VA+disability+claims+guide&i=stripbooks&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+                </div>
+                <div class="amazon-card">
+                    <div class="amazon-card-img">📋</div>
+                    <h3 class="amazon-card-title">Medical Evidence Binder</h3>
+                    <div class="amazon-card-price">$12.99 – $19.95</div>
+                    <a class="amazon-card-cta" href="https://www.amazon.com/s?k=medical+records+binder&i=officeproducts&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+                </div>
+                <div class="amazon-card">
+                    <div class="amazon-card-img">📁</div>
+                    <h3 class="amazon-card-title">Fireproof Document Safe</h3>
+                    <div class="amazon-card-price">$29.99 – $89.99</div>
+                    <a class="amazon-card-cta" href="https://www.amazon.com/s?k=fireproof+document+safe&i=homegarden&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+                </div>
+                <div class="amazon-card">
+                    <div class="amazon-card-img">📒</div>
+                    <h3 class="amazon-card-title">Daily Symptoms Journal</h3>
+                    <div class="amazon-card-price">$9.99 – $15.99</div>
+                    <a class="amazon-card-cta" href="https://www.amazon.com/s?k=symptoms+journal&i=officeproducts&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+                </div>
+                <div class="amazon-card">
+                    <div class="amazon-card-img">⚖️</div>
+                    <h3 class="amazon-card-title">Veterans Law Reference</h3>
+                    <div class="amazon-card-price">$19.99 – $39.95</div>
+                    <a class="amazon-card-cta" href="https://www.amazon.com/s?k=veterans+benefits+law&i=stripbooks&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+                </div>
+            </div>
+            <p class="amazon-picks-footer">As an Amazon Associate, we earn from qualifying purchases. Prices and availability are accurate as of the date/time indicated and are subject to change.</p>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Military Life Tools</h4>
+                    <p>Free online tools for military personnel, veterans, and their families.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Tools</h4>
+                    <ul>
+                        <li><a href="/">ETS Countdown</a></li>
+                        <li><a href="/time-converter/">Time Converter</a></li>
+                        <li><a href="/uniform-size/">Uniform Size</a></li>
+                        <li><a href="/bah-calculator/">BAH Calculator</a></li>
+                        <li><a href="/pay-calculator/">Pay Calculator</a></li>
+                        <li><a href="/va-disability-calculator/">VA Disability</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="/privacy-policy">Privacy Policy</a></li>
+                        <li><a href="/contact">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Military Life Tools. All rights reserved.</p>
+                <p class="disclaimer">This is not an official Department of Defense, VA, or U.S. Government website. Data sourced from official public sources (DFAS, VA).</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/js/va.js"></script>
+</body>
+</html>

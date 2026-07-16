@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,15 +30,22 @@
 </head>
 <body>
     <header>
+        
+        <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox" aria-label="Toggle navigation menu">
+        <label for="nav-toggle" class="nav-toggle-icon" aria-hidden="true">&#9776;</label>
         <nav>
             <a href="/" class="logo">Military Life Tools</a>
-            <ul>
-                <li><a href="/">ETS Countdown</a></li>
-                <li><a href="/time-converter">Time Converter</a></li>
-                <li><a href="/uniform-size">Uniform Size</a></li>
-                <li><a href="/bah-calculator">BAH Calculator</a></li>
-                <li><a href="/pay-calculator">Pay Calculator</a></li>
-                <li><a href="/blog">Blog</a></li>
+<ul class="nav-links">
+                <li><a href="/">ETS</a>
+                <li><a href="/time-converter/">Time</a>
+                <li><a href="/uniform-size/">Uniform</a>
+                <li><a href="/bah-calculator/">BAH</a>
+                <li><a href="/pay-calculator/">Pay</a>
+                <li><a href="/va-disability-calculator/">VA</a>
+                <li><a href="/retirement-calculator/">Retire</a>
+                <li><a href="/gi-bill-calculator/">GI Bill</a>
+                <li><a href="/tsp-withdrawal-calculator/">TSP</a>
+                <li><a href="/blog" class="active">Blog</a>
             </ul>
         </nav>
     </header>

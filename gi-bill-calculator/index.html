@@ -1,0 +1,280 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Post-9/11 GI Bill Calculator 2026 - Tuition, Housing, Books | Military Life Tools</title>
+    <meta name="description" content="Free Post-9/11 GI Bill calculator. Estimate your tuition coverage, monthly housing allowance (MHA), books stipend, and total 4-year education value for 2026.">
+    <meta name="keywords" content="GI Bill calculator, Post 9/11 GI Bill, GI Bill 2026, military education benefits, MHA calculator, tuition assistance">
+    <link rel="canonical" href="https://militarylifetools.com/gi-bill-calculator">
+    <link rel="stylesheet" href="/css/v2.css">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Post-9/11 GI Bill Calculator",
+        "url": "https://militarylifetools.com/gi-bill-calculator",
+        "description": "Calculate your Post-9/11 GI Bill benefits including tuition, housing, and book stipend",
+        "applicationCategory": "FinanceApplication",
+        "operatingSystem": "All",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+    }
+    </script>
+    <meta name="google-site-verification" content="iepHyaZDEGkCra5Kge0jFWM0VhxzXDWzgHQkIWG-FA8" />
+    <script data-cfasync="false" src="https://cmp.gatekeeperconsent.com/min.js"></script>
+    <script data-cfasync="false" src="https://the.gatekeeperconsent.com/cmp.min.js"></script>
+    <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
+    <script>window.ezstandalone = window.ezstandalone || {}; ezstandalone.cmd = ezstandalone.cmd || [];</script>
+    <script src="//ezoicanalytics.com/analytics.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5JYW9XD3MZ"></script>
+    <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag("js", new Date()); gtag("config", "G-5JYW9XD3MZ");</script>
+</head>
+<body>
+    <header class="header">
+        
+        <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox" aria-label="Toggle navigation menu">
+        <label for="nav-toggle" class="nav-toggle-icon" aria-hidden="true">&#9776;</label>
+        <nav class="nav container">
+            <a href="/" class="logo">Military Life Tools</a>
+<ul class="nav-links">
+                <li><a href="/">ETS</a>
+                <li><a href="/time-converter/">Time</a>
+                <li><a href="/uniform-size/">Uniform</a>
+                <li><a href="/bah-calculator/">BAH</a>
+                <li><a href="/pay-calculator/">Pay</a>
+                <li><a href="/va-disability-calculator/">VA</a>
+                <li><a href="/retirement-calculator/">Retire</a>
+                <li><a href="/gi-bill-calculator/" class="active">GI Bill</a>
+                <li><a href="/tsp-withdrawal-calculator/">TSP</a>
+                <li><a href="/blog">Blog</a>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="ad-slot ad-top">
+        <span id="ezoic-ad-placeholder-top"></span>
+    </div>
+
+    <main class="main">
+        <section class="tool-section">
+            <div class="container">
+                <h1 class="tool-title">Post-9/11 GI Bill Calculator (2026)</h1>
+                <p class="tool-subtitle">Estimate your tuition coverage, monthly housing allowance, and total education value.</p>
+
+                <div class="card">
+                    <div class="input-stack">
+                        <div>
+                            <label for="months">Months of Post-9/11 Active Duty Service</label>
+                            <input type="number" id="months" min="0" max="60" value="36" placeholder="e.g. 36" />
+                        </div>
+
+                        <div>
+                            <label for="schoolType">School Type</label>
+                            <select id="schoolType" style="padding: 0.85rem; border: 2px solid #ddd; border-radius: 8px; font-size: 1rem; min-height: 44px; width: 100%;">
+                                <option value="public">Public School (in-state)</option>
+                                <option value="private">Private School (US)</option>
+                                <option value="foreign">Foreign School</option>
+                                <option value="vocational">Vocational / Technical</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label for="inState">Are you in-state for tuition purposes?</label>
+                            <select id="inState" style="padding: 0.85rem; border: 2px solid #ddd; border-radius: 8px; font-size: 1rem; min-height: 44px; width: 100%;">
+                                <option value="yes">Yes (in-state)</option>
+                                <option value="no">No (out-of-state)</option>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label for="tuitionInState">In-State Tuition (annual $)</label>
+                            <input type="number" id="tuitionInState" value="10000" placeholder="e.g. 10000" />
+                        </div>
+
+                        <div>
+                            <label for="tuitionOutState">Out-of-State Tuition (annual $) - if applicable</label>
+                            <input type="number" id="tuitionOutState" value="25000" placeholder="e.g. 25000" />
+                        </div>
+
+                        <div id="privateTuitionRow">
+                            <label for="tuitionActual">Private / Foreign School Actual Tuition (annual $)</label>
+                            <input type="number" id="tuitionActual" value="35000" placeholder="e.g. 35000" />
+                        </div>
+
+                        <div>
+                            <label for="zipCode">School ZIP Code (for housing allowance)</label>
+                            <input type="text" id="zipCode" placeholder="Optional, e.g. 22030" maxlength="10" />
+                        </div>
+                    </div>
+
+                    <button id="calculateBtn" class="btn btn-primary full-width" style="margin-top: 1.5rem;">Calculate My GI Bill Benefits</button>
+                </div>
+                <div id="giResult" class="tool-result">
+                    <h2 style="text-align:center; margin-bottom: 0.5rem;">Your Annual GI Bill Value</h2>
+                    <div class="result-headline big" id="resultAnnual">$0</div>
+                    <p style="text-align:center; opacity: 0.85; font-size: 0.95rem;">Total Value (Tuition + Housing + Books) per year</p>
+
+                    <div class="result-breakdown">
+                        <div class="result-item">
+                            <div class="result-item-label">Benefit Tier</div>
+                            <div class="result-item-value" id="resultTier" style="font-size: 1.1rem;">100%</div>
+                        </div>
+                        <div class="result-item">
+                            <div class="result-item-label">Tuition / year</div>
+                            <div class="result-item-value" id="resultTuition">$0</div>
+                        </div>
+                        <div class="result-item">
+                            <div class="result-item-label">Housing Allowance</div>
+                            <div class="result-item-value" id="resultHousing">$0/mo</div>
+                        </div>
+                        <div class="result-item">
+                            <div class="result-item-label">Books Stipend</div>
+                            <div class="result-item-value" id="resultBooks">$0/yr</div>
+                        </div>
+                    </div>
+
+                    <div style="margin-top: 1.5rem; background: rgba(255,255,255,0.15); padding: 1rem; border-radius: 8px; text-align: center;">
+                        <h3 style="margin-bottom: 0.5rem; font-size: 1rem;">Total 4-Year Value</h3>
+                        <div style="font-size: 2.5rem; font-weight: bold; color: var(--secondary-color);" id="result4Year">$0</div>
+                    </div>
+
+                    <div style="margin-top: 1.5rem; background: rgba(255,255,255,0.1); padding: 1rem; border-radius: 8px;">
+                        <h3 style="margin-bottom: 0.5rem; font-size: 1rem;">Tuition Details</h3>
+                        <p id="resultTuitionNote" style="font-size: 0.9rem; line-height: 1.5;"></p>
+                    </div>
+                </div>
+                <article class="content-section">
+                    <h2>Post-9/11 GI Bill Eligibility Tiers</h2>
+                    <p>Your benefit percentage depends on total post-9/11 active duty service:</p>
+                    <div class="conversion-table">
+                        <div class="table-wrapper">
+                            <table class="time-table">
+                                <thead><tr><th>Service</th><th>Tier %</th></tr></thead>
+                                <tbody>
+                                <tr><td>36+ months</td><td>100%</td></tr>
+                                <tr><td>30-36 months</td><td>90%</td></tr>
+                                <tr><td>24-30 months</td><td>80%</td></tr>
+                                <tr><td>18-24 months</td><td>70%</td></tr>
+                                <tr><td>12-18 months</td><td>60%</td></tr>
+                                <tr><td>6-12 months</td><td>50%</td></tr>
+                                <tr><td>90 days - 6 months</td><td>40%</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <h2>2025-2026 GI Bill Rates</h2>
+                    <ul>
+                        <li><strong>Tuition cap (private/foreign):</strong> $28,937.93 per academic year</li>
+                        <li><strong>Books stipend:</strong> $1,000/year (paid at $41.67/credit hour)</li>
+                        <li><strong>Housing allowance:</strong> E-5 with dependents BAH rate at school ZIP (~$1,800-$2,200/mo nationally)</li>
+                        <li><strong>Yellow Ribbon Program:</strong> Schools can match VA contributions for above-cap costs</li>
+                    </ul>
+
+                    <h2>How the Housing Allowance Works</h2>
+                    <p>The Monthly Housing Allowance (MHA) is based on the Basic Allowance for Housing (BAH) rate for an E-5 with dependents at your school's ZIP code. Rates vary significantly by location:</p>
+                    <ul>
+                        <li><strong>High-cost areas:</strong> San Francisco, NYC, DC, San Diego — $3,000-4,500/month</li>
+                        <li><strong>Mid-cost areas:</strong> Most college towns — $1,500-2,500/month</li>
+                        <li><strong>Low-cost areas:</strong> Rural Midwest/South — $1,000-1,500/month</li>
+                    </ul>
+                    <p><strong>Important:</strong> MHA is paid only during periods of school attendance (not during breaks longer than 8 weeks). Online-only students get a fixed rate of $1,102.04/month (half the national average).</p>
+
+                    <h2>Yellow Ribbon Program</h2>
+                    <p>Many private schools participate in the Yellow Ribbon Program, where the school matches VA contributions for tuition costs above the $28,937.93 cap. This can make expensive private schools essentially free for veterans. Check with your school's VA office.</p>
+
+                    <h2>Transferring Benefits to Family</h2>
+                    <p>You can transfer unused Post-9/11 GI Bill benefits to your spouse or children, but you must:</p>
+                    <ul>
+                        <li>Have at least 6 years of service</li>
+                        <li>Commit to 4 more years of service (or have already served 20)</li>
+                        <li>Apply via milConnect before leaving service</li>
+                    </ul>
+                    <p>Each family member gets up to 36 months of benefits. Spouses have 15 years to use them, children have until age 26.</p>
+
+                    <h2>Other Education Benefits</h2>
+                    <ul>
+                        <li><strong>Montgomery GI Bill (MGIB):</strong> Older program, $2,100/month flat rate. Most people are better off with Post-9/11.</li>
+                        <li><strong>VR&E (Chapter 31):</strong> Vocational Rehabilitation for service-connected disabilities — covers tuition + housing + books with no cap.</li>
+                        <li><strong>DEA (Chapter 35):</strong> Dependents Education Assistance for spouses/children of disabled veterans.</li>
+                        <li><strong>Tuition Assistance (TA):</strong> Active duty can get up to $4,500/year per military branch while serving.</li>
+                    </ul>
+
+                    <h2>Tips for Maximizing GI Bill</h2>
+                    <ul>
+                        <li><strong>Apply early</strong> — VA processing can take 30-90 days. Apply at va.gov 6 months before school starts.</li>
+                        <li><strong>Use Yellow Ribbon schools</strong> for private education — can save $20,000+/year.</li>
+                        <li><strong>Compare in-state schools</strong> for tuition savings — out-of-state flagships can cost less than private with GI Bill.</li>
+                        <li><strong>Coordinate with TA</strong> if still serving — use TA for undergrad, save GI Bill for graduate school.</li>
+                        <li><strong>Don't forget the $1,000 book stipend</strong> — use it for required textbooks, not general supplies.</li>
+                    </ul>
+                </article>
+
+                <div style="margin: 2rem auto; text-align: center; max-width: 728px; min-height: 250px;">
+                    <span id="ezoic-ad-placeholder-mid-1"></span>
+                </div>
+
+                <h2 style="margin-top: 2rem;">Frequently Asked Questions</h2>
+                <div class="faq-item"><h3>What is the Post-9/11 GI Bill?</h3><p>The Post-9/11 GI Bill (Chapter 33) is the VA education benefit for service members who served at least 90 days after September 10, 2001. It covers tuition, housing, and books at any approved school.</p></div>
+                <div class="faq-item"><h3>How much does the GI Bill pay for tuition?</h3><p>For public schools, the GI Bill pays 100% of in-state tuition (capped at your benefit tier %). For private and foreign schools, the cap is $28,937.93/year (2025-2026 academic year). Yellow Ribbon can cover above-cap costs at participating schools.</p></div>
+                <div class="faq-item"><h3>What is the GI Bill housing allowance?</h3><p>The Monthly Housing Allowance (MHA) is based on the BAH rate for E-5 with dependents at your school ZIP code. For 2026, the national average is about $1,800-2,200/month depending on location. Paid only during school attendance (not breaks).</p></div>
+                <div class="faq-item"><h3>How is GI Bill eligibility tier calculated?</h3><p>Tier is based on total post-9/11 active duty service: 36+ months = 100%, 30-36 months = 90%, 24-30 months = 80%, 18-24 months = 70%, 12-18 months = 60%, 6-12 months = 50%, 90 days-6 months = 40%, less than 90 days = 0%.</p></div>
+                <div class="faq-item"><h3>Can I transfer my GI Bill to dependents?</h3><p>Yes. Most service members with 6+ years can transfer their Post-9/11 GI Bill benefits to their spouse or children via milConnect, but must commit to 4 additional years of service (or have already served 20).</p></div>
+                <div class="faq-item"><h3>What is the Yellow Ribbon Program?</h3><p>Yellow Ribbon is a VA program where participating schools agree to fund tuition costs above the $28,937.93 cap, with the VA matching the school contribution dollar-for-dollar. Can make expensive private schools free for veterans.</p></div>
+            </div>
+        </section>
+
+        <section class="amazon-picks" aria-label="Recommended College Prep Resources on Amazon">
+            <div class="amazon-picks-header">
+                <h2>📚 Recommended College Prep Resources</h2>
+                <p>Tools for veteran college students</p>
+            </div>
+            <div class="amazon-grid">
+                <div class="amazon-card"><div class="amazon-card-img">📘</div><h3 class="amazon-card-title">College Success for Veterans</h3><div class="amazon-card-price">$14.99 – $24.95</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=veterans+college+success&i=stripbooks&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                <div class="amazon-card"><div class="amazon-card-img">💻</div><h3 class="amazon-card-title">Laptop for College</h3><div class="amazon-card-price">$399 – $1,499</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=college+laptop&i=electronics&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                <div class="amazon-card"><div class="amazon-card-img">🎒</div><h3 class="amazon-card-title">Backpack for Students</h3><div class="amazon-card-price">$29.99 – $89.99</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=college+backpack&i=fashion&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                <div class="amazon-card"><div class="amazon-card-img">📝</div><h3 class="amazon-card-title">Note-Taking System</h3><div class="amazon-card-price">$19.99 – $39.95</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=note+taking+system&i=officeproducts&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                <div class="amazon-card"><div class="amazon-card-img">⏰</div><h3 class="amazon-card-title">Study Planner</h3><div class="amazon-card-price">$9.99 – $19.99</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=study+planner&i=officeproducts&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+            </div>
+            <p class="amazon-picks-footer">As an Amazon Associate, we earn from qualifying purchases. Prices and availability are accurate as of the date/time indicated and are subject to change.</p>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Military Life Tools</h4>
+                    <p>Free online tools for military personnel, veterans, and their families.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Tools</h4>
+                    <ul>
+                        <li><a href="/">ETS Countdown</a></li>
+                        <li><a href="/time-converter/">Time Converter</a></li>
+                        <li><a href="/uniform-size/">Uniform Size</a></li>
+                        <li><a href="/bah-calculator/">BAH Calculator</a></li>
+                        <li><a href="/pay-calculator/">Pay Calculator</a></li>
+                        <li><a href="/va-disability-calculator/">VA Disability</a></li>
+                        <li><a href="/retirement-calculator/">Retirement</a></li>
+                        <li><a href="/gi-bill-calculator/">GI Bill</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="/privacy-policy">Privacy Policy</a></li>
+                        <li><a href="/contact">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Military Life Tools. All rights reserved.</p>
+                <p class="disclaimer">This is not an official Department of Defense, VA, or U.S. Government website. Data sourced from official public sources (VA.gov).</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/js/gi-bill.js"></script>
+</body>
+</html>

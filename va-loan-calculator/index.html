@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VA Loan Calculator 2026 - Estimate Affordability | Military Life Tools</title>
+    <meta name="description" content="Estimate your VA loan affordability with our free calculator based on income, debts, down payment, and interest rates.">
+    <meta name="keywords" content="va loan calculator, va loan affordability calculator, military home loan calculator, va mortgage calculator">
+    <link rel="canonical" href="https://militarylifetools.com/va-loan-calculator/">
+    <link rel="stylesheet" href="/css/v2.css">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "VA Loan Calculator",
+        "url": "https://militarylifetools.com/va-loan-calculator/",
+        "description": "Estimate VA loan affordability based on gross income, monthly debts, and interest rate.",
+        "applicationCategory": "FinanceApplication",
+        "operatingSystem": "All",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        }
+    }
+    </script>
+    <meta name="google-site-verification" content="iepHyaZDEGkCra5Kge0jFWM0VhxzXDWzgHQkIWG-FA8" />
+    <script data-cfasync="false" src="https://cmp.gatekeeperconsent.com/min.js"></script>
+    <script data-cfasync="false" src="https://the.gatekeeperconsent.com/cmp.min.js"></script>
+    <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
+    <script>
+        window.ezstandalone = window.ezstandalone || {};
+        ezstandalone.cmd = ezstandalone.cmd || [];
+    </script>
+    <script src="//ezoicanalytics.com/analytics.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5JYW9XD3MZ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-5JYW9XD3MZ');
+    </script>
+</head>
+<body>
+    <header class="header">
+        <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox" aria-label="Toggle navigation menu">
+        <label for="nav-toggle" class="nav-toggle-icon" aria-hidden="true">&#9776;</label>
+        <nav class="nav container">
+            <a href="/" class="logo">Military Life Tools</a>
+            <ul class="nav-links">
+                <li><a href="/">ETS</a></li>
+                <li><a href="/time-converter/">Time</a></li>
+                <li><a href="/uniform-size/">Uniform</a></li>
+                <li><a href="/bah-calculator/">BAH</a></li>
+                <li><a href="/pay-calculator/">Pay</a></li>
+                <li><a href="/leave-calculator/">Leave</a></li>
+                <li><a href="/pcs-move-checklist/">PCS</a></li>
+                <li><a href="/va-loan-calculator/" class="active">VA Loan</a></li>
+                <li><a href="/va-disability-calculator/">VA</a></li>
+                <li><a href="/retirement-calculator/">Retire</a></li>
+                <li><a href="/gi-bill-calculator/">GI Bill</a></li>
+                <li><a href="/tsp-withdrawal-calculator/">TSP</a></li>
+                <li><a href="/blog">Blog</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="ad-slot ad-top">
+        <span id="ezoic-ad-placeholder-top"></span>
+    </div>
+
+    <main class="main">
+        <section class="tool-section">
+            <div class="container">
+                <h1 class="tool-title">VA Loan Affordability Calculator</h1>
+                <p class="tool-subtitle">Estimate your comfortable home budget using a common VA-friendly debt-to-income guideline.</p>
+
+                <div class="card">
+                    <div class="pay-form">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="income">Gross Monthly Income</label>
+                                <input type="number" id="income" class="input-field" min="0" step="100" value="8000">
+                            </div>
+                            <div class="form-group">
+                                <label for="debt">Monthly Debt Payments</label>
+                                <input type="number" id="debt" class="input-field" min="0" step="50" value="500">
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="downPayment">Down Payment</label>
+                                <input type="number" id="downPayment" class="input-field" min="0" step="1000" value="0">
+                            </div>
+                            <div class="form-group">
+                                <label for="interestRate">Interest Rate (%)</label>
+                                <input type="number" id="interestRate" class="input-field" min="0" step="0.1" value="6.5">
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="termYears">Loan Term (years)</label>
+                                <select id="termYears" class="select-full">
+                                    <option value="15">15 years</option>
+                                    <option value="30" selected>30 years</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="taxInsurance">Monthly Taxes + Insurance</label>
+                                <input type="number" id="taxInsurance" class="input-field" min="0" step="50" value="500">
+                            </div>
+                        </div>
+
+                        <button id="calculateLoanBtn" class="btn btn-primary full-width" onclick="calculateLoan()">Estimate Affordability</button>
+                    </div>
+
+                    <div id="loanResult" class="bah-result">
+                        <div class="result-header">
+                            <h3>Your Estimated VA Loan Budget</h3>
+                            <p class="result-location">Estimate based on a 41% DTI guideline.</p>
+                        </div>
+                        <div class="rate-display">
+                            <div class="rate-main">
+                                <span class="rate-label">Estimated Monthly Housing Budget</span>
+                                <span id="maxPayment" class="rate-value">$0</span>
+                            </div>
+                            <div class="rate-details">
+                                <div class="rate-item">
+                                    <span class="rate-item-label">Estimated Loan Amount</span>
+                                    <span id="loanAmount" class="rate-item-value">$0</span>
+                                </div>
+                                <div class="rate-item">
+                                    <span class="rate-item-label">Estimated Home Price</span>
+                                    <span id="homePrice" class="rate-item-value">$0</span>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="date-format-hint">This is a rough planning estimate and does not account for funding fees, credit score, or lender-specific underwriting rules.</p>
+                    </div>
+
+                    <div class="share-section">
+                        <h3>Share This Tool</h3>
+                        <div class="share-buttons">
+                            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmilitarylifetools.com%2Fva-loan-calculator%2F" target="_blank" rel="noopener noreferrer" class="share-btn share-facebook" title="Share on Facebook">Facebook</a>
+                            <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fmilitarylifetools.com%2Fva-loan-calculator%2F&text=VA%20Loan%20Calculator" target="_blank" rel="noopener noreferrer" class="share-btn share-twitter" title="Share on X">X</a>
+                            <a href="https://reddit.com/submit?url=https%3A%2F%2Fmilitarylifetools.com%2Fva-loan-calculator%2F&title=VA%20Loan%20Calculator" target="_blank" rel="noopener noreferrer" class="share-btn share-reddit" title="Share on Reddit">Reddit</a>
+                            <button class="share-btn share-copy" onclick="copyShareLink(this)" title="Copy link">Copy Link</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="ad-slot ad-top">
+                    <span id="ezoic-ad-placeholder-mid-1"></span>
+                </div>
+
+                <section class="amazon-picks" aria-label="Recommended home and finance products for military homebuyers">
+                    <div class="amazon-picks-header">
+                        <h2>Homebuying and financial readiness picks</h2>
+                        <p>Helpful tools and products for military families planning a home purchase.</p>
+                    </div>
+                    <div class="amazon-grid">
+                        <div class="amazon-card"><div class="amazon-card-img">🏠</div><h3 class="amazon-card-title">Fireproof Document Safe</h3><div class="amazon-card-price">$29.99 – $89.99</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=fireproof+document+safe&i=home&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                        <div class="amazon-card"><div class="amazon-card-img">📓</div><h3 class="amazon-card-title">Budget Planner Notebook</h3><div class="amazon-card-price">$9.99 – $19.99</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=budget+planner+notebook&i=officeproducts&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                        <div class="amazon-card"><div class="amazon-card-img">🧾</div><h3 class="amazon-card-title">Home Filing Organizer</h3><div class="amazon-card-price">$16.99 – $39.99</div><a class="amazon-card-cta" href="https://www.amazon.com/s?k=home+filing+organizer&i=home&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a></div>
+                    </div>
+                    <p class="amazon-picks-footer">As an Amazon Associates, we earn from qualifying purchases.</p>
+                </section>
+
+                <article class="content-section">
+                    <div class="highlight-box" style="margin-bottom: 1.25rem; padding: 1rem; border-left: 4px solid var(--accent-color); background: #f8fbff;">
+                        <strong>Related guide:</strong> Read our <a href="/blog/va-loan-calculator-guide/">VA loan calculator guide</a> to understand how affordability is estimated and how to use the results thoughtfully.
+                    </div>
+                    <h2>How VA loan affordability is estimated</h2>
+                    <p>VA loan programs can be very attractive for eligible service members, but understanding how much home you can reasonably afford is just as important as finding a loan. This calculator uses a simple guideline based on gross monthly income and monthly debt to estimate a starting budget.</p>
+
+                    <h2>Why this page can attract traffic</h2>
+                    <p>People commonly search for terms like “VA loan calculator,” “VA loan affordability calculator,” and “military mortgage calculator.” A practical calculator paired with helpful content can attract both research and commercial intent traffic.</p>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        function calculateLoan() {
+            const income = parseFloat(document.getElementById('income').value) || 0;
+            const debt = parseFloat(document.getElementById('debt').value) || 0;
+            const downPayment = parseFloat(document.getElementById('downPayment').value) || 0;
+            const rate = (parseFloat(document.getElementById('interestRate').value) || 0) / 100;
+            const termYears = parseFloat(document.getElementById('termYears').value) || 30;
+            const taxInsurance = parseFloat(document.getElementById('taxInsurance').value) || 0;
+
+            const maxHousingPayment = Math.max(0, income * 0.41 - debt);
+            const monthlyMortgagePayment = Math.max(0, maxHousingPayment - taxInsurance / 1);
+            const monthlyRate = rate / 12;
+            const totalPayments = termYears * 12;
+
+            let loanAmount = 0;
+            if (monthlyRate > 0) {
+                loanAmount = monthlyMortgagePayment * (Math.pow(1 + monthlyRate, totalPayments) - 1) / (monthlyRate * Math.pow(1 + monthlyRate, totalPayments));
+            } else {
+                loanAmount = monthlyMortgagePayment * totalPayments;
+            }
+
+            const homePrice = loanAmount + downPayment;
+
+            document.getElementById('maxPayment').textContent = '$' + maxHousingPayment.toLocaleString(undefined, {maximumFractionDigits: 0});
+            document.getElementById('loanAmount').textContent = '$' + loanAmount.toLocaleString(undefined, {maximumFractionDigits: 0});
+            document.getElementById('homePrice').textContent = '$' + homePrice.toLocaleString(undefined, {maximumFractionDigits: 0});
+        }
+
+        function copyShareLink(button) {
+            const url = window.location.href;
+            navigator.clipboard.writeText(url).then(() => {
+                const originalText = button.textContent;
+                button.textContent = 'Copied!';
+                setTimeout(() => {
+                    button.textContent = originalText;
+                }, 1500);
+            });
+        }
+
+        calculateLoan();
+    </script>
+</body>
+</html>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,6 +8,61 @@
     <meta name="keywords" content="military ETS countdown, military separation countdown, ETS date calculator, days until discharge, military countdown timer">
     <link rel="canonical" href="https://militarylifetools.com/">
     <link rel="stylesheet" href="css/v2.css">
+    <style>
+        .quick-start {
+            max-width: 1100px;
+            margin: 1.5rem auto 2rem;
+            padding: 1.25rem 1.25rem 1.4rem;
+            border-radius: 18px;
+            background: linear-gradient(135deg, #0f3d5a 0%, #0b2340 100%);
+            color: #fff;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.16);
+        }
+        .quick-start h2 {
+            margin: 0 0 0.35rem;
+            font-size: 1.35rem;
+        }
+        .quick-start p {
+            margin: 0 0 1rem;
+            color: rgba(255,255,255,0.88);
+        }
+        .quick-card-grid {
+            display: grid;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            gap: 0.9rem;
+        }
+        .quick-card {
+            display: block;
+            padding: 0.95rem 1rem;
+            border-radius: 14px;
+            background: rgba(255,255,255,0.95);
+            color: #0b2340;
+            text-decoration: none;
+            font-weight: 700;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .quick-card span {
+            display: block;
+            margin-top: 0.35rem;
+            font-size: 0.9rem;
+            color: #3f5162;
+            font-weight: 500;
+        }
+        .quick-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 18px rgba(0,0,0,0.18);
+        }
+        @media (max-width: 900px) {
+            .quick-card-grid {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+        }
+        @media (max-width: 560px) {
+            .quick-card-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
     
     <!-- Open Graph -->
     <meta property="og:title" content="Military ETS Countdown Timer - Free Online Tool">
@@ -104,15 +159,25 @@
 </head>
 <body>
     <header>
+        
+        <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox" aria-label="Toggle navigation menu">
+        <label for="nav-toggle" class="nav-toggle-icon" aria-hidden="true">&#9776;</label>
         <nav>
             <a href="/" class="logo">Military Life Tools</a>
-            <ul>
-                <li><a href="/" class="active">ETS Countdown</a></li>
-                <li><a href="/time-converter">Time Converter</a></li>
-                <li><a href="/uniform-size">Uniform Size</a></li>
-                <li><a href="/bah-calculator">BAH Calculator</a></li>
-                <li><a href="/pay-calculator">Pay Calculator</a></li>
-                <li><a href="/blog">Blog</a></li>
+<ul class="nav-links">
+                <li><a href="/" class="active">ETS</a>
+                <li><a href="/time-converter/">Time</a>
+                <li><a href="/uniform-size/">Uniform</a>
+                <li><a href="/bah-calculator/">BAH</a>
+                <li><a href="/pay-calculator/">Pay</a>
+                <li><a href="/leave-calculator/">Leave</a>
+                <li><a href="/pcs-move-checklist/">PCS</a>
+                <li><a href="/va-loan-calculator/">VA Loan</a>
+                <li><a href="/va-disability-calculator/">VA</a>
+                <li><a href="/retirement-calculator/">Retire</a>
+                <li><a href="/gi-bill-calculator/">GI Bill</a>
+                <li><a href="/tsp-withdrawal-calculator/">TSP</a>
+                <li><a href="/blog">Blog</a>
             </ul>
         </nav>
     </header>
@@ -126,6 +191,31 @@
         <section class="hero">
             <h1>Military ETS Countdown Timer</h1>
             <p class="subtitle">Track your separation date with real-time countdown and milestones</p>
+        </section>
+
+        <section class="quick-start" aria-label="Most useful tools for military planning">
+            <h2>Most useful tools right now</h2>
+            <p>Start with the pages that bring the strongest search intent and the best chance to help military families plan.</p>
+            <div class="quick-card-grid">
+                <a class="quick-card" href="/leave-calculator/">Leave Calculator <span>Estimate leave balance and planning</span></a>
+                <a class="quick-card" href="/pcs-move-checklist/">PCS Checklist <span>Plan your timeline before the next move</span></a>
+                <a class="quick-card" href="/va-loan-calculator/">VA Loan Calculator <span>Estimate a realistic home budget</span></a>
+                <a class="quick-card" href="/pay-calculator/">Pay Calculator <span>See total military compensation</span></a>
+            </div>
+        </section>
+
+        <section class="content-section" style="max-width: 1100px; margin: 0 auto 2rem; padding: 0 1.25rem;">
+            <h2>Helpful guides for military planning</h2>
+            <p>These pages are designed to help readers move from a quick tool use to a fuller explanation of the topic.</p>
+            <div class="quick-card-grid">
+                <a class="quick-card" href="/blog/bah-calculator-guide/">BAH Guide <span>How BAH works and how to estimate it</span></a>
+                <a class="quick-card" href="/blog/tsp-retirement-guide/">TSP & Retirement <span>Retirement planning and withdrawal basics</span></a>
+                <a class="quick-card" href="/blog/military-leave-calculator-guide/">Leave Guide <span>Plan around PCS, ETS, and deployment</span></a>
+                <a class="quick-card" href="/blog/pcs-move-checklist-guide/">PCS Guide <span>Timeline planning for military relocations</span></a>
+                <a class="quick-card" href="/blog/va-disability-guide/">VA Disability Guide <span>Understand ratings, claims, and compensation</span></a>
+                <a class="quick-card" href="/blog/gi-bill-guide/">GI Bill Guide <span>Understand tuition, housing, and school planning</span></a>
+                <a class="quick-card" href="/blog/retirement-planning-guide/">Retirement Guide <span>Legacy, BRS, TSP, and pension basics</span></a>
+            </div>
         </section>
 
         <section class="calculator">
@@ -307,7 +397,48 @@
     </main>
 
     
-            <!-- Ezoic Bottom Banner -->
+            
+    <!-- Amazon Picks: Recommended Post-Military Essentials -->
+    <section class="amazon-picks" aria-label="Recommended Recommended Post-Military Essentials on Amazon">
+        <div class="amazon-picks-header">
+            <h2>★ Recommended Post-Military Essentials</h2>
+            <p>Must-have gear for transitioning out of service and the job market</p>
+        </div>
+        <div class="amazon-grid">
+        <div class="amazon-card">
+            <div class="amazon-card-img">🎖️</div>
+            <h3 class="amazon-card-title">Military Shadow Box Display Case</h3>
+            <div class="amazon-card-price">$24.99 – $89.99</div>
+            <a class="amazon-card-cta" href="https://www.amazon.com/s?k=military%20shadow%20box%20display&i=fashion&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+        </div>
+        <div class="amazon-card">
+            <div class="amazon-card-img">📄</div>
+            <h3 class="amazon-card-title">Military to Civilian Resume Guide</h3>
+            <div class="amazon-card-price">$12.99 – $19.95</div>
+            <a class="amazon-card-cta" href="https://www.amazon.com/s?k=military%20to%20civilian%20resume&i=fashion&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+        </div>
+        <div class="amazon-card">
+            <div class="amazon-card-img">💼</div>
+            <h3 class="amazon-card-title">Professional Briefcase for Veterans</h3>
+            <div class="amazon-card-price">$39.99 – $129.00</div>
+            <a class="amazon-card-cta" href="https://www.amazon.com/s?k=leather%20briefcase%20men%20business&i=fashion&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+        </div>
+        <div class="amazon-card">
+            <div class="amazon-card-img">🧳</div>
+            <h3 class="amazon-card-title">TSA-Approved Luggage Lock Set</h3>
+            <div class="amazon-card-price">$15.99 – $34.99</div>
+            <a class="amazon-card-cta" href="https://www.amazon.com/s?k=TSA%20approved%20luggage%20lock&i=fashion&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+        </div>
+        <div class="amazon-card">
+            <div class="amazon-card-img">📅</div>
+            <h3 class="amazon-card-title">Interview Prep Book Bundle</h3>
+            <div class="amazon-card-price">$14.99 – $24.95</div>
+            <a class="amazon-card-cta" href="https://www.amazon.com/s?k=job%20interview%20preparation%20book&i=fashion&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+        </div>
+        </div>
+        <p class="amazon-picks-footer">As an Amazon Associates, we earn from qualifying purchases. Prices and availability are accurate as of the date/time indicated and are subject to change.</p>
+    </section>
+    <!-- Ezoic Bottom Banner -->
             <div style="margin: 2rem auto; text-align: center; max-width: 728px; min-height: 90px;">
                 <span id="ezoic-ad-placeholder-bottom"></span>
             </div>
@@ -325,6 +456,9 @@
                     <li><a href="/uniform-size">Uniform Size</a></li>
                     <li><a href="/bah-calculator">BAH Calculator</a></li>
                     <li><a href="/pay-calculator">Pay Calculator</a></li>
+                    <li><a href="/leave-calculator">Leave Calculator</a></li>
+                    <li><a href="/pcs-move-checklist">PCS Checklist</a></li>
+                    <li><a href="/va-loan-calculator">VA Loan Calculator</a></li>
                 </ul>
             </div>
             <div class="footer-section">

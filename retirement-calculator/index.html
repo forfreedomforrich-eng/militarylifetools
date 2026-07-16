@@ -1,0 +1,321 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Military Retirement Pay Calculator 2026 - Legacy & BRS | Military Life Tools</title>
+    <meta name="description" content="Free military retirement pay calculator for 2026. Supports both Legacy (pre-2018) and Blended Retirement System (BRS). Calculates monthly pension, lump sum option, and annual retirement pay.">
+    <meta name="keywords" content="military retirement pay calculator, military pension, BRS calculator, legacy retirement, military retirement 2026, DFAS retirement">
+    <link rel="canonical" href="https://militarylifetools.com/retirement-calculator">
+    <link rel="stylesheet" href="/css/v2.css">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Military Retirement Pay Calculator",
+        "url": "https://militarylifetools.com/retirement-calculator",
+        "description": "Calculate military retirement pay under Legacy and BRS systems",
+        "applicationCategory": "FinanceApplication",
+        "operatingSystem": "All",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {"@type":"Question","name":"How is military retirement pay calculated?","acceptedAnswer":{"@type":"Answer","text":"Legacy system: 50% of high-3 base pay at 20 years, plus 2.5% per additional year (capped at 75% at 40 years). BRS: 40% at 20 years, plus 2% per additional year (capped at 60% at 30 years), plus TSP with 5% agency match."}},
+            {"@type":"Question","name":"What is the high-3 average pay?","acceptedAnswer":{"@type":"Answer","text":"Your high-3 average is the average of your highest 36 months of basic pay. Typically your last 3 years of service. It's used as the basis for calculating your monthly retirement pay."}},
+            {"@type":"Question","name":"What's the difference between Legacy and BRS?","acceptedAnswer":{"@type":"Answer","text":"Legacy (pre-Jan 2018): Defined benefit only, 50% at 20 years. BRS (post-Jan 2018): Reduced defined benefit (40% at 20) PLUS Thrift Savings Plan with 5% agency match. BRS requires you to contribute to TSP to get the full match."}},
+            {"@type":"Question","name":"Can I take a lump sum instead of monthly retirement?","acceptedAnswer":{"@type":"Answer","text":"Yes, under BRS you can choose to take a reduced monthly pension (50% less) plus a 25-50% lump sum of the discounted present value. Legacy retirees can choose a Career Status Bonus (CSB) at 15 years for $30,000 with reduced monthly pension."}},
+            {"@type":"Question","name":"When can I retire from the military?","acceptedAnswer":{"@type":"Answer","text":"Most service members are eligible to retire after 20 years of active duty service. Some special operations communities allow earlier retirement. Reserve members qualify after 20 'good years' reaching age 60 (or earlier under certain conditions)."},
+            {"@type":"Question","name":"Is military retirement pay taxable?","acceptedAnswer":{"@type":"Answer","text":"Yes. Military retirement pay is taxable at federal and state levels (except in states that exempt it). Many retirees choose to have taxes withheld directly to avoid a large bill in April."}},
+            {"@type":"Question","name":"Does military retirement pay increase with COLA?","acceptedAnswer":{"@type":"Answer","text":"Yes. Military retirement pay gets annual Cost-of-Living Adjustments (COLA) based on the CPI-W index. Retired pay typically keeps pace with inflation."}},
+            {"@type":"Question","name":"Can I work a civilian job while receiving military retirement?","acceptedAnswer":{"@type":"Answer","text":"Yes. Most military retirees work full civilian careers after service. There's no offset or reduction (except for very rare double-dipping restrictions). Many federal jobs offer special hiring preferences for veterans."}}
+        ]
+    }
+    </script>
+    <meta name="google-site-verification" content="iepHyaZDEGkCra5Kge0jFWM0VhxzXDWzgHQkIWG-FA8" />
+    <script data-cfasync="false" src="https://cmp.gatekeeperconsent.com/min.js"></script>
+    <script data-cfasync="false" src="https://the.gatekeeperconsent.com/cmp.min.js"></script>
+    <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
+    <script>window.ezstandalone = window.ezstandalone || {}; ezstandalone.cmd = ezstandalone.cmd || [];</script>
+    <script src="//ezoicanalytics.com/analytics.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5JYW9XD3MZ"></script>
+    <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-5JYW9XD3MZ');</script>
+</head>
+<body>
+
+    <header class="header">
+        
+        <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox" aria-label="Toggle navigation menu">
+        <label for="nav-toggle" class="nav-toggle-icon" aria-hidden="true">&#9776;</label>
+        <nav class="nav container">
+            <a href="/" class="logo">Military Life Tools</a>
+<ul class="nav-links">
+                <li><a href="/">ETS</a>
+                <li><a href="/time-converter/">Time</a>
+                <li><a href="/uniform-size/">Uniform</a>
+                <li><a href="/bah-calculator/">BAH</a>
+                <li><a href="/pay-calculator/">Pay</a>
+                <li><a href="/va-disability-calculator/">VA</a>
+                <li><a href="/retirement-calculator/" class="active">Retire</a>
+                <li><a href="/gi-bill-calculator/">GI Bill</a>
+                <li><a href="/tsp-withdrawal-calculator/">TSP</a>
+                <li><a href="/blog">Blog</a>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="ad-slot ad-top">
+        <span id="ezoic-ad-placeholder-top"></span>
+    </div>
+
+    <main class="main">
+        <section class="tool-section">
+            <div class="container">
+                <h1 class="tool-title">Military Retirement Pay Calculator (2026)</h1>
+                <p class="tool-subtitle">Calculate your military pension under Legacy or BRS retirement systems.</p>
+
+                <div class="card">
+                    <div class="input-stack">
+                        <div>
+                            <label for="rank">Final Rank at Retirement</label>
+                            <select id="rank" style="padding: 0.85rem; border: 2px solid #ddd; border-radius: 8px; font-size: 1rem; min-height: 44px; width: 100%;">
+                                <option value="">-- Select your final rank --</option>
+                                <optgroup label="Enlisted">
+                                    <option value="E7">E-7 (Sergeant First Class / Chief Petty Officer)</option>
+                                    <option value="E8">E-8 (Master Sergeant / Senior Chief)</option>
+                                    <option value="E9">E-9 (Sergeant Major / Master Chief)</option>
+                                </optgroup>
+                                <optgroup label="Warrant Officer">
+                                    <option value="W4">W-4 (Chief Warrant Officer 4)</option>
+                                    <option value="W5">W-5 (Chief Warrant Officer 5)</option>
+                                </optgroup>
+                                <optgroup label="Officer">
+                                    <option value="O5">O-5 (Lieutenant Colonel / Commander)</option>
+                                    <option value="O6">O-6 (Colonel / Captain)</option>
+                                    <option value="O7">O-7 (Brigadier General / Rear Admiral)</option>
+                                </optgroup>
+                            </select>
+                        </div>
+
+                        <div>
+                            <label for="years">Years of Service at Retirement</label>
+                            <input type="number" id="years" min="20" max="40" value="20" placeholder="e.g. 20" />
+                        </div>
+
+                        <div>
+                            <label for="system">Retirement System</label>
+                            <select id="system" style="padding: 0.85rem; border: 2px solid #ddd; border-radius: 8px; font-size: 1rem; min-height: 44px; width: 100%;">
+                                <option value="legacy">Legacy (Joined before Jan 1, 2018)</option>
+                                <option value="brs">BRS - Blended Retirement System (Joined after Jan 1, 2018)</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <button id="calculateBtn" class="btn btn-primary full-width" style="margin-top: 1.5rem;">Calculate Retirement Pay</button>
+                </div>
+
+                <div id="retResult" class="tool-result hidden">
+                    <h2 style="text-align:center; margin-bottom: 0.5rem;">Your Estimated Monthly Retirement</h2>
+                    <div class="result-headline big" id="resultMonthly">$0</div>
+
+                    <div class="result-breakdown">
+                        <div class="result-item">
+                            <div class="result-item-label">Annual Pension</div>
+                            <div class="result-item-value" id="resultAnnual">$0</div>
+                        </div>
+                        <div class="result-item">
+                            <div class="result-item-label">Multiplier</div>
+                            <div class="result-item-value" id="resultMultiplier">50.0%</div>
+                        </div>
+                        <div class="result-item">
+                            <div class="result-item-label">High-3 Base Pay</div>
+                            <div class="result-item-value" id="resultHigh3">$0</div>
+                        </div>
+                        <div class="result-item">
+                            <div class="result-item-label">30-Year Lump Sum (BRS)</div>
+                            <div class="result-item-value" id="resultLumpSum">$0</div>
+                        </div>
+                    </div>
+
+                    <div style="margin-top: 1.5rem; background: rgba(255,255,255,0.1); padding: 1rem; border-radius: 8px;">
+                        <h3 style="margin-bottom: 0.5rem; font-size: 1rem;">About TSP & BRS</h3>
+                        <p id="resultTspNote" style="font-size: 0.9rem; line-height: 1.5;"></p>
+                    </div>
+                </div>
+
+                <article class="content-section">
+                    <h2>Legacy vs BRS: Which Retirement System?</h2>
+                    <p>If you joined the military before January 1, 2018, you're in the <strong>Legacy</strong> system (defined benefit only). If you joined on or after January 1, 2018, you're in the <strong>BRS</strong> (Blended Retirement System). Some service members had a one-time option to opt into BRS during 2018-2019.</p>
+
+                    <h2>How the Multiplier Works</h2>
+                    <h3>Legacy System</h3>
+                    <ul>
+                        <li><strong>20 years</strong> = 50% of high-3 base pay</li>
+                        <li><strong>21-40 years</strong> = +2.5% per additional year</li>
+                        <li><strong>Maximum at 40 years</strong> = 75% of high-3</li>
+                    </ul>
+                    <h3>BRS (Blended Retirement System)</h3>
+                    <ul>
+                        <li><strong>20 years</strong> = 40% of high-3 base pay</li>
+                        <li><strong>21-30 years</strong> = +2% per additional year</li>
+                        <li><strong>Maximum at 30 years</strong> = 60% of high-3</li>
+                        <li><strong>+ TSP with 5% agency match</strong> (1% automatic + 4% matching)</li>
+                    </ul>
+
+                    <h2>2026 High-3 Base Pay Examples</h2>
+                    <p>Your "high-3" is the average of your highest 36 months of basic pay. For most members, this is simply their last 3 years of base pay:</p>
+                    <div class="conversion-table">
+                        <div class="table-wrapper">
+                            <table class="time-table">
+                                <thead>
+                                    <tr>
+                                        <th>Rank</th>
+                                        <th>High-3 Base Pay (2026)</th>
+                                        <th>Legacy @ 20 yr (50%)</th>
+                                        <th>BRS @ 20 yr (40%)</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr><td>E-7</td><td>$5,683.20</td><td>$2,841.60/mo</td><td>$2,273.28/mo</td></tr>
+                                    <tr><td>E-8</td><td>$6,388.20</td><td>$3,194.10/mo</td><td>$2,555.28/mo</td></tr>
+                                    <tr><td>E-9</td><td>$7,305.00</td><td>$3,652.50/mo</td><td>$2,922.00/mo</td></tr>
+                                    <tr><td>W-4</td><td>$7,672.50</td><td>$3,836.25/mo</td><td>$3,069.00/mo</td></tr>
+                                    <tr><td>O-5</td><td>$10,567.80</td><td>$5,283.90/mo</td><td>$4,227.12/mo</td></tr>
+                                    <tr><td>O-6</td><td>$12,318.60</td><td>$6,159.30/mo</td><td>$4,927.44/mo</td></tr>
+                                    <tr><td>O-7</td><td>$14,041.80</td><td>$7,020.90/mo</td><td>$5,616.72/mo</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <h2>The TSP Catch-Up (BRS Advantage)</h2>
+                    <p>BRS retirees who contribute 5% of base pay to TSP get an additional <strong>5% agency match</strong> (1% automatic + 4% match). Over a 20-year career, this can grow to <strong>$200,000+ in matched contributions alone</strong> — often making BRS more valuable than Legacy for most members, especially those who don't stay past 20 years.</p>
+
+                    <h2>Lump Sum Option (BRS Only)</h2>
+                    <p>BRS retirees can choose to receive <strong>25% or 50%</strong> of the discounted present value of their pension as a lump sum at retirement, in exchange for a reduced monthly pension. Use this calculator's "30-Year Lump Sum" estimate to model this option.</p>
+
+                    <h2>Tips for Maximizing Your Retirement</h2>
+                    <ul>
+                        <li><strong>Stay past 20 years</strong> if possible — the multiplier jump from 19 to 20 years is massive (you go from 0% to 50% pension in Legacy).</li>
+                        <li><strong>Max out TSP early</strong> — agency match is free money. In BRS, contribute at least 5% to get the full match.</li>
+                        <li><strong>Use the high-3 years</strong> to your advantage — try to promote or pick up TDY assignments during these 3 years.</li>
+                        <li><strong>Consider Survivor Benefit Plan (SBP)</strong> — costs ~6.5% of pension but provides continued pay to spouse after death.</li>
+                        <li><strong>Plan for COLA adjustments</strong> — your pension will increase yearly with inflation.</li>
+                        <li><strong>Don't forget VA disability</strong> — if you have service-connected conditions, file for VA disability. You can receive both military retirement AND VA disability (Concurrent Receipt under CRSC for combat-related, or just standard if med-boarded).</li>
+                    </ul>
+                </article>
+
+                <div style="margin: 2rem auto; text-align: center; max-width: 728px; min-height: 250px;">
+                    <span id="ezoic-ad-placeholder-mid-1"></span>
+                </div>
+
+                <h2 style="margin-top: 2rem;">Frequently Asked Questions</h2>
+                <div class="faq-item">
+                    <h3>How is military retirement pay calculated?</h3>
+                    <p><strong>Legacy:</strong> 50% of high-3 base pay at 20 years, plus 2.5% per additional year (capped at 75% at 40 years). <strong>BRS:</strong> 40% at 20 years, plus 2% per additional year (capped at 60% at 30 years), plus TSP with 5% agency match.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>What is the high-3 average pay?</h3>
+                    <p>Your high-3 average is the average of your highest 36 months of basic pay. Typically your last 3 years of service. It's used as the basis for calculating your monthly retirement pay.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>What's the difference between Legacy and BRS?</h3>
+                    <p><strong>Legacy (pre-Jan 2018):</strong> Defined benefit only, 50% at 20 years. <strong>BRS (post-Jan 2018):</strong> Reduced defined benefit (40% at 20) PLUS Thrift Savings Plan with 5% agency match. BRS requires you to contribute to TSP to get the full match.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>Can I take a lump sum instead of monthly retirement?</h3>
+                    <p>Yes, under BRS you can choose to take a reduced monthly pension (50% less) plus a 25-50% lump sum of the discounted present value. Legacy retirees can choose a Career Status Bonus (CSB) at 15 years for $30,000 with reduced monthly pension.</p>
+                </div>
+                <div class="faq-item">
+                    <h3>When can I retire from the military?</h3>
+                    <p>Most service members are eligible to retire after 20 years of active duty service. Reserve members qualify after 20 'good years' reaching age 60 (or earlier under certain conditions).</p>
+                </div>
+                <div class="faq-item">
+                    <h3>Is military retirement pay taxable?</h3>
+                    <p>Yes. Military retirement pay is taxable at federal and state levels (except in states that exempt it). Many retirees have taxes withheld directly to avoid a large bill in April.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="amazon-picks" aria-label="Recommended Retirement Planning Books on Amazon">
+            <div class="amazon-picks-header">
+                <h2>📚 Recommended Retirement Planning Books</h2>
+                <p>Plan your military-to-civilian financial transition</p>
+            </div>
+            <div class="amazon-grid">
+                <div class="amazon-card">
+                    <div class="amazon-card-img">📘</div>
+                    <h3 class="amazon-card-title">Retirement Planning for Veterans</h3>
+                    <div class="amazon-card-price">$14.99 – $24.95</div>
+                    <a class="amazon-card-cta" href="https://www.amazon.com/s?k=military+retirement+planning&i=stripbooks&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+                </div>
+                <div class="amazon-card">
+                    <div class="amazon-card-img">💰</div>
+                    <h3 class="amazon-card-title">TSP Investing Handbook</h3>
+                    <div class="amazon-card-price">$12.99 – $19.95</div>
+                    <a class="amazon-card-cta" href="https://www.amazon.com/s?k=TSP+investing+guide&i=stripbooks&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+                </div>
+                <div class="amazon-card">
+                    <div class="amazon-card-img">📊</div>
+                    <h3 class="amazon-card-title">Personal Finance Workbook</h3>
+                    <div class="amazon-card-price">$9.99 – $16.99</div>
+                    <a class="amazon-card-cta" href="https://www.amazon.com/s?k=personal+finance+workbook&i=stripbooks&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+                </div>
+                <div class="amazon-card">
+                    <div class="amazon-card-img">📁</div>
+                    <h3 class="amazon-card-title">Fireproof Document Safe</h3>
+                    <div class="amazon-card-price">$29.99 – $89.99</div>
+                    <a class="amazon-card-cta" href="https://www.amazon.com/s?k=fireproof+document+safe&i=homegarden&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+                </div>
+                <div class="amazon-card">
+                    <div class="amazon-card-img">📋</div>
+                    <h3 class="amazon-card-title">Resume & Job Search Kit</h3>
+                    <div class="amazon-card-price">$14.99 – $29.95</div>
+                    <a class="amazon-card-cta" href="https://www.amazon.com/s?k=military+resume+guide&i=stripbooks&tag=militarylife2-20" target="_blank" rel="sponsored nofollow">View on Amazon</a>
+                </div>
+            </div>
+            <p class="amazon-picks-footer">As an Amazon Associate, we earn from qualifying purchases. Prices and availability are accurate as of the date/time indicated and are subject to change.</p>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Military Life Tools</h4>
+                    <p>Free online tools for military personnel, veterans, and their families.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Tools</h4>
+                    <ul>
+                        <li><a href="/">ETS Countdown</a></li>
+                        <li><a href="/time-converter/">Time Converter</a></li>
+                        <li><a href="/uniform-size/">Uniform Size</a></li>
+                        <li><a href="/bah-calculator/">BAH Calculator</a></li>
+                        <li><a href="/pay-calculator/">Pay Calculator</a></li>
+                        <li><a href="/va-disability-calculator/">VA Disability</a></li>
+                        <li><a href="/retirement-calculator/">Retirement Pay</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="/privacy-policy">Privacy Policy</a></li>
+                        <li><a href="/contact">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Military Life Tools. All rights reserved.</p>
+                <p class="disclaimer">This is not an official Department of Defense, VA, or U.S. Government website. Data sourced from official public sources (DFAS).</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/js/retirement.js"></script>
+</body>
+</html>
