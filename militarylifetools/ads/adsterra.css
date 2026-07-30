@@ -1,0 +1,128 @@
+/* ============================================
+   Adsterra 广告样式 - 非侵入式设计
+   与现有 Amazon 卡片风格保持一致
+   ============================================ */
+
+/* 广告容器 - Sponsored 标签 */
+.adsterra-wrap {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 2rem;
+    text-align: center;
+}
+
+.adsterra-slot {
+    background: #ffffff;
+    border: 1px solid #e0e6ed;
+    border-radius: 12px;
+    padding: 0.75rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    display: inline-block;
+    max-width: 100%;
+    overflow: hidden;
+    min-height: 60px;
+}
+
+.adsterra-slot::before {
+    content: "SPONSORED";
+    display: block;
+    font-size: 0.65rem;
+    color: #888;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.4rem;
+    font-weight: 600;
+    text-align: left;
+}
+
+/* 桌面端 728x90 leaderboard */
+.adsterra-slot-728x90 {
+    min-width: 728px;
+    min-height: 110px;
+}
+
+/* 桌面端 300x250 medium rectangle */
+.adsterra-slot-300x250 {
+    min-width: 300px;
+    min-height: 280px;
+}
+
+/* 移动端 320x50 mobile banner */
+.adsterra-slot-320x50 {
+    min-width: 320px;
+    min-height: 70px;
+}
+
+/* Native Banner 自适应 */
+.adsterra-slot-native {
+    min-width: 320px;
+    min-height: 100px;
+    max-width: 100%;
+}
+
+/* 响应式：默认隐藏所有，按设备显示 */
+.adsterra-desktop-only,
+.adsterra-mobile-only,
+.adsterra-tablet-up {
+    display: none;
+}
+
+/* 桌面 (≥1024px) */
+@media (min-width: 1024px) {
+    .adsterra-desktop-only {
+        display: inline-block;
+    }
+    .adsterra-tablet-up {
+        display: inline-block;
+    }
+}
+
+/* 平板 (768px-1023px) */
+@media (min-width: 768px) and (max-width: 1023px) {
+    .adsterra-tablet-up {
+        display: inline-block;
+    }
+    .adsterra-slot-728x90 {
+        min-width: 100%;
+    }
+}
+
+/* 手机 (<768px) */
+@media (max-width: 767px) {
+    .adsterra-mobile-only {
+        display: inline-block;
+    }
+    .adsterra-wrap {
+        margin: 1.5rem auto;
+        padding: 0 1rem;
+    }
+    .adsterra-slot {
+        padding: 0.5rem;
+        width: 100%;
+    }
+    .adsterra-slot-728x90,
+    .adsterra-slot-300x250 {
+        min-width: 100%;
+    }
+    .adsterra-slot-320x50 {
+        min-width: 100%;
+        min-height: 60px;
+    }
+}
+
+/* Adsterra 注入的 iframe 自适应 */
+.adsterra-slot iframe {
+    max-width: 100%;
+    border: 0;
+    display: block;
+    margin: 0 auto;
+}
+
+#container-1018c00d12d7fdaebaa6406ac52b9076 {
+    min-height: 100px;
+}
+
+/* 防止广告撑破布局 */
+.adsterra-slot > * {
+    max-width: 100% !important;
+}

@@ -1,0 +1,51 @@
+# Secrets — NEVER commit
+.env
+.env.*
+*.local
+*.key
+*.pem
+secrets.json
+
+# IndexNow verification key (regenerate via wrangler+INDEXNOW_KEY in .env if needed)
+# The file lives in militarylifetools/ but is excluded there too.
+**/aaab226be6c9421c8bd694d329223940.txt
+**/.well-known/indexnow-key.json
+.well-known/
+
+# Root-level scratch data / helper files (not part of the deployable site)
+*.json
+!militarylifetools/**/*.json
+
+# Root-level PowerShell / batch scratch (not part of the deployable site)
+*.ps1
+*.bat
+!militarylifetools/**/*.ps1
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Node
+node_modules/
+
+# Python (root-level scratch)
+__pycache__/
+*.pyc
+*.pyo
+
+# Build / temp
+*.log
+*.tmp
+.cache/
+dist/
+.next/
+
+# Git backups / accidental duplicates
+**/.git.bak/
+**/.git.bak/**
+# Accidental nested duplicate (legacy bot output landed at wrong path)
+militarylifetools/scripts/militarylifetools/
+# Local screenshots (not part of the deployable site)
+shots/

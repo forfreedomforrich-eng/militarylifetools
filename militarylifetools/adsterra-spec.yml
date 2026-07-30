@@ -1,0 +1,767 @@
+openapi: 3.1.0
+info:
+  title: Publishers API documentation
+  version: 3.0.0
+  description: |-
+    > **Important!** Changed the way API Key is passed - now it is passed in the header instead of part of the URL.
+
+    > **Rate Limit**: 1200 requests per minute, per user.
+  contact:
+    name: Support
+    email: support@adsterra.com
+servers:
+  - url: https://api3.adsterratools.com/publisher
+    description: Production server
+security:
+  - X-API-Key: []
+tags:
+  - name: Domains
+  - name: Placements
+  - name: SmartLinks
+  - name: Statistics
+paths:
+  /domains.{format}:
+    parameters:
+      - name: format
+        in: path
+        required: true
+        schema:
+          type: string
+          enum:
+            - json
+            - xml
+            - csv
+          default: json
+        description: one of json, xml, csv
+    get:
+      summary: Domains
+      responses:
+        '200':
+          description: Success
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  items:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: integer
+                        title:
+                          type: string
+                  itemCount:
+                    type: integer
+                x-examples:
+                  example-1:
+                    items:
+                      - id: 11104450
+                        title: title1.com
+                      - id: 11561045
+                        title: title2.com
+                    itemCount: 2
+              examples:
+                Domain's collection:
+                  value:
+                    items:
+                      - id: 11104450
+                        title: title1.com
+                      - id: 11561045
+                        title: title2.com
+                    itemCount: 2
+        '401':
+          $ref: '#/components/responses/unauthorized-request'
+        '403':
+          $ref: '#/components/responses/access-denied'
+        '405':
+          $ref: '#/components/responses/not-allowed'
+      operationId: get-domains
+      description: Returns a collection of domains.
+      tags:
+        - Domains
+  /domain/{domain_id}/placements.{format}:
+    parameters:
+      - schema:
+          type: integer
+          example: 1
+        name: domain_id
+        in: path
+        required: true
+        description: domains` placements ID
+      - schema:
+          type: string
+        name: format
+        in: path
+        required: true
+    get:
+      summary: Domain placements
+      responses:
+        '200':
+          description: Success
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  items:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: integer
+                        title:
+                          type: string
+                        alias:
+                          type: string
+                        direct_url:
+                          type: string
+                  itemCount:
+                    type: integer
+                x-examples:
+                  example-1:
+                    items:
+                      - id: 34895644
+                        title: Popunder_1
+                        alias: Popunder_1
+                        direct_url: https://www.directurl.com/p67vbgm2?key=e2ptum41vg83gkg92r9g
+                      - id: 34845646
+                        title: SocialBar_1
+                        alias: SocialBar_1
+                      - id: 34854561
+                        title: NativeBanner_1
+                        alias: NativeBanner_1
+                      - id: 348567652
+                        title: NativeBanner_2
+                        alias: NativeBanner_2
+                    itemCount: 4
+              examples:
+                Placement's collection:
+                  value:
+                    items:
+                      - id: 34895644
+                        title: Popunder_1
+                        alias: Popunder_1
+                        direct_url: https://www.directurl.com/p67vbgm2?key=e2ptum41vg83gkg92r9g
+                      - id: 34845646
+                        title: SocialBar_1
+                        alias: SocialBar_1
+                      - id: 34854561
+                        title: NativeBanner_1
+                        alias: NativeBanner_1
+                      - id: 348567652
+                        title: NativeBanner_2
+                        alias: NativeBanner_2
+                    itemCount: 4
+        '401':
+          $ref: '#/components/responses/unauthorized-request'
+        '403':
+          $ref: '#/components/responses/access-denied'
+        '404':
+          $ref: '#/components/responses/not-found'
+        '405':
+          $ref: '#/components/responses/not-allowed'
+      operationId: get-domain-placements
+      description: Returns a collection of placements for a specific domain.
+      tags:
+        - Domains
+  /placements.{format}:
+    parameters:
+      - name: format
+        in: path
+        required: true
+        schema:
+          type: string
+          enum:
+            - json
+            - xml
+            - csv
+          default: json
+        description: one of json, xml, csv
+    get:
+      summary: Publisher placements
+      responses:
+        '200':
+          description: Success
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  items:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: integer
+                        domain_id:
+                          type: integer
+                        title:
+                          type: string
+                        alias:
+                          type: string
+                        direct_url:
+                          type: string
+                  itemCount:
+                    type: integer
+                x-examples:
+                  example-1:
+                    items:
+                      - id: 15928739
+                        domain_id: 123455
+                        title: Popunder_1
+                        alias: Popunder_1
+                        direct_url: https://www.directurl.com/p67vbgm2?key=e2ptum41vg83gkg92r9g
+                      - id: 34675906
+                        domain_id: 123456
+                        title: SocialBar_1
+                        alias: SocialBar_1
+                    itemCount: 2
+              examples:
+                Placement's collection:
+                  value:
+                    items:
+                      - id: 15928739
+                        domain_id: 123455
+                        title: Popunder_1
+                        alias: Popunder_1
+                        direct_url: https://www.directurl.com/p67vbgm2?key=e2ptum41vg83gkg92r9g
+                      - id: 34675906
+                        domain_id: 123456
+                        title: SocialBar_1
+                        alias: SocialBar_1
+                    itemCount: 2
+        '401':
+          $ref: '#/components/responses/unauthorized-request'
+        '403':
+          $ref: '#/components/responses/access-denied'
+        '405':
+          $ref: '#/components/responses/not-allowed'
+      operationId: get-placements
+      description: Returns a collection of publishers placements.
+      tags:
+        - Placements
+  /stats.{format}:
+    parameters:
+      - name: format
+        in: path
+        required: true
+        schema:
+          type: string
+          enum:
+            - json
+            - xml
+            - csv
+          default: json
+        description: one of json, xml, csv
+    get:
+      summary: Statistics
+      responses:
+        '200':
+          description: Success
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  items:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        date:
+                          type: string
+                        impression:
+                          type: integer
+                        clicks:
+                          type: integer
+                        ctr:
+                          type: number
+                        cpm:
+                          type: number
+                        revenue:
+                          type: number
+                  itemCount:
+                    type: integer
+                  dbLastUpdateTime:
+                    type: string
+                  dbDateTime:
+                    type: string
+                x-examples:
+                  example-1:
+                    items:
+                      - date: '2018-10-04'
+                        impression: 3014
+                        clicks: 175
+                        ctr: 5.806
+                        cpm: 0.383
+                        revenue: 1.154
+                      - date: '2018-10-05'
+                        impression: 3485
+                        clicks: 155
+                        ctr: 4.448
+                        cpm: 0.396
+                        revenue: 1.379
+                    itemCount: 2
+                    dbLastUpdateTime: '2018-10-08 14:47:49'
+                    dbDateTime: '2018-10-08 14:47:54'
+              examples:
+                Group by date:
+                  value:
+                    items:
+                      - date: '2018-10-04'
+                        impression: 3014
+                        clicks: 175
+                        ctr: 5.806
+                        cpm: 0.383
+                        revenue: 1.154
+                      - date: '2018-10-05'
+                        impression: 3485
+                        clicks: 155
+                        ctr: 4.448
+                        cpm: 0.396
+                        revenue: 1.379
+                    itemCount: 2
+                    dbLastUpdateTime: '2018-10-08 14:47:49'
+                    dbDateTime: '2018-10-08 14:47:54'
+                Group by country:
+                  value:
+                    items:
+                      - country: AT
+                        impression: 889
+                        clicks: 38
+                        ctr: 4.274
+                        cpm: 0.673
+                        revenue: 0.598
+                      - country: CH
+                        impression: 408
+                        clicks: 21
+                        ctr: 5.147
+                        cpm: 0.875
+                        revenue: 0.357
+                      - country: DE
+                        impression: 5557
+                        clicks: 342
+                        ctr: 6.154
+                        cpm: 0.31
+                        revenue: 1.721
+                    itemCount: 3
+                    dbLastUpdateTime: '2018-10-08 14:55:53'
+                    dbDateTime: '2018-10-08 14:55:58'
+                Group by domain:
+                  value:
+                    items:
+                      - domain: 281040
+                        impression: 75301
+                        clicks: 4633
+                        ctr: 6.153
+                        cpm: 0.346
+                        revenue: 26.043
+                      - domain: 291463
+                        impression: 160779
+                        clicks: 1371
+                        ctr: 0.853
+                        cpm: 1.888
+                        revenue: 303.481
+                    itemCount: 2
+                    dbLastUpdateTime: '2018-10-08 14:59:14'
+                    dbDateTime: '2018-10-08 14:59:19'
+                Group by placement:
+                  value:
+                    items:
+                      - placement: 1578458751
+                        impression: 8114
+                        clicks: 433
+                        ctr: 5.336
+                        cpm: 0.354
+                        revenue: 2.869
+                      - placement: 34848952
+                        impression: 67187
+                        clicks: 4200
+                        ctr: 6.251
+                        cpm: 0.345
+                        revenue: 23.174
+                      - placement: 65846782
+                        impression: 156616
+                        clicks: 0
+                        ctr: 0
+                        cpm: 1.901
+                        revenue: 297.794
+                      - placement: 23849888
+                        impression: 4163
+                        clicks: 1371
+                        ctr: 32.933
+                        cpm: 1.366
+                        revenue: 5.687
+                    itemCount: 4
+                    dbLastUpdateTime: '2018-10-08 15:00:02'
+                    dbDateTime: '2018-10-08 15:00:07'
+                Group by placement and country:
+                  value:
+                    items:
+                      - placement: 1578458751
+                        country: US
+                        impression: 3802
+                        clicks: 8
+                        ctr: 0.21
+                        cpm: 0.341
+                        revenue: 1.298
+                      - placement: 1578458751
+                        country: GB
+                        impression: 604
+                        clicks: 0
+                        ctr: 0
+                        cpm: 0.537
+                        revenue: 0.324
+                      - placement: 1578458751
+                        country: MY
+                        impression: 0
+                        clicks: 0
+                        ctr: 0
+                        cpm: 0
+                        revenue: 0
+                    itemCount: 3
+                    dbLastUpdateTime: '2025-12-24 14:00:00'
+                    dbDateTime: '2025-12-24 14:00:05'
+                Group by placement sub id:
+                  value:
+                    items:
+                      - placement_sub_id: '-'
+                        impression: 569
+                        clicks: 1845
+                        ctr: 1.29
+                        cpm: 0.986
+                        revenue: 0.561
+                    itemCount: 1
+                    dbLastUpdateTime: '2018-10-08 15:27:17'
+                    dbDateTime: '2018-10-08 15:27:22'
+        '401':
+          $ref: '#/components/responses/unauthorized-request'
+        '403':
+          $ref: '#/components/responses/access-denied'
+        '405':
+          $ref: '#/components/responses/not-allowed'
+        '422':
+          $ref: '#/components/responses/validation'
+      operationId: get-statistics
+      description: Returns statistics.
+      parameters:
+        - schema:
+            type: integer
+            maximum: 2147483647
+          in: query
+          name: domain
+          description: Domain id
+        - schema:
+            type: integer
+          in: query
+          name: placement
+          description: |-
+            Placement id (deprecated, use placement_ids). 
+            Placement and placement_ids cannot be used together. Use separate macros
+        - schema:
+            type: string
+            default: '2022-03-06'
+            format: date
+          in: query
+          name: start_date
+          description: The start date for the date range filter (YYYY-MM-DD). Must be on or after 2016-12-17. Must be before or equal to finish_date. Date range between start_date and finish_date cannot exceed 366 days.
+          required: true
+        - schema:
+            type: string
+            default: '2022-03-06'
+            format: date
+          in: query
+          name: finish_date
+          description: The end date for the date range filter (YYYY-MM-DD). Must be on or after 2016-12-17. Date range between start_date and finish_date cannot exceed 366 days.
+          required: true
+        - schema:
+            type: array
+            default: date
+            items:
+              type: string
+              enum:
+                - date
+                - domain
+                - placement
+                - country
+                - placement_sub_id
+            minItems: 1
+            maxItems: 3
+            uniqueItems: true
+            example:
+              - date
+          in: query
+          name: group_by
+          required: true
+          description: |
+            Group by entity. Array of values (1-3 items). 
+            Note: API also accepts single values (e.g., "?group_by=date" instead of ?group_by[]=date)
+          style: form
+          explode: true
+        - schema:
+            type: string
+            example: GB
+          in: query
+          name: country
+          description: Two-letter ISO code
+        - schema:
+            type: array
+            example:
+              - 1
+              - 2
+          in: query
+          name: placement_ids
+          description: |
+            Placements ids. Placement_ids count should be less than 500.
+            Example: `placement_ids[]=1&placement_ids[]=2`
+      tags:
+        - Statistics
+  /smart-links.{format}:
+    parameters:
+      - name: format
+        in: path
+        required: true
+        schema:
+          type: string
+          enum:
+            - json
+            - xml
+            - csv
+          default: json
+        description: one of json, xml, csv
+    get:
+      summary: SmartLinks
+      tags:
+        - SmartLinks
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                required:
+                  - data
+                properties:
+                  data:
+                    type: object
+                    required:
+                      - items
+                    properties:
+                      items:
+                        type: array
+                        items:
+                          type: object
+                          required:
+                            - id
+                            - title
+                            - alias
+                            - url
+                            - traffic_type
+                            - status
+                          properties:
+                            id:
+                              type: integer
+                            title:
+                              type: string
+                            alias:
+                              type: string
+                            url:
+                              type: string
+                            traffic_type:
+                              type: string
+                            status:
+                              type: string
+              examples:
+                Example 1:
+                  value:
+                    data:
+                      items:
+                        - id: 16440365
+                          title: SmartLink_1
+                          alias: SmartLink_1
+                          url: https://supersedeaccolade.com/kjy47cw85c?key=7be36078e646f6ba3f3be61054973b46
+                          traffic_type: Adult
+                          status: Active
+        '401':
+          $ref: '#/components/responses/unauthorized-request'
+        '405':
+          $ref: '#/components/responses/not-allowed'
+        '422':
+          $ref: '#/components/responses/validation'
+      operationId: get-smart-links
+      security:
+        - X-API-Key: []
+      parameters:
+        - schema:
+            type: integer
+            enum:
+              - 3
+              - 4
+          in: query
+          name: status
+          description: 3 - Active, 4 - Inactive
+        - schema:
+            type: integer
+            enum:
+              - 1
+              - 2
+          in: query
+          name: traffic_type
+          description: 1 - Mainstream, 2 - Adult
+      description: Returns a collection of SmartLinks.
+components:
+  securitySchemes:
+    X-API-Key:
+      name: X-API-Key
+      type: apiKey
+      in: header
+      description: Token can be acquired through the API page inside the user panel. The token is valid until it is manually invalidated due to possible security issues or any other reasons. There can only be one valid token at a time.
+  responses:
+    unauthorized-request:
+      description: Unauthorized request
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              code:
+                type: integer
+              message:
+                type: string
+              data:
+                type: 'null'
+            x-examples:
+              example-1:
+                code: 401
+                message: Token not found
+                data: null
+          examples:
+            Token does not exist:
+              value:
+                code: 401
+                message: Token not found
+                data: null
+    access-denied:
+      description: Access denied
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              code:
+                type: integer
+              message:
+                type: string
+              data:
+                type: 'null'
+            x-examples:
+              example-1:
+                code: 403
+                message: Invalid token
+                data: null
+          examples:
+            Invalid token:
+              value:
+                code: 403
+                message: Invalid token
+                data: null
+            Invalid owner type:
+              value:
+                code: 403
+                message: Invalid owner type
+                data: null
+    not-allowed:
+      description: Not allowed
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              code:
+                type: integer
+              message:
+                type: string
+              data:
+                type: 'null'
+          examples:
+            Method not allowed:
+              value:
+                code: 405
+                message: 'No route found for "POST /publisher/domains.{format}": Method Not Allowed (Allow: GET)'
+                data: null
+    not-found:
+      description: Not found
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              code:
+                type: integer
+              message:
+                type: string
+              data:
+                type: 'null'
+          examples:
+            Zone not found:
+              value:
+                code: 404
+                message: '''Zone'' entity does not exist'
+                data: null
+    validation:
+      description: Validation exception
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+              errors:
+                type: object
+                x-stoplight:
+                  id: 9nxp4n79k0quq
+            required:
+              - message
+              - errors
+          examples:
+            Validation exception:
+              value:
+                code: 422
+                message: Data validation error
+                errors:
+                  start_date:
+                    - Start date must be on or after 2016-12-17
+            Date order violation:
+              value:
+                code: 422
+                message: Data validation error
+                errors:
+                  start_date:
+                    - Start date must be before or equal to finish date
+            Date range exceeded:
+              value:
+                code: 422
+                message: Data validation error
+                errors:
+                  start_date:
+                    - Date range cannot exceed 366 days
+            Invalid domain:
+              value:
+                code: 422
+                message: Data validation error
+                errors:
+                  domain:
+                    - Invalid domain ID value
+            Invalid date format:
+              value:
+                code: 422
+                message: Data validation error
+                errors:
+                  start_date:
+                    - Invalid date format

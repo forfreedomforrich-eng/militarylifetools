@@ -1,0 +1,23 @@
+﻿# Force trailing slash for all tool and blog paths (SEO canonical)
+# 308 = permanent, preserves request method
+
+# Ezoic verification placeholder (only for site ownership check)
+/ezoic-placeholder     https://www.ezoic.com  301
+
+# Fix known broken internal links (soft 404 traps)
+/blog/best-military-banking       /blog/best-military-credit-cards-2026/  301
+/blog/best-military-banking/      /blog/best-military-credit-cards-2026/  301
+/blog/scra-vs-mla-explained       /blog/scra-vs-mla/  301
+/blog/scra-vs-mla-explained/      /blog/scra-vs-mla/  301
+
+# Trailing slash redirects (avoid 308 chain)
+/time-converter        /time-converter/        301
+/uniform-size          /uniform-size/          301
+/bah-calculator        /bah-calculator/        301
+/pay-calculator        /pay-calculator/        301
+/privacy-policy        /privacy-policy/        301
+/contact               /contact/               301
+/blog                  /blog/                  301
+/blog/best-military-credit-cards-2026  /blog/best-military-credit-cards-2026/  301
+/blog/scra-vs-mla                  /blog/scra-vs-mla/                  301
+/blog/military-travel-hacking      /blog/military-travel-hacking/      301
