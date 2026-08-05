@@ -1,5 +1,27 @@
 # Military Life Tools - 项目文档
 
+## 🚨 必读规则（不要再问/不要再做）
+
+> **2026-08-05 更新**：以下事项已多次被错问/重提，写入此文件以避免再犯。
+
+### ❌ 不要再问 Ezoic
+- **状态**：**Ezoic 已于 2026-08-05 之前被拒**（用户被拒，不下 10 次重复询问）
+- **不要再询问是否申请 Ezoic**、不要再问"要不要再试一次"、不要再列入任何待办
+- **替代方案已就位**：Adsterra 已全站部署（11 工具页 + 首页 + 4 段广告码），无需其他广告联盟
+- 相关 TODO/P0 条目已删除
+
+### ✅ 当前变现模式（唯一）
+- **Adsterra 直链广告**（已部署，2026-07-30 commit `762d366`）
+- **Amazon Associates**（ID: `militarylife2-20`，A 级）
+- 未来如需扩展广告，只考虑 Adsterra 的 Premium / 直接广告主，不考虑其他联盟
+
+### 📌 域名项目路径注意
+- **项目根目录**：`C:\Users\kusan\Desktop\工具站项目\`（所有代码在这里）
+- **部署目录**：就是根目录本身，不要以为要进 `militarylifetools/` 子目录
+- `militarylifetools/` 子目录只放 `.well-known/indexnow-key.json` 等少量验证文件
+
+---
+
 ## 基本信息
 - **网站地址**: https://militarylifetools.com
 - **项目路径**: C:\Users\kusan\Desktop\工具站项目\militarylifetools
@@ -66,7 +88,7 @@ git config --global https.proxy http://127.0.0.1:7897
 
 ## 网站结构
 
-### 工具页面 (5个)
+### 工具页面 (11个)
 | 页面 | 路径 | 描述 |
 |------|------|------|
 | ETS Countdown | / | 倒计时+里程碑 |
@@ -74,6 +96,16 @@ git config --global https.proxy http://127.0.0.1:7897
 | Uniform Size | /uniform-size | 军装尺码 (5军种) |
 | BAH Calculator | /bah-calculator | 住房津贴 (13个基地) |
 | Pay Calculator | /pay-calculator | 总薪资计算 |
+| GI Bill Calculator | /gi-bill-calculator | 教育福利计算 |
+| Leave Calculator | /leave-calculator | 假期累积计算 |
+| PCS Move Checklist | /pcs-move-checklist | 搬家清单 |
+| Retirement Calculator | /retirement-calculator | 退休金规划 |
+| TSP Withdrawal | /tsp-withdrawal-calculator | TSP 取款策略 |
+| VA Disability | /va-disability-calculator | 残疾补偿计算 |
+| VA Loan | /va-loan-calculator | 退伍军人贷款 |
+
+### 博客页面 (18个)
+详见 `blog/` 目录，主题覆盖 BAH、GI Bill、Retirement、VA、Leave、PCS、Travel、Credit Cards 等
 
 ### 必需页面 (2个)
 | 页面 | 路径 | 描述 |
@@ -84,7 +116,7 @@ git config --global https.proxy http://127.0.0.1:7897
 ### 静态文件
 - `/css/v2.css` - 主样式文件 (注意不是style.css)
 - `/robots.txt` - 爬虫规则
-- `/sitemap.xml` - 站点地图 (7个URL)
+- `/sitemap.xml` - 站点地图 (28个URL)
 
 ---
 
@@ -110,14 +142,9 @@ git config --global https.proxy http://127.0.0.1:7897
 - [ ] 检查Google Search Console数据
 - [ ] 检查Bing Webmaster Tools数据
 
-### 收录后
-- [ ] 申请Ezoic广告联盟 (Access Now, 0门槛)
-- [ ] 考虑申请Media.net (备选)
-- [ ] 创建Google AdSense备用账号
-
 ### 内容优化 (Gemini建议)
-- [ ] Uniform Size页面加Amazon affiliate链接
-- [ ] Pay Calculator预留金融广告位
+- [x] Uniform Size页面加Amazon affiliate链接
+- [x] Pay Calculator预留金融广告位
 - [ ] BAH Calculator补FAQ
 - [ ] ETS Countdown加幽默里程碑
 - [ ] Time Converter加工具推荐卡片
@@ -125,15 +152,15 @@ git config --global https.proxy http://127.0.0.1:7897
 ### 其他
 - [ ] 考虑购买MilLifeHacks.com做301跳转
 - [ ] 寻找军人VA Loan联盟营销
-- [ ] 等Ezoic收入稳定后投资美股
+- [ ] 等广告收入稳定后投资美股
 
 ---
 
 ## 收入预估
-- **广告类型**: Ezoic (Header Bidding)
-- **军人金融类RPM**: $20-40/千次展示
+- **广告类型**: Adsterra（已部署全站）+ Amazon Associates
+- **军人金融类RPM**: Adsterra 直链 $1-3/千次，Amazon 联盟 4-8% 销售提成
 - **目标流量**: 1万月访问
-- **预估月收入**: $200-400
+- **预估月收入**: $50-150（早期流量阶段，后续随 SEO 提升增长）
 
 ---
 

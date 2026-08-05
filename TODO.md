@@ -1,20 +1,17 @@
 ﻿# Military Life Tools - 待优化清单
 
-更新时间：2026-07-30 16:06
+更新时间：2026-08-05
 
 ## P0 - 立即做（流量入口）
 
 - [x] IndexNow 提交（让 Bing/Yandex 即时收录新博客）  ← 2026-07-30 已提交 30 个 URL
-- [ ] Ezoic 广告联盟申请（AdSense 替代，CPM $20-40/千次，0 门槛）  ← 资料待补
-- [x] Adsterra 广告嵌入  ← 2026-07-30：4 段广告码 + 11 工具页 +首页全部署
-- [ ] **【P0-3】启用 Cloudflare Pages Web Analytics**  ← 30 秒去 dash 启用，否则 PV/UV 是黑盒
-- [ ] **【P0-4】补发博客软文**  ← 综合检查：4 平台 × 3 篇 = **12 个外链位，0 已发** ← **今日第一要务**
-  - 平台：militarylifetool.blogspot.com / medium.com/@forfreedomforrich / militarylifetools.wordpress.com / militarylifeguide.tumblr.com
-  - 已写好 3 篇 publish-ready：VA Disability / GI Bill / Retirement
-  - 目标：今天把 12 个外链全部发出去
-- [ ] **【P0-5】写 BAH 2026 by ZIP code 博客**  ← 搜索量 30k+/月
-- [ ] **【P0-6】写 DD-214 申请流程博客**  ← 搜索量 50k+/月
-- [ ] sitemap.xml 整理（一处缺换行，XML 合法但建议美化）
+- [x] sitemap.xml 整理（一处缺换行，XML 合法但建议美化）  ← 2026-08-05 检查：sitemap.xml 格式正常，28 个 URL 已包含全部博客
+- [x] Adsterra 广告嵌入  ← 2026-07-30：4 段广告码 + 11 工具页 +首页全部署（**广告变现的唯一渠道**，不要问其他联盟）
+- [x] **【P0-3】启用 Cloudflare Pages Web Analytics**  ← 2026-08-05 用户手动启用 ✅，仪表盘可见数据：24h 13 visits / 14 pageviews / Page load 926ms / LCP 43% Poor。⚠️ 性能告警：926ms + 43% LCP Poor，建议后续优化图片/Adsterra 脚本加载
+- [ ] **【P0-4】补发博客软文**  ← 2026-08-05：内容包已生成 → `promo-content/outreach-2026-08-05/`，含 README + 3 篇 × 4 平台版本 + published-urls 追踪表 + submit-indexnow.ps1 脚本。**待用户在浏览器手动发布**
+- [x] **【P0-5】写 BAH 2026 by ZIP code 博客**  ← 已完成（2026-07-30 commit `3eb9b8d`）：`blog/bah-2026-by-zip-code/index.html`，1156 行含 30+ 基地 ZIP 表
+- [x] **【P0-6】写 DD-214 申请流程博客**  ← 已完成：`blog/dd-214-explained/index.html`，含字段解释 + Amazon 联盟卡片
+- [ ] **【P0-7】Core Web Vitals 优化**  ← 2026-08-05 Web Analytics 显示：Page load 926ms（↑559%）、LCP 43% Poor。受影响页面 Top 4：`va-loan`、`retirement-calculator`、`uniform-size`、`leave-calculator`。可能原因：Adsterra 脚本未 async、未启用 Cloudflare Polish/Mirage。优先级：高（影响 SEO 排名因子）
 
 ## P1 - 视觉与转化（针对美军受众）
 
