@@ -8,7 +8,9 @@
 - [x] sitemap.xml 整理（一处缺换行，XML 合法但建议美化）  ← 2026-08-05 检查：sitemap.xml 格式正常，28 个 URL 已包含全部博客
 - [x] Adsterra 广告嵌入  ← 2026-07-30：4 段广告码 + 11 工具页 +首页全部署（**广告变现的唯一渠道**，不要问其他联盟）
 - [x] **【P0-3】启用 Cloudflare Pages Web Analytics**  ← 2026-08-05 用户手动启用 ✅，仪表盘可见数据：24h 13 visits / 14 pageviews / Page load 926ms / LCP 43% Poor。⚠️ 性能告警：926ms + 43% LCP Poor，建议后续优化图片/Adsterra 脚本加载
-- [ ] **【P0-4】补发博客软文**  ← 2026-08-05：内容包已生成 → `promo-content/outreach-2026-08-05/`，含 README + 3 篇 × 4 平台版本 + published-urls 追踪表 + submit-indexnow.ps1 脚本。**待用户在浏览器手动发布**
+- [ ] **【P0-4】补发博客软文**  ← 2026-08-05：内容包已生成 → `promo-content/outreach-2026-08-05/`，含 README + 3 篇 × 4 平台版本 + published-urls 追踪表 + submit-indexnow.ps1 脚本。**用户决定手动发布**（Google 验证因代理 IP 触发严格模式，过不去；自动发布探索到 Playwright CDP 连接成功但停在 1/4 平台登录）
+
+- [ ] **【P0-8】清理自动发布探索脚本**  ← 2026-08-05：Playwright 探索过程留下的 `test-launch.js`、`test-cdp.js`、`test-browser-login.js`、`node_modules/`、`package.json`、`package-lock.json` 需要清理或保留为工具脚本
 - [x] **【P0-5】写 BAH 2026 by ZIP code 博客**  ← 已完成（2026-07-30 commit `3eb9b8d`）：`blog/bah-2026-by-zip-code/index.html`，1156 行含 30+ 基地 ZIP 表
 - [x] **【P0-6】写 DD-214 申请流程博客**  ← 已完成：`blog/dd-214-explained/index.html`，含字段解释 + Amazon 联盟卡片
 - [ ] **【P0-7】Core Web Vitals 优化**  ← 2026-08-05 Web Analytics 显示：Page load 926ms（↑559%）、LCP 43% Poor。受影响页面 Top 4：`va-loan`、`retirement-calculator`、`uniform-size`、`leave-calculator`。可能原因：Adsterra 脚本未 async、未启用 Cloudflare Polish/Mirage。优先级：高（影响 SEO 排名因子）
