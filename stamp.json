@@ -1,0 +1,497 @@
+{
+  "search_metadata": {
+    "id": "6a3a1914fd81c89a793a4c9d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LPpxEjUp_a0uNVjgZm5cPw/6a3a1914fd81c89a793a4c9d.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/LPpxEjUp_a0uNVjgZm5cPw/6a3a1914fd81c89a793a4c9d.json_with_pixel_position",
+    "created_at": "2026-06-23 05:26:44 UTC",
+    "processed_at": "2026-06-23 05:26:44 UTC",
+    "google_url": "https://www.google.com/search?q=stamp+duty+calculator+uk+property&oq=stamp+duty+calculator+uk+property&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/LPpxEjUp_a0uNVjgZm5cPw/6a3a1914fd81c89a793a4c9d.html",
+    "total_time_taken": 1.73
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "stamp duty calculator uk property",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "stamp duty calculator uk property",
+    "total_results": 81,
+    "time_taken_displayed": 0.18,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How to calculate stamp duty on property in the UK?",
+      "type": "ai_overview",
+      "page_token": "pBGY03icHdBRbqJAGADg7GX6WIGprjUxTagjSISGgRlgXjY4qAP8AyOwgrz1LnuqPU2b3uDL9_kPyqb-_-suh0H3m8ViHMfna9te4fwsWrXI-0cjFiIHOOWi3qx-r8y3i9jivwf7_XawQ6o12xEjdqYlZ9AFLvi88sq4Xo65YlMBrx2pJ1PELObzvjqDfU-N6caUufJnefxwPJ67zI1xgVgllgzjkaRBL3aSBspADL9--FA_WLP3KSMOTbwjN4mKZq6PqXQFKnRS2bcE5HSOAQtn_cgt2eVACJn3UWbp0sdyjhB0J1W_xA4rWSNvPJUowLI_7b7NaXAsKN_5iT8UKQ-TmjRYFg5VvZWl1AqMtRUZE8rUEJ6htShiNiVtGVIyiwoUBU8XyENZQzrmgI5cmzDQve8QHDEw8zibaPh0Efctevr53P65qGGju_b6BRgihbc",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pBGY03icHdBRbqJAGADg7GX6WIGprjUxTagjSISGgRlgXjY4qAP8AyOwgrz1LnuqPU2b3uDL9_kPyqb-_-suh0H3m8ViHMfna9te4fwsWrXI-0cjFiIHOOWi3qx-r8y3i9jivwf7_XawQ6o12xEjdqYlZ9AFLvi88sq4Xo65YlMBrx2pJ1PELObzvjqDfU-N6caUufJnefxwPJ67zI1xgVgllgzjkaRBL3aSBspADL9--FA_WLP3KSMOTbwjN4mKZq6PqXQFKnRS2bcE5HSOAQtn_cgt2eVACJn3UWbp0sdyjhB0J1W_xA4rWSNvPJUowLI_7b7NaXAsKN_5iT8UKQ-TmjRYFg5VvZWl1AqMtRUZE8rUEJ6htShiNiVtGVIyiwoUBU8XyENZQzrmgI5cmzDQve8QHDEw8zibaPh0Efctevr53P65qGGju_b6BRgihbc",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVUZFNRM0ZoZGtwVFRVRnZaMUJEUTJSaWVVMW5NWFpwTTBWbk1qWlpOMlF6YjBGR09UWmxUVlJtWXpsVGFrY3daRGROTW0welUzVlFXRGQ2YlRFMGVrRmZOVkYwWHpac1VXVXdSVko1ZFVaYVdrYzVlVEJpWjNWTFVSSVhSbEpyTm1GMU5qZFBOa3RNZDJKclVIcGFObE4xUVZFYUlrRkVjM0k1WmxGVmR6Tk9XVkpzUVc1TlJGQnJOSEV6WHpSTkxVNTNNbkpNYzBFIiwiZmN2IjoiMyIsImVpIjoiRlJrNmF1NjdPNktMd2JrUHpaNlN1QVEiLCJxYyI6IkNpRnpkR0Z0Y0NCa2RYUjVJR05oYkdOMWJHRjBiM0lnZFdzZ2NISnZjR1Z5ZEhrUUFIMXEyVGdfIiwicXVlc3Rpb24iOiJIb3cgdG8gY2FsY3VsYXRlIHN0YW1wIGR1dHkgb24gcHJvcGVydHkgaW4gdGhlIFVLPyIsImxrIjoiR2lwb2IzY2dkRzhnWTJGc1kzVnNZWFJsSUhOMFlXMXdJR1IxZEhrZ2IyNGdjSEp2Y0dWeWRIa2dkV3MiLCJicyI6ImM0MlFQd3ZDTUJERmNjM2tLSjBPVVN2U0lRUUhFY1hGUVhCeFVlZVlSbFA2NTBLYUlOMzhBSDRUdjZTMWl5a2lkRHVPOTM3djdwRUxZVHU4ZzBVUVBCTXU0MVpDYVhtdUlYYTJBaXhBRzlUUzFITlNnRlVTanZzTmk0S1o2dWh5S1huMHlQb1RranVoZkZtTVVLRUR6UnNIaDlHYzBvaFNDZ3BkS2IyOHdYUElWc0ZTZFdEVWlCOUNmY0tKaEZ1RUt4cVozQXBweXNiZ1lieXMxNEZOZzBuY1FWMXpCVm1jRmJlUWxNMm0zUUhfdHFDZEVZcTNubUpoTVA3VG1hOTJhYl8zQmciLCJpZCI6ImZjX0ZSazZhdTY3TzZLTHdia1B6WjZTdUFRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVUZFNRM0ZoZGtwVFRVRnZaMUJEUTJSaWVVMW5NWFpwTTBWbk1qWlpOMlF6YjBGR09UWmxUVlJtWXpsVGFrY3daRGROTW0welUzVlFXRGQ2YlRFMGVrRmZOVkYwWHpac1VXVXdSVko1ZFVaYVdrYzVlVEJpWjNWTFVSSVhSbEpyTm1GMU5qZFBOa3RNZDJKclVIcGFObE4xUVZFYUlrRkVjM0k1WmxGVmR6Tk9XVkpzUVc1TlJGQnJOSEV6WHpSTkxVNTNNbkpNYzBFIiwiZmN2IjoiMyIsImVpIjoiRlJrNmF1NjdPNktMd2JrUHpaNlN1QVEiLCJxYyI6IkNpRnpkR0Z0Y0NCa2RYUjVJR05oYkdOMWJHRjBiM0lnZFdzZ2NISnZjR1Z5ZEhrUUFIMXEyVGdfIiwicXVlc3Rpb24iOiJIb3cgdG8gY2FsY3VsYXRlIHN0YW1wIGR1dHkgb24gcHJvcGVydHkgaW4gdGhlIFVLPyIsImxrIjoiR2lwb2IzY2dkRzhnWTJGc1kzVnNZWFJsSUhOMFlXMXdJR1IxZEhrZ2IyNGdjSEp2Y0dWeWRIa2dkV3MiLCJicyI6ImM0MlFQd3ZDTUJERmNjM2tLSjBPVVN2U0lRUUhFY1hGUVhCeFVlZVlSbFA2NTBLYUlOMzhBSDRUdjZTMWl5a2lkRHVPOTM3djdwRUxZVHU4ZzBVUVBCTXU0MVpDYVhtdUlYYTJBaXhBRzlUUzFITlNnRlVTanZzTmk0S1o2dWh5S1huMHlQb1RranVoZkZtTVVLRUR6UnNIaDlHYzBvaFNDZ3BkS2IyOHdYUElWc0ZTZFdEVWlCOUNmY0tKaEZ1RUt4cVozQXBweXNiZ1lieXMxNEZOZzBuY1FWMXpCVm1jRmJlUWxNMm0zUUhfdHFDZEVZcTNubUpoTVA3VG1hOTJhYl8zQmciLCJpZCI6ImZjX0ZSazZhdTY3TzZLTHdia1B6WjZTdUFRXzEifQ%3D%3D"
+    },
+    {
+      "question": "How much stamp duty do you pay on a $400,000 house in the UK?",
+      "type": "featured_snippet",
+      "snippet": "Stamp Duty on second homes",
+      "table": [
+        [
+          "Property Value",
+          "LTT rate"
+        ],
+        [
+          "£0 - £180k",
+          "5%"
+        ],
+        [
+          "The next £70,000 (the portion from £180,001 to £250,000)",
+          "8.5%"
+        ],
+        [
+          "The next £150,000 (the portion from £250,001 to £400,000)",
+          "10%"
+        ],
+        [
+          "The next £350,000 (the portion from £400,001 to £750,000)",
+          "12.5%"
+        ]
+      ],
+      "formatted": [
+        {
+          "property_value": "£0 - £180k",
+          "ltt_rate": "5%"
+        },
+        {
+          "property_value": "The next £70,000 (the portion from £180,001 to £250,000)",
+          "ltt_rate": "8.5%"
+        },
+        {
+          "property_value": "The next £150,000 (the portion from £250,001 to £400,000)",
+          "ltt_rate": "10%"
+        },
+        {
+          "property_value": "The next £350,000 (the portion from £400,001 to £750,000)",
+          "ltt_rate": "12.5%"
+        }
+      ],
+      "title": "Stamp Duty Calculator UK | How Much Is Your Stamp Duty - L&C Mortgages",
+      "link": "https://www.landc.co.uk/mortgages/stamp-duty-calculator",
+      "displayed_link": "https://www.landc.co.uk › mortgages › stamp-duty-calcu...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAKlBMVEX_AJb_AJb_AI__nc__rNT_Zbf_9f7_____7fn_ttv_IqL_Qav_4_X_iceXH3HoAAAAAXRSTlNxZ-SZzAAAAFJJREFUeAFjYBQEAwEGQSjAwhBSBJJCSoIMyk6CikJhFYEMKpOkpmoXaoMYajskjQQFgQydMBEww0mrWKNK-yKDbnl5TC1IsZASEAC147EC7gwARoYTQ9WRtakAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVUZFNRM0ZoZGtwVFRVRnZaMUJEUTJSaWVVMW5NWFpwTTBWbk1qWlpOMlF6YjBGR09UWmxUVlJtWXpsVGFrY3daRGROTW0welUzVlFXRGQ2YlRFMGVrRmZOVkYwWHpac1VXVXdSVko1ZFVaYVdrYzVlVEJpWjNWTFVSSVhSbEpyTm1GMU5qZFBOa3RNZDJKclVIcGFObE4xUVZFYUlrRkVjM0k1WmxGVmR6Tk9XVkpzUVc1TlJGQnJOSEV6WHpSTkxVNTNNbkpNYzBFIiwiZmN2IjoiMyIsImVpIjoiRlJrNmF1NjdPNktMd2JrUHpaNlN1QVEiLCJxYyI6IkNpRnpkR0Z0Y0NCa2RYUjVJR05oYkdOMWJHRjBiM0lnZFdzZ2NISnZjR1Z5ZEhrUUFIMXEyVGdfIiwicXVlc3Rpb24iOiJIb3cgbXVjaCBzdGFtcCBkdXR5IGRvIHlvdSBwYXkgb24gYSAkNDAwLDAwMCBob3VzZSBpbiB0aGUgVUs/IiwibGsiOiJjeFhCd1FuQUlBeEEwVDE2LWlQMDBGTzNDVldJRkkxZ1FzbjJ4ZmVPVy0yang2TXNsejRwNFVreDBvSXBpUTJFNjl4UWkxVnBBOWRLdkQ4IiwiYnMiOiJjNDJRUHd2Q01CREZjYzNrS0owT1VTdlNJUVFIRWNYRlFYQnhVZWVZUmxQNjUwS2FJTjM4QUg0VHY2UzFpeWtpZER1TzkzN3Y3cEVMWVR1OGcwVVFQQk11NDFaQ2FYbXVJWGEyQWl4QUc5VFMxSE5TZ0ZVU2p2c05pNEtaNnVoeUtYbjB5UG9Ua2p1aGZGbU1VS0VEelJzSGg5R2Mwb2hTQ2dwZEtiMjh3WFBJVnNGU2RXRFVpQjlDZmNLSmhGdUVLeHFaM0FwcHlzYmdZYnlzMTRGTmcwbmNRVjF6QlZtY0ZiZVFsTTJtM1FIX3RxQ2RFWXEzbm1KaE1QN1RtYTkyYWJfM0JnIiwiaWQiOiJmY19GUms2YXU2N082S0x3YmtQelo2U3VBUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVUZFNRM0ZoZGtwVFRVRnZaMUJEUTJSaWVVMW5NWFpwTTBWbk1qWlpOMlF6YjBGR09UWmxUVlJtWXpsVGFrY3daRGROTW0welUzVlFXRGQ2YlRFMGVrRmZOVkYwWHpac1VXVXdSVko1ZFVaYVdrYzVlVEJpWjNWTFVSSVhSbEpyTm1GMU5qZFBOa3RNZDJKclVIcGFObE4xUVZFYUlrRkVjM0k1WmxGVmR6Tk9XVkpzUVc1TlJGQnJOSEV6WHpSTkxVNTNNbkpNYzBFIiwiZmN2IjoiMyIsImVpIjoiRlJrNmF1NjdPNktMd2JrUHpaNlN1QVEiLCJxYyI6IkNpRnpkR0Z0Y0NCa2RYUjVJR05oYkdOMWJHRjBiM0lnZFdzZ2NISnZjR1Z5ZEhrUUFIMXEyVGdfIiwicXVlc3Rpb24iOiJIb3cgbXVjaCBzdGFtcCBkdXR5IGRvIHlvdSBwYXkgb24gYSAkNDAwLDAwMCBob3VzZSBpbiB0aGUgVUs%2FIiwibGsiOiJjeFhCd1FuQUlBeEEwVDE2LWlQMDBGTzNDVldJRkkxZ1FzbjJ4ZmVPVy0yang2TXNsejRwNFVreDBvSXBpUTJFNjl4UWkxVnBBOWRLdkQ4IiwiYnMiOiJjNDJRUHd2Q01CREZjYzNrS0owT1VTdlNJUVFIRWNYRlFYQnhVZWVZUmxQNjUwS2FJTjM4QUg0VHY2UzFpeWtpZER1TzkzN3Y3cEVMWVR1OGcwVVFQQk11NDFaQ2FYbXVJWGEyQWl4QUc5VFMxSE5TZ0ZVU2p2c05pNEtaNnVoeUtYbjB5UG9Ua2p1aGZGbU1VS0VEelJzSGg5R2Mwb2hTQ2dwZEtiMjh3WFBJVnNGU2RXRFVpQjlDZmNLSmhGdUVLeHFaM0FwcHlzYmdZYnlzMTRGTmcwbmNRVjF6QlZtY0ZiZVFsTTJtM1FIX3RxQ2RFWXEzbm1KaE1QN1RtYTkyYWJfM0JnIiwiaWQiOiJmY19GUms2YXU2N082S0x3YmtQelo2U3VBUV8xIn0%3D"
+    },
+    {
+      "question": "Do foreigners pay stamp duty in the UK?",
+      "type": "featured_snippet",
+      "snippet": "Stamp Duty for non-residents If you're a non-UK resident buying a residential property in England or Northern Ireland, you might have to pay an additional 2% on top of the existing Stamp Duty rates.",
+      "title": "Stamp Duty - everything you need to know - MoneyHelper",
+      "link": "https://www.moneyhelper.org.uk/en/homes/buying-a-home/everything-you-need-to-know-about-stamp-duty#:~:text=Stamp%20Duty%20relief.-,Stamp%20Duty%20for%20non%2Dresidents,the%20existing%20Stamp%20Duty%20rates.",
+      "displayed_link": "https://www.moneyhelper.org.uk › buying-a-home › eve...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA2klEQVR4AY3OAUeDcRSF8cMgAkopAAFBH6A-SKFECAMgQIACCZUwI6BSgkhCYBIGGwPbwAAGxjBw9uDFdW388TvAfVz97143YUxgHEKlxHzAwRmUrGNzWeAZDo6h5A8j1BYFXuDgCKqs4BeutFDLgXc4OIcqO5jCORIDDTj4hIItDJdFxJzAyQ0UbGMABz-QmFW8wskYXfTxhR6cXIgRNtKbpdrxzTV8wyjVEpPt4RJNPOERdXTg5FRMiX3M4OAeKjmuw8kDVBI4gJM7qCwAXMGVW6gokDTwBmVzgC_sXpLun1gAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVUZFNRM0ZoZGtwVFRVRnZaMUJEUTJSaWVVMW5NWFpwTTBWbk1qWlpOMlF6YjBGR09UWmxUVlJtWXpsVGFrY3daRGROTW0welUzVlFXRGQ2YlRFMGVrRmZOVkYwWHpac1VXVXdSVko1ZFVaYVdrYzVlVEJpWjNWTFVSSVhSbEpyTm1GMU5qZFBOa3RNZDJKclVIcGFObE4xUVZFYUlrRkVjM0k1WmxGVmR6Tk9XVkpzUVc1TlJGQnJOSEV6WHpSTkxVNTNNbkpNYzBFIiwiZmN2IjoiMyIsImVpIjoiRlJrNmF1NjdPNktMd2JrUHpaNlN1QVEiLCJxYyI6IkNpRnpkR0Z0Y0NCa2RYUjVJR05oYkdOMWJHRjBiM0lnZFdzZ2NISnZjR1Z5ZEhrUUFIMXEyVGdfIiwicXVlc3Rpb24iOiJEbyBmb3JlaWduZXJzIHBheSBzdGFtcCBkdXR5IGluIHRoZSBVSz8iLCJsayI6IkdpWmtieUJtYjNKbGFXZHVaWEp6SUhCaGVTQnpkR0Z0Y0NCa2RYUjVJR2x1SUhSb1pTQjFhdyIsImJzIjoiYzQyUVB3dkNNQkRGY2Mza0tKME9VU3ZTSVFRSEVjWEZRWEJ4VWVlWVJsUDY1MEthSU4zOEFINFR2NlMxaXlraWREdU85Mzd2N3BFTFlUdThnMFVRUEJNdTQxWkNhWG11SVhhMkFpeEFHOVRTMUhOU2dGVVNqdnNOaTRLWjZ1aHlLWG4weVBvVGtqdWhmRm1NVUtFRHpSc0hoOUdjMG9oU0NncGRLYjI4d1hQSVZzRlNkV0RVaUI5Q2ZjS0poRnVFS3hxWjNBcHB5c2JnWWJ5czE0Rk5nMG5jUVYxekJWbWNGYmVRbE0ybTNRSF90cUNkRVlxM25tSmhNUDdUbWE5MmFiXzNCZyIsImlkIjoiZmNfRlJrNmF1NjdPNktMd2JrUHpaNlN1QVFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVUZFNRM0ZoZGtwVFRVRnZaMUJEUTJSaWVVMW5NWFpwTTBWbk1qWlpOMlF6YjBGR09UWmxUVlJtWXpsVGFrY3daRGROTW0welUzVlFXRGQ2YlRFMGVrRmZOVkYwWHpac1VXVXdSVko1ZFVaYVdrYzVlVEJpWjNWTFVSSVhSbEpyTm1GMU5qZFBOa3RNZDJKclVIcGFObE4xUVZFYUlrRkVjM0k1WmxGVmR6Tk9XVkpzUVc1TlJGQnJOSEV6WHpSTkxVNTNNbkpNYzBFIiwiZmN2IjoiMyIsImVpIjoiRlJrNmF1NjdPNktMd2JrUHpaNlN1QVEiLCJxYyI6IkNpRnpkR0Z0Y0NCa2RYUjVJR05oYkdOMWJHRjBiM0lnZFdzZ2NISnZjR1Z5ZEhrUUFIMXEyVGdfIiwicXVlc3Rpb24iOiJEbyBmb3JlaWduZXJzIHBheSBzdGFtcCBkdXR5IGluIHRoZSBVSz8iLCJsayI6IkdpWmtieUJtYjNKbGFXZHVaWEp6SUhCaGVTQnpkR0Z0Y0NCa2RYUjVJR2x1SUhSb1pTQjFhdyIsImJzIjoiYzQyUVB3dkNNQkRGY2Mza0tKME9VU3ZTSVFRSEVjWEZRWEJ4VWVlWVJsUDY1MEthSU4zOEFINFR2NlMxaXlraWREdU85Mzd2N3BFTFlUdThnMFVRUEJNdTQxWkNhWG11SVhhMkFpeEFHOVRTMUhOU2dGVVNqdnNOaTRLWjZ1aHlLWG4weVBvVGtqdWhmRm1NVUtFRHpSc0hoOUdjMG9oU0NncGRLYjI4d1hQSVZzRlNkV0RVaUI5Q2ZjS0poRnVFS3hxWjNBcHB5c2JnWWJ5czE0Rk5nMG5jUVYxekJWbWNGYmVRbE0ybTNRSF90cUNkRVlxM25tSmhNUDdUbWE5MmFiXzNCZyIsImlkIjoiZmNfRlJrNmF1NjdPNktMd2JrUHpaNlN1QVFfMSJ9"
+    },
+    {
+      "question": "What is the stamp duty on a property purchase in the UK?",
+      "type": "ai_overview",
+      "page_token": "HBVrQHicHdDbboIwAIDh7GW8nLSImyZmGUrRZTBbegBvFigI2gLdZKLc7V32VHuaHe7_5Ev-zy99aNT3zbnqOnOaj8d939-WbVvq4la29Tg9XRs5lqnWWSrVfHo3BQ97ufA-Nu7ybeNiZgxfEStS9zCHMxip6pyt0SRvSifR6FlShClzqkigpQQYBso4BARD4BnNFPptS5vZciAWm9ABg8ybQcL1C1WXderPwiw2vKiV8-JbNj5iJwbIDQDvs0bD3cCngleYcTOEwolFg94pRSfKq03Id66ogcpV9yb041DEDGALECn4NqWIpBaZ5v5lFayrNoTERNZTK0VOo1VyJWjXeFXus_oEk5jB0LqHkXWxk7rDhW4hs7nLSHvAjAzyqGvGyRDEfJ_VOpR_ruB94fNNhvKt8GZJyHMf49Fenhf26P_n4nVfd3Pz3pY_lW-BoA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HBVrQHicHdDbboIwAIDh7GW8nLSImyZmGUrRZTBbegBvFigI2gLdZKLc7V32VHuaHe7_5Ev-zy99aNT3zbnqOnOaj8d939-WbVvq4la29Tg9XRs5lqnWWSrVfHo3BQ97ufA-Nu7ybeNiZgxfEStS9zCHMxip6pyt0SRvSifR6FlShClzqkigpQQYBso4BARD4BnNFPptS5vZciAWm9ABg8ybQcL1C1WXderPwiw2vKiV8-JbNj5iJwbIDQDvs0bD3cCngleYcTOEwolFg94pRSfKq03Id66ogcpV9yb041DEDGALECn4NqWIpBaZ5v5lFayrNoTERNZTK0VOo1VyJWjXeFXus_oEk5jB0LqHkXWxk7rDhW4hs7nLSHvAjAzyqGvGyRDEfJ_VOpR_ruB94fNNhvKt8GZJyHMf49Fenhf26P_n4nVfd3Pz3pY_lW-BoA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVUZFNRM0ZoZGtwVFRVRnZaMUJEUTJSaWVVMW5NWFpwTTBWbk1qWlpOMlF6YjBGR09UWmxUVlJtWXpsVGFrY3daRGROTW0welUzVlFXRGQ2YlRFMGVrRmZOVkYwWHpac1VXVXdSVko1ZFVaYVdrYzVlVEJpWjNWTFVSSVhSbEpyTm1GMU5qZFBOa3RNZDJKclVIcGFObE4xUVZFYUlrRkVjM0k1WmxGVmR6Tk9XVkpzUVc1TlJGQnJOSEV6WHpSTkxVNTNNbkpNYzBFIiwiZmN2IjoiMyIsImVpIjoiRlJrNmF1NjdPNktMd2JrUHpaNlN1QVEiLCJxYyI6IkNpRnpkR0Z0Y0NCa2RYUjVJR05oYkdOMWJHRjBiM0lnZFdzZ2NISnZjR1Z5ZEhrUUFIMXEyVGdfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzdGFtcCBkdXR5IG9uIGEgcHJvcGVydHkgcHVyY2hhc2UgaW4gdGhlIFVLPyIsImxrIjoiR2lWemRHRnRjQ0JrZFhSNUlHOXVJSEJ5YjNCbGNuUjVJSEIxY21Ob1lYTmxJR2x1SUhWciIsImJzIjoiYzQyUVB3dkNNQkRGY2Mza0tKME9VU3ZTSVFRSEVjWEZRWEJ4VWVlWVJsUDY1MEthSU4zOEFINFR2NlMxaXlraWREdU85Mzd2N3BFTFlUdThnMFVRUEJNdTQxWkNhWG11SVhhMkFpeEFHOVRTMUhOU2dGVVNqdnNOaTRLWjZ1aHlLWG4weVBvVGtqdWhmRm1NVUtFRHpSc0hoOUdjMG9oU0NncGRLYjI4d1hQSVZzRlNkV0RVaUI5Q2ZjS0poRnVFS3hxWjNBcHB5c2JnWWJ5czE0Rk5nMG5jUVYxekJWbWNGYmVRbE0ybTNRSF90cUNkRVlxM25tSmhNUDdUbWE5MmFiXzNCZyIsImlkIjoiZmNfRlJrNmF1NjdPNktMd2JrUHpaNlN1QVFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVUZFNRM0ZoZGtwVFRVRnZaMUJEUTJSaWVVMW5NWFpwTTBWbk1qWlpOMlF6YjBGR09UWmxUVlJtWXpsVGFrY3daRGROTW0welUzVlFXRGQ2YlRFMGVrRmZOVkYwWHpac1VXVXdSVko1ZFVaYVdrYzVlVEJpWjNWTFVSSVhSbEpyTm1GMU5qZFBOa3RNZDJKclVIcGFObE4xUVZFYUlrRkVjM0k1WmxGVmR6Tk9XVkpzUVc1TlJGQnJOSEV6WHpSTkxVNTNNbkpNYzBFIiwiZmN2IjoiMyIsImVpIjoiRlJrNmF1NjdPNktMd2JrUHpaNlN1QVEiLCJxYyI6IkNpRnpkR0Z0Y0NCa2RYUjVJR05oYkdOMWJHRjBiM0lnZFdzZ2NISnZjR1Z5ZEhrUUFIMXEyVGdfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzdGFtcCBkdXR5IG9uIGEgcHJvcGVydHkgcHVyY2hhc2UgaW4gdGhlIFVLPyIsImxrIjoiR2lWemRHRnRjQ0JrZFhSNUlHOXVJSEJ5YjNCbGNuUjVJSEIxY21Ob1lYTmxJR2x1SUhWciIsImJzIjoiYzQyUVB3dkNNQkRGY2Mza0tKME9VU3ZTSVFRSEVjWEZRWEJ4VWVlWVJsUDY1MEthSU4zOEFINFR2NlMxaXlraWREdU85Mzd2N3BFTFlUdThnMFVRUEJNdTQxWkNhWG11SVhhMkFpeEFHOVRTMUhOU2dGVVNqdnNOaTRLWjZ1aHlLWG4weVBvVGtqdWhmRm1NVUtFRHpSc0hoOUdjMG9oU0NncGRLYjI4d1hQSVZzRlNkV0RVaUI5Q2ZjS0poRnVFS3hxWjNBcHB5c2JnWWJ5czE0Rk5nMG5jUVYxekJWbWNGYmVRbE0ybTNRSF90cUNkRVlxM25tSmhNUDdUbWE5MmFiXzNCZyIsImlkIjoiZmNfRlJrNmF1NjdPNktMd2JrUHpaNlN1QVFfMSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "VsB4hnicxVbbcqpIFH2f_zi-JAooiqaKOtUgJMQr3hLzQnGzCRdRGkV8m3-Zf5qq-ZrTIBg0mNScqqlpy2666d5r31Zv_vzLfV87__zxtxWGG_RAEFEU1aDvQ9es6b5HqChe68TKd1GgWz_jPduo6IglK-Y7K06clrprMaNWrx9pzvj41prugFxJj7CKpiLTxhIPNiIUAnfOj0YXT2qoZq5r4_mM4iim9yrrtTpJdWojQvXwBvAfNgFIMBkl_BPS-XXj8Hv5Oyk84HEPC0uw0Getm8AAwPPpAPxb0rhUCx5wQoLLKYNOGw-n7V146xQA08vpS6oZiBKB2ASh1IgycflariB3A69clRRmnk3owovPrk0a9kbRvT0slgY6AJNsYZTvK8JBKIBuvv4UjQbcSJh8FSRs_OMAtJ0xL32xK9FeCiIxe46GSwxKGBDnIEloAR4o4l239PQhQElq8rMO6QtQ2j4v9no8EGYv3eWwHbrPbxPqSI_siNA1vM_1VcM0FEshf6Zzqk41yU6Dad-nnNDRmRSoSAo4WPajXURJVaHWr3FUgRGptdLJKULuChyrci8nfgVXkeTzhzQpU1FF7_SykQN1CRSjx83iBH2QeykJ0Rx88muCVcKIAuYHeJa5vPhh2KUkKYMvWsdFV4gfAFkqLEFPPpss4OmFckVhHHDSO-AxX_iQnUiFbnpBJIwQMoGji_OwqFhyk8iQOyPLRe2ahUMQcGkQ7Bh3z8Dn81soOSJlTugl2hVz-_GaSQirguCNwH_Xbt5CBT3z3L9K5QsKSJxT3XSemiv6bc0M2ivJajgUI6nIguUp73vavygE-v9LirxM9LIAiaWkkL8hhcBzX5aJ0_bumRTpfHuLFJxUViZON-5HmfhMiuklKW6XiQIpYGZVUeo1KbgbpICZbSWkmJeQwiklRVYmCqSwaPmiTJzAzmUiJ8VvlYn975SJlCLmabisGTsb3qwd4tGvmsya5MTDdjefOWIHkN46ZoQDgt_WjpUXPniq4d4r78YDV38OY-NewQv-g2lUtiwKVW9zZ-zC-E5XXX3nqqEf3O2cu03gb8wgjCueG_gsqTZFoWqvJ23BNu12a1CfS9VF_GxYknjohK26PA3H0dvxKDk0qfCrFwa9TLf9znBuQ_sJyftt0zhu2qMlo0n1YdA4qh31vSqBqRMMu4o56FrRpnUgp6P6-Lhx6e5mvBC1V3qxUiS46E9t0epb4tB9Xc3RDO4n8aOc6oVYWnnxFnvaP0BU8QKdxR9OtAOGOEgQfyLwSyDzEP99_I9wdlSQriom2rOapjFGizLbRkPTGoxZ8WAYb9hWs4LWAUv9AjPgFSw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VsB4hnicxVbbcqpIFH2f_zi-JAooiqaKOtUgJMQr3hLzQnGzCRdRGkV8m3-Zf5qq-ZrTIBg0mNScqqlpy2666d5r31Zv_vzLfV87__zxtxWGG_RAEFEU1aDvQ9es6b5HqChe68TKd1GgWz_jPduo6IglK-Y7K06clrprMaNWrx9pzvj41prugFxJj7CKpiLTxhIPNiIUAnfOj0YXT2qoZq5r4_mM4iim9yrrtTpJdWojQvXwBvAfNgFIMBkl_BPS-XXj8Hv5Oyk84HEPC0uw0Getm8AAwPPpAPxb0rhUCx5wQoLLKYNOGw-n7V146xQA08vpS6oZiBKB2ASh1IgycflariB3A69clRRmnk3owovPrk0a9kbRvT0slgY6AJNsYZTvK8JBKIBuvv4UjQbcSJh8FSRs_OMAtJ0xL32xK9FeCiIxe46GSwxKGBDnIEloAR4o4l239PQhQElq8rMO6QtQ2j4v9no8EGYv3eWwHbrPbxPqSI_siNA1vM_1VcM0FEshf6Zzqk41yU6Dad-nnNDRmRSoSAo4WPajXURJVaHWr3FUgRGptdLJKULuChyrci8nfgVXkeTzhzQpU1FF7_SykQN1CRSjx83iBH2QeykJ0Rx88muCVcKIAuYHeJa5vPhh2KUkKYMvWsdFV4gfAFkqLEFPPpss4OmFckVhHHDSO-AxX_iQnUiFbnpBJIwQMoGji_OwqFhyk8iQOyPLRe2ahUMQcGkQ7Bh3z8Dn81soOSJlTugl2hVz-_GaSQirguCNwH_Xbt5CBT3z3L9K5QsKSJxT3XSemiv6bc0M2ivJajgUI6nIguUp73vavygE-v9LirxM9LIAiaWkkL8hhcBzX5aJ0_bumRTpfHuLFJxUViZON-5HmfhMiuklKW6XiQIpYGZVUeo1KbgbpICZbSWkmJeQwiklRVYmCqSwaPmiTJzAzmUiJ8VvlYn975SJlCLmabisGTsb3qwd4tGvmsya5MTDdjefOWIHkN46ZoQDgt_WjpUXPniq4d4r78YDV38OY-NewQv-g2lUtiwKVW9zZ-zC-E5XXX3nqqEf3O2cu03gb8wgjCueG_gsqTZFoWqvJ23BNu12a1CfS9VF_GxYknjohK26PA3H0dvxKDk0qfCrFwa9TLf9znBuQ_sJyftt0zhu2qMlo0n1YdA4qh31vSqBqRMMu4o56FrRpnUgp6P6-Lhx6e5mvBC1V3qxUiS46E9t0epb4tB9Xc3RDO4n8aOc6oVYWnnxFnvaP0BU8QKdxR9OtAOGOEgQfyLwSyDzEP99_I9wdlSQriom2rOapjFGizLbRkPTGoxZ8WAYb9hWs4LWAUv9AjPgFSw"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Stamp Duty calculator 2026 | Stamp Duty Land Tax rates",
+      "link": "https://www.moneyhelper.org.uk/en/homes/buying-a-home/stamp-duty-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.moneyhelper.org.uk/en/homes/buying-a-home/stamp-duty-calculator&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQFnoECA0QAQ",
+      "displayed_link": "https://www.moneyhelper.org.uk › buying-a-home › st...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEXz8fPIKofz8fP19vfGF4L2-vnHIoXu3efFA37dm7_gqMbai7bTaaPmv9TOTpe1F8jhAAAAAXRSTlPUwVjOqwAAAMRJREFUKJGN0lsSgyAMBVDTvBDQ_S-3iSgo4LT3y-EQZEKWz3uW5SciW3COuO6WOGjBRCK0zpETAVyIin1lRc5Uta80E7m0q8RsX1XP2zomxy1A04LREOA49q6lCeorlLwPdz075IVAeVOL_wMEaiVH3w5CwUJlp93vbDznstQimeurcA7yxL2hXWQPdKRskoS390TWLXrSoUHx8djoYS228jgJqFStx4cNCNJsOFZNQ-TPFFmbjaOJWm02t23O_hjqN_wCOWYJPNts1d8AAAAASUVORK5CYII.png",
+      "snippet": "Use our newly updated Stamp Duty calculator to estimate how much Stamp Duty Land Tax you'll need to pay on your new home based on the latest rates.",
+      "snippet_highlighted_words": [
+        "Use our newly updated Stamp Duty calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our newly updated Stamp Duty calculator to estimate how much Stamp Duty Land Tax you'll need to pay on your new home based on the latest rates.",
+          "source_info_link": "https://www.moneyhelper.org.uk/en/homes/buying-a-home/stamp-duty-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEXz8fPIKofz8fP19vfGF4L2-vnHIoXu3efFA37dm7_gqMbai7bTaaPmv9TOTpe1F8jhAAAAAXRSTlPUwVjOqwAAAMRJREFUKJGN0lsSgyAMBVDTvBDQ_S-3iSgo4LT3y-EQZEKWz3uW5SciW3COuO6WOGjBRCK0zpETAVyIin1lRc5Uta80E7m0q8RsX1XP2zomxy1A04LREOA49q6lCeorlLwPdz075IVAeVOL_wMEaiVH3w5CwUJlp93vbDznstQimeurcA7yxL2hXWQPdKRskoS390TWLXrSoUHx8djoYS228jgJqFStx4cNCNJsOFZNQ-TPFFmbjaOJWm02t23O_hjqN_wCOWYJPNts1d8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.moneyhelper.org.uk/en/homes/buying-a-home/stamp-duty-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.moneyhelper.org.uk%2Fen%2Fhomes%2Fbuying-a-home%2Fstamp-duty-calculator",
+      "source": "MoneyHelper"
+    },
+    {
+      "position": 2,
+      "title": "Stamp Duty Land Tax: Residential property rates",
+      "link": "https://www.gov.uk/stamp-duty-land-tax/residential-property-rates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.uk/stamp-duty-land-tax/residential-property-rates&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQFnoECBwQAQ",
+      "displayed_link": "https://www.gov.uk › ... › Owning and renting a property",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEUdcLgWbrdUi8RekccAX7HG1un2-fwAWq8AaLW9z-XY4_Dl7PULa7YAZbTK2evc5vJqmMoodbqFqdIAabX___9Oh8K2y-OUs9ehvNurw99Cgb8AY7M0e73q8fdGg8CPr9WAptFvm8sAYrLI8pmiAAAA5klEQVR4AWKgBwA0S0wLDMSw1VjTQ3L2_f8_ztbzytiM_eBx8Z0rlTbfeNb5rbefeQFUTLwNH3kpN1GbLH_nIgQiSVSUlMOLaawSrHMk4oVjTXzmgqfWBpa1yGynKbBHfyy0B1fYJIcysKzH8MCrKbUHUzBQf8goWNrCnZkTHyNsmM1wY8sUhkevYGCiDIthSNFSDVI-xFo3Iui5r2KS80X3vC7xXvBWq0iek4paeNo29NgAUAJqLrFRAJnrRt89lY6mgVwk8qXWk34u4UqnpfX5D-yl6hmsa9etK2R8Cd8HhB14_7n2c3cO24fmauoAAAAASUVORK5CYII.png",
+      "snippet": "Use the SDLT calculator to work out how much tax you'll pay. The SDLT you owe will be calculated as follows: 0% on the first £125,000 = £0 2% on the second £ ...",
+      "snippet_highlighted_words": [
+        "Use the SDLT calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use the SDLT calculator to work out how much tax you'll pay. The SDLT you owe will be calculated as follows: 0% on the first £125,000 = £0 2% on the second £ ...",
+          "source_info_link": "https://www.gov.uk/stamp-duty-land-tax/residential-property-rates",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEUdcLgWbrdUi8RekccAX7HG1un2-fwAWq8AaLW9z-XY4_Dl7PULa7YAZbTK2evc5vJqmMoodbqFqdIAabX___9Oh8K2y-OUs9ehvNurw99Cgb8AY7M0e73q8fdGg8CPr9WAptFvm8sAYrLI8pmiAAAA5klEQVR4AWKgBwA0S0wLDMSw1VjTQ3L2_f8_ztbzytiM_eBx8Z0rlTbfeNb5rbefeQFUTLwNH3kpN1GbLH_nIgQiSVSUlMOLaawSrHMk4oVjTXzmgqfWBpa1yGynKbBHfyy0B1fYJIcysKzH8MCrKbUHUzBQf8goWNrCnZkTHyNsmM1wY8sUhkevYGCiDIthSNFSDVI-xFo3Iui5r2KS80X3vC7xXvBWq0iek4paeNo29NgAUAJqLrFRAJnrRt89lY6mgVwk8qXWk34u4UqnpfX5D-yl6hmsa9etK2R8Cd8HhB14_7n2c3cO24fmauoAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.gov.uk/stamp-duty-land-tax/residential-property-rates&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gov.uk%2Fstamp-duty-land-tax%2Fresidential-property-rates",
+      "source": "GOV.UK"
+    },
+    {
+      "position": 3,
+      "title": "Stamp duty calculator 2025",
+      "link": "https://www.knightfrank.co.uk/calculator/stamp-duty-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.knightfrank.co.uk/calculator/stamp-duty-calculator&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQFnoECCkQAQ",
+      "displayed_link": "https://www.knightfrank.co.uk › calculator › stamp-dut...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAoUlEQVR4AWNwL_AB4____7sC8ZH_VAZQM11h9sAsm_Sf9mASyC6Iz-gHXBnAXqYfOMLwn84Aq4VnGaSx4hcLVqMrBYnhUk-ahRcErNAxuqUgNi61FFqIaSmyZcPCQvoHKaFEQ5mFCEMwLaNUPQMBQzA0U6qegYAhGJqJV09_C-kepHRPNHTNFsO5LB0tS-lfAdMZ0L0RRfdmIt0bwnRv6gMA6gFnj31XJxYAAAAASUVORK5CYII.png",
+      "snippet": "How much stamp duty do I need to pay in 2025? Use our stamp duty calculator to find how much UK stamp duty tax to pay when buying a property as a UK or non-UK",
+      "snippet_highlighted_words": [
+        "Use our stamp duty calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "How much stamp duty do I need to pay in 2025? Use our stamp duty calculator to find how much UK stamp duty tax to pay when buying a property as a UK or non-UK",
+          "source_info_link": "https://www.knightfrank.co.uk/calculator/stamp-duty-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAoUlEQVR4AWNwL_AB4____7sC8ZH_VAZQM11h9sAsm_Sf9mASyC6Iz-gHXBnAXqYfOMLwn84Aq4VnGaSx4hcLVqMrBYnhUk-ahRcErNAxuqUgNi61FFqIaSmyZcPCQvoHKaFEQ5mFCEMwLaNUPQMBQzA0U6qegYAhGJqJV09_C-kepHRPNHTNFsO5LB0tS-lfAdMZ0L0RRfdmIt0bwnRv6gMA6gFnj31XJxYAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.knightfrank.co.uk/calculator/stamp-duty-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.knightfrank.co.uk%2Fcalculator%2Fstamp-duty-calculator",
+      "source": "Knight Frank"
+    },
+    {
+      "position": 4,
+      "title": "Stamp Duty Calculator",
+      "link": "https://www.stampdutycalculator.org.uk/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.stampdutycalculator.org.uk/&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQFnoECCYQAQ",
+      "displayed_link": "https://www.stampdutycalculator.org.uk",
+      "favicon": "https://serpapi.com/searches/6a3a1914fd81c89a793a4c9d/images/FZe2k_cNGG9L-DplQq3gPA5RfK6X_0ksw2AKU5-QOGg.png",
+      "snippet": "The stamp duty calculators give an indication of stamp duty liability for freehold residential property purchases in England & Northern Ireland.",
+      "snippet_highlighted_words": [
+        "stamp duty calculators"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The stamp duty calculators give an indication of stamp duty liability for freehold residential property purchases in England & Northern Ireland.",
+          "source_info_link": "https://www.stampdutycalculator.org.uk/",
+          "icon": "https://serpapi.com/searches/6a3a1914fd81c89a793a4c9d/images/FZe2k_cNGG9L-DplQq3gPC8Ppni8T3lF9mAy8TZAb4PnT5cWxXPh6WPHiPwlfgTf.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.stampdutycalculator.org.uk/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.stampdutycalculator.org.uk%2F",
+      "source": "Stamp Duty Calculator - Latest Updated Stamp Duty Calculations",
+      "read_more_link": "https://www.stampdutycalculator.org.uk/#:~:text=The%20stamp%20duty%20calculators%20give,effective%20from%201st%20April%202025."
+    },
+    {
+      "position": 5,
+      "title": "Stamp Duty Calculator 2026: How much & when to pay it",
+      "link": "https://www.moneysavingexpert.com/mortgages/stamp-duty/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.moneysavingexpert.com/mortgages/stamp-duty/&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQFnoECCMQAQ",
+      "displayed_link": "https://www.moneysavingexpert.com › mortgages › stam...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAe1BMVEVHcEz___--AADAAADk5OT39_fw8PDLy8v9_f309PTDABv--_v88_Tlqq_ux8v67e_68fHioKjI8eH99vf4mrP7xdOc58793pqpo7v_7MXMytj1293NQ1LmvLvSW2fKN0fUaHLekpjv1NPch4_35efGFy_WdX7agYm-5L_2DPGaAAAACnRSTlMA____nsnSWPrOMYZN9gAAAQRJREFUOI3Vk8tygzAMRX1FEhI_cd03bwhp__8La9EZYNIEuumiZ6OFjixpQEKIdH_ETY77VER2t7Pf7GL9Wh5IxWldOIk7_ac5xHoe-EdC0JpDpgPg8gClmTALRUIOOFNSoCKi1pOM4bJoUckWaGUFS1b1BJMo1SyFupCALGqU1EF3MHQ1pDTS2sFEq6DKAkb2H34pUOmbxpdcZytqfgiabEgSZSnYMpZTdt3CUQ7vkVPohwwtjTP4ehLyuNWZ15Rkh7ifMeOas6Ccc-NDHPJOQWWMnls8jLwx3Ttjn5gwvfDMfL4w5SvjHxn9-4_1t8Lmb795OJunt3m88XwP987_EOu_AMxoEuWSmRrxAAAAAElFTkSuQmCC.png",
+      "snippet": "Our calculator below shows how much Stamp Duty you would need to pay. Stamp Duty is due on the first £125,000 of a main residential property 2% on the bit ...",
+      "snippet_highlighted_words": [
+        "Stamp Duty is due on the first £125,000 of a main residential property"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What is Stamp Duty?",
+            "link": "https://www.moneysavingexpert.com/mortgages/stamp-duty/#whats"
+          },
+          {
+            "title": "Scotland",
+            "link": "https://www.moneysavingexpert.com/mortgages/stamp-duty/#sco"
+          },
+          {
+            "title": "Wales",
+            "link": "https://www.moneysavingexpert.com/mortgages/stamp-duty/#wal"
+          },
+          {
+            "title": "First-time buyers and Stamp Duty",
+            "link": "https://www.moneysavingexpert.com/mortgages/stamp-duty/#firsttime"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Our calculator below shows how much Stamp Duty you would need to pay. Stamp Duty is due on the first £125,000 of a main residential property 2% on the bit ...",
+          "source_info_link": "https://www.moneysavingexpert.com/mortgages/stamp-duty/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAe1BMVEVHcEz___--AADAAADk5OT39_fw8PDLy8v9_f309PTDABv--_v88_Tlqq_ux8v67e_68fHioKjI8eH99vf4mrP7xdOc58793pqpo7v_7MXMytj1293NQ1LmvLvSW2fKN0fUaHLekpjv1NPch4_35efGFy_WdX7agYm-5L_2DPGaAAAACnRSTlMA____nsnSWPrOMYZN9gAAAQRJREFUOI3Vk8tygzAMRX1FEhI_cd03bwhp__8La9EZYNIEuumiZ6OFjixpQEKIdH_ETY77VER2t7Pf7GL9Wh5IxWldOIk7_ac5xHoe-EdC0JpDpgPg8gClmTALRUIOOFNSoCKi1pOM4bJoUckWaGUFS1b1BJMo1SyFupCALGqU1EF3MHQ1pDTS2sFEq6DKAkb2H34pUOmbxpdcZytqfgiabEgSZSnYMpZTdt3CUQ7vkVPohwwtjTP4ehLyuNWZ15Rkh7ifMeOas6Ccc-NDHPJOQWWMnls8jLwx3Ttjn5gwvfDMfL4w5SvjHxn9-4_1t8Lmb795OJunt3m88XwP987_EOu_AMxoEuWSmRrxAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.moneysavingexpert.com/mortgages/stamp-duty/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.moneysavingexpert.com%2Fmortgages%2Fstamp-duty%2F",
+      "source": "Money Saving Expert"
+    },
+    {
+      "position": 6,
+      "title": "Residential Stamp Duty Calculator",
+      "link": "https://www.savills.co.uk/resources-and-tools/residential-stamp-duty-calculator.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.savills.co.uk/resources-and-tools/residential-stamp-duty-calculator.aspx&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQFnoECB0QAQ",
+      "displayed_link": "https://www.savills.co.uk › resources-and-tools › reside...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEX_7SL_8CL_7iL_8yP_8SP9zB7_5iH6mhf-4CD8sBr_9CP4ahD9xBz1AAP90R73XA790x78thr_6yL-3CD4Yw__-yT6jxX3UAz2FgX8uRv2Lwj5fxP6lhb8vhv3Rwv_9yP5dhL__iT9zR77pxj4bxH5iBT5exIMYai3AAAA6UlEQVR4AWIYeDAKRgGgEaJQsBCEydDHmM5uBfP8_0886zph3ZsACe5vfu-hUH-IEK44KTiwc_IDDiOC3Xg_ijVKkEGCKYIjslRynBeoQ7r8sqxU3VDb9WyYRNb6Xh37plW2lGfAwEORjXE3TVpVM6ll3QPWPC4Ge5WQip-CglBttdLd1KZnhYC3ZIB7hkcS7cYm06WsUzvle0A-gNnaq4XgYpi4TIpiK4t8XIYjYG3TYWozcbbo7D5PzH1UdYPhlCJvXzOp-7yilzWTjFxMMhdBoABMsxQJk3l4PZTYS8FOwLngkA79P-8ZUAcPs-NKu_0AAAAASUVORK5CYII.png",
+      "snippet": "Use our free residential stamp duty calculator to find out how much SDLT might be payable on your property when buying a home in England or Northern ...",
+      "snippet_highlighted_words": [
+        "Use our free residential stamp duty calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our free residential stamp duty calculator to find out how much SDLT might be payable on your property when buying a home in England or Northern ...",
+          "source_info_link": "https://www.savills.co.uk/resources-and-tools/residential-stamp-duty-calculator.aspx",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEX_7SL_8CL_7iL_8yP_8SP9zB7_5iH6mhf-4CD8sBr_9CP4ahD9xBz1AAP90R73XA790x78thr_6yL-3CD4Yw__-yT6jxX3UAz2FgX8uRv2Lwj5fxP6lhb8vhv3Rwv_9yP5dhL__iT9zR77pxj4bxH5iBT5exIMYai3AAAA6UlEQVR4AWIYeDAKRgGgEaJQsBCEydDHmM5uBfP8_0886zph3ZsACe5vfu-hUH-IEK44KTiwc_IDDiOC3Xg_ijVKkEGCKYIjslRynBeoQ7r8sqxU3VDb9WyYRNb6Xh37plW2lGfAwEORjXE3TVpVM6ll3QPWPC4Ge5WQip-CglBttdLd1KZnhYC3ZIB7hkcS7cYm06WsUzvle0A-gNnaq4XgYpi4TIpiK4t8XIYjYG3TYWozcbbo7D5PzH1UdYPhlCJvXzOp-7yilzWTjFxMMhdBoABMsxQJk3l4PZTYS8FOwLngkA79P-8ZUAcPs-NKu_0AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.savills.co.uk/resources-and-tools/residential-stamp-duty-calculator.aspx&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.savills.co.uk%2Fresources-and-tools%2Fresidential-stamp-duty-calculator.aspx",
+      "source": "Savills"
+    },
+    {
+      "position": 7,
+      "title": "Residential Stamp Duty Calculator | SDLT | Buy To Let Property",
+      "link": "https://www.youtube.com/watch?v=y32uP3Utq4Q",
+      "displayed_link": "2.3K+ views · 4 years ago",
+      "thumbnail": "https://serpapi.com/searches/6a3a1914fd81c89a793a4c9d/images/FZe2k_cNGG9L-DplQq3gPGGU5OCtuTEoYM66Lo6VoC8.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "I wanted to create this calculator just to help you understand how much stamp duty land tax you will pay on residential property.",
+      "duration": "4:28",
+      "key_moments": [
+        {
+          "time": "00:53",
+          "title": "How to Refund Stamp Duty",
+          "link": "https://www.youtube.com/watch?v=y32uP3Utq4Q&t=53"
+        },
+        {
+          "time": "01:20",
+          "title": "Where can I get the Calculator?",
+          "link": "https://www.youtube.com/watch?v=y32uP3Utq4Q&t=80"
+        },
+        {
+          "time": "01:34",
+          "title": "How to use the calculator",
+          "link": "https://www.youtube.com/watch?v=y32uP3Utq4Q&t=94"
+        },
+        {
+          "time": "02:23",
+          "title": "Are you a tax resident?",
+          "link": "https://www.youtube.com/watch?v=y32uP3Utq4Q&t=143"
+        },
+        {
+          "time": "03:04",
+          "title": "Residential property value",
+          "link": "https://www.youtube.com/watch?v=y32uP3Utq4Q&t=184"
+        },
+        {
+          "time": "04:02",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=y32uP3Utq4Q&t=242"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I wanted to create this calculator just to help you understand how much stamp duty land tax you will pay on residential property.",
+          "source_info_link": "https://www.youtube.com/watch?v=y32uP3Utq4Q",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=y32uP3Utq4Q&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dy32uP3Utq4Q",
+      "source": "YouTube · UK Propery Investment Show"
+    },
+    {
+      "position": 8,
+      "title": "Stamp Duty Calculator",
+      "link": "https://www.rightmove.co.uk/stamp-duty-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rightmove.co.uk/stamp-duty-calculator&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQFnoECEUQAQ",
+      "displayed_link": "https://www.rightmove.co.uk › stamp-duty-calculator",
+      "favicon": "https://serpapi.com/searches/6a3a1914fd81c89a793a4c9d/images/FZe2k_cNGG9L-DplQq3gPFv2eVXgoJunIVV-samA6K8.png",
+      "snippet": "Discover how much stamp duty to pay and which homes best suit you with our stamp duty calculator. Suitable for movers, second homes and first time buyers.",
+      "snippet_highlighted_words": [
+        "stamp duty calculator"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How much stamp duty is...",
+            "link": "https://www.rightmove.co.uk/stamp-duty-calculator#englandNorthernIreland"
+          },
+          {
+            "title": "How much is shared...",
+            "link": "https://www.rightmove.co.uk/stamp-duty-calculator#sharedOwnership"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Discover how much stamp duty to pay and which homes best suit you with our stamp duty calculator. Suitable for movers, second homes and first time buyers.",
+          "source_info_link": "https://www.rightmove.co.uk/stamp-duty-calculator",
+          "icon": "https://serpapi.com/searches/6a3a1914fd81c89a793a4c9d/images/FZe2k_cNGG9L-DplQq3gPOH6o_PrmW2tlD_TPRcWGsUl1ssH47gg3KKPrvzLJuZk.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.rightmove.co.uk/stamp-duty-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.rightmove.co.uk%2Fstamp-duty-calculator",
+      "source": "Rightmove"
+    },
+    {
+      "position": 9,
+      "title": "Stamp Duty Calculator",
+      "link": "https://hoa.org.uk/stamp-duty-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hoa.org.uk/stamp-duty-calculator/&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQFnoECDQQAQ",
+      "displayed_link": "https://hoa.org.uk › stamp-duty-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEX____5-Pu1ocbc0-SfhLWXeq_18ve6p8qVd66bf7KljbrPwtrg2Oe-rc3doMyRcajq5e_0W63cG5KqbayxnMOjibhnNIiObKXyYrDsAInsAIralcaAWZxbJIBVEHv5n87Vyd5sPIxaHn5YGXz78fj7zOb-6_brAITsAIzDTqJyQ5DuJJj6u93jBItnIoHwSKb2k8n1hMFRAHj4rtfJudT94fH7x-RhEnzmUqqVY6OsPt9lAAABAElEQVR4Aa2PBZbDMAwF3YapTGFmzvL9L7ZSuYGH_QHDvJEt8p7M5vPZFKNohqGpUcRyvADhOXZUEwRGFASUxzRaIrLI9GXUwOHwUkpPXixhAx9xBTUuJ9_herMVditJYBhB2TNQfnk43uFJ1XQYVjssADFMa_kEVRtHBwBormf6fRjsrppnDmG42dJnzeub64iEcZKiZmVH7wUmal6EalJWpmkxrGK9wkRL6gShBR0OoAr4DGVC5q9QbRpNvUHu4PnHO2zj2CZhrSH0laPleZ1I7vlIsBUVIfRoWuYnecrX9wN63XJF-rnAnnaHsQawW7IjDE8uf1AbT_T7x5K35B9tHx9CAOezzAAAAABJRU5ErkJggg.png",
+      "snippet": "Stamp duty calculator for England, Northern Ireland, Wales, Scotland. First time buyer relief, second home, buy to let, non UK resident calculations.",
+      "snippet_highlighted_words": [
+        "Stamp duty calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Stamp duty calculator for England, Northern Ireland, Wales, Scotland. First time buyer relief, second home, buy to let, non UK resident calculations.",
+          "source_info_link": "https://hoa.org.uk/stamp-duty-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAArlBMVEX____5-Pu1ocbc0-SfhLWXeq_18ve6p8qVd66bf7KljbrPwtrg2Oe-rc3doMyRcajq5e_0W63cG5KqbayxnMOjibhnNIiObKXyYrDsAInsAIralcaAWZxbJIBVEHv5n87Vyd5sPIxaHn5YGXz78fj7zOb-6_brAITsAIzDTqJyQ5DuJJj6u93jBItnIoHwSKb2k8n1hMFRAHj4rtfJudT94fH7x-RhEnzmUqqVY6OsPt9lAAABAElEQVR4Aa2PBZbDMAwF3YapTGFmzvL9L7ZSuYGH_QHDvJEt8p7M5vPZFKNohqGpUcRyvADhOXZUEwRGFASUxzRaIrLI9GXUwOHwUkpPXixhAx9xBTUuJ9_herMVditJYBhB2TNQfnk43uFJ1XQYVjssADFMa_kEVRtHBwBormf6fRjsrppnDmG42dJnzeub64iEcZKiZmVH7wUmal6EalJWpmkxrGK9wkRL6gShBR0OoAr4DGVC5q9QbRpNvUHu4PnHO2zj2CZhrSH0laPleZ1I7vlIsBUVIfRoWuYnecrX9wN63XJF-rnAnnaHsQawW7IjDE8uf1AbT_T7x5K35B9tHx9CAOezzAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://hoa.org.uk/stamp-duty-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhoa.org.uk%2Fstamp-duty-calculator%2F",
+      "source": "HomeOwners Alliance"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Stamp duty calculator uk property free",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Stamp+duty+calculator+uk+property+free&sa=X&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stamp+duty+calculator+uk+property+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Stamp Duty calculator HMRC",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Stamp+Duty+calculator+HMRC&sa=X&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stamp+Duty+calculator+HMRC"
+    },
+    {
+      "block_position": 1,
+      "query": "Stamp duty calculator uk property gov",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Stamp+duty+calculator+uk+property+gov&sa=X&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stamp+duty+calculator+uk+property+gov"
+    },
+    {
+      "block_position": 1,
+      "query": "Stamp Duty on 400k house",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Stamp+Duty+on+400k+house&sa=X&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stamp+Duty+on+400k+house"
+    },
+    {
+      "block_position": 1,
+      "query": "Stamp duty on 300k house",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Stamp+duty+on+300k+house&sa=X&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stamp+duty+on+300k+house"
+    },
+    {
+      "block_position": 1,
+      "query": "Stamp Duty on 500k house",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Stamp+Duty+on+500k+house&sa=X&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stamp+Duty+on+500k+house"
+    },
+    {
+      "block_position": 1,
+      "query": "Stamp Duty calculator 2026",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Stamp+Duty+calculator+2026&sa=X&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stamp+Duty+calculator+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Stamp Duty on 450k house",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Stamp+Duty+on+450k+house&sa=X&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Stamp+Duty+on+450k+house"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=stamp+duty+calculator+uk+property&sca_esv=bbb7d61e8d3bb37e&ei=FRk6au67O6KLwbkPzZ6SuAQ&start=10&sa=N&sstk=AU9db-B1qHcyAJ9biOUSp_1Kuy7i49a_ucUz-fRX0FD9iEqtk8bFPEtLfYIXA_FpdGnHQQuHYujf--DiK_0eBnoSKpsBkirso1cDrw&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ8NMDegQILBAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=stamp+duty+calculator+uk+property&sca_esv=bbb7d61e8d3bb37e&ei=FRk6au67O6KLwbkPzZ6SuAQ&start=10&sa=N&sstk=AU9db-B1qHcyAJ9biOUSp_1Kuy7i49a_ucUz-fRX0FD9iEqtk8bFPEtLfYIXA_FpdGnHQQuHYujf--DiK_0eBnoSKpsBkirso1cDrw&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ8tMDegQILBAE",
+      "3": "https://www.google.com/search?q=stamp+duty+calculator+uk+property&sca_esv=bbb7d61e8d3bb37e&ei=FRk6au67O6KLwbkPzZ6SuAQ&start=20&sa=N&sstk=AU9db-B1qHcyAJ9biOUSp_1Kuy7i49a_ucUz-fRX0FD9iEqtk8bFPEtLfYIXA_FpdGnHQQuHYujf--DiK_0eBnoSKpsBkirso1cDrw&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ8tMDegQILBAG",
+      "4": "https://www.google.com/search?q=stamp+duty+calculator+uk+property&sca_esv=bbb7d61e8d3bb37e&ei=FRk6au67O6KLwbkPzZ6SuAQ&start=30&sa=N&sstk=AU9db-B1qHcyAJ9biOUSp_1Kuy7i49a_ucUz-fRX0FD9iEqtk8bFPEtLfYIXA_FpdGnHQQuHYujf--DiK_0eBnoSKpsBkirso1cDrw&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ8tMDegQILBAI",
+      "5": "https://www.google.com/search?q=stamp+duty+calculator+uk+property&sca_esv=bbb7d61e8d3bb37e&ei=FRk6au67O6KLwbkPzZ6SuAQ&start=40&sa=N&sstk=AU9db-B1qHcyAJ9biOUSp_1Kuy7i49a_ucUz-fRX0FD9iEqtk8bFPEtLfYIXA_FpdGnHQQuHYujf--DiK_0eBnoSKpsBkirso1cDrw&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ8tMDegQILBAK",
+      "6": "https://www.google.com/search?q=stamp+duty+calculator+uk+property&sca_esv=bbb7d61e8d3bb37e&ei=FRk6au67O6KLwbkPzZ6SuAQ&start=50&sa=N&sstk=AU9db-B1qHcyAJ9biOUSp_1Kuy7i49a_ucUz-fRX0FD9iEqtk8bFPEtLfYIXA_FpdGnHQQuHYujf--DiK_0eBnoSKpsBkirso1cDrw&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ8tMDegQILBAM",
+      "7": "https://www.google.com/search?q=stamp+duty+calculator+uk+property&sca_esv=bbb7d61e8d3bb37e&ei=FRk6au67O6KLwbkPzZ6SuAQ&start=60&sa=N&sstk=AU9db-B1qHcyAJ9biOUSp_1Kuy7i49a_ucUz-fRX0FD9iEqtk8bFPEtLfYIXA_FpdGnHQQuHYujf--DiK_0eBnoSKpsBkirso1cDrw&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ8tMDegQILBAO",
+      "8": "https://www.google.com/search?q=stamp+duty+calculator+uk+property&sca_esv=bbb7d61e8d3bb37e&ei=FRk6au67O6KLwbkPzZ6SuAQ&start=70&sa=N&sstk=AU9db-B1qHcyAJ9biOUSp_1Kuy7i49a_ucUz-fRX0FD9iEqtk8bFPEtLfYIXA_FpdGnHQQuHYujf--DiK_0eBnoSKpsBkirso1cDrw&ved=2ahUKEwiump6K0JyVAxWiRTABHU2PBEcQ8tMDegQILBAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=stamp+duty+calculator+uk+property&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=stamp+duty+calculator+uk+property&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=stamp+duty+calculator+uk+property&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=stamp+duty+calculator+uk+property&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=stamp+duty+calculator+uk+property&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=stamp+duty+calculator+uk+property&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=stamp+duty+calculator+uk+property&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=stamp+duty+calculator+uk+property&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=stamp+duty+calculator+uk+property&start=70"
+    }
+  }
+}

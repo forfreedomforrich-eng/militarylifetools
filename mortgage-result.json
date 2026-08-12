@@ -1,0 +1,410 @@
+{
+  "search_metadata": {
+    "id": "6a3a176b8da5ea12445da854",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/qYzB9DvBVa7i2jI4Fh4ZuA/6a3a176b8da5ea12445da854.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/qYzB9DvBVa7i2jI4Fh4ZuA/6a3a176b8da5ea12445da854.json_with_pixel_position",
+    "created_at": "2026-06-23 05:19:39 UTC",
+    "processed_at": "2026-06-23 05:19:39 UTC",
+    "google_url": "https://www.google.com/search?q=days+until+mortgage+payoff+calculator&oq=days+until+mortgage+payoff+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/qYzB9DvBVa7i2jI4Fh4ZuA/6a3a176b8da5ea12445da854.html",
+    "total_time_taken": 3.83
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "days until mortgage payoff calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "days until mortgage payoff calculator",
+    "total_results": 138,
+    "time_taken_displayed": 0.2,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Mortgage Payoff Calculator",
+      "link": "https://www.ramseysolutions.com/real-estate/mortgage-payoff-calculator?srsltid=AfmBOor5aMjORt5P0BEao2oG4J3NNZwgwIZ2pgIpzdtrrmxfQnHru-s7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ramseysolutions.com/real-estate/mortgage-payoff-calculator%3Fsrsltid%3DAfmBOor5aMjORt5P0BEao2oG4J3NNZwgwIZ2pgIpzdtrrmxfQnHru-s7&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQFnoECAoQAQ",
+      "displayed_link": "https://www.ramseysolutions.com › real-estate › mortga...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAdLoAdLoAdLoAcLgTer5iotBAj8cwh8T____3_P6Svt56r9eIuNvg7veawuDA2ux5CZ_eAAAAA3RSTlMAf_ToAZfiAAAAkUlEQVR4AY2ThREEIRAEkcE1_2h_3m2h6FNonEUpbayI0XR2iVZmLY2yG84kXvxL5x8Eh1-JmJ7kgqUkFYLMpbbOb7eSjEDI_IlYyyzK0YrcrDwgeSqni0A5xigOjR8vL0LAuA9akDnAdn7nn-wkAj4Rj09JHOEHkzK7HwleBLGSCDkScOM8TGS2obkN6u1xuADKMg2wXeJSwgAAAABJRU5ErkJggg.png",
+      "snippet": "Use our free calculator to compare 15- and 30-year mortgages and see how extra payments or refinancing can help you pay off your home faster.",
+      "snippet_highlighted_words": [
+        "Use our free calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our free calculator to compare 15- and 30-year mortgages and see how extra payments or refinancing can help you pay off your home faster.",
+          "source_info_link": "https://www.ramseysolutions.com/real-estate/mortgage-payoff-calculator?srsltid=AfmBOor5aMjORt5P0BEao2oG4J3NNZwgwIZ2pgIpzdtrrmxfQnHru-s7",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAdLoAdLoAdLoAcLgTer5iotBAj8cwh8T____3_P6Svt56r9eIuNvg7veawuDA2ux5CZ_eAAAAA3RSTlMAf_ToAZfiAAAAkUlEQVR4AY2ThREEIRAEkcE1_2h_3m2h6FNonEUpbayI0XR2iVZmLY2yG84kXvxL5x8Eh1-JmJ7kgqUkFYLMpbbOb7eSjEDI_IlYyyzK0YrcrDwgeSqni0A5xigOjR8vL0LAuA9akDnAdn7nn-wkAj4Rj09JHOEHkzK7HwleBLGSCDkScOM8TGS2obkN6u1xuADKMg2wXeJSwgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ramseysolutions.com/real-estate/mortgage-payoff-calculator?srsltid=AfmBOor5aMjORt5P0BEao2oG4J3NNZwgwIZ2pgIpzdtrrmxfQnHru-s7&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ramseysolutions.com%2Freal-estate%2Fmortgage-payoff-calculator%3Fsrsltid%3DAfmBOor5aMjORt5P0BEao2oG4J3NNZwgwIZ2pgIpzdtrrmxfQnHru-s7",
+      "source": "Ramsey Solutions"
+    },
+    {
+      "position": 2,
+      "title": "Mortgage Payoff Calculator",
+      "link": "https://www.calculator.net/mortgage-payoff-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calculator.net/mortgage-payoff-calculator.html&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQFnoECAsQAQ",
+      "displayed_link": "https://www.calculator.net › financial",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png",
+      "snippet": "Free mortgage payoff calculator to evaluate options to pay off a mortgage earlier, such as extra payments, bi-weekly payments, or paying back altogether.",
+      "snippet_highlighted_words": [
+        "Free mortgage payoff calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Free mortgage payoff calculator to evaluate options to pay off a mortgage earlier, such as extra payments, bi-weekly payments, or paying back altogether.",
+          "source_info_link": "https://www.calculator.net/mortgage-payoff-calculator.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.calculator.net/mortgage-payoff-calculator.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.calculator.net%2Fmortgage-payoff-calculator.html",
+      "source": "Calculator.net"
+    },
+    {
+      "position": 3,
+      "title": "How Long Until My Loan is Paid Off?",
+      "link": "https://www.dcu.org/plan/loans/how-long-until-my-loan-is-paid-off.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dcu.org/plan/loans/how-long-until-my-loan-is-paid-off.html&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQFnoECA8QAQ",
+      "displayed_link": "https://www.dcu.org › plan › loans › how-long-until-m...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEUAZ1kAYVIAXk8AY1UAZVaYvri20MyuysVFiH0XcmXb6Ob____N392ItK1_q6TT5eLF2dbi7uxpoprp8vH0-fhRkIZ0pJwAaFoScGMtem6St7GkxcC91dF2pZ43gHUAYlRelo1Yk4o8CVlTAAAA3klEQVR4AaXSRQLEIAwFUCCpu7vd_5KDTOq7_k0LDwf2LVxQOODNwLL_cSzXQ37t6AeUMAr8mOEZE7I01i08uCOZTEZKSGb-HhjmRfnHrIIb1k3rVbb6S9KsuSNH5MKRQ8gWLtxR_mNXJqp3z1-Q4aAsGF-RR7qQvKKwX3EyPUOzU3HBrEP5D57Z63DpWcyCIS5iCHTW5UBpjcvkITjGyhYPzDqepk5phjTbJPQLaYnsREkaRsGxE6lPRmujtPxi6fmysQl9e6dwhZMxqO18lJHvK948ztklIJbb0_yaHxUoExyTgbX_AAAAAElFTkSuQmCC.png",
+      "snippet": "Use this calculator to determine how much longer you will need to make regular payments to eliminate your debt obligation and pay off your loan.",
+      "snippet_highlighted_words": [
+        "calculator to",
+        "to",
+        "to",
+        "pay off"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this calculator to determine how much longer you will need to make regular payments to eliminate your debt obligation and pay off your loan.",
+          "source_info_link": "https://www.dcu.org/plan/loans/how-long-until-my-loan-is-paid-off.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEUAZ1kAYVIAXk8AY1UAZVaYvri20MyuysVFiH0XcmXb6Ob____N392ItK1_q6TT5eLF2dbi7uxpoprp8vH0-fhRkIZ0pJwAaFoScGMtem6St7GkxcC91dF2pZ43gHUAYlRelo1Yk4o8CVlTAAAA3klEQVR4AaXSRQLEIAwFUCCpu7vd_5KDTOq7_k0LDwf2LVxQOODNwLL_cSzXQ37t6AeUMAr8mOEZE7I01i08uCOZTEZKSGb-HhjmRfnHrIIb1k3rVbb6S9KsuSNH5MKRQ8gWLtxR_mNXJqp3z1-Q4aAsGF-RR7qQvKKwX3EyPUOzU3HBrEP5D57Z63DpWcyCIS5iCHTW5UBpjcvkITjGyhYPzDqepk5phjTbJPQLaYnsREkaRsGxE6lPRmujtPxi6fmysQl9e6dwhZMxqO18lJHvK948ztklIJbb0_yaHxUoExyTgbX_AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.dcu.org/plan/loans/how-long-until-my-loan-is-paid-off.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dcu.org%2Fplan%2Floans%2Fhow-long-until-my-loan-is-paid-off.html",
+      "source": "DCU"
+    },
+    {
+      "position": 4,
+      "title": "Early Mortgage Payoff Calculator",
+      "link": "https://www.bankiowa.com/calculators/early-mortgage-payoff-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bankiowa.com/calculators/early-mortgage-payoff-calculator&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQFnoECBUQAQ",
+      "displayed_link": "https://www.bankiowa.com › calculators › early-mortga...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEX___9UapcfRYCirMLAx9YAHGz2-PsAKXKwucx0hKgzUYd6iamlscc3U4ZVaZQ9VoZHYI8AIm4AOHmcpr6AjavL0t4AM3dsfKEAFmuHlK9ic5pEXI0sSoMiRIATPHvc4uoAD2ePnLSsUgMJAAAAY0lEQVR4Ae3JtQHDQBAAMDPdMzPsP2RwBndWq-Fxp3Gal3Xbj_MChAlQNk2McvFPxqS6NCenuTawTgHA6cMqfxlPm6jM8SypAjQfFKguW_8lsIMcKiw-HD1YSRghcNk03OnxBl3pBgIJ_aPXAAAAAElFTkSuQmCC.png",
+      "snippet": "BankIowa's Early Mortgage Payoff Calculator will show you what it will take to pay off your mortgage early.",
+      "snippet_highlighted_words": [
+        "BankIowa's Early Mortgage Payoff Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "BankIowa's Early Mortgage Payoff Calculator will show you what it will take to pay off your mortgage early.",
+          "source_info_link": "https://www.bankiowa.com/calculators/early-mortgage-payoff-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEX___9UapcfRYCirMLAx9YAHGz2-PsAKXKwucx0hKgzUYd6iamlscc3U4ZVaZQ9VoZHYI8AIm4AOHmcpr6AjavL0t4AM3dsfKEAFmuHlK9ic5pEXI0sSoMiRIATPHvc4uoAD2ePnLSsUgMJAAAAY0lEQVR4Ae3JtQHDQBAAMDPdMzPsP2RwBndWq-Fxp3Gal3Xbj_MChAlQNk2McvFPxqS6NCenuTawTgHA6cMqfxlPm6jM8SypAjQfFKguW_8lsIMcKiw-HD1YSRghcNk03OnxBl3pBgIJ_aPXAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.bankiowa.com/calculators/early-mortgage-payoff-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bankiowa.com%2Fcalculators%2Fearly-mortgage-payoff-calculator",
+      "source": "BankIowa"
+    },
+    {
+      "position": 5,
+      "title": "Mortgage Payoff Calculator",
+      "link": "https://www.aarp.org/money/personal-finance/mortgage-payoff-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aarp.org/money/personal-finance/mortgage-payoff-calculator/&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQFnoECBQQAQ",
+      "displayed_link": "https://www.aarp.org › money › personal-finance › mo...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzsEgDsEwDsEwDsEwDsEwDsEwDsEwDsEwDsEgDsEwDrEQDsEwDsEwDsEgDsEwB8CywxAAAAD3RSTlMAH6nVg0Zvv1c26QT3XBJ9f8TqAAAAm0lEQVQokc2RRxbDIAxEKaK3-982imSKn5V1PBse-jAagVLvVtEkGcIgRRFWhkFiblwqAgwTeiEOli1B-2Qey41v9wfNWFXx5rtyJ85588VjHM5g0fEyBj-Ep8EgOvKrNXMkWOcF5WtyK9L5wBoCBq3WQHPJeZO375yy69Qc50_Yqx6sH15mALZKG1JjswdeG-r7VTk3P778n_oAl00LGTPbaZAAAAAASUVORK5CYII.png",
+      "snippet": "Find out how much interest you can save by increasing your mortgage payment. Use this calculator see how you can pay off your mortgage early with extra ...",
+      "snippet_highlighted_words": [
+        "Use this calculator see how you can pay off your mortgage early"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Find out how much interest you can save by increasing your mortgage payment. Use this calculator see how you can pay off your mortgage early with extra ...",
+          "source_info_link": "https://www.aarp.org/money/personal-finance/mortgage-payoff-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzsEgDsEwDsEwDsEwDsEwDsEwDsEwDsEwDsEgDsEwDrEQDsEwDsEwDsEgDsEwB8CywxAAAAD3RSTlMAH6nVg0Zvv1c26QT3XBJ9f8TqAAAAm0lEQVQokc2RRxbDIAxEKaK3-982imSKn5V1PBse-jAagVLvVtEkGcIgRRFWhkFiblwqAgwTeiEOli1B-2Qey41v9wfNWFXx5rtyJ85588VjHM5g0fEyBj-Ep8EgOvKrNXMkWOcF5WtyK9L5wBoCBq3WQHPJeZO375yy69Qc50_Yqx6sH15mALZKG1JjswdeG-r7VTk3P778n_oAl00LGTPbaZAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.aarp.org/money/personal-finance/mortgage-payoff-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.aarp.org%2Fmoney%2Fpersonal-finance%2Fmortgage-payoff-calculator%2F",
+      "source": "AARP"
+    },
+    {
+      "position": 6,
+      "title": "Mortgage Payoff Calculator",
+      "link": "https://www.bankofromney.net/calculator/mortgage-payoff",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bankofromney.net/calculator/mortgage-payoff&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQFnoECA4QAQ",
+      "displayed_link": "https://www.bankofromney.net › calculator › mortgage-...",
+      "favicon": "https://serpapi.com/searches/6a3a176b8da5ea12445da854/images/mvBlQ73FwnxzGy3n-R4qBXXWkVMXmw-rPvCxx0uYwdI.png",
+      "snippet": "The mortgage payoff calculator helps you find out. Click the \"View Report\" button to see a complete amortization payment schedule and how much you can save on ...",
+      "snippet_highlighted_words": [
+        "mortgage payoff calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The mortgage payoff calculator helps you find out. Click the \"View Report\" button to see a complete amortization payment schedule and how much you can save on ...",
+          "source_info_link": "https://www.bankofromney.net/calculator/mortgage-payoff",
+          "icon": "https://serpapi.com/searches/6a3a176b8da5ea12445da854/images/mvBlQ73FwnxzGy3n-R4qBTDYFDcc9MzamoMBaQX_EEvvU4NgWwb7IOt7jV8mTN7q.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.bankofromney.net/calculator/mortgage-payoff&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bankofromney.net%2Fcalculator%2Fmortgage-payoff",
+      "source": "The Bank of Romney",
+      "read_more_link": "https://www.bankofromney.net/calculator/mortgage-payoff#:~:text=The%20mortgage%20payoff%20calculator%20helps,can%20save%20on%20your%20mortgage."
+    },
+    {
+      "position": 7,
+      "title": "Remaining Term Calculator",
+      "link": "https://www.mortgageprofessor.com/mpcalculators/RemainingTermCalc/RemainingTerm.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mortgageprofessor.com/mpcalculators/RemainingTermCalc/RemainingTerm.asp&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQFnoECA0QAQ",
+      "displayed_link": "https://www.mortgageprofessor.com › mpcalculators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX___-0u8vf4ulEWYcAEWXp6_BtdpsAAGEAKG0AMHADNHHQ1N4AJmwAL3Ade4kfgowGOHKAi6gAHGgMRnYUXn6ss8USWHz4-_sIP3THzNjo5-5UYY6-2dl8trVqsK6Pw8DG292TwcEtlZUAi4sAhYViqamRwMCIu7tXpKTv9fWx0dGdxsbB29sdkZE5mZkAiIjl7-_wo4QeAAAA3klEQVR4AdROtQGAMACru7v8_yes2AFkjIMfA8JPCWFCMHqVKONCKsEZfUiacWOV88EazvQtFlOSNvtipEw8PsI1SZl9s6nq_rzDxXD-HEXzubrYJsaQzVY_qp-KA4RiGMoKXNBXT39S7_7L4b4BcZffzi2UNna9tkYrfCWdDxQXFmIm4SVS8O6VTBlQEouN0ZYoCsjpkaqthzG6-EHO0fDSxwi91XtWOAPF5ZpbuwhXgMxySynFug26ggf8zRhNs9KXZCEKUmzaTgiRYG6TLRKIyrX143BrP55b_RmcAXIUGf3gwvW8AAAAAElFTkSuQmCC.png",
+      "snippet": "Enter the first three items with no commas, dollar signs or percent signs. Then press the tab key or the enter key to generate the result.",
+      "snippet_highlighted_words": [
+        "Enter the first three items with no commas, dollar signs or percent signs"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Enter the first three items with no commas, dollar signs or percent signs. Then press the tab key or the enter key to generate the result.",
+          "source_info_link": "https://www.mortgageprofessor.com/mpcalculators/RemainingTermCalc/RemainingTerm.asp",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX___-0u8vf4ulEWYcAEWXp6_BtdpsAAGEAKG0AMHADNHHQ1N4AJmwAL3Ade4kfgowGOHKAi6gAHGgMRnYUXn6ss8USWHz4-_sIP3THzNjo5-5UYY6-2dl8trVqsK6Pw8DG292TwcEtlZUAi4sAhYViqamRwMCIu7tXpKTv9fWx0dGdxsbB29sdkZE5mZkAiIjl7-_wo4QeAAAA3klEQVR4AdROtQGAMACru7v8_yes2AFkjIMfA8JPCWFCMHqVKONCKsEZfUiacWOV88EazvQtFlOSNvtipEw8PsI1SZl9s6nq_rzDxXD-HEXzubrYJsaQzVY_qp-KA4RiGMoKXNBXT39S7_7L4b4BcZffzi2UNna9tkYrfCWdDxQXFmIm4SVS8O6VTBlQEouN0ZYoCsjpkaqthzG6-EHO0fDSxwi91XtWOAPF5ZpbuwhXgMxySynFug26ggf8zRhNs9KXZCEKUmzaTgiRYG6TLRKIyrX143BrP55b_RmcAXIUGf3gwvW8AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.mortgageprofessor.com/mpcalculators/RemainingTermCalc/RemainingTerm.asp&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.mortgageprofessor.com%2Fmpcalculators%2FRemainingTermCalc%2FRemainingTerm.asp",
+      "source": "Mortgage Professor",
+      "read_more_link": "https://www.mortgageprofessor.com/mpcalculators/RemainingTermCalc/RemainingTerm.asp#:~:text=Enter%20the%20first%20three%20items,key%20to%20generate%20the%20result."
+    },
+    {
+      "position": 8,
+      "title": "Additional Payment Calculator",
+      "link": "https://www.bankrate.com/mortgages/additional-mortgage-payment-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bankrate.com/mortgages/additional-mortgage-payment-calculator/&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQFnoECBcQAQ",
+      "displayed_link": "https://www.bankrate.com › mortgages › additional-mort...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABWUlEQVR4AWIAg0hA9eUAonkQxuGzL3fKdcrm5Y5ZZ63NvAxr27Zt27Zt2_h9eGuN9J9p33rS6BnP4O21b0i6_h2rYiAwq5K2JG0eNH79GxYokR2SNkmCeg4eSEfiYNj5sCoRAE-ulsD00mkmF4CyTkA7ELj3R1iBS6NpCHihwkDAPhVQ8CSUvYGQYmBvj9JKO4EbPwQW-GB6Ou2vKw7iiwVzAaJpkNId0jgJxFdRelgpB4Hbv4ChGUq3SWYscPc34JGNg3hnLLBA4yBQ0EYUiplYwEFElXM8BwCSeqooqAD10joJRDLglQO0j-Ig6vuBe78ZL8IbYjT8gP19SEM3iLEAQaNDo8BH4OBE3NrhJPDdkbOAZ87Bzche4KMZsL0LaehHMLmOCRUfupJ39ii9dxJ4_J_TQdQ1DrzSZvQkI-goLumkvf_g71V8lPKE_8eE-9eM_-eU8_dcBKLEGBvahsi9AAAAAElFTkSuQmCC.png",
+      "snippet": "Click the “calculate” button: This will show how your extra payments impact your loan payoff timeline and total interest paid.",
+      "snippet_highlighted_words": [
+        "payoff"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Additional Mortgage Payment...",
+            "link": "https://www.bankrate.com/mortgages/additional-mortgage-payment-calculator/#:~:text=Additional%20mortgage%20payment%20calculator"
+          },
+          {
+            "title": "How To Use This Calculator",
+            "link": "https://www.bankrate.com/mortgages/additional-mortgage-payment-calculator/#:~:text=How%20to%20use%20this%20calculator"
+          },
+          {
+            "title": "Factors That Can Affect...",
+            "link": "https://www.bankrate.com/mortgages/additional-mortgage-payment-calculator/#:~:text=Factors%20that%20can%20affect%20extra%20mortgage%20payments"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Click the “calculate” button: This will show how your extra payments impact your loan payoff timeline and total interest paid.",
+          "source_info_link": "https://www.bankrate.com/mortgages/additional-mortgage-payment-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABWUlEQVR4AWIAg0hA9eUAonkQxuGzL3fKdcrm5Y5ZZ63NvAxr27Zt27Zt2_h9eGuN9J9p33rS6BnP4O21b0i6_h2rYiAwq5K2JG0eNH79GxYokR2SNkmCeg4eSEfiYNj5sCoRAE-ulsD00mkmF4CyTkA7ELj3R1iBS6NpCHihwkDAPhVQ8CSUvYGQYmBvj9JKO4EbPwQW-GB6Ou2vKw7iiwVzAaJpkNId0jgJxFdRelgpB4Hbv4ChGUq3SWYscPc34JGNg3hnLLBA4yBQ0EYUiplYwEFElXM8BwCSeqooqAD10joJRDLglQO0j-Ig6vuBe78ZL8IbYjT8gP19SEM3iLEAQaNDo8BH4OBE3NrhJPDdkbOAZ87Bzche4KMZsL0LaehHMLmOCRUfupJ39ii9dxJ4_J_TQdQ1DrzSZvQkI-goLumkvf_g71V8lPKE_8eE-9eM_-eU8_dcBKLEGBvahsi9AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.bankrate.com/mortgages/additional-mortgage-payment-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bankrate.com%2Fmortgages%2Fadditional-mortgage-payment-calculator%2F",
+      "source": "Bankrate"
+    },
+    {
+      "position": 9,
+      "title": "Mortgage Payoff Calculator - CalHFA - CA.gov",
+      "link": "https://www.calhfa.ca.gov/calc/payoffcalculator/index.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calhfa.ca.gov/calc/payoffcalculator/index.htm&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQFnoECAwQAQ",
+      "displayed_link": "https://www.calhfa.ca.gov › calc › payoffcalculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAKlBMVEUAAADv9PlQisG_1OgQYKsAVaUgarB_qtLf6vQwdbavyuNglcefv91AgLwv130kAAAAAXRSTlMAQObYZgAAADpJREFUeAFjwA-EFCE0s2uYQSiIURoaGg5idIYCAZDB5QpmLGDYGgoG0TCdrPgYB2CMCzCG710wuAoAw_AS-C5kPykAAAAASUVORK5CYII.png",
+      "snippet": "Mortgage Payoff Calculator. How much interest can you save by increasing your mortgage payment? This financial calculator helps you find out.",
+      "snippet_highlighted_words": [
+        "Mortgage Payoff Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Mortgage Payoff Calculator. How much interest can you save by increasing your mortgage payment? This financial calculator helps you find out.",
+          "source_info_link": "https://www.calhfa.ca.gov/calc/payoffcalculator/index.htm",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAKlBMVEUAAADv9PlQisG_1OgQYKsAVaUgarB_qtLf6vQwdbavyuNglcefv91AgLwv130kAAAAAXRSTlMAQObYZgAAADpJREFUeAFjwA-EFCE0s2uYQSiIURoaGg5idIYCAZDB5QpmLGDYGgoG0TCdrPgYB2CMCzCG710wuAoAw_AS-C5kPykAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.calhfa.ca.gov/calc/payoffcalculator/index.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.calhfa.ca.gov%2Fcalc%2Fpayoffcalculator%2Findex.htm",
+      "source": "California Housing Finance Agency | CalHFA (.gov)",
+      "read_more_link": "https://www.calhfa.ca.gov/calc/payoffcalculator/index.htm#:~:text=Mortgage%20Payoff%20Calculator,calculator%20helps%20you%20find%20out."
+    },
+    {
+      "position": 10,
+      "title": "Find out how long it will take to pay off your loan",
+      "link": "https://www.calcxml.com/calculators/pay-off-loan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calcxml.com/calculators/pay-off-loan&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQFnoECBAQAQ",
+      "displayed_link": "https://www.calcxml.com › calculators › pay-off-loan",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX____6_v3u-fZmybTZ8ey25NoAro2y4tf-_v6G0sFHv6UaspN-0L3i9fFdxa8Ar44SsZHI6uL7-_vCw8R4enx_gYPMzc6qrK3T1NSipKWMjo_g4eFYXF5fY2Xw8fFdYGJmaWu4ubqbnZ6GiYqTlZays7RwcnTR0tMquZ1AvaKd2sxvzblojzTpAAABPUlEQVR4AXzSBYKDMBAF0MGC1iAhWASne_8D7mD19uP_4QBvMUz4Ecv-gQ5xP4NnO34QkujtWgfHP4aEnM5hSALztvveI2wh58tCphsdg-D4mmBRA34ljmPwcIoxy-a6vmJCmZdSFnPKaAYZznPIabFiWQnJVQG50KqGRGnRQKPYip4WWaFqxFbnwEU7o9gQOtUzkUGumqGAbsjVIyaK6kEickYlY_0TpkprGiP2nS6Hrn7CXBSDLmfkYtT8GalImEpmrFUu0qfTSiXKDgvEUQyq3FDKGDHF5-wrCnnFpRBa8qpD1FokiD0rYGSt7FkdF23n1YwDb9uWpYie5wEs07q-TpjvX8VYemcKnnO9TlMQueu_YIfkvOVECJmsv4vpwR7zSMIQ4TQdsYfX-CTE_vD1X3X-hyet8GpjEQQAUEwiq7F_QKwAAAAASUVORK5CYII.png",
+      "snippet": "At CalcXML we developed a user friendly loan pay off calculator. Use it to see how quickly you can pay off your loan.",
+      "snippet_highlighted_words": [
+        "Use it to see how quickly you can pay off your loan"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "At CalcXML we developed a user friendly loan pay off calculator. Use it to see how quickly you can pay off your loan.",
+          "source_info_link": "https://www.calcxml.com/calculators/pay-off-loan",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX____6_v3u-fZmybTZ8ey25NoAro2y4tf-_v6G0sFHv6UaspN-0L3i9fFdxa8Ar44SsZHI6uL7-_vCw8R4enx_gYPMzc6qrK3T1NSipKWMjo_g4eFYXF5fY2Xw8fFdYGJmaWu4ubqbnZ6GiYqTlZays7RwcnTR0tMquZ1AvaKd2sxvzblojzTpAAABPUlEQVR4AXzSBYKDMBAF0MGC1iAhWASne_8D7mD19uP_4QBvMUz4Ecv-gQ5xP4NnO34QkujtWgfHP4aEnM5hSALztvveI2wh58tCphsdg-D4mmBRA34ljmPwcIoxy-a6vmJCmZdSFnPKaAYZznPIabFiWQnJVQG50KqGRGnRQKPYip4WWaFqxFbnwEU7o9gQOtUzkUGumqGAbsjVIyaK6kEickYlY_0TpkprGiP2nS6Hrn7CXBSDLmfkYtT8GalImEpmrFUu0qfTSiXKDgvEUQyq3FDKGDHF5-wrCnnFpRBa8qpD1FokiD0rYGSt7FkdF23n1YwDb9uWpYie5wEs07q-TpjvX8VYemcKnnO9TlMQueu_YIfkvOVECJmsv4vpwR7zSMIQ4TQdsYfX-CTE_vD1X3X-hyet8GpjEQQAUEwiq7F_QKwAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.calcxml.com/calculators/pay-off-loan&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.calcxml.com%2Fcalculators%2Fpay-off-loan",
+      "source": "CalcXML"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "How to pay off mortgage in 5 years calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+to+pay+off+mortgage+in+5+years+calculator&sa=X&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+to+pay+off+mortgage+in+5+years+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Paying off home loan early calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Paying+off+home+loan+early+calculator&sa=X&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paying+off+home+loan+early+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "How to pay off mortgage in 10 years calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+to+pay+off+mortgage+in+10+years+calculator&sa=X&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+to+pay+off+mortgage+in+10+years+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Extra principal payment calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Extra+principal+payment+calculator&sa=X&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Extra+principal+payment+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Current balance mortgage payoff calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Current+balance+mortgage+payoff+calculator&sa=X&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Current+balance+mortgage+payoff+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "How to pay off a 30-year mortgage in 15 years calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+to+pay+off+a+30-year+mortgage+in+15+years+calculator&sa=X&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+to+pay+off+a+30-year+mortgage+in+15+years+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Best mortgage payoff calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Best+mortgage+payoff+calculator&sa=X&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+mortgage+payoff+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Wells Fargo early mortgage payoff calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Wells+Fargo+early+mortgage+payoff+calculator&sa=X&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Wells+Fargo+early+mortgage+payoff+calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=days+until+mortgage+payoff+calculator&sca_esv=bbb7d61e8d3bb37e&ei=bhc6atbACaeyptQPmYmfyAg&start=10&sa=N&sstk=AU9db-CWaf29KcZUoq95cuSqM1NyChIZROQDHsEhO4RaxAuwX2Ki59SMDwhaZCGCM24bAJxAUNbfAJ5TPPbXXwDkKASAO14LrzEfZg&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ8NMDegQINRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=days+until+mortgage+payoff+calculator&sca_esv=bbb7d61e8d3bb37e&ei=bhc6atbACaeyptQPmYmfyAg&start=10&sa=N&sstk=AU9db-CWaf29KcZUoq95cuSqM1NyChIZROQDHsEhO4RaxAuwX2Ki59SMDwhaZCGCM24bAJxAUNbfAJ5TPPbXXwDkKASAO14LrzEfZg&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ8tMDegQINRAE",
+      "3": "https://www.google.com/search?q=days+until+mortgage+payoff+calculator&sca_esv=bbb7d61e8d3bb37e&ei=bhc6atbACaeyptQPmYmfyAg&start=20&sa=N&sstk=AU9db-CWaf29KcZUoq95cuSqM1NyChIZROQDHsEhO4RaxAuwX2Ki59SMDwhaZCGCM24bAJxAUNbfAJ5TPPbXXwDkKASAO14LrzEfZg&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ8tMDegQINRAG",
+      "4": "https://www.google.com/search?q=days+until+mortgage+payoff+calculator&sca_esv=bbb7d61e8d3bb37e&ei=bhc6atbACaeyptQPmYmfyAg&start=30&sa=N&sstk=AU9db-CWaf29KcZUoq95cuSqM1NyChIZROQDHsEhO4RaxAuwX2Ki59SMDwhaZCGCM24bAJxAUNbfAJ5TPPbXXwDkKASAO14LrzEfZg&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ8tMDegQINRAI",
+      "5": "https://www.google.com/search?q=days+until+mortgage+payoff+calculator&sca_esv=bbb7d61e8d3bb37e&ei=bhc6atbACaeyptQPmYmfyAg&start=40&sa=N&sstk=AU9db-CWaf29KcZUoq95cuSqM1NyChIZROQDHsEhO4RaxAuwX2Ki59SMDwhaZCGCM24bAJxAUNbfAJ5TPPbXXwDkKASAO14LrzEfZg&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ8tMDegQINRAK",
+      "6": "https://www.google.com/search?q=days+until+mortgage+payoff+calculator&sca_esv=bbb7d61e8d3bb37e&ei=bhc6atbACaeyptQPmYmfyAg&start=50&sa=N&sstk=AU9db-CWaf29KcZUoq95cuSqM1NyChIZROQDHsEhO4RaxAuwX2Ki59SMDwhaZCGCM24bAJxAUNbfAJ5TPPbXXwDkKASAO14LrzEfZg&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ8tMDegQINRAM",
+      "7": "https://www.google.com/search?q=days+until+mortgage+payoff+calculator&sca_esv=bbb7d61e8d3bb37e&ei=bhc6atbACaeyptQPmYmfyAg&start=60&sa=N&sstk=AU9db-CWaf29KcZUoq95cuSqM1NyChIZROQDHsEhO4RaxAuwX2Ki59SMDwhaZCGCM24bAJxAUNbfAJ5TPPbXXwDkKASAO14LrzEfZg&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ8tMDegQINRAO",
+      "8": "https://www.google.com/search?q=days+until+mortgage+payoff+calculator&sca_esv=bbb7d61e8d3bb37e&ei=bhc6atbACaeyptQPmYmfyAg&start=70&sa=N&sstk=AU9db-CWaf29KcZUoq95cuSqM1NyChIZROQDHsEhO4RaxAuwX2Ki59SMDwhaZCGCM24bAJxAUNbfAJ5TPPbXXwDkKASAO14LrzEfZg&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ8tMDegQINRAQ",
+      "9": "https://www.google.com/search?q=days+until+mortgage+payoff+calculator&sca_esv=bbb7d61e8d3bb37e&ei=bhc6atbACaeyptQPmYmfyAg&start=80&sa=N&sstk=AU9db-CWaf29KcZUoq95cuSqM1NyChIZROQDHsEhO4RaxAuwX2Ki59SMDwhaZCGCM24bAJxAUNbfAJ5TPPbXXwDkKASAO14LrzEfZg&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ8tMDegQINRAS",
+      "10": "https://www.google.com/search?q=days+until+mortgage+payoff+calculator&sca_esv=bbb7d61e8d3bb37e&ei=bhc6atbACaeyptQPmYmfyAg&start=90&sa=N&sstk=AU9db-CWaf29KcZUoq95cuSqM1NyChIZROQDHsEhO4RaxAuwX2Ki59SMDwhaZCGCM24bAJxAUNbfAJ5TPPbXXwDkKASAO14LrzEfZg&ved=2ahUKEwjWr5LAzpyVAxUnmYkEHZnEB4kQ8tMDegQINRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=days+until+mortgage+payoff+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=days+until+mortgage+payoff+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=days+until+mortgage+payoff+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=days+until+mortgage+payoff+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=days+until+mortgage+payoff+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=days+until+mortgage+payoff+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=days+until+mortgage+payoff+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=days+until+mortgage+payoff+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=days+until+mortgage+payoff+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=days+until+mortgage+payoff+calculator&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=days+until+mortgage+payoff+calculator&start=90"
+    }
+  }
+}

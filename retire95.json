@@ -1,0 +1,417 @@
+{
+  "search_metadata": {
+    "id": "6a3a23b473bf5936fd8cdf95",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/QAaysfL1nyOsytSijrDzXQ/6a3a23b473bf5936fd8cdf95.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/QAaysfL1nyOsytSijrDzXQ/6a3a23b473bf5936fd8cdf95.json_with_pixel_position",
+    "created_at": "2026-06-23 06:12:04 UTC",
+    "processed_at": "2026-06-23 06:12:04 UTC",
+    "google_url": "https://www.google.com/search?q=military+retirement+calculator+95+years+service&oq=military+retirement+calculator+95+years+service&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/QAaysfL1nyOsytSijrDzXQ/6a3a23b473bf5936fd8cdf95.html",
+    "total_time_taken": 4.35
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military retirement calculator 95 years service",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military retirement calculator 95 years service",
+    "total_results": 1810000,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How do I calculate my military retirement pay?",
+      "type": "ai_overview",
+      "page_token": "dnH8S3icHdBLUsIwGADg8TIuoQ9RYYZxRBLkkdSE5qd047SJUNqkrbTYmp138VSeRscDfJvv61ufyuLn6iNr27qZDIdd1w2OVXXUbwNZmWHSfJZyKBOt00QWk9u7W_fhIKfospw9vS9nTNQ1zLmzNXgnhGoiD6pN-Oi_4WwUlxSIxwsJWclMeyE7dSKGdwLGSOUUEgf6EBceweqG-rpLctQDqCy1sZtq_RJa2jCoD9LgUGm6TiK93s1xwLzxn-0X1GvLOFotiBht9iVYVdAmxPceRMuOuvWZ5_BE_WMfRPyFRSoHV5ccMSscTBSMiShwA8_xWuywJYv-hpm-TSE2IRr5KFNOIhxvH_FngWi-xeMumHNGrUL7MJvt--rEBLcy10Y4EKT5iqSuqgjiYutTzq1uYgscShxJDwLBrg_yY-pf_39OXw-mndTn6vgLBRqEBw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dnH8S3icHdBLUsIwGADg8TIuoQ9RYYZxRBLkkdSE5qd047SJUNqkrbTYmp138VSeRscDfJvv61ufyuLn6iNr27qZDIdd1w2OVXXUbwNZmWHSfJZyKBOt00QWk9u7W_fhIKfospw9vS9nTNQ1zLmzNXgnhGoiD6pN-Oi_4WwUlxSIxwsJWclMeyE7dSKGdwLGSOUUEgf6EBceweqG-rpLctQDqCy1sZtq_RJa2jCoD9LgUGm6TiK93s1xwLzxn-0X1GvLOFotiBht9iVYVdAmxPceRMuOuvWZ5_BE_WMfRPyFRSoHV5ccMSscTBSMiShwA8_xWuywJYv-hpm-TSE2IRr5KFNOIhxvH_FngWi-xeMumHNGrUL7MJvt--rEBLcy10Y4EKT5iqSuqgjiYutTzq1uYgscShxJDwLBrg_yY-pf_39OXw-mndTn6vgLBRqEBw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5rUXlaVlpwY3prdE0xbEdNMmc0VTJ4T2EyOW5ieTFJWjJoblJWazFTakl0UWpkNk5VRm9PRUZVWW00NVpGVk1aSEpOWmtKTlIybzBjRk0xYWpGS1prbG9ZamRTYlhVdE1IcDZRbTlEYmt4NWNITlRVWE00TTJWYVFSSVhkR2xOTm1GMFIxQkRZMGhmY0RnMFVEYzNSR0U0UVdNYUlrRkVjM0k1WmxKS1FVWmxXbDlPTlc1S1lYSnFlVmR5VWxKdVJWcGpkSGx3UkVFIiwiZmN2IjoiMyIsImVpIjoidGlNNmF0R1BDY0hfcDg0UDc3RGE4QWMiLCJxYyI6IkNpOXRhV3hwZEdGeWVTQnlaWFJwY21WdFpXNTBJR05oYkdOMWJHRjBiM0lnT1RVZ2VXVmhjbk1nYzJWeWRtbGpaUkFBZmFZQmNUOCIsInF1ZXN0aW9uIjoiSG93IGRvIEkgY2FsY3VsYXRlIG15IG1pbGl0YXJ5IHJldGlyZW1lbnQgcGF5PyIsImxrIjoiR2kxb2IzY2daRzhnYVNCallXeGpkV3hoZEdVZ2JYa2diV2xzYVhSaGNua2djbVYwYVhKbGJXVnVkQ0J3WVhrIiwiYnMiOiJjNDJPUFF2Q01CUkZjYzNrM09rT1loVzBob0E2ZGhKMEZuX0FvMzJhWU5KS21scjY3XzJvZzZpby16bjNIa0VpV1pjTjhoSWJaR1N6MmxKZ3VCYk9XQlBJdF9BY2pHZkhSY0NKMmxUTm9xbnVEUE9YSWJZaV9uelJNdmtLNVI0Vi03UEpPRldqYVBoNS14VVZ1WkMzVVZzV0J6VEdXZ3lXY3ptUlVzSlNGV0NLNXdvS1dLaFV5U2pSYjg0M1JlekU2UGJpNmt4Zm83Z0NRY2w3eklQTnNWckMwZkhhUG81aV9ZUGxqdTMzTGciLCJpZCI6ImZjX3RpTTZhdEdQQ2NIX3A4NFA3N0RhOEFjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5rUXlaVlpwY3prdE0xbEdNMmc0VTJ4T2EyOW5ieTFJWjJoblJWazFTakl0UWpkNk5VRm9PRUZVWW00NVpGVk1aSEpOWmtKTlIybzBjRk0xYWpGS1prbG9ZamRTYlhVdE1IcDZRbTlEYmt4NWNITlRVWE00TTJWYVFSSVhkR2xOTm1GMFIxQkRZMGhmY0RnMFVEYzNSR0U0UVdNYUlrRkVjM0k1WmxKS1FVWmxXbDlPTlc1S1lYSnFlVmR5VWxKdVJWcGpkSGx3UkVFIiwiZmN2IjoiMyIsImVpIjoidGlNNmF0R1BDY0hfcDg0UDc3RGE4QWMiLCJxYyI6IkNpOXRhV3hwZEdGeWVTQnlaWFJwY21WdFpXNTBJR05oYkdOMWJHRjBiM0lnT1RVZ2VXVmhjbk1nYzJWeWRtbGpaUkFBZmFZQmNUOCIsInF1ZXN0aW9uIjoiSG93IGRvIEkgY2FsY3VsYXRlIG15IG1pbGl0YXJ5IHJldGlyZW1lbnQgcGF5PyIsImxrIjoiR2kxb2IzY2daRzhnYVNCallXeGpkV3hoZEdVZ2JYa2diV2xzYVhSaGNua2djbVYwYVhKbGJXVnVkQ0J3WVhrIiwiYnMiOiJjNDJPUFF2Q01CUkZjYzNrM09rT1loVzBob0E2ZGhKMEZuX0FvMzJhWU5KS21scjY3XzJvZzZpby16bjNIa0VpV1pjTjhoSWJaR1N6MmxKZ3VCYk9XQlBJdF9BY2pHZkhSY0NKMmxUTm9xbnVEUE9YSWJZaV9uelJNdmtLNVI0Vi03UEpPRldqYVBoNS14VVZ1WkMzVVZzV0J6VEdXZ3lXY3ptUlVzSlNGV0NLNXdvS1dLaFV5U2pSYjg0M1JlekU2UGJpNmt4Zm83Z0NRY2w3eklQTnNWckMwZkhhUG81aV9ZUGxqdTMzTGciLCJpZCI6ImZjX3RpTTZhdEdQQ2NIX3A4NFA3N0RhOEFjXzUifQ%3D%3D"
+    },
+    {
+      "question": "How do I calculate my years of service?",
+      "type": "ai_overview",
+      "page_token": "6QTqxHicHdBdToMwAADgeJk9jkK3qUsWM4SOoZZQSgu8GCgMGOVn0oyxN-_iqTyNid8Rvu8fWXfN70NUKTWMW02bpmlZ9n0pi6XoWy0d505oIpUyS0Wz3Txu9JeT2NnjZL72k-mHw8AsAqj9XIdnMaWRGxYc3PABudySLuO650cE8CipCWTHnLlWYeU0CYFBW3HzKIsKTtyPO95wDnR8l7Do3GsqYyWoeaFQrPID9gKjvFGLpTGVMwPqQjs5Flx_546ZJGi4ZDB3sjBv8KyPAR9Ghp7Wccv8LJJjrCNbGCHMG2kS3kzZ3VSClwGCZKA0qXI7930DHyO4X2G0hxiQyrPR-VC7JnHw7PGE8I7ZiQHWomNvQVQFMVBXzEiHnQExu1L4LMniJK47uPgf232eWrUdvvryD0wMeIU",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6QTqxHicHdBdToMwAADgeJk9jkK3qUsWM4SOoZZQSgu8GCgMGOVn0oyxN-_iqTyNid8Rvu8fWXfN70NUKTWMW02bpmlZ9n0pi6XoWy0d505oIpUyS0Wz3Txu9JeT2NnjZL72k-mHw8AsAqj9XIdnMaWRGxYc3PABudySLuO650cE8CipCWTHnLlWYeU0CYFBW3HzKIsKTtyPO95wDnR8l7Do3GsqYyWoeaFQrPID9gKjvFGLpTGVMwPqQjs5Flx_546ZJGi4ZDB3sjBv8KyPAR9Ghp7Wccv8LJJjrCNbGCHMG2kS3kzZ3VSClwGCZKA0qXI7930DHyO4X2G0hxiQyrPR-VC7JnHw7PGE8I7ZiQHWomNvQVQFMVBXzEiHnQExu1L4LMniJK47uPgf232eWrUdvvryD0wMeIU",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5rUXlaVlpwY3prdE0xbEdNMmc0VTJ4T2EyOW5ieTFJWjJoblJWazFTakl0UWpkNk5VRm9PRUZVWW00NVpGVk1aSEpOWmtKTlIybzBjRk0xYWpGS1prbG9ZamRTYlhVdE1IcDZRbTlEYmt4NWNITlRVWE00TTJWYVFSSVhkR2xOTm1GMFIxQkRZMGhmY0RnMFVEYzNSR0U0UVdNYUlrRkVjM0k1WmxKS1FVWmxXbDlPTlc1S1lYSnFlVmR5VWxKdVJWcGpkSGx3UkVFIiwiZmN2IjoiMyIsImVpIjoidGlNNmF0R1BDY0hfcDg0UDc3RGE4QWMiLCJxYyI6IkNpOXRhV3hwZEdGeWVTQnlaWFJwY21WdFpXNTBJR05oYkdOMWJHRjBiM0lnT1RVZ2VXVmhjbk1nYzJWeWRtbGpaUkFBZmFZQmNUOCIsInF1ZXN0aW9uIjoiSG93IGRvIEkgY2FsY3VsYXRlIG15IHllYXJzIG9mIHNlcnZpY2U/IiwibGsiOiJHaVpvYjNjZ1pHOGdhU0JqWVd4amRXeGhkR1VnYlhrZ2VXVmhjbk1nYjJZZ2MyVnlkbWxqWlEiLCJicyI6ImM0Mk9QUXZDTUJSRmNjM2szT2tPWWhXMGhvQTZkaEowRm5fQW8zMmFZTkpLbWxyNjdfMm9nNmlvLXpuM0hrRWlXWmNOOGhJYlpHU3oybEpndUJiT1dCUEl0X0FjakdmSFJjQ0oybFROb3FudURQT1hJYllpX256Uk12a0s1UjRWLTdQSk9GV2phUGg1LXhVVnVaQzNVVnNXQnpUR1dneVdjem1SVXNKU0ZXQ0s1d29LV0toVXlTalJiODQzUmV6RTZQYmk2a3hmbzdnQ1FjbDd6SVBOc1ZyQzBmSGFQbzVpX1lQbGp1MzNMZyIsImlkIjoiZmNfdGlNNmF0R1BDY0hfcDg0UDc3RGE4QWNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5rUXlaVlpwY3prdE0xbEdNMmc0VTJ4T2EyOW5ieTFJWjJoblJWazFTakl0UWpkNk5VRm9PRUZVWW00NVpGVk1aSEpOWmtKTlIybzBjRk0xYWpGS1prbG9ZamRTYlhVdE1IcDZRbTlEYmt4NWNITlRVWE00TTJWYVFSSVhkR2xOTm1GMFIxQkRZMGhmY0RnMFVEYzNSR0U0UVdNYUlrRkVjM0k1WmxKS1FVWmxXbDlPTlc1S1lYSnFlVmR5VWxKdVJWcGpkSGx3UkVFIiwiZmN2IjoiMyIsImVpIjoidGlNNmF0R1BDY0hfcDg0UDc3RGE4QWMiLCJxYyI6IkNpOXRhV3hwZEdGeWVTQnlaWFJwY21WdFpXNTBJR05oYkdOMWJHRjBiM0lnT1RVZ2VXVmhjbk1nYzJWeWRtbGpaUkFBZmFZQmNUOCIsInF1ZXN0aW9uIjoiSG93IGRvIEkgY2FsY3VsYXRlIG15IHllYXJzIG9mIHNlcnZpY2U%2FIiwibGsiOiJHaVpvYjNjZ1pHOGdhU0JqWVd4amRXeGhkR1VnYlhrZ2VXVmhjbk1nYjJZZ2MyVnlkbWxqWlEiLCJicyI6ImM0Mk9QUXZDTUJSRmNjM2szT2tPWWhXMGhvQTZkaEowRm5fQW8zMmFZTkpLbWxyNjdfMm9nNmlvLXpuM0hrRWlXWmNOOGhJYlpHU3oybEpndUJiT1dCUEl0X0FjakdmSFJjQ0oybFROb3FudURQT1hJYllpX256Uk12a0s1UjRWLTdQSk9GV2phUGg1LXhVVnVaQzNVVnNXQnpUR1dneVdjem1SVXNKU0ZXQ0s1d29LV0toVXlTalJiODQzUmV6RTZQYmk2a3hmbzdnQ1FjbDd6SVBOc1ZyQzBmSGFQbzVpX1lQbGp1MzNMZyIsImlkIjoiZmNfdGlNNmF0R1BDY0hfcDg0UDc3RGE4QWNfNSJ9"
+    },
+    {
+      "question": "How long will $750,000 last in retirement at 62?",
+      "type": "ai_overview",
+      "page_token": "jYOi9nicHdBdbpswAABg7TJ9bGyzZGukaBIJCUWLkY3_yMvk2iEQG8NSGghvu8LOsFPtNJP2HeH79cc3wf399Lsehv59vViM4_h86bqLPz-brl3o90cwC6O9f9PGrVdfVvBbZTbJ3cTbm4kJ73uxo6CIskCE-HmC9fRd1UfWwEHPfhYAbm1iJwymlKt6YO44ksiXRrlItvvkDb5OOsRb7nBBrqeKRXWuEzJhmUUUdIgoM2tPAeN9ZaVIz3IJ9GEpbcg-pLc7sXMoP3yd830WabfMTwzHRPat3sIr80LlyqIzF02p3EPNdUZCzKTyTiNYCUmioxxYMduCIl9g9xJKjhvxgFBHr5AFO1A0IOZOI28xydPsUHB8T2oLNAeoVDTlCb4W-5cx31GCZ5uUrI7LqWsIp7O5-paj8mECFhTRj2PafT6GeGVBMlDeAQtEV7b1jZOnytw30dP_682Pqh3W_a27_AO5iY0a",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jYOi9nicHdBdbpswAABg7TJ9bGyzZGukaBIJCUWLkY3_yMvk2iEQG8NSGghvu8LOsFPtNJP2HeH79cc3wf399Lsehv59vViM4_h86bqLPz-brl3o90cwC6O9f9PGrVdfVvBbZTbJ3cTbm4kJ73uxo6CIskCE-HmC9fRd1UfWwEHPfhYAbm1iJwymlKt6YO44ksiXRrlItvvkDb5OOsRb7nBBrqeKRXWuEzJhmUUUdIgoM2tPAeN9ZaVIz3IJ9GEpbcg-pLc7sXMoP3yd830WabfMTwzHRPat3sIr80LlyqIzF02p3EPNdUZCzKTyTiNYCUmioxxYMduCIl9g9xJKjhvxgFBHr5AFO1A0IOZOI28xydPsUHB8T2oLNAeoVDTlCb4W-5cx31GCZ5uUrI7LqWsIp7O5-paj8mECFhTRj2PafT6GeGVBMlDeAQtEV7b1jZOnytw30dP_682Pqh3W_a27_AO5iY0a",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5rUXlaVlpwY3prdE0xbEdNMmc0VTJ4T2EyOW5ieTFJWjJoblJWazFTakl0UWpkNk5VRm9PRUZVWW00NVpGVk1aSEpOWmtKTlIybzBjRk0xYWpGS1prbG9ZamRTYlhVdE1IcDZRbTlEYmt4NWNITlRVWE00TTJWYVFSSVhkR2xOTm1GMFIxQkRZMGhmY0RnMFVEYzNSR0U0UVdNYUlrRkVjM0k1WmxKS1FVWmxXbDlPTlc1S1lYSnFlVmR5VWxKdVJWcGpkSGx3UkVFIiwiZmN2IjoiMyIsImVpIjoidGlNNmF0R1BDY0hfcDg0UDc3RGE4QWMiLCJxYyI6IkNpOXRhV3hwZEdGeWVTQnlaWFJwY21WdFpXNTBJR05oYkdOMWJHRjBiM0lnT1RVZ2VXVmhjbk1nYzJWeWRtbGpaUkFBZmFZQmNUOCIsInF1ZXN0aW9uIjoiSG93IGxvbmcgd2lsbCAkNzUwLDAwMCBsYXN0IGluIHJldGlyZW1lbnQgYXQgNjI/IiwibGsiOiJHaTVvYjNjZ2JHOXVaeUIzYVd4c0lDUTNOVEF3TURBZ2JHRnpkQ0JwYmlCeVpYUnBjbVZ0Wlc1MElHRjBJRFl5IiwiYnMiOiJjNDJPUFF2Q01CUkZjYzNrM09rT1loVzBob0E2ZGhKMEZuX0FvMzJhWU5KS21scjY3XzJvZzZpby16bjNIa0VpV1pjTjhoSWJaR1N6MmxKZ3VCYk9XQlBJdF9BY2pHZkhSY0NKMmxUTm9xbnVEUE9YSWJZaV9uelJNdmtLNVI0Vi03UEpPRldqYVBoNS14VVZ1WkMzVVZzV0J6VEdXZ3lXY3ptUlVzSlNGV0NLNXdvS1dLaFV5U2pSYjg0M1JlekU2UGJpNmt4Zm83Z0NRY2w3eklQTnNWckMwZkhhUG81aV9ZUGxqdTMzTGciLCJpZCI6ImZjX3RpTTZhdEdQQ2NIX3A4NFA3N0RhOEFjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5rUXlaVlpwY3prdE0xbEdNMmc0VTJ4T2EyOW5ieTFJWjJoblJWazFTakl0UWpkNk5VRm9PRUZVWW00NVpGVk1aSEpOWmtKTlIybzBjRk0xYWpGS1prbG9ZamRTYlhVdE1IcDZRbTlEYmt4NWNITlRVWE00TTJWYVFSSVhkR2xOTm1GMFIxQkRZMGhmY0RnMFVEYzNSR0U0UVdNYUlrRkVjM0k1WmxKS1FVWmxXbDlPTlc1S1lYSnFlVmR5VWxKdVJWcGpkSGx3UkVFIiwiZmN2IjoiMyIsImVpIjoidGlNNmF0R1BDY0hfcDg0UDc3RGE4QWMiLCJxYyI6IkNpOXRhV3hwZEdGeWVTQnlaWFJwY21WdFpXNTBJR05oYkdOMWJHRjBiM0lnT1RVZ2VXVmhjbk1nYzJWeWRtbGpaUkFBZmFZQmNUOCIsInF1ZXN0aW9uIjoiSG93IGxvbmcgd2lsbCAkNzUwLDAwMCBsYXN0IGluIHJldGlyZW1lbnQgYXQgNjI%2FIiwibGsiOiJHaTVvYjNjZ2JHOXVaeUIzYVd4c0lDUTNOVEF3TURBZ2JHRnpkQ0JwYmlCeVpYUnBjbVZ0Wlc1MElHRjBJRFl5IiwiYnMiOiJjNDJPUFF2Q01CUkZjYzNrM09rT1loVzBob0E2ZGhKMEZuX0FvMzJhWU5KS21scjY3XzJvZzZpby16bjNIa0VpV1pjTjhoSWJaR1N6MmxKZ3VCYk9XQlBJdF9BY2pHZkhSY0NKMmxUTm9xbnVEUE9YSWJZaV9uelJNdmtLNVI0Vi03UEpPRldqYVBoNS14VVZ1WkMzVVZzV0J6VEdXZ3lXY3ptUlVzSlNGV0NLNXdvS1dLaFV5U2pSYjg0M1JlekU2UGJpNmt4Zm83Z0NRY2w3eklQTnNWckMwZkhhUG81aV9ZUGxqdTMzTGciLCJpZCI6ImZjX3RpTTZhdEdQQ2NIX3A4NFA3N0RhOEFjXzUifQ%3D%3D"
+    },
+    {
+      "question": "How much does a 20 year retired E7 make?",
+      "type": "ai_overview",
+      "page_token": "LgAx_nicHdBdboIwAADg7DI-Cm2dcyZmkdGqTDEUWrAvCxSQnyLdQJm87S471U6zZN8Rvu8fVV7q34eo6HvdLQ1jGIbpuW3PKpvKtjHi7n6RhoyVSmJZL-dPc_CSyxXuBuu1HSyPac1tavqV2seqvUejq3xUzNPwq5AmUByfeg61dYD1kDDuRKNTMUj2dBQ3ap96ARczWRE_a8iHzwROUBoKoC1h06vgVk0ZCAPs0pi5vgDc85viysI-Snk9nlBxSQjt6UV9xrVDYvBMsw2bsZC_0YZ0QePsKKAqgo8l3-pjGunIC9LatelewoVPENVBIIoUp54H3V2E1jOXrJFr0uKISbUpHYtu3fsxFCzBBLMGKIalmXBVHpDKxZbADNfwoEgnMbAmubyt0OR_bPWeN_1Sf7bnP80Id9c",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LgAx_nicHdBdboIwAADg7DI-Cm2dcyZmkdGqTDEUWrAvCxSQnyLdQJm87S471U6zZN8Rvu8fVV7q34eo6HvdLQ1jGIbpuW3PKpvKtjHi7n6RhoyVSmJZL-dPc_CSyxXuBuu1HSyPac1tavqV2seqvUejq3xUzNPwq5AmUByfeg61dYD1kDDuRKNTMUj2dBQ3ap96ARczWRE_a8iHzwROUBoKoC1h06vgVk0ZCAPs0pi5vgDc85viysI-Snk9nlBxSQjt6UV9xrVDYvBMsw2bsZC_0YZ0QePsKKAqgo8l3-pjGunIC9LatelewoVPENVBIIoUp54H3V2E1jOXrJFr0uKISbUpHYtu3fsxFCzBBLMGKIalmXBVHpDKxZbADNfwoEgnMbAmubyt0OR_bPWeN_1Sf7bnP80Id9c",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5rUXlaVlpwY3prdE0xbEdNMmc0VTJ4T2EyOW5ieTFJWjJoblJWazFTakl0UWpkNk5VRm9PRUZVWW00NVpGVk1aSEpOWmtKTlIybzBjRk0xYWpGS1prbG9ZamRTYlhVdE1IcDZRbTlEYmt4NWNITlRVWE00TTJWYVFSSVhkR2xOTm1GMFIxQkRZMGhmY0RnMFVEYzNSR0U0UVdNYUlrRkVjM0k1WmxKS1FVWmxXbDlPTlc1S1lYSnFlVmR5VWxKdVJWcGpkSGx3UkVFIiwiZmN2IjoiMyIsImVpIjoidGlNNmF0R1BDY0hfcDg0UDc3RGE4QWMiLCJxYyI6IkNpOXRhV3hwZEdGeWVTQnlaWFJwY21WdFpXNTBJR05oYkdOMWJHRjBiM0lnT1RVZ2VXVmhjbk1nYzJWeWRtbGpaUkFBZmFZQmNUOCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG9lcyBhIDIwIHllYXIgcmV0aXJlZCBFNyBtYWtlPyIsImxrIjoiR2lkb2IzY2diWFZqYUNCa2IyVnpJR0VnTWpBZ2VXVmhjaUJ5WlhScGNtVmtJR1UzSUcxaGEyVSIsImJzIjoiYzQyT1BRdkNNQlJGY2MzazNPa09ZaFcwaG9BNmRoSjBGbl9BbzMyYVlOSkttbHI2N18yb2c2aW8tem4zSGtFaVdaY044aEliWkdTejJsSmd1QmJPV0JQSXRfQWNqR2ZIUmNDSjJsVE5vcW51RFBPWEliWWlfbnpSTXZrSzVSNFYtN1BKT0ZXamFQaDUteFVWdVpDM1VWc1dCelRHV2d5V2N6bVJVc0pTRldDSzV3b0tXS2hVeVNqUmI4NDNSZXpFNlBiaTZreGZvN2dDUWNsN3pJUE5zVnJDMGZIYVBvNWlfWVBsanUzM0xnIiwiaWQiOiJmY190aU02YXRHUENjSF9wODRQNzdEYThBY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5rUXlaVlpwY3prdE0xbEdNMmc0VTJ4T2EyOW5ieTFJWjJoblJWazFTakl0UWpkNk5VRm9PRUZVWW00NVpGVk1aSEpOWmtKTlIybzBjRk0xYWpGS1prbG9ZamRTYlhVdE1IcDZRbTlEYmt4NWNITlRVWE00TTJWYVFSSVhkR2xOTm1GMFIxQkRZMGhmY0RnMFVEYzNSR0U0UVdNYUlrRkVjM0k1WmxKS1FVWmxXbDlPTlc1S1lYSnFlVmR5VWxKdVJWcGpkSGx3UkVFIiwiZmN2IjoiMyIsImVpIjoidGlNNmF0R1BDY0hfcDg0UDc3RGE4QWMiLCJxYyI6IkNpOXRhV3hwZEdGeWVTQnlaWFJwY21WdFpXNTBJR05oYkdOMWJHRjBiM0lnT1RVZ2VXVmhjbk1nYzJWeWRtbGpaUkFBZmFZQmNUOCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG9lcyBhIDIwIHllYXIgcmV0aXJlZCBFNyBtYWtlPyIsImxrIjoiR2lkb2IzY2diWFZqYUNCa2IyVnpJR0VnTWpBZ2VXVmhjaUJ5WlhScGNtVmtJR1UzSUcxaGEyVSIsImJzIjoiYzQyT1BRdkNNQlJGY2MzazNPa09ZaFcwaG9BNmRoSjBGbl9BbzMyYVlOSkttbHI2N18yb2c2aW8tem4zSGtFaVdaY044aEliWkdTejJsSmd1QmJPV0JQSXRfQWNqR2ZIUmNDSjJsVE5vcW51RFBPWEliWWlfbnpSTXZrSzVSNFYtN1BKT0ZXamFQaDUteFVWdVpDM1VWc1dCelRHV2d5V2N6bVJVc0pTRldDSzV3b0tXS2hVeVNqUmI4NDNSZXpFNlBiaTZreGZvN2dDUWNsN3pJUE5zVnJDMGZIYVBvNWlfWVBsanUzM0xnIiwiaWQiOiJmY190aU02YXRHUENjSF9wODRQNzdEYThBY181In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "EGyCXXicxVbbcqpIFH2f_xhfTATEG6miTnUjMXjDayzzQiGXBgUxNErwbf5lvmpe50dOg6BoMKlzqqamLbrZzb73Xr3962_H3m7--eNfKwh2-ImiwjCsIM9DjlHRPJdScbTVKNNzsK9ZP6IDz5Y0zNMlw-YDe9BQg85I0F6UXas2ajbbagtopUSEV1YqNtZE48caUwpFps2fbJsQFVwxthUHjNvId2VxKlWqNMNVZEp1CQP4D4cIJBSvEvmJCX07IPk-_k6LAAQyo9wWys3paMdmABCEZAHePW0w8UIAUIztQmXAtchyYm-je1IATK_JReIZCGOFJASxMIgiddle5iC8Y6_YlcTMPCVquQ-fUxsPko18entEbQ1oAEzSDTnjy5tDSATtbP8llAdQFidfHRIJvjMArc1IkL7gir2X_PA5fQ-HS2KU0hGpQZpa-WRhKFuztOTFx3FpCjOO9l76PZYde2uh2eDW9alZ_3jece6LoSMZUdqK8Dmeqhu6Yin0j4Rmqkyd5thm6yHBhIbPoMB5UKDBsh_uQ0Z6FCv9CmRyiEiila7OgGSS1ExxXL1kvjpJIXuRzoTwSSKWiWKGi144i2LrgyxL8RHNwae8xrYKEJGzeTGeVq7wfAnsWpOUms9HB8MbixcDaSksQW8Ms0-iuLx2Lq8Mgk1yB3SyjYvuWCtykgsiRoSY5lC-kkd5x-KbZIzgOdnjvHf1nBACMMn4OiJTF3hCdgvFIlKahF7sXb62O7dIIq6LGN05-O_G3Vso52dW-zelnIdAx5vKOqccZ_hV7R7BfgphZyKzozl8RMUl77mrX2gE2v8LiqxN9NIDei4ExfgbUIgC_LJNnNjbZ1Ak9Ps9UECpqE2cbtxLm_gMiuk1KO63iRwoUBpVXustKOAdUKA0tgJQzAtAsSkERdomcqCwauOrNnEydm4TGSh-q00cfqdNJBAxTst1z9iv0d3e0ZnsV2YLT9F231YW9aXWhHZnsJlyj8H3vcN0gydX1Z0HxdafYLUbRPqDQja8J0MvvfOu7diB6kdl3whs33CNbVDWVEfbO2rg-WWuXo4M1cdlbPgHWzNKruN7PK022K6FRgwCbjdA0fSNPb4BjZmMwpX4ODrOjmsJ1ar0Tu9Cs6VEujsPjrC1GIb75TB4dNq67OFZFbfMjflq7ofzSA_BpIHqQLbeLNsM1aHx2t8oMOgNdza0RkvuGNjsB1vT19VVrcnshqtBJBp90xl1LfUt8QrzbctaLPurw_tiWXJ9jSf1UENgOAYLRP4uCEswFhB5PPKEpFJKWFMVAx94rc7QK7VmNOrVhslyTMlFQbTjObqEtz7P_ATdRxq2",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EGyCXXicxVbbcqpIFH2f_xhfTATEG6miTnUjMXjDayzzQiGXBgUxNErwbf5lvmpe50dOg6BoMKlzqqamLbrZzb73Xr3962_H3m7--eNfKwh2-ImiwjCsIM9DjlHRPJdScbTVKNNzsK9ZP6IDz5Y0zNMlw-YDe9BQg85I0F6UXas2ajbbagtopUSEV1YqNtZE48caUwpFps2fbJsQFVwxthUHjNvId2VxKlWqNMNVZEp1CQP4D4cIJBSvEvmJCX07IPk-_k6LAAQyo9wWys3paMdmABCEZAHePW0w8UIAUIztQmXAtchyYm-je1IATK_JReIZCGOFJASxMIgiddle5iC8Y6_YlcTMPCVquQ-fUxsPko18entEbQ1oAEzSDTnjy5tDSATtbP8llAdQFidfHRIJvjMArc1IkL7gir2X_PA5fQ-HS2KU0hGpQZpa-WRhKFuztOTFx3FpCjOO9l76PZYde2uh2eDW9alZ_3jece6LoSMZUdqK8Dmeqhu6Yin0j4Rmqkyd5thm6yHBhIbPoMB5UKDBsh_uQ0Z6FCv9CmRyiEiila7OgGSS1ExxXL1kvjpJIXuRzoTwSSKWiWKGi144i2LrgyxL8RHNwae8xrYKEJGzeTGeVq7wfAnsWpOUms9HB8MbixcDaSksQW8Ms0-iuLx2Lq8Mgk1yB3SyjYvuWCtykgsiRoSY5lC-kkd5x-KbZIzgOdnjvHf1nBACMMn4OiJTF3hCdgvFIlKahF7sXb62O7dIIq6LGN05-O_G3Vso52dW-zelnIdAx5vKOqccZ_hV7R7BfgphZyKzozl8RMUl77mrX2gE2v8LiqxN9NIDei4ExfgbUIgC_LJNnNjbZ1Ak9Ps9UECpqE2cbtxLm_gMiuk1KO63iRwoUBpVXustKOAdUKA0tgJQzAtAsSkERdomcqCwauOrNnEydm4TGSh-q00cfqdNJBAxTst1z9iv0d3e0ZnsV2YLT9F231YW9aXWhHZnsJlyj8H3vcN0gydX1Z0HxdafYLUbRPqDQja8J0MvvfOu7diB6kdl3whs33CNbVDWVEfbO2rg-WWuXo4M1cdlbPgHWzNKruN7PK022K6FRgwCbjdA0fSNPb4BjZmMwpX4ODrOjmsJ1ar0Tu9Cs6VEujsPjrC1GIb75TB4dNq67OFZFbfMjflq7ofzSA_BpIHqQLbeLNsM1aHx2t8oMOgNdza0RkvuGNjsB1vT19VVrcnshqtBJBp90xl1LfUt8QrzbctaLPurw_tiWXJ9jSf1UENgOAYLRP4uCEswFhB5PPKEpFJKWFMVAx94rc7QK7VmNOrVhslyTMlFQbTjObqEtz7P_ATdRxq2"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Calculators",
+      "link": "https://militarypay.defense.gov/calculators/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/calculators/&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4QFnoECCAQAQ",
+      "displayed_link": "https://militarypay.defense.gov › calculators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "Medical Final Pay Calculator: This calculator estimates medical separation or retirement benefits based on DoD disability percentage or years of service ...",
+      "snippet_highlighted_words": [
+        "Calculator",
+        "calculator",
+        "retirement",
+        "years",
+        "service"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Medical Final Pay Calculator: This calculator estimates medical separation or retirement benefits based on DoD disability percentage or years of service ...",
+          "source_info_link": "https://militarypay.defense.gov/calculators/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/calculators/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2Fcalculators%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/calculators/#:~:text=Medical%20Final%20Pay%20Calculator%3A%20This,prior%20to%20September%208%2C%201980."
+    },
+    {
+      "position": 2,
+      "title": "Military Retirement Calculator, Pay, Pension",
+      "link": "https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4QFnoECCUQAQ",
+      "displayed_link": "https://www.militaryonesource.mil › personal-finance",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png",
+      "date": "Mar 26, 2026",
+      "snippet": "You can get a solid estimate in less than five minutes using free retirement pension calculators for the High-36 and Final Pay legacy retirement systems.",
+      "snippet_highlighted_words": [
+        "free retirement pension calculators"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You can get a solid estimate in less than five minutes using free retirement pension calculators for the High-36 and Final Pay legacy retirement systems.",
+          "source_info_link": "https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militaryonesource.mil%2Ffinancial-legal%2Fpersonal-finance%2Fmilitary-retirement-calculators%2F",
+      "source": "Military OneSource (.mil)",
+      "read_more_link": "https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/#:~:text=You%20can%20get%20a%20solid,offered%20by%20the%20War%20Department."
+    },
+    {
+      "position": 3,
+      "title": "Retirement Calculator | The Official Army Benefits Website",
+      "link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Retirement-Calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Retirement-Calculator&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4QFnoECCEQAQ",
+      "displayed_link": "https://myarmybenefits.us.army.mil › Retirement-Calcul...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png",
+      "snippet": "Estimate retired pay benefits under the Final Pay retirement plan, for those who first entered service prior to September 8, 1980. REDUX. Estimate retired pay ...",
+      "snippet_highlighted_words": [
+        "Estimate retired pay benefits"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Estimate retired pay benefits under the Final Pay retirement plan, for those who first entered service prior to September 8, 1980. REDUX. Estimate retired pay ...",
+          "source_info_link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Retirement-Calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Retirement-Calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyarmybenefits.us.army.mil%2FNEW-Benefit-Calculators%2FRetirement-Calculator",
+      "source": "MyArmyBenefits (.mil)",
+      "read_more_link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Retirement-Calculator#:~:text=Estimate%20retired%20pay%20benefits%20under,Estimate%20retired%20pay"
+    },
+    {
+      "position": 4,
+      "title": "Canadian Retirement Income Calculator",
+      "link": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-income-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-income-calculator.html&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4QFnoECCQQAQ",
+      "displayed_link": "https://www.canada.ca › benefits › publicpensions › cpp",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX____9-PjmtrfGREf68fHjrq_BNDfSenv039_AMDPEPkHnuru8DRO7ICTCODu9JSn25ua9FhvsysvAMjXLW13epKW0AADQdXfXiIrCRki9Jyu6HSG6Gx--Ki7RcHK4GBvGUVPUjY3bl5i4Fxr36enOaGrThYa2BAqrAADqxcbdpabXlJUgtMw1AAAA9UlEQVR4AZXOVQKDMBAE0MWCk-ri7nD_-3VT95b5ibzIwIJIX0yWv6CifAAVQGNMpskb1HTDtCzL0O03aDiuR2jy1buia8Y8YvZKG2pjbkm9HS3uQFZhjyvwuVAzAGNtg2qfMcTIiTnsk9Q0GdckZnkhz864xyR286JMUtKoKhj1YvLlP8xJk5pHKTE3Ra_UuGKdJ8QuF2yaW6oVnbFBrOs8v1fqxdSTSuFJBZMSb-MWrslI7592ArhLR3p7GiuAdyrYeTIA3veIfd87dRI-mzRgmJWZX2Yh4jM2BlDGESiGCu9i2_A5mvwFp_0XrOYv-PTn1xwAzhUWBsX0--IAAAAASUVORK5CYII.png",
+      "date": "Nov 25, 2025",
+      "snippet": "The Canadian Retirement Income Calculator helps you estimate how much money you might have when you retire.",
+      "snippet_highlighted_words": [
+        "Canadian Retirement Income Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Canadian Retirement Income Calculator helps you estimate how much money you might have when you retire.",
+          "source_info_link": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-income-calculator.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX____9-PjmtrfGREf68fHjrq_BNDfSenv039_AMDPEPkHnuru8DRO7ICTCODu9JSn25ua9FhvsysvAMjXLW13epKW0AADQdXfXiIrCRki9Jyu6HSG6Gx--Ki7RcHK4GBvGUVPUjY3bl5i4Fxr36enOaGrThYa2BAqrAADqxcbdpabXlJUgtMw1AAAA9UlEQVR4AZXOVQKDMBAE0MWCk-ri7nD_-3VT95b5ibzIwIJIX0yWv6CifAAVQGNMpskb1HTDtCzL0O03aDiuR2jy1buia8Y8YvZKG2pjbkm9HS3uQFZhjyvwuVAzAGNtg2qfMcTIiTnsk9Q0GdckZnkhz864xyR286JMUtKoKhj1YvLlP8xJk5pHKTE3Ra_UuGKdJ8QuF2yaW6oVnbFBrOs8v1fqxdSTSuFJBZMSb-MWrslI7592ArhLR3p7GiuAdyrYeTIA3veIfd87dRI-mzRgmJWZX2Yh4jM2BlDGESiGCu9i2_A5mvwFp_0XrOYv-PTn1xwAzhUWBsX0--IAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-income-calculator.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.canada.ca%2Fen%2Fservices%2Fbenefits%2Fpublicpensions%2Fcpp%2Fretirement-income-calculator.html",
+      "source": "Canada.ca"
+    },
+    {
+      "position": 5,
+      "title": "Military Retirement Calculator - App Store",
+      "link": "https://apps.apple.com/ca/app/military-retirement-calculator/id6743503607",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/ca/app/military-retirement-calculator/id6743503607&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4QFnoECCgQAQ",
+      "displayed_link": "https://apps.apple.com › app › military-retirement-calcu...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAqFBMVEVHcExy2vB10fs_pvaK0eBUmPFJwfcqdvdDi_NQt_k0w_otjfk3gfIud_JNxvVAw_U9ifNCieFDjfI2f_JmzPRp0vUYZfEZb_IfovkhrvoadvMYafIhs_sZi_UhtfsfnfgOfvMbtPsfqPoShfQdlvcemvccj_Ydk_bC7f-k1_8Bb-5wsPa35f9PzP2bz_7U8_-v4P_l_f-Cvv1QmvRVpvgNqvkAl_Qtl_qIgfU0AAAAFnRSTlMAXvz8LWDZ_f39_P773O-v2i2usKyszzWwHgAAAXNJREFUKJFt0utygjAUBOCjeAnVVu0FFFADUZuQSEhA-_5v1gMExk79ZhjYXQb-BACNvmZv1wdvs9UIOpPxIT2kSTpIMB5eJu12TQ9PpO063iXPveD_kl3vdusuJxnBZ9aHbMx934yHNVvBLOttFS-14fehmIG_7d18ro3xj0PhwUO4C2PUfojbHfjnY68Z5X2IZxxPZ-fkGVNab8jnDPzvk7NXmteFYH0-eVB_OxepuaxKLS99s4V6f-kwzkvKSq6YKy5HHDvMcl6xfc25Za76gRofGaWUCWFzSvNC8TZi-wMeY9QqpbTWZalUIbXmhRCSMhwryqjCGrsSCSu0KVDO2AJHGhEpm5dbNeFK1ZJElOIYRTTKK2uXuVMLUeVNuwASNYS1eeTk-NGweVjCGu8hKewy7MeQiII07RreQxRXJAgHcVW16R2mXY7DB0HQxinAPIifCgievs08eGrZHtzNPP4_xWTizvz043X-x-vHtOl_ASi1Wb9ogO5wAAAAAElFTkSuQmCC.png",
+      "date": "Feb 12, 2026",
+      "snippet": "Military Retirement Calculator contains everything you need to plan and optimize your military pay benefits with precision and confidence.",
+      "snippet_highlighted_words": [
+        "Military Retirement Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military Retirement Calculator contains everything you need to plan and optimize your military pay benefits with precision and confidence.",
+          "source_info_link": "https://apps.apple.com/ca/app/military-retirement-calculator/id6743503607",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAqFBMVEVHcExy2vB10fs_pvaK0eBUmPFJwfcqdvdDi_NQt_k0w_otjfk3gfIud_JNxvVAw_U9ifNCieFDjfI2f_JmzPRp0vUYZfEZb_IfovkhrvoadvMYafIhs_sZi_UhtfsfnfgOfvMbtPsfqPoShfQdlvcemvccj_Ydk_bC7f-k1_8Bb-5wsPa35f9PzP2bz_7U8_-v4P_l_f-Cvv1QmvRVpvgNqvkAl_Qtl_qIgfU0AAAAFnRSTlMAXvz8LWDZ_f39_P773O-v2i2usKyszzWwHgAAAXNJREFUKJFt0utygjAUBOCjeAnVVu0FFFADUZuQSEhA-_5v1gMExk79ZhjYXQb-BACNvmZv1wdvs9UIOpPxIT2kSTpIMB5eJu12TQ9PpO063iXPveD_kl3vdusuJxnBZ9aHbMx934yHNVvBLOttFS-14fehmIG_7d18ro3xj0PhwUO4C2PUfojbHfjnY68Z5X2IZxxPZ-fkGVNab8jnDPzvk7NXmteFYH0-eVB_OxepuaxKLS99s4V6f-kwzkvKSq6YKy5HHDvMcl6xfc25Za76gRofGaWUCWFzSvNC8TZi-wMeY9QqpbTWZalUIbXmhRCSMhwryqjCGrsSCSu0KVDO2AJHGhEpm5dbNeFK1ZJElOIYRTTKK2uXuVMLUeVNuwASNYS1eeTk-NGweVjCGu8hKewy7MeQiII07RreQxRXJAgHcVW16R2mXY7DB0HQxinAPIifCgievs08eGrZHtzNPP4_xWTizvz043X-x-vHtOl_ASi1Wb9ogO5wAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://apps.apple.com/ca/app/military-retirement-calculator/id6743503607&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fapps.apple.com%2Fca%2Fapp%2Fmilitary-retirement-calculator%2Fid6743503607",
+      "source": "Apple",
+      "read_more_link": "https://apps.apple.com/ca/app/military-retirement-calculator/id6743503607#:~:text=Military%20Retirement%20Calculator%20contains%20everything,benefits%20with%20precision%20and%20confidence."
+    },
+    {
+      "position": 6,
+      "title": "Military Retirement Calculator 2026 (Free)",
+      "link": "https://militaryretirementcalc.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militaryretirementcalc.com/&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4QFnoECEMQAQ",
+      "displayed_link": "https://militaryretirementcalc.com",
+      "favicon": "https://serpapi.com/searches/6a3a23b473bf5936fd8cdf95/images/2dTunbkV9xwOAQfabvx2eVR273kdeBNWfgJXy2sQB3s.jpeg",
+      "snippet": "Free 2026 military retirement calculator. Enter your rank and years to see your pension, VA disability pay, and civilian salary target. High-3 & BRS.",
+      "snippet_highlighted_words": [
+        "Free 2026 military retirement calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Free 2026 military retirement calculator. Enter your rank and years to see your pension, VA disability pay, and civilian salary target. High-3 & BRS.",
+          "source_info_link": "https://militaryretirementcalc.com/",
+          "icon": "https://serpapi.com/searches/6a3a23b473bf5936fd8cdf95/images/2dTunbkV9xwOAQfabvx2eXlGNvsCFWS2aY22_eTu4I3MqBFRcUryTgE1WSiK0slP.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militaryretirementcalc.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitaryretirementcalc.com%2F",
+      "source": "militaryretirementcalc.com"
+    },
+    {
+      "position": 7,
+      "title": "Retirement Savings Calculator",
+      "link": "https://cfmws.ca/insurance-finance/financial-education/resources/calculators/retirement-savings-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cfmws.ca/insurance-finance/financial-education/resources/calculators/retirement-savings-calculator&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4QFnoECD0QAQ",
+      "displayed_link": "https://cfmws.ca › resources › calculators › retirement-s...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEy7JyHCJyDaKRyvJiPFJx_bKRyxJiOtJiTFJx_DJyDaKRytJiS-JyHaKRzTKB2tJiTRKB3aKRzaKRytJiStJiS6JyHaKRyvJiPaKRytJiStJiTBJyDOKB7rPK9lAAAAHnRSTlMAEiN4fBzUrmsKA_-_OJCl9yvg8f_oYbmN-J3RRFGrS2SAAAABOUlEQVR4AayRRYIEIQwAg3sr0AL8_5ublpWx29a14oF_glD4DOPio6NS6bfCWLDMKY-p5EWGTlDp-kEbru2zHKd5cq6PKcX8kikWh6w-xRRee3bObT0heyxP-9CA02xLR8HsURGg9c6oAveTI1Q2sgbCx9Ua5QmQiqG97LvJLdSGbu6hDUO2axzU7ksAi70QTG2zYzD61PgQDwoBaBu6CfuMrR4Lhj1erPZYEOVCDJxYAyFdMuNADSVa1gKBQEimxt-ZFOjiLmYZaAlj2am6ZGqY-WPzGvU6DPlqWjQ5LsDmU27Mx1LigDHIHuw1xNX2kEgKeogD__1bOC3bh1RKCToODz_Pp8SflF2hVI8P27Bs1mtRfA015keJTtaaua6Z1qgf5NizXMmBIYauj5lfAwohOFycQA5BAAD3dheGndssiQAAAABJRU5ErkJggg.png",
+      "snippet": "Retirement Savings Calculator. Quickly determine if your retirement plan is on track - and learn how to keep it there. Book an Appointment with a ...",
+      "snippet_highlighted_words": [
+        "Retirement Savings Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Retirement Savings Calculator. Quickly determine if your retirement plan is on track - and learn how to keep it there. Book an Appointment with a ...",
+          "source_info_link": "https://cfmws.ca/insurance-finance/financial-education/resources/calculators/retirement-savings-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEy7JyHCJyDaKRyvJiPFJx_bKRyxJiOtJiTFJx_DJyDaKRytJiS-JyHaKRzTKB2tJiTRKB3aKRzaKRytJiStJiS6JyHaKRyvJiPaKRytJiStJiTBJyDOKB7rPK9lAAAAHnRSTlMAEiN4fBzUrmsKA_-_OJCl9yvg8f_oYbmN-J3RRFGrS2SAAAABOUlEQVR4AayRRYIEIQwAg3sr0AL8_5ublpWx29a14oF_glD4DOPio6NS6bfCWLDMKY-p5EWGTlDp-kEbru2zHKd5cq6PKcX8kikWh6w-xRRee3bObT0heyxP-9CA02xLR8HsURGg9c6oAveTI1Q2sgbCx9Ua5QmQiqG97LvJLdSGbu6hDUO2axzU7ksAi70QTG2zYzD61PgQDwoBaBu6CfuMrR4Lhj1erPZYEOVCDJxYAyFdMuNADSVa1gKBQEimxt-ZFOjiLmYZaAlj2am6ZGqY-WPzGvU6DPlqWjQ5LsDmU27Mx1LigDHIHuw1xNX2kEgKeogD__1bOC3bh1RKCToODz_Pp8SflF2hVI8P27Bs1mtRfA015keJTtaaua6Z1qgf5NizXMmBIYauj5lfAwohOFycQA5BAAD3dheGndssiQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cfmws.ca/insurance-finance/financial-education/resources/calculators/retirement-savings-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcfmws.ca%2Finsurance-finance%2Ffinancial-education%2Fresources%2Fcalculators%2Fretirement-savings-calculator",
+      "source": "Canadian Forces Morale and Welfare Services | CFMWS",
+      "read_more_link": "https://cfmws.ca/insurance-finance/financial-education/resources/calculators/retirement-savings-calculator#:~:text=Retirement%20Savings%20Calculator,with%20a%20SISIP%20Financial%20professional"
+    },
+    {
+      "position": 8,
+      "title": "Retirement Savings Calculator",
+      "link": "https://www.sunlife.ca/en/tools-and-resources/tools-and-calculators/retirement-savings-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunlife.ca/en/tools-and-resources/tools-and-calculators/retirement-savings-calculator/&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4QFnoECDoQAQ",
+      "displayed_link": "https://www.sunlife.ca › ... › Tools & Calculators",
+      "favicon": "https://serpapi.com/searches/6a3a23b473bf5936fd8cdf95/images/2dTunbkV9xwOAQfabvx2eTETRuP4_AZidvA0O1ZA3FA.png",
+      "snippet": "Find out how much you will need to save for retirement and if you're on track to meet your retirement savings goal. Take 2 minutes to get your results.",
+      "snippet_highlighted_words": [
+        "how much you will need to save for retirement"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Find out how much you will need to save for retirement and if you're on track to meet your retirement savings goal. Take 2 minutes to get your results.",
+          "source_info_link": "https://www.sunlife.ca/en/tools-and-resources/tools-and-calculators/retirement-savings-calculator/",
+          "icon": "https://serpapi.com/searches/6a3a23b473bf5936fd8cdf95/images/2dTunbkV9xwOAQfabvx2eVfjmAQwdtKDfVeGJEcbd2t7NZCtah9UXu0SeHRpktMt.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sunlife.ca/en/tools-and-resources/tools-and-calculators/retirement-savings-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sunlife.ca%2Fen%2Ftools-and-resources%2Ftools-and-calculators%2Fretirement-savings-calculator%2F",
+      "source": "Sun Life",
+      "read_more_link": "https://www.sunlife.ca/en/tools-and-resources/tools-and-calculators/retirement-savings-calculator/#:~:text=Find%20out%20how%20much%20you,minutes%20to%20get%20your%20results."
+    },
+    {
+      "position": 9,
+      "title": "Comprehensive military retirement calculator tool",
+      "link": "https://www.facebook.com/groups/1503561779729687/posts/26499701129689073/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1503561779729687/posts/26499701129689073/&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4QFnoECEAQAQ",
+      "displayed_link": "180+ comments · 2 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "... Military Take Home Pay Calculator. The two calculators below ... Military retirement changes for those with fewer than 12 years of service.",
+      "snippet_highlighted_words": [
+        "Military",
+        "Calculator",
+        "calculators",
+        "Military retirement",
+        "years",
+        "service"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Military Take Home Pay Calculator. The two calculators below ... Military retirement changes for those with fewer than 12 years of service.",
+          "source_info_link": "https://www.facebook.com/groups/1503561779729687/posts/26499701129689073/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1503561779729687/posts/26499701129689073/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1503561779729687%2Fposts%2F26499701129689073%2F",
+      "source": "Facebook · Veterans Benefits",
+      "read_more_link": "https://www.facebook.com/groups/1503561779729687/posts/26499701129689073/#:~:text=For%20Active%20Duty%20Service%20Members%2C,Calculator.%20The%20two%20calculators%20below&text=Military%20retirement%20changes%20for%20those,than%2012%20years%20of%20service"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military retirement pay chart",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+retirement+pay+chart&sa=X&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+retirement+pay+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Military retirement calculator monthly",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+retirement+calculator+monthly&sa=X&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+retirement+calculator+monthly"
+    },
+    {
+      "block_position": 1,
+      "query": "20 year military retirement calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=20+year+military+retirement+calculator&sa=X&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=20+year+military+retirement+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Simple military retirement calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Simple+military+retirement+calculator&sa=X&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Simple+military+retirement+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Military High-3 retirement calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+High-3+retirement+calculator&sa=X&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+High-3+retirement+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "BRS retirement calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=BRS+retirement+calculator&sa=X&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BRS+retirement+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Best military retirement calculator monthly",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Best+military+retirement+calculator+monthly&sa=X&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+military+retirement+calculator+monthly"
+    },
+    {
+      "block_position": 1,
+      "query": "Military REDUX retirement calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+REDUX+retirement+calculator&sa=X&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+REDUX+retirement+calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+retirement+calculator+95+years+service&sca_esv=c510ba4e6526f391&ei=tiM6atGPCcH_p84P77Da8Ac&start=10&sa=N&sstk=AU9db-BlBnoD3SHTJ-2ol_7iLCOpMYMEe_XwJjrJEM0yM-sRD_7YJByCkzLdgC-ECssT9RVtdLB_d8gyLEWUF3CPA2-MgdUZL4lJfg&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q8NMDegQIMBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+retirement+calculator+95+years+service&sca_esv=c510ba4e6526f391&ei=tiM6atGPCcH_p84P77Da8Ac&start=10&sa=N&sstk=AU9db-BlBnoD3SHTJ-2ol_7iLCOpMYMEe_XwJjrJEM0yM-sRD_7YJByCkzLdgC-ECssT9RVtdLB_d8gyLEWUF3CPA2-MgdUZL4lJfg&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q8tMDegQIMBAE",
+      "3": "https://www.google.com/search?q=military+retirement+calculator+95+years+service&sca_esv=c510ba4e6526f391&ei=tiM6atGPCcH_p84P77Da8Ac&start=20&sa=N&sstk=AU9db-BlBnoD3SHTJ-2ol_7iLCOpMYMEe_XwJjrJEM0yM-sRD_7YJByCkzLdgC-ECssT9RVtdLB_d8gyLEWUF3CPA2-MgdUZL4lJfg&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q8tMDegQIMBAG",
+      "4": "https://www.google.com/search?q=military+retirement+calculator+95+years+service&sca_esv=c510ba4e6526f391&ei=tiM6atGPCcH_p84P77Da8Ac&start=30&sa=N&sstk=AU9db-BlBnoD3SHTJ-2ol_7iLCOpMYMEe_XwJjrJEM0yM-sRD_7YJByCkzLdgC-ECssT9RVtdLB_d8gyLEWUF3CPA2-MgdUZL4lJfg&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q8tMDegQIMBAI",
+      "5": "https://www.google.com/search?q=military+retirement+calculator+95+years+service&sca_esv=c510ba4e6526f391&ei=tiM6atGPCcH_p84P77Da8Ac&start=40&sa=N&sstk=AU9db-BlBnoD3SHTJ-2ol_7iLCOpMYMEe_XwJjrJEM0yM-sRD_7YJByCkzLdgC-ECssT9RVtdLB_d8gyLEWUF3CPA2-MgdUZL4lJfg&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q8tMDegQIMBAK",
+      "6": "https://www.google.com/search?q=military+retirement+calculator+95+years+service&sca_esv=c510ba4e6526f391&ei=tiM6atGPCcH_p84P77Da8Ac&start=50&sa=N&sstk=AU9db-BlBnoD3SHTJ-2ol_7iLCOpMYMEe_XwJjrJEM0yM-sRD_7YJByCkzLdgC-ECssT9RVtdLB_d8gyLEWUF3CPA2-MgdUZL4lJfg&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q8tMDegQIMBAM",
+      "7": "https://www.google.com/search?q=military+retirement+calculator+95+years+service&sca_esv=c510ba4e6526f391&ei=tiM6atGPCcH_p84P77Da8Ac&start=60&sa=N&sstk=AU9db-BlBnoD3SHTJ-2ol_7iLCOpMYMEe_XwJjrJEM0yM-sRD_7YJByCkzLdgC-ECssT9RVtdLB_d8gyLEWUF3CPA2-MgdUZL4lJfg&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q8tMDegQIMBAO",
+      "8": "https://www.google.com/search?q=military+retirement+calculator+95+years+service&sca_esv=c510ba4e6526f391&ei=tiM6atGPCcH_p84P77Da8Ac&start=70&sa=N&sstk=AU9db-BlBnoD3SHTJ-2ol_7iLCOpMYMEe_XwJjrJEM0yM-sRD_7YJByCkzLdgC-ECssT9RVtdLB_d8gyLEWUF3CPA2-MgdUZL4lJfg&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q8tMDegQIMBAQ",
+      "9": "https://www.google.com/search?q=military+retirement+calculator+95+years+service&sca_esv=c510ba4e6526f391&ei=tiM6atGPCcH_p84P77Da8Ac&start=80&sa=N&sstk=AU9db-BlBnoD3SHTJ-2ol_7iLCOpMYMEe_XwJjrJEM0yM-sRD_7YJByCkzLdgC-ECssT9RVtdLB_d8gyLEWUF3CPA2-MgdUZL4lJfg&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q8tMDegQIMBAS",
+      "10": "https://www.google.com/search?q=military+retirement+calculator+95+years+service&sca_esv=c510ba4e6526f391&ei=tiM6atGPCcH_p84P77Da8Ac&start=90&sa=N&sstk=AU9db-BlBnoD3SHTJ-2ol_7iLCOpMYMEe_XwJjrJEM0yM-sRD_7YJByCkzLdgC-ECssT9RVtdLB_d8gyLEWUF3CPA2-MgdUZL4lJfg&ved=2ahUKEwjRwqib2pyVAxXB_8kDHW-YFn4Q8tMDegQIMBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+retirement+calculator+95+years+service&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+retirement+calculator+95+years+service&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+retirement+calculator+95+years+service&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+retirement+calculator+95+years+service&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+retirement+calculator+95+years+service&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+retirement+calculator+95+years+service&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+retirement+calculator+95+years+service&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+retirement+calculator+95+years+service&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+retirement+calculator+95+years+service&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+retirement+calculator+95+years+service&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+retirement+calculator+95+years+service&start=90"
+    }
+  }
+}

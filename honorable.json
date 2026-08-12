@@ -1,0 +1,430 @@
+{
+  "search_metadata": {
+    "id": "6a3a225ef0114ae4248b0dfd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/86LRFobgfUjMwclNCHHa8w/6a3a225ef0114ae4248b0dfd.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/86LRFobgfUjMwclNCHHa8w/6a3a225ef0114ae4248b0dfd.json_with_pixel_position",
+    "created_at": "2026-06-23 06:06:22 UTC",
+    "processed_at": "2026-06-23 06:06:22 UTC",
+    "google_url": "https://www.google.com/search?q=military+benefits+after+honorable+discharge&oq=military+benefits+after+honorable+discharge&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/86LRFobgfUjMwclNCHHa8w/6a3a225ef0114ae4248b0dfd.html",
+    "total_time_taken": 3.05
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military benefits after honorable discharge",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military benefits after honorable discharge",
+    "total_results": 178,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Military Discharge and Your VA Benefits",
+      "link": "https://www.youtube.com/watch?v=fN2P46PofTY",
+      "thumbnail": "https://serpapi.com/searches/6a3a225ef0114ae4248b0dfd/images/8-sf0J06DSbZnuiF4btUkVhB-3nZLtI2F55791hhdrA.jpeg",
+      "channel": "VA Claims Insider",
+      "duration": "1:01:00",
+      "platform": "YouTube",
+      "date": "Aug 7, 2025"
+    },
+    {
+      "position": 2,
+      "title": "How Veterans With OTH Discharges Can Still Qualify for ...",
+      "link": "https://www.youtube.com/shorts/Atk5h6jRmeo",
+      "thumbnail": "https://serpapi.com/searches/6a3a225ef0114ae4248b0dfd/images/Lb9HBnJBuCtgeMfwr7Sv_mhmsM2kYr7tZb7LY1bjV9Q.jpeg",
+      "channel": "Hill and Ponton, P.A.",
+      "duration": "1:03",
+      "platform": "YouTube",
+      "date": "Mar 25, 2026",
+      "snippet": "Veterans with OTH discharges can still qualify for benefits if compelling circumstances caused misconduct or if there was military sexual trauma."
+    },
+    {
+      "position": 3,
+      "title": "What Happens to Veterans Who Leave the Military Under ...",
+      "link": "https://www.youtube.com/watch?v=Sv2jewp9l8I",
+      "thumbnail": "https://serpapi.com/searches/6a3a225ef0114ae4248b0dfd/images/EAt4Yoqb9JWR8eUTSpZgLPbLpjGifr1wz9TaYbMpajY.jpeg",
+      "channel": "RAND",
+      "duration": "58:04",
+      "platform": "YouTube",
+      "date": "Oct 4, 2024",
+      "snippet": "We explain how other than honorable or OT discharges affects VA eligibility, second we explain common public health issues for OT veterans.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTWlMQo6kowRfKFYgkfsUzrBQINsl2fzTKiIg"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Do all honorably discharged veterans get benefits?",
+      "type": "ai_overview",
+      "page_token": "nPLwEnicHdBRboIwAIDh7DI-alFxm4lZdIDKpNPSFuzLUloV2wJViSJvu8LOsFPtNFt2gP97-D-_zbHUPw9feV3by7jXu91u3UNVHcyuK6qixy_3UvQENybjQo9HjyPnZS8m_lXMXs9itiHWUg-BOGncFfaHMmVz7lcDmkCP3x2OAoZhwNYcT2uc5ke5mFnpmOWutEAWjSdKuEw05EjXnOjhnfrsvFWoEEEew_KP99CJ9p0oblm003SFjFwnHnqDwBqRondmIMyIa0lBVQTyVaabMFahQ7SN3jFzpY_CRJmEUjsSwfNwVxpGF1OHgcaN-6iQbY63KqxgMnSzeeVQ8NSK_l8VyHumwjlSAYmI72IgSz6QJ6kk8nPJNkD3t-mskL5lKzp1Jc43rDVr2jKEUXXcENQKZQqSwpRo90oCi1i7rfHR8ZjOA0zCOSZNCNMpkLfOXlwng87_68nHvqjH9lwdfgEIDI3k",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nPLwEnicHdBRboIwAIDh7DI-alFxm4lZdIDKpNPSFuzLUloV2wJViSJvu8LOsFPtNFt2gP97-D-_zbHUPw9feV3by7jXu91u3UNVHcyuK6qixy_3UvQENybjQo9HjyPnZS8m_lXMXs9itiHWUg-BOGncFfaHMmVz7lcDmkCP3x2OAoZhwNYcT2uc5ke5mFnpmOWutEAWjSdKuEw05EjXnOjhnfrsvFWoEEEew_KP99CJ9p0oblm003SFjFwnHnqDwBqRondmIMyIa0lBVQTyVaabMFahQ7SN3jFzpY_CRJmEUjsSwfNwVxpGF1OHgcaN-6iQbY63KqxgMnSzeeVQ8NSK_l8VyHumwjlSAYmI72IgSz6QJ6kk8nPJNkD3t-mskL5lKzp1Jc43rDVr2jKEUXXcENQKZQqSwpRo90oCi1i7rfHR8ZjOA0zCOSZNCNMpkLfOXlwng87_68nHvqjH9lwdfgEIDI3k",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJUVnZaekZsVjJWWFYwbENXRFpuUVZCTFJqY3RSRWxaVDBSWVUyeDBjRGc1WjFoZk1HeHNhWEJKUVY5MGJGTk5jREZSVjFSRGNGWndRVlppUzFOR1ExTkpiMGx0V1dGcGIyaHFOM1l3TFZKYU5rZHhVMlZhVDNkdVVSSVhXVU5KTm1Gd1puUktXUzFRT1hVNFVHYzVUMWMyVVUwYUlrRkVjM0k1WmxJMVpsWnVXRzFJUTJoTGEzQXdNbGQwYlhwVVgydEJkR1ZLYWxFIiwiZmN2IjoiMyIsImVpIjoiWUNJNmFwZnRKWS1QOXU4UGc5T1c2UU0iLCJxYyI6IkNpdHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lCb2IyNXZjbUZpYkdVZ1pHbHpZMmhoY21kbEVBQjlyNUExUHciLCJxdWVzdGlvbiI6IkRvIGFsbCBob25vcmFibHkgZGlzY2hhcmdlZCB2ZXRlcmFucyBnZXQgYmVuZWZpdHM/IiwibGsiOiJHakZrYnlCaGJHd2dhRzl1YjNKaFlteDVJR1JwYzJOb1lYSm5aV1FnZG1WMFpYSmhibk1nWjJWMElHSmxibVZtYVhSeiIsImJzIjoiYzVYUFBRdkNNQmdFWUZ3ek9SZkVHeFJiY1lqUndhMG9EdjRCZFg2MXJ5YVFKcEJFU18tOUgxRFFUZGZqdVlNVFJxaXRCMWtMN1owUGRMSXRLaFBQbXNLVks5dzVjU0FYY2VXRUV6dS1tQlJMdGNqbTFiOHRzUkhEbzZZRUU1RTBZN1JVTXlrbER1dU9sR3FZRFpwdjhoSjM2b1RZaV94elk0V1dLU0RjTE1PNGQxUWJheEtGdGxSRk5tbC1zLUlvaXAxdlVOX09HcFhuQ01KY3luRjM1UDJqOWk1cC05eWRacm4tRWZkN0R3IiwiaWQiOiJmY19ZQ0k2YXBmdEpZLVA5dThQZzlPVzZRTV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJUVnZaekZsVjJWWFYwbENXRFpuUVZCTFJqY3RSRWxaVDBSWVUyeDBjRGc1WjFoZk1HeHNhWEJKUVY5MGJGTk5jREZSVjFSRGNGWndRVlppUzFOR1ExTkpiMGx0V1dGcGIyaHFOM1l3TFZKYU5rZHhVMlZhVDNkdVVSSVhXVU5KTm1Gd1puUktXUzFRT1hVNFVHYzVUMWMyVVUwYUlrRkVjM0k1WmxJMVpsWnVXRzFJUTJoTGEzQXdNbGQwYlhwVVgydEJkR1ZLYWxFIiwiZmN2IjoiMyIsImVpIjoiWUNJNmFwZnRKWS1QOXU4UGc5T1c2UU0iLCJxYyI6IkNpdHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lCb2IyNXZjbUZpYkdVZ1pHbHpZMmhoY21kbEVBQjlyNUExUHciLCJxdWVzdGlvbiI6IkRvIGFsbCBob25vcmFibHkgZGlzY2hhcmdlZCB2ZXRlcmFucyBnZXQgYmVuZWZpdHM%2FIiwibGsiOiJHakZrYnlCaGJHd2dhRzl1YjNKaFlteDVJR1JwYzJOb1lYSm5aV1FnZG1WMFpYSmhibk1nWjJWMElHSmxibVZtYVhSeiIsImJzIjoiYzVYUFBRdkNNQmdFWUZ3ek9SZkVHeFJiY1lqUndhMG9EdjRCZFg2MXJ5YVFKcEJFU18tOUgxRFFUZGZqdVlNVFJxaXRCMWtMN1owUGRMSXRLaFBQbXNLVks5dzVjU0FYY2VXRUV6dS1tQlJMdGNqbTFiOHRzUkhEbzZZRUU1RTBZN1JVTXlrbER1dU9sR3FZRFpwdjhoSjM2b1RZaV94elk0V1dLU0RjTE1PNGQxUWJheEtGdGxSRk5tbC1zLUlvaXAxdlVOX09HcFhuQ01KY3luRjM1UDJqOWk1cC05eWRacm4tRWZkN0R3IiwiaWQiOiJmY19ZQ0k2YXBmdEpZLVA5dThQZzlPVzZRTV8zIn0%3D"
+    },
+    {
+      "question": "What is the $42,000 VA benefit?",
+      "type": "ai_overview",
+      "page_token": "VJQYkHicHdDdToMwGADQ-DJeOn62mS1ZjLiWsQGzhe8DemOw3cagHahTJne-i0_l02h8gpOcr299PDU_Vx_V-dy9zUejvu9vDm170Lsb2ZpR-fZ5kiNZav1cymY-vZ3ad3u5IO-B9_ASeAy6DpfcSlzVcyC9amACcDbPjbbilPbo8Bxs7xX8aiutyzh3RAC0y8ESSUTWDodJyqlC9BsHAC5CqyCxaYj-bJzgbBrXBzcmratS3LBMEUhpWNTrcOuvY2aqvTzamzCznNSn28JMGlyJTQKzQBC7LpFOs0bpaIi3f85jRGfjyFRDkeMSkZpMx-_RimORxiECXe5O6jOxtZfBmpNKCWY1TpF7RpFOhHg_UWnFxKAfcRA85e2RAR9krQ2u6KrMLp7S6KNL_ZjoIdKUFk7vFrmod4CMseu9_Fi41_-fi6e9Oc-71_bwC_f2gLk",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VJQYkHicHdDdToMwGADQ-DJeOn62mS1ZjLiWsQGzhe8DemOw3cagHahTJne-i0_l02h8gpOcr299PDU_Vx_V-dy9zUejvu9vDm170Lsb2ZpR-fZ5kiNZav1cymY-vZ3ad3u5IO-B9_ASeAy6DpfcSlzVcyC9amACcDbPjbbilPbo8Bxs7xX8aiutyzh3RAC0y8ESSUTWDodJyqlC9BsHAC5CqyCxaYj-bJzgbBrXBzcmratS3LBMEUhpWNTrcOuvY2aqvTzamzCznNSn28JMGlyJTQKzQBC7LpFOs0bpaIi3f85jRGfjyFRDkeMSkZpMx-_RimORxiECXe5O6jOxtZfBmpNKCWY1TpF7RpFOhHg_UWnFxKAfcRA85e2RAR9krQ2u6KrMLp7S6KNL_ZjoIdKUFk7vFrmod4CMseu9_Fi41_-fi6e9Oc-71_bwC_f2gLk",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJUVnZaekZsVjJWWFYwbENXRFpuUVZCTFJqY3RSRWxaVDBSWVUyeDBjRGc1WjFoZk1HeHNhWEJKUVY5MGJGTk5jREZSVjFSRGNGWndRVlppUzFOR1ExTkpiMGx0V1dGcGIyaHFOM1l3TFZKYU5rZHhVMlZhVDNkdVVSSVhXVU5KTm1Gd1puUktXUzFRT1hVNFVHYzVUMWMyVVUwYUlrRkVjM0k1WmxJMVpsWnVXRzFJUTJoTGEzQXdNbGQwYlhwVVgydEJkR1ZLYWxFIiwiZmN2IjoiMyIsImVpIjoiWUNJNmFwZnRKWS1QOXU4UGc5T1c2UU0iLCJxYyI6IkNpdHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lCb2IyNXZjbUZpYkdVZ1pHbHpZMmhoY21kbEVBQjlyNUExUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICQ0MiwwMDAgVkEgYmVuZWZpdD8iLCJsayI6IkdoMTNhR0YwSUdseklIUm9aU0FrTkRJd01EQWdkbUVnWW1WdVpXWnBkQSIsImJzIjoiYzVYUFBRdkNNQmdFWUZ3ek9SZkVHeFJiY1lqUndhMG9EdjRCZFg2MXJ5YVFKcEJFU18tOUgxRFFUZGZqdVlNVFJxaXRCMWtMN1owUGRMSXRLaFBQbXNLVks5dzVjU0FYY2VXRUV6dS1tQlJMdGNqbTFiOHRzUkhEbzZZRUU1RTBZN1JVTXlrbER1dU9sR3FZRFpwdjhoSjM2b1RZaV94elk0V1dLU0RjTE1PNGQxUWJheEtGdGxSRk5tbC1zLUlvaXAxdlVOX09HcFhuQ01KY3luRjM1UDJqOWk1cC05eWRacm4tRWZkN0R3IiwiaWQiOiJmY19ZQ0k2YXBmdEpZLVA5dThQZzlPVzZRTV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJUVnZaekZsVjJWWFYwbENXRFpuUVZCTFJqY3RSRWxaVDBSWVUyeDBjRGc1WjFoZk1HeHNhWEJKUVY5MGJGTk5jREZSVjFSRGNGWndRVlppUzFOR1ExTkpiMGx0V1dGcGIyaHFOM1l3TFZKYU5rZHhVMlZhVDNkdVVSSVhXVU5KTm1Gd1puUktXUzFRT1hVNFVHYzVUMWMyVVUwYUlrRkVjM0k1WmxJMVpsWnVXRzFJUTJoTGEzQXdNbGQwYlhwVVgydEJkR1ZLYWxFIiwiZmN2IjoiMyIsImVpIjoiWUNJNmFwZnRKWS1QOXU4UGc5T1c2UU0iLCJxYyI6IkNpdHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lCb2IyNXZjbUZpYkdVZ1pHbHpZMmhoY21kbEVBQjlyNUExUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICQ0MiwwMDAgVkEgYmVuZWZpdD8iLCJsayI6IkdoMTNhR0YwSUdseklIUm9aU0FrTkRJd01EQWdkbUVnWW1WdVpXWnBkQSIsImJzIjoiYzVYUFBRdkNNQmdFWUZ3ek9SZkVHeFJiY1lqUndhMG9EdjRCZFg2MXJ5YVFKcEJFU18tOUgxRFFUZGZqdVlNVFJxaXRCMWtMN1owUGRMSXRLaFBQbXNLVks5dzVjU0FYY2VXRUV6dS1tQlJMdGNqbTFiOHRzUkhEbzZZRUU1RTBZN1JVTXlrbER1dU9sR3FZRFpwdjhoSjM2b1RZaV94elk0V1dLU0RjTE1PNGQxUWJheEtGdGxSRk5tbC1zLUlvaXAxdlVOX09HcFhuQ01KY3luRjM1UDJqOWk1cC05eWRacm4tRWZkN0R3IiwiaWQiOiJmY19ZQ0k2YXBmdEpZLVA5dThQZzlPVzZRTV8zIn0%3D"
+    },
+    {
+      "question": "What is the 8 year rule in the military?",
+      "type": "ai_overview",
+      "page_token": "AsopSHicHdBfbpswHABg7TJ9bAyUbI0UTWX8SRmw2sYO-b1MxA4QsME0rGn91rvsVD1NpX5H-N7_q_M4fHx76ZbFXDar1fV6vW2nqVWnWzHpVX15G8VK1EodazFs1t_Xzs9GbKN_j8Gv-THAzBgeEkR1WjB9D7Wb-7VWV2pbm-_NgqsgzBnURWRimvhrFnZJwYUjkJy5R0biBANo8ox7GVZeQKkl2TEOZjkOtthPd3hQTukUdzLx5xwVPVg-w_B6OfQcDnsAKNOLYGqmO-mxUC086mroD_bIfJci_4z3ps-HV0KrlNEedkdHZdSJd0yllsVpwxQ0ULZuwYwmb05zUsWYleBFnQSMBvdQBVpGBjL-4Muyw2DVE7dASjKdMSNW9ErzUCan2ABHP1CNOg3R_W_uxowjcv6T-IArnjF804iXrXfz9bn92-hlY56n9hPOuIOR",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AsopSHicHdBfbpswHABg7TJ9bAyUbI0UTWX8SRmw2sYO-b1MxA4QsME0rGn91rvsVD1NpX5H-N7_q_M4fHx76ZbFXDar1fV6vW2nqVWnWzHpVX15G8VK1EodazFs1t_Xzs9GbKN_j8Gv-THAzBgeEkR1WjB9D7Wb-7VWV2pbm-_NgqsgzBnURWRimvhrFnZJwYUjkJy5R0biBANo8ox7GVZeQKkl2TEOZjkOtthPd3hQTukUdzLx5xwVPVg-w_B6OfQcDnsAKNOLYGqmO-mxUC086mroD_bIfJci_4z3ps-HV0KrlNEedkdHZdSJd0yllsVpwxQ0ULZuwYwmb05zUsWYleBFnQSMBvdQBVpGBjL-4Muyw2DVE7dASjKdMSNW9ErzUCan2ABHP1CNOg3R_W_uxowjcv6T-IArnjF804iXrXfz9bn92-hlY56n9hPOuIOR",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJUVnZaekZsVjJWWFYwbENXRFpuUVZCTFJqY3RSRWxaVDBSWVUyeDBjRGc1WjFoZk1HeHNhWEJKUVY5MGJGTk5jREZSVjFSRGNGWndRVlppUzFOR1ExTkpiMGx0V1dGcGIyaHFOM1l3TFZKYU5rZHhVMlZhVDNkdVVSSVhXVU5KTm1Gd1puUktXUzFRT1hVNFVHYzVUMWMyVVUwYUlrRkVjM0k1WmxJMVpsWnVXRzFJUTJoTGEzQXdNbGQwYlhwVVgydEJkR1ZLYWxFIiwiZmN2IjoiMyIsImVpIjoiWUNJNmFwZnRKWS1QOXU4UGc5T1c2UU0iLCJxYyI6IkNpdHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lCb2IyNXZjbUZpYkdVZ1pHbHpZMmhoY21kbEVBQjlyNUExUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDggeWVhciBydWxlIGluIHRoZSBtaWxpdGFyeT8iLCJsayI6ImM1TlNMODlJTEZISUxGWW95VWhWc0ZDb1RFMHNVaWdxelVsVnlNd0RDLVZtNW1TV0pCWlZBZ0EiLCJicyI6ImM1WFBQUXZDTUJnRVlGd3pPUmZFR3hSYmNZalJ3YTBvRHY0QmRYNjFyeWFRSnBCRVNfLTlIMURRVGRmanVZTVRScWl0QjFrTDdaMFBkTEl0S2hQUG1zS1ZLOXc1Y1NBWGNlV0VFenUtbUJSTHRjam0xYjh0c1JIRG82WUVFNUUwWTdSVU15a2xEdXVPbEdxWURacHY4aEozNm9UWWlfeHpZNFdXS1NEY0xNTzRkMVFiYXhLRnRsUkZObWwtcy1Jb2lwMXZVTl9PR3BYbkNNSmN5bkYzNVAyajlpNXAtOXlkWnJuLUVmZDdEdyIsImlkIjoiZmNfWUNJNmFwZnRKWS1QOXU4UGc5T1c2UU1fMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJUVnZaekZsVjJWWFYwbENXRFpuUVZCTFJqY3RSRWxaVDBSWVUyeDBjRGc1WjFoZk1HeHNhWEJKUVY5MGJGTk5jREZSVjFSRGNGWndRVlppUzFOR1ExTkpiMGx0V1dGcGIyaHFOM1l3TFZKYU5rZHhVMlZhVDNkdVVSSVhXVU5KTm1Gd1puUktXUzFRT1hVNFVHYzVUMWMyVVUwYUlrRkVjM0k1WmxJMVpsWnVXRzFJUTJoTGEzQXdNbGQwYlhwVVgydEJkR1ZLYWxFIiwiZmN2IjoiMyIsImVpIjoiWUNJNmFwZnRKWS1QOXU4UGc5T1c2UU0iLCJxYyI6IkNpdHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lCb2IyNXZjbUZpYkdVZ1pHbHpZMmhoY21kbEVBQjlyNUExUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDggeWVhciBydWxlIGluIHRoZSBtaWxpdGFyeT8iLCJsayI6ImM1TlNMODlJTEZISUxGWW95VWhWc0ZDb1RFMHNVaWdxelVsVnlNd0RDLVZtNW1TV0pCWlZBZ0EiLCJicyI6ImM1WFBQUXZDTUJnRVlGd3pPUmZFR3hSYmNZalJ3YTBvRHY0QmRYNjFyeWFRSnBCRVNfLTlIMURRVGRmanVZTVRScWl0QjFrTDdaMFBkTEl0S2hQUG1zS1ZLOXc1Y1NBWGNlV0VFenUtbUJSTHRjam0xYjh0c1JIRG82WUVFNUUwWTdSVU15a2xEdXVPbEdxWURacHY4aEozNm9UWWlfeHpZNFdXS1NEY0xNTzRkMVFiYXhLRnRsUkZObWwtcy1Jb2lwMXZVTl9PR3BYbkNNSmN5bkYzNVAyajlpNXAtOXlkWnJuLUVmZDdEdyIsImlkIjoiZmNfWUNJNmFwZnRKWS1QOXU4UGc5T1c2UU1fMyJ9"
+    },
+    {
+      "question": "How much does a 100% veteran get monthly?",
+      "type": "ai_overview",
+      "page_token": "0-4yzXicHdBfTtswHABg7TI80qahnahUIUKcUkTD_D_5vUzGTutguzG0NMVvu8tOxWkm7TvC9-ev7w_u-8fZnk7xuJxMxnG83g_D3nfXeggTdfw66IlW3r8q7ZaLn4vsbqdX6HNTPLxvCsxjFCWZUhEJceANFyNO25MOt07ymqpSlCqz7yY3igqY4VCNsrFnKuyGZOA6USzoweS1rNMLK4hgltOqdl1ZYUAuwYwwjTzrwubSNUVfO9t2aN6-ri0hmZmpdY15qipgHpnGXABVCXjWEzrNpXjqGYrnLsynmkHCYsjIozl2AraSV0KVTy0XxRaEeSYHEgkzUXr78cIvObIG8NTN2qYIBkV4FvdzwyyG5H-JBISRocecJP3mA-fbTEtB1aN9kxJGtTZNXQEFjm-orEPrY4LxaqfPq_zq_-fq9y6clvFj2P8DemaFcg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0-4yzXicHdBfTtswHABg7TI80qahnahUIUKcUkTD_D_5vUzGTutguzG0NMVvu8tOxWkm7TvC9-ev7w_u-8fZnk7xuJxMxnG83g_D3nfXeggTdfw66IlW3r8q7ZaLn4vsbqdX6HNTPLxvCsxjFCWZUhEJceANFyNO25MOt07ymqpSlCqz7yY3igqY4VCNsrFnKuyGZOA6USzoweS1rNMLK4hgltOqdl1ZYUAuwYwwjTzrwubSNUVfO9t2aN6-ri0hmZmpdY15qipgHpnGXABVCXjWEzrNpXjqGYrnLsynmkHCYsjIozl2AraSV0KVTy0XxRaEeSYHEgkzUXr78cIvObIG8NTN2qYIBkV4FvdzwyyG5H-JBISRocecJP3mA-fbTEtB1aN9kxJGtTZNXQEFjm-orEPrY4LxaqfPq_zq_-fq9y6clvFj2P8DemaFcg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJUVnZaekZsVjJWWFYwbENXRFpuUVZCTFJqY3RSRWxaVDBSWVUyeDBjRGc1WjFoZk1HeHNhWEJKUVY5MGJGTk5jREZSVjFSRGNGWndRVlppUzFOR1ExTkpiMGx0V1dGcGIyaHFOM1l3TFZKYU5rZHhVMlZhVDNkdVVSSVhXVU5KTm1Gd1puUktXUzFRT1hVNFVHYzVUMWMyVVUwYUlrRkVjM0k1WmxJMVpsWnVXRzFJUTJoTGEzQXdNbGQwYlhwVVgydEJkR1ZLYWxFIiwiZmN2IjoiMyIsImVpIjoiWUNJNmFwZnRKWS1QOXU4UGc5T1c2UU0iLCJxYyI6IkNpdHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lCb2IyNXZjbUZpYkdVZ1pHbHpZMmhoY21kbEVBQjlyNUExUHciLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgYSAxMDAlIHZldGVyYW4gZ2V0IG1vbnRobHk/IiwibGsiOiJHaWhvYjNjZ2JYVmphQ0JrYjJWeklHRWdNVEF3SlNCMlpYUmxjbUZ1SUdkbGRDQnRiMjUwYUd4NSIsImJzIjoiYzVYUFBRdkNNQmdFWUZ3ek9SZkVHeFJiY1lqUndhMG9EdjRCZFg2MXJ5YVFKcEJFU18tOUgxRFFUZGZqdVlNVFJxaXRCMWtMN1owUGRMSXRLaFBQbXNLVks5dzVjU0FYY2VXRUV6dS1tQlJMdGNqbTFiOHRzUkhEbzZZRUU1RTBZN1JVTXlrbER1dU9sR3FZRFpwdjhoSjM2b1RZaV94elk0V1dLU0RjTE1PNGQxUWJheEtGdGxSRk5tbC1zLUlvaXAxdlVOX09HcFhuQ01KY3luRjM1UDJqOWk1cC05eWRacm4tRWZkN0R3IiwiaWQiOiJmY19ZQ0k2YXBmdEpZLVA5dThQZzlPVzZRTV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJUVnZaekZsVjJWWFYwbENXRFpuUVZCTFJqY3RSRWxaVDBSWVUyeDBjRGc1WjFoZk1HeHNhWEJKUVY5MGJGTk5jREZSVjFSRGNGWndRVlppUzFOR1ExTkpiMGx0V1dGcGIyaHFOM1l3TFZKYU5rZHhVMlZhVDNkdVVSSVhXVU5KTm1Gd1puUktXUzFRT1hVNFVHYzVUMWMyVVUwYUlrRkVjM0k1WmxJMVpsWnVXRzFJUTJoTGEzQXdNbGQwYlhwVVgydEJkR1ZLYWxFIiwiZmN2IjoiMyIsImVpIjoiWUNJNmFwZnRKWS1QOXU4UGc5T1c2UU0iLCJxYyI6IkNpdHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lCb2IyNXZjbUZpYkdVZ1pHbHpZMmhoY21kbEVBQjlyNUExUHciLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgYSAxMDAlIHZldGVyYW4gZ2V0IG1vbnRobHk%2FIiwibGsiOiJHaWhvYjNjZ2JYVmphQ0JrYjJWeklHRWdNVEF3SlNCMlpYUmxjbUZ1SUdkbGRDQnRiMjUwYUd4NSIsImJzIjoiYzVYUFBRdkNNQmdFWUZ3ek9SZkVHeFJiY1lqUndhMG9EdjRCZFg2MXJ5YVFKcEJFU18tOUgxRFFUZGZqdVlNVFJxaXRCMWtMN1owUGRMSXRLaFBQbXNLVks5dzVjU0FYY2VXRUV6dS1tQlJMdGNqbTFiOHRzUkhEbzZZRUU1RTBZN1JVTXlrbER1dU9sR3FZRFpwdjhoSjM2b1RZaV94elk0V1dLU0RjTE1PNGQxUWJheEtGdGxSRk5tbC1zLUlvaXAxdlVOX09HcFhuQ01KY3luRjM1UDJqOWk1cC05eWRacm4tRWZkN0R3IiwiaWQiOiJmY19ZQ0k2YXBmdEpZLVA5dThQZzlPVzZRTV8zIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "w_g4u3icxVbfcrI4FL_f91huWkVErXSG-SYgtvgfrfrRGwYDBBSIJVi0d_su-1T7KnuzAbFii-3sN7OzcUzIITm_c07OL4c__vS9cPPXb3-7cbwl9yybJEkVYYx8uwpxwJrkEELWwT6JoPuD4F0Ebc8SoRvhwGaQL-4I4_qiHTKHV5FnIBFrjO2Juqy2zK0T9_TKRNi1J0gYL1vakMnUicbKJPaaou3XhDVY2m1-5zt0UiVVO6z6QOugKBgrM7Var3FCdcyaAV0A_sOmABWlo0p_Sjb_2CT6XvtOiwxk2qOCCBX6vHVSGABkORsAvqZNyqyQgaSkuJIxFNp0OC7voGu7AJhdTpeZZSBJFVIXlFInytSdZCcDpSt45aZkMPN80ii8-BzatNFoFMPbp2obAAIwzQXj07oiHEIK6Jzkj8l4KI2V6VeHRJ1_GIL2ZiKrX6xKrVejpJs_JyOdgrIWojlYY1cRHTjWgy7MHiKSpqb8JNTw46DP8xpey3ctYd2cOc19dysEj7aFxoiFK7rOx6ZlW4Zr1H5kc67ONWsCf9e-zTgByTspSJEUaKgPkl3CqRWlOqhKXIERmbfqxRnQSNKcKfern_UXJymf9mZJmakqRqefjxKop9KzXunpkKIPT1FKj2gOPsU1xSphRAHzDJ5nrtw9O3apSc3hi95JyQfEM0CeCjroa-8uK3R6YVxRmQQ2WnoHPJwEZ92pVuRnF0TKCEU6ahxf7EdFw9KbREPSO7JWtK5Z2ISAlJ4ZWB9o1wNYPt1C6RY1D0I_ta6Y2w8fmUSoKQRdOfjv2tVbqGDnKfc_pHKRAt2wOZU3Tw083LlNWGk46mjHT3VQ8XRQnvI4WP2LQgD_X1KcykQ_P6BuKSm0b0ihyNKXZeK4vPNOimz-co0UklpWJo437rlMfCbF7JIU18tEgRQo96qo9SMppCukQLlvJaSYl5BiU0qKvEwUSOE2tIsycQR7LxMnUvxSmXj9lTKRUcQ-Dpc1Y7dGV2tH1-sAPrF0lefQwai8WnC62Hbay0lnAL6tHU4Q3wem5d8annUv1Xvxwbo1qADf2xbzIgae78VmdLhZ2aHteDG5MZ3Yjm5cHOLIXPn2jeUR6JoRspnAj7BYM-8i3jV6_NvOb-8b21Y9fDZVnest8DqWw_qGD18c55n7aXjk59aaQ0XvLQ51bzOAxqLeawdNPBvX0WjMhXx_gPf6fnZoYQebyVre-AtHG7xtK2S6Hdn-0nlb9_er-TIWhsmcDJqDN7Mx2U2gLy-4p62SDJ7nOLOKiOPl8PDUdmG4SZgggiLNhQYCIw0sEf1UkHWgUdpqMqb_hGYJQ6Bp2ORVhE2utjIbdqtZbzm8wDEBig9bsS4wJIxE7h_ApyPL",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=w_g4u3icxVbfcrI4FL_f91huWkVErXSG-SYgtvgfrfrRGwYDBBSIJVi0d_su-1T7KnuzAbFii-3sN7OzcUzIITm_c07OL4c__vS9cPPXb3-7cbwl9yybJEkVYYx8uwpxwJrkEELWwT6JoPuD4F0Ebc8SoRvhwGaQL-4I4_qiHTKHV5FnIBFrjO2Juqy2zK0T9_TKRNi1J0gYL1vakMnUicbKJPaaou3XhDVY2m1-5zt0UiVVO6z6QOugKBgrM7Var3FCdcyaAV0A_sOmABWlo0p_Sjb_2CT6XvtOiwxk2qOCCBX6vHVSGABkORsAvqZNyqyQgaSkuJIxFNp0OC7voGu7AJhdTpeZZSBJFVIXlFInytSdZCcDpSt45aZkMPN80ii8-BzatNFoFMPbp2obAAIwzQXj07oiHEIK6Jzkj8l4KI2V6VeHRJ1_GIL2ZiKrX6xKrVejpJs_JyOdgrIWojlYY1cRHTjWgy7MHiKSpqb8JNTw46DP8xpey3ctYd2cOc19dysEj7aFxoiFK7rOx6ZlW4Zr1H5kc67ONWsCf9e-zTgByTspSJEUaKgPkl3CqRWlOqhKXIERmbfqxRnQSNKcKfern_UXJymf9mZJmakqRqefjxKop9KzXunpkKIPT1FKj2gOPsU1xSphRAHzDJ5nrtw9O3apSc3hi95JyQfEM0CeCjroa-8uK3R6YVxRmQQ2WnoHPJwEZ92pVuRnF0TKCEU6ahxf7EdFw9KbREPSO7JWtK5Z2ISAlJ4ZWB9o1wNYPt1C6RY1D0I_ta6Y2w8fmUSoKQRdOfjv2tVbqGDnKfc_pHKRAt2wOZU3Tw083LlNWGk46mjHT3VQ8XRQnvI4WP2LQgD_X1KcykQ_P6BuKSm0b0ihyNKXZeK4vPNOimz-co0UklpWJo437rlMfCbF7JIU18tEgRQo96qo9SMppCukQLlvJaSYl5BiU0qKvEwUSOE2tIsycQR7LxMnUvxSmXj9lTKRUcQ-Dpc1Y7dGV2tH1-sAPrF0lefQwai8WnC62Hbay0lnAL6tHU4Q3wem5d8annUv1Xvxwbo1qADf2xbzIgae78VmdLhZ2aHteDG5MZ3Yjm5cHOLIXPn2jeUR6JoRspnAj7BYM-8i3jV6_NvOb-8b21Y9fDZVnest8DqWw_qGD18c55n7aXjk59aaQ0XvLQ51bzOAxqLeawdNPBvX0WjMhXx_gPf6fnZoYQebyVre-AtHG7xtK2S6Hdn-0nlb9_er-TIWhsmcDJqDN7Mx2U2gLy-4p62SDJ7nOLOKiOPl8PDUdmG4SZgggiLNhQYCIw0sEf1UkHWgUdpqMqb_hGYJQ6Bp2ORVhE2utjIbdqtZbzm8wDEBig9bsS4wJIxE7h_ApyPL"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Applying for Benefits and Your Character of Discharge",
+      "link": "https://www.benefits.va.gov/benefits/character_of_discharge.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.benefits.va.gov/benefits/character_of_discharge.asp&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0QFnoECCIQAQ",
+      "displayed_link": "https://www.benefits.va.gov › benefits › character_of_dis...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUBI1hQaIz-_v_O1eC_x9Vwg6FgdZcRMWLe4-qvucufrMAhPm0xTHdAWoLu8PWPnrZb9tf9AAAAX0lEQVR4AWPAA4QMGJwEgtQYGIrU2ZUYLDQZGDjVGDXZNY0KGNi0uNTYVBcJMHBrcKhz6QgtYGAwujSBT8XoAQND0KSES0_8dBgYDikVfArg0mdg4NBkaDrAqMFABAAAdWkQmYKBiOwAAAAASUVORK5CYII.png",
+      "snippet": "Generally, to receive VA benefits and services, the Veteran's character of discharge or service must be under other than dishonorable conditions.",
+      "snippet_highlighted_words": [
+        "benefits",
+        "discharge",
+        "dishonorable"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Generally, to receive VA benefits and services, the Veteran's character of discharge or service must be under other than dishonorable conditions.",
+          "source_info_link": "https://www.benefits.va.gov/benefits/character_of_discharge.asp",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUBI1hQaIz-_v_O1eC_x9Vwg6FgdZcRMWLe4-qvucufrMAhPm0xTHdAWoLu8PWPnrZb9tf9AAAAX0lEQVR4AWPAA4QMGJwEgtQYGIrU2ZUYLDQZGDjVGDXZNY0KGNi0uNTYVBcJMHBrcKhz6QgtYGAwujSBT8XoAQND0KSES0_8dBgYDikVfArg0mdg4NBkaDrAqMFABAAAdWkQmYKBiOwAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.benefits.va.gov/benefits/character_of_discharge.asp&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.benefits.va.gov%2Fbenefits%2Fcharacter_of_discharge.asp",
+      "source": "Veterans Benefits Administration (.gov)",
+      "read_more_link": "https://www.benefits.va.gov/benefits/character_of_discharge.asp#:~:text=Generally%2C%20to%20receive%20VA%20benefits,honorable%2C%20under%20honorable%20conditions%2C%20general)."
+    },
+    {
+      "position": 2,
+      "title": "Types of Military Discharge and What they Mean for Veterans",
+      "link": "http://lawforveterans.org/work/84-discharge-and-retirement/497-military-discharge",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://lawforveterans.org/work/84-discharge-and-retirement/497-military-discharge&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0QFnoECCEQAQ",
+      "displayed_link": "http://lawforveterans.org › ... › Discharge and Retirement",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA3lBMVEX__P3_-f7-_v_8_v_6_P_5____-fvZz9DVycvc09jc2eCYmKJrbXnf4e18fouEg5Fydn_-9POwpKRjTlO3oqvczNa8tb12eoXAv8_T0d-8vMieoq3_9_p5XmXLsbpaRU7n2-VfXGVKTlmsrru8qqjoz9KjiYyxlptLNDr56vG0uMHItraooanv8_zBydT_-_9ANDinmJ3Asbhrc4D__P_96euReHx4ZGaBcXTOsr5nV1rrztDUwMJqRlDhucKNaG9XQ0RcUlElERP_7PF_XGO5sa83GB6Rf39qZnT3_f9s0c7vAAAA4UlEQVR4AR0QgwEDQSzP2rbfts39B6ruYifwewiKohiOYRhOEEB2yG4P6Q-Go_F4MpkSMJsji-VqPdyMtrvd_vAzHE_ny_V23z8Gg7_h-aJohl0fuMfha8BgxvPMkkKEiShKo8MUA1lRWe2KDDZDXdc3QwKOyHF1vV7Zq2x8_8gAk7dOZ9vhL6uTe7Y8gCNF-Uf-eQzOYRTHJgDiBAnJp70sL6LQ9GZw9K6dWVmCbVa0RT1_EaQyK9O56pjeq05m8CsOYJAGgiA_CdDbcNgMf6_5vhsBLSEbhoy1RIt_b0AQH5R2Hejo75d0AAAAAElFTkSuQmCC.png",
+      "date": "May 5, 2025",
+      "snippet": "Honorable Discharge · Hiring preference for federal jobs, · GI Bill for education, · Home loan assistance, · VA medical benefits, and · Retirement ...",
+      "snippet_highlighted_words": [
+        "Hiring preference for federal jobs"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Honorable Discharge · Hiring preference for federal jobs, · GI Bill for education, · Home loan assistance, · VA medical benefits, and · Retirement ...",
+          "source_info_link": "http://lawforveterans.org/work/84-discharge-and-retirement/497-military-discharge",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA3lBMVEX__P3_-f7-_v_8_v_6_P_5____-fvZz9DVycvc09jc2eCYmKJrbXnf4e18fouEg5Fydn_-9POwpKRjTlO3oqvczNa8tb12eoXAv8_T0d-8vMieoq3_9_p5XmXLsbpaRU7n2-VfXGVKTlmsrru8qqjoz9KjiYyxlptLNDr56vG0uMHItraooanv8_zBydT_-_9ANDinmJ3Asbhrc4D__P_96euReHx4ZGaBcXTOsr5nV1rrztDUwMJqRlDhucKNaG9XQ0RcUlElERP_7PF_XGO5sa83GB6Rf39qZnT3_f9s0c7vAAAA4UlEQVR4AR0QgwEDQSzP2rbfts39B6ruYifwewiKohiOYRhOEEB2yG4P6Q-Go_F4MpkSMJsji-VqPdyMtrvd_vAzHE_ny_V23z8Gg7_h-aJohl0fuMfha8BgxvPMkkKEiShKo8MUA1lRWe2KDDZDXdc3QwKOyHF1vV7Zq2x8_8gAk7dOZ9vhL6uTe7Y8gCNF-Uf-eQzOYRTHJgDiBAnJp70sL6LQ9GZw9K6dWVmCbVa0RT1_EaQyK9O56pjeq05m8CsOYJAGgiA_CdDbcNgMf6_5vhsBLSEbhoy1RIt_b0AQH5R2Hejo75d0AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+http://lawforveterans.org/work/84-discharge-and-retirement/497-military-discharge&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+http%3A%2F%2Flawforveterans.org%2Fwork%2F84-discharge-and-retirement%2F497-military-discharge",
+      "source": "lawforveterans.org",
+      "read_more_link": "http://lawforveterans.org/work/84-discharge-and-retirement/497-military-discharge#:~:text=Honorable%20Discharge&text=Hiring%20preference%20for%20federal%20jobs%2C&text=GI%20Bill%20for%20education%2C&text=Home%20loan%20assistance%2C&text=VA%20medical%20benefits%2C%20and&text=Retirement%20pay%20when%20they%20leave,the%20service."
+    },
+    {
+      "position": 3,
+      "title": "Honorable Discharge: Everything You Need to Know",
+      "link": "https://www.military.com/benefits/military-legal/honorable-discharge-everything-you-need-know.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/benefits/military-legal/honorable-discharge-everything-you-need-know.html&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0QFnoECCgQAQ",
+      "displayed_link": "https://www.military.com › benefits › military-legal › h...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "date": "Oct 3, 2024",
+      "snippet": "These benefits include educational assistance, health care, home loans and more. An honorable discharge means you've met or exceeded the ...",
+      "snippet_highlighted_words": [
+        "educational assistance, health care, home loans and more"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "These benefits include educational assistance, health care, home loans and more. An honorable discharge means you've met or exceeded the ...",
+          "source_info_link": "https://www.military.com/benefits/military-legal/honorable-discharge-everything-you-need-know.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/benefits/military-legal/honorable-discharge-everything-you-need-know.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fbenefits%2Fmilitary-legal%2Fhonorable-discharge-everything-you-need-know.html",
+      "source": "Military.com",
+      "read_more_link": "https://www.military.com/benefits/military-legal/honorable-discharge-everything-you-need-know.html#:~:text=These%20benefits%20include%20educational%20assistance%2C,your%20time%20in%20the%20military."
+    },
+    {
+      "position": 4,
+      "title": "Military Benefits When Your Service is Up",
+      "link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarybenefit.org/get-educated/military-benefits-after-separation/&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0QFnoECCkQAQ",
+      "displayed_link": "https://www.militarybenefit.org › get-educated › military...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png",
+      "snippet": "Veterans with a general discharge (or any discharge other than dishonorable) are generally eligible for VA benefits for housing, health care and disability ...",
+      "snippet_highlighted_words": [
+        "discharge",
+        "discharge",
+        "dishonorable",
+        "benefits"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Veterans with a general discharge (or any discharge other than dishonorable) are generally eligible for VA benefits for housing, health care and disability ...",
+          "source_info_link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarybenefit.org/get-educated/military-benefits-after-separation/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarybenefit.org%2Fget-educated%2Fmilitary-benefits-after-separation%2F",
+      "source": "Military Benefit Association",
+      "read_more_link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/#:~:text=Do%20veterans%20get%20paid%20after"
+    },
+    {
+      "position": 5,
+      "title": "Types of Military Discharges and Their Impact on Benefits",
+      "link": "https://www.patriotslaw.com/blog-posts/types-of-military-discharges-there-impact-on-military-benefits/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.patriotslaw.com/blog-posts/types-of-military-discharges-there-impact-on-military-benefits/&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0QFnoECCMQAQ",
+      "displayed_link": "https://www.patriotslaw.com › Blog",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEVHcEwfNFkdNFwcNF0cNV0cNV4dNVsgM1kYM10UL1tfbYQAJVRPYHurt8GPmqkMK1hteY4AEkt6iJoyRmi8x9CirLnf5Of2-fr-__9Lvvz7AAAACHRSTlMAOIfD6f9gGOIVxlEAAAE7SURBVHgBbJIBjoQgDEVV-WOhAKjgcP-TbhVgZzb7EjHJyy-l6TSYl1UBal3m6S8vhYF6falNgSCQhqChto-KABkmTdbKwUYD84eDNo49WyOHEznsBiH46HYQYXfxCBBqZQWBzmTE3i7V-9XTJ270cdx2dyZFH3Dz6kFo68XmLC5bjRad8UDW3Ta56GtDT08L0BrKj_W5l8UyrS0Zknmyl0ma8LBOCg1uNnFzUBM61CxrdH4lwin2CAk0pBouZpMMn5R4lF1R0SbnmDh5l33oDS1dnjK4_TC8j3cu09xllFzwlhGaw1zHVyfPhJB8QEONwYPtfmPkY4zB1yjnd3lXSuYWFLYqiy_F5VJ8k9vvmrAr71Kuq8jPMb6XiE4b8yU6H_ak4fpq6sB7PHYOmsZqfi11CP8s9c9wZAcAn-0XuDhdudIAAAAASUVORK5CYII.png",
+      "date": "Dec 8, 2025",
+      "snippet": "Fully eligible for VA home loan benefits. · Eligible for VA health care services, including full coverage. · Eligible for educational benefits ...",
+      "snippet_highlighted_words": [
+        "Fully eligible for VA home loan benefits"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Fully eligible for VA home loan benefits. · Eligible for VA health care services, including full coverage. · Eligible for educational benefits ...",
+          "source_info_link": "https://www.patriotslaw.com/blog-posts/types-of-military-discharges-there-impact-on-military-benefits/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEVHcEwfNFkdNFwcNF0cNV0cNV4dNVsgM1kYM10UL1tfbYQAJVRPYHurt8GPmqkMK1hteY4AEkt6iJoyRmi8x9CirLnf5Of2-fr-__9Lvvz7AAAACHRSTlMAOIfD6f9gGOIVxlEAAAE7SURBVHgBbJIBjoQgDEVV-WOhAKjgcP-TbhVgZzb7EjHJyy-l6TSYl1UBal3m6S8vhYF6falNgSCQhqChto-KABkmTdbKwUYD84eDNo49WyOHEznsBiH46HYQYXfxCBBqZQWBzmTE3i7V-9XTJ270cdx2dyZFH3Dz6kFo68XmLC5bjRad8UDW3Ta56GtDT08L0BrKj_W5l8UyrS0Zknmyl0ma8LBOCg1uNnFzUBM61CxrdH4lwin2CAk0pBouZpMMn5R4lF1R0SbnmDh5l33oDS1dnjK4_TC8j3cu09xllFzwlhGaw1zHVyfPhJB8QEONwYPtfmPkY4zB1yjnd3lXSuYWFLYqiy_F5VJ8k9vvmrAr71Kuq8jPMb6XiE4b8yU6H_ak4fpq6sB7PHYOmsZqfi11CP8s9c9wZAcAn-0XuDhdudIAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.patriotslaw.com/blog-posts/types-of-military-discharges-there-impact-on-military-benefits/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.patriotslaw.com%2Fblog-posts%2Ftypes-of-military-discharges-there-impact-on-military-benefits%2F",
+      "source": "Patriots Law",
+      "read_more_link": "https://www.patriotslaw.com/blog-posts/types-of-military-discharges-there-impact-on-military-benefits/#:~:text=VA%20Mortgages%3A%20Fully%20eligible%20for,VA%20home%20loan%20benefits.&text=VA%20Health%20Care%3A%20Eligible%20for,care%20services%2C%20including%20full%20coverage.&text=GI%20Bill%3A%20Eligible%20for%20educational,Bill%20and%20Montgomery%20GI%20Bill."
+    },
+    {
+      "position": 6,
+      "title": "VA Benefits for Types of Military Discharge",
+      "link": "https://www.nolo.com/legal-encyclopedia/eligibility-va-benefits-depending-type-military-discharge.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nolo.com/legal-encyclopedia/eligibility-va-benefits-depending-type-military-discharge.html&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0QFnoECEEQAQ",
+      "displayed_link": "https://www.nolo.com › legal-encyclopedia › eligibility...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEUBMUwALEgAJkQAJUQAGj3X3ODl6esAETkAH0AAGDwAIUJAWGuOmqSXo6wALUk3UGSDkJu5wMbd4uXByM17iZXIztNWanoAFTswS2CyusHQ1tuhqrJjdIP___8AIkJrfIoACzYAKkf09vdLYXMAAC4AI0IKN1Fcb38YPFV6jIx_AAAA3UlEQVR4AdWQRYKDQBAAGxjF3UfR_79w4577pi7tCr-P43rvToQJ9Rj3gzB6jcYuT4IkzXJchEH86Pc5SsosJ1VU06jxHmNt2eWkH0agyHMdEUq4I7tO1RpJcyxgQ281PEabkVwdvvBw6T5GdS5qc86LKl0_lZrJqpye1EYkjibqoZTidBaBc9C8FGvwFLmXOonQS9g3B5XZGtYV2c1cg7yKFkCijQF2ceb2ongXM0dzlKGDbsIK993E4Lp8Z6sDvdjjQ9RDDWcGbqyFOGDLBT6B6J7E1IUvxHEM_58_2s4QPwcrSkQAAAAASUVORK5CYII.png",
+      "date": "Mar 18, 2025",
+      "snippet": "What Benefits Can Honorably Discharged Veterans Get? · disability compensation · health care · education assistance (for example, the GI Bill) ...",
+      "snippet_highlighted_words": [
+        "disability compensation"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Military Discharge Benefits Chart",
+            "link": "https://www.nolo.com/legal-encyclopedia/eligibility-va-benefits-depending-type-military-discharge.html#military-discharge-benefits-chart"
+          },
+          {
+            "title": "Does the VA Give Benefits for...",
+            "link": "https://www.nolo.com/legal-encyclopedia/eligibility-va-benefits-depending-type-military-discharge.html#does-the-va-give-benefits-for-other-than-honorable-discharge"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "What Benefits Can Honorably Discharged Veterans Get? · disability compensation · health care · education assistance (for example, the GI Bill) ...",
+          "source_info_link": "https://www.nolo.com/legal-encyclopedia/eligibility-va-benefits-depending-type-military-discharge.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEUBMUwALEgAJkQAJUQAGj3X3ODl6esAETkAH0AAGDwAIUJAWGuOmqSXo6wALUk3UGSDkJu5wMbd4uXByM17iZXIztNWanoAFTswS2CyusHQ1tuhqrJjdIP___8AIkJrfIoACzYAKkf09vdLYXMAAC4AI0IKN1Fcb38YPFV6jIx_AAAA3UlEQVR4AdWQRYKDQBAAGxjF3UfR_79w4577pi7tCr-P43rvToQJ9Rj3gzB6jcYuT4IkzXJchEH86Pc5SsosJ1VU06jxHmNt2eWkH0agyHMdEUq4I7tO1RpJcyxgQ281PEabkVwdvvBw6T5GdS5qc86LKl0_lZrJqpye1EYkjibqoZTidBaBc9C8FGvwFLmXOonQS9g3B5XZGtYV2c1cg7yKFkCijQF2ceb2ongXM0dzlKGDbsIK993E4Lp8Z6sDvdjjQ9RDDWcGbqyFOGDLBT6B6J7E1IUvxHEM_58_2s4QPwcrSkQAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.nolo.com/legal-encyclopedia/eligibility-va-benefits-depending-type-military-discharge.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nolo.com%2Flegal-encyclopedia%2Feligibility-va-benefits-depending-type-military-discharge.html",
+      "source": "Nolo",
+      "read_more_link": "https://www.nolo.com/legal-encyclopedia/eligibility-va-benefits-depending-type-military-discharge.html#:~:text=What%20Benefits%20Can%20Honorably%20Discharged,Veterans%20Get%3F&text=disability%20compensation&text=health%20care&text=education%20assistance%20(for%20example%2C%20the,GI%20Bill)"
+    },
+    {
+      "position": 7,
+      "title": "Who Is Eligible for Veterans Benefits?",
+      "link": "https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0QFnoECDwQAQ",
+      "displayed_link": "https://veteransaidbenefit.org › who-is-eligible-for-vetera...",
+      "snippet": "To be eligible for veterans benefits the applicant must meet the definition of a veteran or the survivor of a veteran.",
+      "snippet_highlighted_words": [
+        "benefits"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "To be eligible for veterans benefits the applicant must meet the definition of a veteran or the survivor of a veteran.",
+          "source_info_link": "https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fveteransaidbenefit.org%2Fwho-is-eligible-for-veterans-benefits.htm",
+      "source": "The Senior Veterans Service Alliance"
+    },
+    {
+      "position": 8,
+      "title": "Ask a Military Defender About Honorable Discharge",
+      "link": "https://militarycriminaldefender.com/ask-a-military-defender-what-are-the-benefits-of-honorable-discharge/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarycriminaldefender.com/ask-a-military-defender-what-are-the-benefits-of-honorable-discharge/&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0QFnoECDoQAQ",
+      "displayed_link": "https://militarycriminaldefender.com › Blog",
+      "date": "May 31, 2026",
+      "snippet": "What Benefits Do I Get With Honorable Discharge? · Disability Compensation · Veteran's pension programs · Free or low-cost medical care through VA ...",
+      "snippet_highlighted_words": [
+        "Disability Compensation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What Benefits Do I Get With Honorable Discharge? · Disability Compensation · Veteran's pension programs · Free or low-cost medical care through VA ...",
+          "source_info_link": "https://militarycriminaldefender.com/ask-a-military-defender-what-are-the-benefits-of-honorable-discharge/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarycriminaldefender.com/ask-a-military-defender-what-are-the-benefits-of-honorable-discharge/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarycriminaldefender.com%2Fask-a-military-defender-what-are-the-benefits-of-honorable-discharge%2F",
+      "source": "militarycriminaldefender.com",
+      "read_more_link": "https://militarycriminaldefender.com/ask-a-military-defender-what-are-the-benefits-of-honorable-discharge/#:~:text=What%20Benefits%20Do%20I%20Get,With%20Honorable%20Discharge%3F&text=Disability%20Compensation&text=Veteran's%20pension%20programs&text=Free%20or%20low%2Dcost%20medical%20care,VA%20hospitals%20and%20medical%20facilities"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military discharge benefits CHART",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Military+discharge+benefits+CHART&sa=X&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Military+discharge+benefits+CHART"
+    },
+    {
+      "block_position": 1,
+      "query": "What are the 5 types of military discharges",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=What+are+the+5+types+of+military+discharges&sa=X&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+5+types+of+military+discharges"
+    },
+    {
+      "block_position": 1,
+      "query": "Honorable discharge benefits for family",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Honorable+discharge+benefits+for+family&sa=X&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Honorable+discharge+benefits+for+family"
+    },
+    {
+      "block_position": 1,
+      "query": "Under honorable discharge",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Under+honorable+discharge&sa=X&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Under+honorable+discharge"
+    },
+    {
+      "block_position": 1,
+      "query": "Honorable discharge reasons",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Honorable+discharge+reasons&sa=X&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Honorable+discharge+reasons"
+    },
+    {
+      "block_position": 1,
+      "query": "General discharge under honorable conditions Pros and Cons",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=General+discharge+under+honorable+conditions+Pros+and+Cons&sa=X&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=General+discharge+under+honorable+conditions+Pros+and+Cons"
+    },
+    {
+      "block_position": 1,
+      "query": "Dishonorable discharge",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Dishonorable+discharge&sa=X&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Dishonorable+discharge"
+    },
+    {
+      "block_position": 1,
+      "query": "Military dishonorable discharge list",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Military+dishonorable+discharge+list&sa=X&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Military+dishonorable+discharge+list"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+benefits+after+honorable+discharge&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=YCI6apftJY-P9u8Pg9OW6QM&start=10&sa=N&sstk=AU9db-BINZXKl6zfD8-cqr7zU288DixA-XoPJqYaZkVsBCOawOPMMoWywkAk_1CBfLYX80ekifpeKYp-4fhlNd3chOl_D-_AR2K4sQ&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q8NMDegQIMBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+benefits+after+honorable+discharge&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=YCI6apftJY-P9u8Pg9OW6QM&start=10&sa=N&sstk=AU9db-BINZXKl6zfD8-cqr7zU288DixA-XoPJqYaZkVsBCOawOPMMoWywkAk_1CBfLYX80ekifpeKYp-4fhlNd3chOl_D-_AR2K4sQ&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q8tMDegQIMBAE",
+      "3": "https://www.google.com/search?q=military+benefits+after+honorable+discharge&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=YCI6apftJY-P9u8Pg9OW6QM&start=20&sa=N&sstk=AU9db-BINZXKl6zfD8-cqr7zU288DixA-XoPJqYaZkVsBCOawOPMMoWywkAk_1CBfLYX80ekifpeKYp-4fhlNd3chOl_D-_AR2K4sQ&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q8tMDegQIMBAG",
+      "4": "https://www.google.com/search?q=military+benefits+after+honorable+discharge&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=YCI6apftJY-P9u8Pg9OW6QM&start=30&sa=N&sstk=AU9db-BINZXKl6zfD8-cqr7zU288DixA-XoPJqYaZkVsBCOawOPMMoWywkAk_1CBfLYX80ekifpeKYp-4fhlNd3chOl_D-_AR2K4sQ&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q8tMDegQIMBAI",
+      "5": "https://www.google.com/search?q=military+benefits+after+honorable+discharge&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=YCI6apftJY-P9u8Pg9OW6QM&start=40&sa=N&sstk=AU9db-BINZXKl6zfD8-cqr7zU288DixA-XoPJqYaZkVsBCOawOPMMoWywkAk_1CBfLYX80ekifpeKYp-4fhlNd3chOl_D-_AR2K4sQ&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q8tMDegQIMBAK",
+      "6": "https://www.google.com/search?q=military+benefits+after+honorable+discharge&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=YCI6apftJY-P9u8Pg9OW6QM&start=50&sa=N&sstk=AU9db-BINZXKl6zfD8-cqr7zU288DixA-XoPJqYaZkVsBCOawOPMMoWywkAk_1CBfLYX80ekifpeKYp-4fhlNd3chOl_D-_AR2K4sQ&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q8tMDegQIMBAM",
+      "7": "https://www.google.com/search?q=military+benefits+after+honorable+discharge&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=YCI6apftJY-P9u8Pg9OW6QM&start=60&sa=N&sstk=AU9db-BINZXKl6zfD8-cqr7zU288DixA-XoPJqYaZkVsBCOawOPMMoWywkAk_1CBfLYX80ekifpeKYp-4fhlNd3chOl_D-_AR2K4sQ&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q8tMDegQIMBAO",
+      "8": "https://www.google.com/search?q=military+benefits+after+honorable+discharge&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=YCI6apftJY-P9u8Pg9OW6QM&start=70&sa=N&sstk=AU9db-BINZXKl6zfD8-cqr7zU288DixA-XoPJqYaZkVsBCOawOPMMoWywkAk_1CBfLYX80ekifpeKYp-4fhlNd3chOl_D-_AR2K4sQ&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q8tMDegQIMBAQ",
+      "9": "https://www.google.com/search?q=military+benefits+after+honorable+discharge&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=YCI6apftJY-P9u8Pg9OW6QM&start=80&sa=N&sstk=AU9db-BINZXKl6zfD8-cqr7zU288DixA-XoPJqYaZkVsBCOawOPMMoWywkAk_1CBfLYX80ekifpeKYp-4fhlNd3chOl_D-_AR2K4sQ&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q8tMDegQIMBAS",
+      "10": "https://www.google.com/search?q=military+benefits+after+honorable+discharge&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=YCI6apftJY-P9u8Pg9OW6QM&start=90&sa=N&sstk=AU9db-BINZXKl6zfD8-cqr7zU288DixA-XoPJqYaZkVsBCOawOPMMoWywkAk_1CBfLYX80ekifpeKYp-4fhlNd3chOl_D-_AR2K4sQ&ved=2ahUKEwiXnbv42JyVAxWPh_0HHYOpJT0Q8tMDegQIMBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+after+honorable+discharge&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+after+honorable+discharge&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+after+honorable+discharge&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+after+honorable+discharge&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+after+honorable+discharge&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+after+honorable+discharge&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+after+honorable+discharge&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+after+honorable+discharge&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+after+honorable+discharge&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+after+honorable+discharge&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+after+honorable+discharge&start=90"
+    }
+  }
+}

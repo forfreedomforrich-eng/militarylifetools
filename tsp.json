@@ -1,0 +1,444 @@
+{
+  "search_metadata": {
+    "id": "6a3a20d4f5c2f81622733aa7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/iVGSX9S0UjlZxoT3Cgazhg/6a3a20d4f5c2f81622733aa7.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/iVGSX9S0UjlZxoT3Cgazhg/6a3a20d4f5c2f81622733aa7.json_with_pixel_position",
+    "created_at": "2026-06-23 05:59:48 UTC",
+    "processed_at": "2026-06-23 05:59:48 UTC",
+    "google_url": "https://www.google.com/search?q=military+TSP+calculator+thrift+savings&oq=military+TSP+calculator+thrift+savings&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/iVGSX9S0UjlZxoT3Cgazhg/6a3a20d4f5c2f81622733aa7.html",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military TSP calculator thrift savings",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military TSP calculator thrift savings",
+    "total_results": 135,
+    "time_taken_displayed": 0.17,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Calculators for Thrift Savings Plan | Planning Retirement | TSP ...",
+      "link": "https://www.youtube.com/watch?v=mLofyfzBJk0",
+      "thumbnail": "https://serpapi.com/searches/6a3a20d4f5c2f81622733aa7/images/tIx86HVDMZTfWw5xr0RJBa6GcrnDxNfAy4-5ZVwneVE.jpeg",
+      "channel": "U.S. Dept. of Veterans Affairs",
+      "duration": "2:24",
+      "platform": "YouTube",
+      "date": "Jun 6, 2023",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT_CvSvFootz60il-gn53-rjklv-VNx32zhMw"
+    },
+    {
+      "position": 2,
+      "title": "TSP Calculator You Need for Retirement",
+      "link": "https://www.youtube.com/watch?v=gUfVS0yq-gs",
+      "thumbnail": "https://serpapi.com/searches/6a3a20d4f5c2f81622733aa7/images/hX1oLrBjwEYZ4u0qC0RqeNv1gw5pyN2ZTRvd0cOSHtM.jpeg",
+      "channel": "FIRE Psy Chat",
+      "duration": "5:22",
+      "platform": "YouTube",
+      "date": "Jun 10, 2024"
+    },
+    {
+      "position": 3,
+      "title": "TSP Calculator by Age (Full Tutorial) | $1 Million Retirement ...",
+      "link": "https://www.youtube.com/watch?v=jhQilMiTUiQ",
+      "thumbnail": "https://serpapi.com/searches/6a3a20d4f5c2f81622733aa7/images/-TOMwx5BifIM_0nG2vyLXUirs8GSPV1FME3GHD12p7U.jpeg",
+      "channel": "FIRE Psy Chat",
+      "duration": "12:25",
+      "platform": "YouTube",
+      "date": "Apr 11, 2023",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Retiring Early at Age 44",
+          "link": "https://www.youtube.com/watch?v=jhQilMiTUiQ&t=0"
+        },
+        {
+          "time": "04:38",
+          "title": "Retiring at Age 55",
+          "link": "https://www.youtube.com/watch?v=jhQilMiTUiQ&t=278"
+        },
+        {
+          "time": "08:25",
+          "title": "Maxing out TSP",
+          "link": "https://www.youtube.com/watch?v=jhQilMiTUiQ&t=505"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How much will my TSP pay per month?",
+      "type": "ai_overview",
+      "page_token": "coiBinicHdBRbpswGABg7TJ9bLDTZFqkqBKJCdCW1D_5DfhlApOEEjs4LSnEb7vLTtXTdNoJPun781e_nU9fPz6bvrcfi8lkGIb7Y9cd9f5edWZSftzOaqJKratSnRbzn3PyeFBLdo381SXyOVor1uClbQBJGzju1JhMcYZ5wiCsCc-kqDLSALVRgeNlpyMqQ-4hra9lJp-LGxm3oonA9JvU-VdofS_bEFQpWWH-QrGNDyLTsPNsUq9I_s962hvI0B2pcnG4ZxZSGlugMn3J44fK1BoQLpXBQTEZoOnnhWleOcp1vZmRrQhcgeRBBTGtSRJh2A14Suxew1V4Mwk70RSe9FmjRu4xWuTiWeLsdcfgHZnm1QbyNCVQjd0bR3Cq1QY97tI23lY3spYr8lQ6325zn1Va-In4dYaQT-vh7qA-l9O7_5_L3wfTL-x7d_wGZtGB7w",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=coiBinicHdBRbpswGABg7TJ9bLDTZFqkqBKJCdCW1D_5DfhlApOEEjs4LSnEb7vLTtXTdNoJPun781e_nU9fPz6bvrcfi8lkGIb7Y9cd9f5edWZSftzOaqJKratSnRbzn3PyeFBLdo381SXyOVor1uClbQBJGzju1JhMcYZ5wiCsCc-kqDLSALVRgeNlpyMqQ-4hra9lJp-LGxm3oonA9JvU-VdofS_bEFQpWWH-QrGNDyLTsPNsUq9I_s962hvI0B2pcnG4ZxZSGlugMn3J44fK1BoQLpXBQTEZoOnnhWleOcp1vZmRrQhcgeRBBTGtSRJh2A14Suxew1V4Mwk70RSe9FmjRu4xWuTiWeLsdcfgHZnm1QbyNCVQjd0bR3Cq1QY97tI23lY3spYr8lQ6325zn1Va-In4dYaQT-vh7qA-l9O7_5_L3wfTL-x7d_wGZtGB7w",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpsRlNlakJVZWxGQlgwUjVTRGxDWWxaeFdrRlhYMWhUZFhwRlZVWldZbTQwVmxkak4wSkZkM2RTWDNRMmQySjJSMjlaVVhReVJWUlplRGM1Vm5OelQyZG9ZMnRhWjJOU2EzaDNORU5pUjB4WllqUjFWbWQ1V25GbVFSSVhNVU5CTm1GMVMyVk9UMHhFYTFCSlVHeGtWMGt0VVc4YUlrRkVjM0k1WmxJMFVuVnlTbkZmYTNwSWRuaE1TVVZuVDNCT2F6RkVVV1EyYTJjIiwiZmN2IjoiMyIsImVpIjoiMUNBNmF1S2VOT0xEa1BJUGxkV0ktUW8iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjBjM0FnWTJGc1kzVnNZWFJ2Y2lCMGFISnBablFnYzJGMmFXNW5jeEFBZlZ1U01EOCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggd2lsbCBteSBUU1AgcGF5IHBlciBtb250aD8iLCJsayI6IkdpSm9iM2NnYlhWamFDQjNhV3hzSUcxNUlIUnpjQ0J3WVhrZ2NHVnlJRzF2Ym5SbyIsImJzIjoiYzIzUHV3ckNRQlFFVUd5M3NnNGF4MWNmQTlaQmJBdzJnb0wxRXFOM1lSOWhjMlhKMzVzRVJTTDJaNFlaY1JUTGd3c3d6NElRbE5Zd0RTN25FeXJab0NvOWpMTk1XYnFLRnZUTHVLNkdUT3pGUEtfN2VIQ2VDWXB4ZHg1TUpZelNpcVZ2c2pTT0pxcnV3d1AwQVdJbjRtNlJkdmFCcDJXbC0wSWp1YUN5eG5hZHBiTm9Ta1BSdFgyRmFFOWRxYlFvcEVYZTdtVzZlUm13U1pJMTNQMTlzVDhWUGt6OVpXM3ZlUFFDIiwiaWQiOiJmY18xQ0E2YXVLZU5PTERrUElQbGRXSS1Rb181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpsRlNlakJVZWxGQlgwUjVTRGxDWWxaeFdrRlhYMWhUZFhwRlZVWldZbTQwVmxkak4wSkZkM2RTWDNRMmQySjJSMjlaVVhReVJWUlplRGM1Vm5OelQyZG9ZMnRhWjJOU2EzaDNORU5pUjB4WllqUjFWbWQ1V25GbVFSSVhNVU5CTm1GMVMyVk9UMHhFYTFCSlVHeGtWMGt0VVc4YUlrRkVjM0k1WmxJMFVuVnlTbkZmYTNwSWRuaE1TVVZuVDNCT2F6RkVVV1EyYTJjIiwiZmN2IjoiMyIsImVpIjoiMUNBNmF1S2VOT0xEa1BJUGxkV0ktUW8iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjBjM0FnWTJGc1kzVnNZWFJ2Y2lCMGFISnBablFnYzJGMmFXNW5jeEFBZlZ1U01EOCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggd2lsbCBteSBUU1AgcGF5IHBlciBtb250aD8iLCJsayI6IkdpSm9iM2NnYlhWamFDQjNhV3hzSUcxNUlIUnpjQ0J3WVhrZ2NHVnlJRzF2Ym5SbyIsImJzIjoiYzIzUHV3ckNRQlFFVUd5M3NnNGF4MWNmQTlaQmJBdzJnb0wxRXFOM1lSOWhjMlhKMzVzRVJTTDJaNFlaY1JUTGd3c3d6NElRbE5Zd0RTN25FeXJab0NvOWpMTk1XYnFLRnZUTHVLNkdUT3pGUEtfN2VIQ2VDWXB4ZHg1TUpZelNpcVZ2c2pTT0pxcnV3d1AwQVdJbjRtNlJkdmFCcDJXbC0wSWp1YUN5eG5hZHBiTm9Ta1BSdFgyRmFFOWRxYlFvcEVYZTdtVzZlUm13U1pJMTNQMTlzVDhWUGt6OVpXM3ZlUFFDIiwiaWQiOiJmY18xQ0E2YXVLZU5PTERrUElQbGRXSS1Rb181In0%3D"
+    },
+    {
+      "question": "Is TSP worth it for the military?",
+      "type": "ai_overview",
+      "page_token": "-i-UQXicHdBdcqowGADQ6Wb6WIOoHZ1xOqMQqkVaAvmQvNwJiRohCalSf3jrXrqqrubeuUs45_tHH23z-3BRXefOs8Hger0-Hdr2oHdPojUDfr5bMRBc64qLZjZ5nngvezEPv1aL5edqkVLnICAo0wkrkTrmdDqCYK1k5AJZMy31esQQrhMLnNvNPb17mvX6gw6n3a7WvcRsGedqA9ghsEBlL0aZ0XFcdLqIWFghOorz5l4FMCnsyhc1OwmdRFWI98JIww1zIlCXsrlRPsRot3V-HkEsrTtzhCckWLgEY1P68Cb6BGWgPoGC4ks0ZnhhZLAG2eOcRJ1Xeu5avYZ9WRASKnFLUTgstxAzOv7IQ3KioU6riGyzzCPVrT2mlPSi1oZatSwMNNAzAwgygpPin_8dNPMZmvoboy1NH_fiMvcf_3_O_-xNN3On9vAXVHqEdg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-i-UQXicHdBdcqowGADQ6Wb6WIOoHZ1xOqMQqkVaAvmQvNwJiRohCalSf3jrXrqqrubeuUs45_tHH23z-3BRXefOs8Hger0-Hdr2oHdPojUDfr5bMRBc64qLZjZ5nngvezEPv1aL5edqkVLnICAo0wkrkTrmdDqCYK1k5AJZMy31esQQrhMLnNvNPb17mvX6gw6n3a7WvcRsGedqA9ghsEBlL0aZ0XFcdLqIWFghOorz5l4FMCnsyhc1OwmdRFWI98JIww1zIlCXsrlRPsRot3V-HkEsrTtzhCckWLgEY1P68Cb6BGWgPoGC4ks0ZnhhZLAG2eOcRJ1Xeu5avYZ9WRASKnFLUTgstxAzOv7IQ3KioU6riGyzzCPVrT2mlPSi1oZatSwMNNAzAwgygpPin_8dNPMZmvoboy1NH_fiMvcf_3_O_-xNN3On9vAXVHqEdg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpsRlNlakJVZWxGQlgwUjVTRGxDWWxaeFdrRlhYMWhUZFhwRlZVWldZbTQwVmxkak4wSkZkM2RTWDNRMmQySjJSMjlaVVhReVJWUlplRGM1Vm5OelQyZG9ZMnRhWjJOU2EzaDNORU5pUjB4WllqUjFWbWQ1V25GbVFSSVhNVU5CTm1GMVMyVk9UMHhFYTFCSlVHeGtWMGt0VVc4YUlrRkVjM0k1WmxJMFVuVnlTbkZmYTNwSWRuaE1TVVZuVDNCT2F6RkVVV1EyYTJjIiwiZmN2IjoiMyIsImVpIjoiMUNBNmF1S2VOT0xEa1BJUGxkV0ktUW8iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjBjM0FnWTJGc1kzVnNZWFJ2Y2lCMGFISnBablFnYzJGMmFXNW5jeEFBZlZ1U01EOCIsInF1ZXN0aW9uIjoiSXMgVFNQIHdvcnRoIGl0IGZvciB0aGUgbWlsaXRhcnk/IiwibGsiOiJHaHhwY3lCMGMzQWdkMjl5ZEdnZ2FYUWdabTl5SUcxcGJHbDBZWEo1IiwiYnMiOiJjMjNQdXdyQ1FCUUVVR3kzc2c0YXgxY2ZBOVpCYkF3MmdvTDFFcU4zWVI5aGMyWEozNXNFUlNMMlo0WVpjUlRMZ3dzd3o0SVFsTll3RFM3bkV5clpvQ285akxOTVdicUtGdlRMdUs2R1RPekZQS183ZUhDZUNZcHhkeDVNSll6U2lxVnZzalNPSnFydXd3UDBBV0luNG02UmR2YUJwMldsLTBJanVhQ3l4bmFkcGJOb1NrUFJ0WDJGYUU5ZHFiUW9wRVhlN21XNmVSbXdTWkkxM1AxOXNUOFZQa3o5WlczdmVQUUMiLCJpZCI6ImZjXzFDQTZhdUtlTk9MRGtQSVBsZFdJLVFvXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpsRlNlakJVZWxGQlgwUjVTRGxDWWxaeFdrRlhYMWhUZFhwRlZVWldZbTQwVmxkak4wSkZkM2RTWDNRMmQySjJSMjlaVVhReVJWUlplRGM1Vm5OelQyZG9ZMnRhWjJOU2EzaDNORU5pUjB4WllqUjFWbWQ1V25GbVFSSVhNVU5CTm1GMVMyVk9UMHhFYTFCSlVHeGtWMGt0VVc4YUlrRkVjM0k1WmxJMFVuVnlTbkZmYTNwSWRuaE1TVVZuVDNCT2F6RkVVV1EyYTJjIiwiZmN2IjoiMyIsImVpIjoiMUNBNmF1S2VOT0xEa1BJUGxkV0ktUW8iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjBjM0FnWTJGc1kzVnNZWFJ2Y2lCMGFISnBablFnYzJGMmFXNW5jeEFBZlZ1U01EOCIsInF1ZXN0aW9uIjoiSXMgVFNQIHdvcnRoIGl0IGZvciB0aGUgbWlsaXRhcnk%2FIiwibGsiOiJHaHhwY3lCMGMzQWdkMjl5ZEdnZ2FYUWdabTl5SUcxcGJHbDBZWEo1IiwiYnMiOiJjMjNQdXdyQ1FCUUVVR3kzc2c0YXgxY2ZBOVpCYkF3MmdvTDFFcU4zWVI5aGMyWEozNXNFUlNMMlo0WVpjUlRMZ3dzd3o0SVFsTll3RFM3bkV5clpvQ285akxOTVdicUtGdlRMdUs2R1RPekZQS183ZUhDZUNZcHhkeDVNSll6U2lxVnZzalNPSnFydXd3UDBBV0luNG02UmR2YUJwMldsLTBJanVhQ3l4bmFkcGJOb1NrUFJ0WDJGYUU5ZHFiUW9wRVhlN21XNmVSbXdTWkkxM1AxOXNUOFZQa3o5WlczdmVQUUMiLCJpZCI6ImZjXzFDQTZhdUtlTk9MRGtQSVBsZFdJLVFvXzUifQ%3D%3D"
+    },
+    {
+      "question": "How long until TSP matches 5%?",
+      "type": "ai_overview",
+      "page_token": "kOVnxXicHdBdboIwAADg7DI-CkVxwcQsQf5GpIaWttCXBVsRR_lRiAhvu8tOtdNs2QW-h-_rW12b6uclLYeh67eaNo7j8tK2F3VeirbW8n5qhCZypU65qLab1w14K8TO7Ud73452TLqOOkjHoNtkOuWsLkPi8DXxZY11E5-bMMCsOwqVPXNKbehDVxrAyxsFZaocaJQJneknB6XKUh6JQJhkVRZwRmGUqJJW_MYBKkjAkwONzIhZRlxDFSd8YkQOrKmmrEImdtHM6k5HxvuUe5JRwPGJIjfXPSVINUaMh5iYOHHIiiT8ThXB3uw5f04pyaCSyoqQP8SY2j33ZHig3sO_hjYK4HRknGRpuUckHuVsP4gK71BZOGbRM1HWWgL7BgFtFoV47FaL_7HdR1EP2-7eXn4BfCl5OQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kOVnxXicHdBdboIwAADg7DI-CkVxwcQsQf5GpIaWttCXBVsRR_lRiAhvu8tOtdNs2QW-h-_rW12b6uclLYeh67eaNo7j8tK2F3VeirbW8n5qhCZypU65qLab1w14K8TO7Ud73452TLqOOkjHoNtkOuWsLkPi8DXxZY11E5-bMMCsOwqVPXNKbehDVxrAyxsFZaocaJQJneknB6XKUh6JQJhkVRZwRmGUqJJW_MYBKkjAkwONzIhZRlxDFSd8YkQOrKmmrEImdtHM6k5HxvuUe5JRwPGJIjfXPSVINUaMh5iYOHHIiiT8ThXB3uw5f04pyaCSyoqQP8SY2j33ZHig3sO_hjYK4HRknGRpuUckHuVsP4gK71BZOGbRM1HWWgL7BgFtFoV47FaL_7HdR1EP2-7eXn4BfCl5OQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpsRlNlakJVZWxGQlgwUjVTRGxDWWxaeFdrRlhYMWhUZFhwRlZVWldZbTQwVmxkak4wSkZkM2RTWDNRMmQySjJSMjlaVVhReVJWUlplRGM1Vm5OelQyZG9ZMnRhWjJOU2EzaDNORU5pUjB4WllqUjFWbWQ1V25GbVFSSVhNVU5CTm1GMVMyVk9UMHhFYTFCSlVHeGtWMGt0VVc4YUlrRkVjM0k1WmxJMFVuVnlTbkZmYTNwSWRuaE1TVVZuVDNCT2F6RkVVV1EyYTJjIiwiZmN2IjoiMyIsImVpIjoiMUNBNmF1S2VOT0xEa1BJUGxkV0ktUW8iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjBjM0FnWTJGc1kzVnNZWFJ2Y2lCMGFISnBablFnYzJGMmFXNW5jeEFBZlZ1U01EOCIsInF1ZXN0aW9uIjoiSG93IGxvbmcgdW50aWwgVFNQIG1hdGNoZXMgNSU/IiwibGsiOiJHaDFvYjNjZ2JHOXVaeUIxYm5ScGJDQjBjM0FnYldGMFkyaGxjeUExSlEiLCJicyI6ImMyM1B1d3JDUUJRRVVHeTNzZzRheDFjZkE5WkJiQXcyZ29MMUVxTjNZUjloYzJYSjM1c0VSU0wyWjRZWmNSVExnd3N3ejRJUWxOWXdEUzduRXlyWm9DbzlqTE5NV2JxS0Z2VEx1SzZHVE96RlBLXzdlSENlQ1lweGR4NU1KWXpTaXFWdnNqU09KcXJ1d3dQMEFXSW40bTZSZHZhQnAyV2wtMElqdWFDeXhuYWRwYk5vU2tQUnRYMkZhRTlkcWJRb3BFWGU3bVc2ZVJtd1NaSTEzUDE5c1Q4VlBrejlaVzN2ZVBRQyIsImlkIjoiZmNfMUNBNmF1S2VOT0xEa1BJUGxkV0ktUW9fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpsRlNlakJVZWxGQlgwUjVTRGxDWWxaeFdrRlhYMWhUZFhwRlZVWldZbTQwVmxkak4wSkZkM2RTWDNRMmQySjJSMjlaVVhReVJWUlplRGM1Vm5OelQyZG9ZMnRhWjJOU2EzaDNORU5pUjB4WllqUjFWbWQ1V25GbVFSSVhNVU5CTm1GMVMyVk9UMHhFYTFCSlVHeGtWMGt0VVc4YUlrRkVjM0k1WmxJMFVuVnlTbkZmYTNwSWRuaE1TVVZuVDNCT2F6RkVVV1EyYTJjIiwiZmN2IjoiMyIsImVpIjoiMUNBNmF1S2VOT0xEa1BJUGxkV0ktUW8iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjBjM0FnWTJGc1kzVnNZWFJ2Y2lCMGFISnBablFnYzJGMmFXNW5jeEFBZlZ1U01EOCIsInF1ZXN0aW9uIjoiSG93IGxvbmcgdW50aWwgVFNQIG1hdGNoZXMgNSU%2FIiwibGsiOiJHaDFvYjNjZ2JHOXVaeUIxYm5ScGJDQjBjM0FnYldGMFkyaGxjeUExSlEiLCJicyI6ImMyM1B1d3JDUUJRRVVHeTNzZzRheDFjZkE5WkJiQXcyZ29MMUVxTjNZUjloYzJYSjM1c0VSU0wyWjRZWmNSVExnd3N3ejRJUWxOWXdEUzduRXlyWm9DbzlqTE5NV2JxS0Z2VEx1SzZHVE96RlBLXzdlSENlQ1lweGR4NU1KWXpTaXFWdnNqU09KcXJ1d3dQMEFXSW40bTZSZHZhQnAyV2wtMElqdWFDeXhuYWRwYk5vU2tQUnRYMkZhRTlkcWJRb3BFWGU3bVc2ZVJtd1NaSTEzUDE5c1Q4VlBrejlaVzN2ZVBRQyIsImlkIjoiZmNfMUNBNmF1S2VOT0xEa1BJUGxkV0ktUW9fNSJ9"
+    },
+    {
+      "question": "When can I withdraw 100% of my TSP?",
+      "type": "ai_overview",
+      "page_token": "Uuu4GnicHdBdboIwAADg7DI-SgF10cQsYZSq0Wp_FV4WKCKOIqgohbfdZafaabbsBl--r299vhQ_L8-8aer7zLLath2equqkj0NVlVZ87y7KUrHWSayK2eR1Yr9lag4fS-_9uvSIqGvpU8BRvqZOAzCsDJMePorx4wgjIkt6VoUxCRg3qaZMBpG7R8EiAg3ikm73MC8xxIs4iJgozIihESAc95yvXIGajvkB2uhiREXgxWDjiB6jtLO3yUE5m3IaSx-HCtnt8VKDVHq2LOwrL-o2lHXFg3qN99Me73NBCgPFJVqR3mvDEnSxWGWJIE6E0jvu0x3to5GwaUYPKUt9TGGuDAHQCQ9yHYnxjkN6E1CTBNEDYzZNTHUmgvbqU5d_hmdoKzfl0Il9aRgIzVaELvXzbC31dbOQgJBBpp5zd_D_Of_IymZW36rTL6qfgoo",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Uuu4GnicHdBdboIwAADg7DI-SgF10cQsYZSq0Wp_FV4WKCKOIqgohbfdZafaabbsBl--r299vhQ_L8-8aer7zLLath2equqkj0NVlVZ87y7KUrHWSayK2eR1Yr9lag4fS-_9uvSIqGvpU8BRvqZOAzCsDJMePorx4wgjIkt6VoUxCRg3qaZMBpG7R8EiAg3ikm73MC8xxIs4iJgozIihESAc95yvXIGajvkB2uhiREXgxWDjiB6jtLO3yUE5m3IaSx-HCtnt8VKDVHq2LOwrL-o2lHXFg3qN99Me73NBCgPFJVqR3mvDEnSxWGWJIE6E0jvu0x3to5GwaUYPKUt9TGGuDAHQCQ9yHYnxjkN6E1CTBNEDYzZNTHUmgvbqU5d_hmdoKzfl0Il9aRgIzVaELvXzbC31dbOQgJBBpp5zd_D_Of_IymZW36rTL6qfgoo",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpsRlNlakJVZWxGQlgwUjVTRGxDWWxaeFdrRlhYMWhUZFhwRlZVWldZbTQwVmxkak4wSkZkM2RTWDNRMmQySjJSMjlaVVhReVJWUlplRGM1Vm5OelQyZG9ZMnRhWjJOU2EzaDNORU5pUjB4WllqUjFWbWQ1V25GbVFSSVhNVU5CTm1GMVMyVk9UMHhFYTFCSlVHeGtWMGt0VVc4YUlrRkVjM0k1WmxJMFVuVnlTbkZmYTNwSWRuaE1TVVZuVDNCT2F6RkVVV1EyYTJjIiwiZmN2IjoiMyIsImVpIjoiMUNBNmF1S2VOT0xEa1BJUGxkV0ktUW8iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjBjM0FnWTJGc1kzVnNZWFJ2Y2lCMGFISnBablFnYzJGMmFXNW5jeEFBZlZ1U01EOCIsInF1ZXN0aW9uIjoiV2hlbiBjYW4gSSB3aXRoZHJhdyAxMDAlIG9mIG15IFRTUD8iLCJsayI6IkdpSjNhR1Z1SUdOaGJpQnBJSGRwZEdoa2NtRjNJREV3TUNVZ2IyWWdiWGtnZEhOdyIsImJzIjoiYzIzUHV3ckNRQlFFVUd5M3NnNGF4MWNmQTlaQmJBdzJnb0wxRXFOM1lSOWhjMlhKMzVzRVJTTDJaNFlaY1JUTGd3c3d6NElRbE5Zd0RTN25FeXJab0NvOWpMTk1XYnFLRnZUTHVLNkdUT3pGUEtfN2VIQ2VDWXB4ZHg1TUpZelNpcVZ2c2pTT0pxcnV3d1AwQVdJbjRtNlJkdmFCcDJXbC0wSWp1YUN5eG5hZHBiTm9Ta1BSdFgyRmFFOWRxYlFvcEVYZTdtVzZlUm13U1pJMTNQMTlzVDhWUGt6OVpXM3ZlUFFDIiwiaWQiOiJmY18xQ0E2YXVLZU5PTERrUElQbGRXSS1Rb181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpsRlNlakJVZWxGQlgwUjVTRGxDWWxaeFdrRlhYMWhUZFhwRlZVWldZbTQwVmxkak4wSkZkM2RTWDNRMmQySjJSMjlaVVhReVJWUlplRGM1Vm5OelQyZG9ZMnRhWjJOU2EzaDNORU5pUjB4WllqUjFWbWQ1V25GbVFSSVhNVU5CTm1GMVMyVk9UMHhFYTFCSlVHeGtWMGt0VVc4YUlrRkVjM0k1WmxJMFVuVnlTbkZmYTNwSWRuaE1TVVZuVDNCT2F6RkVVV1EyYTJjIiwiZmN2IjoiMyIsImVpIjoiMUNBNmF1S2VOT0xEa1BJUGxkV0ktUW8iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjBjM0FnWTJGc1kzVnNZWFJ2Y2lCMGFISnBablFnYzJGMmFXNW5jeEFBZlZ1U01EOCIsInF1ZXN0aW9uIjoiV2hlbiBjYW4gSSB3aXRoZHJhdyAxMDAlIG9mIG15IFRTUD8iLCJsayI6IkdpSjNhR1Z1SUdOaGJpQnBJSGRwZEdoa2NtRjNJREV3TUNVZ2IyWWdiWGtnZEhOdyIsImJzIjoiYzIzUHV3ckNRQlFFVUd5M3NnNGF4MWNmQTlaQmJBdzJnb0wxRXFOM1lSOWhjMlhKMzVzRVJTTDJaNFlaY1JUTGd3c3d6NElRbE5Zd0RTN25FeXJab0NvOWpMTk1XYnFLRnZUTHVLNkdUT3pGUEtfN2VIQ2VDWXB4ZHg1TUpZelNpcVZ2c2pTT0pxcnV3d1AwQVdJbjRtNlJkdmFCcDJXbC0wSWp1YUN5eG5hZHBiTm9Ta1BSdFgyRmFFOWRxYlFvcEVYZTdtVzZlUm13U1pJMTNQMTlzVDhWUGt6OVpXM3ZlUFFDIiwiaWQiOiJmY18xQ0E2YXVLZU5PTERrUElQbGRXSS1Rb181In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "FWPHN3icxVbZkqpIEH2f_7i-dCsirh1B3CgQFLVbcW37hUCWAgURCkV9m3-Zr5qYj7nFpthKd8yNmJgyrCUrKyuzMo_HP_-yzO3m7z_-MXx_h14IIgiCEnQcaGklxbEJGZ22CqE7FvIU4-fpQFMFBdHlgmbSJAvq8r6vvQ0H7c1IGFnqQiiKTiE6QksrGWlrbPG4RoRE4G7zg2rjRQmVtG1pNVJMvet3gxksVcpkqzQkZBsrgP-wcWAcjSL-CHgU7jTC6-E3VkQhPDjJSNhMn7bX2JAgRAOba5RNvGCXoUq7-OFVGdAWI1n3Cy8mt8tF2HEgAIAJXeTER2ceOZHKnGRkcm_k7kWRMpPc1c6az4uXySZYDG1Om4C9JiINmQFpBFgF4jkTW6wBpjoK2A77RZrwzg52OaMoPnQ60_g-twuS-WDZwR4RKsRFWCZWHh5IwlQMJZp4KKxNdtoqO_wWfLzV90Z_Sr2ykkTN-lvBMaxtZdcUCWWF9SxHVjVVMqTyz2hNVshauUU1ms8RKBR0QQXKouKj_moBqqdTPCgNSgyZgUT0GMJNzGG5MTnh9ZM3_KQOYitRn7xN-sqzVI1xUnQkgvUmrKrlRdAMU2F8vjG0dQ-JtMHsBEMicluYXU5m1cOpwGRcjVv7c76v6ySGJeiLl5C5jMfxQ3DZ9SY0LnRSQXDZCq1CC0QQx5DgEoPDm_Mw6xh-LIYFXLp98SDUaW8ualzkYbi9FMUlEHgMUZw-mAafpBJDQrh9O7C-WfEw_LLwIcC_a8w14XmNA2ntfyrlGwg0nHmF94ttYSZ2h6hyPJ-7b2f-NDQ8-LjkHXv1L5hA-X9BMUt4YpYgof8QFPAbUIgC9yVPxH5feSKsFdbJAwWbgOKWJ-LCvfLEPSgmt6DI54kMKGIrX4OCyQVF_LNyD4qQJ-5AAXNAEfNEFhS3PLG9WA4jyIDit3hC_A2eiDCixcMtaezXMJc8OsFKsN67Pl_f-1OLQl6RL57nXBENXPAteei2_2LLqvUsmeoLU-n5J_VZwgLnRVMLLm2blunL3ulpOhk9KbKl7C3Zd7wn3_BM3X9C8sHcQlSwLc-hy3Jt1a-IzMwzSfvsyThhVmNwVFytxs0XjdNYbox3bg2QvdlmN-ar7SMr60vtcOyXmw39LKD1-_pg8F7PFVdddeCueXR81avLxbFuH12F6iGx9qFL0F0W9ekBmvPj9h0UnfKCOcyp99ZZ0ifOWuOax-mYmiguG3mFaMY1xsWBKmk9ULA9hcZVX92ANxF0IFBw7QMR_5MSWQd_A5z5AlJkSUMHWqmR5ZVc1eq1Sl2nWmTBhv5pR1fJAtp6NPkLCGgXLA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FWPHN3icxVbZkqpIEH2f_7i-dCsirh1B3CgQFLVbcW37hUCWAgURCkV9m3-Zr5qYj7nFpthKd8yNmJgyrCUrKyuzMo_HP_-yzO3m7z_-MXx_h14IIgiCEnQcaGklxbEJGZ22CqE7FvIU4-fpQFMFBdHlgmbSJAvq8r6vvQ0H7c1IGFnqQiiKTiE6QksrGWlrbPG4RoRE4G7zg2rjRQmVtG1pNVJMvet3gxksVcpkqzQkZBsrgP-wcWAcjSL-CHgU7jTC6-E3VkQhPDjJSNhMn7bX2JAgRAOba5RNvGCXoUq7-OFVGdAWI1n3Cy8mt8tF2HEgAIAJXeTER2ceOZHKnGRkcm_k7kWRMpPc1c6az4uXySZYDG1Om4C9JiINmQFpBFgF4jkTW6wBpjoK2A77RZrwzg52OaMoPnQ60_g-twuS-WDZwR4RKsRFWCZWHh5IwlQMJZp4KKxNdtoqO_wWfLzV90Z_Sr2ykkTN-lvBMaxtZdcUCWWF9SxHVjVVMqTyz2hNVshauUU1ms8RKBR0QQXKouKj_moBqqdTPCgNSgyZgUT0GMJNzGG5MTnh9ZM3_KQOYitRn7xN-sqzVI1xUnQkgvUmrKrlRdAMU2F8vjG0dQ-JtMHsBEMicluYXU5m1cOpwGRcjVv7c76v6ySGJeiLl5C5jMfxQ3DZ9SY0LnRSQXDZCq1CC0QQx5DgEoPDm_Mw6xh-LIYFXLp98SDUaW8ualzkYbi9FMUlEHgMUZw-mAafpBJDQrh9O7C-WfEw_LLwIcC_a8w14XmNA2ntfyrlGwg0nHmF94ttYSZ2h6hyPJ-7b2f-NDQ8-LjkHXv1L5hA-X9BMUt4YpYgof8QFPAbUIgC9yVPxH5feSKsFdbJAwWbgOKWJ-LCvfLEPSgmt6DI54kMKGIrX4OCyQVF_LNyD4qQJ-5AAXNAEfNEFhS3PLG9WA4jyIDit3hC_A2eiDCixcMtaezXMJc8OsFKsN67Pl_f-1OLQl6RL57nXBENXPAteei2_2LLqvUsmeoLU-n5J_VZwgLnRVMLLm2blunL3ulpOhk9KbKl7C3Zd7wn3_BM3X9C8sHcQlSwLc-hy3Jt1a-IzMwzSfvsyThhVmNwVFytxs0XjdNYbox3bg2QvdlmN-ar7SMr60vtcOyXmw39LKD1-_pg8F7PFVdddeCueXR81avLxbFuH12F6iGx9qFL0F0W9ekBmvPj9h0UnfKCOcyp99ZZ0ifOWuOax-mYmiguG3mFaMY1xsWBKmk9ULA9hcZVX92ANxF0IFBw7QMR_5MSWQd_A5z5AlJkSUMHWqmR5ZVc1eq1Sl2nWmTBhv5pR1fJAtp6NPkLCGgXLA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Calculators | The Thrift Savings Plan (TSP)",
+      "link": "https://www.tsp.gov/calculators/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tsp.gov/calculators/&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8QFnoECB8QAQ",
+      "displayed_link": "https://www.tsp.gov › calculators",
+      "date": "Jan 28, 2026",
+      "snippet": "Use the TSP Annuity Calculator to estimate how much monthly life annuity payments could be if you use part or all of your TSP account to ...",
+      "snippet_highlighted_words": [
+        "Use the TSP Annuity Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use the TSP Annuity Calculator to estimate how much monthly life annuity payments could be if you use part or all of your TSP account to ...",
+          "source_info_link": "https://www.tsp.gov/calculators/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tsp.gov/calculators/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tsp.gov%2Fcalculators%2F",
+      "source": "tsp.gov",
+      "read_more_link": "https://www.tsp.gov/calculators/#:~:text=Use%20the%20TSP%20Annuity%20Calculator,annuity%20through%20our%20outside%20vendor."
+    },
+    {
+      "position": 2,
+      "title": "Federal Employee TSP Calculator",
+      "link": "https://stwserve.com/tsp-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stwserve.com/tsp-calculator/&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8QFnoECBwQAQ",
+      "displayed_link": "https://stwserve.com › tsp-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEX____a3f-Hkv54hP5yfv7Cx__Xe3vSbG3NZGXcj5D56ektP_4AGv4CIf4ACv6hpf66BQWwAADCTEz02dk1Rv4PJv4WK_6xAACyAAHEUVHL0P5UZf06T_2psP3FPj6_KCi5HBz14OD29__89vb88_Pw0dHQe3vKcHDpvb378vLtyMjGR0e_Kyt0pnO-AAAAnElEQVR4AbXTAxIDQRAAwImNs238_32ZWsa-Lqy9A2g0nqDpDLPzBbVcrYGabba73W5_wOxRYVSNN-qGaZpb0mjZhOK817jZGYbBprUI2eh6PtIDzIYRFS8TYFIKc5kAA8vyG2LNoqxuiOurY0W4ub46YvciKc7zxufTPt0Qkzc3hr--O4Bpu6i_EonHriPFuqI4A1-fxoKAkeFwArPaLKlgydhOAAAAAElFTkSuQmCC.png",
+      "snippet": "The calculator applies the 1% automatic agency contribution plus dollar-for-dollar matching on the first 3% you contribute, and 50 cents on the dollar for the ...",
+      "snippet_highlighted_words": [
+        "calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The calculator applies the 1% automatic agency contribution plus dollar-for-dollar matching on the first 3% you contribute, and 50 cents on the dollar for the ...",
+          "source_info_link": "https://stwserve.com/tsp-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEX____a3f-Hkv54hP5yfv7Cx__Xe3vSbG3NZGXcj5D56ektP_4AGv4CIf4ACv6hpf66BQWwAADCTEz02dk1Rv4PJv4WK_6xAACyAAHEUVHL0P5UZf06T_2psP3FPj6_KCi5HBz14OD29__89vb88_Pw0dHQe3vKcHDpvb378vLtyMjGR0e_Kyt0pnO-AAAAnElEQVR4AbXTAxIDQRAAwImNs238_32ZWsa-Lqy9A2g0nqDpDLPzBbVcrYGabba73W5_wOxRYVSNN-qGaZpb0mjZhOK817jZGYbBprUI2eh6PtIDzIYRFS8TYFIKc5kAA8vyG2LNoqxuiOurY0W4ub46YvciKc7zxufTPt0Qkzc3hr--O4Bpu6i_EonHriPFuqI4A1-fxoKAkeFwArPaLKlgydhOAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://stwserve.com/tsp-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fstwserve.com%2Ftsp-calculator%2F",
+      "source": "Serving Those Who Serve",
+      "read_more_link": "https://stwserve.com/tsp-calculator/#:~:text=Agency%20matching%20is%20built%20in.,contributions%20on%20your%20retirement%20savings."
+    },
+    {
+      "position": 3,
+      "title": "TSP Calculator | Project Your Thrift Savings Plan Growth",
+      "link": "https://planwellfp.com/thrift-savings-plan-calculator-tsp-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://planwellfp.com/thrift-savings-plan-calculator-tsp-calculator&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8QFnoECBsQAQ",
+      "displayed_link": "https://planwellfp.com › thrift-savings-plan-calculator-tsp...",
+      "favicon": "https://serpapi.com/searches/6a3a20d4f5c2f81622733aa7/images/lUwSgXmXqfYg_vZOX7tFT5ui4kC3bOs9BuIx2mvqoZE.png",
+      "snippet": "Estimate your future TSP balance based on contributions, agency matching, and expected returns. See the power of compound interest.",
+      "snippet_highlighted_words": [
+        "Estimate your future TSP balance"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Estimate your future TSP balance based on contributions, agency matching, and expected returns. See the power of compound interest.",
+          "source_info_link": "https://planwellfp.com/thrift-savings-plan-calculator-tsp-calculator",
+          "icon": "https://serpapi.com/searches/6a3a20d4f5c2f81622733aa7/images/lUwSgXmXqfYg_vZOX7tFT1hAYukGdqAEzRrBjwdrD-ELcw9dNactbxQelriZNPhh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://planwellfp.com/thrift-savings-plan-calculator-tsp-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fplanwellfp.com%2Fthrift-savings-plan-calculator-tsp-calculator",
+      "source": "PlanWell Financial Planning"
+    },
+    {
+      "position": 4,
+      "title": "Home | The Thrift Savings Plan (TSP)",
+      "link": "https://www.tsp.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tsp.gov/&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8QFnoECCAQAQ",
+      "displayed_link": "https://www.tsp.gov",
+      "date": "Jan 26, 2026",
+      "snippet": "Calculators · Forms and resources ... And yes, every $1 your agency or service contributes to your account can grow to $10 in 35 years too.",
+      "snippet_highlighted_words": [
+        "Calculators"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculators · Forms and resources ... And yes, every $1 your agency or service contributes to your account can grow to $10 in 35 years too.",
+          "source_info_link": "https://www.tsp.gov/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tsp.gov/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tsp.gov%2F",
+      "source": "tsp.gov",
+      "read_more_link": "https://www.tsp.gov/#:~:text=Calculators,Forms%20and%20resources&text=And%20yes%2C%20every%20%241%20your,%2410%20in%2035%20years%20too."
+    },
+    {
+      "position": 5,
+      "title": "TSP Calculator : r/ThriftSavingsPlan",
+      "link": "https://www.reddit.com/r/ThriftSavingsPlan/comments/1d0nein/tsp_calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/ThriftSavingsPlan/comments/1d0nein/tsp_calculator/&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8QFnoECCMQAQ",
+      "displayed_link": "30+ comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Is there a TSP calculator I can use that would show me the end amount if I leave my TSP as is with no further contributions?",
+      "snippet_highlighted_words": [
+        "TSP calculator"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Is there a calculator for TSP contributions where we can ...",
+            "link": "https://www.reddit.com/r/ThriftSavingsPlan/comments/1h3rqdw/is_there_a_calculator_for_tsp_contributions_where/",
+            "answer_count": 13,
+            "date": "Dec 1, 2024"
+          },
+          {
+            "title": "Good tsp amount calculator : r/ThriftSavingsPlan - Reddit",
+            "link": "https://www.reddit.com/r/ThriftSavingsPlan/comments/1q45hwj/good_tsp_amount_calculator/",
+            "answer_count": 12,
+            "date": "Jan 4, 2026"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Is there a TSP calculator I can use that would show me the end amount if I leave my TSP as is with no further contributions?",
+          "source_info_link": "https://www.reddit.com/r/ThriftSavingsPlan/comments/1d0nein/tsp_calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/ThriftSavingsPlan/comments/1d0nein/tsp_calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FThriftSavingsPlan%2Fcomments%2F1d0nein%2Ftsp_calculator%2F",
+      "source": "Reddit · r/ThriftSavingsPlan",
+      "read_more_link": "https://www.reddit.com/r/ThriftSavingsPlan/comments/1d0nein/tsp_calculator/#:~:text=Is%20there%20a%20TSP%20calculator,is%20with%20no%20further%20contributions%3F"
+    },
+    {
+      "position": 6,
+      "title": "TSP Annuity Calculator | The Thrift Savings Plan (TSP)",
+      "link": "https://www.tsp.gov/calculators/tsp-annuity-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tsp.gov/calculators/tsp-annuity-calculator/&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8QFnoECB4QAQ",
+      "displayed_link": "https://www.tsp.gov › calculators › tsp-annuity-calculator",
+      "date": "Jan 10, 2024",
+      "snippet": "Use this calculator to estimate how much monthly life annuity payments could be if you use part or all of your TSP account to purchase an annuity through our ...",
+      "snippet_highlighted_words": [
+        "Use this calculator to estimate how much monthly life annuity payments could be"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this calculator to estimate how much monthly life annuity payments could be if you use part or all of your TSP account to purchase an annuity through our ...",
+          "source_info_link": "https://www.tsp.gov/calculators/tsp-annuity-calculator/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tsp.gov/calculators/tsp-annuity-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tsp.gov%2Fcalculators%2Ftsp-annuity-calculator%2F",
+      "source": "tsp.gov",
+      "read_more_link": "https://www.tsp.gov/calculators/tsp-annuity-calculator/#:~:text=Use%20this%20calculator%20to%20estimate,annuity%20through%20our%20outside%20vendor."
+    },
+    {
+      "position": 7,
+      "title": "What May My TSP Be Worth?",
+      "link": "https://www.calcxml.com/calculators/pay30",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calcxml.com/calculators/pay30&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8QFnoECEAQAQ",
+      "displayed_link": "https://www.calcxml.com › calculators › pay30",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX____6_v3u-fZmybTZ8ey25NoAro2y4tf-_v6G0sFHv6UaspN-0L3i9fFdxa8Ar44SsZHI6uL7-_vCw8R4enx_gYPMzc6qrK3T1NSipKWMjo_g4eFYXF5fY2Xw8fFdYGJmaWu4ubqbnZ6GiYqTlZays7RwcnTR0tMquZ1AvaKd2sxvzblojzTpAAABPUlEQVR4AXzSBYKDMBAF0MGC1iAhWASne_8D7mD19uP_4QBvMUz4Ecv-gQ5xP4NnO34QkujtWgfHP4aEnM5hSALztvveI2wh58tCphsdg-D4mmBRA34ljmPwcIoxy-a6vmJCmZdSFnPKaAYZznPIabFiWQnJVQG50KqGRGnRQKPYip4WWaFqxFbnwEU7o9gQOtUzkUGumqGAbsjVIyaK6kEickYlY_0TpkprGiP2nS6Hrn7CXBSDLmfkYtT8GalImEpmrFUu0qfTSiXKDgvEUQyq3FDKGDHF5-wrCnnFpRBa8qpD1FokiD0rYGSt7FkdF23n1YwDb9uWpYie5wEs07q-TpjvX8VYemcKnnO9TlMQueu_YIfkvOVECJmsv4vpwR7zSMIQ4TQdsYfX-CTE_vD1X3X-hyet8GpjEQQAUEwiq7F_QKwAAAAASUVORK5CYII.png",
+      "snippet": "Use this calculator to estimate how much your plan may accumulate for retirement. Common AssumptionsPart 1; Plan InformationPart 2 ...",
+      "snippet_highlighted_words": [
+        "Use this calculator to estimate how much your plan may accumulate for retirement"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this calculator to estimate how much your plan may accumulate for retirement. Common AssumptionsPart 1; Plan InformationPart 2 ...",
+          "source_info_link": "https://www.calcxml.com/calculators/pay30",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX____6_v3u-fZmybTZ8ey25NoAro2y4tf-_v6G0sFHv6UaspN-0L3i9fFdxa8Ar44SsZHI6uL7-_vCw8R4enx_gYPMzc6qrK3T1NSipKWMjo_g4eFYXF5fY2Xw8fFdYGJmaWu4ubqbnZ6GiYqTlZays7RwcnTR0tMquZ1AvaKd2sxvzblojzTpAAABPUlEQVR4AXzSBYKDMBAF0MGC1iAhWASne_8D7mD19uP_4QBvMUz4Ecv-gQ5xP4NnO34QkujtWgfHP4aEnM5hSALztvveI2wh58tCphsdg-D4mmBRA34ljmPwcIoxy-a6vmJCmZdSFnPKaAYZznPIabFiWQnJVQG50KqGRGnRQKPYip4WWaFqxFbnwEU7o9gQOtUzkUGumqGAbsjVIyaK6kEickYlY_0TpkprGiP2nS6Hrn7CXBSDLmfkYtT8GalImEpmrFUu0qfTSiXKDgvEUQyq3FDKGDHF5-wrCnnFpRBa8qpD1FokiD0rYGSt7FkdF23n1YwDb9uWpYie5wEs07q-TpjvX8VYemcKnnO9TlMQueu_YIfkvOVECJmsv4vpwR7zSMIQ4TQdsYfX-CTE_vD1X3X-hyet8GpjEQQAUEwiq7F_QKwAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.calcxml.com/calculators/pay30&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.calcxml.com%2Fcalculators%2Fpay30",
+      "source": "CalcXML",
+      "read_more_link": "https://www.calcxml.com/calculators/pay30#:~:text=Use%20this%20calculator%20to%20estimate,Part%202"
+    },
+    {
+      "position": 8,
+      "title": "CalculatorsFederal Ballpark E$timate® - Step 3",
+      "link": "https://www.opm.gov/retirement-center/calculators/federal-ball-park-estimator/bpsavinc_tspadd.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opm.gov/retirement-center/calculators/federal-ball-park-estimator/bpsavinc_tspadd.html&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8QFnoECD0QAQ",
+      "displayed_link": "https://www.opm.gov › calculators › bpsavinc_tspadd",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAApUlEQVR4AW3NIQzDIBCF4fOpxmKQVaSKBIudmqs32Kl5n1okBjc1L-tr5_GCBIF52dE2Fct-d18ueTT99B-UT9FPQo0dtJRiBlffTmgG5aNPcMKhVDsy3D9ASpuLDVhkhxpLTSWDW4nBTRRK2u9Wwr4iXXi1DnUJtoMeNI4eZBg4sR5QLe0wyoyzuYOhJ47aujHYwTScLcONtFAZV3ciazKuj1bcFyfQjeTNZaWkAAAAAElFTkSuQmCC.png",
+      "snippet": "Please enter ZIP. Thrift Savings Plan(TSP). * Current Balance $. * Percent Wage Contribution to TSP %. OR. * Wage Contribution to TSP (annual) $. What is TSP? - ...",
+      "snippet_highlighted_words": [
+        "Thrift Savings Plan",
+        "TSP",
+        "TSP",
+        "TSP",
+        "TSP"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Please enter ZIP. Thrift Savings Plan(TSP). * Current Balance $. * Percent Wage Contribution to TSP %. OR. * Wage Contribution to TSP (annual) $. What is TSP? - ...",
+          "source_info_link": "https://www.opm.gov/retirement-center/calculators/federal-ball-park-estimator/bpsavinc_tspadd.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAApUlEQVR4AW3NIQzDIBCF4fOpxmKQVaSKBIudmqs32Kl5n1okBjc1L-tr5_GCBIF52dE2Fct-d18ueTT99B-UT9FPQo0dtJRiBlffTmgG5aNPcMKhVDsy3D9ASpuLDVhkhxpLTSWDW4nBTRRK2u9Wwr4iXXi1DnUJtoMeNI4eZBg4sR5QLe0wyoyzuYOhJ47aujHYwTScLcONtFAZV3ciazKuj1bcFyfQjeTNZaWkAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opm.gov/retirement-center/calculators/federal-ball-park-estimator/bpsavinc_tspadd.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opm.gov%2Fretirement-center%2Fcalculators%2Ffederal-ball-park-estimator%2Fbpsavinc_tspadd.html",
+      "source": "OPM.gov",
+      "read_more_link": "https://www.opm.gov/retirement-center/calculators/federal-ball-park-estimator/bpsavinc_tspadd.html#:~:text=Thrift%20Savings%20Plan(TSP),link%20opens%20in%20new%20window"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military tsp calculator thrift savings reddit",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+tsp+calculator+thrift+savings+reddit&sa=X&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+tsp+calculator+thrift+savings+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Military tsp calculator thrift savings withdrawal",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+tsp+calculator+thrift+savings+withdrawal&sa=X&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+tsp+calculator+thrift+savings+withdrawal"
+    },
+    {
+      "block_position": 1,
+      "query": "TSP retirement calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=TSP+retirement+calculator&sa=X&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=TSP+retirement+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Free military tsp calculator thrift savings",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Free+military+tsp+calculator+thrift+savings&sa=X&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+military+tsp+calculator+thrift+savings"
+    },
+    {
+      "block_position": 1,
+      "query": "Best military tsp calculator thrift savings",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Best+military+tsp+calculator+thrift+savings&sa=X&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+military+tsp+calculator+thrift+savings"
+    },
+    {
+      "block_position": 1,
+      "query": "Best TSP calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Best+TSP+calculator&sa=X&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+TSP+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "TSP monthly payment calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=TSP+monthly+payment+calculator&sa=X&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=TSP+monthly+payment+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "TSP growth calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=TSP+growth+calculator&sa=X&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=TSP+growth+calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+TSP+calculator+thrift+savings&sca_esv=c510ba4e6526f391&ei=1CA6auKeNOLDkPIPldWI-Qo&start=10&sa=N&sstk=AU9db-AF7bq_24LjqYo3FTv9SllLV5klXA2RItyNqbDAexRCctmkuBYU3-T0TYK_h92IEhpJScG-579rXfjnPVz-tZiuTOas67MjaA&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q8NMDegQIMxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+TSP+calculator+thrift+savings&sca_esv=c510ba4e6526f391&ei=1CA6auKeNOLDkPIPldWI-Qo&start=10&sa=N&sstk=AU9db-AF7bq_24LjqYo3FTv9SllLV5klXA2RItyNqbDAexRCctmkuBYU3-T0TYK_h92IEhpJScG-579rXfjnPVz-tZiuTOas67MjaA&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q8tMDegQIMxAE",
+      "3": "https://www.google.com/search?q=military+TSP+calculator+thrift+savings&sca_esv=c510ba4e6526f391&ei=1CA6auKeNOLDkPIPldWI-Qo&start=20&sa=N&sstk=AU9db-AF7bq_24LjqYo3FTv9SllLV5klXA2RItyNqbDAexRCctmkuBYU3-T0TYK_h92IEhpJScG-579rXfjnPVz-tZiuTOas67MjaA&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q8tMDegQIMxAG",
+      "4": "https://www.google.com/search?q=military+TSP+calculator+thrift+savings&sca_esv=c510ba4e6526f391&ei=1CA6auKeNOLDkPIPldWI-Qo&start=30&sa=N&sstk=AU9db-AF7bq_24LjqYo3FTv9SllLV5klXA2RItyNqbDAexRCctmkuBYU3-T0TYK_h92IEhpJScG-579rXfjnPVz-tZiuTOas67MjaA&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q8tMDegQIMxAI",
+      "5": "https://www.google.com/search?q=military+TSP+calculator+thrift+savings&sca_esv=c510ba4e6526f391&ei=1CA6auKeNOLDkPIPldWI-Qo&start=40&sa=N&sstk=AU9db-AF7bq_24LjqYo3FTv9SllLV5klXA2RItyNqbDAexRCctmkuBYU3-T0TYK_h92IEhpJScG-579rXfjnPVz-tZiuTOas67MjaA&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q8tMDegQIMxAK",
+      "6": "https://www.google.com/search?q=military+TSP+calculator+thrift+savings&sca_esv=c510ba4e6526f391&ei=1CA6auKeNOLDkPIPldWI-Qo&start=50&sa=N&sstk=AU9db-AF7bq_24LjqYo3FTv9SllLV5klXA2RItyNqbDAexRCctmkuBYU3-T0TYK_h92IEhpJScG-579rXfjnPVz-tZiuTOas67MjaA&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q8tMDegQIMxAM",
+      "7": "https://www.google.com/search?q=military+TSP+calculator+thrift+savings&sca_esv=c510ba4e6526f391&ei=1CA6auKeNOLDkPIPldWI-Qo&start=60&sa=N&sstk=AU9db-AF7bq_24LjqYo3FTv9SllLV5klXA2RItyNqbDAexRCctmkuBYU3-T0TYK_h92IEhpJScG-579rXfjnPVz-tZiuTOas67MjaA&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q8tMDegQIMxAO",
+      "8": "https://www.google.com/search?q=military+TSP+calculator+thrift+savings&sca_esv=c510ba4e6526f391&ei=1CA6auKeNOLDkPIPldWI-Qo&start=70&sa=N&sstk=AU9db-AF7bq_24LjqYo3FTv9SllLV5klXA2RItyNqbDAexRCctmkuBYU3-T0TYK_h92IEhpJScG-579rXfjnPVz-tZiuTOas67MjaA&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q8tMDegQIMxAQ",
+      "9": "https://www.google.com/search?q=military+TSP+calculator+thrift+savings&sca_esv=c510ba4e6526f391&ei=1CA6auKeNOLDkPIPldWI-Qo&start=80&sa=N&sstk=AU9db-AF7bq_24LjqYo3FTv9SllLV5klXA2RItyNqbDAexRCctmkuBYU3-T0TYK_h92IEhpJScG-579rXfjnPVz-tZiuTOas67MjaA&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q8tMDegQIMxAS",
+      "10": "https://www.google.com/search?q=military+TSP+calculator+thrift+savings&sca_esv=c510ba4e6526f391&ei=1CA6auKeNOLDkPIPldWI-Qo&start=90&sa=N&sstk=AU9db-AF7bq_24LjqYo3FTv9SllLV5klXA2RItyNqbDAexRCctmkuBYU3-T0TYK_h92IEhpJScG-579rXfjnPVz-tZiuTOas67MjaA&ved=2ahUKEwji2N-715yVAxXiIUQIHZUqIq8Q8tMDegQIMxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+TSP+calculator+thrift+savings&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+TSP+calculator+thrift+savings&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+TSP+calculator+thrift+savings&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+TSP+calculator+thrift+savings&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+TSP+calculator+thrift+savings&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+TSP+calculator+thrift+savings&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+TSP+calculator+thrift+savings&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+TSP+calculator+thrift+savings&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+TSP+calculator+thrift+savings&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+TSP+calculator+thrift+savings&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+TSP+calculator+thrift+savings&start=90"
+    }
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "search_metadata": {
+    "id": "6a3a195aef15ce286d3e741a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ieQdFAXrYfoOVsfaOSlSmg/6a3a195aef15ce286d3e741a.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/ieQdFAXrYfoOVsfaOSlSmg/6a3a195aef15ce286d3e741a.json_with_pixel_position",
+    "created_at": "2026-06-23 05:27:54 UTC",
+    "processed_at": "2026-06-23 05:27:54 UTC",
+    "google_url": "https://www.google.com/search?q=medicare+eligibility+calculator+age+65&oq=medicare+eligibility+calculator+age+65&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ieQdFAXrYfoOVsfaOSlSmg/6a3a195aef15ce286d3e741a.html",
+    "total_time_taken": 2.46
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "medicare eligibility calculator age 65",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "medicare eligibility calculator age 65",
+    "total_results": 473000,
+    "time_taken_displayed": 0.31,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Does ALS qualify for Medicare?",
+      "type": "ai_overview",
+      "page_token": "OlfyAXicHdBdboIwAADg7DI-DlB00cQsKVirCVWKbaEvSyko2ipMUH7edpedaqfZsiN839e3Od_0z0tcNE1VLyyrbdvXU1meTP6qyqsl6_6mLCWNSaXSi9nbzHk_quWqboFXtiCkVcV8YkdmDnNkPiXNDinNYK4xUbzbk0E4ao0NOegmY8lw8INxNCGPUHfP0BEmN2AWradlcNlqysRjR7UbrTo3dcA0HLvjXDMv9cMBIxYnN9qHg2gyAwLBu0d0g3dhVxt5wTVnwpdO5soLLBJarKILu2MEGgHnO3LdVqltJmJdBcQmU46CFrNTBJ3Ck4Mosph2xHP2PAY2ZaBNervLKdyuz1tAEO53XByYnm8oAmcM6YB54RMkmj9HrVDBdwiWYSwmo6N6Liej_7Hlx_HaLKp7efoFS6J5ZQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OlfyAXicHdBdboIwAADg7DI-DlB00cQsKVirCVWKbaEvSyko2ipMUH7edpedaqfZsiN839e3Od_0z0tcNE1VLyyrbdvXU1meTP6qyqsl6_6mLCWNSaXSi9nbzHk_quWqboFXtiCkVcV8YkdmDnNkPiXNDinNYK4xUbzbk0E4ao0NOegmY8lw8INxNCGPUHfP0BEmN2AWradlcNlqysRjR7UbrTo3dcA0HLvjXDMv9cMBIxYnN9qHg2gyAwLBu0d0g3dhVxt5wTVnwpdO5soLLBJarKILu2MEGgHnO3LdVqltJmJdBcQmU46CFrNTBJ3Ck4Mosph2xHP2PAY2ZaBNervLKdyuz1tAEO53XByYnm8oAmcM6YB54RMkmj9HrVDBdwiWYSwmo6N6Liej_7Hlx_HaLKp7efoFS6J5ZQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5FSm9SV2R1TUhCWmVrcFZNV041WlhaQmFFSk1PR3BPZFd0TmRFUXlkRFJ0Y2pSUmJXTmxkbFo0Um1kUVlUUnBVSG93VkVoTFVVUjBTVFYxT1hOMFFVTkNUbWN3YlRoc05HTjFOemwzVlhKWE5rRXlUVUU1TUUxNVFSSVhXRUpyTm1GMWRURkVMVTlaY0hSUlVIQmpMVEY1UVVrYUlrRkVjM0k1WmxGQ2JFRlpRMEpoZG1vMmVXNXZlRkJyU2xwTVVYaFlSMGMzT0hjIiwiZmN2IjoiMyIsImVpIjoiWEJrNmF1dTFELU9ZcHRRUHBjLTF5QUkiLCJxYyI6IkNpWnRaV1JwWTJGeVpTQmxiR2xuYVdKcGJHbDBlU0JqWVd4amRXeGhkRzl5SUdGblpTQTJOUkFBZmZLQ19UNCIsInF1ZXN0aW9uIjoiRG9lcyBBTFMgcXVhbGlmeSBmb3IgTWVkaWNhcmU/IiwibGsiOiJHaDFrYjJWeklHRnNjeUJ4ZFdGc2FXWjVJR1p2Y2lCdFpXUnBZMkZ5WlEiLCJicyI6ImM0M1FzUXJDTUJER2NWd3pPVXBBdlVtZFJLdDdLVGdvNk5RbnVEYlhOcENZbXJTVlBxNXZvbFlMMXNFNjMtX1BCOGNDTnRrWmNoQWNRN2lVcUdSU1EySXNuRWpJR0MzNTNwU1B4Vk9nY2gyaDM0S2QyV1p2cnFETE9JTkd0aTNrLUtJcEtoVXBGSUlzdU5LbVpHdF9kTlBlbG50WnA5Ul9sSXpZdW1jUEliZkdGVmdRUk5Ma3J2YTlGVl8yVEgwbExHVHpnM3RjbFpKWXlJcWcwYkdweUpLQXFQNTQwWUxQNUVfYWpnMEhkdyIsImlkIjoiZmNfWEJrNmF1dTFELU9ZcHRRUHBjLTF5QUlfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5FSm9SV2R1TUhCWmVrcFZNV041WlhaQmFFSk1PR3BPZFd0TmRFUXlkRFJ0Y2pSUmJXTmxkbFo0Um1kUVlUUnBVSG93VkVoTFVVUjBTVFYxT1hOMFFVTkNUbWN3YlRoc05HTjFOemwzVlhKWE5rRXlUVUU1TUUxNVFSSVhXRUpyTm1GMWRURkVMVTlaY0hSUlVIQmpMVEY1UVVrYUlrRkVjM0k1WmxGQ2JFRlpRMEpoZG1vMmVXNXZlRkJyU2xwTVVYaFlSMGMzT0hjIiwiZmN2IjoiMyIsImVpIjoiWEJrNmF1dTFELU9ZcHRRUHBjLTF5QUkiLCJxYyI6IkNpWnRaV1JwWTJGeVpTQmxiR2xuYVdKcGJHbDBlU0JqWVd4amRXeGhkRzl5SUdGblpTQTJOUkFBZmZLQ19UNCIsInF1ZXN0aW9uIjoiRG9lcyBBTFMgcXVhbGlmeSBmb3IgTWVkaWNhcmU%2FIiwibGsiOiJHaDFrYjJWeklHRnNjeUJ4ZFdGc2FXWjVJR1p2Y2lCdFpXUnBZMkZ5WlEiLCJicyI6ImM0M1FzUXJDTUJER2NWd3pPVXBBdlVtZFJLdDdLVGdvNk5RbnVEYlhOcENZbXJTVlBxNXZvbFlMMXNFNjMtX1BCOGNDTnRrWmNoQWNRN2lVcUdSU1EySXNuRWpJR0MzNTNwU1B4Vk9nY2gyaDM0S2QyV1p2cnFETE9JTkd0aTNrLUtJcEtoVXBGSUlzdU5LbVpHdF9kTlBlbG50WnA5Ul9sSXpZdW1jUEliZkdGVmdRUk5Ma3J2YTlGVl8yVEgwbExHVHpnM3RjbFpKWXlJcWcwYkdweUpLQXFQNTQwWUxQNUVfYWpnMEhkdyIsImlkIjoiZmNfWEJrNmF1dTFELU9ZcHRRUHBjLTF5QUlfMyJ9"
+    },
+    {
+      "question": "How much does Medicare pay for gallbladder surgery?",
+      "type": "featured_snippet",
+      "snippet": "After meeting the Part A annual deductible, which is $1,676 in 2025, Medicare can cover 100% of qualifying costs. If you require a laparoscopic gallbladder surgery that occurs in a hospital outpatient department or ambulatory surgery center, Part B can typically cover the costs.",
+      "title": "Medicare and Gallbladder Removal: Is it covered? - Healthline",
+      "date": "Feb 24, 2025",
+      "link": "https://www.healthline.com/health/medicare/does-medicare-cover-gallbladder-removal#:~:text=After%20meeting%20the%20Part%20A,can%20typically%20cover%20the%20costs.",
+      "displayed_link": "https://www.healthline.com › health › does-medicare-cov...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA6UlEQVR4AWJwL_ABlE6GIBDCUBheryajQezF6z3Yud57EMRoR7hqsNqD9mJYtwsWg7C6-webPH3qnTj4YNvePofvvQ0YL1CBASgwgRZkwGPxdGED9Q_KQ4H9ov6TYSMwVhqQJInuuk7P83wlkfau8OhB3_faDSbgvIHI6GaapkwQx_GZoAVCngmWZTGs8yAI9oIJCHUmGMfR_It1Xdc1f8UdQdM0-8uK5f6mQAJRPBCUrnS1I89zmgWaVjPfC0JXSJPb9H3fpG0liiK63qSQVmJIDm6XMpG4l1xS8Wbi7fwBEiiLBMVRO38B2BqKUYhEukEAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5FSm9SV2R1TUhCWmVrcFZNV041WlhaQmFFSk1PR3BPZFd0TmRFUXlkRFJ0Y2pSUmJXTmxkbFo0Um1kUVlUUnBVSG93VkVoTFVVUjBTVFYxT1hOMFFVTkNUbWN3YlRoc05HTjFOemwzVlhKWE5rRXlUVUU1TUUxNVFSSVhXRUpyTm1GMWRURkVMVTlaY0hSUlVIQmpMVEY1UVVrYUlrRkVjM0k1WmxGQ2JFRlpRMEpoZG1vMmVXNXZlRkJyU2xwTVVYaFlSMGMzT0hjIiwiZmN2IjoiMyIsImVpIjoiWEJrNmF1dTFELU9ZcHRRUHBjLTF5QUkiLCJxYyI6IkNpWnRaV1JwWTJGeVpTQmxiR2xuYVdKcGJHbDBlU0JqWVd4amRXeGhkRzl5SUdGblpTQTJOUkFBZmZLQ19UNCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG9lcyBNZWRpY2FyZSBwYXkgZm9yIGdhbGxibGFkZGVyIHN1cmdlcnk/IiwibGsiOiJHakpvYjNjZ2JYVmphQ0JrYjJWeklHMWxaR2xqWVhKbElIQmhlU0JtYjNJZ1oyRnNiR0pzWVdSa1pYSWdjM1Z5WjJWeWVRIiwiYnMiOiJjNDNRc1FyQ01CREdjVnd6T1VwQXZVbWRSS3Q3S1RnbzZOUW51RGJYTnBDWW1yU1ZQcTV2b2xZTDFzRTYzLV9QQjhjQ050a1pjaEFjUTdpVXFHUlNRMklzbkVqSUdDMzUzcFNQeFZPZ2NoMmgzNEtkMldadnJxRExPSU5HdGkzay1LSXBLaFVwRklJc3VOS21aR3RfZE5QZWxudFpwOVJfbEl6WXVtY1BJYmZHRlZnUVJOTGtydmE5RlZfMlRIMGxMR1R6ZzN0Y2xaSll5SXFnMGJHcHlKS0FxUDU0MFlMUDVFX2FqZzBIZHciLCJpZCI6ImZjX1hCazZhdXUxRC1PWXB0UVBwYy0xeUFJXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5FSm9SV2R1TUhCWmVrcFZNV041WlhaQmFFSk1PR3BPZFd0TmRFUXlkRFJ0Y2pSUmJXTmxkbFo0Um1kUVlUUnBVSG93VkVoTFVVUjBTVFYxT1hOMFFVTkNUbWN3YlRoc05HTjFOemwzVlhKWE5rRXlUVUU1TUUxNVFSSVhXRUpyTm1GMWRURkVMVTlaY0hSUlVIQmpMVEY1UVVrYUlrRkVjM0k1WmxGQ2JFRlpRMEpoZG1vMmVXNXZlRkJyU2xwTVVYaFlSMGMzT0hjIiwiZmN2IjoiMyIsImVpIjoiWEJrNmF1dTFELU9ZcHRRUHBjLTF5QUkiLCJxYyI6IkNpWnRaV1JwWTJGeVpTQmxiR2xuYVdKcGJHbDBlU0JqWVd4amRXeGhkRzl5SUdGblpTQTJOUkFBZmZLQ19UNCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG9lcyBNZWRpY2FyZSBwYXkgZm9yIGdhbGxibGFkZGVyIHN1cmdlcnk%2FIiwibGsiOiJHakpvYjNjZ2JYVmphQ0JrYjJWeklHMWxaR2xqWVhKbElIQmhlU0JtYjNJZ1oyRnNiR0pzWVdSa1pYSWdjM1Z5WjJWeWVRIiwiYnMiOiJjNDNRc1FyQ01CREdjVnd6T1VwQXZVbWRSS3Q3S1RnbzZOUW51RGJYTnBDWW1yU1ZQcTV2b2xZTDFzRTYzLV9QQjhjQ050a1pjaEFjUTdpVXFHUlNRMklzbkVqSUdDMzUzcFNQeFZPZ2NoMmgzNEtkMldadnJxRExPSU5HdGkzay1LSXBLaFVwRklJc3VOS21aR3RfZE5QZWxudFpwOVJfbEl6WXVtY1BJYmZHRlZnUVJOTGtydmE5RlZfMlRIMGxMR1R6ZzN0Y2xaSll5SXFnMGJHcHlKS0FxUDU0MFlMUDVFX2FqZzBIZHciLCJpZCI6ImZjX1hCazZhdXUxRC1PWXB0UVBwYy0xeUFJXzMifQ%3D%3D"
+    },
+    {
+      "question": "How much does Medicare pay for a prostate biopsy?",
+      "type": "ai_overview",
+      "page_token": "lCoyYHicHdBNjpswGIBh9TKznGDQpJpIUSUmkAyVTXH8Q9iMjJ2EwOdAA8KE3VyhZ-ipeppGs3yXz_v5Fy7X5t-3P9UwdP1qsXDOPZ_b9gzHZ93ahervV73QCqBUulktvy_Rj5NeR6MO3246zHjXiQ319oxU1DOj5oYKDoqwuBdv3pSjJDV5hRknUbrTd27FndVwKFkCRk6ISheQBjEcwZBxWpQ-nfhc-GRO8LE2XQY0TPPqRq7hZHbk0eEv4U_SbEhq-EurZbVTDdgSccdmUu8FdIXtfisf0LGGJY76WW-LG5ceInAY6E6ETCJnIM4MGCsgjI2X9Ec5_CwFviv76uumkKwpWhaAz7YvWPnJZl-_B6wOR9FAEFXmkNneP-QCYZ4NDIEzcZzpLR5wDuGetpeHZdY1WLGNLxheW-6Bkla7rBHIcPrOvGlIH2aT09G4p5Me18HT1-v1x8kOq-7Wnv8DvrWQNw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=lCoyYHicHdBNjpswGIBh9TKznGDQpJpIUSUmkAyVTXH8Q9iMjJ2EwOdAA8KE3VyhZ-ipeppGs3yXz_v5Fy7X5t-3P9UwdP1qsXDOPZ_b9gzHZ93ahervV73QCqBUulktvy_Rj5NeR6MO3246zHjXiQ319oxU1DOj5oYKDoqwuBdv3pSjJDV5hRknUbrTd27FndVwKFkCRk6ISheQBjEcwZBxWpQ-nfhc-GRO8LE2XQY0TPPqRq7hZHbk0eEv4U_SbEhq-EurZbVTDdgSccdmUu8FdIXtfisf0LGGJY76WW-LG5ceInAY6E6ETCJnIM4MGCsgjI2X9Ec5_CwFviv76uumkKwpWhaAz7YvWPnJZl-_B6wOR9FAEFXmkNneP-QCYZ4NDIEzcZzpLR5wDuGetpeHZdY1WLGNLxheW-6Bkla7rBHIcPrOvGlIH2aT09G4p5Me18HT1-v1x8kOq-7Wnv8DvrWQNw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5FSm9SV2R1TUhCWmVrcFZNV041WlhaQmFFSk1PR3BPZFd0TmRFUXlkRFJ0Y2pSUmJXTmxkbFo0Um1kUVlUUnBVSG93VkVoTFVVUjBTVFYxT1hOMFFVTkNUbWN3YlRoc05HTjFOemwzVlhKWE5rRXlUVUU1TUUxNVFSSVhXRUpyTm1GMWRURkVMVTlaY0hSUlVIQmpMVEY1UVVrYUlrRkVjM0k1WmxGQ2JFRlpRMEpoZG1vMmVXNXZlRkJyU2xwTVVYaFlSMGMzT0hjIiwiZmN2IjoiMyIsImVpIjoiWEJrNmF1dTFELU9ZcHRRUHBjLTF5QUkiLCJxYyI6IkNpWnRaV1JwWTJGeVpTQmxiR2xuYVdKcGJHbDBlU0JqWVd4amRXeGhkRzl5SUdGblpTQTJOUkFBZmZLQ19UNCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG9lcyBNZWRpY2FyZSBwYXkgZm9yIGEgcHJvc3RhdGUgYmlvcHN5PyIsImxrIjoiR2k1b2IzY2diWFZqYUNCa2IyVnpJRzFsWkdsallYSmxJSEJoZVNCbWIzSWdjSEp2YzNSaGRHVWdZbWx2Y0hONSIsImJzIjoiYzQzUXNRckNNQkRHY1Z3ek9VcEF2VW1kUkt0N0tUZ282TlFudURiWE5wQ1ltclNWUHE1dm9sWUwxc0U2My1fUEI4Y0NOdGtaY2hBY1E3aVVxR1JTUTJJc25FaklHQzM1M3BTUHhWT2djaDJoMzRLZDJXWnZycURMT0lOR3RpM2stS0lwS2hVcEZJSXN1TkttWkd0X2ROUGVsbnRacDlSX2xJell1bWNQSWJmR0ZWZ1FSTkxrcnZhOUZWXzJUSDBsTEdUemczdGNsWkpZeUlxZzBiR3B5SktBcVA1NDBZTFA1RV9hamcwSGR3IiwiaWQiOiJmY19YQms2YXV1MUQtT1lwdFFQcGMtMXlBSV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5FSm9SV2R1TUhCWmVrcFZNV041WlhaQmFFSk1PR3BPZFd0TmRFUXlkRFJ0Y2pSUmJXTmxkbFo0Um1kUVlUUnBVSG93VkVoTFVVUjBTVFYxT1hOMFFVTkNUbWN3YlRoc05HTjFOemwzVlhKWE5rRXlUVUU1TUUxNVFSSVhXRUpyTm1GMWRURkVMVTlaY0hSUlVIQmpMVEY1UVVrYUlrRkVjM0k1WmxGQ2JFRlpRMEpoZG1vMmVXNXZlRkJyU2xwTVVYaFlSMGMzT0hjIiwiZmN2IjoiMyIsImVpIjoiWEJrNmF1dTFELU9ZcHRRUHBjLTF5QUkiLCJxYyI6IkNpWnRaV1JwWTJGeVpTQmxiR2xuYVdKcGJHbDBlU0JqWVd4amRXeGhkRzl5SUdGblpTQTJOUkFBZmZLQ19UNCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG9lcyBNZWRpY2FyZSBwYXkgZm9yIGEgcHJvc3RhdGUgYmlvcHN5PyIsImxrIjoiR2k1b2IzY2diWFZqYUNCa2IyVnpJRzFsWkdsallYSmxJSEJoZVNCbWIzSWdjSEp2YzNSaGRHVWdZbWx2Y0hONSIsImJzIjoiYzQzUXNRckNNQkRHY1Z3ek9VcEF2VW1kUkt0N0tUZ282TlFudURiWE5wQ1ltclNWUHE1dm9sWUwxc0U2My1fUEI4Y0NOdGtaY2hBY1E3aVVxR1JTUTJJc25FaklHQzM1M3BTUHhWT2djaDJoMzRLZDJXWnZycURMT0lOR3RpM2stS0lwS2hVcEZJSXN1TkttWkd0X2ROUGVsbnRacDlSX2xJell1bWNQSWJmR0ZWZ1FSTkxrcnZhOUZWXzJUSDBsTEdUemczdGNsWkpZeUlxZzBiR3B5SktBcVA1NDBZTFA1RV9hamcwSGR3IiwiaWQiOiJmY19YQms2YXV1MUQtT1lwdFFQcGMtMXlBSV8zIn0%3D"
+    },
+    {
+      "question": "Is palliative care covered by Medicare?",
+      "type": "ai_overview",
+      "page_token": "u9Bld3icHdDdboIwGIDh7GY8nPyoiyZmCUoRs2qotIWeLLSo_HwFVCbC2e5lV7WrmdnhmzxH7_cP5FX5-3LP2ra5Lcbjrutez3V9huOrqvU4ufWVGqsEQCaqXMzeZub7SS3dL99ZXXwnoE3D1sQ4VE4oQ8fHaJdTDZO4FIfI3l52G_KgZbZia0apLnsJqZdssm3idpN99GyPDkKbJzmwClPESSFyXDUbbKObNIS554-cGXQa6vQDl-wSl7QnFbkK7j5IAUXCsuKIwMbelDHe-Kqc5yF325Snk4ON1tKiBuFzEAOqGc9AQm3tqZhENtyVTiFFgmFP-NIjTmDt-oBleUDNys3SONA3K46YiWnQhiZ0KUKB8nCLI3AOpH46MqgCNEPzgWth4Uj01Mz2R40esnIHatUG3kCsYC5oMDqp-9Ie_f9cfp50u2iu9fkPxYKFXg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=u9Bld3icHdDdboIwGIDh7GY8nPyoiyZmCUoRs2qotIWeLLSo_HwFVCbC2e5lV7WrmdnhmzxH7_cP5FX5-3LP2ra5Lcbjrutez3V9huOrqvU4ufWVGqsEQCaqXMzeZub7SS3dL99ZXXwnoE3D1sQ4VE4oQ8fHaJdTDZO4FIfI3l52G_KgZbZia0apLnsJqZdssm3idpN99GyPDkKbJzmwClPESSFyXDUbbKObNIS554-cGXQa6vQDl-wSl7QnFbkK7j5IAUXCsuKIwMbelDHe-Kqc5yF325Snk4ON1tKiBuFzEAOqGc9AQm3tqZhENtyVTiFFgmFP-NIjTmDt-oBleUDNys3SONA3K46YiWnQhiZ0KUKB8nCLI3AOpH46MqgCNEPzgWth4Uj01Mz2R40esnIHatUG3kCsYC5oMDqp-9Ie_f9cfp50u2iu9fkPxYKFXg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5FSm9SV2R1TUhCWmVrcFZNV041WlhaQmFFSk1PR3BPZFd0TmRFUXlkRFJ0Y2pSUmJXTmxkbFo0Um1kUVlUUnBVSG93VkVoTFVVUjBTVFYxT1hOMFFVTkNUbWN3YlRoc05HTjFOemwzVlhKWE5rRXlUVUU1TUUxNVFSSVhXRUpyTm1GMWRURkVMVTlaY0hSUlVIQmpMVEY1UVVrYUlrRkVjM0k1WmxGQ2JFRlpRMEpoZG1vMmVXNXZlRkJyU2xwTVVYaFlSMGMzT0hjIiwiZmN2IjoiMyIsImVpIjoiWEJrNmF1dTFELU9ZcHRRUHBjLTF5QUkiLCJxYyI6IkNpWnRaV1JwWTJGeVpTQmxiR2xuYVdKcGJHbDBlU0JqWVd4amRXeGhkRzl5SUdGblpTQTJOUkFBZmZLQ19UNCIsInF1ZXN0aW9uIjoiSXMgcGFsbGlhdGl2ZSBjYXJlIGNvdmVyZWQgYnkgTWVkaWNhcmU/IiwibGsiOiJjNU5TeXl4V0tFak15Y2xNTE1rc1MxVklUaXdDRXZsbHFVV3BLUXBKbFFxNXFTbVpJREVBIiwiYnMiOiJjNDNRc1FyQ01CREdjVnd6T1VwQXZVbWRSS3Q3S1RnbzZOUW51RGJYTnBDWW1yU1ZQcTV2b2xZTDFzRTYzLV9QQjhjQ050a1pjaEFjUTdpVXFHUlNRMklzbkVqSUdDMzUzcFNQeFZPZ2NoMmgzNEtkMldadnJxRExPSU5HdGkzay1LSXBLaFVwRklJc3VOS21aR3RfZE5QZWxudFpwOVJfbEl6WXVtY1BJYmZHRlZnUVJOTGtydmE5RlZfMlRIMGxMR1R6ZzN0Y2xaSll5SXFnMGJHcHlKS0FxUDU0MFlMUDVFX2FqZzBIZHciLCJpZCI6ImZjX1hCazZhdXUxRC1PWXB0UVBwYy0xeUFJXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5FSm9SV2R1TUhCWmVrcFZNV041WlhaQmFFSk1PR3BPZFd0TmRFUXlkRFJ0Y2pSUmJXTmxkbFo0Um1kUVlUUnBVSG93VkVoTFVVUjBTVFYxT1hOMFFVTkNUbWN3YlRoc05HTjFOemwzVlhKWE5rRXlUVUU1TUUxNVFSSVhXRUpyTm1GMWRURkVMVTlaY0hSUlVIQmpMVEY1UVVrYUlrRkVjM0k1WmxGQ2JFRlpRMEpoZG1vMmVXNXZlRkJyU2xwTVVYaFlSMGMzT0hjIiwiZmN2IjoiMyIsImVpIjoiWEJrNmF1dTFELU9ZcHRRUHBjLTF5QUkiLCJxYyI6IkNpWnRaV1JwWTJGeVpTQmxiR2xuYVdKcGJHbDBlU0JqWVd4amRXeGhkRzl5SUdGblpTQTJOUkFBZmZLQ19UNCIsInF1ZXN0aW9uIjoiSXMgcGFsbGlhdGl2ZSBjYXJlIGNvdmVyZWQgYnkgTWVkaWNhcmU%2FIiwibGsiOiJjNU5TeXl4V0tFak15Y2xNTE1rc1MxVklUaXdDRXZsbHFVV3BLUXBKbFFxNXFTbVpJREVBIiwiYnMiOiJjNDNRc1FyQ01CREdjVnd6T1VwQXZVbWRSS3Q3S1RnbzZOUW51RGJYTnBDWW1yU1ZQcTV2b2xZTDFzRTYzLV9QQjhjQ050a1pjaEFjUTdpVXFHUlNRMklzbkVqSUdDMzUzcFNQeFZPZ2NoMmgzNEtkMldadnJxRExPSU5HdGkzay1LSXBLaFVwRklJc3VOS21aR3RfZE5QZWxudFpwOVJfbEl6WXVtY1BJYmZHRlZnUVJOTGtydmE5RlZfMlRIMGxMR1R6ZzN0Y2xaSll5SXFnMGJHcHlKS0FxUDU0MFlMUDVFX2FqZzBIZHciLCJpZCI6ImZjX1hCazZhdXUxRC1PWXB0UVBwYy0xeUFJXzMifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "BeEFP3icxVbdcqpIEL7f9zjeJAooGk0VdWpAVPwflSR6Q8GAw5-igFFzt--yT7XX-yBn-FOMmtSeqq1tS2amp6fpnu7Pzz__cq218_cf_5hhuAmeKWq_35ew52HXKCFvRanBcY2opecGPjJ_Ht-5SgEFHF0wLO6Nd2rqbsc0i6P5JoTjDSoyRyAV4iOcoqmBYROPBzugFIo8nB-VJlmUgpKxLgkmqx1evN7hIJfKNNMojSh1RQzAfygimMQjJB-JjNKVRfR6_I0XKEUHpzmNkHtmMkgcSVI8CHedCmkUwjwyaRYXPsuDJox1nS-imF4uX6OHCPYA8FGIIrx15lYQmc5LR_7uG8VrVWzMp-9q5t3fy5fPFxhGPmd1IJwLkaXMgywDYoLJnE88VgHPjvdCW_iiTGRngzuiWYQ3g85Jqydu9um8P2-TiCgdkyakKc0nA0NZyETxxA-i3hRmDdprjX19ceg0_er07Rj4It3ZDazFYbcOB5BCGrFzPVU3dMVU6J_xmikzVbpReao_xqBAwQkVQR4Vi9rABZXustICpX6JZ3KQiC8jaaUspajd-Dvp9dI7zMmpO-O7ht30brJbljMz3svQkSpsJ-qq-UlRj0phfn5j5OsaEpng_IRAIg5bkk8n8-bRVOLPoabS_Fzv8zrNYQ568JSymIs48Za7Kh44UYpSO1PsT1uRV-yCGOIEEiKfeBxdnMf5wIgnXgBitn2KILJpOiczMY4w2p5DOAdSi0CUlA9nyaelJJCQLu8O2BerFo6-Ar4J8O-EPxf8nogg6_1PrXwBgarCfkwWQtmrgv5OHRVbMpbbwtZFFrzd8t5K-xdMgP5fUMgpT8gpEno3QYG_AQWUxC95ImngM09EvSJ490AhpG18yRNJ45554hoU00tQnHhC-swTOVAkXr4GBX8XFMnPyjUoIp64AgW-A4qEJ_KguOSJ9clzlEEOFL_FE_A3eCLGiJEMl6Sxs_Fd8hAFy8Eszcrlql9979hlZfEi4LYDAwS-JY_lKnxeqbr7qFj6M1_uhkf9USEK79nQC1tuZegWUn3jwXAtbGmWa4XHB6S6aOeqoec_qNh4qFULK9f3OFplnQ_JtMezl-HBmRkTXHuDDefDthsfnZFP67vhvK0t4AEt664x1cWyM251XMbWe9WlshUWqk03a4NFU54PK1PcVcJpEM5qrcCVp-9svQ8Dc7pg-yPDHo6mZnvZ2Ymz1407MWl-Le1kVOwhWekOjq_bScPY29s4qoA7ivJbZdyqPRn7AkksMDimsPIRR6DAYjCE4BUDRDAAIPlHBQWPfPekAwoBUhUjeOc0TXvSa4xR1yuaVnkyCiscHjccyxSCtc8xvwD7hBoD",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BeEFP3icxVbdcqpIEL7f9zjeJAooGk0VdWpAVPwflSR6Q8GAw5-igFFzt--yT7XX-yBn-FOMmtSeqq1tS2amp6fpnu7Pzz__cq218_cf_5hhuAmeKWq_35ew52HXKCFvRanBcY2opecGPjJ_Ht-5SgEFHF0wLO6Nd2rqbsc0i6P5JoTjDSoyRyAV4iOcoqmBYROPBzugFIo8nB-VJlmUgpKxLgkmqx1evN7hIJfKNNMojSh1RQzAfygimMQjJB-JjNKVRfR6_I0XKEUHpzmNkHtmMkgcSVI8CHedCmkUwjwyaRYXPsuDJox1nS-imF4uX6OHCPYA8FGIIrx15lYQmc5LR_7uG8VrVWzMp-9q5t3fy5fPFxhGPmd1IJwLkaXMgywDYoLJnE88VgHPjvdCW_iiTGRngzuiWYQ3g85Jqydu9um8P2-TiCgdkyakKc0nA0NZyETxxA-i3hRmDdprjX19ceg0_er07Rj4It3ZDazFYbcOB5BCGrFzPVU3dMVU6J_xmikzVbpReao_xqBAwQkVQR4Vi9rABZXustICpX6JZ3KQiC8jaaUspajd-Dvp9dI7zMmpO-O7ht30brJbljMz3svQkSpsJ-qq-UlRj0phfn5j5OsaEpng_IRAIg5bkk8n8-bRVOLPoabS_Fzv8zrNYQ568JSymIs48Za7Kh44UYpSO1PsT1uRV-yCGOIEEiKfeBxdnMf5wIgnXgBitn2KILJpOiczMY4w2p5DOAdSi0CUlA9nyaelJJCQLu8O2BerFo6-Ar4J8O-EPxf8nogg6_1PrXwBgarCfkwWQtmrgv5OHRVbMpbbwtZFFrzd8t5K-xdMgP5fUMgpT8gpEno3QYG_AQWUxC95ImngM09EvSJ490AhpG18yRNJ45554hoU00tQnHhC-swTOVAkXr4GBX8XFMnPyjUoIp64AgW-A4qEJ_KguOSJ9clzlEEOFL_FE_A3eCLGiJEMl6Sxs_Fd8hAFy8Eszcrlql9979hlZfEi4LYDAwS-JY_lKnxeqbr7qFj6M1_uhkf9USEK79nQC1tuZegWUn3jwXAtbGmWa4XHB6S6aOeqoec_qNh4qFULK9f3OFplnQ_JtMezl-HBmRkTXHuDDefDthsfnZFP67vhvK0t4AEt664x1cWyM251XMbWe9WlshUWqk03a4NFU54PK1PcVcJpEM5qrcCVp-9svQ8Dc7pg-yPDHo6mZnvZ2Ymz1407MWl-Le1kVOwhWekOjq_bScPY29s4qoA7ivJbZdyqPRn7AkksMDimsPIRR6DAYjCE4BUDRDAAIPlHBQWPfPekAwoBUhUjeOc0TXvSa4xR1yuaVnkyCiscHjccyxSCtc8xvwD7hBoD"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Estimate my Medicare eligibility & premium",
+      "link": "https://www.medicare.gov/eligibilitypremiumcalc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.medicare.gov/eligibilitypremiumcalc&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQFnoECB0QAQ",
+      "displayed_link": "https://www.medicare.gov › eligibilitypremiumcalc",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEz_______________-mw77w9vXk7u0AWEgAYVK908_S4d8Ta14HZ1pZkIdrm5QAZFazzMiTtrAodWmGraY5fnOxuCEvAAAABHRSTlMAGKfzZFQd2gAAAOtJREFUeAF8keEWgyAIha1CY4LDVu__qhNT5s5Z40dd-fAq4tw0L-uPWOapsB-o4cnN623MbrmHi1v_RIcA4C_lTXYYNtzgko8i4xd8IHG65FMI8xfckYhDdX0RyWGwlRNC8zCTBk_uKS3jc4SeNDiMymAQPhMjqCunkzEOMJeUptUV87OWGTxEDk8swTOT38tqgIkF6qa6XX0GWE9RUAqg3uADAzGH0r72Q0Xo12BkfvUWUzXiaBCk5nKBAlrFAgb1sv0p1G9HOQwm3PL1x9SmlgzmNt4IENu8s8G7cO_hS2B4kybeRI03OwAAh0MToCPWjL4AAAAASUVORK5CYII.png",
+      "snippet": "Get an estimate of when you're eligible for Medicare and your premium amount. If you don't see your situation, contact Social Security.",
+      "snippet_highlighted_words": [
+        "Get an estimate of when you're eligible for Medicare"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Get an estimate of when you're eligible for Medicare and your premium amount. If you don't see your situation, contact Social Security.",
+          "source_info_link": "https://www.medicare.gov/eligibilitypremiumcalc",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEz_______________-mw77w9vXk7u0AWEgAYVK908_S4d8Ta14HZ1pZkIdrm5QAZFazzMiTtrAodWmGraY5fnOxuCEvAAAABHRSTlMAGKfzZFQd2gAAAOtJREFUeAF8keEWgyAIha1CY4LDVu__qhNT5s5Z40dd-fAq4tw0L-uPWOapsB-o4cnN623MbrmHi1v_RIcA4C_lTXYYNtzgko8i4xd8IHG65FMI8xfckYhDdX0RyWGwlRNC8zCTBk_uKS3jc4SeNDiMymAQPhMjqCunkzEOMJeUptUV87OWGTxEDk8swTOT38tqgIkF6qa6XX0GWE9RUAqg3uADAzGH0r72Q0Xo12BkfvUWUzXiaBCk5nKBAlrFAgb1sv0p1G9HOQwm3PL1x9SmlgzmNt4IENu8s8G7cO_hS2B4kybeRI03OwAAh0MToCPWjL4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.medicare.gov/eligibilitypremiumcalc&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.medicare.gov%2Feligibilitypremiumcalc",
+      "source": "medicare.gov",
+      "read_more_link": "https://www.medicare.gov/eligibilitypremiumcalc#:~:text=Get%20an%20estimate%20of%20when,your%20specific%20eligibility%20or%20premium."
+    },
+    {
+      "position": 2,
+      "title": "Medicare Enrollment Date Calculator",
+      "link": "https://boomerbenefits.com/medicare-enrollment-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://boomerbenefits.com/medicare-enrollment-calculator/&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQFnoECBsQAQ",
+      "displayed_link": "https://boomerbenefits.com › medicare-enrollment-calc...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____j6vRYh79mkMFrl8ZumseJqs7G1ObS3Os5drRJgrpGgrxIhL1Eg7tJhr1HgrlAfLY7eLM7e7dCgbtGhLqnvNh_pM2bttaQsdOcttXp7_ZRh7vT3ezc5fD19vuuw923yODA0eauwd8hTtvhAAAAx0lEQVR4AcTPRQLCMBBAURziySTU_f6HZOoysOZvKi96-l_ny_V6G7s_ngd8MS4wqZRWxt4P6DjnSko9BE-CynuFM0MI9k3QR3GcJLcQjE0Jumx45YjxAQ1nI-YEC8cNlCesMoj1AQ2XHgs-4GmL40wux5tgkt5TYHIo-YLQ5xFFRRCSuq7fD1RoCLJxPC4O8S_URkBCEM7DPa3ydKaUw1lAIaY7fCL2KTUMaPfIuFjy7HAVZmGOuddpX_fu6qbFns_yM1onWAC9whGMhvHeuAAAAABJRU5ErkJggg.png",
+      "snippet": "Use this Medicare Enrollment Calculator to determine your Medicare Initial Enrollment Period window and when you can enroll in Medicare.",
+      "snippet_highlighted_words": [
+        "Use this Medicare Enrollment Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this Medicare Enrollment Calculator to determine your Medicare Initial Enrollment Period window and when you can enroll in Medicare.",
+          "source_info_link": "https://boomerbenefits.com/medicare-enrollment-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____j6vRYh79mkMFrl8ZumseJqs7G1ObS3Os5drRJgrpGgrxIhL1Eg7tJhr1HgrlAfLY7eLM7e7dCgbtGhLqnvNh_pM2bttaQsdOcttXp7_ZRh7vT3ezc5fD19vuuw923yODA0eauwd8hTtvhAAAAx0lEQVR4AcTPRQLCMBBAURziySTU_f6HZOoysOZvKi96-l_ny_V6G7s_ngd8MS4wqZRWxt4P6DjnSko9BE-CynuFM0MI9k3QR3GcJLcQjE0Jumx45YjxAQ1nI-YEC8cNlCesMoj1AQ2XHgs-4GmL40wux5tgkt5TYHIo-YLQ5xFFRRCSuq7fD1RoCLJxPC4O8S_URkBCEM7DPa3ydKaUw1lAIaY7fCL2KTUMaPfIuFjy7HAVZmGOuddpX_fu6qbFns_yM1onWAC9whGMhvHeuAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://boomerbenefits.com/medicare-enrollment-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fboomerbenefits.com%2Fmedicare-enrollment-calculator%2F",
+      "source": "Boomer Benefits"
+    },
+    {
+      "position": 3,
+      "title": "Medicare Eligibility & Enrollment",
+      "link": "https://www.gohealth.com/medicare/eligibility-enrollment/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gohealth.com/medicare/eligibility-enrollment/&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQFnoECBgQAQ",
+      "displayed_link": "https://www.gohealth.com › medicare › eligibility-enrol...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEwAPm4APm4APm4APm4APm4APm4APm4APm4APm4APm4APm4APm4APm4APm4APm5kb0xJAAAAD3RSTlMAGAhzjeYo1fa8QqBWrmXqVaSZAAAAqUlEQVQokZWS6xKFIAiEVUATL7z_21bTSRuwZs7-_WLbRZz7V777NxQhU3xFm6xhqAcSoZWtLycSScEyTnIpGxhAbqGxxG3A-sE2nQcmk6yz0GQCCuYHS8qV5WOwPFhTgyE9TFn3mHGo6-34MUlgN3eHTXWxcrw2U5bvGE_HwtzxUGf1DbQaYfxZN3W-zaYmEw5WzJH4OzChPaAfpLYq42IFLMCv5-zU0A7p6g1sGgiqeQAAAABJRU5ErkJggg.png",
+      "snippet": "You are eligible for Medicare enrollment when you turn 65 and in some cases before 65. Learn if you're eligible, and how to get enrolled.",
+      "snippet_highlighted_words": [
+        "You are eligible for Medicare enrollment when you turn 65"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You are eligible for Medicare enrollment when you turn 65 and in some cases before 65. Learn if you're eligible, and how to get enrolled.",
+          "source_info_link": "https://www.gohealth.com/medicare/eligibility-enrollment/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEwAPm4APm4APm4APm4APm4APm4APm4APm4APm4APm4APm4APm4APm4APm4APm5kb0xJAAAAD3RSTlMAGAhzjeYo1fa8QqBWrmXqVaSZAAAAqUlEQVQokZWS6xKFIAiEVUATL7z_21bTSRuwZs7-_WLbRZz7V777NxQhU3xFm6xhqAcSoZWtLycSScEyTnIpGxhAbqGxxG3A-sE2nQcmk6yz0GQCCuYHS8qV5WOwPFhTgyE9TFn3mHGo6-34MUlgN3eHTXWxcrw2U5bvGE_HwtzxUGf1DbQaYfxZN3W-zaYmEw5WzJH4OzChPaAfpLYq42IFLMCv5-zU0A7p6g1sGgiqeQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.gohealth.com/medicare/eligibility-enrollment/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gohealth.com%2Fmedicare%2Feligibility-enrollment%2F",
+      "source": "GoHealth"
+    },
+    {
+      "position": 4,
+      "title": "Initial Enrollment Period Calculator",
+      "link": "https://themedicarefamily.com/calculators/initial-enrollment-period/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://themedicarefamily.com/calculators/initial-enrollment-period/&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQFnoECBkQAQ",
+      "displayed_link": "https://themedicarefamily.com › Calculators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEUiLGghK2ceKWYbJ2kZJWccJ2VQV4XFyNjd3-ja3ObAw9VXX43MztxnbpaanrmeorosOHa7vs8-R3vm5-3z8_b___-nq8MzO3K7vdDg4ejt7vM5QnhHT4AkLmmtsccACls1QHmRlrEAFF54fqSKj64UIWKBh6lka5Z1e6ABlL-6AAAA20lEQVR4AWIYOYARAkA0hANohiwMAwhhAIjDu5F39_0nbPi6DFDiOfyt4xjjXAjBOeWCS4qVJMw1JFKptPE8z_hB6HmRjI2XpBnWxs8ZwrCwAIUO0JeVB1CnDbRNk3WM0LRXNYR53yH0VGshQ5h0fT64K0g-gj_J2drCLrZ9YBOGkXy9LcKVzbbQYL3wgYXn_YSxhbp-4MKxjwzdCBoh2K2BvQY_LWA5mGNuBOclaXpuXbR1mA_3qeTHH8kDc3ocTBwMc8wk-W9jGH633uzPmQP5mwxfa_J38a1-ARmxEMw34oD7AAAAAElFTkSuQmCC.png",
+      "snippet": "Use this calculator to determine your Initial Enrollment Period (IEP) for starting Medicare Part A and Part B. This 7 month window around your 65th birthday ...",
+      "snippet_highlighted_words": [
+        "Use this calculator to determine your Initial Enrollment Period (IEP"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this calculator to determine your Initial Enrollment Period (IEP) for starting Medicare Part A and Part B. This 7 month window around your 65th birthday ...",
+          "source_info_link": "https://themedicarefamily.com/calculators/initial-enrollment-period/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEUiLGghK2ceKWYbJ2kZJWccJ2VQV4XFyNjd3-ja3ObAw9VXX43MztxnbpaanrmeorosOHa7vs8-R3vm5-3z8_b___-nq8MzO3K7vdDg4ejt7vM5QnhHT4AkLmmtsccACls1QHmRlrEAFF54fqSKj64UIWKBh6lka5Z1e6ABlL-6AAAA20lEQVR4AWIYOYARAkA0hANohiwMAwhhAIjDu5F39_0nbPi6DFDiOfyt4xjjXAjBOeWCS4qVJMw1JFKptPE8z_hB6HmRjI2XpBnWxs8ZwrCwAIUO0JeVB1CnDbRNk3WM0LRXNYR53yH0VGshQ5h0fT64K0g-gj_J2drCLrZ9YBOGkXy9LcKVzbbQYL3wgYXn_YSxhbp-4MKxjwzdCBoh2K2BvQY_LWA5mGNuBOclaXpuXbR1mA_3qeTHH8kDc3ocTBwMc8wk-W9jGH633uzPmQP5mwxfa_J38a1-ARmxEMw34oD7AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://themedicarefamily.com/calculators/initial-enrollment-period/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthemedicarefamily.com%2Fcalculators%2Finitial-enrollment-period%2F",
+      "source": "The Medicare Family"
+    },
+    {
+      "position": 5,
+      "title": "Medicare Eligibility Calculator 2026 — Find Out When You ...",
+      "link": "https://whenmedicare.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://whenmedicare.com/&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQFnoECBcQAQ",
+      "displayed_link": "https://whenmedicare.com",
+      "snippet": "Path 1 — Age 65: If you are turning 65 and are a U.S. citizen or permanent resident who has lived in the country for at least 5 years, you are eligible. · Path 2 ...",
+      "snippet_highlighted_words": [
+        "Age 65"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Path 1 — Age 65: If you are turning 65 and are a U.S. citizen or permanent resident who has lived in the country for at least 5 years, you are eligible. · Path 2 ...",
+          "source_info_link": "https://whenmedicare.com/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://whenmedicare.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwhenmedicare.com%2F",
+      "source": "whenmedicare.com",
+      "read_more_link": "https://whenmedicare.com/#:~:text=Path%201%20%E2%80%94%20Age%2065%3A,5%20years%2C%20you%20are%20eligible.&text=Path%202%20%E2%80%94%20Social%20Security"
+    },
+    {
+      "position": 6,
+      "title": "Medicare Eligibility: Age, Qualifications and Requirements",
+      "link": "https://www.humana.com/medicare/medicare-resources/medicare-eligibility-age-and-qualifications",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.humana.com/medicare/medicare-resources/medicare-eligibility-age-and-qualifications&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQFnoECD0QAQ",
+      "displayed_link": "https://www.humana.com › ... › Learn about Medicare",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEV4viByvAh2vRlvugDJ5K2Uy1vT6L6JxkR0vBFzvBDp9N2czmlgtQD1-vK22pGx2IuAwS-53JjK5LGt1YWazWSr1YGLxkrC4Ka83Zuj0XTi8NTz-e3Z7Mf____-__uSylHe7tCm0njB4KJAyh35AAAApElEQVR4Ae2LhRHEMAwET2Y7zCjnk_57fB5-aCBrC3eEv5yQgBTfnNLSWIIDkSeHewgi8aiADEma6VwWZVU3dSvzuuuHuqexnhzkvKzcxnTZuOCGp6XIqnlc8jAGeZeVjm12l1HGlPMBWV6LqCr7kGFKs-1-u7HklLulyyoDri7VXfq8l2O5r0N5uEMqOQxVu2Og-ig84AU8nCS8H5Fwz-px8o8bsQYKOnWouDwAAAAASUVORK5CYII.png",
+      "snippet": "To find out if you're eligible and to calculate your Part B premium, try the Medicare.gov eligibility & premium calculator opens in new window . ... You have ...",
+      "snippet_highlighted_words": [
+        "Medicare.gov eligibility & premium calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "To find out if you're eligible and to calculate your Part B premium, try the Medicare.gov eligibility & premium calculator opens in new window . ... You have ...",
+          "source_info_link": "https://www.humana.com/medicare/medicare-resources/medicare-eligibility-age-and-qualifications",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEV4viByvAh2vRlvugDJ5K2Uy1vT6L6JxkR0vBFzvBDp9N2czmlgtQD1-vK22pGx2IuAwS-53JjK5LGt1YWazWSr1YGLxkrC4Ka83Zuj0XTi8NTz-e3Z7Mf____-__uSylHe7tCm0njB4KJAyh35AAAApElEQVR4Ae2LhRHEMAwET2Y7zCjnk_57fB5-aCBrC3eEv5yQgBTfnNLSWIIDkSeHewgi8aiADEma6VwWZVU3dSvzuuuHuqexnhzkvKzcxnTZuOCGp6XIqnlc8jAGeZeVjm12l1HGlPMBWV6LqCr7kGFKs-1-u7HklLulyyoDri7VXfq8l2O5r0N5uEMqOQxVu2Og-ig84AU8nCS8H5Fwz-px8o8bsQYKOnWouDwAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.humana.com/medicare/medicare-resources/medicare-eligibility-age-and-qualifications&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.humana.com%2Fmedicare%2Fmedicare-resources%2Fmedicare-eligibility-age-and-qualifications",
+      "source": "Humana",
+      "read_more_link": "https://www.humana.com/medicare/medicare-resources/medicare-eligibility-age-and-qualifications#:~:text=To%20find%20out%20if%20you're,.&text=You%20have%20reached%20the%20Medicare,age%20of%2065%20or%20older"
+    },
+    {
+      "position": 7,
+      "title": "Medicare Eligibility: Who Qualifies and When?",
+      "link": "https://www.nerdwallet.com/insurance/medicare/learn/medicare-eligibility",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nerdwallet.com/insurance/medicare/learn/medicare-eligibility&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQFnoECEAQAQ",
+      "displayed_link": "https://www.nerdwallet.com › Insurance › Medicare",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEX29_j4-Pv5-Pvz9vPF4s3M5tPs9O_e7NIApycAqztZtzE_tEbm8N55vQODwizV5sX4-PwNsEsArkxhu0aZyDw4tUqBwSaLxT_X58iRxj4OqEqLvzwGYTQHaDYys0EAYCJfuTa64clEiihqvUROjTqNyi-TzEAAWTNUth7XK_77AAAAvUlEQVR4AcTRNQLEMAwAwRjDzMzw_xeefBxss40tTSnpthAWoddf9G-EMsYox2KQReSHmCqqqmo6KDJMy7JM2_khU13PD0KXY2REcRxbyQo9P01DF_QI_TQGBD1ALY1f6MnWBpHYCISy_AqLSywvsbzE8gCrL9YJWmPatN4bi852Vpj2KiMvLIYxWWHaeyrDXGAxTNYae88FBM3mYYrXuKiqqjAsYZ514_pkiLQUIkgCtROIoMfwJBMgc4AAAIG5Fzk1nAsjAAAAAElFTkSuQmCC.png",
+      "date": "Apr 13, 2026",
+      "snippet": "Aged-based eligibility for Medicare starts when you turn 65. ... The Medicare eligibility age calculator below can help you determine ...",
+      "snippet_highlighted_words": [
+        "Aged",
+        "eligibility",
+        "Medicare",
+        "65",
+        "Medicare eligibility age calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Aged-based eligibility for Medicare starts when you turn 65. ... The Medicare eligibility age calculator below can help you determine ...",
+          "source_info_link": "https://www.nerdwallet.com/insurance/medicare/learn/medicare-eligibility",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEX29_j4-Pv5-Pvz9vPF4s3M5tPs9O_e7NIApycAqztZtzE_tEbm8N55vQODwizV5sX4-PwNsEsArkxhu0aZyDw4tUqBwSaLxT_X58iRxj4OqEqLvzwGYTQHaDYys0EAYCJfuTa64clEiihqvUROjTqNyi-TzEAAWTNUth7XK_77AAAAvUlEQVR4AcTRNQLEMAwAwRjDzMzw_xeefBxss40tTSnpthAWoddf9G-EMsYox2KQReSHmCqqqmo6KDJMy7JM2_khU13PD0KXY2REcRxbyQo9P01DF_QI_TQGBD1ALY1f6MnWBpHYCISy_AqLSywvsbzE8gCrL9YJWmPatN4bi852Vpj2KiMvLIYxWWHaeyrDXGAxTNYae88FBM3mYYrXuKiqqjAsYZ514_pkiLQUIkgCtROIoMfwJBMgc4AAAIG5Fzk1nAsjAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.nerdwallet.com/insurance/medicare/learn/medicare-eligibility&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nerdwallet.com%2Finsurance%2Fmedicare%2Flearn%2Fmedicare-eligibility",
+      "source": "NerdWallet",
+      "read_more_link": "https://www.nerdwallet.com/insurance/medicare/learn/medicare-eligibility#:~:text=Aged%2Dbased%20eligibility%20for%20Medicare%20starts,when%20you%20turn%2065.&text=The%20Medicare%20eligibility%20age%20calculator,Medicare%20based%20on%20your%20birthday."
+    },
+    {
+      "position": 8,
+      "title": "What Age Is Eligible for Medicare?",
+      "link": "https://ilc.wellcare.com/resources/what-age-is-eligible-for-medicare",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ilc.wellcare.com/resources/what-age-is-eligible-for-medicare&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQFnoECDsQAQ",
+      "displayed_link": "https://ilc.wellcare.com › resources › what-age-is-eligibl...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEUAoKMAn6IAnJ8AnqEcqq6D0dKI09RmxMVNur01tLb____B4-SS0tSFzs_U6-z3-_zL5-ep29ye19jo9fXt-vpkvsA8sLNyysxmxsfbjv1zAAAAgklEQVR4AdWLhRHAMAwDY4dVxmT_SauD0gj5gOFPpkFE1bLYp8jHOR-iNTYFn1hi8O61NgOdGu2BgWUEsv3I6StnTE3LWawuwKpqxp8Us2Hvj2EDtuHoJ2xcvdEBmLYJEy8LBgY_0RVkj3EH6bn42bOEeoqc1Zfz74i1arkTFmua5ALr2AkxxoZZ3wAAAABJRU5ErkJggg.png",
+      "snippet": "While most people don't reach the Medicare eligibility age until they turn 65 ... Medicare.gov has a calculator that makes it easy to check your Medicare ...",
+      "snippet_highlighted_words": [
+        "Medicare.gov has a calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "While most people don't reach the Medicare eligibility age until they turn 65 ... Medicare.gov has a calculator that makes it easy to check your Medicare ...",
+          "source_info_link": "https://ilc.wellcare.com/resources/what-age-is-eligible-for-medicare",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEUAoKMAn6IAnJ8AnqEcqq6D0dKI09RmxMVNur01tLb____B4-SS0tSFzs_U6-z3-_zL5-ep29ye19jo9fXt-vpkvsA8sLNyysxmxsfbjv1zAAAAgklEQVR4AdWLhRHAMAwDY4dVxmT_SauD0gj5gOFPpkFE1bLYp8jHOR-iNTYFn1hi8O61NgOdGu2BgWUEsv3I6StnTE3LWawuwKpqxp8Us2Hvj2EDtuHoJ2xcvdEBmLYJEy8LBgY_0RVkj3EH6bn42bOEeoqc1Zfz74i1arkTFmua5ALr2AkxxoZZ3wAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ilc.wellcare.com/resources/what-age-is-eligible-for-medicare&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Filc.wellcare.com%2Fresources%2Fwhat-age-is-eligible-for-medicare",
+      "source": "Wellcare",
+      "read_more_link": "https://ilc.wellcare.com/resources/what-age-is-eligible-for-medicare#:~:text=While%20most%20people%20don't%20reach,for%20those%20who%20qualify%20early.&text=Medicare.gov%20has%20a%20calculator%20that,to%20check%20your%20Medicare%20eligibility."
+    },
+    {
+      "position": 9,
+      "title": "Medicare Eligibility Age Chart & Calculator (2026)",
+      "link": "https://lehighpartners.net/resources/medicare-eligibility-age-chart/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lehighpartners.net/resources/medicare-eligibility-age-chart/&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQFnoECEIQAQ",
+      "displayed_link": "https://lehighpartners.net › Resources",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAtklEQVR4AWJwL_ChCDMI-df2AFojkyIAYRiKWsABAqqiMioAF0jAChZQUAn1kHNO4TPzM8O-Hx60WV43YEBBMwXxr0HPuFNAA-ojgZwI5gwgPBEImzJ3acxVdwUFRBAoMhIfCRhPQBjv3wgi5wby2x2Usx2ksztgTBlPa4GyoGWsuJjxYdac917BUWIHZD-SC1o2yApdSQvovNnx88YVafbmwkWCb3vObEJOXoH8LziTBP6ro7oRxHde_gJwO_oAAAAASUVORK5CYII.png",
+      "snippet": "Most people qualify for Medicare at 65. Enter your birthday to get your exact Medicare start date and enrollment window. Plus: early eligibility, the age-67 ...",
+      "snippet_highlighted_words": [
+        "Medicare",
+        "65",
+        "Medicare",
+        "eligibility",
+        "age"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What Age Do You Qualify For...",
+            "link": "https://lehighpartners.net/resources/medicare-eligibility-age-chart/#:~:text=What%20age%20do%20you%20qualify%20for%20Medicare%3F"
+          },
+          {
+            "title": "Medicare Eligibility Age...",
+            "link": "https://lehighpartners.net/resources/medicare-eligibility-age-chart/#:~:text=Medicare%20Eligibility%20Age%20Chart,-Use%20this%20chart%20to%20find"
+          },
+          {
+            "title": "Key Differences At A Glance",
+            "link": "https://lehighpartners.net/resources/medicare-eligibility-age-chart/#:~:text=Key%20differences%20at%20a%20glance"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Most people qualify for Medicare at 65. Enter your birthday to get your exact Medicare start date and enrollment window. Plus: early eligibility, the age-67 ...",
+          "source_info_link": "https://lehighpartners.net/resources/medicare-eligibility-age-chart/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAtklEQVR4AWJwL_ChCDMI-df2AFojkyIAYRiKWsABAqqiMioAF0jAChZQUAn1kHNO4TPzM8O-Hx60WV43YEBBMwXxr0HPuFNAA-ojgZwI5gwgPBEImzJ3acxVdwUFRBAoMhIfCRhPQBjv3wgi5wby2x2Usx2ksztgTBlPa4GyoGWsuJjxYdac917BUWIHZD-SC1o2yApdSQvovNnx88YVafbmwkWCb3vObEJOXoH8LziTBP6ro7oRxHde_gJwO_oAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://lehighpartners.net/resources/medicare-eligibility-age-chart/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Flehighpartners.net%2Fresources%2Fmedicare-eligibility-age-chart%2F",
+      "source": "Lehigh Partners Senior Benefits"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Medicare eligibility age chart",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Medicare+eligibility+age+chart&sa=X&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Medicare+eligibility+age+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Who is not eligible for Medicare at age 65",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Who+is+not+eligible+for+Medicare+at+age+65&sa=X&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+not+eligible+for+Medicare+at+age+65"
+    },
+    {
+      "block_position": 1,
+      "query": "Medicare eligibility income chart",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Medicare+eligibility+income+chart&sa=X&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Medicare+eligibility+income+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Medicare gov eligibility calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Medicare+gov+eligibility+calculator&sa=X&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Medicare+gov+eligibility+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Medicare premium calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Medicare+premium+calculator&sa=X&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Medicare+premium+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Medicare calculator 2026",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Medicare+calculator+2026&sa=X&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Medicare+calculator+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Medicare premium calculator 2026",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Medicare+premium+calculator+2026&sa=X&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Medicare+premium+calculator+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Verify Medicare eligibility and benefits for providers",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Verify+Medicare+eligibility+and+benefits+for+providers&sa=X&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Verify+Medicare+eligibility+and+benefits+for+providers"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=medicare+eligibility+calculator+age+65&sca_esv=bbb7d61e8d3bb37e&ei=XBk6auu1D-OYptQPpc-1yAI&start=10&sa=N&sstk=AU9db-A6cTDiRAMXBTpj1PQX_PypJVU2TAuvO3mB5ldg3Uvkq7-InRT9uiuq7vilMsuZMhJrx_IUSQTKSO7pq3Dhx8m3s3_50Dlc2g&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ8NMDegQIMRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=medicare+eligibility+calculator+age+65&sca_esv=bbb7d61e8d3bb37e&ei=XBk6auu1D-OYptQPpc-1yAI&start=10&sa=N&sstk=AU9db-A6cTDiRAMXBTpj1PQX_PypJVU2TAuvO3mB5ldg3Uvkq7-InRT9uiuq7vilMsuZMhJrx_IUSQTKSO7pq3Dhx8m3s3_50Dlc2g&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ8tMDegQIMRAE",
+      "3": "https://www.google.com/search?q=medicare+eligibility+calculator+age+65&sca_esv=bbb7d61e8d3bb37e&ei=XBk6auu1D-OYptQPpc-1yAI&start=20&sa=N&sstk=AU9db-A6cTDiRAMXBTpj1PQX_PypJVU2TAuvO3mB5ldg3Uvkq7-InRT9uiuq7vilMsuZMhJrx_IUSQTKSO7pq3Dhx8m3s3_50Dlc2g&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ8tMDegQIMRAG",
+      "4": "https://www.google.com/search?q=medicare+eligibility+calculator+age+65&sca_esv=bbb7d61e8d3bb37e&ei=XBk6auu1D-OYptQPpc-1yAI&start=30&sa=N&sstk=AU9db-A6cTDiRAMXBTpj1PQX_PypJVU2TAuvO3mB5ldg3Uvkq7-InRT9uiuq7vilMsuZMhJrx_IUSQTKSO7pq3Dhx8m3s3_50Dlc2g&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ8tMDegQIMRAI",
+      "5": "https://www.google.com/search?q=medicare+eligibility+calculator+age+65&sca_esv=bbb7d61e8d3bb37e&ei=XBk6auu1D-OYptQPpc-1yAI&start=40&sa=N&sstk=AU9db-A6cTDiRAMXBTpj1PQX_PypJVU2TAuvO3mB5ldg3Uvkq7-InRT9uiuq7vilMsuZMhJrx_IUSQTKSO7pq3Dhx8m3s3_50Dlc2g&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ8tMDegQIMRAK",
+      "6": "https://www.google.com/search?q=medicare+eligibility+calculator+age+65&sca_esv=bbb7d61e8d3bb37e&ei=XBk6auu1D-OYptQPpc-1yAI&start=50&sa=N&sstk=AU9db-A6cTDiRAMXBTpj1PQX_PypJVU2TAuvO3mB5ldg3Uvkq7-InRT9uiuq7vilMsuZMhJrx_IUSQTKSO7pq3Dhx8m3s3_50Dlc2g&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ8tMDegQIMRAM",
+      "7": "https://www.google.com/search?q=medicare+eligibility+calculator+age+65&sca_esv=bbb7d61e8d3bb37e&ei=XBk6auu1D-OYptQPpc-1yAI&start=60&sa=N&sstk=AU9db-A6cTDiRAMXBTpj1PQX_PypJVU2TAuvO3mB5ldg3Uvkq7-InRT9uiuq7vilMsuZMhJrx_IUSQTKSO7pq3Dhx8m3s3_50Dlc2g&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ8tMDegQIMRAO",
+      "8": "https://www.google.com/search?q=medicare+eligibility+calculator+age+65&sca_esv=bbb7d61e8d3bb37e&ei=XBk6auu1D-OYptQPpc-1yAI&start=70&sa=N&sstk=AU9db-A6cTDiRAMXBTpj1PQX_PypJVU2TAuvO3mB5ldg3Uvkq7-InRT9uiuq7vilMsuZMhJrx_IUSQTKSO7pq3Dhx8m3s3_50Dlc2g&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ8tMDegQIMRAQ",
+      "9": "https://www.google.com/search?q=medicare+eligibility+calculator+age+65&sca_esv=bbb7d61e8d3bb37e&ei=XBk6auu1D-OYptQPpc-1yAI&start=80&sa=N&sstk=AU9db-A6cTDiRAMXBTpj1PQX_PypJVU2TAuvO3mB5ldg3Uvkq7-InRT9uiuq7vilMsuZMhJrx_IUSQTKSO7pq3Dhx8m3s3_50Dlc2g&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ8tMDegQIMRAS",
+      "10": "https://www.google.com/search?q=medicare+eligibility+calculator+age+65&sca_esv=bbb7d61e8d3bb37e&ei=XBk6auu1D-OYptQPpc-1yAI&start=90&sa=N&sstk=AU9db-A6cTDiRAMXBTpj1PQX_PypJVU2TAuvO3mB5ldg3Uvkq7-InRT9uiuq7vilMsuZMhJrx_IUSQTKSO7pq3Dhx8m3s3_50Dlc2g&ved=2ahUKEwjr09-r0JyVAxVjjIkEHaVnDSkQ8tMDegQIMRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=medicare+eligibility+calculator+age+65&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=medicare+eligibility+calculator+age+65&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=medicare+eligibility+calculator+age+65&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=medicare+eligibility+calculator+age+65&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=medicare+eligibility+calculator+age+65&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=medicare+eligibility+calculator+age+65&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=medicare+eligibility+calculator+age+65&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=medicare+eligibility+calculator+age+65&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=medicare+eligibility+calculator+age+65&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=medicare+eligibility+calculator+age+65&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=medicare+eligibility+calculator+age+65&start=90"
+    }
+  }
+}

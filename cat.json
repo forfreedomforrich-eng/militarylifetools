@@ -1,0 +1,988 @@
+{
+  "search_metadata": {
+    "id": "6a3a1969827031568a7933cc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/MchR1Wk_6Xni0kr9J53SbQ/6a3a1969827031568a7933cc.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/MchR1Wk_6Xni0kr9J53SbQ/6a3a1969827031568a7933cc.json_with_pixel_position",
+    "created_at": "2026-06-23 05:28:09 UTC",
+    "processed_at": "2026-06-23 05:28:09 UTC",
+    "google_url": "https://www.google.com/search?q=how+old+is+my+cat+in+human+years&oq=how+old+is+my+cat+in+human+years&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/MchR1Wk_6Xni0kr9J53SbQ/6a3a1969827031568a7933cc.html",
+    "total_time_taken": 3.53
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how old is my cat in human years",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "how old is my cat in human years",
+    "total_results": 148,
+    "time_taken_displayed": 0.17,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://icatcare.org/cat-advice/cat-life-stages",
+      "thumbnail": "https://serpapi.com/searches/6a3a1969827031568a7933cc/images/zj12UpKNGtO_Ws-K8wkMSy5xcKJQHKJh3ExnyLZ779M.jpeg",
+      "original": "https://icatcare.org/img/asset/aW1hZ2VzL2dyYXBoaWNzL2hvdy1vbGQtaXMteW91ci1jYXQuanBn/how-old-is-your-cat.jpg?p=default&s=99e815804459c496adfb086c8eecebac",
+      "title": "Cat care by life stage - International Cat Care",
+      "source_name": "International Cat Care"
+    },
+    {
+      "source": "https://www.dailypaws.com/cats-kittens/health-care/cat-age-in-human-years",
+      "thumbnail": "https://serpapi.com/searches/6a3a1969827031568a7933cc/images/Nbg7zkVAOQAJPQefKCMiXODBj1xSLGn63tbzgQpGGr4.jpeg",
+      "original": "https://www.dailypaws.com/thmb/6v2oFRX-VZTBxYVZ2i1wfcDHJVI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/cat-years-06-2000-925e902b52bd4d09b3339e14babe950e.jpg",
+      "title": "How to Easily Convert Cat Years to Human Years",
+      "source_name": "Daily Paws"
+    },
+    {
+      "source": "https://www.petmd.com/cat/general-health/how-old-is-my-cat-in-human-years",
+      "thumbnail": "https://serpapi.com/searches/6a3a1969827031568a7933cc/images/nGCqTul03LGy00A7oxFK0vOBAHUXKb-fJ5-BOvpBkxE.jpeg",
+      "original": "https://pet-health-content-media.chewy.com/wp-content/uploads/2025/09/03030545/how-old-is-my-cat-cr-final.jpg",
+      "title": "PawsPik Suction Cup Cat Laser Toy, White",
+      "source_name": "PetMD"
+    },
+    {
+      "source": "https://www.catit.com/spotlight/how-old-is-my-cat-in-human-years/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3LnzqMcGXs5XfpynSQkUL9cujfK6UNXWOzy5FJIdG51ykSSsWz_QcAM0&s",
+      "original": "https://www.catit.com/wp-content/uploads/2021/09/Cat-age-Tabel-EN.jpg",
+      "title": "How old is my cat in human years? Cat life stages and what ...",
+      "source_name": "Catit"
+    },
+    {
+      "source": "https://felinefancy.co.uk/blogs/news/how-old-is-my-cat-in-human-years?srsltid=AfmBOoo5fx_31VRYHBuhSxZefgXrrsyUhFM-KYvMzSDvFSMJBvU4ac4K",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZK51tACJEVrxlBnBShy1DGpe8si1WGcQcQhXDqm-ZeC-qciP00FRA1Vo&s",
+      "original": "https://storage.googleapis.com/writer-assistant-storage-public/images/2c1669cf-bf8f-4ce0-bc20-382145600ac0/99b0cd75-ffec-4069-a2d3-db5b04671294/95d2671c-1e35-4597-9817-952e41e3602b.jpg",
+      "title": "How Old Is My Cat In Human Years | Cat Age Calculator ...",
+      "source_name": "Feline Fancy"
+    },
+    {
+      "source": "https://restyourpaws.com.au/pets/how-old-is-my-cat-in-human-years/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaFYShoElmlmUbNzwQ18v1og_ab--OVOJ-0VIUWwVk8oVF-wke7o-8bMc&s",
+      "original": "https://restyourpaws.com.au/wp-content/uploads/2025/08/CAT-YEARS.jpg",
+      "title": "How Old is My Cat in Human Years? - Rest Your Paws",
+      "source_name": "Rest Your Paws"
+    },
+    {
+      "source": "https://wamiz.co.uk/cat/advice/30340/how-old-is-my-cat-in-human-years-find-out-with-our-cat-age-calculator",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmABa4Isd9nWbM1FvuDlBqG8i6bPt7F-ZJ1cZW4GCrz88WmqzrrgtDyiA&s",
+      "original": "https://cdn.wamiz.fr/article/images/UK%20Image/CAT/cat_age_calculator.png",
+      "title": "Find out your cat's age with our cat to human years calculator",
+      "source_name": "Wamiz"
+    },
+    {
+      "source": "https://www.instagram.com/p/DSWlk5YjEkn/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4cthRixN1EKttrQFg8YHQjaBemKG7qzvB0Ls5C5YUf491JvBGSjpojz4&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3789381388450183621",
+      "title": "Have you ever wondered how old your cat is in human years ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.vetclinic.com.my/latestnews/nid/166358/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3k1cSmwirNxo7ODnhO1ZOn_a9X8V3Bok0DweETgsNPIMwvMpyYhZy_A&s",
+      "original": "https://cdn1.npcdn.net/images/17560895756c4195b15458f4d6c69c4c1cc48cca0c.webp?md5id=b80b8df2dc96fcfa4e50b8f9b46a38bf&new_width=1000&new_height=1000&size=max&w=-62170008925&from=png&type=10",
+      "title": "How Old Is Your Cat in Human Years?",
+      "source_name": "Pusat Veterinar Healing Pets"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How do you calculate a cat's age?",
+      "type": "ai_overview",
+      "page_token": "WfdaunicHdBLboJAAADQ9DIudQC11cQ0pYJCBGWcj8ymgRkRYfgoo3x2vUtP1dM06TvC-_6R1zL_fXmmStXNcjJp23Z8qaqLPI95VUyipi_5hEdSxhHPl_PXufae8JX1cMzPm2MGuK7JGoJjSRxYKN_DYOBAZVCXlb-xex8o76STjBn13Qcu8rbswXF6YNLUvE2KgpIAchI1k64e9ZoWGm7gbSGJiN_GpTCRJp24UCDIVYflRxcguOaFvYtlnYTAn4UZa73BAfHa6nhu3xhNkz0mzRG_tZDaPSVSoczNMCZ4jyuDnkhGLbHdI3eKqZpxjStBsKKI2JiKgVnpjukMWqlIz5tGD-ni5OVaFFJRI0sLuGEfxGCaYVddAwwHnskCI9hGAE6j0h8oWSghhSPyWYMy8y5yu2fFAoh2lPDnyhj9f66-kkIt63t1-QMKeYUq",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WfdaunicHdBLboJAAADQ9DIudQC11cQ0pYJCBGWcj8ymgRkRYfgoo3x2vUtP1dM06TvC-_6R1zL_fXmmStXNcjJp23Z8qaqLPI95VUyipi_5hEdSxhHPl_PXufae8JX1cMzPm2MGuK7JGoJjSRxYKN_DYOBAZVCXlb-xex8o76STjBn13Qcu8rbswXF6YNLUvE2KgpIAchI1k64e9ZoWGm7gbSGJiN_GpTCRJp24UCDIVYflRxcguOaFvYtlnYTAn4UZa73BAfHa6nhu3xhNkz0mzRG_tZDaPSVSoczNMCZ4jyuDnkhGLbHdI3eKqZpxjStBsKKI2JiKgVnpjukMWqlIz5tGD-ni5OVaFFJRI0sLuGEfxGCaYVddAwwHnskCI9hGAE6j0h8oWSghhSPyWYMy8y5yu2fFAoh2lPDnyhj9f66-kkIt63t1-QMKeYUq",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsSXdRMlY0Y25WbGMxZFZWbkYxVVdWYWNYRmZWbWx5UWtKc1pGQjZiWEZIYW10aFgyWmFPWFJoVVdsdlYwSTVNRzlCY21JMllucHFjakpLVm5NNVVuTklYMHhtT1ZVM2VuQldYMHRFTUd0c1ZYZEVjbU52UzJWRGR4SVhZWGhyTm1GdlZ6Sk5XbUZuYVV4TlVITnhUM2N3UVdNYUlrRkVjM0k1WmxOeVVTMURkRzVOTTJZd2VEZENPVGQyWmtWNFUyOVJWbXgwYTBFIiwiZmN2IjoiMyIsImVpIjoiYXhrNmFvVzJNWmFnaUxNUHNxT3cwQWMiLCJxYyI6IkNpQm9iM2NnYjJ4a0lHbHpJRzE1SUdOaGRDQnBiaUJvZFcxaGJpQjVaV0Z5Y3hBQWZTQUdFVDgiLCJxdWVzdGlvbiI6IkhvdyBkbyB5b3UgY2FsY3VsYXRlIGEgY2F0J3MgYWdlPyIsImxrIjoiR2lCb2IzY2daRzhnZVc5MUlHTmhiR04xYkdGMFpTQmhJR05oZENkeklHRm5aUSIsImJzIjoiYzQyUHZRckNRQkNFc2IzS09pQ09VWWdXTnZFQmdsZ29XSXYxR2pmZXdjbUYtLUhJMjNzWGJheVVhWmFkajUxWmNSU0xrNG00R3d3bW9DWGRCazJlUVduMmxRTTl1S25MQXZJSEpBNENWMGtleXNGTHhtNmJCQnMwb3pNMmM2NnA1OFVzSnVaRGpQb2l4RmtzeHlQdXlWcm52THdGM1p6UndiTWVrTXpVWjFXVThTY21MbUs5dF96MkpQVzlZZ3ZWNWV3QlRqUDNpTXJMX0ZKVGI0cUtfbU9ua3hjIiwiaWQiOiJmY19heGs2YW9XMk1aYWdpTE1Qc3FPdzBBY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsSXdRMlY0Y25WbGMxZFZWbkYxVVdWYWNYRmZWbWx5UWtKc1pGQjZiWEZIYW10aFgyWmFPWFJoVVdsdlYwSTVNRzlCY21JMllucHFjakpLVm5NNVVuTklYMHhtT1ZVM2VuQldYMHRFTUd0c1ZYZEVjbU52UzJWRGR4SVhZWGhyTm1GdlZ6Sk5XbUZuYVV4TlVITnhUM2N3UVdNYUlrRkVjM0k1WmxOeVVTMURkRzVOTTJZd2VEZENPVGQyWmtWNFUyOVJWbXgwYTBFIiwiZmN2IjoiMyIsImVpIjoiYXhrNmFvVzJNWmFnaUxNUHNxT3cwQWMiLCJxYyI6IkNpQm9iM2NnYjJ4a0lHbHpJRzE1SUdOaGRDQnBiaUJvZFcxaGJpQjVaV0Z5Y3hBQWZTQUdFVDgiLCJxdWVzdGlvbiI6IkhvdyBkbyB5b3UgY2FsY3VsYXRlIGEgY2F0J3MgYWdlPyIsImxrIjoiR2lCb2IzY2daRzhnZVc5MUlHTmhiR04xYkdGMFpTQmhJR05oZENkeklHRm5aUSIsImJzIjoiYzQyUHZRckNRQkNFc2IzS09pQ09VWWdXTnZFQmdsZ29XSXYxR2pmZXdjbUYtLUhJMjNzWGJheVVhWmFkajUxWmNSU0xrNG00R3d3bW9DWGRCazJlUVduMmxRTTl1S25MQXZJSEpBNENWMGtleXNGTHhtNmJCQnMwb3pNMmM2NnA1OFVzSnVaRGpQb2l4RmtzeHlQdXlWcm52THdGM1p6UndiTWVrTXpVWjFXVThTY21MbUs5dF96MkpQVzlZZ3ZWNWV3QlRqUDNpTXJMX0ZKVGI0cUtfbU9ua3hjIiwiaWQiOiJmY19heGs2YW9XMk1aYWdpTE1Qc3FPdzBBY181In0%3D"
+    },
+    {
+      "question": "What is the 3-3-3 rule for cats?",
+      "type": "ai_overview",
+      "page_token": "F78mS3icHdDBboIwHIDx7GU8Koi6zMQsqwLDDLSV_gu9LNAKSitUZcq47V32VHuaLbt_-R2-r299rNXPw-3QtuY6H43u9_uwbJpS74eiOY2y62ctRiLTOs-Ems8eZ_ZzIRbuR4CW5wBhagysiLVT3QVr2IUQtBLWlbA4p4y4UPMs76M0rHhAajIBpjqoEAHwir1vbFyHVs402yQeyoBXebLe5I4sMKiOarQEzT9xrFeJQxpCg_GfeUzHso-qQwpsSlLL60Mfikibc-xqFo-f1sw30zdqliQJJuLVs0LqHYXiWwllJ1w6Fb6yswoV4JNKJmsr63Wzq0OH2wSR1cuEOwa5B3nY-9dxyp6S8C9PmTSxa2PheFvZI5R2zRFT0otKn6jVYmwTxhVX0tGbrEacn7y3yAET--UkTqIG40Ehbgtn8P9z8V6c2rm5NOUvzKCDWw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=F78mS3icHdDBboIwHIDx7GU8Koi6zMQsqwLDDLSV_gu9LNAKSitUZcq47V32VHuaLbt_-R2-r299rNXPw-3QtuY6H43u9_uwbJpS74eiOY2y62ctRiLTOs-Ems8eZ_ZzIRbuR4CW5wBhagysiLVT3QVr2IUQtBLWlbA4p4y4UPMs76M0rHhAajIBpjqoEAHwir1vbFyHVs402yQeyoBXebLe5I4sMKiOarQEzT9xrFeJQxpCg_GfeUzHso-qQwpsSlLL60Mfikibc-xqFo-f1sw30zdqliQJJuLVs0LqHYXiWwllJ1w6Fb6yswoV4JNKJmsr63Wzq0OH2wSR1cuEOwa5B3nY-9dxyp6S8C9PmTSxa2PheFvZI5R2zRFT0otKn6jVYmwTxhVX0tGbrEacn7y3yAET--UkTqIG40Ehbgtn8P9z8V6c2rm5NOUvzKCDWw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsSXdRMlY0Y25WbGMxZFZWbkYxVVdWYWNYRmZWbWx5UWtKc1pGQjZiWEZIYW10aFgyWmFPWFJoVVdsdlYwSTVNRzlCY21JMllucHFjakpLVm5NNVVuTklYMHhtT1ZVM2VuQldYMHRFTUd0c1ZYZEVjbU52UzJWRGR4SVhZWGhyTm1GdlZ6Sk5XbUZuYVV4TlVITnhUM2N3UVdNYUlrRkVjM0k1WmxOeVVTMURkRzVOTTJZd2VEZENPVGQyWmtWNFUyOVJWbXgwYTBFIiwiZmN2IjoiMyIsImVpIjoiYXhrNmFvVzJNWmFnaUxNUHNxT3cwQWMiLCJxYyI6IkNpQm9iM2NnYjJ4a0lHbHpJRzE1SUdOaGRDQnBiaUJvZFcxaGJpQjVaV0Z5Y3hBQWZTQUdFVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDMtMy0zIHJ1bGUgZm9yIGNhdHM/IiwibGsiOiJjNU9TTGM5SUxDbFdLTWxJVlRBR3c2TFNuRlNGdFB3aWhXU2dPQUEiLCJicyI6ImM0MlB2UXJDUUJDRXNiM0tPaUNPVVlnV052RUJnbGdvV0l2MUdqZmV3Y21GLS1ISTIzc1hiYXlVYVphZGo1MVpjUlNMazRtNEd3d21vQ1hkQmsyZVFXbjJsUU05dUtuTEF2SUhKQTRDVjBrZXlzRkx4bTZiQkJzMG96TTJjNjZwNThVc0p1WkRqUG9peEZrc3h5UHV5VnJudkx3RjNaelJ3Yk1la016VVoxV1U4U2NtTG1LOXRfejJKUFc5WWd2VjVld0JUalAzaU1yTF9GSlRiNHFLX21Pbmt4YyIsImlkIjoiZmNfYXhrNmFvVzJNWmFnaUxNUHNxT3cwQWNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsSXdRMlY0Y25WbGMxZFZWbkYxVVdWYWNYRmZWbWx5UWtKc1pGQjZiWEZIYW10aFgyWmFPWFJoVVdsdlYwSTVNRzlCY21JMllucHFjakpLVm5NNVVuTklYMHhtT1ZVM2VuQldYMHRFTUd0c1ZYZEVjbU52UzJWRGR4SVhZWGhyTm1GdlZ6Sk5XbUZuYVV4TlVITnhUM2N3UVdNYUlrRkVjM0k1WmxOeVVTMURkRzVOTTJZd2VEZENPVGQyWmtWNFUyOVJWbXgwYTBFIiwiZmN2IjoiMyIsImVpIjoiYXhrNmFvVzJNWmFnaUxNUHNxT3cwQWMiLCJxYyI6IkNpQm9iM2NnYjJ4a0lHbHpJRzE1SUdOaGRDQnBiaUJvZFcxaGJpQjVaV0Z5Y3hBQWZTQUdFVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDMtMy0zIHJ1bGUgZm9yIGNhdHM%2FIiwibGsiOiJjNU9TTGM5SUxDbFdLTWxJVlRBR3c2TFNuRlNGdFB3aWhXU2dPQUEiLCJicyI6ImM0MlB2UXJDUUJDRXNiM0tPaUNPVVlnV052RUJnbGdvV0l2MUdqZmV3Y21GLS1ISTIzc1hiYXlVYVphZGo1MVpjUlNMazRtNEd3d21vQ1hkQmsyZVFXbjJsUU05dUtuTEF2SUhKQTRDVjBrZXlzRkx4bTZiQkJzMG96TTJjNjZwNThVc0p1WkRqUG9peEZrc3h5UHV5VnJudkx3RjNaelJ3Yk1la016VVoxV1U4U2NtTG1LOXRfejJKUFc5WWd2VjVld0JUalAzaU1yTF9GSlRiNHFLX21Pbmt4YyIsImlkIjoiZmNfYXhrNmFvVzJNWmFnaUxNUHNxT3cwQWNfNSJ9"
+    },
+    {
+      "question": "What smell do cats absolutely hate?",
+      "type": "ai_overview",
+      "page_token": "d5FLyXicHdDbboIwAADQ7Gd8nC3oLiZmSZWLOKrFtgxeFtqqFcpligq87V_2VfuaJTufcL5_zKkqfh9uum2by2w8vt_vj8e6Ppr9o6zLcXbpKzmWmTEik8Xs6fkJvh3k3Lmu0OJrhQhrGr6MAHX0IvT5PfU6l1L3LCptZxVaC2sKaaE7BtwtXUaBhE6Xed05Ma61Y69YlcE19JmNAd8IMA13S3RKXcN4GXylANcbX6W07LYsDyzlI5N5ElLLbLGDXQlgo4aolsbkBPJKDW7PbXQV7KWVnmLkI2U7C18FeLHCYnrac-XJATWk0rcMTIY4jpaJFfa41G3MI2dfycnGR0QAbDta6b13sZL49SMsYJbEqqEOJNJ2t2pAKOnqE2HRIHNTcmcFKE9TCQ3BZdiLHkze4wDhnK-FrY3IzYKQ0UHe5vbo_3P-eSjbWXOuj39VY4JT",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=d5FLyXicHdDbboIwAADQ7Gd8nC3oLiZmSZWLOKrFtgxeFtqqFcpligq87V_2VfuaJTufcL5_zKkqfh9uum2by2w8vt_vj8e6Ppr9o6zLcXbpKzmWmTEik8Xs6fkJvh3k3Lmu0OJrhQhrGr6MAHX0IvT5PfU6l1L3LCptZxVaC2sKaaE7BtwtXUaBhE6Xed05Ma61Y69YlcE19JmNAd8IMA13S3RKXcN4GXylANcbX6W07LYsDyzlI5N5ElLLbLGDXQlgo4aolsbkBPJKDW7PbXQV7KWVnmLkI2U7C18FeLHCYnrac-XJATWk0rcMTIY4jpaJFfa41G3MI2dfycnGR0QAbDta6b13sZL49SMsYJbEqqEOJNJ2t2pAKOnqE2HRIHNTcmcFKE9TCQ3BZdiLHkze4wDhnK-FrY3IzYKQ0UHe5vbo_3P-eSjbWXOuj39VY4JT",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsSXdRMlY0Y25WbGMxZFZWbkYxVVdWYWNYRmZWbWx5UWtKc1pGQjZiWEZIYW10aFgyWmFPWFJoVVdsdlYwSTVNRzlCY21JMllucHFjakpLVm5NNVVuTklYMHhtT1ZVM2VuQldYMHRFTUd0c1ZYZEVjbU52UzJWRGR4SVhZWGhyTm1GdlZ6Sk5XbUZuYVV4TlVITnhUM2N3UVdNYUlrRkVjM0k1WmxOeVVTMURkRzVOTTJZd2VEZENPVGQyWmtWNFUyOVJWbXgwYTBFIiwiZmN2IjoiMyIsImVpIjoiYXhrNmFvVzJNWmFnaUxNUHNxT3cwQWMiLCJxYyI6IkNpQm9iM2NnYjJ4a0lHbHpJRzE1SUdOaGRDQnBiaUJvZFcxaGJpQjVaV0Z5Y3hBQWZTQUdFVDgiLCJxdWVzdGlvbiI6IldoYXQgc21lbGwgZG8gY2F0cyBhYnNvbHV0ZWx5IGhhdGU/IiwibGsiOiJHaUozYUdGMElITnRaV3hzSUdSdklHTmhkSE1nWVdKemIyeDFkR1ZzZVNCb1lYUmwiLCJicyI6ImM0MlB2UXJDUUJDRXNiM0tPaUNPVVlnV052RUJnbGdvV0l2MUdqZmV3Y21GLS1ISTIzc1hiYXlVYVphZGo1MVpjUlNMazRtNEd3d21vQ1hkQmsyZVFXbjJsUU05dUtuTEF2SUhKQTRDVjBrZXlzRkx4bTZiQkJzMG96TTJjNjZwNThVc0p1WkRqUG9peEZrc3h5UHV5VnJudkx3RjNaelJ3Yk1la016VVoxV1U4U2NtTG1LOXRfejJKUFc5WWd2VjVld0JUalAzaU1yTF9GSlRiNHFLX21Pbmt4YyIsImlkIjoiZmNfYXhrNmFvVzJNWmFnaUxNUHNxT3cwQWNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsSXdRMlY0Y25WbGMxZFZWbkYxVVdWYWNYRmZWbWx5UWtKc1pGQjZiWEZIYW10aFgyWmFPWFJoVVdsdlYwSTVNRzlCY21JMllucHFjakpLVm5NNVVuTklYMHhtT1ZVM2VuQldYMHRFTUd0c1ZYZEVjbU52UzJWRGR4SVhZWGhyTm1GdlZ6Sk5XbUZuYVV4TlVITnhUM2N3UVdNYUlrRkVjM0k1WmxOeVVTMURkRzVOTTJZd2VEZENPVGQyWmtWNFUyOVJWbXgwYTBFIiwiZmN2IjoiMyIsImVpIjoiYXhrNmFvVzJNWmFnaUxNUHNxT3cwQWMiLCJxYyI6IkNpQm9iM2NnYjJ4a0lHbHpJRzE1SUdOaGRDQnBiaUJvZFcxaGJpQjVaV0Z5Y3hBQWZTQUdFVDgiLCJxdWVzdGlvbiI6IldoYXQgc21lbGwgZG8gY2F0cyBhYnNvbHV0ZWx5IGhhdGU%2FIiwibGsiOiJHaUozYUdGMElITnRaV3hzSUdSdklHTmhkSE1nWVdKemIyeDFkR1ZzZVNCb1lYUmwiLCJicyI6ImM0MlB2UXJDUUJDRXNiM0tPaUNPVVlnV052RUJnbGdvV0l2MUdqZmV3Y21GLS1ISTIzc1hiYXlVYVphZGo1MVpjUlNMazRtNEd3d21vQ1hkQmsyZVFXbjJsUU05dUtuTEF2SUhKQTRDVjBrZXlzRkx4bTZiQkJzMG96TTJjNjZwNThVc0p1WkRqUG9peEZrc3h5UHV5VnJudkx3RjNaelJ3Yk1la016VVoxV1U4U2NtTG1LOXRfejJKUFc5WWd2VjVld0JUalAzaU1yTF9GSlRiNHFLX21Pbmt4YyIsImlkIjoiZmNfYXhrNmFvVzJNWmFnaUxNUHNxT3cwQWNfNSJ9"
+    },
+    {
+      "question": "Are cats happier if they sleep with you?",
+      "type": "ai_overview",
+      "page_token": "iIYlwXicHdBRbpswAABQ7TL9bHAZmYgUVXJjk7gx1AbbgZ_JMSGkNsFtWEj42112qp6m0t4R3t9_7nS2Xz-u7TD4y2I2G8fx8dj3R3d4NH0305f72cyMdm6vjV3Mf83Bc2OW6M8GvnxsIBPeyxUPcgXS2t5SJpyVSatlSCaFnD6s-JsoeEPXUOXnmnAZf2qLKwrgyAo3T1VLBWiBUjHJEb-yjvuDqmx5B69ZUW9lMHhj-a16J1m2EgFXwHIUyVRIyhz-ybsqUthZGqKRJhzIdbrSalhnCDcV9sBYf96HuFMJgWXXZkXow1z5yuzITQZxwp8c2EqPt0U50cm9CEUigQlEbd0ekstTqeIdtUCXqvYFAsyE-K2eICxv_YkJPpl314nOASYiXxWEUxTBumjHXeC8RnEuJS_3qsoYe2jMdRk-_P9c_m66YeE_--M3XSSB0w",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=iIYlwXicHdBRbpswAABQ7TL9bHAZmYgUVXJjk7gx1AbbgZ_JMSGkNsFtWEj42112qp6m0t4R3t9_7nS2Xz-u7TD4y2I2G8fx8dj3R3d4NH0305f72cyMdm6vjV3Mf83Bc2OW6M8GvnxsIBPeyxUPcgXS2t5SJpyVSatlSCaFnD6s-JsoeEPXUOXnmnAZf2qLKwrgyAo3T1VLBWiBUjHJEb-yjvuDqmx5B69ZUW9lMHhj-a16J1m2EgFXwHIUyVRIyhz-ybsqUthZGqKRJhzIdbrSalhnCDcV9sBYf96HuFMJgWXXZkXow1z5yuzITQZxwp8c2EqPt0U50cm9CEUigQlEbd0ekstTqeIdtUCXqvYFAsyE-K2eICxv_YkJPpl314nOASYiXxWEUxTBumjHXeC8RnEuJS_3qsoYe2jMdRk-_P9c_m66YeE_--M3XSSB0w",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsSXdRMlY0Y25WbGMxZFZWbkYxVVdWYWNYRmZWbWx5UWtKc1pGQjZiWEZIYW10aFgyWmFPWFJoVVdsdlYwSTVNRzlCY21JMllucHFjakpLVm5NNVVuTklYMHhtT1ZVM2VuQldYMHRFTUd0c1ZYZEVjbU52UzJWRGR4SVhZWGhyTm1GdlZ6Sk5XbUZuYVV4TlVITnhUM2N3UVdNYUlrRkVjM0k1WmxOeVVTMURkRzVOTTJZd2VEZENPVGQyWmtWNFUyOVJWbXgwYTBFIiwiZmN2IjoiMyIsImVpIjoiYXhrNmFvVzJNWmFnaUxNUHNxT3cwQWMiLCJxYyI6IkNpQm9iM2NnYjJ4a0lHbHpJRzE1SUdOaGRDQnBiaUJvZFcxaGJpQjVaV0Z5Y3hBQWZTQUdFVDgiLCJxdWVzdGlvbiI6IkFyZSBjYXRzIGhhcHBpZXIgaWYgdGhleSBzbGVlcCB3aXRoIHlvdT8iLCJsayI6IkdpZGhjbVVnWTJGMGN5Qm9ZWEJ3YVdWeUlHbG1JSFJvWlhrZ2MyeGxaWEFnZDJsMGFDQjViM1UiLCJicyI6ImM0MlB2UXJDUUJDRXNiM0tPaUNPVVlnV052RUJnbGdvV0l2MUdqZmV3Y21GLS1ISTIzc1hiYXlVYVphZGo1MVpjUlNMazRtNEd3d21vQ1hkQmsyZVFXbjJsUU05dUtuTEF2SUhKQTRDVjBrZXlzRkx4bTZiQkJzMG96TTJjNjZwNThVc0p1WkRqUG9peEZrc3h5UHV5VnJudkx3RjNaelJ3Yk1la016VVoxV1U4U2NtTG1LOXRfejJKUFc5WWd2VjVld0JUalAzaU1yTF9GSlRiNHFLX21Pbmt4YyIsImlkIjoiZmNfYXhrNmFvVzJNWmFnaUxNUHNxT3cwQWNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsSXdRMlY0Y25WbGMxZFZWbkYxVVdWYWNYRmZWbWx5UWtKc1pGQjZiWEZIYW10aFgyWmFPWFJoVVdsdlYwSTVNRzlCY21JMllucHFjakpLVm5NNVVuTklYMHhtT1ZVM2VuQldYMHRFTUd0c1ZYZEVjbU52UzJWRGR4SVhZWGhyTm1GdlZ6Sk5XbUZuYVV4TlVITnhUM2N3UVdNYUlrRkVjM0k1WmxOeVVTMURkRzVOTTJZd2VEZENPVGQyWmtWNFUyOVJWbXgwYTBFIiwiZmN2IjoiMyIsImVpIjoiYXhrNmFvVzJNWmFnaUxNUHNxT3cwQWMiLCJxYyI6IkNpQm9iM2NnYjJ4a0lHbHpJRzE1SUdOaGRDQnBiaUJvZFcxaGJpQjVaV0Z5Y3hBQWZTQUdFVDgiLCJxdWVzdGlvbiI6IkFyZSBjYXRzIGhhcHBpZXIgaWYgdGhleSBzbGVlcCB3aXRoIHlvdT8iLCJsayI6IkdpZGhjbVVnWTJGMGN5Qm9ZWEJ3YVdWeUlHbG1JSFJvWlhrZ2MyeGxaWEFnZDJsMGFDQjViM1UiLCJicyI6ImM0MlB2UXJDUUJDRXNiM0tPaUNPVVlnV052RUJnbGdvV0l2MUdqZmV3Y21GLS1ISTIzc1hiYXlVYVphZGo1MVpjUlNMazRtNEd3d21vQ1hkQmsyZVFXbjJsUU05dUtuTEF2SUhKQTRDVjBrZXlzRkx4bTZiQkJzMG96TTJjNjZwNThVc0p1WkRqUG9peEZrc3h5UHV5VnJudkx3RjNaelJ3Yk1la016VVoxV1U4U2NtTG1LOXRfejJKUFc5WWd2VjVld0JUalAzaU1yTF9GSlRiNHFLX21Pbmt4YyIsImlkIjoiZmNfYXhrNmFvVzJNWmFnaUxNUHNxT3cwQWNfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "A cat's age in human years is not a strict \"one cat year equals seven human years\" ratio. Cats age much faster during their first two years. By their first birthday, they are roughly 15 years old, and by their second birthday, they are about 24 years old. PetMD",
+        "snippet_links": [
+          {
+            "link": "https://www.petmd.com/cat/general-health/how-old-is-my-cat-in-human-years"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "one cat year equals seven human years"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "After year two, cats age at a more consistent rate, adding about 4 human years for every calendar year. PetMD",
+        "snippet_links": [
+          {
+            "link": "https://www.petmd.com/cat/general-health/how-old-is-my-cat-in-human-years"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Cat Age to Human Age Chart"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "A breakdown of popular ages and their approximate human equivalents: PetMD +2",
+        "snippet_links": [
+          {
+            "link": "https://www.petmd.com/cat/general-health/how-old-is-my-cat-in-human-years"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "Cat Age",
+            "Human Equivalent",
+            "Life Stage"
+          ],
+          [
+            "6 months",
+            "10 years",
+            "Kitten"
+          ],
+          [
+            "1 year",
+            "15 years",
+            "Adolescent"
+          ],
+          [
+            "2 years",
+            "24 years",
+            "Young Adult"
+          ],
+          [
+            "3 years",
+            "28 years",
+            "Prime Adult"
+          ],
+          [
+            "5 years",
+            "36 years",
+            "Prime Adult"
+          ],
+          [
+            "10 years",
+            "56 years",
+            "Senior"
+          ],
+          [
+            "15 years",
+            "76 years",
+            "Geriatric"
+          ],
+          [
+            "20 years",
+            "96 years",
+            "Super-Senior"
+          ]
+        ],
+        "detailed": [
+          [
+            {
+              "snippet": "Cat Age"
+            },
+            {
+              "snippet": "Human Equivalent"
+            },
+            {
+              "snippet": "Life Stage"
+            }
+          ],
+          [
+            {
+              "snippet": "6 months"
+            },
+            {
+              "snippet": "10 years"
+            },
+            {
+              "snippet": "Kitten"
+            }
+          ],
+          [
+            {
+              "snippet": "1 year"
+            },
+            {
+              "snippet": "15 years"
+            },
+            {
+              "snippet": "Adolescent"
+            }
+          ],
+          [
+            {
+              "snippet": "2 years"
+            },
+            {
+              "snippet": "24 years"
+            },
+            {
+              "snippet": "Young Adult"
+            }
+          ],
+          [
+            {
+              "snippet": "3 years"
+            },
+            {
+              "snippet": "28 years"
+            },
+            {
+              "snippet": "Prime Adult"
+            }
+          ],
+          [
+            {
+              "snippet": "5 years"
+            },
+            {
+              "snippet": "36 years"
+            },
+            {
+              "snippet": "Prime Adult"
+            }
+          ],
+          [
+            {
+              "snippet": "10 years"
+            },
+            {
+              "snippet": "56 years"
+            },
+            {
+              "snippet": "Senior"
+            }
+          ],
+          [
+            {
+              "snippet": "15 years"
+            },
+            {
+              "snippet": "76 years"
+            },
+            {
+              "snippet": "Geriatric"
+            }
+          ],
+          [
+            {
+              "snippet": "20 years"
+            },
+            {
+              "snippet": "96 years"
+            },
+            {
+              "snippet": "Super-Senior"
+            }
+          ]
+        ],
+        "formatted": [
+          {
+            "cat_age": "6 months",
+            "human_equivalent": "10 years",
+            "life_stage": "Kitten"
+          },
+          {
+            "cat_age": "1 year",
+            "human_equivalent": "15 years",
+            "life_stage": "Adolescent"
+          },
+          {
+            "cat_age": "2 years",
+            "human_equivalent": "24 years",
+            "life_stage": "Young Adult"
+          },
+          {
+            "cat_age": "3 years",
+            "human_equivalent": "28 years",
+            "life_stage": "Prime Adult"
+          },
+          {
+            "cat_age": "5 years",
+            "human_equivalent": "36 years",
+            "life_stage": "Prime Adult"
+          },
+          {
+            "cat_age": "10 years",
+            "human_equivalent": "56 years",
+            "life_stage": "Senior"
+          },
+          {
+            "cat_age": "15 years",
+            "human_equivalent": "76 years",
+            "life_stage": "Geriatric"
+          },
+          {
+            "cat_age": "20 years",
+            "human_equivalent": "96 years",
+            "life_stage": "Super-Senior"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Key Milestones"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "First Year: Fast physical growth and learning; a 1-year-old cat is comparable to a human teenager."
+          },
+          {
+            "snippet": "Second Year: Emotional and physical maturity; a 2-year-old is essentially in their mid-20s."
+          },
+          {
+            "snippet": "Subsequent Years: Each year after 24 adds exactly 4 human years to their age. PetMD +1",
+            "snippet_links": [
+              {
+                "link": "https://www.petmd.com/cat/general-health/how-old-is-my-cat-in-human-years"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you want to calculate a specific age not listed above, you can use the following math for any cat aged 3 or older: PetMD",
+        "snippet_links": [
+          {
+            "link": "https://www.petmd.com/cat/general-health/how-old-is-my-cat-in-human-years"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "$\\text{Human\\ Age}=24+4\\times (\\text{Cat\\ Age}-2)$",
+        "snippet_latex": [
+          "\\text{Human\\ Age}=24+4\\times (\\text{Cat\\ Age}-2)"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "To find out more about your cat's specific life stage, nutritional requirements, and health checks, consult the Purina Cat Years Calculator or the PetMD Cat Age Chart.",
+        "snippet_links": [
+          {
+            "text": "Purina Cat Years Calculator",
+            "link": "https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years"
+          },
+          {
+            "text": "PetMD Cat Age Chart",
+            "link": "https://www.petmd.com/cat/general-health/how-old-is-my-cat-in-human-years"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "Cat Age Chart: How Old Is My Cat in Human Years? - PetMD",
+        "link": "https://www.petmd.com/cat/general-health/how-old-is-my-cat-in-human-years",
+        "snippet": "Key Takeaways. Cats reach the equivalent of 15 human years in their first year of life. Cats age at a relatively similar rate no m...",
+        "source": "PetMD",
+        "index": 0
+      },
+      {
+        "title": "A cool guide to a cat's age in human years : r/coolguides - Reddit",
+        "link": "https://www.reddit.com/r/coolguides/comments/1cs2ze2/a_cool_guide_to_a_cats_age_in_human_years/",
+        "snippet": "Your cat experiences 96 years of time when 20 years passes for us. If you put a watch on a cat's wrist, it goes about 4-5 times fa...",
+        "source": "Reddit",
+        "index": 1
+      },
+      {
+        "title": "Cat Years Calculator: How Old is my Cat in Human Years? | Purina",
+        "link": "https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years",
+        "snippet": "Differing with each age, cats have a shorter lifespan than we do and so their years are equivalent to many human years. If we want...",
+        "source": "Purina UK",
+        "index": 2
+      },
+      {
+        "title": "Your cat's age in human years - Kitten - VCA Animal Hospitals",
+        "link": "https://vcahospitals.com/pediatric/kitten/behavior-training/kitten-age-in-human-years",
+        "snippet": "The first year of a cat's life is akin to 15 years of a human's life. Your cat is full swing into their teen decade! But don't wor...",
+        "source": "VCA Animal Hospitals",
+        "index": 3
+      },
+      {
+        "title": "How old is my cat in human years? | Wellbeloved™ UK",
+        "link": "https://wellbeloved.com/blogs/cat-health/how-old-is-my-cat-in-human-years/",
+        "snippet": "Indoor and outdoor cats Indoor cats often live a much more sheltered and slow-pace life, and are less likely to cause themselves i...",
+        "source": "James Wellbeloved",
+        "index": 4
+      },
+      {
+        "title": "Calculating Your Pet's Age in Cat Years | IAMS™",
+        "link": "https://www.iams.com/cat/cat-articles/calculating-your-pets-age-cat-years",
+        "snippet": "Table_title: Calculating Your Pet's Age in Cat Years Table_content: | Life Stage | Cat's Actual Age | Human Age Equivalent | | ---",
+        "source": "IAMS",
+        "index": 5
+      },
+      {
+        "title": "How To Convert Cat Years to Human Years - Zoetis Petcare",
+        "link": "https://www.zoetispetcare.com/blog/article/convert-cat-years-human-years",
+        "snippet": "Here is how you can loosely map out your cat's age in human years: * The first cat year lasts approximately 15 human years. A six-",
+        "source": "Zoetis Petcare",
+        "index": 6
+      },
+      {
+        "title": "Geriatric Cats - The Cat Doctor",
+        "link": "https://thecatdoctor.co.uk/cat-health/feline-life-stages/geriatric-cats/",
+        "snippet": "Human equivalent: 76 years or older If your cat was fortunate (or unfortunate enough, depending on their health) to live to 15, it...",
+        "source": "thecatdoctor.co.uk",
+        "index": 7
+      },
+      {
+        "title": "Cat Years to Human Years Chart and Age Guide - Naju Pets",
+        "link": "https://najupets.com/cat-years-to-human-years/",
+        "snippet": "How to Calculate Cat Years to Human Years. Cats age much faster in their first two years than they do later in life. The first year is roughly equal to about 15 hu...",
+        "source": "najupets.com",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMzBTF0HkJBVVWSn0B7Gw8yAmFUOkpa_Op7qHnouySpscSLQd9Z-PStk4kUxOpHB8EXXhUQ6sxqKF4EFI",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://najupets.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "How old is your cat in human years? - Facebook",
+        "link": "https://www.facebook.com/floppycats/posts/how-old-is-your-cat-in-human-years/1357071063123055/",
+        "snippet": "How to Calculate Cat Years in Human Years Did you know that one cat year doesn't equal 7 human years? In fact, feline aging is faster during the first two years of...",
+        "source": "Facebook",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0lyTLChkYD9gYKZz7is6iGiHdu7sSUS6vAUTuMnp9aMz-5O-iP6Q_1gnF7ptZTknpEYFHQjlT56HC-nU",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      },
+      {
+        "title": "How Old Is My Cat in Human Years? (Cat Age Chart + Care by Life Stage)",
+        "link": "https://www.thecattopia.com/blog/how-old-is-my-cat-in-human-years/",
+        "snippet": "The first year of a cat's life is a period of rapid physical and mental development, roughly equivalent to the early teenage years in humans. During this stage, ki...",
+        "source": "Cat Topia Catios",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZMasN_DlBm934kDEJE5LuwMlUS18X3jPazXCVWwb-6aSk6IcMcApgTl7PlfJ9B9YdQb0n9JLPw681mCQ",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thecattopia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 10
+      },
+      {
+        "title": "How old is your dog or cat in human years? - Physicians Mutual",
+        "link": "https://www.physiciansmutual.com/web/community/article-title/how-old-is-your-dog-or-cat-in-human-years",
+        "snippet": "Read time: 3 minutes. As an avid pet lover, you've likely long heard the popular saying that one year of a pet's life is equal to seven human years. But wait … thi...",
+        "source": "Physicians Mutual Insurance",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYP5bcCiaYVvsV85CETaVS5ocmJnJtpbtQyizv42aAj4mtP113plzmVAmeBIvpc-drYLHuhG-e2X8ToyI",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.physiciansmutual.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 11
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How to tell your cat's age in human years",
+      "link": "https://icatcare.org/articles/how-to-tell-your-cats-age-in-human-years",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://icatcare.org/articles/how-to-tell-your-cats-age-in-human-years&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQFnoECCgQAQ",
+      "displayed_link": "https://icatcare.org › articles › how-to-tell-your-cats-age...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEX____fT5jXAH_sqMf--_334uzYAHjbGoXZAHzeSZb79fj56PDroMPfWJzWAHHaAH_aAIHfOpHnjbnkcqvZAHv10eHgXp_bKYnrmcLvstDXAHX21uX67fPwv9XjbanvudTwxt3qmr_fQpbkea7niLTngrN-1UQdAAAA1klEQVR4Ac3QRWKAMBBA0UEjSAaI4X7_K5aUTVJZt3-DPIjBPy2KE_BKwSvLCWX8vS_KitSZh6VAguSTGvLcC3-clnaRkMqNoXOKRlgP-2GEVrwzTTMscvVwMyPPdAK83-1aAEN_RZx1DcVcFXN1VOVcLeC3SeJq5zKKzo6NAZb4UNMg5yeSqoWgy6FJJoBV4JmEuDukbhktol1DVPRBXJ4bJNiOEOamjO5sNoQwDV-aJWmWM3IDBMfz1gmCSFwI32MvkVzBTyrcb9IzvzaWtJvgtzj8eR9TSwyCiniQxQAAAABJRU5ErkJggg.png",
+      "date": "Jun 19, 2024",
+      "snippet": "Working out your cat's age in human years is simple: the first two years of a cat's life equate to 24 human years and every year thereafter is equivalent to 4 ...",
+      "snippet_highlighted_words": [
+        "the first two years of a cat's life equate to 24 human years"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Working out your cat's age in human years is simple: the first two years of a cat's life equate to 24 human years and every year thereafter is equivalent to 4 ...",
+          "source_info_link": "https://icatcare.org/articles/how-to-tell-your-cats-age-in-human-years",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEX____fT5jXAH_sqMf--_334uzYAHjbGoXZAHzeSZb79fj56PDroMPfWJzWAHHaAH_aAIHfOpHnjbnkcqvZAHv10eHgXp_bKYnrmcLvstDXAHX21uX67fPwv9XjbanvudTwxt3qmr_fQpbkea7niLTngrN-1UQdAAAA1klEQVR4Ac3QRWKAMBBA0UEjSAaI4X7_K5aUTVJZt3-DPIjBPy2KE_BKwSvLCWX8vS_KitSZh6VAguSTGvLcC3-clnaRkMqNoXOKRlgP-2GEVrwzTTMscvVwMyPPdAK83-1aAEN_RZx1DcVcFXN1VOVcLeC3SeJq5zKKzo6NAZb4UNMg5yeSqoWgy6FJJoBV4JmEuDukbhktol1DVPRBXJ4bJNiOEOamjO5sNoQwDV-aJWmWM3IDBMfz1gmCSFwI32MvkVzBTyrcb9IzvzaWtJvgtzj8eR9TSwyCiniQxQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://icatcare.org/articles/how-to-tell-your-cats-age-in-human-years&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ficatcare.org%2Farticles%2Fhow-to-tell-your-cats-age-in-human-years",
+      "source": "International Cat Care",
+      "read_more_link": "https://icatcare.org/articles/how-to-tell-your-cats-age-in-human-years#:~:text=Working%20out%20your%20cat's%20age,equivalent%20to%204%20human%20years."
+    },
+    {
+      "position": 2,
+      "title": "Cat Years Calculator: How Old is my Cat in Human Years?",
+      "link": "https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQFnoECCsQAQ",
+      "displayed_link": "https://www.purina.co.uk › ... › Senior Cat Care",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAR0lEQVR4AWN4IyVJEgJp-E80QGh4q6H-VlEBiIAMuDSaOKoGBXmIjUAGXDWaOMkaKHMSLkU4PY3LGZRqIOykERMPhBMfSQgAlIr8HM0NuFAAAAAASUVORK5CYII.png",
+      "date": "Mar 24, 2025",
+      "snippet": "The first year of your cat's life is considered the equivalent of 15 human years. The second year adds nine more human years, so 2 cat years are approximately ...",
+      "snippet_highlighted_words": [
+        "The first year of your cat's life is considered the equivalent of 15 human years"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How many cat years are in a...",
+            "link": "https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years#5c87a2fffcb36a8f794a3dd6a0c336b0"
+          },
+          {
+            "title": "Cat age chart",
+            "link": "https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years#1f57fd09415f2f89924812cd256d1f27"
+          },
+          {
+            "title": "What is the average cat's life...",
+            "link": "https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years#40371c05383ff6fff33d92fcf8195e75"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The first year of your cat's life is considered the equivalent of 15 human years. The second year adds nine more human years, so 2 cat years are approximately ...",
+          "source_info_link": "https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAR0lEQVR4AWN4IyVJEgJp-E80QGh4q6H-VlEBiIAMuDSaOKoGBXmIjUAGXDWaOMkaKHMSLkU4PY3LGZRqIOykERMPhBMfSQgAlIr8HM0NuFAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.purina.co.uk%2Farticles%2Fcats%2Fsenior%2Fcare%2Fcats-age-in-human-years",
+      "source": "Purina UK",
+      "read_more_link": "https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years#:~:text=The%20first%20year%20of%20your,are%20approximately%2024%20human%20years."
+    },
+    {
+      "position": 3,
+      "title": "How old is your cat in human years?",
+      "link": "https://www.facebook.com/floppycats/posts/how-old-is-your-cat-in-human-years/1357071063123055/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/floppycats/posts/how-old-is-your-cat-in-human-years/1357071063123055/&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQFnoECDQQAQ",
+      "displayed_link": "2.6K+ reactions · 3 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "A cat reaches the approximate human age of 15 during it's first year, then 24 at the age of 2. Each year thereafter, a cat ages approximately ...",
+      "snippet_highlighted_words": [
+        "cat",
+        "human age",
+        "age",
+        "cat"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A cat reaches the approximate human age of 15 during it's first year, then 24 at the age of 2. Each year thereafter, a cat ages approximately ...",
+          "source_info_link": "https://www.facebook.com/floppycats/posts/how-old-is-your-cat-in-human-years/1357071063123055/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/floppycats/posts/how-old-is-your-cat-in-human-years/1357071063123055/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Ffloppycats%2Fposts%2Fhow-old-is-your-cat-in-human-years%2F1357071063123055%2F",
+      "source": "Facebook · Floppycats",
+      "read_more_link": "https://www.facebook.com/floppycats/posts/how-old-is-your-cat-in-human-years/1357071063123055/#:~:text=A%20cat%20reaches%20the%20approximate,four%20cat%20years%20every%20year."
+    },
+    {
+      "position": 4,
+      "title": "How to tell your cat's age in human years",
+      "link": "https://www.vetwest.com.au/news/how-to-tell-your-cats-age-in-human-years/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vetwest.com.au/news/how-to-tell-your-cats-age-in-human-years/&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQFnoECDcQAQ",
+      "displayed_link": "https://www.vetwest.com.au › news › how-to-tell-your-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAjVBMVEVHcEwAIHIAHnEBEHD-vRD9uBL9uBL9uBLx48QAIHIAIHEADHace0T-uw39txL9uBL8uBL9uBIXLHfq6usAH3HSoib8uBP-uBL9uRL-uRIOHm8AIHJLRGT_yA78txL9uBP8uBIoSJsAGW4AIHL9uBIAIHL-tgjU19_8txIGGG3v7-_8txP8txL8uBLo6uwhwmEcAAAAL3RSTlMAB2YdPi0NawZD____wf-EIv-2Anj_U9WMFpAJzv-x7aEU_6v2610gVaANMeWtFQzTqi8AAADDSURBVHgB7I1FAoMADAQHh7QEtu7u8v_v1XlF55as8edDEAIQRnEMJHEKZPlHK8wKnhZrtUtI3Suo5TEAkVkHuj1r9ZUykIYwksYAXSZmEVOz2VwZC5dqllrxYb2xLT3brIc-ZOfyLHZP-PKMrvfP7oOUaThSufKSL91ndG-bI_lO7qPEXX7iS87ZzCaXLiO5rtykJY2YR_ZcPF4Yv99PS9W0PiO9bUh-zKnuGdT3-5gPl8eAclCWuh564IGkELYPVwAAAa8NqEa676QAAAAASUVORK5CYII.png",
+      "snippet": "A few random facts: The longest-living cat was 34 years old according to some sources. The Siamese and the Manx breeds are the longest-living cats on ...",
+      "snippet_highlighted_words": [
+        "cat",
+        "years old"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A few random facts: The longest-living cat was 34 years old according to some sources. The Siamese and the Manx breeds are the longest-living cats on ...",
+          "source_info_link": "https://www.vetwest.com.au/news/how-to-tell-your-cats-age-in-human-years/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAjVBMVEVHcEwAIHIAHnEBEHD-vRD9uBL9uBL9uBLx48QAIHIAIHEADHace0T-uw39txL9uBL8uBL9uBIXLHfq6usAH3HSoib8uBP-uBL9uRL-uRIOHm8AIHJLRGT_yA78txL9uBP8uBIoSJsAGW4AIHL9uBIAIHL-tgjU19_8txIGGG3v7-_8txP8txL8uBLo6uwhwmEcAAAAL3RSTlMAB2YdPi0NawZD____wf-EIv-2Anj_U9WMFpAJzv-x7aEU_6v2610gVaANMeWtFQzTqi8AAADDSURBVHgB7I1FAoMADAQHh7QEtu7u8v_v1XlF55as8edDEAIQRnEMJHEKZPlHK8wKnhZrtUtI3Suo5TEAkVkHuj1r9ZUykIYwksYAXSZmEVOz2VwZC5dqllrxYb2xLT3brIc-ZOfyLHZP-PKMrvfP7oOUaThSufKSL91ndG-bI_lO7qPEXX7iS87ZzCaXLiO5rtykJY2YR_ZcPF4Yv99PS9W0PiO9bUh-zKnuGdT3-5gPl8eAclCWuh564IGkELYPVwAAAa8NqEa676QAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.vetwest.com.au/news/how-to-tell-your-cats-age-in-human-years/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.vetwest.com.au%2Fnews%2Fhow-to-tell-your-cats-age-in-human-years%2F",
+      "source": "Vetwest Veterinary Clinics",
+      "read_more_link": "https://www.vetwest.com.au/news/how-to-tell-your-cats-age-in-human-years/#:~:text=A%20few%20random%20facts%3A,the%20longest%2Dliving%20cats%20on%20average."
+    },
+    {
+      "position": 5,
+      "title": "Cat Years to Human Years Chart and Age Guide - Naju Pets",
+      "link": "https://najupets.com/cat-years-to-human-years/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://najupets.com/cat-years-to-human-years/&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQFnoECDYQAQ",
+      "displayed_link": "https://najupets.com › cat-years-to-human-years",
+      "favicon": "https://serpapi.com/searches/6a3a1969827031568a7933cc/images/szm7E5g_uTdZtWgm-fdH0a7JbHNlTRdx7BwAW1retP8.jpeg",
+      "snippet": "Cats age much faster in their first two years than they do later in life. The first year is roughly equal to about 15 human years, the second brings them to ...",
+      "snippet_highlighted_words": [
+        "roughly equal to about 15 human years"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Cats age much faster in their first two years than they do later in life. The first year is roughly equal to about 15 human years, the second brings them to ...",
+          "source_info_link": "https://najupets.com/cat-years-to-human-years/",
+          "icon": "https://serpapi.com/searches/6a3a1969827031568a7933cc/images/szm7E5g_uTdZtWgm-fdH0bqv-9ul2uZYW7O7krLM0vAdtfIk54EDiVr_TDG2GvYH.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://najupets.com/cat-years-to-human-years/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnajupets.com%2Fcat-years-to-human-years%2F",
+      "source": "najupets.com",
+      "read_more_link": "https://najupets.com/cat-years-to-human-years/#:~:text=Cats%20age%20much%20faster%20in,the%20second%20brings%20them%20to"
+    },
+    {
+      "position": 6,
+      "title": "Calculating Your Pet's Age in Cat Years",
+      "link": "https://www.iams.com/cat/cat-articles/calculating-your-pets-age-cat-years",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iams.com/cat/cat-articles/calculating-your-pets-age-cat-years&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQFnoECDkQAQ",
+      "displayed_link": "https://www.iams.com › Cat Articles",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEUprVf___8jrFQbq1AJqEnL6tVavXptw4j2_PhCtWmf1rDj8-iFy5q038HAUsWCAAAAz0lEQVQokbVSSxbEIAiTj6BY73_dQVpb-9lONvEZiURM6Y9AZiZn2ukGkgxNCZO1rA8VawOAUqkPErwXbjBgUgZ1-hK7BmXCtRb3Egl3MK6yyrwVKMasfiiztZLrohJVRhVkFY472urMHmbc52disfZ8tOSbyk8RBSaKPG2pneKroSPKgUrjjd83BtSby5bwU9zCJ89a0lWsPWi2u09ltrtnAZ2-3C_R2ILTFSafSXwmfTzGNTicavclomhdh4qk5gGUwwzx_htc9s_12PsTfi9RBYQnkrFzAAAAAElFTkSuQmCC.png",
+      "snippet": "You don't need to be an expert to calculate your cat's age, just use the “15-9-4” rule: 15 cat years in the first calendar year and nine in the second before ...",
+      "snippet_highlighted_words": [
+        "15 cat years in the first calendar year"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "The Many Ages Of Your Cat's...",
+            "link": "https://www.iams.com/cat/cat-articles/calculating-your-pets-age-cat-years#:~:text=The%20Many%20Ages%20of%20Your%20Cat%27s%20First%20Year,-As%20you%20already%20may%20have"
+          },
+          {
+            "title": "Steady As She Grows",
+            "link": "https://www.iams.com/cat/cat-articles/calculating-your-pets-age-cat-years#:~:text=Steady%20As%20She%20Grows,-Once%20your%20cat%20enters%20their"
+          },
+          {
+            "title": "Grown Up, Settling Down",
+            "link": "https://www.iams.com/cat/cat-articles/calculating-your-pets-age-cat-years#:~:text=Grown%20Up%2C%20Settling%20Down"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "You don't need to be an expert to calculate your cat's age, just use the “15-9-4” rule: 15 cat years in the first calendar year and nine in the second before ...",
+          "source_info_link": "https://www.iams.com/cat/cat-articles/calculating-your-pets-age-cat-years",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEUprVf___8jrFQbq1AJqEnL6tVavXptw4j2_PhCtWmf1rDj8-iFy5q038HAUsWCAAAAz0lEQVQokbVSSxbEIAiTj6BY73_dQVpb-9lONvEZiURM6Y9AZiZn2ukGkgxNCZO1rA8VawOAUqkPErwXbjBgUgZ1-hK7BmXCtRb3Egl3MK6yyrwVKMasfiiztZLrohJVRhVkFY472urMHmbc52disfZ8tOSbyk8RBSaKPG2pneKroSPKgUrjjd83BtSby5bwU9zCJ89a0lWsPWi2u09ltrtnAZ2-3C_R2ILTFSafSXwmfTzGNTicavclomhdh4qk5gGUwwzx_htc9s_12PsTfi9RBYQnkrFzAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.iams.com/cat/cat-articles/calculating-your-pets-age-cat-years&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.iams.com%2Fcat%2Fcat-articles%2Fcalculating-your-pets-age-cat-years",
+      "source": "IAMS",
+      "read_more_link": "https://www.iams.com/cat/cat-articles/calculating-your-pets-age-cat-years#:~:text=You%20don't%20need%20to%20be,the%20rest%20of%20their%20life."
+    },
+    {
+      "position": 7,
+      "title": "Cat Age Chart: How Old Is My Cat in Human Years?",
+      "link": "https://www.petmd.com/cat/general-health/how-old-is-my-cat-in-human-years",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.petmd.com/cat/general-health/how-old-is-my-cat-in-human-years&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQFnoECDMQAQ",
+      "displayed_link": "https://www.petmd.com › Care & Healthy Living",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAZlBMVEVnKVCqiJ7p4OaATW1vNFl2P2HGr77____CqbnZydOFU3LUws359vj6-PmQYn-IWHbu6OyacYvg1Nz9_P3i196edo_LtsOwkKR6RGaYboikgJe4m623mqyzlKe9obNyOV3QvMh9R2lNOkHLAAABOElEQVR4AbXSVYLDIAAE0EkgndIAcff7X3LLSmzd5gd7CYp_i-cLvBMZAMCFO3BVt1AbZV09UmScOJAqJZ-ByoxROVkANsvKKs_EHeRpugL6NWC1ljI2FmjYHqdQtK7oWLTsAZlSnIF0RcNh5E0WPgecweSKgl5PP6NuAYRHUD0VkaUpCwlg5BFkg4hmKle9LJBNypieLDYwk2QeAFNIZiT7RZO0K4DtuwRwsWN5GQQghq7BBj7OrPHLDCp5rgWhmqBcwtHupqCJ4CJTMgBpjCEZThtg_PwI6IDvrE2ZyhWErgGPcf4MHFH0ViAUS9jM3NQGcKO_gmXyOWom2APEnFYAockBR-Az2ACarMQRSKOxA0jkCVQsDwA4gjYz4h2gr9drGdM0eAfQRV-2JzXVazW4V2uXAH-WB9JBE6aLUzSHAAAAAElFTkSuQmCC.png",
+      "date": "Feb 9, 2026",
+      "snippet": "According to the American Veterinary Medical Association (AVMA), cats reach the equivalent of 15 human years in their first year of life and 24 human years by ...",
+      "snippet_highlighted_words": [
+        "15 human years in their first year of life"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "According to the American Veterinary Medical Association (AVMA), cats reach the equivalent of 15 human years in their first year of life and 24 human years by ...",
+          "source_info_link": "https://www.petmd.com/cat/general-health/how-old-is-my-cat-in-human-years",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAZlBMVEVnKVCqiJ7p4OaATW1vNFl2P2HGr77____CqbnZydOFU3LUws359vj6-PmQYn-IWHbu6OyacYvg1Nz9_P3i196edo_LtsOwkKR6RGaYboikgJe4m623mqyzlKe9obNyOV3QvMh9R2lNOkHLAAABOElEQVR4AbXSVYLDIAAE0EkgndIAcff7X3LLSmzd5gd7CYp_i-cLvBMZAMCFO3BVt1AbZV09UmScOJAqJZ-ByoxROVkANsvKKs_EHeRpugL6NWC1ljI2FmjYHqdQtK7oWLTsAZlSnIF0RcNh5E0WPgecweSKgl5PP6NuAYRHUD0VkaUpCwlg5BFkg4hmKle9LJBNypieLDYwk2QeAFNIZiT7RZO0K4DtuwRwsWN5GQQghq7BBj7OrPHLDCp5rgWhmqBcwtHupqCJ4CJTMgBpjCEZThtg_PwI6IDvrE2ZyhWErgGPcf4MHFH0ViAUS9jM3NQGcKO_gmXyOWom2APEnFYAockBR-Az2ACarMQRSKOxA0jkCVQsDwA4gjYz4h2gr9drGdM0eAfQRV-2JzXVazW4V2uXAH-WB9JBE6aLUzSHAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.petmd.com/cat/general-health/how-old-is-my-cat-in-human-years&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.petmd.com%2Fcat%2Fgeneral-health%2Fhow-old-is-my-cat-in-human-years",
+      "source": "PetMD",
+      "read_more_link": "https://www.petmd.com/cat/general-health/how-old-is-my-cat-in-human-years#:~:text=According%20to%20the%20American%20Veterinary,human%20years%20by%20their%20second."
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "purrfectinfluencer",
+      "source": "Instagram",
+      "extensions": [
+        "460+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8X1mlQMLOwa6A98yl-syr9XBEUegSzrfavs1y_cITkLPR6P297Mu8-K-WQ&usqp=CAI&s"
+      ],
+      "title": "21 years = 100 human years ❤️How old is your cat? #catmemes #cats_of_world #catmemesdaily #lilmeowmeow #catmom",
+      "link": "https://www.instagram.com/p/DZnlfdDOdhi/",
+      "date": "1 week ago"
+    },
+    {
+      "author": "5min.crafts",
+      "source": "Facebook",
+      "extensions": [
+        "950+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3h1xOYRwk7QrhmU5D9Jl4WPdaf6yTzpgpFeBYyuKlbTBkd84YcBPfVmf7Cg&usqp=CAI&s"
+      ],
+      "title": "How old is your cat in human years? 🐈",
+      "link": "https://www.facebook.com/5min.crafts/posts/how-old-is-your-cat-in-human-years-/1548077846682411/",
+      "date": "Apr 26, 2026"
+    },
+    {
+      "author": "PrettyLitter",
+      "source": "YouTube",
+      "duration": "0:55",
+      "extensions": [
+        "1.6K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/pOlHr8p4mBA/hqdefault.jpg"
+      ],
+      "title": "How old is your cat?",
+      "link": "https://www.youtube.com/shorts/pOlHr8p4mBA",
+      "date": "Apr 5, 2026"
+    },
+    {
+      "author": "dailypawsmag",
+      "source": "Facebook",
+      "extensions": [
+        "1 reaction "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDXfzykpf_5920s4FsehTN08vYQdNe1Z0NN_aJSMHoWcvOL5MKh7MeAxcWzg&usqp=CAI&s"
+      ],
+      "title": "The cat years to human years formula is actually pretty simple—check out this chart.",
+      "link": "https://www.facebook.com/dailypawsmag/posts/the-cat-years-to-human-years-formula-is-actually-pretty-simplecheck-out-this-cha/1589537169848007/",
+      "date": "2 days ago"
+    },
+    {
+      "author": "thishowthingswork",
+      "source": "Instagram",
+      "extensions": [
+        "63.7K+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmElpVD6Qx7JmRc5VAVqK5E5rGQU1JQ2lHceKLivtygnZM9A1eNNbwlLKQ0w&usqp=CAI&s"
+      ],
+      "title": "Cats age much differently than humans. A cat reaches the equivalent of about 15 human years by its first birthday and around 24 human years by age 2. After that, each additional cat year is roughly equal to 4 human years. That means a 10 year old cat is comparable to a 56 year old human, while an 18 year old cat is roughly equivalent to an 88 year old person. Understanding your cat’s age can help you better appreciate the different stages of their life, from playful kitten to senior companion.",
+      "link": "https://www.instagram.com/p/DZLcbwwlNsY/",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "ZooplusUK",
+      "source": "Facebook",
+      "extensions": [
+        "20+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2efFDL_Dllwgy83ci0ZdiAetpO7XoAbCLBgh_9xLUV0ZyacLXpjXigxsLLg&usqp=CAI&s"
+      ],
+      "title": "How old is your cat/dog in human years? 🤗 Let us know in the comments! 🥰",
+      "link": "https://www.facebook.com/ZooplusUK/posts/how-old-is-your-catdog-in-human-years-let-us-know-in-the-comments-/1368881485272582/",
+      "date": "Apr 24, 2026"
+    },
+    {
+      "author": "Winston and Spooky",
+      "source": "TikTok",
+      "duration": "1:00",
+      "extensions": [
+        "18.6K+ views "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSgtbpSS0gjmI5nOO2gJArknIKWcGrmcGkAl1SiicB3seRGWZ4gwu475so7Bg&usqp=CAI&s=10"
+      ],
+      "title": "Comparing a cat’s life to humans #catsoftiktok #catfacts #catlover #cute #cutecat",
+      "link": "https://www.tiktok.com/@winstonandspooky/video/7633558823000624414",
+      "date": "Apr 27, 2026"
+    },
+    {
+      "author": "Cats World",
+      "source": "Facebook",
+      "extensions": [
+        "170+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb__A1kUlvIM-E3SGks8TTMAn1zQpdsyV3f042ZMmYQsnZzssHgj4fUTp65Q&usqp=CAI&s"
+      ],
+      "title": "Do you calculate your cat's age using the \"7-year rule\"? You are doing it totally wrong! 🛑🐈🎂 Welcome to Feline Mythbusters! For decades, people have believed that to find a pet's \"human age,\" you simply multiply their real age by 7. But science tells a complet",
+      "link": "https://www.facebook.com/groups/651959230828154/posts/1023017380389002/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "tastyrecipesmag",
+      "source": "Facebook",
+      "extensions": [
+        "690+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTgvVyUC3o_6F20D0DK-d_dwZ0InBuVyQazip37Uv0bO-_V3S0JkEkuqsQw&usqp=CAI&s"
+      ],
+      "title": "How Old Is Your Cat In Human Years Most people still think cat years work like dog years, and honestly, they really don’t. A cat’s early years move fast, which is why a tiny kitten can be much closer to a toddler or teenager than people realize. This little age guid",
+      "link": "https://www.facebook.com/tastyrecipesmag/posts/how-old-is-your-cat-in-human-yearsmost-people-still-think-cat-years-work-like-do/1294081762827299/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "100081272627274",
+      "source": "Facebook",
+      "duration": "0:15",
+      "extensions": [
+        "110+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDF6XiH1eaDhq9ZpSHDYZF1KYPmreXSX-zpFhGBqjJA3eykCqHv174pISvA&usqp=CAI&s=10"
+      ],
+      "title": "LK Logic. Mariachi Sol De Mexico de Jose Hernandez · Azucar Tapatio. Your Cat’s Age in Human Years",
+      "link": "https://www.facebook.com/100081272627274/videos/your-cats-age-in-human-years/1976211026613995/",
+      "date": "Apr 20, 2026"
+    },
+    {
+      "author": "Gray Cats ONLY!!!!!",
+      "source": "Facebook",
+      "extensions": [
+        "30+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1onrJ-b68LHkCH6vDCN7vYTciAnKANqHTrbCs3n-DONYu6zosUkPvXFtDDg&usqp=CAI&s"
+      ],
+      "title": "Here's something I found interesting. It used to be said that cats and dogs ages are the equilivant of 7 years per year. Well they have changed the way its calculated. Now it goes like this: Year 1 is equal to 15 human years. Year 2 you add 9 human years so the",
+      "link": "https://www.facebook.com/groups/182337915308300/posts/3139785109563551/",
+      "date": "Apr 26, 2026"
+    },
+    {
+      "author": "100068611327081",
+      "source": "Facebook",
+      "extensions": [
+        "20+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1RaYXTQqvI8iYV9noNeKk-nf9MNFHp_F9rSMnpaHOo-WwVebeuEy8P24H7A&usqp=CAI&s"
+      ],
+      "title": "How old is your cat? #catmemesdaily",
+      "link": "https://www.facebook.com/100068611327081/posts/how-old-is-your-cat-catmemesdaily/1319461393684226/",
+      "date": "1 week ago"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "How old is my cat in human years calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+old+is+my+cat+in+human+years+calculator&sa=X&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+old+is+my+cat+in+human+years+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "How old is my cat in human years quiz",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+old+is+my+cat+in+human+years+quiz&sa=X&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+old+is+my+cat+in+human+years+quiz"
+    },
+    {
+      "block_position": 1,
+      "query": "How old is my cat in human years chart",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+old+is+my+cat+in+human+years+chart&sa=X&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+old+is+my+cat+in+human+years+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "How old is a 20 year-old cat in human years",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+old+is+a+20+year-old+cat+in+human+years&sa=X&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+old+is+a+20+year-old+cat+in+human+years"
+    },
+    {
+      "block_position": 1,
+      "query": "Cat years calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Cat+years+calculator&sa=X&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cat+years+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Dog years to human years",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Dog+years+to+human+years&sa=X&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dog+years+to+human+years"
+    },
+    {
+      "block_position": 1,
+      "query": "How old is 1 in cat years",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+old+is+1+in+cat+years&sa=X&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+old+is+1+in+cat+years"
+    },
+    {
+      "block_position": 1,
+      "query": "10 cat years to human years",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=10+cat+years+to+human+years&sa=X&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=10+cat+years+to+human+years"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+old+is+my+cat+in+human+years&sca_esv=bbb7d61e8d3bb37e&ei=axk6aoW2MZagiLMPsqOw0Ac&start=10&sa=N&sstk=AU9db-BQflQ0jPSFI9rjH2zh4RDkZ8nBBcwnQmyBY2z5Ea5OHtV7RF_hmG-g7S8sbqTChpw4y9LYgkK_oLx3RII6hPYTDxn28lTKrw&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ8NMDegQILxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+old+is+my+cat+in+human+years&sca_esv=bbb7d61e8d3bb37e&ei=axk6aoW2MZagiLMPsqOw0Ac&start=10&sa=N&sstk=AU9db-BQflQ0jPSFI9rjH2zh4RDkZ8nBBcwnQmyBY2z5Ea5OHtV7RF_hmG-g7S8sbqTChpw4y9LYgkK_oLx3RII6hPYTDxn28lTKrw&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ8tMDegQILxAE",
+      "3": "https://www.google.com/search?q=how+old+is+my+cat+in+human+years&sca_esv=bbb7d61e8d3bb37e&ei=axk6aoW2MZagiLMPsqOw0Ac&start=20&sa=N&sstk=AU9db-BQflQ0jPSFI9rjH2zh4RDkZ8nBBcwnQmyBY2z5Ea5OHtV7RF_hmG-g7S8sbqTChpw4y9LYgkK_oLx3RII6hPYTDxn28lTKrw&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ8tMDegQILxAG",
+      "4": "https://www.google.com/search?q=how+old+is+my+cat+in+human+years&sca_esv=bbb7d61e8d3bb37e&ei=axk6aoW2MZagiLMPsqOw0Ac&start=30&sa=N&sstk=AU9db-BQflQ0jPSFI9rjH2zh4RDkZ8nBBcwnQmyBY2z5Ea5OHtV7RF_hmG-g7S8sbqTChpw4y9LYgkK_oLx3RII6hPYTDxn28lTKrw&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ8tMDegQILxAI",
+      "5": "https://www.google.com/search?q=how+old+is+my+cat+in+human+years&sca_esv=bbb7d61e8d3bb37e&ei=axk6aoW2MZagiLMPsqOw0Ac&start=40&sa=N&sstk=AU9db-BQflQ0jPSFI9rjH2zh4RDkZ8nBBcwnQmyBY2z5Ea5OHtV7RF_hmG-g7S8sbqTChpw4y9LYgkK_oLx3RII6hPYTDxn28lTKrw&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ8tMDegQILxAK",
+      "6": "https://www.google.com/search?q=how+old+is+my+cat+in+human+years&sca_esv=bbb7d61e8d3bb37e&ei=axk6aoW2MZagiLMPsqOw0Ac&start=50&sa=N&sstk=AU9db-BQflQ0jPSFI9rjH2zh4RDkZ8nBBcwnQmyBY2z5Ea5OHtV7RF_hmG-g7S8sbqTChpw4y9LYgkK_oLx3RII6hPYTDxn28lTKrw&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ8tMDegQILxAM",
+      "7": "https://www.google.com/search?q=how+old+is+my+cat+in+human+years&sca_esv=bbb7d61e8d3bb37e&ei=axk6aoW2MZagiLMPsqOw0Ac&start=60&sa=N&sstk=AU9db-BQflQ0jPSFI9rjH2zh4RDkZ8nBBcwnQmyBY2z5Ea5OHtV7RF_hmG-g7S8sbqTChpw4y9LYgkK_oLx3RII6hPYTDxn28lTKrw&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ8tMDegQILxAO",
+      "8": "https://www.google.com/search?q=how+old+is+my+cat+in+human+years&sca_esv=bbb7d61e8d3bb37e&ei=axk6aoW2MZagiLMPsqOw0Ac&start=70&sa=N&sstk=AU9db-BQflQ0jPSFI9rjH2zh4RDkZ8nBBcwnQmyBY2z5Ea5OHtV7RF_hmG-g7S8sbqTChpw4y9LYgkK_oLx3RII6hPYTDxn28lTKrw&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ8tMDegQILxAQ",
+      "9": "https://www.google.com/search?q=how+old+is+my+cat+in+human+years&sca_esv=bbb7d61e8d3bb37e&ei=axk6aoW2MZagiLMPsqOw0Ac&start=80&sa=N&sstk=AU9db-BQflQ0jPSFI9rjH2zh4RDkZ8nBBcwnQmyBY2z5Ea5OHtV7RF_hmG-g7S8sbqTChpw4y9LYgkK_oLx3RII6hPYTDxn28lTKrw&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ8tMDegQILxAS",
+      "10": "https://www.google.com/search?q=how+old+is+my+cat+in+human+years&sca_esv=bbb7d61e8d3bb37e&ei=axk6aoW2MZagiLMPsqOw0Ac&start=90&sa=N&sstk=AU9db-BQflQ0jPSFI9rjH2zh4RDkZ8nBBcwnQmyBY2z5Ea5OHtV7RF_hmG-g7S8sbqTChpw4y9LYgkK_oLx3RII6hPYTDxn28lTKrw&ved=2ahUKEwjFl5Wz0JyVAxUWEGIAHbIRDHoQ8tMDegQILxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+old+is+my+cat+in+human+years&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+old+is+my+cat+in+human+years&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+old+is+my+cat+in+human+years&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+old+is+my+cat+in+human+years&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+old+is+my+cat+in+human+years&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+old+is+my+cat+in+human+years&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+old+is+my+cat+in+human+years&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+old+is+my+cat+in+human+years&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+old+is+my+cat+in+human+years&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+old+is+my+cat+in+human+years&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+old+is+my+cat+in+human+years&start=90"
+    }
+  }
+}

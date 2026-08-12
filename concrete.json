@@ -1,0 +1,438 @@
+{
+  "search_metadata": {
+    "id": "6a3a18d48976f7c04bdaff60",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/lnKBZVpssi6IC_NymVLsPQ/6a3a18d48976f7c04bdaff60.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/lnKBZVpssi6IC_NymVLsPQ/6a3a18d48976f7c04bdaff60.json_with_pixel_position",
+    "created_at": "2026-06-23 05:25:40 UTC",
+    "processed_at": "2026-06-23 05:25:40 UTC",
+    "google_url": "https://www.google.com/search?q=concrete+yardage+calculator+shed&oq=concrete+yardage+calculator+shed&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/lnKBZVpssi6IC_NymVLsPQ/6a3a18d48976f7c04bdaff60.html",
+    "total_time_taken": 0.95
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "concrete yardage calculator shed",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "concrete yardage calculator shed",
+    "total_results": 123,
+    "time_taken_displayed": 0.18,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "The Easiest Way to Calculate Concrete Yardage!",
+      "link": "https://www.youtube.com/watch?v=WEbE5FCRvwg",
+      "thumbnail": "https://serpapi.com/searches/6a3a18d48976f7c04bdaff60/images/SUfoZSEDpa5Vy4eG8XjrR0ofsWAQmcXaniiMSDic4I4.jpeg",
+      "channel": "Deco-Crete TV",
+      "duration": "5:57",
+      "platform": "YouTube",
+      "date": "Aug 23, 2024",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSSggqaHXlCvkiCnLaz4aIMDOEisQrRHG00jA"
+    },
+    {
+      "position": 2,
+      "title": "The Easiest Way to Calculate Concrete",
+      "link": "https://www.youtube.com/watch?v=A-kTyc6h7Mo",
+      "thumbnail": "https://serpapi.com/searches/6a3a18d48976f7c04bdaff60/images/FQagrz1lUHUDpsFhbBIXSKymIcSRyO7RbE_fSyN8tzc.jpeg",
+      "channel": "Tim Seay (@TimDCVA)",
+      "duration": "2:38",
+      "platform": "YouTube",
+      "date": "Sep 29, 2025",
+      "snippet": "One yard of concrete covers 324 sq ft at 1 inch thick. Multiply by the pad's thickness to find the total yards needed.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTXBJoC8ligmj04mGGtpfR7kdp1EbFtFy7pvA"
+    },
+    {
+      "position": 3,
+      "title": "How to Estimate a Concrete Order",
+      "link": "https://www.youtube.com/watch?v=I0iLfpd5rEE",
+      "thumbnail": "https://serpapi.com/searches/6a3a18d48976f7c04bdaff60/images/fZH4PUu3f75QvJclP8JfeagrOaY-hwKsH__U7x-O3rU.jpeg",
+      "channel": "Family Handyman",
+      "duration": "2:19",
+      "platform": "YouTube",
+      "date": "Jun 24, 2019",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTMU7yHBwT829WG2l0_Vi1NMBTYBFc9aePj2g",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=I0iLfpd5rEE&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lX550wnuHuXtEZNd9LJvPM3p8Pn_gEpn_tJk4sN8Jw&s"
+        },
+        {
+          "time": "00:16",
+          "title": "Calculate Volume in Cubic Yards",
+          "link": "https://www.youtube.com/watch?v=I0iLfpd5rEE&t=16",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBXvVprshGZAcVZ1OsG0JQsVtYNaHcFd1hjRoxfPM6nA&s"
+        },
+        {
+          "time": "01:06",
+          "title": "Calculate Spilling",
+          "link": "https://www.youtube.com/watch?v=I0iLfpd5rEE&t=66",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeuJQCrWvBqOrBwoxHhCacRIe8YwdJdEmHznO4wuxEYw&s"
+        },
+        {
+          "time": "01:25",
+          "title": "Calculate Concrete Cost",
+          "link": "https://www.youtube.com/watch?v=I0iLfpd5rEE&t=85",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrvPy6fkEj6qOZ2ooWaUawdNiRs3ZY13cKSlIw4aCjDA&s"
+        },
+        {
+          "time": "01:56",
+          "title": "Concrete Mix Strength",
+          "link": "https://www.youtube.com/watch?v=I0iLfpd5rEE&t=116",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-t8GZVKN5sTEUlunOa79EiEAv3gr_bM1CaSuOIBwg&s"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How much concrete do I need for a 10x10 shed?",
+      "type": "featured_snippet",
+      "snippet": "From our research, it's important to calculate the amount of concrete you'll need. For a 10x10 ft slab that has a shed slab thickness of 4 inches, you'll need approximately 1.3 cubic yards of concrete. Always add about 10% extra to account for spillage and variations.",
+      "title": "approximately 1.3 cubic yards",
+      "date": "Jun 4, 2024",
+      "link": "https://homesteadsupplier.com/blogs/news/how-to-pour-a-concrete-slab-for-a-shed#:~:text=From%20our%20research%2C%20it's%20important,account%20for%20spillage%20and%20variations.",
+      "displayed_link": "https://homesteadsupplier.com › blogs › news › how-to-...",
+      "source_logo": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHAQEBBwgKAQELDRYPAQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQ0NGg8MGjcZHxkrKzcrNysrKysrKzcrNysrKzcrNys3KysrKys3KysrKysrNys3KzcrKys3NysrKysrK__AABEIABAAEAMBIgACEQEDEQH_xAAWAAEBAQAAAAAAAAAAAAAAAAAHBAP_xAApEAABAQYFAgcAAAAAAAAAAAABAgMGBwgRMQAFEiEyBEETF1JhcYGh_8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH_xAAWEQADAAAAAAAAAAAAAAAAAAAAESH_2gAMAwEAAhEDEQA_AE18HjQ78uLwxhCUP7E9RCYVMFLoNzyIuRc_m18UOtnrLPpbIbx9ZBLnPEsHzF6fXq0EKKT9VBI9sF0Q3cz5jNQ_UTFI6uZmCjVVYQNEhTTw030EDjSvx3vUY2ho72fLmedSLpHWS2S8MjWJ5WFM_HHo0nkCb7UG_fEdEof_2Q.jpeg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVWOUpSbTV5ZGtSMk5VSk5jMlZzZFVoUmNUZ3pORnBTYVRneWRsaFhkVlEyT1VaRFV6VktUbWR6VmtWUWJrcHBWbFJLT0ZwQmJYVXpOR1F3YUc5VFpVUk1PR1V6Tm5jMlltMXFZVVJWT0ZwMU4yWXljM1JHTnpCQlFSSVhNVUpuTm1GeU0waEtjbVY1YlhSclVEYzFVSE0wUVZrYUlrRkVjM0k1WmxOdWVrUmpNMGxmYldONFVWaE1VVGQ2WkZkdWJrRm5USGt6YVVFIiwiZmN2IjoiMyIsImVpIjoiMUJnNmFyM0hKcmV5bXRrUDc1UHM0QVkiLCJxYyI6IkNpQmpiMjVqY21WMFpTQjVZWEprWVdkbElHTmhiR04xYkdGMGIzSWdjMmhsWkJBQWZTNWVCRDgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGNvbmNyZXRlIGRvIEkgbmVlZCBmb3IgYSAxMHgxMCBzaGVkPyIsImxrIjoiR2l4b2IzY2diWFZqYUNCamIyNWpjbVYwWlNCa2J5QnBJRzVsWldRZ1ptOXlJR0VnTVRCNE1UQWdjMmhsWkEiLCJicyI6ImM0M1F2UTZDTUJpRjRiaDJjalNkampyNUcyZ1kxSVZWcnNBNGx2SmhtMkNiVUFod3RkNktDZEhCQk5UOWZaS1R3MUsyTzdzRzkxcHBLR2RWU1JVaGMwaGdpVExrcm9SRUdMUmhBSzhwaTJjUGlEM2Y2aUZqaGcxTDJPS2laUVhqVVdsQ0pFS1VkVUY5LVBheFdQSjU4NnRpRFR2MmM2WHQwTWt5ODNENS1HNFJ0U0pDRzhFWE1vM0ZpUl8wVjJ4R01idXlkZUloWUt6UzlBbkp1dnFtWDZvX1NXejR5dnhiVHlkUCIsImlkIjoiZmNfMUJnNmFyM0hKcmV5bXRrUDc1UHM0QVlfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVWOUpSbTV5ZGtSMk5VSk5jMlZzZFVoUmNUZ3pORnBTYVRneWRsaFhkVlEyT1VaRFV6VktUbWR6VmtWUWJrcHBWbFJLT0ZwQmJYVXpOR1F3YUc5VFpVUk1PR1V6Tm5jMlltMXFZVVJWT0ZwMU4yWXljM1JHTnpCQlFSSVhNVUpuTm1GeU0waEtjbVY1YlhSclVEYzFVSE0wUVZrYUlrRkVjM0k1WmxOdWVrUmpNMGxmYldONFVWaE1VVGQ2WkZkdWJrRm5USGt6YVVFIiwiZmN2IjoiMyIsImVpIjoiMUJnNmFyM0hKcmV5bXRrUDc1UHM0QVkiLCJxYyI6IkNpQmpiMjVqY21WMFpTQjVZWEprWVdkbElHTmhiR04xYkdGMGIzSWdjMmhsWkJBQWZTNWVCRDgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGNvbmNyZXRlIGRvIEkgbmVlZCBmb3IgYSAxMHgxMCBzaGVkPyIsImxrIjoiR2l4b2IzY2diWFZqYUNCamIyNWpjbVYwWlNCa2J5QnBJRzVsWldRZ1ptOXlJR0VnTVRCNE1UQWdjMmhsWkEiLCJicyI6ImM0M1F2UTZDTUJpRjRiaDJjalNkampyNUcyZ1kxSVZWcnNBNGx2SmhtMkNiVUFod3RkNktDZEhCQk5UOWZaS1R3MUsyTzdzRzkxcHBLR2RWU1JVaGMwaGdpVExrcm9SRUdMUmhBSzhwaTJjUGlEM2Y2aUZqaGcxTDJPS2laUVhqVVdsQ0pFS1VkVUY5LVBheFdQSjU4NnRpRFR2MmM2WHQwTWt5ODNENS1HNFJ0U0pDRzhFWE1vM0ZpUl8wVjJ4R01idXlkZUloWUt6UzlBbkp1dnFtWDZvX1NXejR5dnhiVHlkUCIsImlkIjoiZmNfMUJnNmFyM0hKcmV5bXRrUDc1UHM0QVlfNCJ9"
+    },
+    {
+      "question": "What is the 421 rule for concrete?",
+      "type": "ai_overview",
+      "page_token": "6lOd5XicHdBRbtowAABQ7TL9LCQ0TEFCkyiJIStGdmzHyU9lbCAEOzGNR4L_dpedaqdp1Qu8j_f3n7601_8_7rVztl9MJsMwPJ-77qyPz7IzE9E_WjmRQuuDkNfF_Oc8-HWSy-TPdvV6264QtZat8TQv4hYDzBlNdxWFKVnD7kBQUJnR0UBHpYkTZKJegMTt19orMwo1gwDSsSQgnsEiKg9XGoqmHgRJozdWmzxUN2jcXhL1RsOX8MuI8BS_EL1KdtdgwwPLUXMeYZL1gtug4qpmnj2O1Ka5z36zjbrLIAZKl_5oVLfj6rX0ciAshgdfA7hm23xWWeTTHnIFcJO5vMAPldY4qeWIjAxLvvV5Yh8V104Bh6BnSHq8KnB3QRR72WhDSdbJNsMCYLJPcS0a7YuWfbCAXfDUphUdb9XwdJL35ezp-3P5fjJuYT-68yfzcoYY",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6lOd5XicHdBRbtowAABQ7TL9LCQ0TEFCkyiJIStGdmzHyU9lbCAEOzGNR4L_dpedaqdp1Qu8j_f3n7601_8_7rVztl9MJsMwPJ-77qyPz7IzE9E_WjmRQuuDkNfF_Oc8-HWSy-TPdvV6264QtZat8TQv4hYDzBlNdxWFKVnD7kBQUJnR0UBHpYkTZKJegMTt19orMwo1gwDSsSQgnsEiKg9XGoqmHgRJozdWmzxUN2jcXhL1RsOX8MuI8BS_EL1KdtdgwwPLUXMeYZL1gtug4qpmnj2O1Ka5z36zjbrLIAZKl_5oVLfj6rX0ciAshgdfA7hm23xWWeTTHnIFcJO5vMAPldY4qeWIjAxLvvV5Yh8V104Bh6BnSHq8KnB3QRR72WhDSdbJNsMCYLJPcS0a7YuWfbCAXfDUphUdb9XwdJL35ezp-3P5fjJuYT-68yfzcoYY",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVWOUpSbTV5ZGtSMk5VSk5jMlZzZFVoUmNUZ3pORnBTYVRneWRsaFhkVlEyT1VaRFV6VktUbWR6VmtWUWJrcHBWbFJLT0ZwQmJYVXpOR1F3YUc5VFpVUk1PR1V6Tm5jMlltMXFZVVJWT0ZwMU4yWXljM1JHTnpCQlFSSVhNVUpuTm1GeU0waEtjbVY1YlhSclVEYzFVSE0wUVZrYUlrRkVjM0k1WmxOdWVrUmpNMGxmYldONFVWaE1VVGQ2WkZkdWJrRm5USGt6YVVFIiwiZmN2IjoiMyIsImVpIjoiMUJnNmFyM0hKcmV5bXRrUDc1UHM0QVkiLCJxYyI6IkNpQmpiMjVqY21WMFpTQjVZWEprWVdkbElHTmhiR04xYkdGMGIzSWdjMmhsWkJBQWZTNWVCRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDQyMSBydWxlIGZvciBjb25jcmV0ZT8iLCJsayI6IkdpRjNhR0YwSUdseklIUm9aU0EwTWpFZ2NuVnNaU0JtYjNJZ1kyOXVZM0psZEdVIiwiYnMiOiJjNDNRdlE2Q01CaUY0YmgyY2pTZGpqcjVHMmdZMUlWVnJzQTRsdkpobTJDYlVBaHd0ZDZLQ2RIQkJOVDlmWktUdzFLMk83c0c5MXBwS0dkVlNSVWhjMGhnaVRMa3JvUkVHTFJoQUs4cGkyY1BpRDNmNmlGamhnMUwyT0tpWlFYalVXbENKRUtVZFVGOS1QYXhXUEo1ODZ0aURUdjJjNlh0ME1reTgzRDUtRzRSdFNKQ0c4RVhNbzNGaVJfMFYyeEdNYnV5ZGVJaFlLelM5QW5KdXZxbVg2b19TV3o0eXZ4YlR5ZFAiLCJpZCI6ImZjXzFCZzZhcjNISnJleW10a1A3NVBzNEFZXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVWOUpSbTV5ZGtSMk5VSk5jMlZzZFVoUmNUZ3pORnBTYVRneWRsaFhkVlEyT1VaRFV6VktUbWR6VmtWUWJrcHBWbFJLT0ZwQmJYVXpOR1F3YUc5VFpVUk1PR1V6Tm5jMlltMXFZVVJWT0ZwMU4yWXljM1JHTnpCQlFSSVhNVUpuTm1GeU0waEtjbVY1YlhSclVEYzFVSE0wUVZrYUlrRkVjM0k1WmxOdWVrUmpNMGxmYldONFVWaE1VVGQ2WkZkdWJrRm5USGt6YVVFIiwiZmN2IjoiMyIsImVpIjoiMUJnNmFyM0hKcmV5bXRrUDc1UHM0QVkiLCJxYyI6IkNpQmpiMjVqY21WMFpTQjVZWEprWVdkbElHTmhiR04xYkdGMGIzSWdjMmhsWkJBQWZTNWVCRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDQyMSBydWxlIGZvciBjb25jcmV0ZT8iLCJsayI6IkdpRjNhR0YwSUdseklIUm9aU0EwTWpFZ2NuVnNaU0JtYjNJZ1kyOXVZM0psZEdVIiwiYnMiOiJjNDNRdlE2Q01CaUY0YmgyY2pTZGpqcjVHMmdZMUlWVnJzQTRsdkpobTJDYlVBaHd0ZDZLQ2RIQkJOVDlmWktUdzFLMk83c0c5MXBwS0dkVlNSVWhjMGhnaVRMa3JvUkVHTFJoQUs4cGkyY1BpRDNmNmlGamhnMUwyT0tpWlFYalVXbENKRUtVZFVGOS1QYXhXUEo1ODZ0aURUdjJjNlh0ME1reTgzRDUtRzRSdFNKQ0c4RVhNbzNGaVJfMFYyeEdNYnV5ZGVJaFlLelM5QW5KdXZxbVg2b19TV3o0eXZ4YlR5ZFAiLCJpZCI6ImZjXzFCZzZhcjNISnJleW10a1A3NVBzNEFZXzQifQ%3D%3D"
+    },
+    {
+      "question": "How many yards of concrete do I need for a 24x24 x4 slab?",
+      "type": "ai_overview",
+      "page_token": "8ydnxHicHdBbjpswGEBhdTPzOEmMwiiRokoMlxkrobXB2PhlZGwSgn-CNUHh8tYtdA1dVVfTUTdw9On8-gPXm_377XczDO6-X63GcXy-9P0F6mfddyt1n296pRVApbTd-y_-5vtZH6KHDl4_dUCYc0VI11mHSRpCUiB5rNtmNnbDdLSjAtFXE6bTj_AyVFEMMpFNYadWF3CqQc70jWwpEFTZ3ZnHLqw7mh5FESsouF4aIW_0J_GcU4mZuKWK3VwkWSzTZIdYbMqS65Eweqys9DP0jsq1C40ATOxkUxtjXVBPC8xlByhj8XiCBhkO3MRNn7c4I0heqzfwTFt6bMH5KQx8nuNF2vUs-TY_8VQRYUcloMmj-4YxnEaNnkinUSnelyxysxQwmGQg6VIQvdCA0_76ZVp0C10RYqLs9quBRR1SSdZDnHlSqUh6ZgkeGTS-HJ_O-nHwnv6_Pnycu2HvPvvLP-3cjzo",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8ydnxHicHdBbjpswGEBhdTPzOEmMwiiRokoMlxkrobXB2PhlZGwSgn-CNUHh8tYtdA1dVVfTUTdw9On8-gPXm_377XczDO6-X63GcXy-9P0F6mfddyt1n296pRVApbTd-y_-5vtZH6KHDl4_dUCYc0VI11mHSRpCUiB5rNtmNnbDdLSjAtFXE6bTj_AyVFEMMpFNYadWF3CqQc70jWwpEFTZ3ZnHLqw7mh5FESsouF4aIW_0J_GcU4mZuKWK3VwkWSzTZIdYbMqS65Eweqys9DP0jsq1C40ATOxkUxtjXVBPC8xlByhj8XiCBhkO3MRNn7c4I0heqzfwTFt6bMH5KQx8nuNF2vUs-TY_8VQRYUcloMmj-4YxnEaNnkinUSnelyxysxQwmGQg6VIQvdCA0_76ZVp0C10RYqLs9quBRR1SSdZDnHlSqUh6ZgkeGTS-HJ_O-nHwnv6_Pnycu2HvPvvLP-3cjzo",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVWOUpSbTV5ZGtSMk5VSk5jMlZzZFVoUmNUZ3pORnBTYVRneWRsaFhkVlEyT1VaRFV6VktUbWR6VmtWUWJrcHBWbFJLT0ZwQmJYVXpOR1F3YUc5VFpVUk1PR1V6Tm5jMlltMXFZVVJWT0ZwMU4yWXljM1JHTnpCQlFSSVhNVUpuTm1GeU0waEtjbVY1YlhSclVEYzFVSE0wUVZrYUlrRkVjM0k1WmxOdWVrUmpNMGxmYldONFVWaE1VVGQ2WkZkdWJrRm5USGt6YVVFIiwiZmN2IjoiMyIsImVpIjoiMUJnNmFyM0hKcmV5bXRrUDc1UHM0QVkiLCJxYyI6IkNpQmpiMjVqY21WMFpTQjVZWEprWVdkbElHTmhiR04xYkdGMGIzSWdjMmhsWkJBQWZTNWVCRDgiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHlhcmRzIG9mIGNvbmNyZXRlIGRvIEkgbmVlZCBmb3IgYSAyNHgyNCB4NCBzbGFiPyIsImxrIjoiR2pob2IzY2diV0Z1ZVNCNVlYSmtjeUJ2WmlCamIyNWpjbVYwWlNCa2J5QnBJRzVsWldRZ1ptOXlJR0VnTWpSNE1qUWdlRFFnYzJ4aFlnIiwiYnMiOiJjNDNRdlE2Q01CaUY0YmgyY2pTZGpqcjVHMmdZMUlWVnJzQTRsdkpobTJDYlVBaHd0ZDZLQ2RIQkJOVDlmWktUdzFLMk83c0c5MXBwS0dkVlNSVWhjMGhnaVRMa3JvUkVHTFJoQUs4cGkyY1BpRDNmNmlGamhnMUwyT0tpWlFYalVXbENKRUtVZFVGOS1QYXhXUEo1ODZ0aURUdjJjNlh0ME1reTgzRDUtRzRSdFNKQ0c4RVhNbzNGaVJfMFYyeEdNYnV5ZGVJaFlLelM5QW5KdXZxbVg2b19TV3o0eXZ4YlR5ZFAiLCJpZCI6ImZjXzFCZzZhcjNISnJleW10a1A3NVBzNEFZXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVWOUpSbTV5ZGtSMk5VSk5jMlZzZFVoUmNUZ3pORnBTYVRneWRsaFhkVlEyT1VaRFV6VktUbWR6VmtWUWJrcHBWbFJLT0ZwQmJYVXpOR1F3YUc5VFpVUk1PR1V6Tm5jMlltMXFZVVJWT0ZwMU4yWXljM1JHTnpCQlFSSVhNVUpuTm1GeU0waEtjbVY1YlhSclVEYzFVSE0wUVZrYUlrRkVjM0k1WmxOdWVrUmpNMGxmYldONFVWaE1VVGQ2WkZkdWJrRm5USGt6YVVFIiwiZmN2IjoiMyIsImVpIjoiMUJnNmFyM0hKcmV5bXRrUDc1UHM0QVkiLCJxYyI6IkNpQmpiMjVqY21WMFpTQjVZWEprWVdkbElHTmhiR04xYkdGMGIzSWdjMmhsWkJBQWZTNWVCRDgiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHlhcmRzIG9mIGNvbmNyZXRlIGRvIEkgbmVlZCBmb3IgYSAyNHgyNCB4NCBzbGFiPyIsImxrIjoiR2pob2IzY2diV0Z1ZVNCNVlYSmtjeUJ2WmlCamIyNWpjbVYwWlNCa2J5QnBJRzVsWldRZ1ptOXlJR0VnTWpSNE1qUWdlRFFnYzJ4aFlnIiwiYnMiOiJjNDNRdlE2Q01CaUY0YmgyY2pTZGpqcjVHMmdZMUlWVnJzQTRsdkpobTJDYlVBaHd0ZDZLQ2RIQkJOVDlmWktUdzFLMk83c0c5MXBwS0dkVlNSVWhjMGhnaVRMa3JvUkVHTFJoQUs4cGkyY1BpRDNmNmlGamhnMUwyT0tpWlFYalVXbENKRUtVZFVGOS1QYXhXUEo1ODZ0aURUdjJjNlh0ME1reTgzRDUtRzRSdFNKQ0c4RVhNbzNGaVJfMFYyeEdNYnV5ZGVJaFlLelM5QW5KdXZxbVg2b19TV3o0eXZ4YlR5ZFAiLCJpZCI6ImZjXzFCZzZhcjNISnJleW10a1A3NVBzNEFZXzQifQ%3D%3D"
+    },
+    {
+      "question": "Is 2 inches of concrete enough for a shed?",
+      "type": "ai_overview",
+      "page_token": "2XTAr3icHdBdUqswGADQcTM-Wn60XjvTcUQIhSvpQJMAeXHgS4FCgGi5TeHt7sVVuRpnPEs4_7_kaei-by7NNKnzZrXSWt_V41jL4x2M_ao4zwOsoJCyLKDbrB_X5nMFW-9f4Lx-BE5MlWJuYhA3LHCbDHQ2q2zBJum9-9K46jzlKVlEEaFgPpKmBWs0OZIy7xXGvncfyeQNDEm4TzW2wgoI53QnTxFB_hHh_ZE1O5EFBvdqHUuxpH5n5qm4Mle4lDlNYfOG2LXFehyUKGnZEL4Ba1qcSZ3ZwjqgUFE_-YvR0_ogowm66zlKVbDfeQ-RG9p89zLldjRj_0nvEV_TAV-EqQavgWvcg5VnwXLw1MwzOQl_ivHCYlgSJ03GU0yTBVrZM5fJlJof0AtGEXdJx2w-eFO5xAZYf3QpQ4fGtxVctvbt7-f2veqnjfoc6x_uC4Sh",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2XTAr3icHdBdUqswGADQcTM-Wn60XjvTcUQIhSvpQJMAeXHgS4FCgGi5TeHt7sVVuRpnPEs4_7_kaei-by7NNKnzZrXSWt_V41jL4x2M_ao4zwOsoJCyLKDbrB_X5nMFW-9f4Lx-BE5MlWJuYhA3LHCbDHQ2q2zBJum9-9K46jzlKVlEEaFgPpKmBWs0OZIy7xXGvncfyeQNDEm4TzW2wgoI53QnTxFB_hHh_ZE1O5EFBvdqHUuxpH5n5qm4Mle4lDlNYfOG2LXFehyUKGnZEL4Ba1qcSZ3ZwjqgUFE_-YvR0_ogowm66zlKVbDfeQ-RG9p89zLldjRj_0nvEV_TAV-EqQavgWvcg5VnwXLw1MwzOQl_ivHCYlgSJ03GU0yTBVrZM5fJlJof0AtGEXdJx2w-eFO5xAZYf3QpQ4fGtxVctvbt7-f2veqnjfoc6x_uC4Sh",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVWOUpSbTV5ZGtSMk5VSk5jMlZzZFVoUmNUZ3pORnBTYVRneWRsaFhkVlEyT1VaRFV6VktUbWR6VmtWUWJrcHBWbFJLT0ZwQmJYVXpOR1F3YUc5VFpVUk1PR1V6Tm5jMlltMXFZVVJWT0ZwMU4yWXljM1JHTnpCQlFSSVhNVUpuTm1GeU0waEtjbVY1YlhSclVEYzFVSE0wUVZrYUlrRkVjM0k1WmxOdWVrUmpNMGxmYldONFVWaE1VVGQ2WkZkdWJrRm5USGt6YVVFIiwiZmN2IjoiMyIsImVpIjoiMUJnNmFyM0hKcmV5bXRrUDc1UHM0QVkiLCJxYyI6IkNpQmpiMjVqY21WMFpTQjVZWEprWVdkbElHTmhiR04xYkdGMGIzSWdjMmhsWkJBQWZTNWVCRDgiLCJxdWVzdGlvbiI6IklzIDIgaW5jaGVzIG9mIGNvbmNyZXRlIGVub3VnaCBmb3IgYSBzaGVkPyIsImxrIjoiR2lscGN5QXlJR2x1WTJobGN5QnZaaUJqYjI1amNtVjBaU0JsYm05MVoyZ2dabTl5SUdFZ2MyaGxaQSIsImJzIjoiYzQzUXZRNkNNQmlGNGJoMmNqU2RqanI1RzJnWTFJVlZyc0E0bHZKaG0yQ2JVQWh3dGQ2S0NkSEJCTlQ5ZlpLVHcxSzJPN3NHOTFwcEtHZFZTUlVoYzBoZ2lUTGtyb1JFR0xSaEFLOHBpMmNQaUQzZjZpRmpoZzFMMk9LaVpRWGpVV2xDSkVLVWRVRjktUGF4V1BKNTg2dGlEVHYyYzZYdDBNa3k4M0Q1LUc0UnRTSkNHOEVYTW8zRmlSXzBWMnhHTWJ1eWRlSWhZS3pTOUFuSnV2cW1YNm9fU1d6NHl2eGJUeWRQIiwiaWQiOiJmY18xQmc2YXIzSEpyZXltdGtQNzVQczRBWV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVWOUpSbTV5ZGtSMk5VSk5jMlZzZFVoUmNUZ3pORnBTYVRneWRsaFhkVlEyT1VaRFV6VktUbWR6VmtWUWJrcHBWbFJLT0ZwQmJYVXpOR1F3YUc5VFpVUk1PR1V6Tm5jMlltMXFZVVJWT0ZwMU4yWXljM1JHTnpCQlFSSVhNVUpuTm1GeU0waEtjbVY1YlhSclVEYzFVSE0wUVZrYUlrRkVjM0k1WmxOdWVrUmpNMGxmYldONFVWaE1VVGQ2WkZkdWJrRm5USGt6YVVFIiwiZmN2IjoiMyIsImVpIjoiMUJnNmFyM0hKcmV5bXRrUDc1UHM0QVkiLCJxYyI6IkNpQmpiMjVqY21WMFpTQjVZWEprWVdkbElHTmhiR04xYkdGMGIzSWdjMmhsWkJBQWZTNWVCRDgiLCJxdWVzdGlvbiI6IklzIDIgaW5jaGVzIG9mIGNvbmNyZXRlIGVub3VnaCBmb3IgYSBzaGVkPyIsImxrIjoiR2lscGN5QXlJR2x1WTJobGN5QnZaaUJqYjI1amNtVjBaU0JsYm05MVoyZ2dabTl5SUdFZ2MyaGxaQSIsImJzIjoiYzQzUXZRNkNNQmlGNGJoMmNqU2RqanI1RzJnWTFJVlZyc0E0bHZKaG0yQ2JVQWh3dGQ2S0NkSEJCTlQ5ZlpLVHcxSzJPN3NHOTFwcEtHZFZTUlVoYzBoZ2lUTGtyb1JFR0xSaEFLOHBpMmNQaUQzZjZpRmpoZzFMMk9LaVpRWGpVV2xDSkVLVWRVRjktUGF4V1BKNTg2dGlEVHYyYzZYdDBNa3k4M0Q1LUc0UnRTSkNHOEVYTW8zRmlSXzBWMnhHTWJ1eWRlSWhZS3pTOUFuSnV2cW1YNm9fU1d6NHl2eGJUeWRQIiwiaWQiOiJmY18xQmc2YXIzSEpyZXltdGtQNzVQczRBWV80In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "lxiOynicxVbdkqI4FL7f91hvulukof3pKmoqRLTRFtHWcewbCgIT5ce0BGWYu32Xfap9iH2GDQiKNnbXTtXWxiIh4eR855ycL8c__vTXG--v3_5eRdEbfeS4OI7rmBDsO3VEAs6kyQZx34lPQ7T6QskuRM7altAqJIFTS_aSUENUatSctcTLuGmGwtMgdJIg8vTWg05FsKxlKiTDMqnjMoQfLuUMjnXe70KXTeq07mzq-nzGy3xr-G2C6vcNvlMfc2bABMB_2BSg4nRU2U_J5pdNZt8nn2mBALIel5Zwqc9bN4UBAMJsAOSaNjmzAgJZSXFlY9Rps-Eg3sXXdgHwcj5dZJaBOFXIXFAqnahSV6wVBspX8KpNyWDm-UQsfXgf2rSxaJTDO2RqRYAAmOYL40KuDIexArrF-lM8HsljZfrRITHn-yPQ9nSofiCVWq-GcS9_j7UlA-VszHKwwVkhG3hujVYoewlpmppw1mkQBavbwdc9SkbKbNFdau3IH7xO-Z_i2I05ZDE5n5i2Yxsro_Elm_P3_EOjI7TatxknED2SgpZJgUfL53gX8-qdUn-uy3yJEZm36tkZsEiynKn2a5j1ZycJixf1OIHvdqR77lOBk155lqTooyJK6RHNwbu4plgVjChhnsDzzIW9k2PnmtQcvuydHF8gngDyVFiC4eTossKmZ8aVlcnAy-6AfrFw0p1qxX52QaSMUHKF47P9uGxYepNMsHxEnpSteyhtwkDOIu4mrBsAAotbKN2i5kEYptaVc7t_ySTKTKH4ysF_1q7eQiU7i9y_SOUyBfr6euzpd4m79DAaa5rd8L7Czthf2C9xdcqTwPoXhQD9v6QoysQwP6BeJSkmn5BCgfKHZeIg3j2SIptvr5FCVqvKxOHGPZWJ96R4OSfF9TJRIgXOvSprvSSFfIUUOPetghTzClJ4laTIy0SJFCtxclYmDmDHMlGQ4pfKxP5XykRGEecwnNeMnYuv1o7eVNff9nRuWSPY9lVCzb5pUAHPjCf8ae34HkSPgWn7t8bafpTvB1Fi3xpsgTw6dm0rIbJBoRM5N4kZ2iZ2bpDpo51vRiS8oSsmEvghkRpmq6HA9iuFtIWnuyCkotaOm0u3aUcq0c3pWp0pwxVZkNctxpa7aVkLbbMbeK12E-ryyG33I8yvTCD21CkZaN44EPBLEzYhGVka2QoTk-_c9cM3Z6YZLap_c_eCZsGHntuxxMiIRCfek2f8Olz8iHW0Np04s4tKQkfZNZ9_dhJ5WWNOUUfia0GIJJYKIgbaBCww-6cAl2ACMXsIe2KWJDWKTMOhe8myrJbd5J22LViW0HJqAY6SN0nka3QTSvw_NzgdzA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=lxiOynicxVbdkqI4FL7f91hvulukof3pKmoqRLTRFtHWcewbCgIT5ce0BGWYu32Xfap9iH2GDQiKNnbXTtXWxiIh4eR855ycL8c__vTXG--v3_5eRdEbfeS4OI7rmBDsO3VEAs6kyQZx34lPQ7T6QskuRM7altAqJIFTS_aSUENUatSctcTLuGmGwtMgdJIg8vTWg05FsKxlKiTDMqnjMoQfLuUMjnXe70KXTeq07mzq-nzGy3xr-G2C6vcNvlMfc2bABMB_2BSg4nRU2U_J5pdNZt8nn2mBALIel5Zwqc9bN4UBAMJsAOSaNjmzAgJZSXFlY9Rps-Eg3sXXdgHwcj5dZJaBOFXIXFAqnahSV6wVBspX8KpNyWDm-UQsfXgf2rSxaJTDO2RqRYAAmOYL40KuDIexArrF-lM8HsljZfrRITHn-yPQ9nSofiCVWq-GcS9_j7UlA-VszHKwwVkhG3hujVYoewlpmppw1mkQBavbwdc9SkbKbNFdau3IH7xO-Z_i2I05ZDE5n5i2Yxsro_Elm_P3_EOjI7TatxknED2SgpZJgUfL53gX8-qdUn-uy3yJEZm36tkZsEiynKn2a5j1ZycJixf1OIHvdqR77lOBk155lqTooyJK6RHNwbu4plgVjChhnsDzzIW9k2PnmtQcvuydHF8gngDyVFiC4eTossKmZ8aVlcnAy-6AfrFw0p1qxX52QaSMUHKF47P9uGxYepNMsHxEnpSteyhtwkDOIu4mrBsAAotbKN2i5kEYptaVc7t_ySTKTKH4ysF_1q7eQiU7i9y_SOUyBfr6euzpd4m79DAaa5rd8L7Czthf2C9xdcqTwPoXhQD9v6QoysQwP6BeJSkmn5BCgfKHZeIg3j2SIptvr5FCVqvKxOHGPZWJ96R4OSfF9TJRIgXOvSprvSSFfIUUOPetghTzClJ4laTIy0SJFCtxclYmDmDHMlGQ4pfKxP5XykRGEecwnNeMnYuv1o7eVNff9nRuWSPY9lVCzb5pUAHPjCf8ae34HkSPgWn7t8bafpTvB1Fi3xpsgTw6dm0rIbJBoRM5N4kZ2iZ2bpDpo51vRiS8oSsmEvghkRpmq6HA9iuFtIWnuyCkotaOm0u3aUcq0c3pWp0pwxVZkNctxpa7aVkLbbMbeK12E-ryyG33I8yvTCD21CkZaN44EPBLEzYhGVka2QoTk-_c9cM3Z6YZLap_c_eCZsGHntuxxMiIRCfek2f8Olz8iHW0Np04s4tKQkfZNZ9_dhJ5WWNOUUfia0GIJJYKIgbaBCww-6cAl2ACMXsIe2KWJDWKTMOhe8myrJbd5J22LViW0HJqAY6SN0nka3QTSvw_NzgdzA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Ready Mix Concrete Calculator",
+      "link": "https://www.cemexusa.com/ready-mix-concrete-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cemexusa.com/ready-mix-concrete-calculator&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQFnoECBkQAQ",
+      "displayed_link": "https://www.cemexusa.com › ready-mix-concrete-calcul...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAulBMVEX____-6-v809b80NP-8PHr6_nPz_HIye_m5vf5iZD0Qk3yNUD0LzzyKjb1VmD-6On8_P99fNgxMMAfH7gYGLYAALrX1_P1S1XyECLyHSvyGyv-y8w2N8AAALMAALSsreT93-H2ZW3yIS_yIzD8qqxeYM2EhNf09Pv3g4r04-yMjtzb3POxtOgpKrxAQMKkpuP2a3NCQsfx8fz5mJ_1W2X8v8L-trdMTsn2eoFtbtD5nKFWWMl1ddKXl-AuJ3Z1AAAA_ElEQVR4Ac2PRRbDMBQDXYYwo8PMKeP9r9XvrJwbdLbz9CShP2exXK1Wa4Q2291ut5-rw5FhOV4QJVlRVE2n3cowLctmnL2LAc-nXRDaURyxyT7Fnoe9LKfc-hCBi4uywkSmNeXEhAVnhUHTYsh1O0ThHK04thhn25Gc0ouUE3g7jmMz2UAhINGFaLAjcAPKiMLjiXZnE3L2BfUYk8bZ_SsLOctY6trkGtot-WnMbX-fHlazMQ_ykDuXUAg8N_T7FwfSGoJeJcG7PitkLBhjrHYuce2sMDBsyMW3-o2BeeH6YlpRfLyePmSn3COa5aMoDomA6s_nI31r9Nf8ACXDIGyKwOIRAAAAAElFTkSuQmCC.png",
+      "snippet": "Easily estimate the amount of ready mix concrete you need for your project with our simple, accurate calculator. Perfect for slabs, footings, and more.",
+      "snippet_highlighted_words": [
+        "Easily estimate the amount of ready mix concrete you need for your project"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Easily estimate the amount of ready mix concrete you need for your project with our simple, accurate calculator. Perfect for slabs, footings, and more.",
+          "source_info_link": "https://www.cemexusa.com/ready-mix-concrete-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAulBMVEX____-6-v809b80NP-8PHr6_nPz_HIye_m5vf5iZD0Qk3yNUD0LzzyKjb1VmD-6On8_P99fNgxMMAfH7gYGLYAALrX1_P1S1XyECLyHSvyGyv-y8w2N8AAALMAALSsreT93-H2ZW3yIS_yIzD8qqxeYM2EhNf09Pv3g4r04-yMjtzb3POxtOgpKrxAQMKkpuP2a3NCQsfx8fz5mJ_1W2X8v8L-trdMTsn2eoFtbtD5nKFWWMl1ddKXl-AuJ3Z1AAAA_ElEQVR4Ac2PRRbDMBQDXYYwo8PMKeP9r9XvrJwbdLbz9CShP2exXK1Wa4Q2291ut5-rw5FhOV4QJVlRVE2n3cowLctmnL2LAc-nXRDaURyxyT7Fnoe9LKfc-hCBi4uywkSmNeXEhAVnhUHTYsh1O0ThHK04thhn25Gc0ouUE3g7jmMz2UAhINGFaLAjcAPKiMLjiXZnE3L2BfUYk8bZ_SsLOctY6trkGtot-WnMbX-fHlazMQ_ykDuXUAg8N_T7FwfSGoJeJcG7PitkLBhjrHYuce2sMDBsyMW3-o2BeeH6YlpRfLyePmSn3COa5aMoDomA6s_nI31r9Nf8ACXDIGyKwOIRAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.cemexusa.com/ready-mix-concrete-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.cemexusa.com%2Fready-mix-concrete-calculator",
+      "source": "Cemex US"
+    },
+    {
+      "position": 2,
+      "title": "Concrete Calculator - How Much Do I Need?",
+      "link": "https://www.quikrete.com/calculator/main.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quikrete.com/calculator/main.asp&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQFnoECB4QAQ",
+      "displayed_link": "https://www.quikrete.com › calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA6lBMVEX-__8tLjOtkFJYSzaGbz9dTjMjM5NHcEzusjFnepytiUCtkFkwRWBSTEHQokM0NkwRHzVcSy-Hg2eLe1qmjFZSRjQsKyzeqzYpJicUHTK6l07krTTqsDGqgSOriEDUpD4rKy4pJyfZpzaTgFvfqTn-vC37ui30tjDjrDXdpjGbfEG9kjvSpEOSjn-viDaVdzq3jTbDnU6ifzmujk7ToTaUm5qIg3bDljrEpF_DlDCzonptWznKmzi9mE61mFunh0iOfFqjm4OBZi-ngjVqa2mkl3Weh1aplGegfTDksUuVhmWDiIqlhECdi2f9_t54AAAAJXRSTlMBcjaO_vsHAP4FxW4aRokNNeYZYyWylaW4TVPm8bPw71T2yZfGGk5cswAAAYVJREFUKJHNktlymzAYhY0NSHiLtzRr10RIaGUzGAPe18R9_9epoL7JdHrdntGF5nw6M9L51Wj8e4Hf-ott293m2AYfTQBGzcf-3dPzM8Rp-5oFzmjy2On_-Eq82C_UhcAYImhcaYcygrFnUpMyXyllmjHCptGoqPOSuq6_lWGoFGPSZ1kWZn44fKijY4aQT6WUfrpNWbjZbPPdLlL3XU2dZuFJFRbyFFJzefiZJCIR6yD7_k1D0CRst6PLlXg7iP3xuAjO57O-g_XpBmj4xKfT9X5RllEUcB4Q10V6yRpOXjF0EUI4WpXBjKcFdivFw4GGo7vqpIvwYsEDrl-LEYZevLVaji6hD3VOc8g5J4RAz8t8P7rkt7ZurxMTjxDswrhgaXqhq0S8vyfBxqj6GzMvk6cTpXT1lggh1vP5_BiF1qCqofflkIip1no-m83KpZlbw9tWq1eNBkza-6m2S6k2uZVb90ave2PbTl09cDrtz-2WYTwMurXzYd711rk6f_yB_0q_AJ45PLArr54jAAAAAElFTkSuQmCC.png",
+      "snippet": "Enter the size of the slab you want to build in square feet. The calculator will indicate the number of bags you will need to build a 4 inch or 6 inch slab. ( ...",
+      "snippet_highlighted_words": [
+        "Enter the size of the slab you want to build in square feet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Enter the size of the slab you want to build in square feet. The calculator will indicate the number of bags you will need to build a 4 inch or 6 inch slab. ( ...",
+          "source_info_link": "https://www.quikrete.com/calculator/main.asp",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA6lBMVEX-__8tLjOtkFJYSzaGbz9dTjMjM5NHcEzusjFnepytiUCtkFkwRWBSTEHQokM0NkwRHzVcSy-Hg2eLe1qmjFZSRjQsKyzeqzYpJicUHTK6l07krTTqsDGqgSOriEDUpD4rKy4pJyfZpzaTgFvfqTn-vC37ui30tjDjrDXdpjGbfEG9kjvSpEOSjn-viDaVdzq3jTbDnU6ifzmujk7ToTaUm5qIg3bDljrEpF_DlDCzonptWznKmzi9mE61mFunh0iOfFqjm4OBZi-ngjVqa2mkl3Weh1aplGegfTDksUuVhmWDiIqlhECdi2f9_t54AAAAJXRSTlMBcjaO_vsHAP4FxW4aRokNNeYZYyWylaW4TVPm8bPw71T2yZfGGk5cswAAAYVJREFUKJHNktlymzAYhY0NSHiLtzRr10RIaGUzGAPe18R9_9epoL7JdHrdntGF5nw6M9L51Wj8e4Hf-ott293m2AYfTQBGzcf-3dPzM8Rp-5oFzmjy2On_-Eq82C_UhcAYImhcaYcygrFnUpMyXyllmjHCptGoqPOSuq6_lWGoFGPSZ1kWZn44fKijY4aQT6WUfrpNWbjZbPPdLlL3XU2dZuFJFRbyFFJzefiZJCIR6yD7_k1D0CRst6PLlXg7iP3xuAjO57O-g_XpBmj4xKfT9X5RllEUcB4Q10V6yRpOXjF0EUI4WpXBjKcFdivFw4GGo7vqpIvwYsEDrl-LEYZevLVaji6hD3VOc8g5J4RAz8t8P7rkt7ZurxMTjxDswrhgaXqhq0S8vyfBxqj6GzMvk6cTpXT1lggh1vP5_BiF1qCqofflkIip1no-m83KpZlbw9tWq1eNBkza-6m2S6k2uZVb90ave2PbTl09cDrtz-2WYTwMurXzYd711rk6f_yB_0q_AJ45PLArr54jAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quikrete.com/calculator/main.asp&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quikrete.com%2Fcalculator%2Fmain.asp",
+      "source": "Quikrete",
+      "read_more_link": "https://www.quikrete.com/calculator/main.asp#:~:text=Enter%20the%20size%20of%20the,for%20uneven%20substrate%2C%20waste%2C%20etc.)"
+    },
+    {
+      "position": 3,
+      "title": "Concrete, Cement, & Masonry Calculator",
+      "link": "https://www.lowes.com/n/calculators/concrete-slabs-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lowes.com/n/calculators/concrete-slabs-calculator&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQFnoECBwQAQ",
+      "displayed_link": "https://www.lowes.com › ... › Building Materials",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAiUlEQVR4AWMYxoBFJZuBVTWHkVUlh5FFJYd4jYyKmQxMSpmsQNoAiJug2IBJKYuVUSkTUwOTSg5IgxAQSzEpZsoAFXsC8SIgfgHE_6H4BVTME6QGpBaiJwtsozcQrwHie1D8Ba4RE3-BqYPq8QYZ8BOI_4IUkIj_gvQygDiU4MFhwDRKMAPDKAAAQhChkQ_zOBkAAAAASUVORK5CYII.png",
+      "snippet": "Use our concrete, cement and masonry calculator, or cement estimator, to discover how much concrete mix you need to complete your project.",
+      "snippet_highlighted_words": [
+        "Use our concrete, cement and masonry calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our concrete, cement and masonry calculator, or cement estimator, to discover how much concrete mix you need to complete your project.",
+          "source_info_link": "https://www.lowes.com/n/calculators/concrete-slabs-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAiUlEQVR4AWMYxoBFJZuBVTWHkVUlh5FFJYd4jYyKmQxMSpmsQNoAiJug2IBJKYuVUSkTUwOTSg5IgxAQSzEpZsoAFXsC8SIgfgHE_6H4BVTME6QGpBaiJwtsozcQrwHie1D8Ba4RE3-BqYPq8QYZ8BOI_4IUkIj_gvQygDiU4MFhwDRKMAPDKAAAQhChkQ_zOBkAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.lowes.com/n/calculators/concrete-slabs-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.lowes.com%2Fn%2Fcalculators%2Fconcrete-slabs-calculator",
+      "source": "Lowe's"
+    },
+    {
+      "position": 4,
+      "title": "Concrete Calculator",
+      "link": "https://www.calculator.net/concrete-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calculator.net/concrete-calculator.html&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQFnoECBgQAQ",
+      "displayed_link": "https://www.calculator.net › other",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png",
+      "snippet": "This free concrete calculator estimates the amount of concrete necessary for a project and can account for different shapes and quantities.",
+      "snippet_highlighted_words": [
+        "estimates the amount of concrete necessary for a project"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This free concrete calculator estimates the amount of concrete necessary for a project and can account for different shapes and quantities.",
+          "source_info_link": "https://www.calculator.net/concrete-calculator.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.calculator.net/concrete-calculator.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.calculator.net%2Fconcrete-calculator.html",
+      "source": "Calculator.net"
+    },
+    {
+      "position": 5,
+      "title": "Concrete Slab Calculator: How Much Concrete Do I Need?",
+      "link": "https://alansfactoryoutlet.com/concrete-slab-calculator/?srsltid=AfmBOooGbzxSL3Gqm9To543OwExWrlVbGE4yypd3A35GJPSRDwnN1K-8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alansfactoryoutlet.com/concrete-slab-calculator/%3Fsrsltid%3DAfmBOooGbzxSL3Gqm9To543OwExWrlVbGE4yypd3A35GJPSRDwnN1K-8&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQFnoECBoQAQ",
+      "displayed_link": "https://alansfactoryoutlet.com › concrete-slab-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEX____z9PjFytF-gYhhZXL8______7R19qRmqFDUGAAABUAACmus7nr7-9hbHnd3d2gp65aY3AAACAAAB0AEi7j6OxdZHTb3OFqbnwAGDQQHzzY3d-Dh5UAACNHTVqdoKnIzs0AAA8DGjRvdX68wMSip6lSWWQ3QFR7iJSLl50aKT8NGi8AAiwADzBUYGx0fIYPHziKjZSAhIi8w8KxtLVBS1syQlApNUxFSmD1VFqTAAAA5UlEQVR4Ad3PQ4IDURRA0Ve2bcVJmfvfWOxk3riTwvmEfxyCYjgB5BehaIbleEH8MElWOFXTZQLAMF_Esh3tSC59-fSeVPA1LghC2kMgigU4Fl-VBJ5L0mxmUPPFElYzP1ujCKDi-VDEckNTHm9utV2-hGImAIFGK5rOTopQs1LXuNytqnQJYs3oYcNLRsufELxEr06dcSUQgHhd3aNXDKoHDsw49lk0Q2df8HQXwoi7-htyWr7pM2xN31B1rulLkAEAESRvdj2QNUz9ubAvwCzL1aquawydwXvk88cHkVcmTy-_rgOa_hyARR3tWgAAAABJRU5ErkJggg.png",
+      "snippet": "Use our free concrete slab calculator to estimate the amount of concrete you'll need for your foundation, plus tips on how to measure a slab.",
+      "snippet_highlighted_words": [
+        "Use our free concrete slab calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our free concrete slab calculator to estimate the amount of concrete you'll need for your foundation, plus tips on how to measure a slab.",
+          "source_info_link": "https://alansfactoryoutlet.com/concrete-slab-calculator/?srsltid=AfmBOooGbzxSL3Gqm9To543OwExWrlVbGE4yypd3A35GJPSRDwnN1K-8",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEX____z9PjFytF-gYhhZXL8______7R19qRmqFDUGAAABUAACmus7nr7-9hbHnd3d2gp65aY3AAACAAAB0AEi7j6OxdZHTb3OFqbnwAGDQQHzzY3d-Dh5UAACNHTVqdoKnIzs0AAA8DGjRvdX68wMSip6lSWWQ3QFR7iJSLl50aKT8NGi8AAiwADzBUYGx0fIYPHziKjZSAhIi8w8KxtLVBS1syQlApNUxFSmD1VFqTAAAA5UlEQVR4Ad3PQ4IDURRA0Ve2bcVJmfvfWOxk3riTwvmEfxyCYjgB5BehaIbleEH8MElWOFXTZQLAMF_Esh3tSC59-fSeVPA1LghC2kMgigU4Fl-VBJ5L0mxmUPPFElYzP1ujCKDi-VDEckNTHm9utV2-hGImAIFGK5rOTopQs1LXuNytqnQJYs3oYcNLRsufELxEr06dcSUQgHhd3aNXDKoHDsw49lk0Q2df8HQXwoi7-htyWr7pM2xN31B1rulLkAEAESRvdj2QNUz9ubAvwCzL1aquawydwXvk88cHkVcmTy-_rgOa_hyARR3tWgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://alansfactoryoutlet.com/concrete-slab-calculator/?srsltid=AfmBOooGbzxSL3Gqm9To543OwExWrlVbGE4yypd3A35GJPSRDwnN1K-8&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Falansfactoryoutlet.com%2Fconcrete-slab-calculator%2F%3Fsrsltid%3DAfmBOooGbzxSL3Gqm9To543OwExWrlVbGE4yypd3A35GJPSRDwnN1K-8",
+      "source": "Alan's Factory Outlet"
+    },
+    {
+      "position": 6,
+      "title": "Concrete Calculator",
+      "link": "https://www.homedepot.com/project-seller/concrete-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.homedepot.com/project-seller/concrete-calculator&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQFnoECD0QAQ",
+      "displayed_link": "https://www.homedepot.com › project-seller › concrete-c...",
+      "favicon": "https://serpapi.com/searches/6a3a18d48976f7c04bdaff60/images/goxviRrMrjXf-LuyjlkwIf2hIXh5HqOFUw4pNHsutRc.png",
+      "snippet": "Need Help? Visit our Customer Service Center orText 38698. © 2000-2026 Home Depot. All Rights Reserved. Use of this site is subject to certain Terms Of ...",
+      "about_this_result": {
+        "source": {
+          "description": "Need Help? Visit our Customer Service Center orText 38698. © 2000-2026 Home Depot. All Rights Reserved. Use of this site is subject to certain Terms Of ...",
+          "source_info_link": "https://www.homedepot.com/project-seller/concrete-calculator",
+          "icon": "https://serpapi.com/searches/6a3a18d48976f7c04bdaff60/images/goxviRrMrjXf-LuyjlkwIYdeoIAUL20nSPDYSL8UnM06ssClsl6SPP5NaOhnyS3Y.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.homedepot.com/project-seller/concrete-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.homedepot.com%2Fproject-seller%2Fconcrete-calculator",
+      "source": "The Home Depot",
+      "read_more_link": "https://www.homedepot.com/project-seller/concrete-calculator#:~:text=Need%20Help%3F,Customer%20Service%20Center%20orText%2038698"
+    },
+    {
+      "position": 7,
+      "title": "How to estimate concrete needed for shed slab and patio",
+      "link": "https://www.facebook.com/groups/concretelife/posts/2238923703529474/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/concretelife/posts/2238923703529474/&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQFnoECEMQAQ",
+      "displayed_link": "5 comments · 1 month ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "I am having a shed slab and patio poured. I added the rebar and will have them do some mesh as well etc. Trying to estimate how much concrete needed ...",
+      "about_this_result": {
+        "source": {
+          "description": "7 yards is correct. And that should make it safe as far as having more vs less The reason the “combined” calculation exploded is because ...",
+          "source_info_link": "https://www.facebook.com/groups/concretelife/posts/2238923703529474/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/concretelife/posts/2238923703529474/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fconcretelife%2Fposts%2F2238923703529474%2F",
+      "source": "Facebook · Concrete Life"
+    },
+    {
+      "position": 8,
+      "title": "Concrete Calculator",
+      "link": "https://www.sakrete.com/concrete-calculators/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sakrete.com/concrete-calculators/&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQFnoECDwQAQ",
+      "displayed_link": "https://www.sakrete.com › concrete-calculators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEUAAAEAACEFBCEuKB8AACMAACEAACJHcEwLCh8DAh0FAx0SDhQPBgEVERsAAB-7pA8zMDMFAAR4ahe2tbY5Mh1IPxlvbW8hHydoXBqEcxSvmRGJh4ZFQ0OQfxeeiguioaKamZqvrq--vr5VSxx3dnfOzs7p6eliYGJdWUz___-IgWTMjPvdAAAADXRSTlMBuqXzEWErANtCiPnvasObcgAAAStJREFUKJGlkQlTgzAQhaFAOezmIJCQEI5Agdb__wNdpFqtrTrTN5nh-HaTl32e94ziP-BD_mvjtSBGPWiN4ygIop_4HaVJa0yT7G8xbhf6mpaElFT74TeMH7uKVqRAEXzZeVccxxk2EFA5CoBoU2YbxR2jF6uJAgZMMc6sYqyxKlqdrz5eJ8HP3NW1mOTg2Nz3w6lNUjxMm8IOls22m7g41oJxp7oFSqN3XoBGeF_L4djN3M1cOC5YP1hV0cAL_ZzW9dS7ruulwCKGsFsKmvshGtonhTtJfpQM1yKFkmoRp8swcDaHtgUCUKKAA5j2kH65aVSYhsCYV5qQxhTbhK84G2mOzSSnY3Ybzjpc_D_i7MJ7waGzZgvlI8Ob1NK7cX7G85zunfnP4svjDS6uF_2Gycp4AAAAAElFTkSuQmCC.png",
+      "snippet": "Skip the math. Use our concrete calculators to get precise quantity estimates for every bagged concrete project. From slabs to post holes, we've got you ...",
+      "snippet_highlighted_words": [
+        "Use our concrete calculators"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Skip the math. Use our concrete calculators to get precise quantity estimates for every bagged concrete project. From slabs to post holes, we've got you ...",
+          "source_info_link": "https://www.sakrete.com/concrete-calculators/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEUAAAEAACEFBCEuKB8AACMAACEAACJHcEwLCh8DAh0FAx0SDhQPBgEVERsAAB-7pA8zMDMFAAR4ahe2tbY5Mh1IPxlvbW8hHydoXBqEcxSvmRGJh4ZFQ0OQfxeeiguioaKamZqvrq--vr5VSxx3dnfOzs7p6eliYGJdWUz___-IgWTMjPvdAAAADXRSTlMBuqXzEWErANtCiPnvasObcgAAAStJREFUKJGlkQlTgzAQhaFAOezmIJCQEI5Agdb__wNdpFqtrTrTN5nh-HaTl32e94ziP-BD_mvjtSBGPWiN4ygIop_4HaVJa0yT7G8xbhf6mpaElFT74TeMH7uKVqRAEXzZeVccxxk2EFA5CoBoU2YbxR2jF6uJAgZMMc6sYqyxKlqdrz5eJ8HP3NW1mOTg2Nz3w6lNUjxMm8IOls22m7g41oJxp7oFSqN3XoBGeF_L4djN3M1cOC5YP1hV0cAL_ZzW9dS7ruulwCKGsFsKmvshGtonhTtJfpQM1yKFkmoRp8swcDaHtgUCUKKAA5j2kH65aVSYhsCYV5qQxhTbhK84G2mOzSSnY3Ybzjpc_D_i7MJ7waGzZgvlI8Ob1NK7cX7G85zunfnP4svjDS6uF_2Gycp4AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sakrete.com/concrete-calculators/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sakrete.com%2Fconcrete-calculators%2F",
+      "source": "Sakrete"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Free concrete yardage calculator shed",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Free+concrete+yardage+calculator+shed&sa=X&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+concrete+yardage+calculator+shed"
+    },
+    {
+      "block_position": 1,
+      "query": "Concrete yardage calculator shed square foot",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Concrete+yardage+calculator+shed+square+foot&sa=X&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Concrete+yardage+calculator+shed+square+foot"
+    },
+    {
+      "block_position": 1,
+      "query": "Large concrete yardage calculator shed",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Large+concrete+yardage+calculator+shed&sa=X&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Large+concrete+yardage+calculator+shed"
+    },
+    {
+      "block_position": 1,
+      "query": "Concrete yardage calculator shed square feet",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Concrete+yardage+calculator+shed+square+feet&sa=X&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Concrete+yardage+calculator+shed+square+feet"
+    },
+    {
+      "block_position": 1,
+      "query": "How much is a yard of concrete",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+much+is+a+yard+of+concrete&sa=X&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+is+a+yard+of+concrete"
+    },
+    {
+      "block_position": 1,
+      "query": "Concrete calculator app",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Concrete+calculator+app&sa=X&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Concrete+calculator+app"
+    },
+    {
+      "block_position": 1,
+      "query": "How many square feet in a yard of concrete at 4 inches thick",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+many+square+feet+in+a+yard+of+concrete+at+4+inches+thick&sa=X&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+square+feet+in+a+yard+of+concrete+at+4+inches+thick"
+    },
+    {
+      "block_position": 1,
+      "query": "How to calculate concrete",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+to+calculate+concrete&sa=X&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+to+calculate+concrete"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=concrete+yardage+calculator+shed&sca_esv=bbb7d61e8d3bb37e&ei=1Bg6ar3HJreymtkP75Ps4AY&start=10&sa=N&sstk=AU9db-BscZNW7PMONdiZslDx_vpt4FymuT0Y0FGYqB9QntCZYIi5xYfnKm9EE5LaeILR_v0gnKtSf4B_FTqGSDz_VpNHStKueElOrg&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ8NMDegQIMhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=concrete+yardage+calculator+shed&sca_esv=bbb7d61e8d3bb37e&ei=1Bg6ar3HJreymtkP75Ps4AY&start=10&sa=N&sstk=AU9db-BscZNW7PMONdiZslDx_vpt4FymuT0Y0FGYqB9QntCZYIi5xYfnKm9EE5LaeILR_v0gnKtSf4B_FTqGSDz_VpNHStKueElOrg&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ8tMDegQIMhAE",
+      "3": "https://www.google.com/search?q=concrete+yardage+calculator+shed&sca_esv=bbb7d61e8d3bb37e&ei=1Bg6ar3HJreymtkP75Ps4AY&start=20&sa=N&sstk=AU9db-BscZNW7PMONdiZslDx_vpt4FymuT0Y0FGYqB9QntCZYIi5xYfnKm9EE5LaeILR_v0gnKtSf4B_FTqGSDz_VpNHStKueElOrg&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ8tMDegQIMhAG",
+      "4": "https://www.google.com/search?q=concrete+yardage+calculator+shed&sca_esv=bbb7d61e8d3bb37e&ei=1Bg6ar3HJreymtkP75Ps4AY&start=30&sa=N&sstk=AU9db-BscZNW7PMONdiZslDx_vpt4FymuT0Y0FGYqB9QntCZYIi5xYfnKm9EE5LaeILR_v0gnKtSf4B_FTqGSDz_VpNHStKueElOrg&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ8tMDegQIMhAI",
+      "5": "https://www.google.com/search?q=concrete+yardage+calculator+shed&sca_esv=bbb7d61e8d3bb37e&ei=1Bg6ar3HJreymtkP75Ps4AY&start=40&sa=N&sstk=AU9db-BscZNW7PMONdiZslDx_vpt4FymuT0Y0FGYqB9QntCZYIi5xYfnKm9EE5LaeILR_v0gnKtSf4B_FTqGSDz_VpNHStKueElOrg&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ8tMDegQIMhAK",
+      "6": "https://www.google.com/search?q=concrete+yardage+calculator+shed&sca_esv=bbb7d61e8d3bb37e&ei=1Bg6ar3HJreymtkP75Ps4AY&start=50&sa=N&sstk=AU9db-BscZNW7PMONdiZslDx_vpt4FymuT0Y0FGYqB9QntCZYIi5xYfnKm9EE5LaeILR_v0gnKtSf4B_FTqGSDz_VpNHStKueElOrg&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ8tMDegQIMhAM",
+      "7": "https://www.google.com/search?q=concrete+yardage+calculator+shed&sca_esv=bbb7d61e8d3bb37e&ei=1Bg6ar3HJreymtkP75Ps4AY&start=60&sa=N&sstk=AU9db-BscZNW7PMONdiZslDx_vpt4FymuT0Y0FGYqB9QntCZYIi5xYfnKm9EE5LaeILR_v0gnKtSf4B_FTqGSDz_VpNHStKueElOrg&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ8tMDegQIMhAO",
+      "8": "https://www.google.com/search?q=concrete+yardage+calculator+shed&sca_esv=bbb7d61e8d3bb37e&ei=1Bg6ar3HJreymtkP75Ps4AY&start=70&sa=N&sstk=AU9db-BscZNW7PMONdiZslDx_vpt4FymuT0Y0FGYqB9QntCZYIi5xYfnKm9EE5LaeILR_v0gnKtSf4B_FTqGSDz_VpNHStKueElOrg&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ8tMDegQIMhAQ",
+      "9": "https://www.google.com/search?q=concrete+yardage+calculator+shed&sca_esv=bbb7d61e8d3bb37e&ei=1Bg6ar3HJreymtkP75Ps4AY&start=80&sa=N&sstk=AU9db-BscZNW7PMONdiZslDx_vpt4FymuT0Y0FGYqB9QntCZYIi5xYfnKm9EE5LaeILR_v0gnKtSf4B_FTqGSDz_VpNHStKueElOrg&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ8tMDegQIMhAS",
+      "10": "https://www.google.com/search?q=concrete+yardage+calculator+shed&sca_esv=bbb7d61e8d3bb37e&ei=1Bg6ar3HJreymtkP75Ps4AY&start=90&sa=N&sstk=AU9db-BscZNW7PMONdiZslDx_vpt4FymuT0Y0FGYqB9QntCZYIi5xYfnKm9EE5LaeILR_v0gnKtSf4B_FTqGSDz_VpNHStKueElOrg&ved=2ahUKEwi9gYrrz5yVAxU3mSYFHe8JG2wQ8tMDegQIMhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=concrete+yardage+calculator+shed&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=concrete+yardage+calculator+shed&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=concrete+yardage+calculator+shed&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=concrete+yardage+calculator+shed&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=concrete+yardage+calculator+shed&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=concrete+yardage+calculator+shed&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=concrete+yardage+calculator+shed&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=concrete+yardage+calculator+shed&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=concrete+yardage+calculator+shed&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=concrete+yardage+calculator+shed&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=concrete+yardage+calculator+shed&start=90"
+    }
+  }
+}

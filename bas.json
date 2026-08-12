@@ -1,0 +1,428 @@
+{
+  "search_metadata": {
+    "id": "6a3a218295e9505549c65ea3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/H0N_6HyFA71XveqUDlFfog/6a3a218295e9505549c65ea3.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/H0N_6HyFA71XveqUDlFfog/6a3a218295e9505549c65ea3.json_with_pixel_position",
+    "created_at": "2026-06-23 06:02:42 UTC",
+    "processed_at": "2026-06-23 06:02:42 UTC",
+    "google_url": "https://www.google.com/search?q=military+food+allowance+BAS+calculator&oq=military+food+allowance+BAS+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/H0N_6HyFA71XveqUDlFfog/6a3a218295e9505549c65ea3.html",
+    "total_time_taken": 1.16
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military food allowance BAS calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military food allowance BAS calculator",
+    "total_results": 163,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How much is the military food allowance?",
+      "type": "ai_overview",
+      "page_token": "2vLinHicHdBfboIwHADg7DI-ajuERROzRKUoGWALLdqXBVoV4ccfp1Ps2-6yU-00W_bwXeD7-oZTU_083YrrtbtMR6P7_T48tu0R9kPV1qPs8mjUSGUAeaaqqfPi4NeDmrmf6_nivJ5T3nViyVCc4pBVfaOQv-UwKQXqIDCVpXhvBWiy0mT3CJdShhVeKCxT6UGRpLpVDYE_W4HsMjCa7hJZyq32WI0hxAXPPY0iUpmsZmPtFUFEmJuVoR-t_A1FMGam4PsYvwm8flao71UjaeJ1lDatJUrh5qmLVDJHGpE2rWifkzDJlkAlEB7U9kYYbgsLQKW4kyispPHjVEwat9BNxvnzbishdO0oMeSuCaF7TzrSFPOYtSfKmVEl1GIFdSTYJUjxWbiScqMsWXdOvOLXiPiM4Z1N6eCgbjNr8P85ez_U12n30R5_Aecpgs4",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2vLinHicHdBfboIwHADg7DI-ajuERROzRKUoGWALLdqXBVoV4ccfp1Ps2-6yU-00W_bwXeD7-oZTU_083YrrtbtMR6P7_T48tu0R9kPV1qPs8mjUSGUAeaaqqfPi4NeDmrmf6_nivJ5T3nViyVCc4pBVfaOQv-UwKQXqIDCVpXhvBWiy0mT3CJdShhVeKCxT6UGRpLpVDYE_W4HsMjCa7hJZyq32WI0hxAXPPY0iUpmsZmPtFUFEmJuVoR-t_A1FMGam4PsYvwm8flao71UjaeJ1lDatJUrh5qmLVDJHGpE2rWifkzDJlkAlEB7U9kYYbgsLQKW4kyispPHjVEwat9BNxvnzbishdO0oMeSuCaF7TzrSFPOYtSfKmVEl1GIFdSTYJUjxWbiScqMsWXdOvOLXiPiM4Z1N6eCgbjNr8P85ez_U12n30R5_Aecpgs4",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJHVkdiRmR5VFVOTmVFOHRhVWxZU0VkdlVtMHpZa0ZvU2kweVFXZDJkRnBYWVRsNk5GTnlYMHRTVm5oWU5HcGFOVWhJYjBRNFVubE5ZVjkyTldKVmVXSkNSblZKTkVJdFRucE9aSGxQVTJoeExWcGhlbFI0UmpkdmR4SVhaMmxGTm1GMlpUUk9Uazh4Y0hSUlVIaG1lbWM0UVVrYUlrRkVjM0k1WmxReGRYSXlNQzEyY21oQ2RsUjZhM1ZPUWpWNGExbzRlWHBNYkdjIiwiZmN2IjoiMyIsImVpIjoiZ2lFNmF2ZTROTk8xcHRRUHhmemc4QUkiLCJxYyI6IkNpWnRhV3hwZEdGeWVTQm1iMjlrSUdGc2JHOTNZVzVqWlNCaVlYTWdZMkZzWTNWc1lYUnZjaEFBZmFRTUtUOCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggaXMgdGhlIG1pbGl0YXJ5IGZvb2QgYWxsb3dhbmNlPyIsImxrIjoiR2lOb2IzY2diWFZqYUNCcGN5QnRhV3hwZEdGeWVTQm1iMjlrSUdGc2JHOTNZVzVqWlEiLCJicyI6ImM0MlB2UXJDTUJSR2NiMlRpSU5rc0JkRUVLeExScGZnei1BcURrNE8xeVNhUU5vTE5xSDBpWHhOZFJCYVFYRTlIRDdPQjN1WTdiakdJbW1IdnNMb0xCWS0tRWkzQmlfTUJpa0VycW5VVnNtcG1MaVctOFdESldSSFJfRTl0MTRkc0xBVTBGaVRkUFJjcXRFOWwwTXg2Rkk4VXdVYnlGNDU3ZlVuUmsxQnAwRFJHaVZSak4xUEJVNlFieGtiVG5pMUVlbWpEMzNadWFua1Fzek5fMzZfOXdBIiwiaWQiOiJmY19naUU2YXZlNE5OTzFwdFFQeGZ6ZzhBSV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJHVkdiRmR5VFVOTmVFOHRhVWxZU0VkdlVtMHpZa0ZvU2kweVFXZDJkRnBYWVRsNk5GTnlYMHRTVm5oWU5HcGFOVWhJYjBRNFVubE5ZVjkyTldKVmVXSkNSblZKTkVJdFRucE9aSGxQVTJoeExWcGhlbFI0UmpkdmR4SVhaMmxGTm1GMlpUUk9Uazh4Y0hSUlVIaG1lbWM0UVVrYUlrRkVjM0k1WmxReGRYSXlNQzEyY21oQ2RsUjZhM1ZPUWpWNGExbzRlWHBNYkdjIiwiZmN2IjoiMyIsImVpIjoiZ2lFNmF2ZTROTk8xcHRRUHhmemc4QUkiLCJxYyI6IkNpWnRhV3hwZEdGeWVTQm1iMjlrSUdGc2JHOTNZVzVqWlNCaVlYTWdZMkZzWTNWc1lYUnZjaEFBZmFRTUtUOCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggaXMgdGhlIG1pbGl0YXJ5IGZvb2QgYWxsb3dhbmNlPyIsImxrIjoiR2lOb2IzY2diWFZqYUNCcGN5QnRhV3hwZEdGeWVTQm1iMjlrSUdGc2JHOTNZVzVqWlEiLCJicyI6ImM0MlB2UXJDTUJSR2NiMlRpSU5rc0JkRUVLeExScGZnei1BcURrNE8xeVNhUU5vTE5xSDBpWHhOZFJCYVFYRTlIRDdPQjN1WTdiakdJbW1IdnNMb0xCWS0tRWkzQmlfTUJpa0VycW5VVnNtcG1MaVctOFdESldSSFJfRTl0MTRkc0xBVTBGaVRkUFJjcXRFOWwwTXg2Rkk4VXdVYnlGNDU3ZlVuUmsxQnAwRFJHaVZSak4xUEJVNlFieGtiVG5pMUVlbWpEMzNadWFua1Fzek5fMzZfOXdBIiwiaWQiOiJmY19naUU2YXZlNE5OTzFwdFFQeGZ6ZzhBSV8yIn0%3D"
+    },
+    {
+      "question": "What is the BAS meal deduction?",
+      "type": "featured_snippet",
+      "snippet": "BAS is meant to offset costs for a member's meals. Since BAS is intended to provide meals for the service member, the rate payable is linked to the price of food. Each year it is adjusted based upon the increase of the price of food as measured by the United States Department of Agriculture (USDA) food cost index.",
+      "title": "Basic Allowance for Subsistence (BAS) - MyNavyHR",
+      "link": "https://www.mynavyhr.navy.mil/Portals/55/Support/PayPers/CPCResources/BAS_JUN2025.pdf",
+      "displayed_link": "https://www.mynavyhr.navy.mil › BAS_JUN2025",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAq1BMVEUsKipLSkoWEhRqUyydezxdSilGQ0R4dnciHB4kHiCrhkf8xWCVd0IbFhgsJB9DNSDxvV1cSCCEZiChgUa2kUzPpFPqtUPUoiCiexk3MjSEaz5zXjnDmUNlThklHyG8urvzu0PosCGxhxmDZyBkYGJva23GomLYpSDAo3DvxHKbhFo9OT0mISOqqKmEgYKgnp-TkZKPcS-Nah2koqPCwcKadB1VRzBhUzlHPjE8A_AFAAAAoElEQVR4AVWNNRYCQRBEq0Yad4twsiVF7n8HIiI8xd1W0N-v3QgSvoI3uCgRCf0QU_jBCqDesWe0_hY0XXM8AAYBjOyj9LxyTdrbFisXF0thiQtD2EvhPTE-59zogqtyuVAqBDgDEMu4ZkW23j_omQHC7T_C6kg1PGpllKIVmVtVgS1HuDJW0WjUgIrjSMsRT7rdXj-MRMSlUqm0K75JPAFSex45fRfolgAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJHVkdiRmR5VFVOTmVFOHRhVWxZU0VkdlVtMHpZa0ZvU2kweVFXZDJkRnBYWVRsNk5GTnlYMHRTVm5oWU5HcGFOVWhJYjBRNFVubE5ZVjkyTldKVmVXSkNSblZKTkVJdFRucE9aSGxQVTJoeExWcGhlbFI0UmpkdmR4SVhaMmxGTm1GMlpUUk9Uazh4Y0hSUlVIaG1lbWM0UVVrYUlrRkVjM0k1WmxReGRYSXlNQzEyY21oQ2RsUjZhM1ZPUWpWNGExbzRlWHBNYkdjIiwiZmN2IjoiMyIsImVpIjoiZ2lFNmF2ZTROTk8xcHRRUHhmemc4QUkiLCJxYyI6IkNpWnRhV3hwZEdGeWVTQm1iMjlrSUdGc2JHOTNZVzVqWlNCaVlYTWdZMkZzWTNWc1lYUnZjaEFBZmFRTUtUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgQkFTIG1lYWwgZGVkdWN0aW9uPyIsImxrIjoiR2hKdFpXRnNJR1JsWkhWamRHbHZiaUJpWVhNIiwiYnMiOiJjNDJQdlFyQ01CUkdjYjJUaUlOa3NCZEVFS3hMUnBmZ3otQXFEazRPMXlTYVFOb0xOcUgwaVh4TmRSQmFRWEU5SEQ3T0IzdVk3YmpHSW1tSHZzTG9MQlktLUVpM0JpX01CaWtFcnFuVVZzbXBtTGlXLThXREpXUkhSX0U5dDE0ZHNMQVUwRmlUZFBSY3F0RTlsME14NkZJOFV3VWJ5RjQ1N2ZVblJrMUJwMERSR2lWUmpOMVBCVTZRYnhrYlRuaTFFZW1qRDMzWnVhbmtRc3pOXzM2Xzl3QSIsImlkIjoiZmNfZ2lFNmF2ZTROTk8xcHRRUHhmemc4QUlfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJHVkdiRmR5VFVOTmVFOHRhVWxZU0VkdlVtMHpZa0ZvU2kweVFXZDJkRnBYWVRsNk5GTnlYMHRTVm5oWU5HcGFOVWhJYjBRNFVubE5ZVjkyTldKVmVXSkNSblZKTkVJdFRucE9aSGxQVTJoeExWcGhlbFI0UmpkdmR4SVhaMmxGTm1GMlpUUk9Uazh4Y0hSUlVIaG1lbWM0UVVrYUlrRkVjM0k1WmxReGRYSXlNQzEyY21oQ2RsUjZhM1ZPUWpWNGExbzRlWHBNYkdjIiwiZmN2IjoiMyIsImVpIjoiZ2lFNmF2ZTROTk8xcHRRUHhmemc4QUkiLCJxYyI6IkNpWnRhV3hwZEdGeWVTQm1iMjlrSUdGc2JHOTNZVzVqWlNCaVlYTWdZMkZzWTNWc1lYUnZjaEFBZmFRTUtUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgQkFTIG1lYWwgZGVkdWN0aW9uPyIsImxrIjoiR2hKdFpXRnNJR1JsWkhWamRHbHZiaUJpWVhNIiwiYnMiOiJjNDJQdlFyQ01CUkdjYjJUaUlOa3NCZEVFS3hMUnBmZ3otQXFEazRPMXlTYVFOb0xOcUgwaVh4TmRSQmFRWEU5SEQ3T0IzdVk3YmpHSW1tSHZzTG9MQlktLUVpM0JpX01CaWtFcnFuVVZzbXBtTGlXLThXREpXUkhSX0U5dDE0ZHNMQVUwRmlUZFBSY3F0RTlsME14NkZJOFV3VWJ5RjQ1N2ZVblJrMUJwMERSR2lWUmpOMVBCVTZRYnhrYlRuaTFFZW1qRDMzWnVhbmtRc3pOXzM2Xzl3QSIsImlkIjoiZmNfZ2lFNmF2ZTROTk8xcHRRUHhmemc4QUlfMiJ9"
+    },
+    {
+      "question": "How is military bas calculated?",
+      "type": "ai_overview",
+      "page_token": "vkjyOnicHdDbboIwAADQ7Gd8nNRNF03MMgYFyYC19IJ9WaT1gi1QFW9927_sq_Y1S3Y-4Xz_mLrVvw-XXd_b02w4vF6vj9uu25r1o-ya4ep0b-VQroypVlLPJi8T8LqR8_C88N8PCx9Ra1mAPRLjcxGriYxwm7KpZtw2nIsjBuq58voA6-xpOUIuJ4mWQaazPUuqaAoFM2nBF27NWIzD6QeNLZVO9Tm0DAP_mZYMEJgdlmVyEF46FmAaFURcKE9GZK9i0UJByJtTsXTYUwGn6EYjO05HiSZ38Fl5xl_XAAl6Q0WYQUW3IPX6nLVZnTqs8wjskD7deCmKggugjIpZZHC4U-2K0tGyFCYLxzlx8KogROtITITb-QXuakSxk3vT0MYmvAapCDEirTry0oxFsOgpTPaS-feqpB5Fg428zJ8G_5_zr03Tz-yx2_4BdQWCzg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vkjyOnicHdDbboIwAADQ7Gd8nNRNF03MMgYFyYC19IJ9WaT1gi1QFW9927_sq_Y1S3Y-4Xz_mLrVvw-XXd_b02w4vF6vj9uu25r1o-ya4ep0b-VQroypVlLPJi8T8LqR8_C88N8PCx9Ra1mAPRLjcxGriYxwm7KpZtw2nIsjBuq58voA6-xpOUIuJ4mWQaazPUuqaAoFM2nBF27NWIzD6QeNLZVO9Tm0DAP_mZYMEJgdlmVyEF46FmAaFURcKE9GZK9i0UJByJtTsXTYUwGn6EYjO05HiSZ38Fl5xl_XAAl6Q0WYQUW3IPX6nLVZnTqs8wjskD7deCmKggugjIpZZHC4U-2K0tGyFCYLxzlx8KogROtITITb-QXuakSxk3vT0MYmvAapCDEirTry0oxFsOgpTPaS-feqpB5Fg428zJ8G_5_zr03Tz-yx2_4BdQWCzg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJHVkdiRmR5VFVOTmVFOHRhVWxZU0VkdlVtMHpZa0ZvU2kweVFXZDJkRnBYWVRsNk5GTnlYMHRTVm5oWU5HcGFOVWhJYjBRNFVubE5ZVjkyTldKVmVXSkNSblZKTkVJdFRucE9aSGxQVTJoeExWcGhlbFI0UmpkdmR4SVhaMmxGTm1GMlpUUk9Uazh4Y0hSUlVIaG1lbWM0UVVrYUlrRkVjM0k1WmxReGRYSXlNQzEyY21oQ2RsUjZhM1ZPUWpWNGExbzRlWHBNYkdjIiwiZmN2IjoiMyIsImVpIjoiZ2lFNmF2ZTROTk8xcHRRUHhmemc4QUkiLCJxYyI6IkNpWnRhV3hwZEdGeWVTQm1iMjlrSUdGc2JHOTNZVzVqWlNCaVlYTWdZMkZzWTNWc1lYUnZjaEFBZmFRTUtUOCIsInF1ZXN0aW9uIjoiSG93IGlzIG1pbGl0YXJ5IGJhcyBjYWxjdWxhdGVkPyIsImxrIjoiR2g1b2IzY2dhWE1nYldsc2FYUmhjbmtnWW1GeklHTmhiR04xYkdGMFpXUSIsImJzIjoiYzQyUHZRckNNQlJHY2IyVGlJTmtzQmRFRUt4TFJwZmd6LUFxRGs0TzF5U2FRTm9MTnFIMGlYeE5kUkJhUVhFOUhEN09CM3VZN2JqR0ltbUh2c0xvTEJZLS1FaTNCaV9NQmlrRXJxblVWc21wbUxpVy04V0RKV1JIUl9FOXQxNGRzTEFVMEZpVGRQUmNxdEU5bDBNeDZGSThVd1VieUY0NTdmVW5SazFCcDBEUkdpVlJqTjFQQlU2UWJ4a2JUbmkxRWVtakQzM1p1YW5rUXN6Tl8zNl85d0EiLCJpZCI6ImZjX2dpRTZhdmU0Tk5PMXB0UVB4ZnpnOEFJXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJHVkdiRmR5VFVOTmVFOHRhVWxZU0VkdlVtMHpZa0ZvU2kweVFXZDJkRnBYWVRsNk5GTnlYMHRTVm5oWU5HcGFOVWhJYjBRNFVubE5ZVjkyTldKVmVXSkNSblZKTkVJdFRucE9aSGxQVTJoeExWcGhlbFI0UmpkdmR4SVhaMmxGTm1GMlpUUk9Uazh4Y0hSUlVIaG1lbWM0UVVrYUlrRkVjM0k1WmxReGRYSXlNQzEyY21oQ2RsUjZhM1ZPUWpWNGExbzRlWHBNYkdjIiwiZmN2IjoiMyIsImVpIjoiZ2lFNmF2ZTROTk8xcHRRUHhmemc4QUkiLCJxYyI6IkNpWnRhV3hwZEdGeWVTQm1iMjlrSUdGc2JHOTNZVzVqWlNCaVlYTWdZMkZzWTNWc1lYUnZjaEFBZmFRTUtUOCIsInF1ZXN0aW9uIjoiSG93IGlzIG1pbGl0YXJ5IGJhcyBjYWxjdWxhdGVkPyIsImxrIjoiR2g1b2IzY2dhWE1nYldsc2FYUmhjbmtnWW1GeklHTmhiR04xYkdGMFpXUSIsImJzIjoiYzQyUHZRckNNQlJHY2IyVGlJTmtzQmRFRUt4TFJwZmd6LUFxRGs0TzF5U2FRTm9MTnFIMGlYeE5kUkJhUVhFOUhEN09CM3VZN2JqR0ltbUh2c0xvTEJZLS1FaTNCaV9NQmlrRXJxblVWc21wbUxpVy04V0RKV1JIUl9FOXQxNGRzTEFVMEZpVGRQUmNxdEU5bDBNeDZGSThVd1VieUY0NTdmVW5SazFCcDBEUkdpVlJqTjFQQlU2UWJ4a2JUbmkxRWVtakQzM1p1YW5rUXN6Tl8zNl85d0EiLCJpZCI6ImZjX2dpRTZhdmU0Tk5PMXB0UVB4ZnpnOEFJXzIifQ%3D%3D"
+    },
+    {
+      "question": "Do you get a food allowance in the military?",
+      "type": "ai_overview",
+      "page_token": "xqztnXicHdBRbsIgAADQ7DJ-zmLTLpqYJSpYnWWDAlV-FgS1FmrrrDL7t7vsVDvNlt3g5X19u-PJ_jzcirZtLqN-33v_eKjrg9s96rrqq8v9pPtaObdV2o7ipxg87_UYXheT6XkxIbxpxIwGDIkqc6KRFhdm7tuNa1ZbRryeR4FyKMbJ8qIcBUyYjPGhJEeQ4LxJWWnAitGpBggR4OAOIp6hpaC8sBiknpWU4wG6S7gISClbPOeBTmqw7iZUI_mmZjwk9yDSwtntIDrKEwES0vUa4ErkkefOnfMcEIaGdlMWCecpkLZYGCZeeEIAG1zuqjMFqYZYwxrsZhCYDoWwMCfF-WCzlg7D6JV1yJs_4m4uY9kVk4zWR8Jpp0tX8VJcKXRdVi45rYxM7dKm8FPQ0CU0F8qUZm98b69v47D3_zl-31ftqPmoD7-IzIMy",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xqztnXicHdBRbsIgAADQ7DJ-zmLTLpqYJSpYnWWDAlV-FgS1FmrrrDL7t7vsVDvNlt3g5X19u-PJ_jzcirZtLqN-33v_eKjrg9s96rrqq8v9pPtaObdV2o7ipxg87_UYXheT6XkxIbxpxIwGDIkqc6KRFhdm7tuNa1ZbRryeR4FyKMbJ8qIcBUyYjPGhJEeQ4LxJWWnAitGpBggR4OAOIp6hpaC8sBiknpWU4wG6S7gISClbPOeBTmqw7iZUI_mmZjwk9yDSwtntIDrKEwES0vUa4ErkkefOnfMcEIaGdlMWCecpkLZYGCZeeEIAG1zuqjMFqYZYwxrsZhCYDoWwMCfF-WCzlg7D6JV1yJs_4m4uY9kVk4zWR8Jpp0tX8VJcKXRdVi45rYxM7dKm8FPQ0CU0F8qUZm98b69v47D3_zl-31ftqPmoD7-IzIMy",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJHVkdiRmR5VFVOTmVFOHRhVWxZU0VkdlVtMHpZa0ZvU2kweVFXZDJkRnBYWVRsNk5GTnlYMHRTVm5oWU5HcGFOVWhJYjBRNFVubE5ZVjkyTldKVmVXSkNSblZKTkVJdFRucE9aSGxQVTJoeExWcGhlbFI0UmpkdmR4SVhaMmxGTm1GMlpUUk9Uazh4Y0hSUlVIaG1lbWM0UVVrYUlrRkVjM0k1WmxReGRYSXlNQzEyY21oQ2RsUjZhM1ZPUWpWNGExbzRlWHBNYkdjIiwiZmN2IjoiMyIsImVpIjoiZ2lFNmF2ZTROTk8xcHRRUHhmemc4QUkiLCJxYyI6IkNpWnRhV3hwZEdGeWVTQm1iMjlrSUdGc2JHOTNZVzVqWlNCaVlYTWdZMkZzWTNWc1lYUnZjaEFBZmFRTUtUOCIsInF1ZXN0aW9uIjoiRG8geW91IGdldCBhIGZvb2QgYWxsb3dhbmNlIGluIHRoZSBtaWxpdGFyeT8iLCJsayI6IkdpdGtieUI1YjNVZ1oyVjBJR0VnWm05dlpDQmhiR3h2ZDJGdVkyVWdhVzRnZEdobElHMXBiR2wwWVhKNSIsImJzIjoiYzQyUHZRckNNQlJHY2IyVGlJTmtzQmRFRUt4TFJwZmd6LUFxRGs0TzF5U2FRTm9MTnFIMGlYeE5kUkJhUVhFOUhEN09CM3VZN2JqR0ltbUh2c0xvTEJZLS1FaTNCaV9NQmlrRXJxblVWc21wbUxpVy04V0RKV1JIUl9FOXQxNGRzTEFVMEZpVGRQUmNxdEU5bDBNeDZGSThVd1VieUY0NTdmVW5SazFCcDBEUkdpVlJqTjFQQlU2UWJ4a2JUbmkxRWVtakQzM1p1YW5rUXN6Tl8zNl85d0EiLCJpZCI6ImZjX2dpRTZhdmU0Tk5PMXB0UVB4ZnpnOEFJXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJHVkdiRmR5VFVOTmVFOHRhVWxZU0VkdlVtMHpZa0ZvU2kweVFXZDJkRnBYWVRsNk5GTnlYMHRTVm5oWU5HcGFOVWhJYjBRNFVubE5ZVjkyTldKVmVXSkNSblZKTkVJdFRucE9aSGxQVTJoeExWcGhlbFI0UmpkdmR4SVhaMmxGTm1GMlpUUk9Uazh4Y0hSUlVIaG1lbWM0UVVrYUlrRkVjM0k1WmxReGRYSXlNQzEyY21oQ2RsUjZhM1ZPUWpWNGExbzRlWHBNYkdjIiwiZmN2IjoiMyIsImVpIjoiZ2lFNmF2ZTROTk8xcHRRUHhmemc4QUkiLCJxYyI6IkNpWnRhV3hwZEdGeWVTQm1iMjlrSUdGc2JHOTNZVzVqWlNCaVlYTWdZMkZzWTNWc1lYUnZjaEFBZmFRTUtUOCIsInF1ZXN0aW9uIjoiRG8geW91IGdldCBhIGZvb2QgYWxsb3dhbmNlIGluIHRoZSBtaWxpdGFyeT8iLCJsayI6IkdpdGtieUI1YjNVZ1oyVjBJR0VnWm05dlpDQmhiR3h2ZDJGdVkyVWdhVzRnZEdobElHMXBiR2wwWVhKNSIsImJzIjoiYzQyUHZRckNNQlJHY2IyVGlJTmtzQmRFRUt4TFJwZmd6LUFxRGs0TzF5U2FRTm9MTnFIMGlYeE5kUkJhUVhFOUhEN09CM3VZN2JqR0ltbUh2c0xvTEJZLS1FaTNCaV9NQmlrRXJxblVWc21wbUxpVy04V0RKV1JIUl9FOXQxNGRzTEFVMEZpVGRQUmNxdEU5bDBNeDZGSThVd1VieUY0NTdmVW5SazFCcDBEUkdpVlJqTjFQQlU2UWJ4a2JUbmkxRWVtakQzM1p1YW5rUXN6Tl8zNl85d0EiLCJpZCI6ImZjX2dpRTZhdmU0Tk5PMXB0UVB4ZnpnOEFJXzIifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "MRiFo3icxZXNkqJIEIDv-x7DpVsBQVs7gpioQmzxr2XUafViYIEFCpQCivZt32Wfap9kj1MgKLbaHTsRG1uG1A9ZWZmV-ZF__uXY3urvP_6xwnAdPLNsFEVFTAh2zCIiLqsHBw-xC-IEPrK-B2TrI9M2JGT5xDUZ7EjbgLEcyfSYw04SGBRIHGPaEraVir4zxV7vlV-HWn-_eMdVoDKJOmk21wNzSU_bLwN2xtLH6ptQp5NiUDS94ryP7EUzbEYjXCxxfK34yuouFQD_YVPAj6TX6E-lvXolER-Pv9CiqfHGQW5Fzj2z1j0qUtWkk-8qlVMr5EksUi9MfRGCupasNT-xYnA5fYsfCogAgLGJinZrzy0jsjWS9vDuicr1UiIM07PqefX3_IX5AGuxzmEVyOdAZC5DkHlARTAdw6PGMoBiP5Jf5E_CRN-scVOxCtpNo3Ot0VbWUTruTF6oRayBaRJy7NynHc_ayELJwA_i3JSHNY40PDDtVbZWeyh05dlMGLU9lViOV1pXNRbNqZxDdMM0ZtaM-57M-RJf5mrCU_UxgQIFJyqCPBXTStcBQmshNECxU4R8DonkMtQLn-N0g3fca6d3mBfP9iZ3rbXSu8lueZSJQZLRkS4sV3FWTU4L1TgU1scTY13XSGQN5wcUicRsdXTamRePhyo8m5q2-sd4n-epDxPQ1k4uKzmLjxeh5OerWLn6ki1Ep1exVuyABHGKhJIqfL3Yj_OG0cuCMlCy1ycLYpn66iSmJBbGryeaNgFqgyJKw4cz59NQUiTUy7sDy4tZA8d_Gd8E_KsGzwG_1xSQ5f6HVM4j0AyNsb-E81azbZLxdNDR93J_7MDFaIJvpzxx5_-iEqD_F4pRWidGKQntm1DgL6DQVOXTOnE8-1wn4lyRyT0o5BSKyzpxTNxznbiGYnAJxf06kYPiqOVzKOBdKI6flWso4jpxBQW-A8WxTuShuKwT3klz7EEOit-qE9pv1ImEEfPYXRaN7RLfLx5TY1CF74enbW89flm7A_HpDTq2bjgi-LJ4LNzw2aWijzPbeIalVngwHmd0gTybBrORXNuxQ90_PCwIMR50xyGR7iHzAYLBA9IdtHX0kPiM6_hE4vQy6qgF5PBWod_cqNWC2NrOjb6wtMJoUG53O-ZuXzaUXr106HHTgTdUhemGG9b3Xa3CRzuvjwrisvYeqD86h437c1_lqe72Zu3q7mt14q22gq9VGlGXfigWnlubk-UQTpeire5ePKuy_dl9tcZNYx4Im_FSLLmJVYHUFvdWTRjAFuAY10cSRUDEoKeBNwwQzX2gUWQ1mdB_RCPPBEifmcFOQmWem-uiWSmXKguhxjMuDg9rSeSZwPMl_hf-RSF9",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MRiFo3icxZXNkqJIEIDv-x7DpVsBQVs7gpioQmzxr2XUafViYIEFCpQCivZt32Wfap9kj1MgKLbaHTsRG1uG1A9ZWZmV-ZF__uXY3urvP_6xwnAdPLNsFEVFTAh2zCIiLqsHBw-xC-IEPrK-B2TrI9M2JGT5xDUZ7EjbgLEcyfSYw04SGBRIHGPaEraVir4zxV7vlV-HWn-_eMdVoDKJOmk21wNzSU_bLwN2xtLH6ptQp5NiUDS94ryP7EUzbEYjXCxxfK34yuouFQD_YVPAj6TX6E-lvXolER-Pv9CiqfHGQW5Fzj2z1j0qUtWkk-8qlVMr5EksUi9MfRGCupasNT-xYnA5fYsfCogAgLGJinZrzy0jsjWS9vDuicr1UiIM07PqefX3_IX5AGuxzmEVyOdAZC5DkHlARTAdw6PGMoBiP5Jf5E_CRN-scVOxCtpNo3Ot0VbWUTruTF6oRayBaRJy7NynHc_ayELJwA_i3JSHNY40PDDtVbZWeyh05dlMGLU9lViOV1pXNRbNqZxDdMM0ZtaM-57M-RJf5mrCU_UxgQIFJyqCPBXTStcBQmshNECxU4R8DonkMtQLn-N0g3fca6d3mBfP9iZ3rbXSu8lueZSJQZLRkS4sV3FWTU4L1TgU1scTY13XSGQN5wcUicRsdXTamRePhyo8m5q2-sd4n-epDxPQ1k4uKzmLjxeh5OerWLn6ki1Ep1exVuyABHGKhJIqfL3Yj_OG0cuCMlCy1ycLYpn66iSmJBbGryeaNgFqgyJKw4cz59NQUiTUy7sDy4tZA8d_Gd8E_KsGzwG_1xSQ5f6HVM4j0AyNsb-E81azbZLxdNDR93J_7MDFaIJvpzxx5_-iEqD_F4pRWidGKQntm1DgL6DQVOXTOnE8-1wn4lyRyT0o5BSKyzpxTNxznbiGYnAJxf06kYPiqOVzKOBdKI6flWso4jpxBQW-A8WxTuShuKwT3klz7EEOit-qE9pv1ImEEfPYXRaN7RLfLx5TY1CF74enbW89flm7A_HpDTq2bjgi-LJ4LNzw2aWijzPbeIalVngwHmd0gTybBrORXNuxQ90_PCwIMR50xyGR7iHzAYLBA9IdtHX0kPiM6_hE4vQy6qgF5PBWod_cqNWC2NrOjb6wtMJoUG53O-ZuXzaUXr106HHTgTdUhemGG9b3Xa3CRzuvjwrisvYeqD86h437c1_lqe72Zu3q7mt14q22gq9VGlGXfigWnlubk-UQTpeire5ePKuy_dl9tcZNYx4Im_FSLLmJVYHUFvdWTRjAFuAY10cSRUDEoKeBNwwQzX2gUWQ1mdB_RCPPBEifmcFOQmWem-uiWSmXKguhxjMuDg9rSeSZwPMl_hf-RSF9"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Basic Allowance for Subsistence (BAS)",
+      "link": "https://militarypay.defense.gov/pay/allowances/bas.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/pay/allowances/bas.aspx&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4QFnoECBsQAQ",
+      "displayed_link": "https://militarypay.defense.gov › pay › allowances › bas",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "BAS is meant to offset the cost of food for service members. Rates: Officers $328.48/month Enlisted Members $476.95/month The BAS Table is available on DFAS ...",
+      "snippet_highlighted_words": [
+        "BAS is meant to offset the cost of food for service members"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "BAS is meant to offset the cost of food for service members. Rates: Officers $328.48/month Enlisted Members $476.95/month The BAS Table is available on DFAS ...",
+          "source_info_link": "https://militarypay.defense.gov/pay/allowances/bas.aspx",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/pay/allowances/bas.aspx&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2Fpay%2Fallowances%2Fbas.aspx",
+      "source": "U.S. Department of War (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "Basic Allowance for Subsistence (BAS)",
+      "link": "https://www.dfas.mil/militarymembers/payentitlements/Pay-Tables/bas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dfas.mil/militarymembers/payentitlements/Pay-Tables/bas/&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4QFnoECCAQAQ",
+      "displayed_link": "https://www.dfas.mil › payentitlements › Pay-Tables › bas",
+      "favicon": "https://serpapi.com/searches/6a3a218295e9505549c65ea3/images/wLyACh3eE9UDQxjqVwgNrBRAoEx9OaOuy3Jb1oxlNQk.png",
+      "snippet": "1-888-332-7411. Basic Allowance for Subsistence (BAS) BAS II is the monthly rate that may be payable to enlisted members on duty",
+      "snippet_highlighted_words": [
+        "Allowance",
+        "Subsistence",
+        "BAS",
+        "BAS",
+        "rate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1-888-332-7411. Basic Allowance for Subsistence (BAS) BAS II is the monthly rate that may be payable to enlisted members on duty",
+          "source_info_link": "https://www.dfas.mil/militarymembers/payentitlements/Pay-Tables/bas/",
+          "icon": "https://serpapi.com/searches/6a3a218295e9505549c65ea3/images/wLyACh3eE9UDQxjqVwgNrHRL7GazrH277Pm8lz7O8rNlEu6iapl4HX4dqhbcf84S.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.dfas.mil/militarymembers/payentitlements/Pay-Tables/bas/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dfas.mil%2Fmilitarymembers%2Fpayentitlements%2FPay-Tables%2Fbas%2F",
+      "source": "Defense Finance Accounting Service (DFAS) (.mil)"
+    },
+    {
+      "position": 3,
+      "title": "Military Pay Calculator",
+      "link": "https://www.military.com/benefits/military-pay/calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/benefits/military-pay/calculator&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4QFnoECBgQAQ",
+      "displayed_link": "https://www.military.com › benefits › calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "snippet": "The Military Pay Calculator is the perfect tool to help you figure out how much you make as a U.S. military service member. Allowance (BAS) BAS offsets the ...",
+      "snippet_highlighted_words": [
+        "The Military Pay Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Military Pay Calculator is the perfect tool to help you figure out how much you make as a U.S. military service member. Allowance (BAS) BAS offsets the ...",
+          "source_info_link": "https://www.military.com/benefits/military-pay/calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/benefits/military-pay/calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fbenefits%2Fmilitary-pay%2Fcalculator",
+      "source": "Military.com"
+    },
+    {
+      "position": 4,
+      "title": "Basic Allowance for Subsistence (BAS) Rates 2026",
+      "link": "https://www.firstcommand.com/coaching-center/military-life/military-bas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.firstcommand.com/coaching-center/military-life/military-bas/&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4QFnoECBwQAQ",
+      "displayed_link": "https://www.firstcommand.com › military-bas",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX____rrbDdanLdZW3ZUVvxw8ZUd6pcfa1ti7XaWWHPABHQAB3PAADb4uwANIgAR48AP4x8lbvREybUKTf55-mqudENTJK3xNkAN4no7fTRFyjppqron6MUUZX33N3SIC_hf4XQABrvvL8AQo3fcnnPAAoAOooyYJ3L1OOWqcfjhozWPkn-9_jyy87lkZbuubwiutkFAAAAzUlEQVR4AWIYogBA5VjgMAzAQGwMZWZm7v9_t1xHaUSWrMh3PJ0vV8DtTvfYuacgSpuTFVVVNX33JximtZGtOY6jubtH8fmhh0rS87kUgnMYHUGxg-MuEdJAFDIi3yOlPnZJMU3TvCBykSxtLiuDZI1FekmykblMtwO12KNxZ9WkjArYIHnjsshJihjbQZY9lwOSQkLUI6l1XI4BPkE3JD3uJiSDJ1BDsuVy3pIRkYykZ3O5SHmeSzORrWiaohOwzxU3Yazruv5rgzfNAQAO-xOc8Ujf6QAAAABJRU5ErkJggg.png",
+      "date": "Jan 5, 2026",
+      "snippet": "Basic Allowance for Subsistence (BAS) is a benefit established for active-duty service members to offset food and grocery expenses.",
+      "snippet_highlighted_words": [
+        "Basic Allowance for Subsistence (BAS"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Basic Allowance for Subsistence (BAS) is a benefit established for active-duty service members to offset food and grocery expenses.",
+          "source_info_link": "https://www.firstcommand.com/coaching-center/military-life/military-bas/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX____rrbDdanLdZW3ZUVvxw8ZUd6pcfa1ti7XaWWHPABHQAB3PAADb4uwANIgAR48AP4x8lbvREybUKTf55-mqudENTJK3xNkAN4no7fTRFyjppqron6MUUZX33N3SIC_hf4XQABrvvL8AQo3fcnnPAAoAOooyYJ3L1OOWqcfjhozWPkn-9_jyy87lkZbuubwiutkFAAAAzUlEQVR4AWIYogBA5VjgMAzAQGwMZWZm7v9_t1xHaUSWrMh3PJ0vV8DtTvfYuacgSpuTFVVVNX33JximtZGtOY6jubtH8fmhh0rS87kUgnMYHUGxg-MuEdJAFDIi3yOlPnZJMU3TvCBykSxtLiuDZI1FekmykblMtwO12KNxZ9WkjArYIHnjsshJihjbQZY9lwOSQkLUI6l1XI4BPkE3JD3uJiSDJ1BDsuVy3pIRkYykZ3O5SHmeSzORrWiaohOwzxU3Yazruv5rgzfNAQAO-xOc8Ujf6QAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.firstcommand.com/coaching-center/military-life/military-bas/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.firstcommand.com%2Fcoaching-center%2Fmilitary-life%2Fmilitary-bas%2F",
+      "source": "First Command"
+    },
+    {
+      "position": 5,
+      "title": "2026 BAS Rates: Enlisted and Officer Monthly Amounts",
+      "link": "https://valoannetwork.com/estimated-2026-bas-rates-enlisted-officers/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://valoannetwork.com/estimated-2026-bas-rates-enlisted-officers/&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4QFnoECBoQAQ",
+      "displayed_link": "https://valoannetwork.com › estimated-2026-bas-rates-e...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEX____lg4PTAADcT0_wvb3-9_f29_nf5OzUDAzkfn776-vAzNzn8Pbso6PVGxvzycjqnZ3vtLSdqMD4ycf-_Pzrn5_L1-P54-Pgamrtra17ianKz9v10tL22dm0vM5LYo9YaZIrR37nkpJCV4Y2UITaREQAI2qEkq-nsMTeYGDXJSUAEmPmiora3udmeZ8AAF0gPHYAKm5VZ5EAGWUAAFELMG8mth7GAAAA10lEQVR4Ad3Lg3UEAQBF0TfOjtbW2Eb_pcVGAdl7_MHNEkRJkBW-UzUVFPFOfDTR-UwzTADLlqcz6XEx58PCWM5WwFqGDdudKO55cziizE5wnulcrsBcFHVeHB1AnoG1h6t7ASzR44W_ABThtBW2XAInALBDXkQHANmaPx1j00-ANHt75iagF8WZ5JqUVQDs3spL3ZhAaEPVtlHbLSDc8aqq-0RlaZEEGhD76OKZN4e6zquLRusAmEOSenwor_WjsdYAuEz2fKEtnKbugJV-muv8YbXif3oAlNARBW14zAsAAAAASUVORK5CYII.png",
+      "date": "Apr 14, 2026",
+      "snippet": "The 2026 Basic Allowance for Subsistence is $476.95 per month for enlisted members and $328.48 for officers, a 2.4% increase from 2025. BAS ...",
+      "snippet_highlighted_words": [
+        "476.95 per month for enlisted members and $328.48 for officers"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The 2026 Basic Allowance for Subsistence is $476.95 per month for enlisted members and $328.48 for officers, a 2.4% increase from 2025. BAS ...",
+          "source_info_link": "https://valoannetwork.com/estimated-2026-bas-rates-enlisted-officers/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEX____lg4PTAADcT0_wvb3-9_f29_nf5OzUDAzkfn776-vAzNzn8Pbso6PVGxvzycjqnZ3vtLSdqMD4ycf-_Pzrn5_L1-P54-Pgamrtra17ianKz9v10tL22dm0vM5LYo9YaZIrR37nkpJCV4Y2UITaREQAI2qEkq-nsMTeYGDXJSUAEmPmiora3udmeZ8AAF0gPHYAKm5VZ5EAGWUAAFELMG8mth7GAAAA10lEQVR4Ad3Lg3UEAQBF0TfOjtbW2Eb_pcVGAdl7_MHNEkRJkBW-UzUVFPFOfDTR-UwzTADLlqcz6XEx58PCWM5WwFqGDdudKO55cziizE5wnulcrsBcFHVeHB1AnoG1h6t7ASzR44W_ABThtBW2XAInALBDXkQHANmaPx1j00-ANHt75iagF8WZ5JqUVQDs3spL3ZhAaEPVtlHbLSDc8aqq-0RlaZEEGhD76OKZN4e6zquLRusAmEOSenwor_WjsdYAuEz2fKEtnKbugJV-muv8YbXif3oAlNARBW14zAsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://valoannetwork.com/estimated-2026-bas-rates-enlisted-officers/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fvaloannetwork.com%2Festimated-2026-bas-rates-enlisted-officers%2F",
+      "source": "VA Loan Network",
+      "read_more_link": "https://valoannetwork.com/estimated-2026-bas-rates-enlisted-officers/#:~:text=The%202026%20Basic%20Allowance%20for,2.4%25%20increase%20from%202025.%20BAS"
+    },
+    {
+      "position": 6,
+      "title": "2026 Basic Allowance for Subsistence (BAS) Rates",
+      "link": "https://www.military.com/benefits/military-pay/allowances/basic-allowance-for-subsistence.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/benefits/military-pay/allowances/basic-allowance-for-subsistence.html&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4QFnoECEMQAQ",
+      "displayed_link": "https://www.military.com › Military Retirement Pay",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "date": "Dec 19, 2025",
+      "snippet": "Basic Allowance for Subsistence (BAS) pays for the cost of a military member's meals 2026 BAS Rates: Enlisted: $476.95 per month Officers: $328 ...",
+      "snippet_highlighted_words": [
+        "Basic Allowance for Subsistence (BAS) pays for the cost of a military member's meals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Basic Allowance for Subsistence (BAS) pays for the cost of a military member's meals 2026 BAS Rates: Enlisted: $476.95 per month Officers: $328 ...",
+          "source_info_link": "https://www.military.com/benefits/military-pay/allowances/basic-allowance-for-subsistence.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/benefits/military-pay/allowances/basic-allowance-for-subsistence.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fbenefits%2Fmilitary-pay%2Fallowances%2Fbasic-allowance-for-subsistence.html",
+      "source": "Military.com"
+    },
+    {
+      "position": 7,
+      "title": "2026 Basic Allowance for Subsistence (BAS) Rates & ...",
+      "link": "https://blog.ahrn.com/bas-rates/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.ahrn.com/bas-rates/&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4QFnoECD8QAQ",
+      "displayed_link": "https://blog.ahrn.com › bas-rates",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAeFBMVEVHcEzufCjqey3qey3qeyzqey3qey3tgTjqey3seyvqey3sfS_seyv4fxPwfCZsZYN4Z35sZYN9Z3vqey0yXpYwXpYyXpUyXZU0XpU0XpU0XpU0XpUzXpUYW5wfXJnYubLO3_Nbe6gzXpU0XpXN2OjK4frM2_AvW5O65bRfAAAAKHRSTlMAc4mz_0lOpDnvVNnKGP4pkoFcHEz_sJxaSP8Iz2ql0PbE4tl8WCaDBe8fFwAAAJdJREFUeAHNzgMSxEAQBdCObdvJ_U-4GK3NV_zVhEdxPFwliKJwpSyJiAwXKCKhAPA8B0dUTWQ0XRSN4-_EIybsszTxagNnI7SGEweM43qIbwUblo-T6wAVRliMY0JiClSWY7SBxKcaio0rDdRfN5QVUl5sqG3NMAGSKw2iKH6-4Q9-MJq27aKThn5AEmUcpxkWHPsQ3mIN5i4ugDcF3mAAAAAASUVORK5CYII.png",
+      "date": "Dec 19, 2025",
+      "snippet": "Find out 2026 BAS rates, who qualifies, and how this food allowance affects your military paycheck. Make the most of your benefits.",
+      "snippet_highlighted_words": [
+        "2026 BAS rates"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Find out 2026 BAS rates, who qualifies, and how this food allowance affects your military paycheck. Make the most of your benefits.",
+          "source_info_link": "https://blog.ahrn.com/bas-rates/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAeFBMVEVHcEzufCjqey3qey3qeyzqey3qey3tgTjqey3seyvqey3sfS_seyv4fxPwfCZsZYN4Z35sZYN9Z3vqey0yXpYwXpYyXpUyXZU0XpU0XpU0XpU0XpUzXpUYW5wfXJnYubLO3_Nbe6gzXpU0XpXN2OjK4frM2_AvW5O65bRfAAAAKHRSTlMAc4mz_0lOpDnvVNnKGP4pkoFcHEz_sJxaSP8Iz2ql0PbE4tl8WCaDBe8fFwAAAJdJREFUeAHNzgMSxEAQBdCObdvJ_U-4GK3NV_zVhEdxPFwliKJwpSyJiAwXKCKhAPA8B0dUTWQ0XRSN4-_EIybsszTxagNnI7SGEweM43qIbwUblo-T6wAVRliMY0JiClSWY7SBxKcaio0rDdRfN5QVUl5sqG3NMAGSKw2iKH6-4Q9-MJq27aKThn5AEmUcpxkWHPsQ3mIN5i4ugDcF3mAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://blog.ahrn.com/bas-rates/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fblog.ahrn.com%2Fbas-rates%2F",
+      "source": "AHRN - Automated Housing Referral Network"
+    },
+    {
+      "position": 8,
+      "title": "Regular Military Compensation (RMC) Calculator",
+      "link": "https://militarypay.defense.gov/calculators/rmc-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/calculators/rmc-calculator/&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4QFnoECDsQAQ",
+      "displayed_link": "https://militarypay.defense.gov › calculators › rmc-calcul...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "This calculator will compute your regular military compensation based on your inputs. Regular military compensation is the approximate amount of an equivalent ...",
+      "snippet_highlighted_words": [
+        "compute your regular military compensation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator will compute your regular military compensation based on your inputs. Regular military compensation is the approximate amount of an equivalent ...",
+          "source_info_link": "https://militarypay.defense.gov/calculators/rmc-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/calculators/rmc-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2Fcalculators%2Frmc-calculator%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/calculators/rmc-calculator/#:~:text=This%20calculator%20will%20compute%20your,of%20an%20equivalent%20civilian%20salary."
+    },
+    {
+      "position": 9,
+      "title": "Military Pay: Basic Pay, Allowances & More",
+      "link": "https://www.militaryonesource.mil/resources/millife-guides/military-pay/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militaryonesource.mil/resources/millife-guides/military-pay/&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4QFnoECEAQAQ",
+      "displayed_link": "https://www.militaryonesource.mil › millife-guides › mi...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png",
+      "snippet": "BAS is a monthly allowance to help offset the cost of food. It is: Intended to cover costs for service members only, not dependents. Adjusted based upon the ...",
+      "snippet_highlighted_words": [
+        "BAS is a monthly allowance to help offset the cost of food"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Military Allowances",
+            "link": "https://www.militaryonesource.mil/resources/millife-guides/military-pay/#:~:text=Military%20allowances,-Military%20allowances"
+          },
+          {
+            "title": "Managing Your Money",
+            "link": "https://www.militaryonesource.mil/resources/millife-guides/military-pay/#:~:text=Managing%20your%20money,-Understanding%20how%20your%20pay%20works"
+          },
+          {
+            "title": "Retirement Savings",
+            "link": "https://www.militaryonesource.mil/resources/millife-guides/military-pay/#:~:text=Retirement%20savings,-It%27s%20never%20too%20early"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "BAS is a monthly allowance to help offset the cost of food. It is: Intended to cover costs for service members only, not dependents. Adjusted based upon the ...",
+          "source_info_link": "https://www.militaryonesource.mil/resources/millife-guides/military-pay/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militaryonesource.mil/resources/millife-guides/military-pay/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militaryonesource.mil%2Fresources%2Fmillife-guides%2Fmilitary-pay%2F",
+      "source": "Military OneSource (.mil)",
+      "read_more_link": "https://www.militaryonesource.mil/resources/millife-guides/military-pay/#:~:text=BAS%20is%20a%20monthly%20allowance,as%20identified%20by%20the%20USDA."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "BAS calculator with dependents",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=BAS+calculator+with+dependents&sa=X&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=BAS+calculator+with+dependents"
+    },
+    {
+      "block_position": 1,
+      "query": "Military food Allowance for families",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Military+food+Allowance+for+families&sa=X&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Military+food+Allowance+for+families"
+    },
+    {
+      "block_position": 1,
+      "query": "BAS calculator 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=BAS+calculator+2026&sa=X&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=BAS+calculator+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Basic allowance for Subsistence Calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Basic+allowance+for+Subsistence+Calculator&sa=X&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Basic+allowance+for+Subsistence+Calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Subsistence allowance military",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Subsistence+allowance+military&sa=X&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Subsistence+allowance+military"
+    },
+    {
+      "block_position": 1,
+      "query": "Military pay calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Military+pay+calculator&sa=X&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Military+pay+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "How to get BAS army",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=How+to+get+BAS+army&sa=X&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+get+BAS+army"
+    },
+    {
+      "block_position": 1,
+      "query": "Who gets BAS in the military",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Who+gets+BAS+in+the+military&sa=X&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Who+gets+BAS+in+the+military"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+food+allowance+BAS+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=giE6ave4NNO1ptQPxfzg8AI&start=10&sa=N&sstk=AU9db-B4QnGTQlAp21efwJkxxltcCBTuCWY6PPwASX-k4Wo138aIiYjpwEqrivmyOjT_4RQZP-sDfmBvbWA1b4d5z26qir3PnIRZiw&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q8NMDegQIMRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+food+allowance+BAS+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=giE6ave4NNO1ptQPxfzg8AI&start=10&sa=N&sstk=AU9db-B4QnGTQlAp21efwJkxxltcCBTuCWY6PPwASX-k4Wo138aIiYjpwEqrivmyOjT_4RQZP-sDfmBvbWA1b4d5z26qir3PnIRZiw&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q8tMDegQIMRAE",
+      "3": "https://www.google.com/search?q=military+food+allowance+BAS+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=giE6ave4NNO1ptQPxfzg8AI&start=20&sa=N&sstk=AU9db-B4QnGTQlAp21efwJkxxltcCBTuCWY6PPwASX-k4Wo138aIiYjpwEqrivmyOjT_4RQZP-sDfmBvbWA1b4d5z26qir3PnIRZiw&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q8tMDegQIMRAG",
+      "4": "https://www.google.com/search?q=military+food+allowance+BAS+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=giE6ave4NNO1ptQPxfzg8AI&start=30&sa=N&sstk=AU9db-B4QnGTQlAp21efwJkxxltcCBTuCWY6PPwASX-k4Wo138aIiYjpwEqrivmyOjT_4RQZP-sDfmBvbWA1b4d5z26qir3PnIRZiw&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q8tMDegQIMRAI",
+      "5": "https://www.google.com/search?q=military+food+allowance+BAS+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=giE6ave4NNO1ptQPxfzg8AI&start=40&sa=N&sstk=AU9db-B4QnGTQlAp21efwJkxxltcCBTuCWY6PPwASX-k4Wo138aIiYjpwEqrivmyOjT_4RQZP-sDfmBvbWA1b4d5z26qir3PnIRZiw&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q8tMDegQIMRAK",
+      "6": "https://www.google.com/search?q=military+food+allowance+BAS+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=giE6ave4NNO1ptQPxfzg8AI&start=50&sa=N&sstk=AU9db-B4QnGTQlAp21efwJkxxltcCBTuCWY6PPwASX-k4Wo138aIiYjpwEqrivmyOjT_4RQZP-sDfmBvbWA1b4d5z26qir3PnIRZiw&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q8tMDegQIMRAM",
+      "7": "https://www.google.com/search?q=military+food+allowance+BAS+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=giE6ave4NNO1ptQPxfzg8AI&start=60&sa=N&sstk=AU9db-B4QnGTQlAp21efwJkxxltcCBTuCWY6PPwASX-k4Wo138aIiYjpwEqrivmyOjT_4RQZP-sDfmBvbWA1b4d5z26qir3PnIRZiw&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q8tMDegQIMRAO",
+      "8": "https://www.google.com/search?q=military+food+allowance+BAS+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=giE6ave4NNO1ptQPxfzg8AI&start=70&sa=N&sstk=AU9db-B4QnGTQlAp21efwJkxxltcCBTuCWY6PPwASX-k4Wo138aIiYjpwEqrivmyOjT_4RQZP-sDfmBvbWA1b4d5z26qir3PnIRZiw&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q8tMDegQIMRAQ",
+      "9": "https://www.google.com/search?q=military+food+allowance+BAS+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=giE6ave4NNO1ptQPxfzg8AI&start=80&sa=N&sstk=AU9db-B4QnGTQlAp21efwJkxxltcCBTuCWY6PPwASX-k4Wo138aIiYjpwEqrivmyOjT_4RQZP-sDfmBvbWA1b4d5z26qir3PnIRZiw&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q8tMDegQIMRAS",
+      "10": "https://www.google.com/search?q=military+food+allowance+BAS+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=giE6ave4NNO1ptQPxfzg8AI&start=90&sa=N&sstk=AU9db-B4QnGTQlAp21efwJkxxltcCBTuCWY6PPwASX-k4Wo138aIiYjpwEqrivmyOjT_4RQZP-sDfmBvbWA1b4d5z26qir3PnIRZiw&ved=2ahUKEwj3gdyO2JyVAxXTmokEHUU-GC4Q8tMDegQIMRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+food+allowance+BAS+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+food+allowance+BAS+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+food+allowance+BAS+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+food+allowance+BAS+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+food+allowance+BAS+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+food+allowance+BAS+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+food+allowance+BAS+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+food+allowance+BAS+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+food+allowance+BAS+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+food+allowance+BAS+calculator&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+food+allowance+BAS+calculator&start=90"
+    }
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "search_metadata": {
+    "id": "6a6b012bc754435b57c648bd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_VjL1ljvKwOaCfWJCBweQQ/6a6b012bc754435b57c648bd.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/_VjL1ljvKwOaCfWJCBweQQ/6a6b012bc754435b57c648bd.json_with_pixel_position",
+    "created_at": "2026-07-30 07:45:47 UTC",
+    "processed_at": "2026-07-30 07:45:47 UTC",
+    "google_url": "https://www.google.com/search?q=bah+calculator+2026+site%3Amilitarylifetools.com&oq=bah+calculator+2026+site%3Amilitarylifetools.com&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/_VjL1ljvKwOaCfWJCBweQQ/6a6b012bc754435b57c648bd.html",
+    "total_time_taken": 0.5
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "bah calculator 2026 site:militarylifetools.com",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "bah calculator 2026 site:militarylifetools.com",
+    "total_results": 73,
+    "time_taken_displayed": 0.19,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "BAH Calculator 2026 - Basic Allowance for Housing Rates",
+      "link": "https://militarylifetools.com/bah-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/bah-calculator&ved=2ahUKEwik94KV9PmVAxUSNYYAHZu_EbAQFnoECBkQAQ",
+      "displayed_link": "https://militarylifetools.com › bah-calculator",
+      "snippet": "Calculate your 2026 Basic Allowance for Housing (BAH) rate instantly. Look up BAH by ZIP code, pay grade, and dependency status. Free online calculator.",
+      "snippet_highlighted_words": [
+        "Calculate your 2026 Basic Allowance for Housing (BAH) rate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculate your 2026 Basic Allowance for Housing (BAH) rate instantly. Look up BAH by ZIP code, pay grade, and dependency status. Free online calculator.",
+          "source_info_link": "https://militarylifetools.com/bah-calculator"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/bah-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fbah-calculator",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 2,
+      "title": "BAH Calculator Guide: How Basic Allowance for Housing Works",
+      "link": "https://militarylifetools.com/blog/bah-calculator-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/blog/bah-calculator-guide/&ved=2ahUKEwik94KV9PmVAxUSNYYAHZu_EbAQFnoECBwQAQ",
+      "displayed_link": "https://militarylifetools.com › blog › bah-calculator-guide",
+      "snippet": "Use our BAH calculator to estimate your housing allowance and then compare it with your rent or mortgage expectations.",
+      "snippet_highlighted_words": [
+        "Use our BAH calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our BAH calculator to estimate your housing allowance and then compare it with your rent or mortgage expectations.",
+          "source_info_link": "https://militarylifetools.com/blog/bah-calculator-guide/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/blog/bah-calculator-guide/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fblog%2Fbah-calculator-guide%2F",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 3,
+      "title": "How is BAH Calculated in 2026? Complete Military Housing ...",
+      "link": "https://militarylifetools.com/blog/how-bah-calculated-2026/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/blog/how-bah-calculated-2026/&ved=2ahUKEwik94KV9PmVAxUSNYYAHZu_EbAQFnoECB0QAQ",
+      "displayed_link": "https://militarylifetools.com › blog › how-bah-calculated...",
+      "snippet": "Updated annually in March based on housing cost data; For 2026, BAH rates increased by an average of 3.8% nationwide; You keep the difference if your actual ...",
+      "snippet_highlighted_words": [
+        "For 2026, BAH rates increased by an average of 3.8% nationwide"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Updated annually in March based on housing cost data; For 2026, BAH rates increased by an average of 3.8% nationwide; You keep the difference if your actual ...",
+          "source_info_link": "https://militarylifetools.com/blog/how-bah-calculated-2026/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/blog/how-bah-calculated-2026/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fblog%2Fhow-bah-calculated-2026%2F",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 4,
+      "title": "Post-9/11 GI Bill Calculator 2026 - Tuition, Housing, Books",
+      "link": "https://militarylifetools.com/gi-bill-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/gi-bill-calculator&ved=2ahUKEwik94KV9PmVAxUSNYYAHZu_EbAQFnoECBoQAQ",
+      "displayed_link": "https://militarylifetools.com › gi-bill-calculator",
+      "snippet": "Free Post-9/11 GI Bill calculator. Estimate your tuition coverage, monthly housing allowance (MHA), BAH rate at school ZIP (~$1,800-$2,200/mo nationally) For ...",
+      "snippet_highlighted_words": [
+        "Free Post-9/11 GI Bill calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Free Post-9/11 GI Bill calculator. Estimate your tuition coverage, monthly housing allowance (MHA), BAH rate at school ZIP (~$1,800-$2,200/mo nationally) For  ...",
+          "source_info_link": "https://militarylifetools.com/gi-bill-calculator"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/gi-bill-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fgi-bill-calculator",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 5,
+      "title": "PCS Move Timeline Checklist 2026: Complete Military Relocation ...",
+      "link": "https://militarylifetools.com/blog/pcs-move-timeline-checklist-2026/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/blog/pcs-move-timeline-checklist-2026/&ved=2ahUKEwik94KV9PmVAxUSNYYAHZu_EbAQFnoECBsQAQ",
+      "displayed_link": "https://militarylifetools.com › blog › pcs-move-timeline-...",
+      "snippet": "Before you sign a lease at the new location, check your projected BAH with our BAH Calculator and your total military compensation with the Military Pay ...",
+      "snippet_highlighted_words": [
+        "projected BAH with our BAH Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Before you sign a lease at the new location, check your projected BAH with our BAH Calculator and your total military compensation with the Military Pay ...",
+          "source_info_link": "https://militarylifetools.com/blog/pcs-move-timeline-checklist-2026/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/blog/pcs-move-timeline-checklist-2026/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fblog%2Fpcs-move-timeline-checklist-2026%2F",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 6,
+      "title": "Military Finance Blog | Tips, Guides & Resources",
+      "link": "https://militarylifetools.com/blog",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/blog&ved=2ahUKEwik94KV9PmVAxUSNYYAHZu_EbAQFnoECDIQAQ",
+      "displayed_link": "https://militarylifetools.com › blog",
+      "snippet": "BAH Calculator Guide. July 14, 2026 | 7 min read. Understand how BAH is calculated and how to use a calculator to estimate your housing support more clearly.",
+      "snippet_highlighted_words": [
+        "BAH Calculator Guide"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "BAH Calculator Guide. July 14, 2026 | 7 min read. Understand how BAH is calculated and how to use a calculator to estimate your housing support more clearly.",
+          "source_info_link": "https://militarylifetools.com/blog"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/blog&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fblog",
+      "source": "militarylifetools.com",
+      "read_more_link": "https://militarylifetools.com/blog#:~:text=BAH%20Calculator%20Guide,your%20housing%20support%20more%20clearly."
+    },
+    {
+      "position": 7,
+      "title": "VA Disability Rating Calculator 2026",
+      "link": "https://militarylifetools.com/va-disability-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/va-disability-calculator&ved=2ahUKEwik94KV9PmVAxUSNYYAHZu_EbAQFnoECC8QAQ",
+      "displayed_link": "https://militarylifetools.com › va-disability-calculator",
+      "snippet": "Free VA disability rating calculator. Add multiple service-connected conditions, get your official VA combined rating (0% to 100%) and 2026 monthly ...",
+      "snippet_highlighted_words": [
+        "Free VA disability rating calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Free VA disability rating calculator. Add multiple service-connected conditions, get your official VA combined rating (0% to 100%) and 2026 monthly ...",
+          "source_info_link": "https://militarylifetools.com/va-disability-calculator"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/va-disability-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fva-disability-calculator",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 8,
+      "title": "Military Retirement Pay Calculator 2026 - Legacy & BRS",
+      "link": "https://militarylifetools.com/retirement-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/retirement-calculator&ved=2ahUKEwik94KV9PmVAxUSNYYAHZu_EbAQFnoECDAQAQ",
+      "displayed_link": "https://militarylifetools.com › retirement-calculator",
+      "snippet": "Free military retirement pay calculator for 2026. Supports both Legacy (pre-2018) and Blended Retirement System (BRS). Calculates monthly pension, lump sum ...",
+      "snippet_highlighted_words": [
+        "Free military retirement pay calculator for 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Free military retirement pay calculator for 2026. Supports both Legacy (pre-2018) and Blended Retirement System (BRS). Calculates monthly pension, lump sum ...",
+          "source_info_link": "https://militarylifetools.com/retirement-calculator"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/retirement-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fretirement-calculator",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 9,
+      "title": "Best Military Credit Cards 2026 | SCRA & MLA Benefits Guide",
+      "link": "https://militarylifetools.com/blog/best-military-credit-cards-2026",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/blog/best-military-credit-cards-2026&ved=2ahUKEwik94KV9PmVAxUSNYYAHZu_EbAQFnoECDYQAQ",
+      "displayed_link": "https://militarylifetools.com › blog › best-military-credit-...",
+      "date": "Jun 26, 2026",
+      "snippet": "Use our free calculators to optimize your entire financial picture: Military Pay Calculator See your total compensation including BAH and BAS ...",
+      "snippet_highlighted_words": [
+        "Use our free calculators"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our free calculators to optimize your entire financial picture: Military Pay Calculator    See your total compensation including BAH and BAS ...",
+          "source_info_link": "https://militarylifetools.com/blog/best-military-credit-cards-2026"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/blog/best-military-credit-cards-2026&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fblog%2Fbest-military-credit-cards-2026",
+      "source": "militarylifetools.com",
+      "read_more_link": "https://militarylifetools.com/blog/best-military-credit-cards-2026#:~:text=Use%20our%20free%20calculators%20to,compensation%20including%20BAH%20and%20BAS"
+    },
+    {
+      "position": 10,
+      "title": "TSP Withdrawal Calculator 2026 - Monthly Income from TSP",
+      "link": "https://militarylifetools.com/tsp-withdrawal-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/tsp-withdrawal-calculator/&ved=2ahUKEwik94KV9PmVAxUSNYYAHZu_EbAQFnoECDUQAQ",
+      "displayed_link": "https://militarylifetools.com › tsp-withdrawal-calculator",
+      "snippet": "TSP Withdrawal Calculator (2026). Estimate how long your TSP balance will last and your monthly take-home after taxes. Current TSP Balance ($).",
+      "snippet_highlighted_words": [
+        "Calculator",
+        "2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "TSP Withdrawal Calculator (2026). Estimate how long your TSP balance will last and your monthly take-home after taxes. Current TSP Balance ($).",
+          "source_info_link": "https://militarylifetools.com/tsp-withdrawal-calculator/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "CA"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/tsp-withdrawal-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Ftsp-withdrawal-calculator%2F",
+      "source": "militarylifetools.com",
+      "read_more_link": "https://militarylifetools.com/tsp-withdrawal-calculator/#:~:text=TSP%20Withdrawal%20Calculator%20(2026),Current%20TSP%20Balance%20(%24)"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=bah+calculator+2026+site:militarylifetools.com&sca_esv=2c719d755bc25006&ei=KwFrauS1OZLqmLQPm__GgAs&start=10&sa=N&sstk=AU9db-D7j-V4pUu5FdqIUeZOMkneaTKwthnbAZEUlaoQSngmorX-XG1voQB1GpcvnkNL2mga4dIIdx0Y90s3g0wdDCRhWVawgw48Ew&ved=2ahUKEwik94KV9PmVAxUSNYYAHZu_EbAQ8NMDegQIKBAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=bah+calculator+2026+site:militarylifetools.com&sca_esv=2c719d755bc25006&ei=KwFrauS1OZLqmLQPm__GgAs&start=10&sa=N&sstk=AU9db-D7j-V4pUu5FdqIUeZOMkneaTKwthnbAZEUlaoQSngmorX-XG1voQB1GpcvnkNL2mga4dIIdx0Y90s3g0wdDCRhWVawgw48Ew&ved=2ahUKEwik94KV9PmVAxUSNYYAHZu_EbAQ8tMDegQIKBAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bah+calculator+2026+site%3Amilitarylifetools.com&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bah+calculator+2026+site%3Amilitarylifetools.com&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bah+calculator+2026+site%3Amilitarylifetools.com&start=10"
+    }
+  }
+}

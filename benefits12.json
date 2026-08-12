@@ -1,0 +1,450 @@
+{
+  "search_metadata": {
+    "id": "6a3a22a2d45a38aeb86a635a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/TR-PvUWc267mgDCsVhWPnQ/6a3a22a2d45a38aeb86a635a.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/TR-PvUWc267mgDCsVhWPnQ/6a3a22a2d45a38aeb86a635a.json_with_pixel_position",
+    "created_at": "2026-06-23 06:07:30 UTC",
+    "processed_at": "2026-06-23 06:07:30 UTC",
+    "google_url": "https://www.google.com/search?q=military+benefits+after+12+years&oq=military+benefits+after+12+years&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/TR-PvUWc267mgDCsVhWPnQ/6a3a22a2d45a38aeb86a635a.html",
+    "total_time_taken": 1.74
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military benefits after 12 years",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military benefits after 12 years",
+    "total_results": 138,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "\"USE IT OR LOSE IT\" VA has 12 year rule in place vital ...",
+      "link": "https://www.youtube.com/watch?v=Ky_pqyMn9hQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsMpsFCXrYIt7opLSC1_i-xoJtoTHXRKslyD8jGBRaQI3suTl_PGLktA&s",
+      "channel": "Veterans InfoTap",
+      "duration": "9:20",
+      "platform": "YouTube",
+      "date": "Oct 20, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQHYpgmOnFlKXXcexF7C-zARBdVTCDhX3nx7Q"
+    },
+    {
+      "position": 2,
+      "title": "Buy Back Military Time After 12 Years: Is it Worth It",
+      "link": "https://www.youtube.com/shorts/adOOq2-eu78",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL3TcF6iq2sDl1RVNuXOn31Vr6Wb6i1q9zS9yMZKvxHdzsYLZEZwo6Jw&s",
+      "channel": "American Benefits Exchange",
+      "duration": "0:59",
+      "platform": "YouTube",
+      "date": "Jul 10, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT40K5R02G2nDyUOLHoEPSXFD1zleKl8Easkw"
+    },
+    {
+      "position": 3,
+      "title": "What Should You Know About Military Retirement Benefits?",
+      "link": "https://www.youtube.com/watch?v=9EoVvTMWFp4&vl=en-US",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxxZrZItURoIbGpp6cFT85O9bM535y0ziy8YJ6lkSvL3IR_xt6u8SfQ&s",
+      "channel": "A Wiser Retirement®",
+      "duration": "5:46",
+      "platform": "YouTube",
+      "date": "Apr 16, 2026"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What do you get after 12 years in the military?",
+      "type": "featured_snippet",
+      "snippet": "Under the Blended Retirement System, you get 40% of your base pay after 20 years. You also get a bonus at 12 years of 2.5% of your annual base pay. The addition of a defined contribution plan (called the Thrift Savings Plan or TSP ) is what makes the BRS a blended plan.",
+      "title": "Retiring From Military Service - Law for Veterans",
+      "date": "Mar 11, 2025",
+      "link": "https://lawforveterans.org/work/84-discharge-and-retirement/504-retiring-from-military-service#:~:text=Under%20the%20Blended%20Retirement%20System,the%20BRS%20a%20blended%20plan.",
+      "displayed_link": "https://lawforveterans.org › 84-discharge-and-retirement",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA3lBMVEX__P3_-f7-_v_8_v_6_P_5____-fvZz9DVycvc09jc2eCYmKJrbXnf4e18fouEg5Fydn_-9POwpKRjTlO3oqvczNa8tb12eoXAv8_T0d-8vMieoq3_9_p5XmXLsbpaRU7n2-VfXGVKTlmsrru8qqjoz9KjiYyxlptLNDr56vG0uMHItraooanv8_zBydT_-_9ANDinmJ3Asbhrc4D__P_96euReHx4ZGaBcXTOsr5nV1rrztDUwMJqRlDhucKNaG9XQ0RcUlElERP_7PF_XGO5sa83GB6Rf39qZnT3_f9s0c7vAAAA4UlEQVR4AR0QgwEDQSzP2rbfts39B6ruYifwewiKohiOYRhOEEB2yG4P6Q-Go_F4MpkSMJsji-VqPdyMtrvd_vAzHE_ny_V23z8Gg7_h-aJohl0fuMfha8BgxvPMkkKEiShKo8MUA1lRWe2KDDZDXdc3QwKOyHF1vV7Zq2x8_8gAk7dOZ9vhL6uTe7Y8gCNF-Uf-eQzOYRTHJgDiBAnJp70sL6LQ9GZw9K6dWVmCbVa0RT1_EaQyK9O56pjeq05m8CsOYJAGgiA_CdDbcNgMf6_5vhsBLSEbhoy1RIt_b0AQH5R2Hejo75d0AAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuRkxaWGwyU21wVmQyY3dkRzVIZDI5TFRYWkhia2szV1ZBMlVFWjFZbEpDZUhSSFQwdEZUamd5YW1oSlVVRTVhMU51WlRWblZtMWlXSFpWTUdwRmNuZEtNbkpJT1UxWWNUVm1URkUzTVRWeWJFZGhPRVIwZUZRMVp4SVhiM2xKTm1GMldGSkdVR3B5YlV4UlVIRjJWRWw1UVc4YUlrRkVjM0k1WmxOSFNFSkJlR2huTVdWa1ZqTmtaVU5sTjBkVlVXMWhlVmxCZW5jIiwiZmN2IjoiMyIsImVpIjoib3lJNmF2WFJGUGpybUxRUHF2VEl5QW8iLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE1pQjVaV0Z5Y3hBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IldoYXQgZG8geW91IGdldCBhZnRlciAxMiB5ZWFycyBpbiB0aGUgbWlsaXRhcnk/IiwibGsiOiJHaTUzYUdGMElHUnZJSGx2ZFNCblpYUWdZV1owWlhJZ01USWdlV1ZoY25NZ2FXNGdkR2hsSUcxcGJHbDBZWEo1IiwiYnMiOiJjNldQUHd2Q01CREY2WHFUbzJTNlVSMjBqYnBhUjc5QjU2Z1hFMmdUeVI5RFJfR0xpMEZFNkdKeE80NzMzdTg5a0xCcWxBaDR0dGpiaUJjS0tHUWdoeFhIbm9UenFBMEdSZGpwVmdmaC1ucDZMM25KbG1tVUN4cVlaNDcyLVYtVldZY3V0alFnOEFXYnBSX0Y4Q2lnenNsSE1pUjE4Ti1sdE15bkozZjd4QXdYOFQzYnBiOGlvSVBOd1NiczRrbTlXZ3ZrNzg1WE1sNWJnOG02b0lia0xWdXI4YjVKOFFRIiwiaWQiOiJmY19veUk2YXZYUkZQanJtTFFQcXZUSXlBb180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuRkxaWGwyU21wVmQyY3dkRzVIZDI5TFRYWkhia2szV1ZBMlVFWjFZbEpDZUhSSFQwdEZUamd5YW1oSlVVRTVhMU51WlRWblZtMWlXSFpWTUdwRmNuZEtNbkpJT1UxWWNUVm1URkUzTVRWeWJFZGhPRVIwZUZRMVp4SVhiM2xKTm1GMldGSkdVR3B5YlV4UlVIRjJWRWw1UVc4YUlrRkVjM0k1WmxOSFNFSkJlR2huTVdWa1ZqTmtaVU5sTjBkVlVXMWhlVmxCZW5jIiwiZmN2IjoiMyIsImVpIjoib3lJNmF2WFJGUGpybUxRUHF2VEl5QW8iLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE1pQjVaV0Z5Y3hBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IldoYXQgZG8geW91IGdldCBhZnRlciAxMiB5ZWFycyBpbiB0aGUgbWlsaXRhcnk%2FIiwibGsiOiJHaTUzYUdGMElHUnZJSGx2ZFNCblpYUWdZV1owWlhJZ01USWdlV1ZoY25NZ2FXNGdkR2hsSUcxcGJHbDBZWEo1IiwiYnMiOiJjNldQUHd2Q01CREY2WHFUbzJTNlVSMjBqYnBhUjc5QjU2Z1hFMmdUeVI5RFJfR0xpMEZFNkdKeE80NzMzdTg5a0xCcWxBaDR0dGpiaUJjS0tHUWdoeFhIbm9UenFBMEdSZGpwVmdmaC1ucDZMM25KbG1tVUN4cVlaNDcyLVYtVldZY3V0alFnOEFXYnBSX0Y4Q2lnenNsSE1pUjE4Ti1sdE15bkozZjd4QXdYOFQzYnBiOGlvSVBOd1NiczRrbTlXZ3ZrNzg1WE1sNWJnOG02b0lia0xWdXI4YjVKOFFRIiwiaWQiOiJmY19veUk2YXZYUkZQanJtTFFQcXZUSXlBb180In0%3D"
+    },
+    {
+      "question": "What is the 10 year rule in the military?",
+      "type": "ai_overview",
+      "page_token": "fzhB0XicHdBdboIwAADg7DI-yt90mYlZgrQMNqpAW2lfFmgFlCKgTJC33WWn2mm27AZfvq9vdTxXPw-3su_b60rThmGYF01TqMNcNLWWXu9noYlUqSwV1Wr5tDRecrEGn5696Tw7JG1LnUjHblsHE79vgdER0BtYLy3q0JC7dBEr1PIT3AjSk0wvFu_YT7dJm6TmmAbg2c506oW64TAretuDEUSQUqFgLiYYiJqNVI_6GMI7NUuanWQSQ58EUzRy-ofSVYMTb2JK2sTwr_tKmYLyXNYj4gllkYsQw4pLk1mIwFduyLN0g4kA2O3d6IIrBJCjOgnhTritjSiH8X60QClvB1KZLOGMVDxMz36PIQxFwkmcKDsbm2NIokmcVE1O9pAZcoerctg6aMDY9lm9qDiGdWw-jgeqbnyY5eK2tmb_n-uPvO5X7aUpfgFEy4SN",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fzhB0XicHdBdboIwAADg7DI-yt90mYlZgrQMNqpAW2lfFmgFlCKgTJC33WWn2mm27AZfvq9vdTxXPw-3su_b60rThmGYF01TqMNcNLWWXu9noYlUqSwV1Wr5tDRecrEGn5696Tw7JG1LnUjHblsHE79vgdER0BtYLy3q0JC7dBEr1PIT3AjSk0wvFu_YT7dJm6TmmAbg2c506oW64TAretuDEUSQUqFgLiYYiJqNVI_6GMI7NUuanWQSQ58EUzRy-ofSVYMTb2JK2sTwr_tKmYLyXNYj4gllkYsQw4pLk1mIwFduyLN0g4kA2O3d6IIrBJCjOgnhTritjSiH8X60QClvB1KZLOGMVDxMz36PIQxFwkmcKDsbm2NIokmcVE1O9pAZcoerctg6aMDY9lm9qDiGdWw-jgeqbnyY5eK2tmb_n-uPvO5X7aUpfgFEy4SN",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuRkxaWGwyU21wVmQyY3dkRzVIZDI5TFRYWkhia2szV1ZBMlVFWjFZbEpDZUhSSFQwdEZUamd5YW1oSlVVRTVhMU51WlRWblZtMWlXSFpWTUdwRmNuZEtNbkpJT1UxWWNUVm1URkUzTVRWeWJFZGhPRVIwZUZRMVp4SVhiM2xKTm1GMldGSkdVR3B5YlV4UlVIRjJWRWw1UVc4YUlrRkVjM0k1WmxOSFNFSkJlR2huTVdWa1ZqTmtaVU5sTjBkVlVXMWhlVmxCZW5jIiwiZmN2IjoiMyIsImVpIjoib3lJNmF2WFJGUGpybUxRUHF2VEl5QW8iLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE1pQjVaV0Z5Y3hBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDEwIHllYXIgcnVsZSBpbiB0aGUgbWlsaXRhcnk/IiwibGsiOiJjNVBTS005SUxGSElMRllveVVoVk1EUlFxRXhOTEZJb0tzMUpWY2pNQTR2bFp1WmtsaVFXVlFJQSIsImJzIjoiYzZXUFB3dkNNQkRGNlhxVG8yUzZVUjIwamJwYVI3OUI1NmdYRTJnVHlSOURSX0dMaTBGRTZHSnhPNDczM3U4OWtMQnFsQWg0dHRqYmlCY0tLR1FnaHhYSG5vVHpxQTBHUmRqcFZnZmgtbnA2TDNuSmxtbVVDeHFZWjQ3Mi1WLVZXWWN1dGpRZzhBV2JwUl9GOENpZ3pzbEhNaVIxOE4tbHRNeW5KM2Y3eEF3WDhUM2JwYjhpb0lQTndTYnM0a205V2d2azc4NVhNbDViZzhtNm9JYmtMVnVyOGI1SjhRUSIsImlkIjoiZmNfb3lJNmF2WFJGUGpybUxRUHF2VEl5QW9fNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuRkxaWGwyU21wVmQyY3dkRzVIZDI5TFRYWkhia2szV1ZBMlVFWjFZbEpDZUhSSFQwdEZUamd5YW1oSlVVRTVhMU51WlRWblZtMWlXSFpWTUdwRmNuZEtNbkpJT1UxWWNUVm1URkUzTVRWeWJFZGhPRVIwZUZRMVp4SVhiM2xKTm1GMldGSkdVR3B5YlV4UlVIRjJWRWw1UVc4YUlrRkVjM0k1WmxOSFNFSkJlR2huTVdWa1ZqTmtaVU5sTjBkVlVXMWhlVmxCZW5jIiwiZmN2IjoiMyIsImVpIjoib3lJNmF2WFJGUGpybUxRUHF2VEl5QW8iLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE1pQjVaV0Z5Y3hBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDEwIHllYXIgcnVsZSBpbiB0aGUgbWlsaXRhcnk%2FIiwibGsiOiJjNVBTS005SUxGSElMRllveVVoVk1EUlFxRXhOTEZJb0tzMUpWY2pNQTR2bFp1WmtsaVFXVlFJQSIsImJzIjoiYzZXUFB3dkNNQkRGNlhxVG8yUzZVUjIwamJwYVI3OUI1NmdYRTJnVHlSOURSX0dMaTBGRTZHSnhPNDczM3U4OWtMQnFsQWg0dHRqYmlCY0tLR1FnaHhYSG5vVHpxQTBHUmRqcFZnZmgtbnA2TDNuSmxtbVVDeHFZWjQ3Mi1WLVZXWWN1dGpRZzhBV2JwUl9GOENpZ3pzbEhNaVIxOE4tbHRNeW5KM2Y3eEF3WDhUM2JwYjhpb0lQTndTYnM0a205V2d2azc4NVhNbDViZzhtNm9JYmtMVnVyOGI1SjhRUSIsImlkIjoiZmNfb3lJNmF2WFJGUGpybUxRUHF2VEl5QW9fNCJ9"
+    },
+    {
+      "question": "What benefits do you get if you serve 10 years in the military?",
+      "type": "ai_overview",
+      "page_token": "YU9p8HicHZBLboJAAEDTy7hUGMBGE9MEBcWUqQzMBzYNM6MiDB-VArLrXXqqnqam67d4L-_7R12q4vely9q2uS9ns77vp-e6PqvjVNTlLL0_KjETqVI8FcVy_jrX305i5Xx59vrq2QFuGrJBWsgkQNsMcmWjUJMh3TVWkitTVNiKHHXw9ewAN2qHc6mODPVo3Pt05944SByRqwcvLeLT4SAJ1MLSt4iTYa4RJYFnii2kvNB9uR0Qd4aQaLolGapS92ymlehJFfQxcK-wQgMZszsE7pqwrMOgMaj7ZMXC-djCd5F7ABfw4uuNiWnGog1cixIPMdC1mJENZXtPjE8XdZGTye6ICxCzJMZFEqTVvo1cNxAswSFTNh_qS4DR-GwvMUMRYrUWGslD5HjkeDFyYBpBBBmlViSdepT95CS6lTH5_7n6PJXtsrnV5z87FYPV",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YU9p8HicHZBLboJAAEDTy7hUGMBGE9MEBcWUqQzMBzYNM6MiDB-VArLrXXqqnqam67d4L-_7R12q4vely9q2uS9ns77vp-e6PqvjVNTlLL0_KjETqVI8FcVy_jrX305i5Xx59vrq2QFuGrJBWsgkQNsMcmWjUJMh3TVWkitTVNiKHHXw9ewAN2qHc6mODPVo3Pt05944SByRqwcvLeLT4SAJ1MLSt4iTYa4RJYFnii2kvNB9uR0Qd4aQaLolGapS92ymlehJFfQxcK-wQgMZszsE7pqwrMOgMaj7ZMXC-djCd5F7ABfw4uuNiWnGog1cixIPMdC1mJENZXtPjE8XdZGTye6ICxCzJMZFEqTVvo1cNxAswSFTNh_qS4DR-GwvMUMRYrUWGslD5HjkeDFyYBpBBBmlViSdepT95CS6lTH5_7n6PJXtsrnV5z87FYPV",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuRkxaWGwyU21wVmQyY3dkRzVIZDI5TFRYWkhia2szV1ZBMlVFWjFZbEpDZUhSSFQwdEZUamd5YW1oSlVVRTVhMU51WlRWblZtMWlXSFpWTUdwRmNuZEtNbkpJT1UxWWNUVm1URkUzTVRWeWJFZGhPRVIwZUZRMVp4SVhiM2xKTm1GMldGSkdVR3B5YlV4UlVIRjJWRWw1UVc4YUlrRkVjM0k1WmxOSFNFSkJlR2huTVdWa1ZqTmtaVU5sTjBkVlVXMWhlVmxCZW5jIiwiZmN2IjoiMyIsImVpIjoib3lJNmF2WFJGUGpybUxRUHF2VEl5QW8iLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE1pQjVaV0Z5Y3hBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IldoYXQgYmVuZWZpdHMgZG8geW91IGdldCBpZiB5b3Ugc2VydmUgMTAgeWVhcnMgaW4gdGhlIG1pbGl0YXJ5PyIsImxrIjoiYzVPeUs4OUlMRkZJU3MxTFRjc3NLVlpJeVZlb3pDOVZTRTh0VWNoTUF6T0xVNHZLVWhVTURSUXFVeE9MaWhVeTh4UktNbElWY2pOek1rc1NpeW9CIiwiYnMiOiJjNldQUHd2Q01CREY2WHFUbzJTNlVSMjBqYnBhUjc5QjU2Z1hFMmdUeVI5RFJfR0xpMEZFNkdKeE80NzMzdTg5a0xCcWxBaDR0dGpiaUJjS0tHUWdoeFhIbm9UenFBMEdSZGpwVmdmaC1ucDZMM25KbG1tVUN4cVlaNDcyLVYtVldZY3V0alFnOEFXYnBSX0Y4Q2lnenNsSE1pUjE4Ti1sdE15bkozZjd4QXdYOFQzYnBiOGlvSVBOd1NiczRrbTlXZ3ZrNzg1WE1sNWJnOG02b0lia0xWdXI4YjVKOFFRIiwiaWQiOiJmY19veUk2YXZYUkZQanJtTFFQcXZUSXlBb180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuRkxaWGwyU21wVmQyY3dkRzVIZDI5TFRYWkhia2szV1ZBMlVFWjFZbEpDZUhSSFQwdEZUamd5YW1oSlVVRTVhMU51WlRWblZtMWlXSFpWTUdwRmNuZEtNbkpJT1UxWWNUVm1URkUzTVRWeWJFZGhPRVIwZUZRMVp4SVhiM2xKTm1GMldGSkdVR3B5YlV4UlVIRjJWRWw1UVc4YUlrRkVjM0k1WmxOSFNFSkJlR2huTVdWa1ZqTmtaVU5sTjBkVlVXMWhlVmxCZW5jIiwiZmN2IjoiMyIsImVpIjoib3lJNmF2WFJGUGpybUxRUHF2VEl5QW8iLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE1pQjVaV0Z5Y3hBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IldoYXQgYmVuZWZpdHMgZG8geW91IGdldCBpZiB5b3Ugc2VydmUgMTAgeWVhcnMgaW4gdGhlIG1pbGl0YXJ5PyIsImxrIjoiYzVPeUs4OUlMRkZJU3MxTFRjc3NLVlpJeVZlb3pDOVZTRTh0VWNoTUF6T0xVNHZLVWhVTURSUXFVeE9MaWhVeTh4UktNbElWY2pOek1rc1NpeW9CIiwiYnMiOiJjNldQUHd2Q01CREY2WHFUbzJTNlVSMjBqYnBhUjc5QjU2Z1hFMmdUeVI5RFJfR0xpMEZFNkdKeE80NzMzdTg5a0xCcWxBaDR0dGpiaUJjS0tHUWdoeFhIbm9UenFBMEdSZGpwVmdmaC1ucDZMM25KbG1tVUN4cVlaNDcyLVYtVldZY3V0alFnOEFXYnBSX0Y4Q2lnenNsSE1pUjE4Ti1sdE15bkozZjd4QXdYOFQzYnBiOGlvSVBOd1NiczRrbTlXZ3ZrNzg1WE1sNWJnOG02b0lia0xWdXI4YjVKOFFRIiwiaWQiOiJmY19veUk2YXZYUkZQanJtTFFQcXZUSXlBb180In0%3D"
+    },
+    {
+      "question": "How much is a 20 year pension worth in the military?",
+      "type": "ai_overview",
+      "page_token": "eYNbDXicHdDBbpswAABQ7Wd6bDC0mRIpqprGTopqNhvbgC-VY0MoNuBRL0m59Rf2Dfuqfc2mXd_xff52b4P98-VXG4J_Xy8Wl8vl9jSOJ1ff6rFfqPePQS-0cu6otF0vvy7BQ6M38Ky3T5PeEu692NEotzbwnftWORoZ9BgoTL9XvA2kfJ6rONypeNWSYkV4JzhO5Fjvs4lBWeTIMYW2sxhSgfv2SXEfywTBEqx23Iqk6EXED_g-H1ws957Uncz0LBsqngHu3IuBKVbW_JAlJcfZTCQykzk4lEExMJ4pYUGVWdBgeAHMUYotwLWgXRUjmh8k1kwIIzzLSukrfh_jPS00GmMhpJVOFmYwlhZgZjCTFXdB9tcUtuZccxtX5T-ykqghDQwhokvJ89Jtj9fxjXA66871PHFAR9eUHR5nCujypQiD6tOfOVxFovdcCJ4QctPo8ya5-X-9eW36sPbTePoLlNKNoA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eYNbDXicHdDBbpswAABQ7Wd6bDC0mRIpqprGTopqNhvbgC-VY0MoNuBRL0m59Rf2Dfuqfc2mXd_xff52b4P98-VXG4J_Xy8Wl8vl9jSOJ1ff6rFfqPePQS-0cu6otF0vvy7BQ6M38Ky3T5PeEu692NEotzbwnftWORoZ9BgoTL9XvA2kfJ6rONypeNWSYkV4JzhO5Fjvs4lBWeTIMYW2sxhSgfv2SXEfywTBEqx23Iqk6EXED_g-H1ws957Uncz0LBsqngHu3IuBKVbW_JAlJcfZTCQykzk4lEExMJ4pYUGVWdBgeAHMUYotwLWgXRUjmh8k1kwIIzzLSukrfh_jPS00GmMhpJVOFmYwlhZgZjCTFXdB9tcUtuZccxtX5T-ykqghDQwhokvJ89Jtj9fxjXA66871PHFAR9eUHR5nCujypQiD6tOfOVxFovdcCJ4QctPo8ya5-X-9eW36sPbTePoLlNKNoA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuRkxaWGwyU21wVmQyY3dkRzVIZDI5TFRYWkhia2szV1ZBMlVFWjFZbEpDZUhSSFQwdEZUamd5YW1oSlVVRTVhMU51WlRWblZtMWlXSFpWTUdwRmNuZEtNbkpJT1UxWWNUVm1URkUzTVRWeWJFZGhPRVIwZUZRMVp4SVhiM2xKTm1GMldGSkdVR3B5YlV4UlVIRjJWRWw1UVc4YUlrRkVjM0k1WmxOSFNFSkJlR2huTVdWa1ZqTmtaVU5sTjBkVlVXMWhlVmxCZW5jIiwiZmN2IjoiMyIsImVpIjoib3lJNmF2WFJGUGpybUxRUHF2VEl5QW8iLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE1pQjVaV0Z5Y3hBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGlzIGEgMjAgeWVhciBwZW5zaW9uIHdvcnRoIGluIHRoZSBtaWxpdGFyeT8iLCJsayI6IkdqTm9iM2NnYlhWamFDQnBjeUJoSURJd0lIbGxZWElnY0dWdWMybHZiaUIzYjNKMGFDQnBiaUIwYUdVZ2JXbHNhWFJoY25rIiwiYnMiOiJjNldQUHd2Q01CREY2WHFUbzJTNlVSMjBqYnBhUjc5QjU2Z1hFMmdUeVI5RFJfR0xpMEZFNkdKeE80NzMzdTg5a0xCcWxBaDR0dGpiaUJjS0tHUWdoeFhIbm9UenFBMEdSZGpwVmdmaC1ucDZMM25KbG1tVUN4cVlaNDcyLVYtVldZY3V0alFnOEFXYnBSX0Y4Q2lnenNsSE1pUjE4Ti1sdE15bkozZjd4QXdYOFQzYnBiOGlvSVBOd1NiczRrbTlXZ3ZrNzg1WE1sNWJnOG02b0lia0xWdXI4YjVKOFFRIiwiaWQiOiJmY19veUk2YXZYUkZQanJtTFFQcXZUSXlBb180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuRkxaWGwyU21wVmQyY3dkRzVIZDI5TFRYWkhia2szV1ZBMlVFWjFZbEpDZUhSSFQwdEZUamd5YW1oSlVVRTVhMU51WlRWblZtMWlXSFpWTUdwRmNuZEtNbkpJT1UxWWNUVm1URkUzTVRWeWJFZGhPRVIwZUZRMVp4SVhiM2xKTm1GMldGSkdVR3B5YlV4UlVIRjJWRWw1UVc4YUlrRkVjM0k1WmxOSFNFSkJlR2huTVdWa1ZqTmtaVU5sTjBkVlVXMWhlVmxCZW5jIiwiZmN2IjoiMyIsImVpIjoib3lJNmF2WFJGUGpybUxRUHF2VEl5QW8iLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE1pQjVaV0Z5Y3hBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGlzIGEgMjAgeWVhciBwZW5zaW9uIHdvcnRoIGluIHRoZSBtaWxpdGFyeT8iLCJsayI6IkdqTm9iM2NnYlhWamFDQnBjeUJoSURJd0lIbGxZWElnY0dWdWMybHZiaUIzYjNKMGFDQnBiaUIwYUdVZ2JXbHNhWFJoY25rIiwiYnMiOiJjNldQUHd2Q01CREY2WHFUbzJTNlVSMjBqYnBhUjc5QjU2Z1hFMmdUeVI5RFJfR0xpMEZFNkdKeE80NzMzdTg5a0xCcWxBaDR0dGpiaUJjS0tHUWdoeFhIbm9UenFBMEdSZGpwVmdmaC1ucDZMM25KbG1tVUN4cVlaNDcyLVYtVldZY3V0alFnOEFXYnBSX0Y4Q2lnenNsSE1pUjE4Ti1sdE15bkozZjd4QXdYOFQzYnBiOGlvSVBOd1NiczRrbTlXZ3ZrNzg1WE1sNWJnOG02b0lia0xWdXI4YjVKOFFRIiwiaWQiOiJmY19veUk2YXZYUkZQanJtTFFQcXZUSXlBb180In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "4-lGOXicxVZbcuo4EP2ffQw_CdjGQCBVrluSkUEXAjhAEvJDGSPEww9iGYzzN3uZVc0qZgkjv4gJkNTcqqkRhR6tVqtb3YfDH39aK2fz129_L31_y-4FIQiCEnVdapGS6dqCwULHFBauxTxz-YO5O88kq7liLj3XJoVwr8gFkyligawUN8Q1Y__yqA3Wnt3VB2_7EQ6BW4hNKNOZwcia33BYM2Eq8G7zu9zkixIrEac0G5irRdtvB2NaKotSo9QXDJsrgP-wIfAYjzr_YD7iM43oevqNFR1HB4c5iZrrs_aQGMI4HtSrRtXUC3USqTSLr14FgqYey9pfeDE8XT5HHQIBADByEemXzlxyIpO56Qiv3ojORbEyTO9q5s1fixfmE6xHNkd1oH4kIgsZgiwCrkL5HCYWqwBWBoHaUr9IE9_Z0jZaFvWLTuea1kHbIJ13Jy3ukTCnvAhFYebxQRJW5tKMJx6LalMdNURXc8Brr7ZbdkbygzqdyuOOg92l5ZS3dV0wZ1zPco05mU-XU_FHvJbKUlVsyHf12xgUJjuiguVR8Vp7sID8cyFroNQtQSkHifgx8EnMUbnBK-F10jf8pA4SK3Gfvk32yuNMDboZOlLBehNV1eQoqEepWH6-MbJ1Doms0fyEQyJ2G4-PJ_Pq0RTDnKtJa37O98c6jWECOvoxZJTzOHkIlF9vIuO4lQmC41ZklVoghjiHBEoN9k_O07xj_LGgClC2ffQg0mlujmoo9jDanuj6BGCNQ5Snj2bBp6nkkMCnbwfWJyuNRl-VXgT4dw1-JPxaQyCr_U-lfAKBO_eprPnFJh7r7T4rH97f2713LewvPXq55F179i-YwPx_QTFOeWKcIqFzERT0G1DoGH3JE4nfHzwR1YrqXgOFmoLilCeSwv3giXNQDE9BcZ0ncqBIrHwNCngVFMnPyjkoIp44AwW9AoqEJ_KgOOUJ52g5iiAHil_iCf0XeCLGCEmGU9LYrelV8mgFM2y9tH2ttvNHlsy8olZ8f0JF1n0D35LHwvbvbWNu3U5X83tY_umH89spF7j3ZF54U-yVtfINL7yZEYcsVj67MRY-8W6k8k1IDI8VbMtzFdGo7f2ZsVl14KIy2qHJI2aTnjRV4WGOJuIjCrZ6S8bYGoBRVezCHa210C5ct186w17oVxy0UBvynj2_vZgt01RlL3ioVp_7oPw-JM740NYbM4zmmkQ0dVPvgapL6CN-qj014OYVtZ6tYccuTvZad_Nk34WV0KOxX0w5yD1IbGswJJsCD4oRRSrYnqlwGFQo6OngmQKT1z_Q-b8pXXX5N-DZLzDTmBK2V8yqJM6MCqlVy7WF3OCHqR9ulYpUYI6nSP8AI9QdQw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4-lGOXicxVZbcuo4EP2ffQw_CdjGQCBVrluSkUEXAjhAEvJDGSPEww9iGYzzN3uZVc0qZgkjv4gJkNTcqqkRhR6tVqtb3YfDH39aK2fz129_L31_y-4FIQiCEnVdapGS6dqCwULHFBauxTxz-YO5O88kq7liLj3XJoVwr8gFkyligawUN8Q1Y__yqA3Wnt3VB2_7EQ6BW4hNKNOZwcia33BYM2Eq8G7zu9zkixIrEac0G5irRdtvB2NaKotSo9QXDJsrgP-wIfAYjzr_YD7iM43oevqNFR1HB4c5iZrrs_aQGMI4HtSrRtXUC3USqTSLr14FgqYey9pfeDE8XT5HHQIBADByEemXzlxyIpO56Qiv3ojORbEyTO9q5s1fixfmE6xHNkd1oH4kIgsZgiwCrkL5HCYWqwBWBoHaUr9IE9_Z0jZaFvWLTuea1kHbIJ13Jy3ukTCnvAhFYebxQRJW5tKMJx6LalMdNURXc8Brr7ZbdkbygzqdyuOOg92l5ZS3dV0wZ1zPco05mU-XU_FHvJbKUlVsyHf12xgUJjuiguVR8Vp7sID8cyFroNQtQSkHifgx8EnMUbnBK-F10jf8pA4SK3Gfvk32yuNMDboZOlLBehNV1eQoqEepWH6-MbJ1Doms0fyEQyJ2G4-PJ_Pq0RTDnKtJa37O98c6jWECOvoxZJTzOHkIlF9vIuO4lQmC41ZklVoghjiHBEoN9k_O07xj_LGgClC2ffQg0mlujmoo9jDanuj6BGCNQ5Snj2bBp6nkkMCnbwfWJyuNRl-VXgT4dw1-JPxaQyCr_U-lfAKBO_eprPnFJh7r7T4rH97f2713LewvPXq55F179i-YwPx_QTFOeWKcIqFzERT0G1DoGH3JE4nfHzwR1YrqXgOFmoLilCeSwv3giXNQDE9BcZ0ncqBIrHwNCngVFMnPyjkoIp44AwW9AoqEJ_KgOOUJ52g5iiAHil_iCf0XeCLGCEmGU9LYrelV8mgFM2y9tH2ttvNHlsy8olZ8f0JF1n0D35LHwvbvbWNu3U5X83tY_umH89spF7j3ZF54U-yVtfINL7yZEYcsVj67MRY-8W6k8k1IDI8VbMtzFdGo7f2ZsVl14KIy2qHJI2aTnjRV4WGOJuIjCrZ6S8bYGoBRVezCHa210C5ct186w17oVxy0UBvynj2_vZgt01RlL3ioVp_7oPw-JM740NYbM4zmmkQ0dVPvgapL6CN-qj014OYVtZ6tYccuTvZad_Nk34WV0KOxX0w5yD1IbGswJJsCD4oRRSrYnqlwGFQo6OngmQKT1z_Q-b8pXXX5N-DZLzDTmBK2V8yqJM6MCqlVy7WF3OCHqR9ulYpUYI6nSP8AI9QdQw"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Retirement",
+      "link": "https://militarypay.defense.gov/pay/retirement.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/pay/retirement.aspx&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQFnoECBYQAQ",
+      "displayed_link": "https://militarypay.defense.gov › pay › retirement",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "For both the Final Pay and High-36 retired pay plans, each year of service is worth 2.5% toward the retirement multiplier. For example, 20 years of service ...",
+      "snippet_highlighted_words": [
+        "year",
+        "years"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "For both the Final Pay and High-36 retired pay plans, each year of service is worth 2.5% toward the retirement multiplier. For example, 20 years of service ...",
+          "source_info_link": "https://militarypay.defense.gov/pay/retirement.aspx",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/pay/retirement.aspx&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2Fpay%2Fretirement.aspx",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/pay/retirement.aspx#:~:text=For%20both%20the%20Final%20Pay,would%20equal%20a%2050%25%20multiplier."
+    },
+    {
+      "position": 2,
+      "title": "Military Benefits When Your Service is Up",
+      "link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarybenefit.org/get-educated/military-benefits-after-separation/&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQFnoECBkQAQ",
+      "displayed_link": "https://www.militarybenefit.org › get-educated › military...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png",
+      "snippet": "An overview of the main educational, housing, medical, and other benefit programs available to veterans.",
+      "snippet_highlighted_words": [
+        "educational, housing, medical, and other benefit programs"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "An overview of the main educational, housing, medical, and other benefit programs available to veterans.",
+          "source_info_link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarybenefit.org/get-educated/military-benefits-after-separation/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarybenefit.org%2Fget-educated%2Fmilitary-benefits-after-separation%2F",
+      "source": "Military Benefit Association"
+    },
+    {
+      "position": 3,
+      "title": "what benefits do i get after serving 4 years?",
+      "link": "https://www.reddit.com/r/AirForceRecruits/comments/1e93dsp/what_benefits_do_i_get_after_serving_4_years/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/AirForceRecruits/comments/1e93dsp/what_benefits_do_i_get_after_serving_4_years/&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQFnoECCgQAQ",
+      "displayed_link": "10+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "i am a 17 y/o female wanting to join the military so i can get my college degree paid for, but im not sure if this is a good idea. people say its not ...",
+      "about_this_result": {
+        "source": {
+          "description": "After 36 months of active duty you will be qualified to utilize the gi bill upon discharge.",
+          "source_info_link": "https://www.reddit.com/r/AirForceRecruits/comments/1e93dsp/what_benefits_do_i_get_after_serving_4_years/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/AirForceRecruits/comments/1e93dsp/what_benefits_do_i_get_after_serving_4_years/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FAirForceRecruits%2Fcomments%2F1e93dsp%2Fwhat_benefits_do_i_get_after_serving_4_years%2F",
+      "source": "Reddit · r/AirForceRecruits"
+    },
+    {
+      "position": 4,
+      "title": "Service Members Separating Or Retiring From Service",
+      "link": "https://www.va.gov/service-member-benefits/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.va.gov/service-member-benefits/&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQFnoECCAQAQ",
+      "displayed_link": "https://www.va.gov › service-member-benefits",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUWHEwFD0YAC0UIEUcRGEoUGksMFEhvcox2eZFgZIEyNl56fZVTVnUAAEHT1Nv____7-_yanK09QWQ4PGIAAECIip5YW3jZ2uDGx9AAADV_gpYnLVkjKFb39_nv7_IAADrj5OikprcAADglKlbo6e61t8SipLMcIlCRk6ZITG4AAD2-v8lTV3VeVWWWAAABGklEQVR4Ac2RhRXDMAwFA7YbvjLbKfP-81Uqj9Afkt45wugPFSdJ-jBMkiTWipu4N3OdLMtjZUWZlUUsbla9ad1At1ajJ0Z_0AWa-gWHI2CcCpzAdDZHtTBPaJZAr45c30M5m0KAMnlCq3EnbZSU4PsmsFrDtLaC3rkWZjiFZtMRkIOPXtANgLLe7mA0W2sKD1L_U8kK9puxRq3FrDTv_l1vfYAwk1fTVrAbHE_yTt5xz9rgBEabk1ghBODsXvWmOzgFiXppeOvwibuHiUYdeLiu1-ud-G8Yj1GN2gz84jKc9X6GZI8BJGo7ff6R3vToZ75TdErboF3K4Yv_Gb47l7KndJtl5UCjpeMs63yX-tiwLlqY0iSJo__THWPcGFaQjPxnAAAAAElFTkSuQmCC.png",
+      "snippet": "Learn about your health care options after separation or retirement and how to apply for VA health care when you receive your separation or retirement orders.",
+      "snippet_highlighted_words": [
+        "Learn about your health care options after separation or retirement"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Learn about your health care options after separation or retirement and how to apply for VA health care when you receive your separation or retirement orders.",
+          "source_info_link": "https://www.va.gov/service-member-benefits/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUWHEwFD0YAC0UIEUcRGEoUGksMFEhvcox2eZFgZIEyNl56fZVTVnUAAEHT1Nv____7-_yanK09QWQ4PGIAAECIip5YW3jZ2uDGx9AAADV_gpYnLVkjKFb39_nv7_IAADrj5OikprcAADglKlbo6e61t8SipLMcIlCRk6ZITG4AAD2-v8lTV3VeVWWWAAABGklEQVR4Ac2RhRXDMAwFA7YbvjLbKfP-81Uqj9Afkt45wugPFSdJ-jBMkiTWipu4N3OdLMtjZUWZlUUsbla9ad1At1ajJ0Z_0AWa-gWHI2CcCpzAdDZHtTBPaJZAr45c30M5m0KAMnlCq3EnbZSU4PsmsFrDtLaC3rkWZjiFZtMRkIOPXtANgLLe7mA0W2sKD1L_U8kK9puxRq3FrDTv_l1vfYAwk1fTVrAbHE_yTt5xz9rgBEabk1ghBODsXvWmOzgFiXppeOvwibuHiUYdeLiu1-ud-G8Yj1GN2gz84jKc9X6GZI8BJGo7ff6R3vToZ75TdErboF3K4Yv_Gb47l7KndJtl5UCjpeMs63yX-tiwLlqY0iSJo__THWPcGFaQjPxnAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.va.gov/service-member-benefits/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.va.gov%2Fservice-member-benefits%2F",
+      "source": "VA.gov Home | Veterans Affairs",
+      "read_more_link": "https://www.va.gov/service-member-benefits/#:~:text=Learn%20about%20your%20health%20care,your%20separation%20or%20retirement%20orders."
+    },
+    {
+      "position": 5,
+      "title": "Are Military Benefits for Life? How Long do Benefits Last?",
+      "link": "https://www.aafmaa.com/resource-center/are-military-benefits-for-life-how-long-do-benefits-last",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aafmaa.com/resource-center/are-military-benefits-for-life-how-long-do-benefits-last&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQFnoECEMQAQ",
+      "displayed_link": "https://www.aafmaa.com › resource-center › are-militar...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEX____n0NCzW1zlzc2UAAClLzHkysuuTE2XAACaAAD7-Pj27u7Hjo_u39_KlZbUqqqIAAC2ZWaRAADPoKCjGRn8-fn77euwusXW2-HAfH3m19m-wMmeqbYfRWpMY37XsLCPAADBy9Q9V3YzUHC3aGndvb3Eh4eoPD6hHiGtR0jY1dX_7dvAAAAAoElEQVR4AbXPxwGDQAwEwDVezOlEdM7k2H-BbkD4xzyVhY3tgj3WkeEBayInDDxsGjsRt4MpSZBSmMGieeF95JjCkh55wul49jBcEjmGuN7uMDwyPF_vzxeWsipQN68apoBywK2FRTUmO9hw1J7iTjCFfKqIC2Hxjj2Co93aKxmjVNiPJnSRwvTMe5VjD9tQZYiwZmSHVZfp2P_Jzgs29wMG-AhBzlbORgAAAABJRU5ErkJggg.png",
+      "snippet": "If you were discharged from active duty before January 1, 2013 your eligibility ends 12 years from either the date you received notice of your date of ...",
+      "snippet_highlighted_words": [
+        "12 years"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you were discharged from active duty before January 1, 2013 your eligibility ends 12 years from either the date you received notice of your date of ...",
+          "source_info_link": "https://www.aafmaa.com/resource-center/are-military-benefits-for-life-how-long-do-benefits-last",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEX____n0NCzW1zlzc2UAAClLzHkysuuTE2XAACaAAD7-Pj27u7Hjo_u39_KlZbUqqqIAAC2ZWaRAADPoKCjGRn8-fn77euwusXW2-HAfH3m19m-wMmeqbYfRWpMY37XsLCPAADBy9Q9V3YzUHC3aGndvb3Eh4eoPD6hHiGtR0jY1dX_7dvAAAAAoElEQVR4AbXPxwGDQAwEwDVezOlEdM7k2H-BbkD4xzyVhY3tgj3WkeEBayInDDxsGjsRt4MpSZBSmMGieeF95JjCkh55wul49jBcEjmGuN7uMDwyPF_vzxeWsipQN68apoBywK2FRTUmO9hw1J7iTjCFfKqIC2Hxjj2Co93aKxmjVNiPJnSRwvTMe5VjD9tQZYiwZmSHVZfp2P_Jzgs29wMG-AhBzlbORgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.aafmaa.com/resource-center/are-military-benefits-for-life-how-long-do-benefits-last&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.aafmaa.com%2Fresource-center%2Fare-military-benefits-for-life-how-long-do-benefits-last",
+      "source": "American Armed Forces Mutual Aid Association",
+      "read_more_link": "https://www.aafmaa.com/resource-center/are-military-benefits-for-life-how-long-do-benefits-last#:~:text=If%20you%20were%20discharged%20from,rating%20%E2%80%94%20whichever%20came%20later."
+    },
+    {
+      "position": 6,
+      "title": "Retirement & Pension Plans",
+      "link": "https://www.goarmy.com/benefits/veterans/retirement",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goarmy.com/benefits/veterans/retirement&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQFnoECD8QAQ",
+      "displayed_link": "https://www.goarmy.com › benefits › veterans › retirem...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEUiHyAhHiArJh8sKB0XFiFpVxcPEiCvjg4dGyHhtQX3xwAXFyH-zQAbGiA-NR3asAlzXhbwwwTsvgUyKx43Lx3_0QD_zwBLPxunhw_OpQxlUxnHoQpANhucfhBdTRhWSBcFDSGNchK8lwy0kw4eHCCAaRWVeRJGOxsoIx-gEP57AAABH0lEQVR4AWIgHgD6pAoDhkEgGMeJPhHivv-CdW_pReBdbfuPzHHNUs_3PaNhgFBgMsUuIS42eqXU5NdmiHPEfvsVMuQ8lOLdAl8RRHGSxFFwI68eUpldgQAhhW6ETC_CvCivSHjk8-RGFPm1LZVWwE9QpJZEnW-gdOXYF6nIGgpx01adZXVV28TAm0zcs8Z9RyAZHM-2PWdIFOl68dq4eqS8SDFOC06n-qOJLBthch3HnWDMmPWOWWq61EVRL1TL-UMoqpismnM9kLgSH32dVxUnQE55xWr9WIjZ1aBA5_nlSN_9eh2FZLAYs4YEaPc-t76B0mcng5n5Jaz9-9ZptLFrv9iG9FvQOVuce79s4SzZ_Gq5W0_ydN3td79myoAjxgQV8rX2KR8AAAAASUVORK5CYII.png",
+      "snippet": "After retiring, active-duty Soldiers can start pension payments at any age they choose—which are usually about 40% of your highest basic pay while serving. Army ...",
+      "snippet_highlighted_words": [
+        "After",
+        "Army"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "After retiring, active-duty Soldiers can start pension payments at any age they choose—which are usually about 40% of your highest basic pay while serving. Army ...",
+          "source_info_link": "https://www.goarmy.com/benefits/veterans/retirement",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEUiHyAhHiArJh8sKB0XFiFpVxcPEiCvjg4dGyHhtQX3xwAXFyH-zQAbGiA-NR3asAlzXhbwwwTsvgUyKx43Lx3_0QD_zwBLPxunhw_OpQxlUxnHoQpANhucfhBdTRhWSBcFDSGNchK8lwy0kw4eHCCAaRWVeRJGOxsoIx-gEP57AAABH0lEQVR4AWIgHgD6pAoDhkEgGMeJPhHivv-CdW_pReBdbfuPzHHNUs_3PaNhgFBgMsUuIS42eqXU5NdmiHPEfvsVMuQ8lOLdAl8RRHGSxFFwI68eUpldgQAhhW6ETC_CvCivSHjk8-RGFPm1LZVWwE9QpJZEnW-gdOXYF6nIGgpx01adZXVV28TAm0zcs8Z9RyAZHM-2PWdIFOl68dq4eqS8SDFOC06n-qOJLBthch3HnWDMmPWOWWq61EVRL1TL-UMoqpismnM9kLgSH32dVxUnQE55xWr9WIjZ1aBA5_nlSN_9eh2FZLAYs4YEaPc-t76B0mcng5n5Jaz9-9ZptLFrv9iG9FvQOVuce79s4SzZ_Gq5W0_ydN3td79myoAjxgQV8rX2KR8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.goarmy.com/benefits/veterans/retirement&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.goarmy.com%2Fbenefits%2Fveterans%2Fretirement",
+      "source": "GoArmy.com",
+      "read_more_link": "https://www.goarmy.com/benefits/veterans/retirement#:~:text=After%20retiring%2C%20active%2Dduty%20Soldiers%20can,after%20turning%2060%20years%20old."
+    },
+    {
+      "position": 7,
+      "title": "I've been in the military for 13 years. Can I get any benefits ...",
+      "link": "https://www.quora.com/I-ve-been-in-the-military-for-13-years-Can-I-get-any-benefits-when-I-retire",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/I-ve-been-in-the-military-for-13-years-Can-I-get-any-benefits-when-I-retire&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQFnoECEQQAQ",
+      "displayed_link": "10+ answers · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+      "snippet": "I’ve been in the military for 13 years. Can I get any benefits when I retire?",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What are the benefits for Army veterans after serving ...",
+            "link": "https://www.quora.com/What-are-the-benefits-for-Army-veterans-after-serving-a-short-contract-like-the-2-or-3-year-terms",
+            "answer_count": 2,
+            "date": "Jun 4, 2025"
+          },
+          {
+            "title": "What exactly are your benefits after a 4-year (or 1 ...",
+            "link": "https://www.quora.com/What-exactly-are-your-benefits-after-a-4-year-or-1-contract-active-duty-service-in-the-military",
+            "answer_count": 10,
+            "date": "Apr 16, 2020"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "By year 12, a service member is 60% of the way to a guaranteed, lifelong pension. Yet this is the exact moment thousands of troops choose to ...",
+          "source_info_link": "https://www.quora.com/I-ve-been-in-the-military-for-13-years-Can-I-get-any-benefits-when-I-retire",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/I-ve-been-in-the-military-for-13-years-Can-I-get-any-benefits-when-I-retire&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quora.com%2FI-ve-been-in-the-military-for-13-years-Can-I-get-any-benefits-when-I-retire",
+      "source": "Quora"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military benefits after 12 years reddit",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+12+years+reddit&sa=X&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+12+years+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits after 12 years calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+12+years+calculator&sa=X&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+12+years+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits after 10 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+10+years+of+service&sa=X&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+10+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits after 4 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+4+years+of+service&sa=X&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+4+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits after 2 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+2+years+of+service&sa=X&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+2+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "VA benefits eligibility chart",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=VA+benefits+eligibility+chart&sa=X&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=VA+benefits+eligibility+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Do you get military benefits for life after 4 years",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Do+you+get+military+benefits+for+life+after+4+years&sa=X&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Do+you+get+military+benefits+for+life+after+4+years"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits after 8 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+8+years+of+service&sa=X&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+8+years+of+service"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "What bonuses or benefits do military members receive after 12 years ...",
+      "link": "https://www.quora.com/What-bonuses-or-benefits-do-military-members-receive-after-12-years-of-service-under-the-new-retirement-system",
+      "date": "1 month ago",
+      "extensions": [
+        "2 answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "link": "https://www.quora.com/What-bonuses-or-benefits-do-military-members-receive-after-12-years-of-service-under-the-new-retirement-system?top_ans=1477743906455571",
+          "extensions": [
+            "Top answer",
+            "2 votes",
+            "a month ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How many years do military veterans have to serve in order to get benefits ...",
+      "link": "https://www.quora.com/How-many-years-do-military-veterans-have-to-serve-in-order-to-get-benefits-for-the-rest-of-their-lives-10-years-or-20-years",
+      "date": "1 year ago",
+      "extensions": [
+        "10+ answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "link": "https://www.quora.com/How-many-years-do-military-veterans-have-to-serve-in-order-to-get-benefits-for-the-rest-of-their-lives-10-years-or-20-years?top_ans=1477743821534485",
+          "extensions": [
+            "Top answer",
+            "24 votes",
+            "a year ago"
+          ]
+        },
+        {
+          "link": "https://www.quora.com/How-many-years-do-military-veterans-have-to-serve-in-order-to-get-benefits-for-the-rest-of-their-lives-10-years-or-20-years?top_ans=360745503",
+          "extensions": [
+            "14 votes",
+            "4 years ago"
+          ]
+        },
+        {
+          "link": "https://www.quora.com/How-many-years-do-military-veterans-have-to-serve-in-order-to-get-benefits-for-the-rest-of-their-lives-10-years-or-20-years?top_ans=360749293",
+          "extensions": [
+            "8 votes",
+            "4 years ago"
+          ]
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+benefits+after+12+years&sca_esv=c510ba4e6526f391&ei=oyI6avXRFPjrmLQPqvTIyAo&start=10&sa=N&sstk=AU9db-BE_hdAck6DBI32OpdgHjOFATp9fSeoyLCj0paALj7Jf1j1lFiUrDh6arJp5H8jN2FhvNn3-Fy3E8_CdED0JqgohpvrzwXVcQ&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ8NMDegQIMhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+benefits+after+12+years&sca_esv=c510ba4e6526f391&ei=oyI6avXRFPjrmLQPqvTIyAo&start=10&sa=N&sstk=AU9db-BE_hdAck6DBI32OpdgHjOFATp9fSeoyLCj0paALj7Jf1j1lFiUrDh6arJp5H8jN2FhvNn3-Fy3E8_CdED0JqgohpvrzwXVcQ&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ8tMDegQIMhAE",
+      "3": "https://www.google.com/search?q=military+benefits+after+12+years&sca_esv=c510ba4e6526f391&ei=oyI6avXRFPjrmLQPqvTIyAo&start=20&sa=N&sstk=AU9db-BE_hdAck6DBI32OpdgHjOFATp9fSeoyLCj0paALj7Jf1j1lFiUrDh6arJp5H8jN2FhvNn3-Fy3E8_CdED0JqgohpvrzwXVcQ&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ8tMDegQIMhAG",
+      "4": "https://www.google.com/search?q=military+benefits+after+12+years&sca_esv=c510ba4e6526f391&ei=oyI6avXRFPjrmLQPqvTIyAo&start=30&sa=N&sstk=AU9db-BE_hdAck6DBI32OpdgHjOFATp9fSeoyLCj0paALj7Jf1j1lFiUrDh6arJp5H8jN2FhvNn3-Fy3E8_CdED0JqgohpvrzwXVcQ&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ8tMDegQIMhAI",
+      "5": "https://www.google.com/search?q=military+benefits+after+12+years&sca_esv=c510ba4e6526f391&ei=oyI6avXRFPjrmLQPqvTIyAo&start=40&sa=N&sstk=AU9db-BE_hdAck6DBI32OpdgHjOFATp9fSeoyLCj0paALj7Jf1j1lFiUrDh6arJp5H8jN2FhvNn3-Fy3E8_CdED0JqgohpvrzwXVcQ&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ8tMDegQIMhAK",
+      "6": "https://www.google.com/search?q=military+benefits+after+12+years&sca_esv=c510ba4e6526f391&ei=oyI6avXRFPjrmLQPqvTIyAo&start=50&sa=N&sstk=AU9db-BE_hdAck6DBI32OpdgHjOFATp9fSeoyLCj0paALj7Jf1j1lFiUrDh6arJp5H8jN2FhvNn3-Fy3E8_CdED0JqgohpvrzwXVcQ&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ8tMDegQIMhAM",
+      "7": "https://www.google.com/search?q=military+benefits+after+12+years&sca_esv=c510ba4e6526f391&ei=oyI6avXRFPjrmLQPqvTIyAo&start=60&sa=N&sstk=AU9db-BE_hdAck6DBI32OpdgHjOFATp9fSeoyLCj0paALj7Jf1j1lFiUrDh6arJp5H8jN2FhvNn3-Fy3E8_CdED0JqgohpvrzwXVcQ&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ8tMDegQIMhAO",
+      "8": "https://www.google.com/search?q=military+benefits+after+12+years&sca_esv=c510ba4e6526f391&ei=oyI6avXRFPjrmLQPqvTIyAo&start=70&sa=N&sstk=AU9db-BE_hdAck6DBI32OpdgHjOFATp9fSeoyLCj0paALj7Jf1j1lFiUrDh6arJp5H8jN2FhvNn3-Fy3E8_CdED0JqgohpvrzwXVcQ&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ8tMDegQIMhAQ",
+      "9": "https://www.google.com/search?q=military+benefits+after+12+years&sca_esv=c510ba4e6526f391&ei=oyI6avXRFPjrmLQPqvTIyAo&start=80&sa=N&sstk=AU9db-BE_hdAck6DBI32OpdgHjOFATp9fSeoyLCj0paALj7Jf1j1lFiUrDh6arJp5H8jN2FhvNn3-Fy3E8_CdED0JqgohpvrzwXVcQ&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ8tMDegQIMhAS",
+      "10": "https://www.google.com/search?q=military+benefits+after+12+years&sca_esv=c510ba4e6526f391&ei=oyI6avXRFPjrmLQPqvTIyAo&start=90&sa=N&sstk=AU9db-BE_hdAck6DBI32OpdgHjOFATp9fSeoyLCj0paALj7Jf1j1lFiUrDh6arJp5H8jN2FhvNn3-Fy3E8_CdED0JqgohpvrzwXVcQ&ved=2ahUKEwi1r6OY2ZyVAxX4NYYAHSo6EqkQ8tMDegQIMhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+12+years&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+12+years&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+12+years&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+12+years&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+12+years&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+12+years&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+12+years&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+12+years&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+12+years&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+12+years&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+12+years&start=90"
+    }
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "search_metadata": {
+    "id": "6a3a17edd2d7408f61756d01",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/riMv1Xo7XAwN87RjXjpLFQ/6a3a17edd2d7408f61756d01.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/riMv1Xo7XAwN87RjXjpLFQ/6a3a17edd2d7408f61756d01.json_with_pixel_position",
+    "created_at": "2026-06-23 05:21:49 UTC",
+    "processed_at": "2026-06-23 05:21:49 UTC",
+    "google_url": "https://www.google.com/search?q=how+many+days+until+retirement+age+65&oq=how+many+days+until+retirement+age+65&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/riMv1Xo7XAwN87RjXjpLFQ/6a3a17edd2d7408f61756d01.html",
+    "total_time_taken": 8.81
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how many days until retirement age 65",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "how many days until retirement age 65",
+    "total_results": 151,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is $400,000 enough to retire at 65?",
+      "type": "ai_overview",
+      "page_token": "zYt0KXicHdDdboIwGADQ7GW8nAWmiyZmSQX8icX0g34iNwu2ItICnTJl3u1d9lR7miU7j3C-f8y50b9Pt7Lr7HU6HN7v9-dT257M8Vm29TC_fjVyKHNjDrnU0_Hr2Hkr5Cz4XNH5x4pyYS36QGJiF_FSf7EG57IeeVGKPF6YS0Kskala7wIYHxGLyFsXiWlf1MPQDMNF4kMPVQYs6FERhx1czCOCFZh1iC4EMiyL3A3TTZo52LAu8tXtWEF_8M1F1OVnUlGyFWuPx8QRgdoDAkmWpSs1nJUbmh3S7LgEu0FrD2Zylk45Tzz9YLHji0XEeEOtajIrXEOF7m97PQlZhRCUciRq5u5T6mOgR5vU9moZ8YiMWOIhFdCeuYCHrEwtcGI2uy5WZNKJxqSJzrgwsM0D2PIdrrDmL5wPCnmbeYP_z9l7UXdTe2lPf5lGglo",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zYt0KXicHdDdboIwGADQ7GW8nAWmiyZmSQX8icX0g34iNwu2ItICnTJl3u1d9lR7miU7j3C-f8y50b9Pt7Lr7HU6HN7v9-dT257M8Vm29TC_fjVyKHNjDrnU0_Hr2Hkr5Cz4XNH5x4pyYS36QGJiF_FSf7EG57IeeVGKPF6YS0Kskala7wIYHxGLyFsXiWlf1MPQDMNF4kMPVQYs6FERhx1czCOCFZh1iC4EMiyL3A3TTZo52LAu8tXtWEF_8M1F1OVnUlGyFWuPx8QRgdoDAkmWpSs1nJUbmh3S7LgEu0FrD2Zylk45Tzz9YLHji0XEeEOtajIrXEOF7m97PQlZhRCUciRq5u5T6mOgR5vU9moZ8YiMWOIhFdCeuYCHrEwtcGI2uy5WZNKJxqSJzrgwsM0D2PIdrrDmL5wPCnmbeYP_z9l7UXdTe2lPf5lGglo",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVlJXR1JCWm5KNGFuVjNWMDVQWTE5RlRXNXlOa0oxVldFMlpETnBORlZCTFVvelpVSmpRVmh4YUdZdE5sZHRNMDFXTjJGWVJqaDNlR1F5ZDBSUU5taG1VMTlZZVhBNGVXSndkMDVqZEVocWJ6TkJXWEJvUW5oYVFSSVhPVkpqTm1Gd1ExUkpPUzE2Y1hSelVEZE9URTkxUVZFYUlrRkVjM0k1WmxNM1QxSk9ZbHAzYkY5eVJYSjJTbDlUU0c5c1ZYSnNSWEJETlZFIiwiZmN2IjoiMyIsImVpIjoiOVJjNmFwQ1RJOS16cXRzUDdOTE91QVEiLCJxYyI6IkNpVm9iM2NnYldGdWVTQmtZWGx6SUhWdWRHbHNJSEpsZEdseVpXMWxiblFnWVdkbElEWTFFQUI5cXFtWlBnIiwicXVlc3Rpb24iOiJJcyAkNDAwLDAwMCBlbm91Z2ggdG8gcmV0aXJlIGF0IDY1PyIsImxrIjoiR2lKcGN5QWtOREF3SURBd01DQmxibTkxWjJnZ2RHOGdjbVYwYVhKbElHRjBJRFkxIiwiYnMiOiJjM1dPc1FyQ01CUkZjYzNrcENVcVhMU2phS2kyYXdVWGk2T0RjNGloZlJBVGFGTktfOXBQc05pQ09uUS01OXozMkpWdHNncmhVWWl0RUFMYXVqb3Y0QjFLN2FuVWtCNUpuRVloWDFPdllWeGpCemFfdUFiRzJSeTE5V1NRUVQ0X0F3R2ZGZi1JZXNST2JIa3ZXalNTX0VDUy1MdWNCaThWcmZpaUdWZVlZdnV6dE4ydDMyY2c3UVBLR2FPVng4MHBrZ1kzcmVxU2ZKdEdndTlVbDlCNFV2VkpOU1RUeVJzIiwiaWQiOiJmY185UmM2YXBDVEk5LXpxdHNQN05MT3VBUV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVlJXR1JCWm5KNGFuVjNWMDVQWTE5RlRXNXlOa0oxVldFMlpETnBORlZCTFVvelpVSmpRVmh4YUdZdE5sZHRNMDFXTjJGWVJqaDNlR1F5ZDBSUU5taG1VMTlZZVhBNGVXSndkMDVqZEVocWJ6TkJXWEJvUW5oYVFSSVhPVkpqTm1Gd1ExUkpPUzE2Y1hSelVEZE9URTkxUVZFYUlrRkVjM0k1WmxNM1QxSk9ZbHAzYkY5eVJYSjJTbDlUU0c5c1ZYSnNSWEJETlZFIiwiZmN2IjoiMyIsImVpIjoiOVJjNmFwQ1RJOS16cXRzUDdOTE91QVEiLCJxYyI6IkNpVm9iM2NnYldGdWVTQmtZWGx6SUhWdWRHbHNJSEpsZEdseVpXMWxiblFnWVdkbElEWTFFQUI5cXFtWlBnIiwicXVlc3Rpb24iOiJJcyAkNDAwLDAwMCBlbm91Z2ggdG8gcmV0aXJlIGF0IDY1PyIsImxrIjoiR2lKcGN5QWtOREF3SURBd01DQmxibTkxWjJnZ2RHOGdjbVYwYVhKbElHRjBJRFkxIiwiYnMiOiJjM1dPc1FyQ01CUkZjYzNrcENVcVhMU2phS2kyYXdVWGk2T0RjNGloZlJBVGFGTktfOXBQc05pQ09uUS01OXozMkpWdHNncmhVWWl0RUFMYXVqb3Y0QjFLN2FuVWtCNUpuRVloWDFPdllWeGpCemFfdUFiRzJSeTE5V1NRUVQ0X0F3R2ZGZi1JZXNST2JIa3ZXalNTX0VDUy1MdWNCaThWcmZpaUdWZVlZdnV6dE4ydDMyY2c3UVBLR2FPVng4MHBrZ1kzcmVxU2ZKdEdndTlVbDlCNFV2VkpOU1RUeVJzIiwiaWQiOiJmY185UmM2YXBDVEk5LXpxdHNQN05MT3VBUV8zIn0%3D"
+    },
+    {
+      "question": "How long until I am 65?",
+      "type": "ai_overview",
+      "page_token": "XoNetnicHdDbboIwAADQ7Gd8HJeCy0zM4qVgiHLtBfqyQCvWtAWiZChv-5d91b5myc4nnO8ffe3U70spx3G4ryxrmqbXS99f9PmV98aq78-OW7zWuqm5Wi3fls5Hy9fwPm13_bTN8DCQfW6jEPoEj_M5FDWatazKykOQXUW3mZGdjSjon-wgVQYGT3QRaKg9xiWZj1RispemCIKpnNmhwdIt9HDjNjMcO-BYKifZ65a7-ZNg5dRGDA2QKXdPXt1Bj8zQ5YCRHDJCsaAVkLuE-h6zc8rCzI9tnzIj_EpXfm3eSYGiKC4chUtYBLMuqplJDmNcIDWeu8DmzgYg9UgFDvLwGm3zQ_xMKMMCBhq7jyM3jBGtEwFzcjKDS3GenjBLeUfAouVfa7D4H1t_tmZcDbf-8gfDini9",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XoNetnicHdDbboIwAADQ7Gd8HJeCy0zM4qVgiHLtBfqyQCvWtAWiZChv-5d91b5myc4nnO8ffe3U70spx3G4ryxrmqbXS99f9PmV98aq78-OW7zWuqm5Wi3fls5Hy9fwPm13_bTN8DCQfW6jEPoEj_M5FDWatazKykOQXUW3mZGdjSjon-wgVQYGT3QRaKg9xiWZj1RispemCIKpnNmhwdIt9HDjNjMcO-BYKifZ65a7-ZNg5dRGDA2QKXdPXt1Bj8zQ5YCRHDJCsaAVkLuE-h6zc8rCzI9tnzIj_EpXfm3eSYGiKC4chUtYBLMuqplJDmNcIDWeu8DmzgYg9UgFDvLwGm3zQ_xMKMMCBhq7jyM3jBGtEwFzcjKDS3GenjBLeUfAouVfa7D4H1t_tmZcDbf-8gfDini9",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVlJXR1JCWm5KNGFuVjNWMDVQWTE5RlRXNXlOa0oxVldFMlpETnBORlZCTFVvelpVSmpRVmh4YUdZdE5sZHRNMDFXTjJGWVJqaDNlR1F5ZDBSUU5taG1VMTlZZVhBNGVXSndkMDVqZEVocWJ6TkJXWEJvUW5oYVFSSVhPVkpqTm1Gd1ExUkpPUzE2Y1hSelVEZE9URTkxUVZFYUlrRkVjM0k1WmxNM1QxSk9ZbHAzYkY5eVJYSjJTbDlUU0c5c1ZYSnNSWEJETlZFIiwiZmN2IjoiMyIsImVpIjoiOVJjNmFwQ1RJOS16cXRzUDdOTE91QVEiLCJxYyI6IkNpVm9iM2NnYldGdWVTQmtZWGx6SUhWdWRHbHNJSEpsZEdseVpXMWxiblFnWVdkbElEWTFFQUI5cXFtWlBnIiwicXVlc3Rpb24iOiJIb3cgbG9uZyB1bnRpbCBJIGFtIDY1PyIsImxrIjoiR2hab2IzY2diRzl1WnlCMWJuUnBiQ0JwSUdGdElEWTEiLCJicyI6ImMzV09zUXJDTUJSRmNjM2twQ1VxWExTamFLaTJhd1VYaTZPRGM0aWhmUkFUYUZOS185cFBzTmlDT25RLTU5ejMySlZ0c2dyaFVZaXRFQUxhdWpvdjRCMUs3YW5Va0I1Sm5FWWhYMU92WVZ4akJ6YV91QWJHMlJ5MTlXU1FRVDRfQXdHZkZmLUllc1JPYkhrdldqU1NfRUNTLUx1Y0JpOFZyZmlpR1ZlWVl2dXp0TjJ0MzJjZzdRUEtHYU9WeDgwcGtnWTNyZXFTZkp0R2d1OVVsOUI0VXZWSk5TVFR5UnMiLCJpZCI6ImZjXzlSYzZhcENUSTktenF0c1A3TkxPdUFRXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVlJXR1JCWm5KNGFuVjNWMDVQWTE5RlRXNXlOa0oxVldFMlpETnBORlZCTFVvelpVSmpRVmh4YUdZdE5sZHRNMDFXTjJGWVJqaDNlR1F5ZDBSUU5taG1VMTlZZVhBNGVXSndkMDVqZEVocWJ6TkJXWEJvUW5oYVFSSVhPVkpqTm1Gd1ExUkpPUzE2Y1hSelVEZE9URTkxUVZFYUlrRkVjM0k1WmxNM1QxSk9ZbHAzYkY5eVJYSjJTbDlUU0c5c1ZYSnNSWEJETlZFIiwiZmN2IjoiMyIsImVpIjoiOVJjNmFwQ1RJOS16cXRzUDdOTE91QVEiLCJxYyI6IkNpVm9iM2NnYldGdWVTQmtZWGx6SUhWdWRHbHNJSEpsZEdseVpXMWxiblFnWVdkbElEWTFFQUI5cXFtWlBnIiwicXVlc3Rpb24iOiJIb3cgbG9uZyB1bnRpbCBJIGFtIDY1PyIsImxrIjoiR2hab2IzY2diRzl1WnlCMWJuUnBiQ0JwSUdGdElEWTEiLCJicyI6ImMzV09zUXJDTUJSRmNjM2twQ1VxWExTamFLaTJhd1VYaTZPRGM0aWhmUkFUYUZOS185cFBzTmlDT25RLTU5ejMySlZ0c2dyaFVZaXRFQUxhdWpvdjRCMUs3YW5Va0I1Sm5FWWhYMU92WVZ4akJ6YV91QWJHMlJ5MTlXU1FRVDRfQXdHZkZmLUllc1JPYkhrdldqU1NfRUNTLUx1Y0JpOFZyZmlpR1ZlWVl2dXp0TjJ0MzJjZzdRUEtHYU9WeDgwcGtnWTNyZXFTZkp0R2d1OVVsOUI0VXZWSk5TVFR5UnMiLCJpZCI6ImZjXzlSYzZhcENUSTktenF0c1A3TkxPdUFRXzMifQ%3D%3D"
+    },
+    {
+      "question": "Why wait until 65 to retire?",
+      "type": "featured_snippet",
+      "snippet": "If you're 65 or younger today, then you haven't yet reached your full retirement age for Social Security retirement benefits. Reduced benefits may be available if you're younger, but if you start receiving benefits early, your benefits are reduced a small percentage for each month before your full retirement age.",
+      "title": "Five reasons to think about retiring past 65",
+      "link": "https://retirement.johnhancock.com/us/en/achieving-retirement-balance/Five-reasons-to-think-about-retiring-past-65#:~:text=If%20you're%2065%20or,before%20your%20full%20retirement%20age.",
+      "displayed_link": "https://retirement.johnhancock.com › Five-reasons-to-thi...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA0klEQVR4AdTTgQYCQRRA0bFSG6pUIlCEolL0AX1MhCSCAAIEoCpAAUKEIAgIgUBEIUAQoRJVtF08rBVaoIYzDzMuhlE_svIlBQ1eocENP3SY7znggwea-SCGmYiijhUqlkAeC4wQMh8kcRAJdGCgaQkUcMMakf8ILNFCW-YYLzuBO044y7zCsBMYIIOczCIenwJpHG2_AVsAYZTxxB5xdL8NNLDDBQYmcKP3baCGLTYYIgWFKuYoWgJZTNFHULHpCAsnlHBAl2n9My448R4jxfkQAIJqv--p47pHAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVlJXR1JCWm5KNGFuVjNWMDVQWTE5RlRXNXlOa0oxVldFMlpETnBORlZCTFVvelpVSmpRVmh4YUdZdE5sZHRNMDFXTjJGWVJqaDNlR1F5ZDBSUU5taG1VMTlZZVhBNGVXSndkMDVqZEVocWJ6TkJXWEJvUW5oYVFSSVhPVkpqTm1Gd1ExUkpPUzE2Y1hSelVEZE9URTkxUVZFYUlrRkVjM0k1WmxNM1QxSk9ZbHAzYkY5eVJYSjJTbDlUU0c5c1ZYSnNSWEJETlZFIiwiZmN2IjoiMyIsImVpIjoiOVJjNmFwQ1RJOS16cXRzUDdOTE91QVEiLCJxYyI6IkNpVm9iM2NnYldGdWVTQmtZWGx6SUhWdWRHbHNJSEpsZEdseVpXMWxiblFnWVdkbElEWTFFQUI5cXFtWlBnIiwicXVlc3Rpb24iOiJXaHkgd2FpdCB1bnRpbCA2NSB0byByZXRpcmU/IiwibGsiOiJHaHQzYUhrZ2QyRnBkQ0IxYm5ScGJDQTJOU0IwYnlCeVpYUnBjbVUiLCJicyI6ImMzV09zUXJDTUJSRmNjM2twQ1VxWExTamFLaTJhd1VYaTZPRGM0aWhmUkFUYUZOS185cFBzTmlDT25RLTU5ejMySlZ0c2dyaFVZaXRFQUxhdWpvdjRCMUs3YW5Va0I1Sm5FWWhYMU92WVZ4akJ6YV91QWJHMlJ5MTlXU1FRVDRfQXdHZkZmLUllc1JPYkhrdldqU1NfRUNTLUx1Y0JpOFZyZmlpR1ZlWVl2dXp0TjJ0MzJjZzdRUEtHYU9WeDgwcGtnWTNyZXFTZkp0R2d1OVVsOUI0VXZWSk5TVFR5UnMiLCJpZCI6ImZjXzlSYzZhcENUSTktenF0c1A3TkxPdUFRXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVlJXR1JCWm5KNGFuVjNWMDVQWTE5RlRXNXlOa0oxVldFMlpETnBORlZCTFVvelpVSmpRVmh4YUdZdE5sZHRNMDFXTjJGWVJqaDNlR1F5ZDBSUU5taG1VMTlZZVhBNGVXSndkMDVqZEVocWJ6TkJXWEJvUW5oYVFSSVhPVkpqTm1Gd1ExUkpPUzE2Y1hSelVEZE9URTkxUVZFYUlrRkVjM0k1WmxNM1QxSk9ZbHAzYkY5eVJYSjJTbDlUU0c5c1ZYSnNSWEJETlZFIiwiZmN2IjoiMyIsImVpIjoiOVJjNmFwQ1RJOS16cXRzUDdOTE91QVEiLCJxYyI6IkNpVm9iM2NnYldGdWVTQmtZWGx6SUhWdWRHbHNJSEpsZEdseVpXMWxiblFnWVdkbElEWTFFQUI5cXFtWlBnIiwicXVlc3Rpb24iOiJXaHkgd2FpdCB1bnRpbCA2NSB0byByZXRpcmU%2FIiwibGsiOiJHaHQzYUhrZ2QyRnBkQ0IxYm5ScGJDQTJOU0IwYnlCeVpYUnBjbVUiLCJicyI6ImMzV09zUXJDTUJSRmNjM2twQ1VxWExTamFLaTJhd1VYaTZPRGM0aWhmUkFUYUZOS185cFBzTmlDT25RLTU5ejMySlZ0c2dyaFVZaXRFQUxhdWpvdjRCMUs3YW5Va0I1Sm5FWWhYMU92WVZ4akJ6YV91QWJHMlJ5MTlXU1FRVDRfQXdHZkZmLUllc1JPYkhrdldqU1NfRUNTLUx1Y0JpOFZyZmlpR1ZlWVl2dXp0TjJ0MzJjZzdRUEtHYU9WeDgwcGtnWTNyZXFTZkp0R2d1OVVsOUI0VXZWSk5TVFR5UnMiLCJpZCI6ImZjXzlSYzZhcENUSTktenF0c1A3TkxPdUFRXzMifQ%3D%3D"
+    },
+    {
+      "question": "Can I retire at 65 and collect Social Security?",
+      "type": "ai_overview",
+      "page_token": "mZc-4XicHdDPbpswAIBx9WV6bPgjMiVSVI1iQ0khwcE2-DI59ogT24UmqCbc9gp7hj3VnmbV7p9-h-_XH3N-138ffqtxHG7rxcI593Tq-5P5-SR6u-C3-7tYCG7MkQu9Xn5b-s-d2IBPEb9cRVzhYSAJ8urEqDc8QWbglmgFsJY7EpKc6VIXc56jLJ9KUjp8Kc-SVk7S0dslMCbQ5DJYqSbIPziVlGo_Z1BOVKN90ZhuB4ZWzl9Sggp-94HEJOU-9ojN9zI1KYL5kmfqjubTvMtUcARkxlCmRxBNx1pda0-MLMMe88ptDVY9htDx5HvYBqX56h0G7cSACnGmXWunO_dJyFJ2YIRU2JMRwsjikFU0i18O2u84iC5AiQjbImibOCFAR2_NMMmsrEovKuqQxBj15wqjWVyMxdTfimbIEHWjtIMm9atf2pUlZID0ovaH4BYw99iJz034-P_15kdnx_Vw7U__AEr6jFQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mZc-4XicHdDPbpswAIBx9WV6bPgjMiVSVI1iQ0khwcE2-DI59ogT24UmqCbc9gp7hj3VnmbV7p9-h-_XH3N-138ffqtxHG7rxcI593Tq-5P5-SR6u-C3-7tYCG7MkQu9Xn5b-s-d2IBPEb9cRVzhYSAJ8urEqDc8QWbglmgFsJY7EpKc6VIXc56jLJ9KUjp8Kc-SVk7S0dslMCbQ5DJYqSbIPziVlGo_Z1BOVKN90ZhuB4ZWzl9Sggp-94HEJOU-9ojN9zI1KYL5kmfqjubTvMtUcARkxlCmRxBNx1pda0-MLMMe88ptDVY9htDx5HvYBqX56h0G7cSACnGmXWunO_dJyFJ2YIRU2JMRwsjikFU0i18O2u84iC5AiQjbImibOCFAR2_NMMmsrEovKuqQxBj15wqjWVyMxdTfimbIEHWjtIMm9atf2pUlZID0ovaH4BYw99iJz034-P_15kdnx_Vw7U__AEr6jFQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVlJXR1JCWm5KNGFuVjNWMDVQWTE5RlRXNXlOa0oxVldFMlpETnBORlZCTFVvelpVSmpRVmh4YUdZdE5sZHRNMDFXTjJGWVJqaDNlR1F5ZDBSUU5taG1VMTlZZVhBNGVXSndkMDVqZEVocWJ6TkJXWEJvUW5oYVFSSVhPVkpqTm1Gd1ExUkpPUzE2Y1hSelVEZE9URTkxUVZFYUlrRkVjM0k1WmxNM1QxSk9ZbHAzYkY5eVJYSjJTbDlUU0c5c1ZYSnNSWEJETlZFIiwiZmN2IjoiMyIsImVpIjoiOVJjNmFwQ1RJOS16cXRzUDdOTE91QVEiLCJxYyI6IkNpVm9iM2NnYldGdWVTQmtZWGx6SUhWdWRHbHNJSEpsZEdseVpXMWxiblFnWVdkbElEWTFFQUI5cXFtWlBnIiwicXVlc3Rpb24iOiJDYW4gSSByZXRpcmUgYXQgNjUgYW5kIGNvbGxlY3QgU29jaWFsIFNlY3VyaXR5PyIsImxrIjoiR2k1allXNGdhU0J5WlhScGNtVWdZWFFnTmpVZ1lXNWtJR052Ykd4bFkzUWdjMjlqYVdGc0lITmxZM1Z5YVhSNSIsImJzIjoiYzNXT3NRckNNQlJGY2Mza3BDVXFYTFNqYUtpMmF3VVhpNk9EYzRpaGZSQVRhRk5LXzlwUHNOaUNPblEtNTl6MzJKVnRzZ3JoVVlpdEVBTGF1am92NEIxSzdhblVrQjVKbkVZaFgxT3ZZVnhqQnphX3VBYkcyUnkxOVdTUVFUNF9Bd0dmRmYtSWVzUk9iSGt2V2pTU19FQ1MtTHVjQmk4VnJmaWlHVmVZWXZ1enROMnQzMmNnN1FQS0dhT1Z4ODBwa2dZM3JlcVNmSnRHZ3U5VWw5QjRVdlZKTlNUVHlScyIsImlkIjoiZmNfOVJjNmFwQ1RJOS16cXRzUDdOTE91QVFfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5UVlJXR1JCWm5KNGFuVjNWMDVQWTE5RlRXNXlOa0oxVldFMlpETnBORlZCTFVvelpVSmpRVmh4YUdZdE5sZHRNMDFXTjJGWVJqaDNlR1F5ZDBSUU5taG1VMTlZZVhBNGVXSndkMDVqZEVocWJ6TkJXWEJvUW5oYVFSSVhPVkpqTm1Gd1ExUkpPUzE2Y1hSelVEZE9URTkxUVZFYUlrRkVjM0k1WmxNM1QxSk9ZbHAzYkY5eVJYSjJTbDlUU0c5c1ZYSnNSWEJETlZFIiwiZmN2IjoiMyIsImVpIjoiOVJjNmFwQ1RJOS16cXRzUDdOTE91QVEiLCJxYyI6IkNpVm9iM2NnYldGdWVTQmtZWGx6SUhWdWRHbHNJSEpsZEdseVpXMWxiblFnWVdkbElEWTFFQUI5cXFtWlBnIiwicXVlc3Rpb24iOiJDYW4gSSByZXRpcmUgYXQgNjUgYW5kIGNvbGxlY3QgU29jaWFsIFNlY3VyaXR5PyIsImxrIjoiR2k1allXNGdhU0J5WlhScGNtVWdZWFFnTmpVZ1lXNWtJR052Ykd4bFkzUWdjMjlqYVdGc0lITmxZM1Z5YVhSNSIsImJzIjoiYzNXT3NRckNNQlJGY2Mza3BDVXFYTFNqYUtpMmF3VVhpNk9EYzRpaGZSQVRhRk5LXzlwUHNOaUNPblEtNTl6MzJKVnRzZ3JoVVlpdEVBTGF1am92NEIxSzdhblVrQjVKbkVZaFgxT3ZZVnhqQnphX3VBYkcyUnkxOVdTUVFUNF9Bd0dmRmYtSWVzUk9iSGt2V2pTU19FQ1MtTHVjQmk4VnJmaWlHVmVZWXZ1enROMnQzMmNnN1FQS0dhT1Z4ODBwa2dZM3JlcVNmSnRHZ3U5VWw5QjRVdlZKTlNUVHlScyIsImlkIjoiZmNfOVJjNmFwQ1RJOS16cXRzUDdOTE91QVFfMyJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "RzNdcHicxVbbkrI4EL7f91huHEWUUZwq6q9w0MEzHsZlbigOMR44KEEZvfvfZZ9qn2MfYAMDIzo4U_tXbW0sEhI6_XV3-kv7809n7W3_-u3vVRju8BNNR1FUQb6PHFixfJc28Mmz6KXv4MBa_cD-IbDg2uatVeC7kDod-TplYb5KwTXfmlgNYyfOlFb5vA_xuDnsjw5ApRIVvG4aGG4IwtsG0zpNuu3vdYlMKrgCvcp4PmMEptn7Q7UqtSrTqoxowyUC4D9sMlBQPCrkJyfz2yaQ7-p3WkQgkh7lllCuT5sUwwAgiskA_HvahMQKEQhyjCvogxZHhndxCd3bBcD0erpILANRrJC4IBc6UaQuW8sMFO7gFZuSwMzTCZv78Dm0cSPRyIe3R9SywAJgki6MMrk8HEIykLL152g0EEby5KtDIs53BoDbjkXlC6nYeiWI2ul7NNQIKG0jkoNV2gzIwNBra2UlLwGOU1Octaq-jJR99-VonQbybCFpQy50uq8T5syONhFtmUTO8Q0b2vpKr_5I5kyNeay26k3uIeGEhT9IgfOkQAOtHx0iRinLlX5FYHKMSLxVrs6ARJLkTLFfvaS_Okkxe0mSMlElftoR76nFAhe9wuwUow-yKMVHNAef4hpjFTAih3kBTzNXbF8cu9akpPB574ToBvECkKaCBnrqh8symV4Zl1cmgG1yB3SyhYvuWCtykgsiZoScKhxl-5Me5Q2LbxIVCR_Iat66x5y9CAhJxDcn0nWBL2a3ULxFSYPQi63L53bnlkmYGIHRnYP_rt29hXJ2Zrl_k8pXFHAi8SyOZ9KZYTncszvPUhTp9l7i6mpxyvuu-S8KgfX_kiIrE730gNqFpFC_IYUsCl-WiXdx6YMUyXx_jxSCUlQm3m_cS5n4TIrpNSnul4kcKVDqVV7rLSmEO6RAqW8FpJgXkGJbSIq0TORIsWLVqzLxDvZRJjJS_FKZOP5KmUgoAt-H65px2KC7taPdhQasKu3nPrc5hsYUWtxZ0DVV0Cbo29qxdMMn17CdB31tPwm1bniyH3Sy4D9Bm9rzKz8quYZ3KtnGCZcOXrh2SgEM1wF0oReWDARLjUfKdQKfrxqPSo3t79WXZdQw55LW3i7atdlwGT0fXlsD53CW2Ek5Uq3VoLsNNdbYaS1Nm3twrqxnzzX2tQoO3bGtdFWujvuzcrWxm0575dZCP8LFoonf2ubwzd6N7cc56NTxXtv0tsvl0Zs2Gy-efdDOrMGNwxEGAftybluSx8iJYZiXOhtXHQ3hW21OEdcw5BnKDSyeJASLwFAFC0T-L4gaUEVEHp88EUkVCluGDvGRN02zaTcYyNl106w3IeWi8LTjWYbCXsAz_wBFsh5C",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RzNdcHicxVbbkrI4EL7f91huHEWUUZwq6q9w0MEzHsZlbigOMR44KEEZvfvfZZ9qn2MfYAMDIzo4U_tXbW0sEhI6_XV3-kv7809n7W3_-u3vVRju8BNNR1FUQb6PHFixfJc28Mmz6KXv4MBa_cD-IbDg2uatVeC7kDod-TplYb5KwTXfmlgNYyfOlFb5vA_xuDnsjw5ApRIVvG4aGG4IwtsG0zpNuu3vdYlMKrgCvcp4PmMEptn7Q7UqtSrTqoxowyUC4D9sMlBQPCrkJyfz2yaQ7-p3WkQgkh7lllCuT5sUwwAgiskA_HvahMQKEQhyjCvogxZHhndxCd3bBcD0erpILANRrJC4IBc6UaQuW8sMFO7gFZuSwMzTCZv78Dm0cSPRyIe3R9SywAJgki6MMrk8HEIykLL152g0EEby5KtDIs53BoDbjkXlC6nYeiWI2ul7NNQIKG0jkoNV2gzIwNBra2UlLwGOU1Octaq-jJR99-VonQbybCFpQy50uq8T5syONhFtmUTO8Q0b2vpKr_5I5kyNeay26k3uIeGEhT9IgfOkQAOtHx0iRinLlX5FYHKMSLxVrs6ARJLkTLFfvaS_Okkxe0mSMlElftoR76nFAhe9wuwUow-yKMVHNAef4hpjFTAih3kBTzNXbF8cu9akpPB574ToBvECkKaCBnrqh8symV4Zl1cmgG1yB3SyhYvuWCtykgsiZoScKhxl-5Me5Q2LbxIVCR_Iat66x5y9CAhJxDcn0nWBL2a3ULxFSYPQi63L53bnlkmYGIHRnYP_rt29hXJ2Zrl_k8pXFHAi8SyOZ9KZYTncszvPUhTp9l7i6mpxyvuu-S8KgfX_kiIrE730gNqFpFC_IYUsCl-WiXdx6YMUyXx_jxSCUlQm3m_cS5n4TIrpNSnul4kcKVDqVV7rLSmEO6RAqW8FpJgXkGJbSIq0TORIsWLVqzLxDvZRJjJS_FKZOP5KmUgoAt-H65px2KC7taPdhQasKu3nPrc5hsYUWtxZ0DVV0Cbo29qxdMMn17CdB31tPwm1bniyH3Sy4D9Bm9rzKz8quYZ3KtnGCZcOXrh2SgEM1wF0oReWDARLjUfKdQKfrxqPSo3t79WXZdQw55LW3i7atdlwGT0fXlsD53CW2Ek5Uq3VoLsNNdbYaS1Nm3twrqxnzzX2tQoO3bGtdFWujvuzcrWxm0575dZCP8LFoonf2ubwzd6N7cc56NTxXtv0tsvl0Zs2Gy-efdDOrMGNwxEGAftybluSx8iJYZiXOhtXHQ3hW21OEdcw5BnKDSyeJASLwFAFC0T-L4gaUEVEHp88EUkVCluGDvGRN02zaTcYyNl106w3IeWi8LTjWYbCXsAz_wBFsh5C"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Online Conversion - How many days until you retire",
+      "link": "https://www.onlineconversion.com/days_until_retire.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onlineconversion.com/days_until_retire.htm&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQFnoECBwQAQ",
+      "displayed_link": "https://www.onlineconversion.com › days_until_retire",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAgVBMVEX____d3d3AwMDX19eGhoZ3d3fMzMyWlpaZmZlVVVWysrJmZmbx8fHq6uqZzJnA3MCZzGbv1sbMmZmZmTPMzJnMZjPMMwD_MwCAgACZZgDMZmbMmWb_zJnMMzOZMwD_ZjOZmWagoKT_zGaZZmb_mWZmZjOZMzOZZjOZmQDMmQCtqZA9Equ3AAABX0lEQVR4AWIgAwB6JY_ECGEgCBpoobgZhEHgzfH_D_SMxeZwdJHposVhkjRNsw8xGCHyN3kOqQgptHmZZ5BgpLT2VYeDtMjcwJChMXgWDKxxTAb1apEBhHIRwxXuqUBYyiJQt3-RDEd8kbxAj7lbYzTWGWmwg5gmSZJLaNXHk8l0piWdLTgd5AUxBfqfmJS-qqrvms6-4a-LEIq2bSGjMOkqwv9QTkzdoLgRBiQEej2fz6tINyjaScH5RSjvhGrKIVMAUfDVHWXbEyS0_PogLJZWq08CltouPwgB0HFourvchxXHqyBohfWf0NwLJqyIzUJKva0NC9M7YSfCZrMJCyir63oxIMF1twUQehGCgIImoa_wtwVKAlCU7_f7ut4nXNFcDC8gZJzp7eF4pIoTVwwa7_1u13m_T2moCGuFMqcFlSziKJoFTJ4qGEeDb6RcmoyrkzznK-MoofPNw3_yC5wDK-9mgbxaAAAAAElFTkSuQmCC.png",
+      "snippet": "Determine how many days until your retirement ... Enter the age will you retire at: 30, 35, 40, 45, 50, 51, 52, 53, 54, 55, 55 , 56, 57, 58, 59, 60, 61, 62, 63 ...",
+      "snippet_highlighted_words": [
+        "how many days until",
+        "retirement",
+        "age",
+        "retire"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Determine how many days until your retirement ... Enter the age will you retire at: 30, 35, 40, 45, 50, 51, 52, 53, 54, 55, 55  , 56, 57, 58, 59, 60, 61, 62, 63 ...",
+          "source_info_link": "https://www.onlineconversion.com/days_until_retire.htm",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAgVBMVEX____d3d3AwMDX19eGhoZ3d3fMzMyWlpaZmZlVVVWysrJmZmbx8fHq6uqZzJnA3MCZzGbv1sbMmZmZmTPMzJnMZjPMMwD_MwCAgACZZgDMZmbMmWb_zJnMMzOZMwD_ZjOZmWagoKT_zGaZZmb_mWZmZjOZMzOZZjOZmQDMmQCtqZA9Equ3AAABX0lEQVR4AWIgAwB6JY_ECGEgCBpoobgZhEHgzfH_D_SMxeZwdJHposVhkjRNsw8xGCHyN3kOqQgptHmZZ5BgpLT2VYeDtMjcwJChMXgWDKxxTAb1apEBhHIRwxXuqUBYyiJQt3-RDEd8kbxAj7lbYzTWGWmwg5gmSZJLaNXHk8l0piWdLTgd5AUxBfqfmJS-qqrvms6-4a-LEIq2bSGjMOkqwv9QTkzdoLgRBiQEej2fz6tINyjaScH5RSjvhGrKIVMAUfDVHWXbEyS0_PogLJZWq08CltouPwgB0HFourvchxXHqyBohfWf0NwLJqyIzUJKva0NC9M7YSfCZrMJCyir63oxIMF1twUQehGCgIImoa_wtwVKAlCU7_f7ut4nXNFcDC8gZJzp7eF4pIoTVwwa7_1u13m_T2moCGuFMqcFlSziKJoFTJ4qGEeDb6RcmoyrkzznK-MoofPNw3_yC5wDK-9mgbxaAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.onlineconversion.com/days_until_retire.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.onlineconversion.com%2Fdays_until_retire.htm",
+      "source": "Online Conversion",
+      "read_more_link": "https://www.onlineconversion.com/days_until_retire.htm#:~:text=Enter%20the%20age%20will%20you,retire%20at%3A"
+    },
+    {
+      "position": 2,
+      "title": "Retirement Countdown Calculator",
+      "link": "https://www.omnicalculator.com/everyday-life/retirement-countdown",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.omnicalculator.com/everyday-life/retirement-countdown&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQFnoECBkQAQ",
+      "displayed_link": "https://www.omnicalculator.com › everyday-life › retire...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz8YXX8SWD8RV78RV38TmT8QFn8U2lCbfo-avpEbvpKc_o7aPpAbPo_a_r8R1_LvM1BbPpIcvpAbPo9avr8RFxFb_pPd_pjhvlIcfr8dIb60Cz6zh76zh36zRf6zA_6zA7510r6zh360Cn61DzYpcloAAAAJXRSTlMAFWuqzkr_Lonjczn_v86KBKZPtPjjXiUNRQgvbaDP__8LjkkVqtFInQAAAPBJREFUeAFt0QWWhEAMRdGPywRacNf9r3Eq5HQYqXsEeUgJlON6vu-7sAj8UET4y-GkMU5S3KLwBnwRUWZtHpCRkUM4n-A_XBd40uUl0ZfkORC51DeMQFoAVRArYVTaVEas_ozmAcVKGRMeIXuCNWktJymxFr5MgMX8pwZGS6yTX7owOmIJWEJGCte0qofxokujQ4qBZ8_JHpXts8AwToN9QMC8rOtinwq2xVh3-yI854Ud1uXDsUq1LvxzlnpCvBPdMuNcLgNQp-mrJPGCGHhIM0_llgNaV34xIZXhdu4Hz1yl-Etj3OK_Os_zIu6gvgFLyRf2XteplQAAAABJRU5ErkJggg.png",
+      "snippet": "Wondering how many days until freedom? Our retirement countdown calculator is here to help you calculate the exact number of days until your retirement.",
+      "snippet_highlighted_words": [
+        "retirement countdown calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Wondering how many days until freedom? Our retirement countdown calculator is here to help you calculate the exact number of days until your retirement.",
+          "source_info_link": "https://www.omnicalculator.com/everyday-life/retirement-countdown",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz8YXX8SWD8RV78RV38TmT8QFn8U2lCbfo-avpEbvpKc_o7aPpAbPo_a_r8R1_LvM1BbPpIcvpAbPo9avr8RFxFb_pPd_pjhvlIcfr8dIb60Cz6zh76zh36zRf6zA_6zA7510r6zh360Cn61DzYpcloAAAAJXRSTlMAFWuqzkr_Lonjczn_v86KBKZPtPjjXiUNRQgvbaDP__8LjkkVqtFInQAAAPBJREFUeAFt0QWWhEAMRdGPywRacNf9r3Eq5HQYqXsEeUgJlON6vu-7sAj8UET4y-GkMU5S3KLwBnwRUWZtHpCRkUM4n-A_XBd40uUl0ZfkORC51DeMQFoAVRArYVTaVEas_ozmAcVKGRMeIXuCNWktJymxFr5MgMX8pwZGS6yTX7owOmIJWEJGCte0qofxokujQ4qBZ8_JHpXts8AwToN9QMC8rOtinwq2xVh3-yI854Ud1uXDsUq1LvxzlnpCvBPdMuNcLgNQp-mrJPGCGHhIM0_llgNaV34xIZXhdu4Hz1yl-Etj3OK_Os_zIu6gvgFLyRf2XteplQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.omnicalculator.com/everyday-life/retirement-countdown&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.omnicalculator.com%2Feveryday-life%2Fretirement-countdown",
+      "source": "Omni Calculator"
+    },
+    {
+      "position": 3,
+      "title": "Date Calculator",
+      "link": "https://web.stanford.edu/~reneeb/dateCalculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://web.stanford.edu/~reneeb/dateCalculator.html&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQFnoECBgQAQ",
+      "displayed_link": "https://web.stanford.edu › ~reneeb › dateCalculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEX____________MrKzIoqLRvLrCl5bcysm5jIv49PSMGRuFAAGYXVqQR0WHLy6JDxH17-_s39-ufnyacG92AQEToFrWAAAAAnRSTlPP4e381FcAAAD6SURBVHgBfdNXgkMhCAXQBBAR7OP-1zqaqT6T3E-PXbnd7i8zDV7m_odI33EnspfveLpgEKdmFpOZZY87si9F1VBMtWTH_7FiLjrTvOnURPU_0qMxhvroZBQOtNhCt5lnyB6CY0QkPjF1qELCLARXLOsEDYUbwBVLwg6BWuzSdpQ4NUsNlNR6b_slSColegg9l6XhPwJKsujWmuugWDcE7OwagPuYZrSh9x55jUTJV6xMiLS2EdgORDOjRjg1FTW-oGYZAymJt2PadQI1pGFZrW8jQfxUHZ7Hemzk_Q-RUxsMNc-hiOcH-_p2SI6efk2eIUI48cz9bTl8AmK4EHw_BMbnAAAAAElFTkSuQmCC.png",
+      "snippet": "Need 900 months to be eligible to retire or 27394 days total to retire Retirement Date Time until eligible for retirement Years",
+      "snippet_highlighted_words": [
+        "27394 days total to retire"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Need 900 months to be eligible to retire or 27394 days total to retire Retirement Date Time until eligible for retirement Years",
+          "source_info_link": "https://web.stanford.edu/~reneeb/dateCalculator.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEX____________MrKzIoqLRvLrCl5bcysm5jIv49PSMGRuFAAGYXVqQR0WHLy6JDxH17-_s39-ufnyacG92AQEToFrWAAAAAnRSTlPP4e381FcAAAD6SURBVHgBfdNXgkMhCAXQBBAR7OP-1zqaqT6T3E-PXbnd7i8zDV7m_odI33EnspfveLpgEKdmFpOZZY87si9F1VBMtWTH_7FiLjrTvOnURPU_0qMxhvroZBQOtNhCt5lnyB6CY0QkPjF1qELCLARXLOsEDYUbwBVLwg6BWuzSdpQ4NUsNlNR6b_slSColegg9l6XhPwJKsujWmuugWDcE7OwagPuYZrSh9x55jUTJV6xMiLS2EdgORDOjRjg1FTW-oGYZAymJt2PadQI1pGFZrW8jQfxUHZ7Hemzk_Q-RUxsMNc-hiOcH-_p2SI6efk2eIUI48cz9bTl8AmK4EHw_BMbnAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://web.stanford.edu/~reneeb/dateCalculator.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fweb.stanford.edu%2F~reneeb%2FdateCalculator.html",
+      "source": "Stanford University"
+    },
+    {
+      "position": 4,
+      "title": "Retirement Age Calculator: Time Until Your Retirement",
+      "link": "https://time.now/age/retirement/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://time.now/age/retirement/&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQFnoECBoQAQ",
+      "displayed_link": "https://time.now › Home › Age Calculators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEVHcEzaEyn-AwjwBhf2BA_pCyXhDC_eEzngFDjdEyvXFDjkMkXSh5DcrrPbur3SFzXl5-ft8PD29valp6fXWWf9_v76-_vBtbfY1NXJBCXLGTDQQFfYm6XlcIPFHC2vNEG-Him6Hya8ISbx1NdOAAAAI3RSTlMAJan______6lh_v_____________________________sqX2Qsh8AAAFFSURBVHgBZdEFlgMhEEVRIlQMgnVBW3T_i5wPxfg7ErkHV0pttrs92tV0i4gOx41CJ8BPo2bohHHfpqVDI7RR20_r1Ukbn89H9b3exdjr1ZoLEAGdEgNZH2JKMXh7IVBNie0HH7znlNjjy0CVXB3ZLWbPpbDPUdQBZc5qiDkj6EVwV7MhjlAJX4OdYLPqA3MGsmDOwS8d9c70SVEfHMzkZkEbWYqxKedop7mi1rtrWm-1dViqckmpNNQNzVIzw7BCO97vDW3MQTJ0k2k7ItkQI7-QYdnQvSHpfhTE3tHKOMpj7kj6-xJ4PNOaQ6kDn0oT-nF9fD0bj4Gwp2qvRz8unsfRDxNMkES_n0ysojw7LV-PXR5iwIPgmabF2FKKeUxzt5c6VkLu7KbWHUHQW20EXW1GYq2NUqdunb7tpNDm6P7b641xH5lcMDfap_AmAAAAAElFTkSuQmCC.png",
+      "snippet": "Plan your future with our retirement age calculator. See exactly how many years, months, and days remain until you reach your retirement goal.",
+      "snippet_highlighted_words": [
+        "retirement age calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Plan your future with our retirement age calculator. See exactly how many years, months, and days remain until you reach your retirement goal.",
+          "source_info_link": "https://time.now/age/retirement/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEVHcEzaEyn-AwjwBhf2BA_pCyXhDC_eEzngFDjdEyvXFDjkMkXSh5DcrrPbur3SFzXl5-ft8PD29valp6fXWWf9_v76-_vBtbfY1NXJBCXLGTDQQFfYm6XlcIPFHC2vNEG-Him6Hya8ISbx1NdOAAAAI3RSTlMAJan______6lh_v_____________________________sqX2Qsh8AAAFFSURBVHgBZdEFlgMhEEVRIlQMgnVBW3T_i5wPxfg7ErkHV0pttrs92tV0i4gOx41CJ8BPo2bohHHfpqVDI7RR20_r1Ukbn89H9b3exdjr1ZoLEAGdEgNZH2JKMXh7IVBNie0HH7znlNjjy0CVXB3ZLWbPpbDPUdQBZc5qiDkj6EVwV7MhjlAJX4OdYLPqA3MGsmDOwS8d9c70SVEfHMzkZkEbWYqxKedop7mi1rtrWm-1dViqckmpNNQNzVIzw7BCO97vDW3MQTJ0k2k7ItkQI7-QYdnQvSHpfhTE3tHKOMpj7kj6-xJ4PNOaQ6kDn0oT-nF9fD0bj4Gwp2qvRz8unsfRDxNMkES_n0ysojw7LV-PXR5iwIPgmabF2FKKeUxzt5c6VkLu7KbWHUHQW20EXW1GYq2NUqdunb7tpNDm6P7b641xH5lcMDfap_AmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://time.now/age/retirement/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftime.now%2Fage%2Fretirement%2F",
+      "source": "Time.now"
+    },
+    {
+      "position": 5,
+      "title": "Benefits Planner: Retirement | Retirement Age Calculator",
+      "link": "https://www.ssa.gov/benefits/retirement/planner/ageincrease.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ssa.gov/benefits/retirement/planner/ageincrease.html&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQFnoECCAQAQ",
+      "displayed_link": "https://www.ssa.gov › retirement › planner › ageincrease",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAt1BMVEUAKlwAJVkAJ1oAJloAIVgADE9NXn5EVnkAAE0AHFUAHlZVZYQwRm4hO2Y9UHXi5eqSm62jqrny9PZxfZWJkqa4vcjY3OI5TXP___8AAEtlc44TMmEAGFQAAEkACU8AE1KwtsNebIkAKl3p7PAAFlPDydNJW3x6hZycpLTQ1NwAAEcLL2AAAD8AKl5OKFJ5JkiSJEKaJD6IJUVvJktiJ0yqIzm-ITHVHybfHyLJICwiKVm3IjQrKVhlSfUiAAABRklEQVR4AWIYZgDAA1UYOAzDQDmxwky9oMP03_3HK7e2mCUhPlz7GPSfS7JhWhaR7biexS-Lr33TgjCKw4TtNMzyouCH5YLy47SSitlFWUM2bRx2RKrHIF8-TUfKYzupCrWtyamjcV6ShT-ZQGrxKjxMRqkMQc62xbDfXWUFYO80FQHT1hLxoTxk9nvsRt8TTI1UXg8sneYv9RiG5ctneqI5Y2yuJpR1wFNx3vc5Ls_dnaxnohNZnjokA5htcTZziV49nSl81cz4i5Oy4QH_VX4StTlaQSTTcIqjorLiY9r3wt-BvLGjBJP79HaWuSpJNs9G0AnbshoipytZfO4sxuvjjUK_1y4WBwADIRCkFt6Rc7T_tuL-z-Cy8AVhGEOMMeUB1heEByWElEKsjZilLi-K68-h7E-0BCNeIAvZ4cMuUcC1_MYMvrsjnedaqocAAAAASUVORK5CYII.png",
+      "snippet": "You can find your full retirement age by choosing your birth year in the calculator below, or by using our retirement age chart.",
+      "snippet_highlighted_words": [
+        "retirement age",
+        "in",
+        "retirement age"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You can find your full retirement age by choosing your birth year in the calculator below, or by using our retirement age chart.",
+          "source_info_link": "https://www.ssa.gov/benefits/retirement/planner/ageincrease.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAt1BMVEUAKlwAJVkAJ1oAJloAIVgADE9NXn5EVnkAAE0AHFUAHlZVZYQwRm4hO2Y9UHXi5eqSm62jqrny9PZxfZWJkqa4vcjY3OI5TXP___8AAEtlc44TMmEAGFQAAEkACU8AE1KwtsNebIkAKl3p7PAAFlPDydNJW3x6hZycpLTQ1NwAAEcLL2AAAD8AKl5OKFJ5JkiSJEKaJD6IJUVvJktiJ0yqIzm-ITHVHybfHyLJICwiKVm3IjQrKVhlSfUiAAABRklEQVR4AWIYZgDAA1UYOAzDQDmxwky9oMP03_3HK7e2mCUhPlz7GPSfS7JhWhaR7biexS-Lr33TgjCKw4TtNMzyouCH5YLy47SSitlFWUM2bRx2RKrHIF8-TUfKYzupCrWtyamjcV6ShT-ZQGrxKjxMRqkMQc62xbDfXWUFYO80FQHT1hLxoTxk9nvsRt8TTI1UXg8sneYv9RiG5ctneqI5Y2yuJpR1wFNx3vc5Ls_dnaxnohNZnjokA5htcTZziV49nSl81cz4i5Oy4QH_VX4StTlaQSTTcIqjorLiY9r3wt-BvLGjBJP79HaWuSpJNs9G0AnbshoipytZfO4sxuvjjUK_1y4WBwADIRCkFt6Rc7T_tuL-z-Cy8AVhGEOMMeUB1heEByWElEKsjZilLi-K68-h7E-0BCNeIAvZ4cMuUcC1_MYMvrsjnedaqocAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ssa.gov/benefits/retirement/planner/ageincrease.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ssa.gov%2Fbenefits%2Fretirement%2Fplanner%2Fageincrease.html",
+      "source": "Social Security Administration (.gov)",
+      "read_more_link": "https://www.ssa.gov/benefits/retirement/planner/ageincrease.html#:~:text=You%20can%20find%20your%20full,using%20our%20retirement%20age%20chart."
+    },
+    {
+      "position": 6,
+      "title": "Counting down to retirement",
+      "link": "https://www.facebook.com/groups/epicretire/posts/1916111549326174/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/epicretire/posts/1916111549326174/&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQFnoECEYQAQ",
+      "displayed_link": "40+ comments · 8 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "I just was looking at the calendar, and if I'm counting correctly, I have 100 working days until retirement. Not that I'm counting.",
+      "about_this_result": {
+        "source": {
+          "description": "I have 117 calendar days until retirement! 341weeks/ 2491 days 76 working days left until I retire at 65yrs. Many US workers are postponing  ...",
+          "source_info_link": "https://www.facebook.com/groups/epicretire/posts/1916111549326174/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/epicretire/posts/1916111549326174/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fepicretire%2Fposts%2F1916111549326174%2F",
+      "source": "Facebook · The Epic Retirement Club"
+    },
+    {
+      "position": 7,
+      "title": "Retirement Countdown Calculator - How Many ...",
+      "link": "https://days.to/retirement-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://days.to/retirement-calculator&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQFnoECDsQAQ",
+      "displayed_link": "https://days.to › Calculators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEVHcEz0AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAAAAAAAAAAAAAD_AAAAAAAAAAAAAAAAAAAAAAAAAADA_NwnAAAAHHRSTlMACDTrZRVYdo_v6CPKot69PrAhutvW7Wk6xZ8QlskJpQAAAQtJREFUeAF0kQcOxCAMBDFLiU1o18v__3lRCDqlrQrgwV2tRFqdS8PQIbDa-YFlCHtEbhjBEJGBtizExGBmQS60ZRnCo9eO6xyVwoohmclDx-aWs-2MIpDnJpaIkRF7cJMkzXEu12vraDK4xmwEt-vldlu-M2ILXO7ItIY04l7mm2M2ag2V5xaMpoveQs3sqcF72MJwP4CP23MLe1h6vR-Pz4v-YZXpBU36Pt-P26vZVq20Eb0-n4ui3FuxEeIam50vU3eCaP_jo9VyJ0PPZCv3wI1ldMe-MkcLcgnIq4WySHU6BO2qCHe20JoAxjiCgVQ7W2RNvPOsezRWbWWL8XHwpmxQF1lL6jdiAQABrwx1tPWGrAAAAABJRU5ErkJggg.png",
+      "snippet": "The calculator shows days, weeks, months, and working days remaining until you retire. Enter your retirement date above and the calculator will show both ...",
+      "snippet_highlighted_words": [
+        "days, weeks, months, and working days remaining until you retire"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The calculator shows days, weeks, months, and working days remaining until you retire. Enter your retirement date above and the calculator will show both ...",
+          "source_info_link": "https://days.to/retirement-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEVHcEz0AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAAAAAAAAAAAAAD_AAAAAAAAAAAAAAAAAAAAAAAAAADA_NwnAAAAHHRSTlMACDTrZRVYdo_v6CPKot69PrAhutvW7Wk6xZ8QlskJpQAAAQtJREFUeAF0kQcOxCAMBDFLiU1o18v__3lRCDqlrQrgwV2tRFqdS8PQIbDa-YFlCHtEbhjBEJGBtizExGBmQS60ZRnCo9eO6xyVwoohmclDx-aWs-2MIpDnJpaIkRF7cJMkzXEu12vraDK4xmwEt-vldlu-M2ILXO7ItIY04l7mm2M2ag2V5xaMpoveQs3sqcF72MJwP4CP23MLe1h6vR-Pz4v-YZXpBU36Pt-P26vZVq20Eb0-n4ui3FuxEeIam50vU3eCaP_jo9VyJ0PPZCv3wI1ldMe-MkcLcgnIq4WySHU6BO2qCHe20JoAxjiCgVQ7W2RNvPOsezRWbWWL8XHwpmxQF1lL6jdiAQABrwx1tPWGrAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://days.to/retirement-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdays.to%2Fretirement-calculator",
+      "source": "Days.To"
+    },
+    {
+      "position": 8,
+      "title": "Retirement Countdown - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=kulana.tools.retirementcountdown&hl=en_US",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dkulana.tools.retirementcountdown%26hl%3Den_US&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQFnoECEEQAQ",
+      "displayed_link": "https://play.google.com › store › apps › details › id=kula...",
+      "favicon": "https://serpapi.com/searches/6a3a17edd2d7408f61756d01/images/HExnfyjtOifQKHRsdbnwSkFVoiCdcVowJjuh0y3xGJU.png",
+      "snippet": "The Retirement Countdown App is your personal retirement calculator. Just key in your retirement date and time and watch as our app ticks away.",
+      "snippet_highlighted_words": [
+        "Just key in your retirement date and time"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "reviews": 15873
+          },
+          "extensions": [
+            "4.7(15,873)",
+            "Free",
+            "Android",
+            "Lifestyle"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Retirement Countdown App is your personal retirement calculator. Just key in your retirement date and time and watch as our app ticks away.",
+          "source_info_link": "https://play.google.com/store/apps/details?id=kulana.tools.retirementcountdown&hl=en_US",
+          "icon": "https://serpapi.com/searches/6a3a17edd2d7408f61756d01/images/HExnfyjtOifQKHRsdbnwSnqXVAlX43BKdFc0bGO83G2LlVGdSfxIxFFnP8apM7Ln.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://play.google.com/store/apps/details?id=kulana.tools.retirementcountdown&hl=en_US&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dkulana.tools.retirementcountdown%26hl%3Den_US",
+      "source": "Google Play",
+      "read_more_link": "https://play.google.com/store/apps/details?id=kulana.tools.retirementcountdown&hl=en_US#:~:text=Updated%20on"
+    },
+    {
+      "position": 9,
+      "title": "Working Days to Retire",
+      "link": "https://www.yourmoneypage.com/retire/retirecnt.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yourmoneypage.com/retire/retirecnt.php&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQFnoECD4QAQ",
+      "displayed_link": "https://www.yourmoneypage.com › retire › retirecnt",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAvVBMVEX____z8_MAAAAxMQAsLAC7vr3Kzs6IiAD__wCiojG2tgCbm6uLi5bIyAAAACTp6QCIiHF5fX3o6OjY29tMAABoAAB5iYi_BCzpIUPEAClzfn2VQ03WGDriIEF-SU-aoqGqABzuIkTbFDhOYmCcnZ1OUFAjAABqAAAAFRS_x8aHAAz1HkOJXmJ4AADs7u7g4_L09fsDQbgsU7xAYMAWR7k4AACSoNY4Wr6tt-B9dna4BiudAB2roqOImNQqBgwzsZEJAAAA3UlEQVR4AY3PBQ6EUAxF0f5xN2zc3R1n_7tCf5HGOJGb5sUKHCsUS2nFQhlilWotq15JxgLZGk3IN7badGwlY4ds3R5LxgLVh1wGgm9AgvqiJIl9EiQrw-FoTMJVJtPZdD7IRMBxsVwN1xsStC34diR5MCFAgsr7g3Q4kqDTeTW8HEm4wVWZDW-VeyY4CofVcFUgQUIhQJLLIwAgBPBCz9f7_X49WcH_oMD4Bej9-Xy-T_ithqsfw4v7q5-PqoFuzGamBXZ0If_6vB9QuAxXkgDf6EIfPjqOUxDgnRk9JfopjomjW6wAAAAASUVORK5CYII.png",
+      "snippet": "This calculator will enable you to calculate how many working days until you retire. It will also show you the TOTAL days until you retire.",
+      "snippet_highlighted_words": [
+        "how many working days until you retire"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator will enable you to calculate how many working days until you retire. It will also show you the TOTAL days until you retire.",
+          "source_info_link": "https://www.yourmoneypage.com/retire/retirecnt.php",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAvVBMVEX____z8_MAAAAxMQAsLAC7vr3Kzs6IiAD__wCiojG2tgCbm6uLi5bIyAAAACTp6QCIiHF5fX3o6OjY29tMAABoAAB5iYi_BCzpIUPEAClzfn2VQ03WGDriIEF-SU-aoqGqABzuIkTbFDhOYmCcnZ1OUFAjAABqAAAAFRS_x8aHAAz1HkOJXmJ4AADs7u7g4_L09fsDQbgsU7xAYMAWR7k4AACSoNY4Wr6tt-B9dna4BiudAB2roqOImNQqBgwzsZEJAAAA3UlEQVR4AY3PBQ6EUAxF0f5xN2zc3R1n_7tCf5HGOJGb5sUKHCsUS2nFQhlilWotq15JxgLZGk3IN7badGwlY4ds3R5LxgLVh1wGgm9AgvqiJIl9EiQrw-FoTMJVJtPZdD7IRMBxsVwN1xsStC34diR5MCFAgsr7g3Q4kqDTeTW8HEm4wVWZDW-VeyY4CofVcFUgQUIhQJLLIwAgBPBCz9f7_X49WcH_oMD4Bej9-Xy-T_ithqsfw4v7q5-PqoFuzGamBXZ0If_6vB9QuAxXkgDf6EIfPjqOUxDgnRk9JfopjomjW6wAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.yourmoneypage.com/retire/retirecnt.php&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.yourmoneypage.com%2Fretire%2Fretirecnt.php",
+      "source": "YourMoneyPage",
+      "read_more_link": "https://www.yourmoneypage.com/retire/retirecnt.php#:~:text=This%20calculator%20will%20enable%20you,TOTAL%20days%20until%20you%20retire."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "How many days until retirement age 65 calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+many+days+until+retirement+age+65+calculator&sa=X&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+days+until+retirement+age+65+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "How many working days until I retire app",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+many+working+days+until+I+retire+app&sa=X&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+working+days+until+I+retire+app"
+    },
+    {
+      "block_position": 1,
+      "query": "How many working days until I retire app free",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+many+working+days+until+I+retire+app+free&sa=X&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+working+days+until+I+retire+app+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Working days till retirement calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Working+days+till+retirement+calculator&sa=X&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Working+days+till+retirement+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Working days till retirement calculator free",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Working+days+till+retirement+calculator+free&sa=X&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Working+days+till+retirement+calculator+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Countdown to retirement calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Countdown+to+retirement+calculator&sa=X&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Countdown+to+retirement+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Best free retirement countdown Clock",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Best+free+retirement+countdown+Clock&sa=X&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+free+retirement+countdown+Clock"
+    },
+    {
+      "block_position": 1,
+      "query": "Best Retirement countdown Clock",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Best+Retirement+countdown+Clock&sa=X&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+Retirement+countdown+Clock"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+many+days+until+retirement+age+65&sca_esv=bbb7d61e8d3bb37e&ei=9Rc6apCTI9-zqtsP7NLOuAQ&start=10&sa=N&sstk=AU9db-DN8JhITr63kxdVKwHRsEmXFD6vSuKg97N9UWhf-Dl8Qv5iOxBcBbIdnVEaKOXE9G2DWXz476d7DDpKZOwwRFDm5mpF0Ruvuw&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ8NMDegQIMRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+many+days+until+retirement+age+65&sca_esv=bbb7d61e8d3bb37e&ei=9Rc6apCTI9-zqtsP7NLOuAQ&start=10&sa=N&sstk=AU9db-DN8JhITr63kxdVKwHRsEmXFD6vSuKg97N9UWhf-Dl8Qv5iOxBcBbIdnVEaKOXE9G2DWXz476d7DDpKZOwwRFDm5mpF0Ruvuw&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ8tMDegQIMRAE",
+      "3": "https://www.google.com/search?q=how+many+days+until+retirement+age+65&sca_esv=bbb7d61e8d3bb37e&ei=9Rc6apCTI9-zqtsP7NLOuAQ&start=20&sa=N&sstk=AU9db-DN8JhITr63kxdVKwHRsEmXFD6vSuKg97N9UWhf-Dl8Qv5iOxBcBbIdnVEaKOXE9G2DWXz476d7DDpKZOwwRFDm5mpF0Ruvuw&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ8tMDegQIMRAG",
+      "4": "https://www.google.com/search?q=how+many+days+until+retirement+age+65&sca_esv=bbb7d61e8d3bb37e&ei=9Rc6apCTI9-zqtsP7NLOuAQ&start=30&sa=N&sstk=AU9db-DN8JhITr63kxdVKwHRsEmXFD6vSuKg97N9UWhf-Dl8Qv5iOxBcBbIdnVEaKOXE9G2DWXz476d7DDpKZOwwRFDm5mpF0Ruvuw&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ8tMDegQIMRAI",
+      "5": "https://www.google.com/search?q=how+many+days+until+retirement+age+65&sca_esv=bbb7d61e8d3bb37e&ei=9Rc6apCTI9-zqtsP7NLOuAQ&start=40&sa=N&sstk=AU9db-DN8JhITr63kxdVKwHRsEmXFD6vSuKg97N9UWhf-Dl8Qv5iOxBcBbIdnVEaKOXE9G2DWXz476d7DDpKZOwwRFDm5mpF0Ruvuw&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ8tMDegQIMRAK",
+      "6": "https://www.google.com/search?q=how+many+days+until+retirement+age+65&sca_esv=bbb7d61e8d3bb37e&ei=9Rc6apCTI9-zqtsP7NLOuAQ&start=50&sa=N&sstk=AU9db-DN8JhITr63kxdVKwHRsEmXFD6vSuKg97N9UWhf-Dl8Qv5iOxBcBbIdnVEaKOXE9G2DWXz476d7DDpKZOwwRFDm5mpF0Ruvuw&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ8tMDegQIMRAM",
+      "7": "https://www.google.com/search?q=how+many+days+until+retirement+age+65&sca_esv=bbb7d61e8d3bb37e&ei=9Rc6apCTI9-zqtsP7NLOuAQ&start=60&sa=N&sstk=AU9db-DN8JhITr63kxdVKwHRsEmXFD6vSuKg97N9UWhf-Dl8Qv5iOxBcBbIdnVEaKOXE9G2DWXz476d7DDpKZOwwRFDm5mpF0Ruvuw&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ8tMDegQIMRAO",
+      "8": "https://www.google.com/search?q=how+many+days+until+retirement+age+65&sca_esv=bbb7d61e8d3bb37e&ei=9Rc6apCTI9-zqtsP7NLOuAQ&start=70&sa=N&sstk=AU9db-DN8JhITr63kxdVKwHRsEmXFD6vSuKg97N9UWhf-Dl8Qv5iOxBcBbIdnVEaKOXE9G2DWXz476d7DDpKZOwwRFDm5mpF0Ruvuw&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ8tMDegQIMRAQ",
+      "9": "https://www.google.com/search?q=how+many+days+until+retirement+age+65&sca_esv=bbb7d61e8d3bb37e&ei=9Rc6apCTI9-zqtsP7NLOuAQ&start=80&sa=N&sstk=AU9db-DN8JhITr63kxdVKwHRsEmXFD6vSuKg97N9UWhf-Dl8Qv5iOxBcBbIdnVEaKOXE9G2DWXz476d7DDpKZOwwRFDm5mpF0Ruvuw&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ8tMDegQIMRAS",
+      "10": "https://www.google.com/search?q=how+many+days+until+retirement+age+65&sca_esv=bbb7d61e8d3bb37e&ei=9Rc6apCTI9-zqtsP7NLOuAQ&start=90&sa=N&sstk=AU9db-DN8JhITr63kxdVKwHRsEmXFD6vSuKg97N9UWhf-Dl8Qv5iOxBcBbIdnVEaKOXE9G2DWXz476d7DDpKZOwwRFDm5mpF0Ruvuw&ved=2ahUKEwjQ4duAz5yVAxXfmWoFHWypE0cQ8tMDegQIMRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+many+days+until+retirement+age+65&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+many+days+until+retirement+age+65&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+many+days+until+retirement+age+65&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+many+days+until+retirement+age+65&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+many+days+until+retirement+age+65&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+many+days+until+retirement+age+65&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+many+days+until+retirement+age+65&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+many+days+until+retirement+age+65&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+many+days+until+retirement+age+65&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+many+days+until+retirement+age+65&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+many+days+until+retirement+age+65&start=90"
+    }
+  }
+}

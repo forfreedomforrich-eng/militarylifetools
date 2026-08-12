@@ -1,0 +1,426 @@
+{
+  "search_metadata": {
+    "id": "6a3a216188aca440f45e36ae",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/x_Dnn5msR9MOXKPIZvBfPg/6a3a216188aca440f45e36ae.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/x_Dnn5msR9MOXKPIZvBfPg/6a3a216188aca440f45e36ae.json_with_pixel_position",
+    "created_at": "2026-06-23 06:02:09 UTC",
+    "processed_at": "2026-06-23 06:02:09 UTC",
+    "google_url": "https://www.google.com/search?q=military+rank+abbreviation+chart&oq=military+rank+abbreviation+chart&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/x_Dnn5msR9MOXKPIZvBfPg/6a3a216188aca440f45e36ae.html",
+    "total_time_taken": 1.04
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military rank abbreviation chart",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military rank abbreviation chart",
+    "total_results": 126,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.yumpu.com/en/document/view/8550772/appendix-m-military-rank-civilian-pay-grade-abbreviations-and-",
+      "thumbnail": "https://serpapi.com/searches/6a3a216188aca440f45e36ae/images/5xCeQvoR_WC5aVTy9jKbpnYWjEoPAIR1mtKhBoc9UTw.jpeg",
+      "original": "https://www.yumpu.com/en/image/facebook/8550772.jpg",
+      "title": "APPENDIX M: Military Rank/Civilian Pay Grade Abbreviations ...",
+      "source_name": "YUMPU"
+    },
+    {
+      "source": "https://www.military.com/join-military/military-ranks-everything-you-need-know.html",
+      "thumbnail": "https://serpapi.com/searches/6a3a216188aca440f45e36ae/images/fsKPtRWn3arWTJXPmaOy7N_1QGf0lnY5xV-WTsGBIxo.jpeg",
+      "original": "https://static0.mltimages.com/wordpress/wp-content/uploads/2020-09/military-ranks-1800.jpg?q=49&fit=crop&w=825&dpr=2",
+      "title": "Military Ranks: Everything You Need to Know",
+      "source_name": "Military.com"
+    },
+    {
+      "source": "https://www.military.com/join-military/military-ranks-everything-you-need-know.html",
+      "thumbnail": "https://serpapi.com/searches/6a3a216188aca440f45e36ae/images/wKuIkx7xy8vFKtZ2XDqFfc3XUVInSKBI96MYhpNsatI.jpeg",
+      "original": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026-04/military%20promotion%20family%201800.jpg",
+      "title": "Military Ranks: Everything You Need to Know",
+      "source_name": "Military.com"
+    },
+    {
+      "source": "https://www.military.com/join-military/military-ranks-everything-you-need-know.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHhsEd4snJUQWTnpuqOu_uLib4-aHiFAnr6rGUNQHCTNEyK-Hr1uPy-uE&s",
+      "original": "https://static0.mltimages.com/wordpress/wp-content/uploads/2025-02/5300708.jpg?q=49&fit=crop&w=266&h=350&dpr=2",
+      "title": "Military Ranks: Everything You Need to Know",
+      "source_name": "Military.com"
+    },
+    {
+      "source": "https://www.military.com/join-military/military-ranks-everything-you-need-know.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuKttuUB2v2Z5ydL9NbBxNaKm313rasVbeDyVKppS5YLjvMwXWgJyXeNo&s",
+      "original": "https://static0.mltimages.com/wordpress/wp-content/uploads/2025-02/airnationalguardphoto.jpg?q=49&fit=crop&w=266&h=350&dpr=2",
+      "title": "Military Ranks: Everything You Need to Know",
+      "source_name": "Military.com"
+    },
+    {
+      "source": "https://www.military.com/join-military/military-ranks-everything-you-need-know.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfE4sguzy4V64wIyz5JDIgphRiSMGt2JobXTJN5lFNIBchFkLHMbQhNX0&s",
+      "original": "https://static0.mltimages.com/wordpress/wp-content/uploads/media/news/service/2017/04/sailor-computer-1500.jpg?q=49&fit=crop&w=266&h=350&dpr=2",
+      "title": "Military Ranks: Everything You Need to Know",
+      "source_name": "Military.com"
+    },
+    {
+      "source": "https://www.military.com/join-military/military-ranks-everything-you-need-know.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvDjopBdZe0D-ohTsokBNw8Vr8iTo2aqd2UenooZ5v_g3QtlfaAvKCuQ&s",
+      "original": "https://static0.mltimages.com/wordpress/wp-content/authors/2022-12/amanda-miller.jpg",
+      "title": "Military Ranks: Everything You Need to Know",
+      "source_name": "Military.com"
+    },
+    {
+      "source": "https://www.military.com/join-military/military-ranks-everything-you-need-know.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBtog0Htxc6yWD0v33Tp7C83ywkbyfm3tbZ7ct0omnrTNBy-j7hFu-yEQ&s",
+      "original": "https://static0.mltimages.com/wordpress/wp-content/uploads/2025-02/constructionwork.jpg?q=49&fit=crop&w=266&h=350&dpr=2",
+      "title": "Military Ranks: Everything You Need to Know",
+      "source_name": "Military.com"
+    },
+    {
+      "source": "https://www.military.com/join-military/military-ranks-everything-you-need-know.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0xcHqKDAMiPVpYT7rhPYiBolBJZkl-bv4EwCCqZCbJU1JMhW88AklhM&s",
+      "original": "https://static0.mltimages.com/wordpress/wp-content/uploads/media/news/people/2015/12/womack-surgical-technicians-1200x800.jpg?q=49&fit=crop&w=266&h=350&dpr=2",
+      "title": "Military Ranks: Everything You Need to Know",
+      "source_name": "Military.com"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How do you abbreviate military ranks?",
+      "type": "ai_overview",
+      "page_token": "CZzl8XicHdBfboIwHADg7DJ71BZwiyZmGUpR4moKtCAvS2n9M_kV2KyCvO0uO9VOs2TfEb7vH_ioq9-H28na9jIbj7uuGx2b5gj7kWrMWF7utRorCVBKVc2enp_wy0HNg-vaX3yufcbbVixjlAzHvjSRTRw4yBSMdEhdIo6VSy5bTnyNqJfmYlEC2ezO0SCWr_dNLjBFypMkIvEgvJ3BQob2M11V3t60Nx5SL8ERZRiwXkEjXRBSTF1KIqTTopOkNWXV3OXStwy9oTiMrvuqnfC66GXQDBxOmQzWd56dvARNrK5jtA3JVhvrMIf0GVRWgp-IsGDKEecyiATN7EqBqIOTLjjizi4XqUZTuue204QwnZM8XelYxM0H4_GgzmA4FIvSiTgNKjfj0z4ztKa5jwRQtOHCJFhjxh4P6jZ3H_8_5-8HY2ftV3P8A_cJgrQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=CZzl8XicHdBfboIwHADg7DJ71BZwiyZmGUpR4moKtCAvS2n9M_kV2KyCvO0uO9VOs2TfEb7vH_ioq9-H28na9jIbj7uuGx2b5gj7kWrMWF7utRorCVBKVc2enp_wy0HNg-vaX3yufcbbVixjlAzHvjSRTRw4yBSMdEhdIo6VSy5bTnyNqJfmYlEC2ezO0SCWr_dNLjBFypMkIvEgvJ3BQob2M11V3t60Nx5SL8ERZRiwXkEjXRBSTF1KIqTTopOkNWXV3OXStwy9oTiMrvuqnfC66GXQDBxOmQzWd56dvARNrK5jtA3JVhvrMIf0GVRWgp-IsGDKEecyiATN7EqBqIOTLjjizi4XqUZTuue204QwnZM8XelYxM0H4_GgzmA4FIvSiTgNKjfj0z4ztKa5jwRQtOHCJFhjxh4P6jZ3H_8_5-8HY2ftV3P8A_cJgrQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrRjBhWEZtV2xadU9WUmZUSEZZYkRkWGNEQldUbVZmZUZsM1RHNDFOMWxVYUZZeE1FOW5jVEZxYldSV01XTlhORWhNVW05R1ZITlpiM1pLWmtzMk5WWTVZbXB3VG10Q2NYWnhUMjVtUVRaclJHTnFNMVpuZGpWMlp4SVhXVk5GTm1GMVUzZFBUWGxMY0hSUlVIVnhWMHgzVVZVYUlrRkVjM0k1WmxGMmNFcHpWamxzWjJsQ2VrUjRZVGgyT0RWUWJVZFZZV3BJWkdjIiwiZmN2IjoiMyIsImVpIjoiWVNFNmF1U3dPTXlLcHRRUHVxV0x3UVUiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQnlZVzVySUdGaVluSmxkbWxoZEdsdmJpQmphR0Z5ZEJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IkhvdyBkbyB5b3UgYWJicmV2aWF0ZSBtaWxpdGFyeSByYW5rcz8iLCJsayI6IkdpUm9iM2NnWkc4Z2VXOTFJR0ZpWW5KbGRtbGhkR1VnYldsc2FYUmhjbmtnY21GdWEzTSIsImJzIjoiYzQzT3VRN0NNQkFFVU5GdVJlMENOdUhvQ1I5Z0lRcWdvcVRla0VXMmNoalpDMWItbnNnU0JTbUFjcVNubVlFenJJNHVZdVd3ZHcta3N2VDh0Q1NNclcyc2tPX1JVMWNIWGF6VjB2d0JZUV96aXlGQjhveGlHRGRiNUs2eFFiaDZWNkdheGE4RURwQ2xrbktJVjROMzcxb25ISkstMFFDRDZDSlhHSDhnT0VFLWZwTVcwSFlwNzN6YjYyS2hzdkdoRDBXRG1rNWUiLCJpZCI6ImZjX1lTRTZhdVN3T015S3B0UVB1cVdMd1FVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrRjBhWEZtV2xadU9WUmZUSEZZYkRkWGNEQldUbVZmZUZsM1RHNDFOMWxVYUZZeE1FOW5jVEZxYldSV01XTlhORWhNVW05R1ZITlpiM1pLWmtzMk5WWTVZbXB3VG10Q2NYWnhUMjVtUVRaclJHTnFNMVpuZGpWMlp4SVhXVk5GTm1GMVUzZFBUWGxMY0hSUlVIVnhWMHgzVVZVYUlrRkVjM0k1WmxGMmNFcHpWamxzWjJsQ2VrUjRZVGgyT0RWUWJVZFZZV3BJWkdjIiwiZmN2IjoiMyIsImVpIjoiWVNFNmF1U3dPTXlLcHRRUHVxV0x3UVUiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQnlZVzVySUdGaVluSmxkbWxoZEdsdmJpQmphR0Z5ZEJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IkhvdyBkbyB5b3UgYWJicmV2aWF0ZSBtaWxpdGFyeSByYW5rcz8iLCJsayI6IkdpUm9iM2NnWkc4Z2VXOTFJR0ZpWW5KbGRtbGhkR1VnYldsc2FYUmhjbmtnY21GdWEzTSIsImJzIjoiYzQzT3VRN0NNQkFFVU5GdVJlMENOdUhvQ1I5Z0lRcWdvcVRla0VXMmNoalpDMWItbnNnU0JTbUFjcVNubVlFenJJNHVZdVd3ZHcta3N2VDh0Q1NNclcyc2tPX1JVMWNIWGF6VjB2d0JZUV96aXlGQjhveGlHRGRiNUs2eFFiaDZWNkdheGE4RURwQ2xrbktJVjROMzcxb25ISkstMFFDRDZDSlhHSDhnT0VFLWZwTVcwSFlwNzN6YjYyS2hzdkdoRDBXRG1rNWUiLCJpZCI6ImZjX1lTRTZhdVN3T015S3B0UVB1cVdMd1FVXzEifQ%3D%3D"
+    },
+    {
+      "question": "What are the 13 enlisted ranks?",
+      "type": "ai_overview",
+      "page_token": "YO-j5XicHdBRboIwGADg7DI-TsDggolZglLEjDoK_Vt4WbRVkbbANhTkbXfZqXaaLTvC931960utfh5uZde1n4vptO_7x3PTnPXxUTRmuv-812Iq9lof9kIt5k9z-_kklsE18lfvkZ_QtoU1sVLuAzhDSk2nUnOeZSG9v1CvFlAOsSbOC2hdBOUuU16MmazAcesj6Gi3Qa7cQJTO2pit4XoI7QvmjYtHPE8tW8kA6dzpnR1qs9QqQ5HJgVL3lRm5TdhgiOViBsAPoz8vEMkJQ6aot_tc6euO2ZwZzXDoxYRv3-M1cgGodVTYCDV0OZCVrKhLRrCzDdS00jfsFEnKyllQyoJa1Mk5ZNLy8JF2vUQokRzxbCMJkOaSUDKKShvKdYTRdgWhq4iFxryGe1z5DQ29Vpoh-LNx2U9O4racTf4_l28n0y3aj-b8C-eXgy8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YO-j5XicHdBRboIwGADg7DI-TsDggolZglLEjDoK_Vt4WbRVkbbANhTkbXfZqXaaLTvC931960utfh5uZde1n4vptO_7x3PTnPXxUTRmuv-812Iq9lof9kIt5k9z-_kklsE18lfvkZ_QtoU1sVLuAzhDSk2nUnOeZSG9v1CvFlAOsSbOC2hdBOUuU16MmazAcesj6Gi3Qa7cQJTO2pit4XoI7QvmjYtHPE8tW8kA6dzpnR1qs9QqQ5HJgVL3lRm5TdhgiOViBsAPoz8vEMkJQ6aot_tc6euO2ZwZzXDoxYRv3-M1cgGodVTYCDV0OZCVrKhLRrCzDdS00jfsFEnKyllQyoJa1Mk5ZNLy8JF2vUQokRzxbCMJkOaSUDKKShvKdYTRdgWhq4iFxryGe1z5DQ29Vpoh-LNx2U9O4racTf4_l28n0y3aj-b8C-eXgy8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrRjBhWEZtV2xadU9WUmZUSEZZYkRkWGNEQldUbVZmZUZsM1RHNDFOMWxVYUZZeE1FOW5jVEZxYldSV01XTlhORWhNVW05R1ZITlpiM1pLWmtzMk5WWTVZbXB3VG10Q2NYWnhUMjVtUVRaclJHTnFNMVpuZGpWMlp4SVhXVk5GTm1GMVUzZFBUWGxMY0hSUlVIVnhWMHgzVVZVYUlrRkVjM0k1WmxGMmNFcHpWamxzWjJsQ2VrUjRZVGgyT0RWUWJVZFZZV3BJWkdjIiwiZmN2IjoiMyIsImVpIjoiWVNFNmF1U3dPTXlLcHRRUHVxV0x3UVUiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQnlZVzVySUdGaVluSmxkbWxoZEdsdmJpQmphR0Z5ZEJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSAxMyBlbmxpc3RlZCByYW5rcz8iLCJsayI6IkdoNTNhR0YwSUdGeVpTQjBhR1VnTVRNZ1pXNXNhWE4wWldRZ2NtRnVhM00iLCJicyI6ImM0M091UTdDTUJBRVVORnVSZTBDTnVIb0NSOWdJUXFnb3FUZWtFVzJjaGpaQzFiLW5zZ1NCU21BY3FTbm1ZRXpySTR1WXVXd2R3LWtzdlQ4dENTTXJXMnNrT19SVTFjSFhhelYwdndCWVFfeml5RkI4b3hpR0RkYjVLNnhRYmg2VjZHYXhhOEVEcENsa25LSVY0TjM3MW9uSEpLLTBRQ0Q2Q0pYR0g4Z09FRS1mcE1XMEhZcDczemI2Mktoc3ZHaEQwV0RtazVlIiwiaWQiOiJmY19ZU0U2YXVTd09NeUtwdFFQdXFXTHdRVV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrRjBhWEZtV2xadU9WUmZUSEZZYkRkWGNEQldUbVZmZUZsM1RHNDFOMWxVYUZZeE1FOW5jVEZxYldSV01XTlhORWhNVW05R1ZITlpiM1pLWmtzMk5WWTVZbXB3VG10Q2NYWnhUMjVtUVRaclJHTnFNMVpuZGpWMlp4SVhXVk5GTm1GMVUzZFBUWGxMY0hSUlVIVnhWMHgzVVZVYUlrRkVjM0k1WmxGMmNFcHpWamxzWjJsQ2VrUjRZVGgyT0RWUWJVZFZZV3BJWkdjIiwiZmN2IjoiMyIsImVpIjoiWVNFNmF1U3dPTXlLcHRRUHVxV0x3UVUiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQnlZVzVySUdGaVluSmxkbWxoZEdsdmJpQmphR0Z5ZEJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSAxMyBlbmxpc3RlZCByYW5rcz8iLCJsayI6IkdoNTNhR0YwSUdGeVpTQjBhR1VnTVRNZ1pXNXNhWE4wWldRZ2NtRnVhM00iLCJicyI6ImM0M091UTdDTUJBRVVORnVSZTBDTnVIb0NSOWdJUXFnb3FUZWtFVzJjaGpaQzFiLW5zZ1NCU21BY3FTbm1ZRXpySTR1WXVXd2R3LWtzdlQ4dENTTXJXMnNrT19SVTFjSFhhelYwdndCWVFfeml5RkI4b3hpR0RkYjVLNnhRYmg2VjZHYXhhOEVEcENsa25LSVY0TjM3MW9uSEpLLTBRQ0Q2Q0pYR0g4Z09FRS1mcE1XMEhZcDczemI2Mktoc3ZHaEQwV0RtazVlIiwiaWQiOiJmY19ZU0U2YXVTd09NeUtwdFFQdXFXTHdRVV8xIn0%3D"
+    },
+    {
+      "question": "What branch promotes the fastest?",
+      "type": "ai_overview",
+      "page_token": "IewNYnicHdDbboIwGADg7GW8nIDipolZglIP0RJK_7b2ZikF7KQcHE6cd3uXPdWeZste4Lv4vr7tW13-PFzN5dJ2s-Gw7_vHY9Mcbf6om2qous9aD7WyNlW6nE2eJu5LoefhxyZYnDdBDG3LlsRJXJukjr_bl7jLSntNBRvvoewjimXO5VaCj4DjUwSuoVSKvbP1aHVbcRv6OcObBGEjXLlg3BZckCLhpuTAopwGp4gz5wC-OjjGV8IUsTf9c2yY1o0fAzvnNW4jjj7yMlPMazvhMhfKG8nZ9BxXVqXwfCcgCVvFY-l148RDIdwNZh4aRWuD1D0otItAs3anADFOySg0mQQHvINgNHOmOIdLnyEUZwIJus4II81bDOSuT7YC3m4PlcQA_mpH0VXz2x5CN-AwDXQlVVqbJcSDQl_no8H_5_y1qC6z9r05_gKrn4KC",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IewNYnicHdDbboIwGADg7GW8nIDipolZglIP0RJK_7b2ZikF7KQcHE6cd3uXPdWeZste4Lv4vr7tW13-PFzN5dJ2s-Gw7_vHY9Mcbf6om2qous9aD7WyNlW6nE2eJu5LoefhxyZYnDdBDG3LlsRJXJukjr_bl7jLSntNBRvvoewjimXO5VaCj4DjUwSuoVSKvbP1aHVbcRv6OcObBGEjXLlg3BZckCLhpuTAopwGp4gz5wC-OjjGV8IUsTf9c2yY1o0fAzvnNW4jjj7yMlPMazvhMhfKG8nZ9BxXVqXwfCcgCVvFY-l148RDIdwNZh4aRWuD1D0otItAs3anADFOySg0mQQHvINgNHOmOIdLnyEUZwIJus4II81bDOSuT7YC3m4PlcQA_mpH0VXz2x5CN-AwDXQlVVqbJcSDQl_no8H_5_y1qC6z9r05_gKrn4KC",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrRjBhWEZtV2xadU9WUmZUSEZZYkRkWGNEQldUbVZmZUZsM1RHNDFOMWxVYUZZeE1FOW5jVEZxYldSV01XTlhORWhNVW05R1ZITlpiM1pLWmtzMk5WWTVZbXB3VG10Q2NYWnhUMjVtUVRaclJHTnFNMVpuZGpWMlp4SVhXVk5GTm1GMVUzZFBUWGxMY0hSUlVIVnhWMHgzVVZVYUlrRkVjM0k1WmxGMmNFcHpWamxzWjJsQ2VrUjRZVGgyT0RWUWJVZFZZV3BJWkdjIiwiZmN2IjoiMyIsImVpIjoiWVNFNmF1U3dPTXlLcHRRUHVxV0x3UVUiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQnlZVzVySUdGaVluSmxkbWxoZEdsdmJpQmphR0Z5ZEJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IldoYXQgYnJhbmNoIHByb21vdGVzIHRoZSBmYXN0ZXN0PyIsImxrIjoiR2lCM2FHRjBJR0p5WVc1amFDQndjbTl0YjNSbGN5QjBhR1VnWm1GemRHVnpkQSIsImJzIjoiYzQzT3VRN0NNQkFFVU5GdVJlMENOdUhvQ1I5Z0lRcWdvcVRla0VXMmNoalpDMWItbnNnU0JTbUFjcVNubVlFenJJNHVZdVd3ZHcta3N2VDh0Q1NNclcyc2tPX1JVMWNIWGF6VjB2d0JZUV96aXlGQjhveGlHRGRiNUs2eFFiaDZWNkdheGE4RURwQ2xrbktJVjROMzcxb25ISkstMFFDRDZDSlhHSDhnT0VFLWZwTVcwSFlwNzN6YjYyS2hzdkdoRDBXRG1rNWUiLCJpZCI6ImZjX1lTRTZhdVN3T015S3B0UVB1cVdMd1FVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrRjBhWEZtV2xadU9WUmZUSEZZYkRkWGNEQldUbVZmZUZsM1RHNDFOMWxVYUZZeE1FOW5jVEZxYldSV01XTlhORWhNVW05R1ZITlpiM1pLWmtzMk5WWTVZbXB3VG10Q2NYWnhUMjVtUVRaclJHTnFNMVpuZGpWMlp4SVhXVk5GTm1GMVUzZFBUWGxMY0hSUlVIVnhWMHgzVVZVYUlrRkVjM0k1WmxGMmNFcHpWamxzWjJsQ2VrUjRZVGgyT0RWUWJVZFZZV3BJWkdjIiwiZmN2IjoiMyIsImVpIjoiWVNFNmF1U3dPTXlLcHRRUHVxV0x3UVUiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQnlZVzVySUdGaVluSmxkbWxoZEdsdmJpQmphR0Z5ZEJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IldoYXQgYnJhbmNoIHByb21vdGVzIHRoZSBmYXN0ZXN0PyIsImxrIjoiR2lCM2FHRjBJR0p5WVc1amFDQndjbTl0YjNSbGN5QjBhR1VnWm1GemRHVnpkQSIsImJzIjoiYzQzT3VRN0NNQkFFVU5GdVJlMENOdUhvQ1I5Z0lRcWdvcVRla0VXMmNoalpDMWItbnNnU0JTbUFjcVNubVlFenJJNHVZdVd3ZHcta3N2VDh0Q1NNclcyc2tPX1JVMWNIWGF6VjB2d0JZUV96aXlGQjhveGlHRGRiNUs2eFFiaDZWNkdheGE4RURwQ2xrbktJVjROMzcxb25ISkstMFFDRDZDSlhHSDhnT0VFLWZwTVcwSFlwNzN6YjYyS2hzdkdoRDBXRG1rNWUiLCJpZCI6ImZjX1lTRTZhdVN3T015S3B0UVB1cVdMd1FVXzEifQ%3D%3D"
+    },
+    {
+      "question": "What are the 13 ranks in the Army?",
+      "type": "ai_overview",
+      "page_token": "qvo623icHdDBboIwAIDh7GU8aqvgpolZwlZAjZpCW6CXBVoFpaVVmUxue5c91Z5mZof_-h3-7x91bOrfp1vVtvY6H426rhuWxpRqPxRGj_LrvREjkStV5KKeT5-n8PUgFuhz6b2dlx6m1rL3CMRQadmUkCG4k0nbYOrmseIsTrgloUV73ztt6pkTUfWV622-1Y6TAQQp40b41Y3Wq54F7nkLvQupoynXPsvrdsWBuy4C0ydExTjlIELQJ-g6KeDLJEncdaYhEIHrb4CdsjEMpe_3j5a8YZ8CXHuSSEYApxm1KwzQnSLpZKnN8kAGKVRE6goXvdeJSWU2dXVMQnbchdZDleQU0HGWMiLBbLunbfdwsUz9lIQyYpE5Yhr14qQ0pXC9C1aXXeA4BBoodHvYkAokelYXsOzwuL1gPDiI22Iy-P-5-Djodm4vpvwDHtyBzw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qvo623icHdDBboIwAIDh7GU8aqvgpolZwlZAjZpCW6CXBVoFpaVVmUxue5c91Z5mZof_-h3-7x91bOrfp1vVtvY6H426rhuWxpRqPxRGj_LrvREjkStV5KKeT5-n8PUgFuhz6b2dlx6m1rL3CMRQadmUkCG4k0nbYOrmseIsTrgloUV73ztt6pkTUfWV622-1Y6TAQQp40b41Y3Wq54F7nkLvQupoynXPsvrdsWBuy4C0ydExTjlIELQJ-g6KeDLJEncdaYhEIHrb4CdsjEMpe_3j5a8YZ8CXHuSSEYApxm1KwzQnSLpZKnN8kAGKVRE6goXvdeJSWU2dXVMQnbchdZDleQU0HGWMiLBbLunbfdwsUz9lIQyYpE5Yhr14qQ0pXC9C1aXXeA4BBoodHvYkAokelYXsOzwuL1gPDiI22Iy-P-5-Djodm4vpvwDHtyBzw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrRjBhWEZtV2xadU9WUmZUSEZZYkRkWGNEQldUbVZmZUZsM1RHNDFOMWxVYUZZeE1FOW5jVEZxYldSV01XTlhORWhNVW05R1ZITlpiM1pLWmtzMk5WWTVZbXB3VG10Q2NYWnhUMjVtUVRaclJHTnFNMVpuZGpWMlp4SVhXVk5GTm1GMVUzZFBUWGxMY0hSUlVIVnhWMHgzVVZVYUlrRkVjM0k1WmxGMmNFcHpWamxzWjJsQ2VrUjRZVGgyT0RWUWJVZFZZV3BJWkdjIiwiZmN2IjoiMyIsImVpIjoiWVNFNmF1U3dPTXlLcHRRUHVxV0x3UVUiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQnlZVzVySUdGaVluSmxkbWxoZEdsdmJpQmphR0Z5ZEJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSAxMyByYW5rcyBpbiB0aGUgQXJteT8iLCJsayI6ImM1TlNMTTlJTEZGSUxFcFZLTWxJVlRBMFZpaEt6TXN1VnNqTUFfTVRpM0lyQVEiLCJicyI6ImM0M091UTdDTUJBRVVORnVSZTBDTnVIb0NSOWdJUXFnb3FUZWtFVzJjaGpaQzFiLW5zZ1NCU21BY3FTbm1ZRXpySTR1WXVXd2R3LWtzdlQ4dENTTXJXMnNrT19SVTFjSFhhelYwdndCWVFfeml5RkI4b3hpR0RkYjVLNnhRYmg2VjZHYXhhOEVEcENsa25LSVY0TjM3MW9uSEpLLTBRQ0Q2Q0pYR0g4Z09FRS1mcE1XMEhZcDczemI2Mktoc3ZHaEQwV0RtazVlIiwiaWQiOiJmY19ZU0U2YXVTd09NeUtwdFFQdXFXTHdRVV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRrRjBhWEZtV2xadU9WUmZUSEZZYkRkWGNEQldUbVZmZUZsM1RHNDFOMWxVYUZZeE1FOW5jVEZxYldSV01XTlhORWhNVW05R1ZITlpiM1pLWmtzMk5WWTVZbXB3VG10Q2NYWnhUMjVtUVRaclJHTnFNMVpuZGpWMlp4SVhXVk5GTm1GMVUzZFBUWGxMY0hSUlVIVnhWMHgzVVZVYUlrRkVjM0k1WmxGMmNFcHpWamxzWjJsQ2VrUjRZVGgyT0RWUWJVZFZZV3BJWkdjIiwiZmN2IjoiMyIsImVpIjoiWVNFNmF1U3dPTXlLcHRRUHVxV0x3UVUiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQnlZVzVySUdGaVluSmxkbWxoZEdsdmJpQmphR0Z5ZEJBQWZiSVlNRDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSAxMyByYW5rcyBpbiB0aGUgQXJteT8iLCJsayI6ImM1TlNMTTlJTEZGSUxFcFZLTWxJVlRBMFZpaEt6TXN1VnNqTUFfTVRpM0lyQVEiLCJicyI6ImM0M091UTdDTUJBRVVORnVSZTBDTnVIb0NSOWdJUXFnb3FUZWtFVzJjaGpaQzFiLW5zZ1NCU21BY3FTbm1ZRXpySTR1WXVXd2R3LWtzdlQ4dENTTXJXMnNrT19SVTFjSFhhelYwdndCWVFfeml5RkI4b3hpR0RkYjVLNnhRYmg2VjZHYXhhOEVEcENsa25LSVY0TjM3MW9uSEpLLTBRQ0Q2Q0pYR0g4Z09FRS1mcE1XMEhZcDczemI2Mktoc3ZHaEQwV0RtazVlIiwiaWQiOiJmY19ZU0U2YXVTd09NeUtwdFFQdXFXTHdRVV8xIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "j_WEK3icxZbbjrJIEIDv9z3WmxkFRB2dhPxpDiriCQ_j6g2BBhsFQQEHnbv_Xfap9in2EbYbQXHUmeyfbLaN9IHq6qqu-ix__umuPOev3_62o2gbvlJUHMcl5PvItUrQ31B6ePQgtfTdMID2j9DfB9BamRy0A39jFY7vHFuAIUcXrBU3H0s1fT-OB72jso3U4X4368bqtJCo4DRDD601PuGwDimNwg_nd1bEk1JYsrySMYSrZTtqx1NUKtNMozSg9A0WAP9hk8Ao6VX8kXEv30iQ49E3WlSZbBznVoTcM2u9kyJZTjrhoVIhtUKYExGxuAgqPBDVZK39hRXj6-mMPCQQA8ATEyX13p57RmRrftrzD0-UbpcSYT49S8yrf-Qvnw-wSnRO6kC4BCJzmQeZB1gE4TF_0lgFfGUYCy3hizDhN1vUluyietfoXGsq0jZOx915C1tEmQgnIU0ZAe4YagVtmAyCkOSmMGnQftMDi35tbysTtidoGjtVPNm3Xa-8rasUNLCc6-umZWq2Rv9I5kyZqdIN9qX-nEABwzMVYZ6KRa3nArazZJug1C3xTA6J5DLkK59JuvEP3FPSO_wkDk5aiL7O6W6y2IFpJsb7GR3pwtohWTU_L9RJKOzPJxJDbpHIGsoPMBKJ2fL0vDMvToYyfzE1beLneF_mqQ9zoKhnl6WcxaeLkPJzhyiXW9lCfH5FtCIXJIhjJKRU4eBqP8obhi-LF4CUvT5bQGRE5ywmJRaS13NVnQO5iRHF4UOZ82koMRLy9d2B9dWsichXQHcB_67x58t62CSQ5f6nVM4j0B6Zb2D8ZghHtj2bLxV6-BG063Dytt6j-ynvb4x_UQng_wvFNK0T05QE5S4U6BsoVFn6sk6c7L7UCZIrgv8ICiGF4rpOnBL3UiduoRhfQ_G4TuSgOGn5Ggr-IRQSuA8F-a25gQI9gOJUJ_JQXNcJ76yZeJCD4pfqhPoLdSJhxDp110Vjv0YPi0dLd-jZy0cNTtiDw-6j9mLYPwzpFnP4iL8tHstN9LrRTfdZW5mvfLkTHc1nDS_4r5ZZ2HGblbuK9OD4FOie86QbRmC9r_Ro5XtP0NaDqLBxA5-j9eoSFKe1cn9wrE6KguHEH7LVKa8HAFZqk75oduRGhYnDhrdT5AA0a5KzCWcesqqzHu0YI_uPmIn6sdv13CN_FJYuqxlb0VCG7_War7N6o3qI5p2hahpQfNu5jgqdALlLYVTnm0WN7wb6hJ7u5IUjivbIGPVAYlfI7QCtt9fRi7HvFbBTocUxhU0AOYxBBYG-CmYIQJz_QMX_plTBx98YR78QQl2zwncOVhna0CtWrVquLdkG3oyi45arMIXQCzjmH3ETHjU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=j_WEK3icxZbbjrJIEIDv9z3WmxkFRB2dhPxpDiriCQ_j6g2BBhsFQQEHnbv_Xfap9in2EbYbQXHUmeyfbLaN9IHq6qqu-ix__umuPOev3_62o2gbvlJUHMcl5PvItUrQ31B6ePQgtfTdMID2j9DfB9BamRy0A39jFY7vHFuAIUcXrBU3H0s1fT-OB72jso3U4X4368bqtJCo4DRDD601PuGwDimNwg_nd1bEk1JYsrySMYSrZTtqx1NUKtNMozSg9A0WAP9hk8Ao6VX8kXEv30iQ49E3WlSZbBznVoTcM2u9kyJZTjrhoVIhtUKYExGxuAgqPBDVZK39hRXj6-mMPCQQA8ATEyX13p57RmRrftrzD0-UbpcSYT49S8yrf-Qvnw-wSnRO6kC4BCJzmQeZB1gE4TF_0lgFfGUYCy3hizDhN1vUluyietfoXGsq0jZOx915C1tEmQgnIU0ZAe4YagVtmAyCkOSmMGnQftMDi35tbysTtidoGjtVPNm3Xa-8rasUNLCc6-umZWq2Rv9I5kyZqdIN9qX-nEABwzMVYZ6KRa3nArazZJug1C3xTA6J5DLkK59JuvEP3FPSO_wkDk5aiL7O6W6y2IFpJsb7GR3pwtohWTU_L9RJKOzPJxJDbpHIGsoPMBKJ2fL0vDMvToYyfzE1beLneF_mqQ9zoKhnl6WcxaeLkPJzhyiXW9lCfH5FtCIXJIhjJKRU4eBqP8obhi-LF4CUvT5bQGRE5ywmJRaS13NVnQO5iRHF4UOZ82koMRLy9d2B9dWsichXQHcB_67x58t62CSQ5f6nVM4j0B6Zb2D8ZghHtj2bLxV6-BG063Dytt6j-ynvb4x_UQng_wvFNK0T05QE5S4U6BsoVFn6sk6c7L7UCZIrgv8ICiGF4rpOnBL3UiduoRhfQ_G4TuSgOGn5Ggr-IRQSuA8F-a25gQI9gOJUJ_JQXNcJ76yZeJCD4pfqhPoLdSJhxDp110Vjv0YPi0dLd-jZy0cNTtiDw-6j9mLYPwzpFnP4iL8tHstN9LrRTfdZW5mvfLkTHc1nDS_4r5ZZ2HGblbuK9OD4FOie86QbRmC9r_Ro5XtP0NaDqLBxA5-j9eoSFKe1cn9wrE6KguHEH7LVKa8HAFZqk75oduRGhYnDhrdT5AA0a5KzCWcesqqzHu0YI_uPmIn6sdv13CN_FJYuqxlb0VCG7_War7N6o3qI5p2hahpQfNu5jgqdALlLYVTnm0WN7wb6hJ7u5IUjivbIGPVAYlfI7QCtt9fRi7HvFbBTocUxhU0AOYxBBYG-CmYIQJz_QMX_plTBx98YR78QQl2zwncOVhna0CtWrVquLdkG3oyi45arMIXQCzjmH3ETHjU"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "U.S. Military Rank Insignia",
+      "link": "https://www.war.gov/resources/insignia/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.war.gov/resources/insignia/&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQFnoECCUQAQ",
+      "displayed_link": "https://www.war.gov › resources › insignia",
+      "favicon": "https://serpapi.com/searches/6a3a216188aca440f45e36ae/images/aj7iYILp0f9XueITUn4JS7m2l4ufViLRTMUBMQeS_Y8.png",
+      "snippet": "Army. Corporal (CPL) ; Marine Corps. Corporal (Cpl) ; Navy. Petty Officer Third Class ** (PO3) ; Air Force. Senior Airman (SrA) ; Space Force. Specialist 4 (Spc4).",
+      "snippet_highlighted_words": [
+        "Army. Corporal (CPL"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Army. Corporal (CPL) ; Marine Corps. Corporal (Cpl) ; Navy. Petty Officer Third Class ** (PO3) ; Air Force. Senior Airman (SrA) ; Space Force. Specialist 4 (Spc4).",
+          "source_info_link": "https://www.war.gov/resources/insignia/",
+          "icon": "https://serpapi.com/searches/6a3a216188aca440f45e36ae/images/aj7iYILp0f9XueITUn4JS_LUDJSRQfyMZYSgrMGo2D-yohO9Dnv6yadmQJykslUh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.war.gov/resources/insignia/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.war.gov%2Fresources%2Finsignia%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://www.war.gov/resources/insignia/#:~:text=Army,Corporal%20(CPL)&text=Marine%20Corps,Corporal%20(Cpl)&text=Navy,Officer%20Third%20Class%20**%20(PO3)&text=Air%20Force,Senior%20Airman%20(SrA)&text=Space%20Force,Specialist%204%20(Spc4)"
+    },
+    {
+      "position": 2,
+      "title": "Military Rank and Insignia Charts",
+      "link": "https://veteran.com/military-ranks-insignia-charts/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://veteran.com/military-ranks-insignia-charts/&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQFnoECCYQAQ",
+      "displayed_link": "https://veteran.com › Medals and Ranks",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAGUEAGUEAGUEAGUEAGUEAGUEAGUEAGEEAGUEAGUEAGUEAGUEAGUEAFkAAGUF_LUbYPkvYPkvZPkteJkS-OUncP0vYPkvLO0rYPkvYPktuxi__AAAAG3RSTlMAb3sQhI7_IqXPNrji9EpaB1zF__91S5b2uSUp5I2JAAAAzklEQVR4AZ2SURZAQAwDCwAAYO9_UFp9efErQHbAQP4nip9EwknSZyjVvSzXFAxLHansMIMlQxupbbexfWKR9lYstcFYkE575KXV0oH1nysN1nrxVNqy7wNUXgprCSBs4NGAwYY9ELaJyYNtIngMIGQDj3EEgo17pDJNQLBxj1HmmWH62pX-2MvC1x0NKlvXbT-W5dj3aadv6DkXz4yzC8B-f9lE162MmNDEDDb-YS-7KAjejXrIcoZwLgB4q-oxXVqvjeFoP2QhErRh8y83vmcMCfkRWd8AAAAASUVORK5CYII.png",
+      "date": "May 15, 2025",
+      "snippet": "Below are US military rank and insignia charts for enlisted, officer and warrant officer ranks by service branch: Air Force, Army, Coast Guard, Navy, Marines ...",
+      "snippet_highlighted_words": [
+        "US military rank and insignia charts"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Below are US military rank and insignia charts for enlisted, officer and warrant officer ranks by service branch: Air Force, Army, Coast Guard, Navy, Marines ...",
+          "source_info_link": "https://veteran.com/military-ranks-insignia-charts/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAGUEAGUEAGUEAGUEAGUEAGUEAGUEAGEEAGUEAGUEAGUEAGUEAGUEAFkAAGUF_LUbYPkvYPkvZPkteJkS-OUncP0vYPkvLO0rYPkvYPktuxi__AAAAG3RSTlMAb3sQhI7_IqXPNrji9EpaB1zF__91S5b2uSUp5I2JAAAAzklEQVR4AZ2SURZAQAwDCwAAYO9_UFp9efErQHbAQP4nip9EwknSZyjVvSzXFAxLHansMIMlQxupbbexfWKR9lYstcFYkE575KXV0oH1nysN1nrxVNqy7wNUXgprCSBs4NGAwYY9ELaJyYNtIngMIGQDj3EEgo17pDJNQLBxj1HmmWH62pX-2MvC1x0NKlvXbT-W5dj3aadv6DkXz4yzC8B-f9lE162MmNDEDDb-YS-7KAjejXrIcoZwLgB4q-oxXVqvjeFoP2QhErRh8y83vmcMCfkRWd8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://veteran.com/military-ranks-insignia-charts/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fveteran.com%2Fmilitary-ranks-insignia-charts%2F",
+      "source": "Veteran.com",
+      "read_more_link": "https://veteran.com/military-ranks-insignia-charts/#:~:text=Below%20are%20U.S.%20military%20rank,Navy%2C%20Marines%20and%20Space%20Force."
+    },
+    {
+      "position": 3,
+      "title": "Military Rank Abbreviations > DINFOS Pavilion > Article",
+      "link": "https://pavilion.dinfos.edu/Article/Article/2205094/military-rank-abbreviations/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pavilion.dinfos.edu/Article/Article/2205094/military-rank-abbreviations/&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQFnoECDQQAQ",
+      "displayed_link": "https://pavilion.dinfos.edu › Article › military-rank-abb...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA_FBMVEX____x8fWussFudJQ3QnchMGwpN3FRWoR-hKK1uMYAAFMADlcAHV0II18EIF4AGlwADFgAAFi1tsgAHWISKGQACl-8vs6TlbEAAF0OKWkAI2YAFWAXLW0AAGGcn7erscejqLyEi6jh4uoAG2hKU4IPMnYAFmk6SoAAJ24AHWp0fJ_S1OAACWV8h6sAI22JkbYAL3Rba5kBOX4ENoMyUY8VOXpodJ1GWZIALH_K1eeJl7YANIUYRYWkqsUQS5IAOpEAPYlNaqNadah-lb-4xt2KoccST5UASJw3ZaMTW6BNf7sAXKYATZwFaLIAX604dbabstIAT6kAXLMvecEEmdUUAAABV0lEQVR4AaxNswHAABCMbdv2_svFTptrHifgB4AQjKAYTpDglyIommFZluMFkXjRkigrJ2RVu3O6YVr2Al5mTMVxXO_ifNex8GBDiIjWzJ7eyHWcOADOM7GdNDt68yJNS__WQsROUW1r3aQbqVVt2-r1_MKLVN2sereTfVkMw6DOBWCcdlvP1LpcJFQQQ0EULZaAznD3_Haj3TsG7H8vvASXIXd6qlbMcZw7g67HfN8_OwICxgKL4SlhZDCKr0hZAuwxJ7ToOVRKmKTADsscwgfX8V6fTpbn6QZhsQakmWN25dtz5eR57u4YPALKvARQ5XltsTFYtkBnsaf7UdnnncW27PtXHAiJgHGaymvYemqwaISal6kf8Vpb9AuPP7AVyzQNMd5q-MLNU86zUlIKIXiDjyo-EGop3lpmfEkV-gvyDt9q4g-UIsbv9OMT9azxZ0dxfIR_6QXtu0TdWmRHZQAAAABJRU5ErkJggg.png",
+      "date": "Aug 10, 2023",
+      "snippet": "Use this table to find the appropriate abbreviation for the following service's rank: Air Force, Army, Coast Guard Marines, Navy, and Space Force.",
+      "snippet_highlighted_words": [
+        "Use this table to find the appropriate abbreviation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this table to find the appropriate abbreviation for the following service's rank: Air Force, Army, Coast Guard Marines, Navy, and Space Force.",
+          "source_info_link": "https://pavilion.dinfos.edu/Article/Article/2205094/military-rank-abbreviations/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA_FBMVEX____x8fWussFudJQ3QnchMGwpN3FRWoR-hKK1uMYAAFMADlcAHV0II18EIF4AGlwADFgAAFi1tsgAHWISKGQACl-8vs6TlbEAAF0OKWkAI2YAFWAXLW0AAGGcn7erscejqLyEi6jh4uoAG2hKU4IPMnYAFmk6SoAAJ24AHWp0fJ_S1OAACWV8h6sAI22JkbYAL3Rba5kBOX4ENoMyUY8VOXpodJ1GWZIALH_K1eeJl7YANIUYRYWkqsUQS5IAOpEAPYlNaqNadah-lb-4xt2KoccST5UASJw3ZaMTW6BNf7sAXKYATZwFaLIAX604dbabstIAT6kAXLMvecEEmdUUAAABV0lEQVR4AaxNswHAABCMbdv2_svFTptrHifgB4AQjKAYTpDglyIommFZluMFkXjRkigrJ2RVu3O6YVr2Al5mTMVxXO_ifNex8GBDiIjWzJ7eyHWcOADOM7GdNDt68yJNS__WQsROUW1r3aQbqVVt2-r1_MKLVN2sereTfVkMw6DOBWCcdlvP1LpcJFQQQ0EULZaAznD3_Haj3TsG7H8vvASXIXd6qlbMcZw7g67HfN8_OwICxgKL4SlhZDCKr0hZAuwxJ7ToOVRKmKTADsscwgfX8V6fTpbn6QZhsQakmWN25dtz5eR57u4YPALKvARQ5XltsTFYtkBnsaf7UdnnncW27PtXHAiJgHGaymvYemqwaISal6kf8Vpb9AuPP7AVyzQNMd5q-MLNU86zUlIKIXiDjyo-EGop3lpmfEkV-gvyDt9q4g-UIsbv9OMT9azxZ0dxfIR_6QXtu0TdWmRHZQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://pavilion.dinfos.edu/Article/Article/2205094/military-rank-abbreviations/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpavilion.dinfos.edu%2FArticle%2FArticle%2F2205094%2Fmilitary-rank-abbreviations%2F",
+      "source": "pavilion | dinfos",
+      "read_more_link": "https://pavilion.dinfos.edu/Article/Article/2205094/military-rank-abbreviations/#:~:text=Use%20this%20table%20to%20find,Marines%2C%20Navy%2C%20and%20Space%20Force."
+    },
+    {
+      "position": 4,
+      "title": "Military Titles - TAMU Health Editorial Style Guide",
+      "link": "https://styleguide.health.tamu.edu/military-titles/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://styleguide.health.tamu.edu/military-titles/&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQFnoECDAQAQ",
+      "displayed_link": "https://styleguide.health.tamu.edu › military-titles",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABsAAAAcCAMAAACnDzTfAAAARVBMVEVQAABLAABGAAB3Tk67qqq2pKSfhobz8_PKzM7___-ZfX3q6urf2Ng9AAAwAABaICBqPDyqlZXHubnQxMSNb29QAABQAADZAr3sAAAAF3RSTlP____________________________q5--bd5EAAADNSURBVHgBYhgQAGCLPrAYBKEgioaRNiBN3P9a8w32k2f32lV4pm40aXNPTxfCOn-P4WaBI-e45V8WQwiM2zw-zZJzAsQSciTFrkopMhdDSqVWJJzPGUiPnyWypeS44HwHUu82k8mSFtezuDkNa2SI5HnDFJ1hVbt1ynh9FkpL2q0yhtPQOU2dSg3LcbW8iDVHEuM5lymTHeOSa2sFodkklptZAWNWdf4hmSXTxbpJshcYdD0s6RjlXa7uJvrX0PRWw-cfjj7f0RaI4gRiAF8hDU8wknNOAAAAAElFTkSuQmCC.png",
+      "snippet": "The following are a list of abbreviations of military titles, in the order of highest rank to lowest, that should be used before the full name of a member ...",
+      "snippet_highlighted_words": [
+        "abbreviations of military titles"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The following are a list of abbreviations of military titles, in the order of highest rank to lowest, that should be used before the full name of a member ...",
+          "source_info_link": "https://styleguide.health.tamu.edu/military-titles/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABsAAAAcCAMAAACnDzTfAAAARVBMVEVQAABLAABGAAB3Tk67qqq2pKSfhobz8_PKzM7___-ZfX3q6urf2Ng9AAAwAABaICBqPDyqlZXHubnQxMSNb29QAABQAADZAr3sAAAAF3RSTlP____________________________q5--bd5EAAADNSURBVHgBYhgQAGCLPrAYBKEgioaRNiBN3P9a8w32k2f32lV4pm40aXNPTxfCOn-P4WaBI-e45V8WQwiM2zw-zZJzAsQSciTFrkopMhdDSqVWJJzPGUiPnyWypeS44HwHUu82k8mSFtezuDkNa2SI5HnDFJ1hVbt1ynh9FkpL2q0yhtPQOU2dSg3LcbW8iDVHEuM5lymTHeOSa2sFodkklptZAWNWdf4hmSXTxbpJshcYdD0s6RjlXa7uJvrX0PRWw-cfjj7f0RaI4gRiAF8hDU8wknNOAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://styleguide.health.tamu.edu/military-titles/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fstyleguide.health.tamu.edu%2Fmilitary-titles%2F",
+      "source": "Texas A&M",
+      "read_more_link": "https://styleguide.health.tamu.edu/military-titles/#:~:text=The%20following%20are%20a%20list,a%20member%20of%20the%20military."
+    },
+    {
+      "position": 5,
+      "title": "Rank Insignia of the United States Armed Forces OFFICERS",
+      "link": "https://www.studyguides.af.mil/Portals/15/documents/rank_ribbons/Officer%20Rank%20Insignia%20of%20the%20United%20States%20Armed%20Forces.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.studyguides.af.mil/Portals/15/documents/rank_ribbons/Officer%2520Rank%2520Insignia%2520of%2520the%2520United%2520States%2520Armed%2520Forces.pdf&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQFnoECC0QAQ",
+      "displayed_link": "https://www.studyguides.af.mil › rank_ribbons",
+      "favicon": "https://serpapi.com/searches/6a3a216188aca440f45e36ae/images/aj7iYILp0f9XueITUn4JS2ZXZLUcwBcb8awtGGmFhs0.png",
+      "snippet": "Rank Insignia of the United States Armed Forces. OFFICERS. O-1. O-2. O-3. O-4. O-5. O-6. O-7. O-8. O-9. O-10. Special. AIR FORCE. Second. Lieutenant. (2d Lt).",
+      "snippet_highlighted_words": [
+        "OFFICERS"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 2
+          },
+          "extensions": [
+            "2 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Rank Insignia of the United States Armed Forces. OFFICERS. O-1. O-2. O-3. O-4. O-5. O-6. O-7. O-8. O-9. O-10. Special. AIR FORCE. Second. Lieutenant. (2d Lt).",
+          "source_info_link": "https://www.studyguides.af.mil/Portals/15/documents/rank_ribbons/Officer%20Rank%20Insignia%20of%20the%20United%20States%20Armed%20Forces.pdf",
+          "icon": "https://serpapi.com/searches/6a3a216188aca440f45e36ae/images/aj7iYILp0f9XueITUn4JS0yf1xQoqrNRXVAiuzmcPheKyvMWZzrDYt5R_yX1OHI6.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.studyguides.af.mil/Portals/15/documents/rank_ribbons/Officer%20Rank%20Insignia%20of%20the%20United%20States%20Armed%20Forces.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.studyguides.af.mil%2FPortals%2F15%2Fdocuments%2Frank_ribbons%2FOfficer%2520Rank%2520Insignia%2520of%2520the%2520United%2520States%2520Armed%2520Forces.pdf",
+      "source": "USAF Enlisted Promotion Study Guides (.mil)",
+      "read_more_link": "https://www.studyguides.af.mil/Portals/15/documents/rank_ribbons/Officer%20Rank%20Insignia%20of%20the%20United%20States%20Armed%20Forces.pdf#:~:text=Rank%20Insignia%20of%20the%20United,(2d%20Lt)"
+    },
+    {
+      "position": 6,
+      "title": "rank insignia of the us armed forces",
+      "link": "https://www.army.mil/e2/downloads/rv7/symbols/ranks.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.army.mil/e2/downloads/rv7/symbols/ranks.pdf&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQFnoECC4QAQ",
+      "displayed_link": "https://www.army.mil › symbols › ranks",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEUjHyAhHSA2Lx4eGyAAACLCoAwSEyAACCH_2QBpVhsZFyBpWRqzlxDIqQz_zwDsxAYfHCD70AD_zQH_0wBhUht1Yxn_1QDDpA3kvQcNDiFPRBxGPR31zABrWxlBOB1URxz_1wC5mxB5ZxfwxASdhRMRESEAACHetgouKR-GcRdaTRupjRIoJB-khxP_4AA4MR5SEODtAAABEElEQVR4AWKgFmDEJ8fEjFsSUBdVIDcMA8E6lpl1jagGOTHj_19XCiujGzimXWTZ-qTjer4u5wduiLRTozjRzTXSDMOnZq59JDGoc1PzIohCBIxfvetTQnxdJHcPORTlxRH_ObNiMvsTiHNUQ3axs9Ol1fcjF-NznmcNCrI8P2MsWdnezkReFicB6viH36FDH8sGPeHIh57I8A93fyQkn15PNp0Zu01r-oULdGmVJ1OekApNzpKQ0n5DoCCsWyV1anflarKrZR1JCecZmKPi6ic4huzISIylSrk_SUx6m6NQYpiVVqcmvxCkv7Qdc2AK-G3ORHd9mW77y1xzoqZ9s7vm9V6jbI2nHeXrRYbe08gPGtgVh5zv5t0AAAAASUVORK5CYII.png",
+      "snippet": "Page 1. RANK INSIGNIA OF THE U.S. ARMED FORCES. ENLISTED. E-1. E-2. E-3. E-4. E-5. E-6. E-7. E-8. E-9. SENIOR. ENLISTED. ADVISORS. ARMY no.",
+      "snippet_highlighted_words": [
+        "RANK INSIGNIA OF THE U.S. ARMED FORCES"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 2
+          },
+          "extensions": [
+            "2 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Page 1. RANK INSIGNIA OF THE U.S. ARMED FORCES. ENLISTED. E-1. E-2. E-3. E-4. E-5. E-6. E-7. E-8. E-9. SENIOR. ENLISTED. ADVISORS. ARMY no.",
+          "source_info_link": "https://www.army.mil/e2/downloads/rv7/symbols/ranks.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEUjHyAhHSA2Lx4eGyAAACLCoAwSEyAACCH_2QBpVhsZFyBpWRqzlxDIqQz_zwDsxAYfHCD70AD_zQH_0wBhUht1Yxn_1QDDpA3kvQcNDiFPRBxGPR31zABrWxlBOB1URxz_1wC5mxB5ZxfwxASdhRMRESEAACHetgouKR-GcRdaTRupjRIoJB-khxP_4AA4MR5SEODtAAABEElEQVR4AWKgFmDEJ8fEjFsSUBdVIDcMA8E6lpl1jagGOTHj_19XCiujGzimXWTZ-qTjer4u5wduiLRTozjRzTXSDMOnZq59JDGoc1PzIohCBIxfvetTQnxdJHcPORTlxRH_ObNiMvsTiHNUQ3axs9Ol1fcjF-NznmcNCrI8P2MsWdnezkReFicB6viH36FDH8sGPeHIh57I8A93fyQkn15PNp0Zu01r-oULdGmVJ1OekApNzpKQ0n5DoCCsWyV1anflarKrZR1JCecZmKPi6ic4huzISIylSrk_SUx6m6NQYpiVVqcmvxCkv7Qdc2AK-G3ORHd9mW77y1xzoqZ9s7vm9V6jbI2nHeXrRYbe08gPGtgVh5zv5t0AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.army.mil/e2/downloads/rv7/symbols/ranks.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.army.mil%2Fe2%2Fdownloads%2Frv7%2Fsymbols%2Franks.pdf",
+      "source": "Army.mil",
+      "read_more_link": "https://www.army.mil/e2/downloads/rv7/symbols/ranks.pdf#:~:text=Page%201,no"
+    },
+    {
+      "position": 7,
+      "title": "15.5: Military Ranks and Abbreviations",
+      "link": "https://human.libretexts.org/Bookshelves/Composition/Specialized_Composition/The_Tongue_and_Quill_(U.S._Air_Force)/15%3A_The_Personal_Letter/15.5%3A_Military_Ranks_and_Abbreviations",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://human.libretexts.org/Bookshelves/Composition/Specialized_Composition/The_Tongue_and_Quill_(U.S._Air_Force)/15%253A_The_Personal_Letter/15.5%253A_Military_Ranks_and_Abbreviations&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQFnoECDIQAQ",
+      "displayed_link": "https://human.libretexts.org › ... › 15: The Personal Letter",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEVHcEwAn4wHt44K1JMHz5ICnosBpI0CvJMAvpMAnIoH3ZQG3JQZW3cG3ZQAoo0IrIwG0ZQG1JT___8BoowAs5AByJMBvJMC1pIDz5MAqY8BwJQAro4F3JQCtpIAuZMAw5Oz59rf9_IF4ZT1_fvG8eSi3tBs2rVhyKxKvKNFyKQkrJJ8lZ7gAAAAEnRSTlMAvyI7Yk6KEpf8hbUD0dcL08nzqPVJAAABLklEQVQokXWSi5aCIBBArczWtGwFiaQS5GH1_x-4zCCm2-7l6GHm6uAISTKjTPeb5B_Sa9_3xfovtTn0gX31W62L68Q5Xahyj0kA9WG2dMox74wxLkzPxS6o6hsizk0NmNGOtU8caBQ6LXkESu_A8MYGp12DoU9-gWyATqJ0HQQcb2_5RFcrhk_ihbLztC44bVgXQdkCA3yLca5lbWQhlVKDlPrJ5pIB1HdiHtoOkkXekgns0wq6lHcEXq2Nvd0nUN4QlFI-6W2EoqSI8H9BSS3oBEpBYVygGV0PQoRYCJCVCLx0LZWVREQy2JXsghBrrXrU5BIJO7rFBHkN0lgb5Wrc7aTKCJDn5JHjjBy38_O1Csng8uUJ87WP3oSRfZxNr3NktU7KD1eWZebVfLEfcKozLCjS8tsAAAAASUVORK5CYII.png",
+      "date": "Oct 25, 2022",
+      "snippet": "15.5: Military Ranks and Abbreviations ; O-5, Lieutenant Colonel, LTC ; O-4, Major, MAJ ; O-3, Captain, CPT ; O-2, First Lieutenant, 1LT ...",
+      "snippet_highlighted_words": [
+        "15.5: Military Ranks and Abbreviations"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "15.5: Military Ranks and Abbreviations ; O-5, Lieutenant Colonel, LTC ; O-4, Major, MAJ ; O-3, Captain, CPT ; O-2, First Lieutenant, 1LT ...",
+          "source_info_link": "https://human.libretexts.org/Bookshelves/Composition/Specialized_Composition/The_Tongue_and_Quill_(U.S._Air_Force)/15%3A_The_Personal_Letter/15.5%3A_Military_Ranks_and_Abbreviations",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEVHcEwAn4wHt44K1JMHz5ICnosBpI0CvJMAvpMAnIoH3ZQG3JQZW3cG3ZQAoo0IrIwG0ZQG1JT___8BoowAs5AByJMBvJMC1pIDz5MAqY8BwJQAro4F3JQCtpIAuZMAw5Oz59rf9_IF4ZT1_fvG8eSi3tBs2rVhyKxKvKNFyKQkrJJ8lZ7gAAAAEnRSTlMAvyI7Yk6KEpf8hbUD0dcL08nzqPVJAAABLklEQVQokXWSi5aCIBBArczWtGwFiaQS5GH1_x-4zCCm2-7l6GHm6uAISTKjTPeb5B_Sa9_3xfovtTn0gX31W62L68Q5Xahyj0kA9WG2dMox74wxLkzPxS6o6hsizk0NmNGOtU8caBQ6LXkESu_A8MYGp12DoU9-gWyATqJ0HQQcb2_5RFcrhk_ihbLztC44bVgXQdkCA3yLca5lbWQhlVKDlPrJ5pIB1HdiHtoOkkXekgns0wq6lHcEXq2Nvd0nUN4QlFI-6W2EoqSI8H9BSS3oBEpBYVygGV0PQoRYCJCVCLx0LZWVREQy2JXsghBrrXrU5BIJO7rFBHkN0lgb5Wrc7aTKCJDn5JHjjBy38_O1Csng8uUJ87WP3oSRfZxNr3NktU7KD1eWZebVfLEfcKozLCjS8tsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://human.libretexts.org/Bookshelves/Composition/Specialized_Composition/The_Tongue_and_Quill_(U.S._Air_Force)/15%3A_The_Personal_Letter/15.5%3A_Military_Ranks_and_Abbreviations&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhuman.libretexts.org%2FBookshelves%2FComposition%2FSpecialized_Composition%2FThe_Tongue_and_Quill_%28U.S._Air_Force%29%2F15%253A_The_Personal_Letter%2F15.5%253A_Military_Ranks_and_Abbreviations",
+      "source": "Humanities LibreTexts",
+      "read_more_link": "https://human.libretexts.org/Bookshelves/Composition/Specialized_Composition/The_Tongue_and_Quill_(U.S._Air_Force)/15%3A_The_Personal_Letter/15.5%3A_Military_Ranks_and_Abbreviations#:~:text=15.5%3A%20Military%20Ranks%20and%20Abbreviations&text=O%2D5,LTC&text=O%2D4,MAJ&text=O%2D3,CPT&text=O%2D2,1LT"
+    },
+    {
+      "position": 8,
+      "title": "Navy Rank Abbreviations",
+      "link": "https://www.cem.va.gov/docs/wcag/hmm/Inscription-Abbreviations-Ranks-Navy.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cem.va.gov/docs/wcag/hmm/Inscription-Abbreviations-Ranks-Navy.pdf&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQFnoECCwQAQ",
+      "displayed_link": "https://www.cem.va.gov › docs › wcag › hmm › I...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUBI1hQaIz-_v_O1eC_x9Vwg6FgdZcRMWLe4-qvucufrMAhPm0xTHdAWoLu8PWPnrZb9tf9AAAAX0lEQVR4AWPAA4QMGJwEgtQYGIrU2ZUYLDQZGDjVGDXZNY0KGNi0uNTYVBcJMHBrcKhz6QgtYGAwujSBT8XoAQND0KSES0_8dBgYDikVfArg0mdg4NBkaDrAqMFABAAAdWkQmYKBiOwAAAAASUVORK5CYII.png",
+      "snippet": "Abbreviation Rank Description. 1 BOY. BOY ONE. 1ST C OF MT. FIRST CAPTAIN OF THE MAINTOP. 1ST C OF T. FIRST CAPTAIN OF TOPS.",
+      "snippet_highlighted_words": [
+        "Abbreviation Rank Description"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 69
+          },
+          "extensions": [
+            "69 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Abbreviation Rank Description. 1 BOY. BOY ONE. 1ST C OF MT. FIRST CAPTAIN OF THE MAINTOP. 1ST C OF T. FIRST CAPTAIN OF TOPS.",
+          "source_info_link": "https://www.cem.va.gov/docs/wcag/hmm/Inscription-Abbreviations-Ranks-Navy.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUBI1hQaIz-_v_O1eC_x9Vwg6FgdZcRMWLe4-qvucufrMAhPm0xTHdAWoLu8PWPnrZb9tf9AAAAX0lEQVR4AWPAA4QMGJwEgtQYGIrU2ZUYLDQZGDjVGDXZNY0KGNi0uNTYVBcJMHBrcKhz6QgtYGAwujSBT8XoAQND0KSES0_8dBgYDikVfArg0mdg4NBkaDrAqMFABAAAdWkQmYKBiOwAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.cem.va.gov/docs/wcag/hmm/Inscription-Abbreviations-Ranks-Navy.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.cem.va.gov%2Fdocs%2Fwcag%2Fhmm%2FInscription-Abbreviations-Ranks-Navy.pdf",
+      "source": "National Cemetery Administration (.gov)",
+      "read_more_link": "https://www.cem.va.gov/docs/wcag/hmm/Inscription-Abbreviations-Ranks-Navy.pdf#:~:text=Abbreviation%20Rank%20Description,FIRST%20CAPTAIN%20OF%20TOPS"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+rank+abbreviation+chart&sca_esv=c510ba4e6526f391&ei=YSE6auSwOMyKptQPuqWLwQU&start=10&sa=N&sstk=AU9db-BDj5Tsiew6YZrvKIp2YpSEl0az5JBwXuMDa-BH6zKUYMlfHXe0flqB_0gHY4uC90nG6WFf10LJsymIrATbaQnDG1Z_BOexbw&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQ8NMDegQIKxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+rank+abbreviation+chart&sca_esv=c510ba4e6526f391&ei=YSE6auSwOMyKptQPuqWLwQU&start=10&sa=N&sstk=AU9db-BDj5Tsiew6YZrvKIp2YpSEl0az5JBwXuMDa-BH6zKUYMlfHXe0flqB_0gHY4uC90nG6WFf10LJsymIrATbaQnDG1Z_BOexbw&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQ8tMDegQIKxAE",
+      "3": "https://www.google.com/search?q=military+rank+abbreviation+chart&sca_esv=c510ba4e6526f391&ei=YSE6auSwOMyKptQPuqWLwQU&start=20&sa=N&sstk=AU9db-BDj5Tsiew6YZrvKIp2YpSEl0az5JBwXuMDa-BH6zKUYMlfHXe0flqB_0gHY4uC90nG6WFf10LJsymIrATbaQnDG1Z_BOexbw&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQ8tMDegQIKxAG",
+      "4": "https://www.google.com/search?q=military+rank+abbreviation+chart&sca_esv=c510ba4e6526f391&ei=YSE6auSwOMyKptQPuqWLwQU&start=30&sa=N&sstk=AU9db-BDj5Tsiew6YZrvKIp2YpSEl0az5JBwXuMDa-BH6zKUYMlfHXe0flqB_0gHY4uC90nG6WFf10LJsymIrATbaQnDG1Z_BOexbw&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQ8tMDegQIKxAI",
+      "5": "https://www.google.com/search?q=military+rank+abbreviation+chart&sca_esv=c510ba4e6526f391&ei=YSE6auSwOMyKptQPuqWLwQU&start=40&sa=N&sstk=AU9db-BDj5Tsiew6YZrvKIp2YpSEl0az5JBwXuMDa-BH6zKUYMlfHXe0flqB_0gHY4uC90nG6WFf10LJsymIrATbaQnDG1Z_BOexbw&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQ8tMDegQIKxAK",
+      "6": "https://www.google.com/search?q=military+rank+abbreviation+chart&sca_esv=c510ba4e6526f391&ei=YSE6auSwOMyKptQPuqWLwQU&start=50&sa=N&sstk=AU9db-BDj5Tsiew6YZrvKIp2YpSEl0az5JBwXuMDa-BH6zKUYMlfHXe0flqB_0gHY4uC90nG6WFf10LJsymIrATbaQnDG1Z_BOexbw&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQ8tMDegQIKxAM",
+      "7": "https://www.google.com/search?q=military+rank+abbreviation+chart&sca_esv=c510ba4e6526f391&ei=YSE6auSwOMyKptQPuqWLwQU&start=60&sa=N&sstk=AU9db-BDj5Tsiew6YZrvKIp2YpSEl0az5JBwXuMDa-BH6zKUYMlfHXe0flqB_0gHY4uC90nG6WFf10LJsymIrATbaQnDG1Z_BOexbw&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQ8tMDegQIKxAO",
+      "8": "https://www.google.com/search?q=military+rank+abbreviation+chart&sca_esv=c510ba4e6526f391&ei=YSE6auSwOMyKptQPuqWLwQU&start=70&sa=N&sstk=AU9db-BDj5Tsiew6YZrvKIp2YpSEl0az5JBwXuMDa-BH6zKUYMlfHXe0flqB_0gHY4uC90nG6WFf10LJsymIrATbaQnDG1Z_BOexbw&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQ8tMDegQIKxAQ",
+      "9": "https://www.google.com/search?q=military+rank+abbreviation+chart&sca_esv=c510ba4e6526f391&ei=YSE6auSwOMyKptQPuqWLwQU&start=80&sa=N&sstk=AU9db-BDj5Tsiew6YZrvKIp2YpSEl0az5JBwXuMDa-BH6zKUYMlfHXe0flqB_0gHY4uC90nG6WFf10LJsymIrATbaQnDG1Z_BOexbw&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQ8tMDegQIKxAS",
+      "10": "https://www.google.com/search?q=military+rank+abbreviation+chart&sca_esv=c510ba4e6526f391&ei=YSE6auSwOMyKptQPuqWLwQU&start=90&sa=N&sstk=AU9db-BDj5Tsiew6YZrvKIp2YpSEl0az5JBwXuMDa-BH6zKUYMlfHXe0flqB_0gHY4uC90nG6WFf10LJsymIrATbaQnDG1Z_BOexbw&ved=2ahUKEwik5YH_15yVAxVMhYkEHbrSIlgQ8tMDegQIKxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+rank+abbreviation+chart&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+rank+abbreviation+chart&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+rank+abbreviation+chart&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+rank+abbreviation+chart&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+rank+abbreviation+chart&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+rank+abbreviation+chart&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+rank+abbreviation+chart&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+rank+abbreviation+chart&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+rank+abbreviation+chart&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+rank+abbreviation+chart&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+rank+abbreviation+chart&start=90"
+    }
+  }
+}

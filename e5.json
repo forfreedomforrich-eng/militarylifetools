@@ -1,0 +1,377 @@
+{
+  "search_metadata": {
+    "id": "6a3a2214f5d5ac16c319a3e4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YWJJizSYy6m3c5_nJQcknQ/6a3a2214f5d5ac16c319a3e4.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/YWJJizSYy6m3c5_nJQcknQ/6a3a2214f5d5ac16c319a3e4.json_with_pixel_position",
+    "created_at": "2026-06-23 06:05:08 UTC",
+    "processed_at": "2026-06-23 06:05:08 UTC",
+    "google_url": "https://www.google.com/search?q=military+E-5+pay+calculator+2026&oq=military+E-5+pay+calculator+2026&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/YWJJizSYy6m3c5_nJQcknQ/6a3a2214f5d5ac16c319a3e4.html",
+    "total_time_taken": 1.97
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military E-5 pay calculator 2026",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military E-5 pay calculator 2026",
+    "total_results": 100,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "iql16XicxVbbkqo4FH2f_zi-dCvgna6iTiVcFK9Ne-8XCgEjCqKA0Pg2_zJfNS_zKycgKNrYXXOqpiYWCQnZa1-yV7Z__mUau-3ff_yz9ry9-0IQQRCUkG0jUy-ptkUobrhTiZVtuo66_hn6TKWgugxZ0A1GMMS64nBr1i-aB8999V8PmiFNCrEIIy8VV99gxI-NS8gE7rY_KhyelNySviuZQOKQYw35kVgqkxRdGhKKhTeA_7DxQETRKOIfH8_vG8Tfpe9QWMDiHmWWUKZPGhepAYBl4wHYj9BgbAULIB_phXKfbuLhvJ1Dj6QAGN1OZ7FlIIgAsQt8rhN5cOlaaiB8oC_flFjNJJlUMx8-hzZqOBrZ8HYxbBWoALwlC8N0X1YdQjzg0vV2MOzDIf_21SFh51t90Ny-suIXuyLrRScQkvdgsMBKCQ3hHCSJpYMHijDUtRq_OG6UmuyYJu12r1upSPaGbdTpTW20qn0Ie9pq6xoaIkJd4n2mrWi6Jq9l8mc8p8pUjaQrjeZzzAnVvZDCzZIC9Re94BhQYpEv9UqQyjAi9la8OQMcSZwz-X514_7mJNn0JU7KGIr9JBHJlKMNV1w4DiPt_TRK0RFNwKe4RrpyGJHReVWeZC4rXB27RRIT9VnvYHCn8aogSYUF6EoXl3k8jT2UEuOyYBBs4zuglS5csSNUZMYXRMQIHp4RhzfyKGtYdJNICF40S1nrahkhBGAc8U2Iuw6w2fQWikTEJAjdyLpsbrfumeRiU1z04OC_aw9voYydae7fpXKWAnxj9b50Tm3OB83uzKsf32XAtmxX762k_JS3reW_KATq_0uKtEx0kwMSckkhfUMKnoVflonzdu5Cinh-eEQKKOaVifONey0Tn0kxuiXFLMLgpZwykSEFSrzKot6TAj4gBUp8yyHFJIcU21xSJGUiQ4p1VbopE2dllzKRkuK3yoT_O2Uipoh-Hm5rxnGDHtYOIRTaNXg6TeWP06g9V6ZrebABmtLygPRt7VhZ3oulaOazbGgvsNzxQu1Zxgv2i64VDoxlmIanOOETX6w97ZXwSVVM9Wgqnu08lclyvWCZjs2QSr2jBRtlQBWlaWu7kcHwNBvraNVtjStjb1XZCY2qzytkYznurdp05-DU6E6jGEK9D2nNDnmyas7VeXOqeMDY6cXKVPU5UxROu_cTP_Hne2Hf53q9N2nuf7QEx2g7zkBF4yI1dw6-RMLTkR7Mp3VbrzeGHR5sO4vYMJdZgLVtkuPWgOwXsFeuzlAFy1EZnAtVBAYSmCH8V4FdAIlF-LHxE-AsKbiqIuuuz6g1ilwqVb1eK9dXFRoLIy_cM1Wq4O4chvoFG9EWRw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=iql16XicxVbbkqo4FH2f_zi-dCvgna6iTiVcFK9Ne-8XCgEjCqKA0Pg2_zJfNS_zKycgKNrYXXOqpiYWCQnZa1-yV7Z__mUau-3ff_yz9ry9-0IQQRCUkG0jUy-ptkUobrhTiZVtuo66_hn6TKWgugxZ0A1GMMS64nBr1i-aB8999V8PmiFNCrEIIy8VV99gxI-NS8gE7rY_KhyelNySviuZQOKQYw35kVgqkxRdGhKKhTeA_7DxQETRKOIfH8_vG8Tfpe9QWMDiHmWWUKZPGhepAYBl4wHYj9BgbAULIB_phXKfbuLhvJ1Dj6QAGN1OZ7FlIIgAsQt8rhN5cOlaaiB8oC_flFjNJJlUMx8-hzZqOBrZ8HYxbBWoALwlC8N0X1YdQjzg0vV2MOzDIf_21SFh51t90Ny-suIXuyLrRScQkvdgsMBKCQ3hHCSJpYMHijDUtRq_OG6UmuyYJu12r1upSPaGbdTpTW20qn0Ie9pq6xoaIkJd4n2mrWi6Jq9l8mc8p8pUjaQrjeZzzAnVvZDCzZIC9Re94BhQYpEv9UqQyjAi9la8OQMcSZwz-X514_7mJNn0JU7KGIr9JBHJlKMNV1w4DiPt_TRK0RFNwKe4RrpyGJHReVWeZC4rXB27RRIT9VnvYHCn8aogSYUF6EoXl3k8jT2UEuOyYBBs4zuglS5csSNUZMYXRMQIHp4RhzfyKGtYdJNICF40S1nrahkhBGAc8U2Iuw6w2fQWikTEJAjdyLpsbrfumeRiU1z04OC_aw9voYydae7fpXKWAnxj9b50Tm3OB83uzKsf32XAtmxX762k_JS3reW_KATq_0uKtEx0kwMSckkhfUMKnoVflonzdu5Cinh-eEQKKOaVifONey0Tn0kxuiXFLMLgpZwykSEFSrzKot6TAj4gBUp8yyHFJIcU21xSJGUiQ4p1VbopE2dllzKRkuK3yoT_O2Uipoh-Hm5rxnGDHtYOIRTaNXg6TeWP06g9V6ZrebABmtLygPRt7VhZ3oulaOazbGgvsNzxQu1Zxgv2i64VDoxlmIanOOETX6w97ZXwSVVM9Wgqnu08lclyvWCZjs2QSr2jBRtlQBWlaWu7kcHwNBvraNVtjStjb1XZCY2qzytkYznurdp05-DU6E6jGEK9D2nNDnmyas7VeXOqeMDY6cXKVPU5UxROu_cTP_Hne2Hf53q9N2nuf7QEx2g7zkBF4yI1dw6-RMLTkR7Mp3VbrzeGHR5sO4vYMJdZgLVtkuPWgOwXsFeuzlAFy1EZnAtVBAYSmCH8V4FdAIlF-LHxE-AsKbiqIuuuz6g1ilwqVb1eK9dXFRoLIy_cM1Wq4O4chvoFG9EWRw"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Military Pay Calculator",
+      "link": "https://www.military.com/benefits/military-pay/calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/benefits/military-pay/calculator&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQFnoECBIQAQ",
+      "displayed_link": "https://www.military.com › benefits › calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "snippet": "2026 Military Pay. The Military Pay Calculator is the perfect tool to help you figure out how much you make as a U.S. military service member.",
+      "snippet_highlighted_words": [
+        "2026 Military Pay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "2026 Military Pay. The Military Pay Calculator is the perfect tool to help you figure out how much you make as a U.S. military service member.",
+          "source_info_link": "https://www.military.com/benefits/military-pay/calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/benefits/military-pay/calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fbenefits%2Fmilitary-pay%2Fcalculator",
+      "source": "Military.com",
+      "read_more_link": "https://www.military.com/benefits/military-pay/calculator#:~:text=2026%20Military%20Pay,a%20U.S.%20military%20service%20member."
+    },
+    {
+      "position": 2,
+      "title": "Regular Military Compensation (RMC) Calculator",
+      "link": "https://militarypay.defense.gov/calculators/rmc-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/calculators/rmc-calculator/&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQFnoECBgQAQ",
+      "displayed_link": "https://militarypay.defense.gov › calculators › rmc-calcul...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "This calculator will compute your regular military compensation based on your inputs. Regular military compensation is the approximate amount of an equivalent ...",
+      "snippet_highlighted_words": [
+        "compute your regular military compensation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator will compute your regular military compensation based on your inputs. Regular military compensation is the approximate amount of an equivalent ...",
+          "source_info_link": "https://militarypay.defense.gov/calculators/rmc-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/calculators/rmc-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2Fcalculators%2Frmc-calculator%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/calculators/rmc-calculator/#:~:text=This%20calculator%20will%20compute%20your,of%20an%20equivalent%20civilian%20salary."
+    },
+    {
+      "position": 3,
+      "title": "2026 Military Pay Calculator",
+      "link": "https://veteran.com/military-pay-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://veteran.com/military-pay-calculator/&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQFnoECBEQAQ",
+      "displayed_link": "https://veteran.com › Military Pay",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAGUEAGUEAGUEAGUEAGUEAGUEAGUEAGEEAGUEAGUEAGUEAGUEAGUEAFkAAGUF_LUbYPkvYPkvZPkteJkS-OUncP0vYPkvLO0rYPkvYPktuxi__AAAAG3RSTlMAb3sQhI7_IqXPNrji9EpaB1zF__91S5b2uSUp5I2JAAAAzklEQVR4AZ2SURZAQAwDCwAAYO9_UFp9efErQHbAQP4nip9EwknSZyjVvSzXFAxLHansMIMlQxupbbexfWKR9lYstcFYkE575KXV0oH1nysN1nrxVNqy7wNUXgprCSBs4NGAwYY9ELaJyYNtIngMIGQDj3EEgo17pDJNQLBxj1HmmWH62pX-2MvC1x0NKlvXbT-W5dj3aadv6DkXz4yzC8B-f9lE162MmNDEDDb-YS-7KAjejXrIcoZwLgB4q-oxXVqvjeFoP2QhErRh8y83vmcMCfkRWd8AAAAASUVORK5CYII.png",
+      "date": "Feb 3, 2026",
+      "snippet": "The below military pay calculator allows you to see current, past and proposed military pay by pay grade, location and branch of service.",
+      "snippet_highlighted_words": [
+        "military pay calculator",
+        "military pay",
+        "pay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The below military pay calculator allows you to see current, past and proposed military pay by pay grade, location and branch of service.",
+          "source_info_link": "https://veteran.com/military-pay-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAGUEAGUEAGUEAGUEAGUEAGUEAGUEAGEEAGUEAGUEAGUEAGUEAGUEAFkAAGUF_LUbYPkvYPkvZPkteJkS-OUncP0vYPkvLO0rYPkvYPktuxi__AAAAG3RSTlMAb3sQhI7_IqXPNrji9EpaB1zF__91S5b2uSUp5I2JAAAAzklEQVR4AZ2SURZAQAwDCwAAYO9_UFp9efErQHbAQP4nip9EwknSZyjVvSzXFAxLHansMIMlQxupbbexfWKR9lYstcFYkE575KXV0oH1nysN1nrxVNqy7wNUXgprCSBs4NGAwYY9ELaJyYNtIngMIGQDj3EEgo17pDJNQLBxj1HmmWH62pX-2MvC1x0NKlvXbT-W5dj3aadv6DkXz4yzC8B-f9lE162MmNDEDDb-YS-7KAjejXrIcoZwLgB4q-oxXVqvjeFoP2QhErRh8y83vmcMCfkRWd8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://veteran.com/military-pay-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fveteran.com%2Fmilitary-pay-calculator%2F",
+      "source": "Veteran.com",
+      "read_more_link": "https://veteran.com/military-pay-calculator/#:~:text=The%20below%20military%20pay%20calculator,location%20and%20branch%20of%20service."
+    },
+    {
+      "position": 4,
+      "title": "Military Pay Tables & Information",
+      "link": "https://www.dfas.mil/militarymembers/payentitlements/Pay-Tables/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dfas.mil/militarymembers/payentitlements/Pay-Tables/&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQFnoECA8QAQ",
+      "displayed_link": "https://www.dfas.mil › militarymembers › payentitlements",
+      "favicon": "https://serpapi.com/searches/6a3a2214f5d5ac16c319a3e4/images/kXfTbaJcGOJyMwGYpP8QpYocKGx8iTW_h1Lk9C4wQHQ.png",
+      "snippet": "Military Pay Tables & Information. Basic Pay Rates: Commissioned Officers (Posted Jan 2026); Commissioned Officers Credited with More Than 4 Years of ...",
+      "snippet_highlighted_words": [
+        "Military Pay",
+        "Pay",
+        "2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military Pay Tables & Information. Basic Pay Rates: Commissioned Officers (Posted Jan 2026); Commissioned Officers Credited with More Than 4 Years of ...",
+          "source_info_link": "https://www.dfas.mil/militarymembers/payentitlements/Pay-Tables/",
+          "icon": "https://serpapi.com/searches/6a3a2214f5d5ac16c319a3e4/images/kXfTbaJcGOJyMwGYpP8QpdSrA1QdZcFI98euIMLPyDi-0Pq54K82GcKJUyTD-NOR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.dfas.mil/militarymembers/payentitlements/Pay-Tables/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dfas.mil%2Fmilitarymembers%2Fpayentitlements%2FPay-Tables%2F",
+      "source": "Defense Finance Accounting Service (DFAS) (.mil)",
+      "read_more_link": "https://www.dfas.mil/militarymembers/payentitlements/Pay-Tables/#:~:text=Military%20Pay%20Tables%20%26%20Information,Creditable%20Service%20(Posted%20Jan%202026)"
+    },
+    {
+      "position": 5,
+      "title": "Pay Calculator",
+      "link": "https://nationalguard.com/pay/calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nationalguard.com/pay/calculator&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQFnoECBcQAQ",
+      "displayed_link": "https://nationalguard.com › pay › calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB0AAAAgCAMAAADZqYNOAAAAw1BMVEWJiYkAAAADAACQkJA0MzM7OztwXRWPeBuMdRoODAOUfBxLPw4wKAlBNwyFbxkoIQhVRxA7MQvlvyvKqSaihx_AoSTTsCj_3DKZgB2njB-2mCLduSr60S9pWBSmix-afgAeGQaDawBcTABCMwAsIABqVwBIOwBSQgCpqal8fHyxsbFRUVHCw8RvcHJjY2ODg4OXl5dMTEwbHSPZ2dnn5-fs7OwoKChaWlo5OTn___8bGxvQ0NAxMzoFDRoAABGLdBX_5jQ3-cxHAAABiElEQVR4AYyMAwLEMBREO1vk17Z9_xOuVffFGXAcLluA54QdVeBEXLDOBeJdhcTWkPBSGdZgb5WwBp1UZYWI0X29D8bkSVbVoBsGTAu2LgHStNlx4fleYIVwIooTY6KqvoModWMri7MIqYuJ6gcOeZRaeZyxApExVUtUddPadddrQ458nKq3MqkiwYEQCELcc1n3IzI-SJDI_1-1WISk8GoFGmFIaFFWqG5a2nQgl_ZszMdoRDBCfdUjlEvLIRY1FhUCpcRVPUSZtC1oKaiEDZQEwSHZZVJOh6QFAKtBM2yanqpbqTbSkHFd90UDmBI97PWtLSOmYlyykjeV2bHC5C9JIbTdfu-nQ2ft3R8dZ7PjcXb0k98t8j9K-Hv838X2LFu9rM7y7cJJfcXCzds6Us-n57hZuo_wFVtDt8DJ23fw9haifL9NAouBIsLtonbE5m0ZGEEUUEqZKkZ6c5nOFymLyjgJUB4cpDwXKX_AlYrSCKThGRpFKkkjihZ6UO8yl0awegDYLfEPBV47hPrqjNsAAAAASUVORK5CYII.png",
+      "snippet": "pay Calculator. Enlistment Type. Please select one. Enlisted. Officer. Continue. Not ready to connect with a recruiter? Sign up to learn more about serving ...",
+      "snippet_highlighted_words": [
+        "pay Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "pay Calculator. Enlistment Type. Please select one. Enlisted. Officer. Continue. Not ready to connect with a recruiter? Sign up to learn more about serving ...",
+          "source_info_link": "https://nationalguard.com/pay/calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB0AAAAgCAMAAADZqYNOAAAAw1BMVEWJiYkAAAADAACQkJA0MzM7OztwXRWPeBuMdRoODAOUfBxLPw4wKAlBNwyFbxkoIQhVRxA7MQvlvyvKqSaihx_AoSTTsCj_3DKZgB2njB-2mCLduSr60S9pWBSmix-afgAeGQaDawBcTABCMwAsIABqVwBIOwBSQgCpqal8fHyxsbFRUVHCw8RvcHJjY2ODg4OXl5dMTEwbHSPZ2dnn5-fs7OwoKChaWlo5OTn___8bGxvQ0NAxMzoFDRoAABGLdBX_5jQ3-cxHAAABiElEQVR4AYyMAwLEMBREO1vk17Z9_xOuVffFGXAcLluA54QdVeBEXLDOBeJdhcTWkPBSGdZgb5WwBp1UZYWI0X29D8bkSVbVoBsGTAu2LgHStNlx4fleYIVwIooTY6KqvoModWMri7MIqYuJ6gcOeZRaeZyxApExVUtUddPadddrQ458nKq3MqkiwYEQCELcc1n3IzI-SJDI_1-1WISk8GoFGmFIaFFWqG5a2nQgl_ZszMdoRDBCfdUjlEvLIRY1FhUCpcRVPUSZtC1oKaiEDZQEwSHZZVJOh6QFAKtBM2yanqpbqTbSkHFd90UDmBI97PWtLSOmYlyykjeV2bHC5C9JIbTdfu-nQ2ft3R8dZ7PjcXb0k98t8j9K-Hv838X2LFu9rM7y7cJJfcXCzds6Us-n57hZuo_wFVtDt8DJ23fw9haifL9NAouBIsLtonbE5m0ZGEEUUEqZKkZ6c5nOFymLyjgJUB4cpDwXKX_AlYrSCKThGRpFKkkjihZ6UO8yl0awegDYLfEPBV47hPrqjNsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://nationalguard.com/pay/calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnationalguard.com%2Fpay%2Fcalculator",
+      "source": "Army National Guard",
+      "read_more_link": "https://nationalguard.com/pay/calculator#:~:text=pay%20Calculator,about%20serving%20in%20the%20Guard."
+    },
+    {
+      "position": 6,
+      "title": "U.S. Air Force Pay Calculator 2026: Calculate Your Earnings",
+      "link": "https://www.airforce.com/pay-and-benefits/pay-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.airforce.com/pay-and-benefits/pay-calculator&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQFnoECBMQAQ",
+      "displayed_link": "https://www.airforce.com › Pay and benefits",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEVHcEyurrOfnp-Li4upqam-vr90c3Rta2xXVVVTUFBfXV2BgIJraGpAPT5qaGiJiYpXVFVzcnN-e31fXV6cnZyHhYdHRERgX19-fX2tra5_f39BPD04NTZST1FJRkeDgYFJRkZtbGxMSUpwb29FQkNOTE1OTExHQ0RlY2R8e3tbWFqKiYqfn6D___98enyfnqCVlJZwbm9tbG1_foBMSEpdWlyztLVMSEl9enpXV04PAAAAOXRSTlMAAh40CwY7nsMovk7T91RF_LCa80lRyotXFGbr_f_mBuaS_nP929u0__6i3P8CYMz8-___w-n_wx6ywyN8AAAA60lEQVR4AdzKxYEDMRBE0RYPSxpmMzM7_8QWzZCA_7FewWeFMKFwFyWYnYwLw7xH0xL8hLbjeugOPdex0T9KR2l8a1grR57uxA-C8BbDIPDJCVkUu4mJzoTMxI1TBqeyvChjO0N_lNlxWeQZXMpEVdaCNAAaRDTLStwYNFpB1XbjDsad2G1XQatxg0haP1u3J0S_-_OyJIKbmDdw22o4Gg1V2x14DbiL8WQ8mf40GSecwUMzPF8sR6PlYo4RPEWs1Wi93qws8mw03e6W-_1yd0jpszaOUne7Wh4b8CoWGUbE4E0Z59-TpEPiAgARchH_Qrwx3AAAAABJRU5ErkJggg.png",
+      "snippet": "E-5 STAFF SERGEANT. Payment table. Years, Benefit. < 2 YEARS. $3,342.90 *. 2 YEARS. $3,598.20 *. 3 YEARS. $3,775.80 *. 4 YEARS. $3,946.80 *. 6 YEARS. $4,110.00 ...",
+      "snippet_highlighted_words": [
+        "E-5 STAFF SERGEANT"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "E-5 STAFF SERGEANT. Payment table. Years, Benefit. < 2 YEARS. $3,342.90 *. 2 YEARS. $3,598.20 *. 3 YEARS. $3,775.80 *. 4 YEARS. $3,946.80 *. 6 YEARS. $4,110.00 ...",
+          "source_info_link": "https://www.airforce.com/pay-and-benefits/pay-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEVHcEyurrOfnp-Li4upqam-vr90c3Rta2xXVVVTUFBfXV2BgIJraGpAPT5qaGiJiYpXVFVzcnN-e31fXV6cnZyHhYdHRERgX19-fX2tra5_f39BPD04NTZST1FJRkeDgYFJRkZtbGxMSUpwb29FQkNOTE1OTExHQ0RlY2R8e3tbWFqKiYqfn6D___98enyfnqCVlJZwbm9tbG1_foBMSEpdWlyztLVMSEl9enpXV04PAAAAOXRSTlMAAh40CwY7nsMovk7T91RF_LCa80lRyotXFGbr_f_mBuaS_nP929u0__6i3P8CYMz8-___w-n_wx6ywyN8AAAA60lEQVR4AdzKxYEDMRBE0RYPSxpmMzM7_8QWzZCA_7FewWeFMKFwFyWYnYwLw7xH0xL8hLbjeugOPdex0T9KR2l8a1grR57uxA-C8BbDIPDJCVkUu4mJzoTMxI1TBqeyvChjO0N_lNlxWeQZXMpEVdaCNAAaRDTLStwYNFpB1XbjDsad2G1XQatxg0haP1u3J0S_-_OyJIKbmDdw22o4Gg1V2x14DbiL8WQ8mf40GSecwUMzPF8sR6PlYo4RPEWs1Wi93qws8mw03e6W-_1yd0jpszaOUne7Wh4b8CoWGUbE4E0Z59-TpEPiAgARchH_Qrwx3AAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.airforce.com/pay-and-benefits/pay-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.airforce.com%2Fpay-and-benefits%2Fpay-calculator",
+      "source": "Air Force",
+      "read_more_link": "https://www.airforce.com/pay-and-benefits/pay-calculator#:~:text=E%2D5%20STAFF%20SERGEANT,%243%2C342.90%20*"
+    },
+    {
+      "position": 7,
+      "title": "2026 Military Pay Chart 3.8% (All Pay Grades)",
+      "link": "https://www.navycs.com/charts/2026-military-pay-chart.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.navycs.com/charts/2026-military-pay-chart.html&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQFnoECA0QAQ",
+      "displayed_link": "https://www.navycs.com › Military Pay",
+      "favicon": "https://serpapi.com/searches/6a3a2214f5d5ac16c319a3e4/images/kXfTbaJcGOJyMwGYpP8QpSYG-qWpC7xCZqP9l82yV5E.png",
+      "snippet": "E-5, $3,343, $3,598, $3,776, $3,947, $4,110. E-4, $3,142, $3,303, $3,482, $3,659 ... E pay scale is Enlisted, W scale is Warrant Officer, O scale is Commissioned ...",
+      "snippet_highlighted_words": [
+        "E-5, $3,343, $3,598"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "E-5, $3,343, $3,598, $3,776, $3,947, $4,110. E-4, $3,142, $3,303, $3,482, $3,659 ... E pay scale is Enlisted, W scale is Warrant Officer, O scale is Commissioned ...",
+          "source_info_link": "https://www.navycs.com/charts/2026-military-pay-chart.html",
+          "icon": "https://serpapi.com/searches/6a3a2214f5d5ac16c319a3e4/images/kXfTbaJcGOJyMwGYpP8QpUQq3afl8YRWpxbfqPaNQKdrLO7GX2hjJMTZA_HhRkl9.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.navycs.com/charts/2026-military-pay-chart.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.navycs.com%2Fcharts%2F2026-military-pay-chart.html",
+      "source": "Navy Cyberspace",
+      "read_more_link": "https://www.navycs.com/charts/2026-military-pay-chart.html#:~:text=E%2D5,%243%2C659&text=E%20pay%20scale%20is%20Enlisted%2C,O%20scale%20is%20Commissioned%20Officer."
+    },
+    {
+      "position": 8,
+      "title": "Military Pay Calculator",
+      "link": "https://www.usaa.com/advice/military-pay-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usaa.com/advice/military-pay-calculator/&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQFnoECA4QAQ",
+      "displayed_link": "https://www.usaa.com › advice › military-pay-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEUROVsINVgAHUoAJ1AAMFUsSmft7_G_xcyHlKL____c4OR2hZbR1tvIzdQABz-krbj29_izu8RkdopKYHiWoq7b5-FgAAAA_UlEQVR4Ab2QV2LFIAzAnrExmL3uf9aaTnd9ttmJpCTw-IcFnEP6jXnmEL9RQgQ9RpGUv0LKUjw-sCauDb7BKtKxjTmlevzyscV9ysiSd1fLkYUUWcZJIn7LtZbzptz1FCmHHU7ha0UypSga-ghfrLrBlP2wzHmIulyLv5Szi3gAr2j2sWy5FZ2iOlxrBDsVAOiLVB0hXquKhZe7de6Ta6W-wBDSmJxCArXYDgX2or3wdE95g95tsjNUXQ5hxuU4IE5pjy9whkq4k6Bj3mBh0NJN2XOVvEIMaOAarXff6hmJa2XNzXtxjoJhlD0bldJa3WCpw7uDFnh3ZX-3PAGCSg0ZHfipWAAAAABJRU5ErkJggg.png",
+      "snippet": "Use our military pay calculator to get an idea of what you can earn in the U.S armed forces.",
+      "snippet_highlighted_words": [
+        "Use our military pay calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our military pay calculator to get an idea of what you can earn in the U.S armed forces.",
+          "source_info_link": "https://www.usaa.com/advice/military-pay-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEUROVsINVgAHUoAJ1AAMFUsSmft7_G_xcyHlKL____c4OR2hZbR1tvIzdQABz-krbj29_izu8RkdopKYHiWoq7b5-FgAAAA_UlEQVR4Ab2QV2LFIAzAnrExmL3uf9aaTnd9ttmJpCTw-IcFnEP6jXnmEL9RQgQ9RpGUv0LKUjw-sCauDb7BKtKxjTmlevzyscV9ysiSd1fLkYUUWcZJIn7LtZbzptz1FCmHHU7ha0UypSga-ghfrLrBlP2wzHmIulyLv5Szi3gAr2j2sWy5FZ2iOlxrBDsVAOiLVB0hXquKhZe7de6Ta6W-wBDSmJxCArXYDgX2or3wdE95g95tsjNUXQ5hxuU4IE5pjy9whkq4k6Bj3mBh0NJN2XOVvEIMaOAarXff6hmJa2XNzXtxjoJhlD0bldJa3WCpw7uDFnh3ZX-3PAGCSg0ZHfipWAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.usaa.com/advice/military-pay-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.usaa.com%2Fadvice%2Fmilitary-pay-calculator%2F",
+      "source": "USAA"
+    },
+    {
+      "position": 9,
+      "title": "Military Pay Calculator",
+      "link": "https://mil-cents.com/calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mil-cents.com/calculator&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQFnoECDoQAQ",
+      "displayed_link": "https://mil-cents.com › calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwjBgUiGwsiGgQhIyUVX6IUbLsjCgAePV4XccMORngAOm8NY659eXLX1tWUkY7____n5-jGxsako6G0tbaJhoE-NihlYl0XdssbMkoTWJYQKD9NRjp1cWldWE6FZaNnAAAACHRSTlMAEqS49___IOj_CCIAAADSSURBVHgBlZKLCsIwDACd2rjUrp3ds4nu_z_TMAe2mSge0AOO9AE9_KY6ngqOVRbPBgrM-d0uNdprhsW6yqJrfEbjyhjajKDj7RZ9G2Usxn30oevavu-H3sfwz7bjlDFCEWdEQBDEssxlTIKdkZix5lpFkEFEtLEBbllFXJmJk0xaHdfjcGV3prnfHT_4paQiDYNjzxQaEasI1gJZ2qQjERgyIhSpSNPkuGN6rNrFxXHgTSqiMeiMg5c-XehKm_55ihlHl5YkAl6SxO9f8_en_sITrT8Z8U7hmb4AAAAASUVORK5CYII.png",
+      "snippet": "Enter your details and click Calculate to view your estimated compensation.",
+      "snippet_highlighted_words": [
+        "Enter your details and click Calculate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Enter your details and click Calculate to view your estimated compensation.",
+          "source_info_link": "https://mil-cents.com/calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwjBgUiGwsiGgQhIyUVX6IUbLsjCgAePV4XccMORngAOm8NY659eXLX1tWUkY7____n5-jGxsako6G0tbaJhoE-NihlYl0XdssbMkoTWJYQKD9NRjp1cWldWE6FZaNnAAAACHRSTlMAEqS49___IOj_CCIAAADSSURBVHgBlZKLCsIwDACd2rjUrp3ds4nu_z_TMAe2mSge0AOO9AE9_KY6ngqOVRbPBgrM-d0uNdprhsW6yqJrfEbjyhjajKDj7RZ9G2Usxn30oevavu-H3sfwz7bjlDFCEWdEQBDEssxlTIKdkZix5lpFkEFEtLEBbllFXJmJk0xaHdfjcGV3prnfHT_4paQiDYNjzxQaEasI1gJZ2qQjERgyIhSpSNPkuGN6rNrFxXHgTSqiMeiMg5c-XehKm_55ihlHl5YkAl6SxO9f8_en_sITrT8Z8U7hmb4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://mil-cents.com/calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmil-cents.com%2Fcalculator",
+      "source": "Mil-Cents",
+      "read_more_link": "https://mil-cents.com/calculator#:~:text=Enter%20your%20details%20and%20click,to%20view%20your%20estimated%20compensation."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military e 5 pay calculator 2026 with dependents",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+e+5+pay+calculator+2026+with+dependents&sa=X&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+e+5+pay+calculator+2026+with+dependents"
+    },
+    {
+      "block_position": 1,
+      "query": "Military pay calculator 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+pay+calculator+2026&sa=X&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+pay+calculator+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Military e 5 pay calculator 2026 army",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+e+5+pay+calculator+2026+army&sa=X&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+e+5+pay+calculator+2026+army"
+    },
+    {
+      "block_position": 1,
+      "query": "Military e 5 pay calculator 2026 bah",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+e+5+pay+calculator+2026+bah&sa=X&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+e+5+pay+calculator+2026+bah"
+    },
+    {
+      "block_position": 1,
+      "query": "Military pay calculator monthly",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+pay+calculator+monthly&sa=X&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+pay+calculator+monthly"
+    },
+    {
+      "block_position": 1,
+      "query": "Military pay chart 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+pay+chart+2026&sa=X&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+pay+chart+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "2026 military pay chart calculator with BAH",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=2026+military+pay+chart+calculator+with+BAH&sa=X&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=2026+military+pay+chart+calculator+with+BAH"
+    },
+    {
+      "block_position": 1,
+      "query": "Military pay with dependents calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+pay+with+dependents+calculator&sa=X&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+pay+with+dependents+calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+E-5+pay+calculator+2026&sca_esv=c510ba4e6526f391&ei=FiI6arDhCv-lqtsPvPqdiQU&start=10&sa=N&sstk=AU9db-ABz-fq_jdtGpD2CMvOJ7YoDoWfbIuNlekmbdCw3TZfd1krtKKgacslQuIsjYI9L5IhBxYgbjuIzCtS1LXzKzz5HhItWMW8og&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ8NMDegQIMBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+E-5+pay+calculator+2026&sca_esv=c510ba4e6526f391&ei=FiI6arDhCv-lqtsPvPqdiQU&start=10&sa=N&sstk=AU9db-ABz-fq_jdtGpD2CMvOJ7YoDoWfbIuNlekmbdCw3TZfd1krtKKgacslQuIsjYI9L5IhBxYgbjuIzCtS1LXzKzz5HhItWMW8og&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ8tMDegQIMBAE",
+      "3": "https://www.google.com/search?q=military+E-5+pay+calculator+2026&sca_esv=c510ba4e6526f391&ei=FiI6arDhCv-lqtsPvPqdiQU&start=20&sa=N&sstk=AU9db-ABz-fq_jdtGpD2CMvOJ7YoDoWfbIuNlekmbdCw3TZfd1krtKKgacslQuIsjYI9L5IhBxYgbjuIzCtS1LXzKzz5HhItWMW8og&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ8tMDegQIMBAG",
+      "4": "https://www.google.com/search?q=military+E-5+pay+calculator+2026&sca_esv=c510ba4e6526f391&ei=FiI6arDhCv-lqtsPvPqdiQU&start=30&sa=N&sstk=AU9db-ABz-fq_jdtGpD2CMvOJ7YoDoWfbIuNlekmbdCw3TZfd1krtKKgacslQuIsjYI9L5IhBxYgbjuIzCtS1LXzKzz5HhItWMW8og&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ8tMDegQIMBAI",
+      "5": "https://www.google.com/search?q=military+E-5+pay+calculator+2026&sca_esv=c510ba4e6526f391&ei=FiI6arDhCv-lqtsPvPqdiQU&start=40&sa=N&sstk=AU9db-ABz-fq_jdtGpD2CMvOJ7YoDoWfbIuNlekmbdCw3TZfd1krtKKgacslQuIsjYI9L5IhBxYgbjuIzCtS1LXzKzz5HhItWMW8og&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ8tMDegQIMBAK",
+      "6": "https://www.google.com/search?q=military+E-5+pay+calculator+2026&sca_esv=c510ba4e6526f391&ei=FiI6arDhCv-lqtsPvPqdiQU&start=50&sa=N&sstk=AU9db-ABz-fq_jdtGpD2CMvOJ7YoDoWfbIuNlekmbdCw3TZfd1krtKKgacslQuIsjYI9L5IhBxYgbjuIzCtS1LXzKzz5HhItWMW8og&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ8tMDegQIMBAM",
+      "7": "https://www.google.com/search?q=military+E-5+pay+calculator+2026&sca_esv=c510ba4e6526f391&ei=FiI6arDhCv-lqtsPvPqdiQU&start=60&sa=N&sstk=AU9db-ABz-fq_jdtGpD2CMvOJ7YoDoWfbIuNlekmbdCw3TZfd1krtKKgacslQuIsjYI9L5IhBxYgbjuIzCtS1LXzKzz5HhItWMW8og&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ8tMDegQIMBAO",
+      "8": "https://www.google.com/search?q=military+E-5+pay+calculator+2026&sca_esv=c510ba4e6526f391&ei=FiI6arDhCv-lqtsPvPqdiQU&start=70&sa=N&sstk=AU9db-ABz-fq_jdtGpD2CMvOJ7YoDoWfbIuNlekmbdCw3TZfd1krtKKgacslQuIsjYI9L5IhBxYgbjuIzCtS1LXzKzz5HhItWMW8og&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ8tMDegQIMBAQ",
+      "9": "https://www.google.com/search?q=military+E-5+pay+calculator+2026&sca_esv=c510ba4e6526f391&ei=FiI6arDhCv-lqtsPvPqdiQU&start=80&sa=N&sstk=AU9db-ABz-fq_jdtGpD2CMvOJ7YoDoWfbIuNlekmbdCw3TZfd1krtKKgacslQuIsjYI9L5IhBxYgbjuIzCtS1LXzKzz5HhItWMW8og&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ8tMDegQIMBAS",
+      "10": "https://www.google.com/search?q=military+E-5+pay+calculator+2026&sca_esv=c510ba4e6526f391&ei=FiI6arDhCv-lqtsPvPqdiQU&start=90&sa=N&sstk=AU9db-ABz-fq_jdtGpD2CMvOJ7YoDoWfbIuNlekmbdCw3TZfd1krtKKgacslQuIsjYI9L5IhBxYgbjuIzCtS1LXzKzz5HhItWMW8og&ved=2ahUKEwiwxPvU2JyVAxX_kmoFHTx9J1EQ8tMDegQIMBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+E-5+pay+calculator+2026&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+E-5+pay+calculator+2026&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+E-5+pay+calculator+2026&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+E-5+pay+calculator+2026&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+E-5+pay+calculator+2026&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+E-5+pay+calculator+2026&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+E-5+pay+calculator+2026&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+E-5+pay+calculator+2026&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+E-5+pay+calculator+2026&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+E-5+pay+calculator+2026&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+E-5+pay+calculator+2026&start=90"
+    }
+  }
+}

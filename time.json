@@ -1,0 +1,489 @@
+{
+  "search_metadata": {
+    "id": "6a3a21b33d06eae2ec89611d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zcL-iDPAuzq4MUpVo6yhuw/6a3a21b33d06eae2ec89611d.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/zcL-iDPAuzq4MUpVo6yhuw/6a3a21b33d06eae2ec89611d.json_with_pixel_position",
+    "created_at": "2026-06-23 06:03:31 UTC",
+    "processed_at": "2026-06-23 06:03:31 UTC",
+    "google_url": "https://www.google.com/search?q=military+time+conversion+calculator&oq=military+time+conversion+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/zcL-iDPAuzq4MUpVo6yhuw/6a3a21b33d06eae2ec89611d.html",
+    "total_time_taken": 1.86
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military time conversion calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military time conversion calculator",
+    "total_results": 116,
+    "time_taken_displayed": 0.15,
+    "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+    "spelling_fix": "military time converter calculator"
+  },
+  "related_questions": [
+    {
+      "question": "How do I convert military time to regular time?",
+      "type": "ai_overview",
+      "page_token": "vcNKM3icHdBfbpswHABg9TJ9bGyyZUqkqBL5A2OBCmP_DH6ZjCGYYIMXaGjz1ivsDDtVT1Np3xG-j3-m7bvPh796mty4WSzmeX5qhqEx9ZMa7EKO771aKGlMKVW3Wf1Y4eez2h5uyt9dlZ8y52BPUGaTEwkqP-HruPL0LxXEuKAMsxBmchdB1kfX4nLc14dIV56TqdV-jqGVzLUlCBnnhles-Ebt94wYmBgb5_qi7xKSTBqxr20EcShWjFaUeU5ngeBkhzva6dfUGJZSsWO5vtVBMifQLCmKKPTRKxiBTtwMJ-4kvSR5HbwtSx79EXzqKW7mE1S4DIgvgd0rcD3xYF8Hx5hyPaZGXKmJcApip5BDwuqbyIU46AoxxLwiJ4Vg0MLyJ6Z2nUrkQhGsfSBDmzJyVxdjmde9Z3mDX1iHlNGhOvoJPQrCQxeVxh8L47CYH8_qtl0-_r_e_j7baeOuQ_MFmUGOYA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vcNKM3icHdBfbpswHABg9TJ9bGyyZUqkqBL5A2OBCmP_DH6ZjCGYYIMXaGjz1ivsDDtVT1Np3xG-j3-m7bvPh796mty4WSzmeX5qhqEx9ZMa7EKO771aKGlMKVW3Wf1Y4eez2h5uyt9dlZ8y52BPUGaTEwkqP-HruPL0LxXEuKAMsxBmchdB1kfX4nLc14dIV56TqdV-jqGVzLUlCBnnhles-Ebt94wYmBgb5_qi7xKSTBqxr20EcShWjFaUeU5ngeBkhzva6dfUGJZSsWO5vtVBMifQLCmKKPTRKxiBTtwMJ-4kvSR5HbwtSx79EXzqKW7mE1S4DIgvgd0rcD3xYF8Hx5hyPaZGXKmJcApip5BDwuqbyIU46AoxxLwiJ4Vg0MLyJ6Z2nUrkQhGsfSBDmzJyVxdjmde9Z3mDX1iHlNGhOvoJPQrCQxeVxh8L47CYH8_qtl0-_r_e_j7baeOuQ_MFmUGOYA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VeFdRV3hGZFRkMFlYRTVRbkV3ZURkcFN6SjJNRFJ2ZFZkYVgwUXpORFZEWlZKWWVGaHRia0Z0YjE5M04zTlliR3BFVGw5aGJFdHFSRWM0UWs1alVtbHdjV3RXTkZwMVkyUnlUVzlYTkUxeVlqRkJjRFJETTNwSlVSSVhkRk5GTm1GMFdHVkZZbGR5TlU1dlVHdEtSMlJ2UVZVYUlrRkVjM0k1WmxGWE5sUmxhM2MxTFd4WFdUVXhUbGx3TW5aSGEzWjRRbGcxWkhjIiwiZmN2IjoiMyIsImVpIjoidFNFNmF0WGVFYldyNU5vUGtKR2RvQVUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjBhVzFsSUdOdmJuWmxjbk5wYjI0Z1kyRnNZM1ZzWVhSdmNoQUFmVDdyN2o0IiwicXVlc3Rpb24iOiJIb3cgZG8gSSBjb252ZXJ0IG1pbGl0YXJ5IHRpbWUgdG8gcmVndWxhciB0aW1lPyIsImxrIjoiYzVQU3k4Z3ZWMGpKVjhoVVNNN1BLMHN0S2xISXpjekpMRWtzcWxRb3ljeE5WU2pKVnloS1RTX05TU3dDOHdFIiwiYnMiOiJjLU5LNXRMM3lDOVhTTWxYOEZSSXpzOHJTeTBxVWNqTnpNa3NTU3lxVkNqSnpFMVZLTWxYS0VwTkw4MUpMQUx6N1kwTXBQUXlJRm95aWRQQ0ZjaWw1bG1zWUdpVW1LdVFtWWVtMXNqRXdFQWh2MGpCQUFqc2pkU2xWRE9KVWNrVnphVVRucEZZb2dCU2JXWUZsRUJWQzlTTTZtaHRLYzF5b0hxUWFnVkNxcm5NdVNUQmhrTWtnWG9zUURhQWtiMlJsSlJFT2Fxa0FreFNnQkVBIiwiaWQiOiJmY190U0U2YXRYZUViV3I1Tm9Qa0pHZG9BVV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VeFdRV3hGZFRkMFlYRTVRbkV3ZURkcFN6SjJNRFJ2ZFZkYVgwUXpORFZEWlZKWWVGaHRia0Z0YjE5M04zTlliR3BFVGw5aGJFdHFSRWM0UWs1alVtbHdjV3RXTkZwMVkyUnlUVzlYTkUxeVlqRkJjRFJETTNwSlVSSVhkRk5GTm1GMFdHVkZZbGR5TlU1dlVHdEtSMlJ2UVZVYUlrRkVjM0k1WmxGWE5sUmxhM2MxTFd4WFdUVXhUbGx3TW5aSGEzWjRRbGcxWkhjIiwiZmN2IjoiMyIsImVpIjoidFNFNmF0WGVFYldyNU5vUGtKR2RvQVUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjBhVzFsSUdOdmJuWmxjbk5wYjI0Z1kyRnNZM1ZzWVhSdmNoQUFmVDdyN2o0IiwicXVlc3Rpb24iOiJIb3cgZG8gSSBjb252ZXJ0IG1pbGl0YXJ5IHRpbWUgdG8gcmVndWxhciB0aW1lPyIsImxrIjoiYzVQU3k4Z3ZWMGpKVjhoVVNNN1BLMHN0S2xISXpjekpMRWtzcWxRb3ljeE5WU2pKVnloS1RTX05TU3dDOHdFIiwiYnMiOiJjLU5LNXRMM3lDOVhTTWxYOEZSSXpzOHJTeTBxVWNqTnpNa3NTU3lxVkNqSnpFMVZLTWxYS0VwTkw4MUpMQUx6N1kwTXBQUXlJRm95aWRQQ0ZjaWw1bG1zWUdpVW1LdVFtWWVtMXNqRXdFQWh2MGpCQUFqc2pkU2xWRE9KVWNrVnphVVRucEZZb2dCU2JXWUZsRUJWQzlTTTZtaHRLYzF5b0hxUWFnVkNxcm5NdVNUQmhrTWtnWG9zUURhQWtiMlJsSlJFT2Fxa0FreFNnQkVBIiwiaWQiOiJmY190U0U2YXRYZUViV3I1Tm9Qa0pHZG9BVV8zIn0%3D"
+    },
+    {
+      "question": "Is 12am in military time 2400 or 0000?",
+      "type": "ai_overview",
+      "page_token": "eiDkW3icHZBBbuIwGEY1l-myxIbQAQmNFEIIHcbUTvzH9qYKDiQQm5gSIM1u7jKnmtMUdf1J7z19f_-Zw6n-_-NWta27TAeD-_3-XDZNaXbPurGD_PJ50gOdG7PNdT0dv4zRr72eLa6rYH5eBZQ7ByHzkgO6FFDFSrwygdi1MHIkcJdmgrTbY3TL-4CxqOIEqut2iR5DBAmQEQkrPx-yM-lLzCySm-hnl58IBhyFG_HqClG9pTEAxeaTZJOeQvEhTdlT3gWy7ha0diax0SPNw-SowmTpaorI7zWUPmQtUlbF2iNhUZf-g_qWprJLY5dsMrMktmwzqNbMRHONL_1GFP46M2hnVbCoCo97HEvBpOJwgOEKpXZCc8_FajkJgDUHylmvj8Zy484S3_0_nmwVmsyTDDiFh8eq807QdptFHaVPe32bDZ--_5y97207dR9N-QVtKoN0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eiDkW3icHZBBbuIwGEY1l-myxIbQAQmNFEIIHcbUTvzH9qYKDiQQm5gSIM1u7jKnmtMUdf1J7z19f_-Zw6n-_-NWta27TAeD-_3-XDZNaXbPurGD_PJ50gOdG7PNdT0dv4zRr72eLa6rYH5eBZQ7ByHzkgO6FFDFSrwygdi1MHIkcJdmgrTbY3TL-4CxqOIEqut2iR5DBAmQEQkrPx-yM-lLzCySm-hnl58IBhyFG_HqClG9pTEAxeaTZJOeQvEhTdlT3gWy7ha0diax0SPNw-SowmTpaorI7zWUPmQtUlbF2iNhUZf-g_qWprJLY5dsMrMktmwzqNbMRHONL_1GFP46M2hnVbCoCo97HEvBpOJwgOEKpXZCc8_FajkJgDUHylmvj8Zy484S3_0_nmwVmsyTDDiFh8eq807QdptFHaVPe32bDZ--_5y97207dR9N-QVtKoN0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VeFdRV3hGZFRkMFlYRTVRbkV3ZURkcFN6SjJNRFJ2ZFZkYVgwUXpORFZEWlZKWWVGaHRia0Z0YjE5M04zTlliR3BFVGw5aGJFdHFSRWM0UWs1alVtbHdjV3RXTkZwMVkyUnlUVzlYTkUxeVlqRkJjRFJETTNwSlVSSVhkRk5GTm1GMFdHVkZZbGR5TlU1dlVHdEtSMlJ2UVZVYUlrRkVjM0k1WmxGWE5sUmxhM2MxTFd4WFdUVXhUbGx3TW5aSGEzWjRRbGcxWkhjIiwiZmN2IjoiMyIsImVpIjoidFNFNmF0WGVFYldyNU5vUGtKR2RvQVUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjBhVzFsSUdOdmJuWmxjbk5wYjI0Z1kyRnNZM1ZzWVhSdmNoQUFmVDdyN2o0IiwicXVlc3Rpb24iOiJJcyAxMmFtIGluIG1pbGl0YXJ5IHRpbWUgMjQwMCBvciAwMDAwPyIsImxrIjoiR2lWcGN5QXhNbUZ0SUdsdUlHMXBiR2wwWVhKNUlIUnBiV1VnTWpRd01DQnZjaUF3TURBdyIsImJzIjoiYy1OSzV0TDN5QzlYU01sWDhGUkl6czhyU3kwcVVjak56TWtzU1N5cVZDakp6RTFWS01sWEtFcE5MODFKTEFMejdZME1wUFF5SUZveWlkUENGY2lsNWxtc1lHaVVtS3VRbVllbTFzakV3RUFodjBqQkFBanNqZFNsVkRPSlVja1Z6YVVUbnBGWW9nQlNiV1lGbEVCVkM5U002bWh0S2MxeW9IcVFhZ1ZDcXJuTXVTVEJoa01rZ1hvc1FEYUFrYjJSbEpSRU9hcWtBa3hTZ0JFQSIsImlkIjoiZmNfdFNFNmF0WGVFYldyNU5vUGtKR2RvQVVfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VeFdRV3hGZFRkMFlYRTVRbkV3ZURkcFN6SjJNRFJ2ZFZkYVgwUXpORFZEWlZKWWVGaHRia0Z0YjE5M04zTlliR3BFVGw5aGJFdHFSRWM0UWs1alVtbHdjV3RXTkZwMVkyUnlUVzlYTkUxeVlqRkJjRFJETTNwSlVSSVhkRk5GTm1GMFdHVkZZbGR5TlU1dlVHdEtSMlJ2UVZVYUlrRkVjM0k1WmxGWE5sUmxhM2MxTFd4WFdUVXhUbGx3TW5aSGEzWjRRbGcxWkhjIiwiZmN2IjoiMyIsImVpIjoidFNFNmF0WGVFYldyNU5vUGtKR2RvQVUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjBhVzFsSUdOdmJuWmxjbk5wYjI0Z1kyRnNZM1ZzWVhSdmNoQUFmVDdyN2o0IiwicXVlc3Rpb24iOiJJcyAxMmFtIGluIG1pbGl0YXJ5IHRpbWUgMjQwMCBvciAwMDAwPyIsImxrIjoiR2lWcGN5QXhNbUZ0SUdsdUlHMXBiR2wwWVhKNUlIUnBiV1VnTWpRd01DQnZjaUF3TURBdyIsImJzIjoiYy1OSzV0TDN5QzlYU01sWDhGUkl6czhyU3kwcVVjak56TWtzU1N5cVZDakp6RTFWS01sWEtFcE5MODFKTEFMejdZME1wUFF5SUZveWlkUENGY2lsNWxtc1lHaVVtS3VRbVllbTFzakV3RUFodjBqQkFBanNqZFNsVkRPSlVja1Z6YVVUbnBGWW9nQlNiV1lGbEVCVkM5U002bWh0S2MxeW9IcVFhZ1ZDcXJuTXVTVEJoa01rZ1hvc1FEYUFrYjJSbEpSRU9hcWtBa3hTZ0JFQSIsImlkIjoiZmNfdFNFNmF0WGVFYldyNU5vUGtKR2RvQVVfMyJ9"
+    },
+    {
+      "question": "What is 16:00 military time in regular time?",
+      "type": "ai_overview",
+      "page_token": "7ZzUvXicHdBdboIwAADg7DI-CkhkmYlZxqQog6KlP9iXBdtphQKd4EDfdpedaqdZsu8I3_ePPjfV70Ou-t50C8sahmF6atuT_piKtraK7tYISxRaHwpRLbxHz3k-imXQDf5rO_g7YgxdITur53dGjSdcs2ErELOwG2Uw2AVz9pxFV6F1G2NFxUqVPKeG2NSBIWwTwntUBjPSwM2uRCi3QUxr-ZbV4whLcJUlOjNM1wUGpQDKprZmhBE3ucMsKV9mOOQh0VBnFA7SNQ1ljg-rZJSMcgbkJ2_Ultx5z0GEi7XcinruiTBwEhJkwEUYYa4kUBqxKBclTQ-Of8kqWR1sQMNz5KM1vKWMoz0GHaqRyrROsa1iTsyQAuQVmrNkNr8V9MmdHMXX0p38jy3fj3W_MJf29AcuXnmQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7ZzUvXicHdBdboIwAADg7DI-CkhkmYlZxqQog6KlP9iXBdtphQKd4EDfdpedaqdZsu8I3_ePPjfV70Ou-t50C8sahmF6atuT_piKtraK7tYISxRaHwpRLbxHz3k-imXQDf5rO_g7YgxdITur53dGjSdcs2ErELOwG2Uw2AVz9pxFV6F1G2NFxUqVPKeG2NSBIWwTwntUBjPSwM2uRCi3QUxr-ZbV4whLcJUlOjNM1wUGpQDKprZmhBE3ucMsKV9mOOQh0VBnFA7SNQ1ljg-rZJSMcgbkJ2_Ultx5z0GEi7XcinruiTBwEhJkwEUYYa4kUBqxKBclTQ-Of8kqWR1sQMNz5KM1vKWMoz0GHaqRyrROsa1iTsyQAuQVmrNkNr8V9MmdHMXX0p38jy3fj3W_MJf29AcuXnmQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VeFdRV3hGZFRkMFlYRTVRbkV3ZURkcFN6SjJNRFJ2ZFZkYVgwUXpORFZEWlZKWWVGaHRia0Z0YjE5M04zTlliR3BFVGw5aGJFdHFSRWM0UWs1alVtbHdjV3RXTkZwMVkyUnlUVzlYTkUxeVlqRkJjRFJETTNwSlVSSVhkRk5GTm1GMFdHVkZZbGR5TlU1dlVHdEtSMlJ2UVZVYUlrRkVjM0k1WmxGWE5sUmxhM2MxTFd4WFdUVXhUbGx3TW5aSGEzWjRRbGcxWkhjIiwiZmN2IjoiMyIsImVpIjoidFNFNmF0WGVFYldyNU5vUGtKR2RvQVUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjBhVzFsSUdOdmJuWmxjbk5wYjI0Z1kyRnNZM1ZzWVhSdmNoQUFmVDdyN2o0IiwicXVlc3Rpb24iOiJXaGF0IGlzIDE2OjAwIG1pbGl0YXJ5IHRpbWUgaW4gcmVndWxhciB0aW1lPyIsImxrIjoiYzVQU0xNOUlMQ2xXTURSVE1EQlF5TTNNeVN4SkxLcFVLTW5NVFZYSXpGTW9TazB2elVrc0F2TUIiLCJicyI6ImMtTks1dEwzeUM5WFNNbFg4RlJJenM4clN5MHFVY2pOek1rc1NTeXFWQ2pKekUxVktNbFhLRXBOTDgxSkxBTHo3WTBNcFBReUlGb3lpZFBDRmNpbDVsbXNZR2lVbUt1UW1ZZW0xc2pFd0VBaHYwakJBQWpzamRTbFZET0pVY2tWemFVVG5wRllvZ0JTYldZRmxFQlZDOVNNNm1odEtjMXlvSHFRYWdWQ3Fybk11U1RCaGtNa2dYb3NRRGFBa2IyUmxKUkVPYXFrQWt4U2dCRUEiLCJpZCI6ImZjX3RTRTZhdFhlRWJXcjVOb1BrSkdkb0FVXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VeFdRV3hGZFRkMFlYRTVRbkV3ZURkcFN6SjJNRFJ2ZFZkYVgwUXpORFZEWlZKWWVGaHRia0Z0YjE5M04zTlliR3BFVGw5aGJFdHFSRWM0UWs1alVtbHdjV3RXTkZwMVkyUnlUVzlYTkUxeVlqRkJjRFJETTNwSlVSSVhkRk5GTm1GMFdHVkZZbGR5TlU1dlVHdEtSMlJ2UVZVYUlrRkVjM0k1WmxGWE5sUmxhM2MxTFd4WFdUVXhUbGx3TW5aSGEzWjRRbGcxWkhjIiwiZmN2IjoiMyIsImVpIjoidFNFNmF0WGVFYldyNU5vUGtKR2RvQVUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjBhVzFsSUdOdmJuWmxjbk5wYjI0Z1kyRnNZM1ZzWVhSdmNoQUFmVDdyN2o0IiwicXVlc3Rpb24iOiJXaGF0IGlzIDE2OjAwIG1pbGl0YXJ5IHRpbWUgaW4gcmVndWxhciB0aW1lPyIsImxrIjoiYzVQU0xNOUlMQ2xXTURSVE1EQlF5TTNNeVN4SkxLcFVLTW5NVFZYSXpGTW9TazB2elVrc0F2TUIiLCJicyI6ImMtTks1dEwzeUM5WFNNbFg4RlJJenM4clN5MHFVY2pOek1rc1NTeXFWQ2pKekUxVktNbFhLRXBOTDgxSkxBTHo3WTBNcFBReUlGb3lpZFBDRmNpbDVsbXNZR2lVbUt1UW1ZZW0xc2pFd0VBaHYwakJBQWpzamRTbFZET0pVY2tWemFVVG5wRllvZ0JTYldZRmxFQlZDOVNNNm1odEtjMXlvSHFRYWdWQ3Fybk11U1RCaGtNa2dYb3NRRGFBa2IyUmxKUkVPYXFrQWt4U2dCRUEiLCJpZCI6ImZjX3RTRTZhdFhlRWJXcjVOb1BrSkdkb0FVXzMifQ%3D%3D"
+    },
+    {
+      "question": "What time is 18:00 00 00?",
+      "type": "ai_overview",
+      "page_token": "7o-6rXicHdDNUoJAAADg6WU8xq6kpTNOE8qCO7Lk_uJeGn4UjEVIUJJb79JT9TRNHb_r9_Vtjqfy5y4quq5p55bV9_19Xte52d-ndWXF7e2UWmlsTBKn5Xz6OIXPh3Thtr2zrHtnK5pGrihgFVnTQQYZ2kEtZlihBgfV5JKJxguAsJmX6QAVUJcFIoP2qdI0kBQIbpYZg1d-yiGzNQrGxSSUOUgU6ILIGUipXzcK1mGEWoKaa-phXzH4qbgxHOB-B2YPRGiQuRj8Wbuy017j7l097AYxlj7hiS9ADORae7Mt5-gjKE0k-QtDNuWU6yJDhaEKR-m7DBPonFmZlQlA0jtih_rkFirNhJdtuJicY_fJZi5cxkgiFQlbG7wiY3zZl5iODul1YY_-xxZvh6qbN-c6_wXnyHX8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7o-6rXicHdDNUoJAAADg6WU8xq6kpTNOE8qCO7Lk_uJeGn4UjEVIUJJb79JT9TRNHb_r9_Vtjqfy5y4quq5p55bV9_19Xte52d-ndWXF7e2UWmlsTBKn5Xz6OIXPh3Thtr2zrHtnK5pGrihgFVnTQQYZ2kEtZlihBgfV5JKJxguAsJmX6QAVUJcFIoP2qdI0kBQIbpYZg1d-yiGzNQrGxSSUOUgU6ILIGUipXzcK1mGEWoKaa-phXzH4qbgxHOB-B2YPRGiQuRj8Wbuy017j7l097AYxlj7hiS9ADORae7Mt5-gjKE0k-QtDNuWU6yJDhaEKR-m7DBPonFmZlQlA0jtih_rkFirNhJdtuJicY_fJZi5cxkgiFQlbG7wiY3zZl5iODul1YY_-xxZvh6qbN-c6_wXnyHX8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VeFdRV3hGZFRkMFlYRTVRbkV3ZURkcFN6SjJNRFJ2ZFZkYVgwUXpORFZEWlZKWWVGaHRia0Z0YjE5M04zTlliR3BFVGw5aGJFdHFSRWM0UWs1alVtbHdjV3RXTkZwMVkyUnlUVzlYTkUxeVlqRkJjRFJETTNwSlVSSVhkRk5GTm1GMFdHVkZZbGR5TlU1dlVHdEtSMlJ2UVZVYUlrRkVjM0k1WmxGWE5sUmxhM2MxTFd4WFdUVXhUbGx3TW5aSGEzWjRRbGcxWkhjIiwiZmN2IjoiMyIsImVpIjoidFNFNmF0WGVFYldyNU5vUGtKR2RvQVUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjBhVzFsSUdOdmJuWmxjbk5wYjI0Z1kyRnNZM1ZzWVhSdmNoQUFmVDdyN2o0IiwicXVlc3Rpb24iOiJXaGF0IHRpbWUgaXMgMTg6MDAgMDAgMDA/IiwibGsiOiJjNU9TS005SUxGRW95Y3hOVmNnc1ZqQzBVREF3Z0NBQSIsImJzIjoiYy1OSzV0TDN5QzlYU01sWDhGUkl6czhyU3kwcVVjak56TWtzU1N5cVZDakp6RTFWS01sWEtFcE5MODFKTEFMejdZME1wUFF5SUZveWlkUENGY2lsNWxtc1lHaVVtS3VRbVllbTFzakV3RUFodjBqQkFBanNqZFNsVkRPSlVja1Z6YVVUbnBGWW9nQlNiV1lGbEVCVkM5U002bWh0S2MxeW9IcVFhZ1ZDcXJuTXVTVEJoa01rZ1hvc1FEYUFrYjJSbEpSRU9hcWtBa3hTZ0JFQSIsImlkIjoiZmNfdFNFNmF0WGVFYldyNU5vUGtKR2RvQVVfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VeFdRV3hGZFRkMFlYRTVRbkV3ZURkcFN6SjJNRFJ2ZFZkYVgwUXpORFZEWlZKWWVGaHRia0Z0YjE5M04zTlliR3BFVGw5aGJFdHFSRWM0UWs1alVtbHdjV3RXTkZwMVkyUnlUVzlYTkUxeVlqRkJjRFJETTNwSlVSSVhkRk5GTm1GMFdHVkZZbGR5TlU1dlVHdEtSMlJ2UVZVYUlrRkVjM0k1WmxGWE5sUmxhM2MxTFd4WFdUVXhUbGx3TW5aSGEzWjRRbGcxWkhjIiwiZmN2IjoiMyIsImVpIjoidFNFNmF0WGVFYldyNU5vUGtKR2RvQVUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjBhVzFsSUdOdmJuWmxjbk5wYjI0Z1kyRnNZM1ZzWVhSdmNoQUFmVDdyN2o0IiwicXVlc3Rpb24iOiJXaGF0IHRpbWUgaXMgMTg6MDAgMDAgMDA%2FIiwibGsiOiJjNU9TS005SUxGRW95Y3hOVmNnc1ZqQzBVREF3Z0NBQSIsImJzIjoiYy1OSzV0TDN5QzlYU01sWDhGUkl6czhyU3kwcVVjak56TWtzU1N5cVZDakp6RTFWS01sWEtFcE5MODFKTEFMejdZME1wUFF5SUZveWlkUENGY2lsNWxtc1lHaVVtS3VRbVllbTFzakV3RUFodjBqQkFBanNqZFNsVkRPSlVja1Z6YVVUbnBGWW9nQlNiV1lGbEVCVkM5U002bWh0S2MxeW9IcVFhZ1ZDcXJuTXVTVEJoa01rZ1hvc1FEYUFrYjJSbEpSRU9hcWtBa3hTZ0JFQSIsImlkIjoiZmNfdFNFNmF0WGVFYldyNU5vUGtKR2RvQVVfMyJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Military Time Converter",
+      "link": "https://www.calculatorsoup.com/calculators/time/military-time-converter.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calculatorsoup.com/calculators/time/military-time-converter.php&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQFnoECA4QAQ",
+      "displayed_link": "https://www.calculatorsoup.com › Time & Date",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA40lEQVR4AaXSIQzCMBCF4eeTWbxA1uPrpmsmpmrmsbgmJJNz09j5YLHoGVTNdE1VxUQ5GCTXBmb2q0u-5HJpirjSRnSmTTKOod8hrXNsrQVQ1O2ZMo0A5Mgw3kl3tzlQ3lYoE4xX0v1jmW2OcSAVdpkPOcaeVE7vcTQ5xpZUuWWxyzGeSLX_80JzQ3oMHFle08nDzDFZLKo-cOQm6879XDsfIXX_-6DQoNQXZgxDDaUvYVk_pugVVPM9VJwtR1-irDs7vbI9qjtDdwAKFAU-SYaTAC9FgxUMg6rSGEY_ZYWNn_oJTj1kLwya89IAAAAASUVORK5CYII.png",
+      "date": "Aug 1, 2025",
+      "snippet": "Convert from military time to regular time with the Military Time Converter. Also convert to military time from regular time in hours and ...",
+      "snippet_highlighted_words": [
+        "Convert from military time to regular time"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Convert from military time to regular time with the Military Time Converter. Also convert to military time from regular time in hours and ...",
+          "source_info_link": "https://www.calculatorsoup.com/calculators/time/military-time-converter.php",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA40lEQVR4AaXSIQzCMBCF4eeTWbxA1uPrpmsmpmrmsbgmJJNz09j5YLHoGVTNdE1VxUQ5GCTXBmb2q0u-5HJpirjSRnSmTTKOod8hrXNsrQVQ1O2ZMo0A5Mgw3kl3tzlQ3lYoE4xX0v1jmW2OcSAVdpkPOcaeVE7vcTQ5xpZUuWWxyzGeSLX_80JzQ3oMHFle08nDzDFZLKo-cOQm6879XDsfIXX_-6DQoNQXZgxDDaUvYVk_pugVVPM9VJwtR1-irDs7vbI9qjtDdwAKFAU-SYaTAC9FgxUMg6rSGEY_ZYWNn_oJTj1kLwya89IAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.calculatorsoup.com/calculators/time/military-time-converter.php&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.calculatorsoup.com%2Fcalculators%2Ftime%2Fmilitary-time-converter.php",
+      "source": "Calculator Soup"
+    },
+    {
+      "position": 2,
+      "title": "Clock Conversion Chart Standard 12-hour Time to 24-hour ...",
+      "link": "https://emscimprovement.center/documents/3153/Military-Clock-Conversion-Chart-FINAL.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://emscimprovement.center/documents/3153/Military-Clock-Conversion-Chart-FINAL.pdf&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQFnoECCMQAQ",
+      "displayed_link": "https://emscimprovement.center › documents",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAAGwALoMAOIcAPIkAK4IAQItsi7O6yNrM1-UANYaEnr_f5u-WqscpX5oAQowBTZHT3OgAPIkbWJZCbaL___-muM94lLkAKYFWe6qQqMYGrBoqAAAAEXRSTlMAEGGYqj_R____u________Ttk3WUAAAEjSURBVHgBrVIHtsMgDOsMUIZsg6H0_gf9pIP391Z25Cl78x_Y7vaHw363fYc6Lsa6AWuW42vu5ENMGEgx-NNLjjgKBDljPCLT89gUCsSwDrARlEDPYnJBDnpHyCg8Ix99RLLm4WlsQvSPqpYgqFKSeO_bORWpkLDc-zMRrZJ6IkiMXlEbornVtLNJQkUHDZhw6VKDJLu7knsHqNIN4plIFXD7K3lwyKp9eFkRV0Lvqhnu8IwcXqmZ1pIQPcgZNhMVdz5zIkoz7K0g1ja-lYNaoCnPgtZWjAZBcJfIDAlqZiurCOMHw-hAB-v6vTyTL3MnlFoLqHO-yzeFx6pAyW08MIWfIyMi620fjzmy58MensnQ82E_XxMRyFyTzxfs89X8A54AgnUZfmWL9IkAAAAASUVORK5CYII.png",
+      "snippet": "Page 1. Clock Conversion Chart. Standard 12-hour Time to 24-hour Military Time.",
+      "snippet_highlighted_words": [
+        "Standard 12-hour Time to 24-hour Military Time"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "page": 1
+          },
+          "extensions": [
+            "1 page"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Page 1. Clock Conversion Chart. Standard 12-hour Time to 24-hour Military Time.",
+          "source_info_link": "https://emscimprovement.center/documents/3153/Military-Clock-Conversion-Chart-FINAL.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAAGwALoMAOIcAPIkAK4IAQItsi7O6yNrM1-UANYaEnr_f5u-WqscpX5oAQowBTZHT3OgAPIkbWJZCbaL___-muM94lLkAKYFWe6qQqMYGrBoqAAAAEXRSTlMAEGGYqj_R____u________Ttk3WUAAAEjSURBVHgBrVIHtsMgDOsMUIZsg6H0_gf9pIP391Z25Cl78x_Y7vaHw363fYc6Lsa6AWuW42vu5ENMGEgx-NNLjjgKBDljPCLT89gUCsSwDrARlEDPYnJBDnpHyCg8Ix99RLLm4WlsQvSPqpYgqFKSeO_bORWpkLDc-zMRrZJ6IkiMXlEbornVtLNJQkUHDZhw6VKDJLu7knsHqNIN4plIFXD7K3lwyKp9eFkRV0Lvqhnu8IwcXqmZ1pIQPcgZNhMVdz5zIkoz7K0g1ja-lYNaoCnPgtZWjAZBcJfIDAlqZiurCOMHw-hAB-v6vTyTL3MnlFoLqHO-yzeFx6pAyW08MIWfIyMi620fjzmy58MensnQ82E_XxMRyFyTzxfs89X8A54AgnUZfmWL9IkAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://emscimprovement.center/documents/3153/Military-Clock-Conversion-Chart-FINAL.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Femscimprovement.center%2Fdocuments%2F3153%2FMilitary-Clock-Conversion-Chart-FINAL.pdf",
+      "source": "emscimprovement.center",
+      "read_more_link": "https://emscimprovement.center/documents/3153/Military-Clock-Conversion-Chart-FINAL.pdf#:~:text=Page%201,Time%20to%2024%2Dhour%20Military%20Time"
+    },
+    {
+      "position": 3,
+      "title": "Military Time Converter - Free 24-Hour to 12- ...",
+      "link": "https://timerewards.com/military-time-converter/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://timerewards.com/military-time-converter/&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQFnoECCgQAQ",
+      "displayed_link": "https://timerewards.com › military-time-converter",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEVrvAVouwBnugCe0XHf8M3b7siMyk602pf___-c0Wh-xDKZ0VyX0FmVz1S23Y36_fWo13N3wSOYz2aDxzjX7MCcrfh0AAAAUklEQVR4Ae3SNQKAQAwAwSS4nf__q0h3XuEw7bYLh0KP3agoK1ttV2paR0dWxH4Yx3FiLRfTuJJgQ9qolve0gdAWNYLtj9fHLhOxrkyPuc3geAs26AXP6WG5fQAAAABJRU5ErkJggg.png",
+      "snippet": "Need to convert military time quickly? Our free military time converter transforms 24-hour format to standard 12-hour time in seconds.",
+      "snippet_highlighted_words": [
+        "transforms 24-hour format to standard 12-hour time in seconds"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Need to convert military time quickly? Our free military time converter transforms 24-hour format to standard 12-hour time in seconds.",
+          "source_info_link": "https://timerewards.com/military-time-converter/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEVrvAVouwBnugCe0XHf8M3b7siMyk602pf___-c0Wh-xDKZ0VyX0FmVz1S23Y36_fWo13N3wSOYz2aDxzjX7MCcrfh0AAAAUklEQVR4Ae3SNQKAQAwAwSS4nf__q0h3XuEw7bYLh0KP3agoK1ttV2paR0dWxH4Yx3FiLRfTuJJgQ9qolve0gdAWNYLtj9fHLhOxrkyPuc3geAs26AXP6WG5fQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://timerewards.com/military-time-converter/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftimerewards.com%2Fmilitary-time-converter%2F",
+      "source": "TimeRewards",
+      "read_more_link": "https://timerewards.com/military-time-converter/#:~:text=Need%20to%20convert%20military%20time,standard%2012%2Dhour%20time%20in%20seconds."
+    },
+    {
+      "position": 4,
+      "title": "Military Time Converter",
+      "link": "https://veteran.com/military-time-converter/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://veteran.com/military-time-converter/&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQFnoECCwQAQ",
+      "displayed_link": "https://veteran.com › Military Terminology",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAGUEAGUEAGUEAGUEAGUEAGUEAGUEAGEEAGUEAGUEAGUEAGUEAGUEAFkAAGUF_LUbYPkvYPkvZPkteJkS-OUncP0vYPkvLO0rYPkvYPktuxi__AAAAG3RSTlMAb3sQhI7_IqXPNrji9EpaB1zF__91S5b2uSUp5I2JAAAAzklEQVR4AZ2SURZAQAwDCwAAYO9_UFp9efErQHbAQP4nip9EwknSZyjVvSzXFAxLHansMIMlQxupbbexfWKR9lYstcFYkE575KXV0oH1nysN1nrxVNqy7wNUXgprCSBs4NGAwYY9ELaJyYNtIngMIGQDj3EEgo17pDJNQLBxj1HmmWH62pX-2MvC1x0NKlvXbT-W5dj3aadv6DkXz4yzC8B-f9lE162MmNDEDDb-YS-7KAjejXrIcoZwLgB4q-oxXVqvjeFoP2QhErRh8y83vmcMCfkRWd8AAAAASUVORK5CYII.png",
+      "date": "Feb 24, 2025",
+      "snippet": "Our updated military time converter tool is below. Use it to convert military time to standard time. Military Time Calculator. Choose Time Zone.",
+      "snippet_highlighted_words": [
+        "Use it to convert military time to standard time"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Military Time Conversion Chart",
+            "link": "https://veteran.com/military-time-converter/#toc-1"
+          },
+          {
+            "title": "Printable Military Time...",
+            "link": "https://veteran.com/military-time-converter/#toc-2"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Our updated military time converter tool is below. Use it to convert military time to standard time. Military Time Calculator. Choose Time Zone.",
+          "source_info_link": "https://veteran.com/military-time-converter/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAGUEAGUEAGUEAGUEAGUEAGUEAGUEAGEEAGUEAGUEAGUEAGUEAGUEAFkAAGUF_LUbYPkvYPkvZPkteJkS-OUncP0vYPkvLO0rYPkvYPktuxi__AAAAG3RSTlMAb3sQhI7_IqXPNrji9EpaB1zF__91S5b2uSUp5I2JAAAAzklEQVR4AZ2SURZAQAwDCwAAYO9_UFp9efErQHbAQP4nip9EwknSZyjVvSzXFAxLHansMIMlQxupbbexfWKR9lYstcFYkE575KXV0oH1nysN1nrxVNqy7wNUXgprCSBs4NGAwYY9ELaJyYNtIngMIGQDj3EEgo17pDJNQLBxj1HmmWH62pX-2MvC1x0NKlvXbT-W5dj3aadv6DkXz4yzC8B-f9lE162MmNDEDDb-YS-7KAjejXrIcoZwLgB4q-oxXVqvjeFoP2QhErRh8y83vmcMCfkRWd8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://veteran.com/military-time-converter/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fveteran.com%2Fmilitary-time-converter%2F",
+      "source": "Veteran.com",
+      "read_more_link": "https://veteran.com/military-time-converter/#:~:text=Our%20updated%20military%20time%20converter,Choose%20Time%20Zone"
+    },
+    {
+      "position": 5,
+      "title": "Military Time to Regular Time - Convert Easily",
+      "link": "https://www.getharvest.com/calculators/military-time-to-regular-time",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.getharvest.com/calculators/military-time-to-regular-time&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQFnoECCoQAQ",
+      "displayed_link": "https://www.getharvest.com › Time Tracking",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEX6XQD6VgD6WgD8nnr7kWf6UAD8lW36bjD6aB38p4f7ekT____-1cT7dDv_7-P6TgD7gFL-0b78ooD___z7fU3___v-6t3-4NH6SAD_-PH6YQ58-1jYAAAAlklEQVR4AcXSAwIEIRQA0P5vmI29_z3Xtkfp5SLTPQCrb5tGBDw22rQdhW26H0aGR8aF5EqvM1oZy0c4oPM2xLTFZKx372CrbmObebiKsO41XsVSveftDURfq7-J8R766Gu5hREH0FeRZxILkqtolB6iJjcwvYUjX3fLV6i4FJweENk49BRmI2zOvVnZQQFxBYcbM9mzAG-6EbdBf_7ZAAAAAElFTkSuQmCC.png",
+      "snippet": "How this work hours calculator works. It adds up the hours between each day's clock-in and clock-out, subtracts your breaks, and totals the week for you.",
+      "snippet_highlighted_words": [
+        "adds up the hours between each day's clock-in and clock-out"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "reviews": 17700
+          },
+          "extensions": [
+            "4.8(17,700)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "How this work hours calculator works. It adds up the hours between each day's clock-in and clock-out, subtracts your breaks, and totals the week for you.",
+          "source_info_link": "https://www.getharvest.com/calculators/military-time-to-regular-time",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEX6XQD6VgD6WgD8nnr7kWf6UAD8lW36bjD6aB38p4f7ekT____-1cT7dDv_7-P6TgD7gFL-0b78ooD___z7fU3___v-6t3-4NH6SAD_-PH6YQ58-1jYAAAAlklEQVR4AcXSAwIEIRQA0P5vmI29_z3Xtkfp5SLTPQCrb5tGBDw22rQdhW26H0aGR8aF5EqvM1oZy0c4oPM2xLTFZKx372CrbmObebiKsO41XsVSveftDURfq7-J8R766Gu5hREH0FeRZxILkqtolB6iJjcwvYUjX3fLV6i4FJweENk49BRmI2zOvVnZQQFxBYcbM9mzAG-6EbdBf_7ZAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.getharvest.com/calculators/military-time-to-regular-time&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.getharvest.com%2Fcalculators%2Fmilitary-time-to-regular-time",
+      "source": "Harvest",
+      "read_more_link": "https://www.getharvest.com/calculators/military-time-to-regular-time#:~:text=How%20this%20work%20hours%20calculator,totals%20the%20week%20for%20you."
+    },
+    {
+      "position": 6,
+      "title": "Military Time Chart - The 24 Hour Clock",
+      "link": "https://militarytimechart.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarytimechart.com/&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQFnoECCIQAQ",
+      "displayed_link": "https://militarytimechart.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAVElEQVR4AbWTgQYAIBBD-6L71vvjBcUZsoceyWKjrq0f1Nhl-s0xtOlLmw4ABtFzv3PDgM7fJKBwgPn0CNFcZtYUHPdxsimsdAr69cEw3oXiXYBt3NVyHdUDRaCfAAAAAElFTkSuQmCC.png",
+      "snippet": "Quickly and easily read or convert military time with our Standard Time to Military Time conversion chart. Info on common benefits of using military time.",
+      "snippet_highlighted_words": [
+        "Quickly and easily read or convert military time"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Quickly and easily read or convert military time with our Standard Time to Military Time conversion chart. Info on common benefits of using military time.",
+          "source_info_link": "https://militarytimechart.com/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAVElEQVR4AbWTgQYAIBBD-6L71vvjBcUZsoceyWKjrq0f1Nhl-s0xtOlLmw4ABtFzv3PDgM7fJKBwgPn0CNFcZtYUHPdxsimsdAr69cEw3oXiXYBt3NVyHdUDRaCfAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarytimechart.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarytimechart.com%2F",
+      "source": "militarytimechart.com"
+    },
+    {
+      "position": 7,
+      "title": "Military Time Conversion Chart (24-Hour) | Free Guide - ClockIt",
+      "link": "https://get.clockit.io/free/military-time-conversion-chart",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://get.clockit.io/free/military-time-conversion-chart&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQFnoECCYQAQ",
+      "displayed_link": "https://get.clockit.io › free › military-time-conversion-c...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAIVBMVEVHcEz8HyT8HyT9HyT8HyT8HyT8HyT8HyT8HyT8HyT8HyS7vFn2AAAACnRSTlMAHJcSh37wd2_RbW4elAAAAGNJREFUKJGt0usKgDAIBWBrl8r3f-CI4TIvB4r8p99gyJHo71qQ8QqMU70s02GxivH-0TZvxVppuVHnaq3dJk1so_V2zME0-UQ9r92Z0sDU2oE91ZpWFASKEIWPziY3fIyv6wQonwfpAC2zYQAAAABJRU5ErkJggg.png",
+      "snippet": "Quickly convert 24-hour military time to standard 12-hour AM/PM time. Includes a full chart, examples, and tips to read and convert military time.",
+      "snippet_highlighted_words": [
+        "Quickly convert 24-hour military time to standard 12-hour AM/PM time"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "reviews": 3856
+          },
+          "extensions": [
+            "4.8(3,856)",
+            "Free",
+            "Business/Productivity"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Quickly convert 24-hour military time to standard 12-hour AM/PM time. Includes a full chart, examples, and tips to read and convert military time.",
+          "source_info_link": "https://get.clockit.io/free/military-time-conversion-chart",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAIVBMVEVHcEz8HyT8HyT9HyT8HyT8HyT8HyT8HyT8HyT8HyT8HyS7vFn2AAAACnRSTlMAHJcSh37wd2_RbW4elAAAAGNJREFUKJGt0usKgDAIBWBrl8r3f-CI4TIvB4r8p99gyJHo71qQ8QqMU70s02GxivH-0TZvxVppuVHnaq3dJk1so_V2zME0-UQ9r92Z0sDU2oE91ZpWFASKEIWPziY3fIyv6wQonwfpAC2zYQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://get.clockit.io/free/military-time-conversion-chart&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fget.clockit.io%2Ffree%2Fmilitary-time-conversion-chart",
+      "source": "clockit.io"
+    },
+    {
+      "position": 8,
+      "title": "Standard Minutes Military Conversion",
+      "link": "https://www.gavilan.edu/cont-ed/docs/Standard-Military-Time-Chart.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gavilan.edu/cont-ed/docs/Standard-Military-Time-Chart.pdf&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQFnoECC8QAQ",
+      "displayed_link": "https://www.gavilan.edu › cont-ed › docs › Stan...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX___9tepbHzdf29_mIkqjc3-aeprjj5-yYoLLj5eoAAFKPmK22vcsADVjU2OBZaYoAAEsAI2A-U3wALmXv8vYAAEYAH14ALGRDWoEAGlykrb4AA1YYO20NNmobPW4AMGdxgZ0AAFQROGtPYoYAKWMcPm4wSXW4vswzTnlabI1kdJLAxdAAFFp9iqNhbowAElh2V2tyAAABMklEQVR4AayRVWLEIBBAJ-5uhA5DNra-e__blXob-evDeTjwT2jvuQ6Gaa2caQM4YLqeHyxVCFEMkDipnuWwpCgrA5zabli7XNQwfP4CXM1CwWABL1tqQQslkgxX0mXY6FoniWpnKa0Dw37g40SUwUrOPdF4FEi4PutJH4mwD0fqzyvpCoZEorv0_QVWzJIUIx_FhiwvQkmcTTnAmpyhsjJoLlez6zr3j7zeSCHMQhRCyPqlLv-cqVWyf1-9YLoXG3_m6g0RnpTL7rCEI5Kyap69MLFZF_TBqY_hA8dx4jBI2rafiFCojMR5hg_KR3Vo6-x8OeXYF_dnT4SMvvc09GtoTkMwZHl5LHlGJO8u6xL-Nd2Bu88-_ljLehFptlV6sEGYXCy9mTUbdtDvsM_rICEHADUSHjT756vVAAAAAElFTkSuQmCC.png",
+      "snippet": "The above conversions show standard minutes as a percentage of a military hour. For Example, an employee that worked 8 hours and 51 minutes would be paid for ...",
+      "snippet_highlighted_words": [
+        "conversions",
+        "military",
+        "hours"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "page": 1
+          },
+          "extensions": [
+            "1 page"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The above conversions show standard minutes as a percentage of a military hour. For Example, an employee that worked 8 hours and 51 minutes would be paid for ...",
+          "source_info_link": "https://www.gavilan.edu/cont-ed/docs/Standard-Military-Time-Chart.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX___9tepbHzdf29_mIkqjc3-aeprjj5-yYoLLj5eoAAFKPmK22vcsADVjU2OBZaYoAAEsAI2A-U3wALmXv8vYAAEYAH14ALGRDWoEAGlykrb4AA1YYO20NNmobPW4AMGdxgZ0AAFQROGtPYoYAKWMcPm4wSXW4vswzTnlabI1kdJLAxdAAFFp9iqNhbowAElh2V2tyAAABMklEQVR4AayRVWLEIBBAJ-5uhA5DNra-e__blXob-evDeTjwT2jvuQ6Gaa2caQM4YLqeHyxVCFEMkDipnuWwpCgrA5zabli7XNQwfP4CXM1CwWABL1tqQQslkgxX0mXY6FoniWpnKa0Dw37g40SUwUrOPdF4FEi4PutJH4mwD0fqzyvpCoZEorv0_QVWzJIUIx_FhiwvQkmcTTnAmpyhsjJoLlez6zr3j7zeSCHMQhRCyPqlLv-cqVWyf1-9YLoXG3_m6g0RnpTL7rCEI5Kyap69MLFZF_TBqY_hA8dx4jBI2rafiFCojMR5hg_KR3Vo6-x8OeXYF_dnT4SMvvc09GtoTkMwZHl5LHlGJO8u6xL-Nd2Bu88-_ljLehFptlV6sEGYXCy9mTUbdtDvsM_rICEHADUSHjT756vVAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.gavilan.edu/cont-ed/docs/Standard-Military-Time-Chart.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gavilan.edu%2Fcont-ed%2Fdocs%2FStandard-Military-Time-Chart.pdf",
+      "source": "Gavilan College",
+      "read_more_link": "https://www.gavilan.edu/cont-ed/docs/Standard-Military-Time-Chart.pdf#:~:text=The%20above%20conversions%20show%20standard,be%20paid%20for%208.85%20hours."
+    },
+    {
+      "position": 9,
+      "title": "Army Time Converter- 24 hour clock converter",
+      "link": "https://www.calculatehours.com/Military_Time_Converter.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calculatehours.com/Military_Time_Converter.html&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQFnoECCQQAQ",
+      "displayed_link": "https://www.calculatehours.com › Military_Time_Conver...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABT0lEQVR4AWKAgdpDgDboQKPBMArj-EvNUkJJWJhVAQIYKKnBmAFD11D3sBEJiNDMAENkCIJU6QZ2Dw0ftTCM1Gzf6f_yjCONH3bO85x9346iBVRwiwQTSTSrKBN8cSaHawxhSDGSFIahMjmEyJfvYc4AxzKAOWTp6EAWTZiM0MY-srKHlnYmTWTjgSqGrnyKDPwrZrGOE3dkiGpcdmHSRsaVMljAGR6xgxZMujGYuF8_RMAyrlQ8xw9ekcOBe4okhicwvCGPgDU8YKr9C7YRkFfWMImDMQx9FBBkE094xhaCFJQ1jIP78oUygrMhwSkra-jHQQcmN1hE-PtReVEZk04clvABwzfqWELwNKsrY-qU4mIeF0jdkTvUsCs1zWblVJ352fVVdDCFyRifMobJFB11gn-_FTSQuKfxUu0ayv77J82hiEv08C49zYqY8-VfxzbtWm9uiosAAAAASUVORK5CYII.png",
+      "snippet": "Convert Military Time using our easy Military Time Calculator below: Ready to use, simple Military Time Converter. Try ...",
+      "snippet_highlighted_words": [
+        "easy Military Time Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Convert Military Time using our easy Military Time Calculator below: Ready to use, simple Military Time Converter. Try ...",
+          "source_info_link": "https://www.calculatehours.com/Military_Time_Converter.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABT0lEQVR4AWKAgdpDgDboQKPBMArj-EvNUkJJWJhVAQIYKKnBmAFD11D3sBEJiNDMAENkCIJU6QZ2Dw0ftTCM1Gzf6f_yjCONH3bO85x9346iBVRwiwQTSTSrKBN8cSaHawxhSDGSFIahMjmEyJfvYc4AxzKAOWTp6EAWTZiM0MY-srKHlnYmTWTjgSqGrnyKDPwrZrGOE3dkiGpcdmHSRsaVMljAGR6xgxZMujGYuF8_RMAyrlQ8xw9ekcOBe4okhicwvCGPgDU8YKr9C7YRkFfWMImDMQx9FBBkE094xhaCFJQ1jIP78oUygrMhwSkra-jHQQcmN1hE-PtReVEZk04clvABwzfqWELwNKsrY-qU4mIeF0jdkTvUsCs1zWblVJ352fVVdDCFyRifMobJFB11gn-_FTSQuKfxUu0ayv77J82hiEv08C49zYqY8-VfxzbtWm9uiosAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.calculatehours.com/Military_Time_Converter.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.calculatehours.com%2FMilitary_Time_Converter.html",
+      "source": "CalculateHours.com",
+      "read_more_link": "https://www.calculatehours.com/Military_Time_Converter.html#:~:text=Convert%20Military%20Time%20using%20our,free%20online%20army%20converter%20loads%2C"
+    },
+    {
+      "position": 10,
+      "title": "Military Time Chart - The 24 Hour Clock - Converter Tool",
+      "link": "https://www.thetimenow.com/military-time-converter.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thetimenow.com/military-time-converter.php&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQFnoECFIQAQ",
+      "displayed_link": "https://www.thetimenow.com › military-time-converter",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX4-fr4-_z5_____fz9-_v26OHvspnqg1acz-huu9602ev5-vrun33mWADmWw7lTgD96-CAxOQAl84AmM8AntG_3e3qe0nmXxnnZiXrjWP89fE4qNYAnNDriF3yyrr___0Ams_nYhHwuaT00sLoZyL129H14tn02M7pekjvq47r8_fupIVetNvzxbHJ4_DY6fOQyOQJK253AAABIElEQVR4AWIgEgD6oMP1BEEwDMMfgCUyLAHLguRbrba5yp3_0Y3Wfkja3r_39QAXhFLCGJ-mbDbPclEAG5t8UeViWWljazayVbluNtvCea_zB6W7dblpaZsF4VCnLWlVOaOEvu4JA-dtGq7WzYEAbfYEuPCm4INwq8qWAtC3iBAcCjbAo1InAoTO24isQhcG-B6vJPT08Rlz2bkUM6WO9Guxy2IIQeCZwUCbxYXODvRmvLCYJ3hZki5EihbOiJ2EoRbeXnvGJKtzkzw2jlfotejzPp5psYNkEqy33qBBb_GbQTpWoL3PW5DwMO7-EHMOI6zNPXQjiwtnf0NTswnkvfkNU0tSfeWTyDttffKrSVqh6fkTlJ0WAZ6N9_DPOCT7AUSgFlXfgFY5AAAAAElFTkSuQmCC.png",
+      "snippet": "Quickly and easily read or convert military time with our Standard Time to Military Time conversion chart and military time converter tool.",
+      "snippet_highlighted_words": [
+        "Quickly and easily read or convert military time"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Quickly and easily read or convert military time with our Standard Time to Military Time conversion chart and military time converter tool.",
+          "source_info_link": "https://www.thetimenow.com/military-time-converter.php",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX4-fr4-_z5_____fz9-_v26OHvspnqg1acz-huu9602ev5-vrun33mWADmWw7lTgD96-CAxOQAl84AmM8AntG_3e3qe0nmXxnnZiXrjWP89fE4qNYAnNDriF3yyrr___0Ams_nYhHwuaT00sLoZyL129H14tn02M7pekjvq47r8_fupIVetNvzxbHJ4_DY6fOQyOQJK253AAABIElEQVR4AWIgEgD6oMP1BEEwDMMfgCUyLAHLguRbrba5yp3_0Y3Wfkja3r_39QAXhFLCGJ-mbDbPclEAG5t8UeViWWljazayVbluNtvCea_zB6W7dblpaZsF4VCnLWlVOaOEvu4JA-dtGq7WzYEAbfYEuPCm4INwq8qWAtC3iBAcCjbAo1InAoTO24isQhcG-B6vJPT08Rlz2bkUM6WO9Guxy2IIQeCZwUCbxYXODvRmvLCYJ3hZki5EihbOiJ2EoRbeXnvGJKtzkzw2jlfotejzPp5psYNkEqy33qBBb_GbQTpWoL3PW5DwMO7-EHMOI6zNPXQjiwtnf0NTswnkvfkNU0tSfeWTyDttffKrSVqh6fkTlJ0WAZ6N9_DPOCT7AUSgFlXfgFY5AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.thetimenow.com/military-time-converter.php&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.thetimenow.com%2Fmilitary-time-converter.php",
+      "source": "thetimenow.com"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military time conversion calculator with seconds",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+time+conversion+calculator+with+seconds&sa=X&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+time+conversion+calculator+with+seconds"
+    },
+    {
+      "block_position": 1,
+      "query": "Military time conversion calculator app",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+time+conversion+calculator+app&sa=X&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+time+conversion+calculator+app"
+    },
+    {
+      "block_position": 1,
+      "query": "Military time converter minutes",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+time+converter+minutes&sa=X&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+time+converter+minutes"
+    },
+    {
+      "block_position": 1,
+      "query": "Military time conversion calculator army",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+time+conversion+calculator+army&sa=X&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+time+conversion+calculator+army"
+    },
+    {
+      "block_position": 1,
+      "query": "Free military time conversion calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Free+military+time+conversion+calculator&sa=X&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+military+time+conversion+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Military time to regular time converter",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+time+to+regular+time+converter&sa=X&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+time+to+regular+time+converter"
+    },
+    {
+      "block_position": 1,
+      "query": "1700 military time",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=1700+military+time&sa=X&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=1700+military+time"
+    },
+    {
+      "block_position": 1,
+      "query": "Military time right now",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+time+right+now&sa=X&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+time+right+now"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+time+conversion+calculator&sca_esv=c510ba4e6526f391&ei=tSE6atXeEbWr5NoPkJGdoAU&start=10&sa=N&sstk=AU9db-D9cKGaHqOpuQYkWA7o7pkt6ywdr0RiPMm0UT5ILWWmTASNoKh_1fvoP-g6V6JQAJpI9SHA8Z1_miZ2AaR4ScoCOoQfeiqOhw&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ8NMDegQIQBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+time+conversion+calculator&sca_esv=c510ba4e6526f391&ei=tSE6atXeEbWr5NoPkJGdoAU&start=10&sa=N&sstk=AU9db-D9cKGaHqOpuQYkWA7o7pkt6ywdr0RiPMm0UT5ILWWmTASNoKh_1fvoP-g6V6JQAJpI9SHA8Z1_miZ2AaR4ScoCOoQfeiqOhw&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ8tMDegQIQBAE",
+      "3": "https://www.google.com/search?q=military+time+conversion+calculator&sca_esv=c510ba4e6526f391&ei=tSE6atXeEbWr5NoPkJGdoAU&start=20&sa=N&sstk=AU9db-D9cKGaHqOpuQYkWA7o7pkt6ywdr0RiPMm0UT5ILWWmTASNoKh_1fvoP-g6V6JQAJpI9SHA8Z1_miZ2AaR4ScoCOoQfeiqOhw&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ8tMDegQIQBAG",
+      "4": "https://www.google.com/search?q=military+time+conversion+calculator&sca_esv=c510ba4e6526f391&ei=tSE6atXeEbWr5NoPkJGdoAU&start=30&sa=N&sstk=AU9db-D9cKGaHqOpuQYkWA7o7pkt6ywdr0RiPMm0UT5ILWWmTASNoKh_1fvoP-g6V6JQAJpI9SHA8Z1_miZ2AaR4ScoCOoQfeiqOhw&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ8tMDegQIQBAI",
+      "5": "https://www.google.com/search?q=military+time+conversion+calculator&sca_esv=c510ba4e6526f391&ei=tSE6atXeEbWr5NoPkJGdoAU&start=40&sa=N&sstk=AU9db-D9cKGaHqOpuQYkWA7o7pkt6ywdr0RiPMm0UT5ILWWmTASNoKh_1fvoP-g6V6JQAJpI9SHA8Z1_miZ2AaR4ScoCOoQfeiqOhw&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ8tMDegQIQBAK",
+      "6": "https://www.google.com/search?q=military+time+conversion+calculator&sca_esv=c510ba4e6526f391&ei=tSE6atXeEbWr5NoPkJGdoAU&start=50&sa=N&sstk=AU9db-D9cKGaHqOpuQYkWA7o7pkt6ywdr0RiPMm0UT5ILWWmTASNoKh_1fvoP-g6V6JQAJpI9SHA8Z1_miZ2AaR4ScoCOoQfeiqOhw&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ8tMDegQIQBAM",
+      "7": "https://www.google.com/search?q=military+time+conversion+calculator&sca_esv=c510ba4e6526f391&ei=tSE6atXeEbWr5NoPkJGdoAU&start=60&sa=N&sstk=AU9db-D9cKGaHqOpuQYkWA7o7pkt6ywdr0RiPMm0UT5ILWWmTASNoKh_1fvoP-g6V6JQAJpI9SHA8Z1_miZ2AaR4ScoCOoQfeiqOhw&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ8tMDegQIQBAO",
+      "8": "https://www.google.com/search?q=military+time+conversion+calculator&sca_esv=c510ba4e6526f391&ei=tSE6atXeEbWr5NoPkJGdoAU&start=70&sa=N&sstk=AU9db-D9cKGaHqOpuQYkWA7o7pkt6ywdr0RiPMm0UT5ILWWmTASNoKh_1fvoP-g6V6JQAJpI9SHA8Z1_miZ2AaR4ScoCOoQfeiqOhw&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ8tMDegQIQBAQ",
+      "9": "https://www.google.com/search?q=military+time+conversion+calculator&sca_esv=c510ba4e6526f391&ei=tSE6atXeEbWr5NoPkJGdoAU&start=80&sa=N&sstk=AU9db-D9cKGaHqOpuQYkWA7o7pkt6ywdr0RiPMm0UT5ILWWmTASNoKh_1fvoP-g6V6JQAJpI9SHA8Z1_miZ2AaR4ScoCOoQfeiqOhw&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ8tMDegQIQBAS",
+      "10": "https://www.google.com/search?q=military+time+conversion+calculator&sca_esv=c510ba4e6526f391&ei=tSE6atXeEbWr5NoPkJGdoAU&start=90&sa=N&sstk=AU9db-D9cKGaHqOpuQYkWA7o7pkt6ywdr0RiPMm0UT5ILWWmTASNoKh_1fvoP-g6V6JQAJpI9SHA8Z1_miZ2AaR4ScoCOoQfeiqOhw&ved=2ahUKEwiVjeKm2JyVAxW1FVkFHZBIB1QQ8tMDegQIQBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+time+conversion+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+time+conversion+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+time+conversion+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+time+conversion+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+time+conversion+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+time+conversion+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+time+conversion+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+time+conversion+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+time+conversion+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+time+conversion+calculator&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+time+conversion+calculator&start=90"
+    }
+  }
+}

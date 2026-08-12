@@ -1,0 +1,437 @@
+{
+  "search_metadata": {
+    "id": "6a3a19309c2312e813dbc470",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UcmXzj9bXQHD1_K7l7qsTQ/6a3a19309c2312e813dbc470.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/UcmXzj9bXQHD1_K7l7qsTQ/6a3a19309c2312e813dbc470.json_with_pixel_position",
+    "created_at": "2026-06-23 05:27:12 UTC",
+    "processed_at": "2026-06-23 05:27:12 UTC",
+    "google_url": "https://www.google.com/search?q=calorie+calculator+weight+loss+macros&oq=calorie+calculator+weight+loss+macros&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/UcmXzj9bXQHD1_K7l7qsTQ/6a3a19309c2312e813dbc470.html",
+    "total_time_taken": 2.87
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "calorie calculator weight loss macros",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "calorie calculator weight loss macros",
+    "total_results": 128,
+    "time_taken_displayed": 0.2,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How do I calculate how many macros I need to lose weight?",
+      "type": "ai_overview",
+      "page_token": "g0piT3icHZBdbqMwGEU1m-ljg0OSUSNFI9EYEFU9wuAP8MsIbALBdkCQhp-3bmHWMKua1RT1_ejq3PP5T19v6v-Pv_X93g3HzWYcx-eqbStdPovWbPJhvomNyLUucqGOh58H9OsiTvghnNdeOCHrOjhTK_aoYsadpFFT2ZB9aHYoZJQBuH3O6luMeZPZtINGHoDJIWbIxL7rx8a6RyzYy6Q7h1ZwETgIheZ9kTp1grOZL8AAB29sZRPv5cCR40SY55Hhb8LaNwSyRfh0ejfDkuPVxWjEAdDqazLL5bF6UdDwWYAEytQUGlIzBF5q1x_ASB8ZeC1Srssbs4HRLd0in6TVnC1kBNWd162HdMki4ve5MLUTaWrjWpLSG7ZZ6vg5k6pM0CR9EhY-18UV0WJqr-v3RTTagLezuR9MDBw_Ufs0casdscMtYLnLdPdBbf6bj08X8TjZT9-tT38u5n7s-rb6ApgNjmQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=g0piT3icHZBdbqMwGEU1m-ljg0OSUSNFI9EYEFU9wuAP8MsIbALBdkCQhp-3bmHWMKua1RT1_ejq3PP5T19v6v-Pv_X93g3HzWYcx-eqbStdPovWbPJhvomNyLUucqGOh58H9OsiTvghnNdeOCHrOjhTK_aoYsadpFFT2ZB9aHYoZJQBuH3O6luMeZPZtINGHoDJIWbIxL7rx8a6RyzYy6Q7h1ZwETgIheZ9kTp1grOZL8AAB29sZRPv5cCR40SY55Hhb8LaNwSyRfh0ejfDkuPVxWjEAdDqazLL5bF6UdDwWYAEytQUGlIzBF5q1x_ASB8ZeC1Srssbs4HRLd0in6TVnC1kBNWd162HdMki4ve5MLUTaWrjWpLSG7ZZ6vg5k6pM0CR9EhY-18UV0WJqr-v3RTTagLezuR9MDBw_Ufs0casdscMtYLnLdPdBbf6bj08X8TjZT9-tT38u5n7s-rb6ApgNjmQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FuVnBlVmhIYmtkUFpsbHpXV2N5T1ZGWFFXSktkMVJvZG1wd1RtMUpkeTFoUkZCSFlpMVliRVI0VkdoVldUUkViWHBzV2toSk9GaEZUMnAzYVVKNldGUk9VR3hKWkU4eFpIUjVRMjF6UVdwTWRsOWhXalJsVmpacFp4SVhUWGhyTm1Gd1IybEhaSGx0Y1hSelVHeDJaVzR0VVc4YUlrRkVjM0k1WmxGa01VaFBVV1E0YjB0QldreENWV2RLUWpOS1psRldjak0zUkhjIiwiZmN2IjoiMyIsImVpIjoiTXhrNmFwR2lHZHltcXRzUGx2ZW4tUW8iLCJxYyI6IkNpVmpZV3h2Y21sbElHTmhiR04xYkdGMGIzSWdkMlZwWjJoMElHeHZjM01nYldGamNtOXpFQUI5MU1vRFB3IiwicXVlc3Rpb24iOiJIb3cgZG8gSSBjYWxjdWxhdGUgaG93IG1hbnkgbWFjcm9zIEkgbmVlZCB0byBsb3NlIHdlaWdodD8iLCJsayI6ImM1TXl5OGd2VnlqSlYwaE96RWt1elVrc1NWVUFDZVFtNWxVQ2llU2lfR0tGVElXODFOUVVrSnFjX09KVWhmTFV6UFNNRWdBIiwiYnMiOiJjNVdPdlF2Q01CREZjYjNKMWJvY3FJdW9sUHFCbmJyYXdkbFJRbnMyZ2RpREpDWDQzNXRhX0FKRjVPQ0dkN18zN2tFRDZZNDlsb3c1RmtJWGpSYU9VQWJwTE9wTFdJVmhHMjQxVVltT1ViTWw5S1FxNmJKa0cyMWFNc2pmcmVxVEZmWXdQa2poVUZsMGtqREZWUmpUYU1JVG16YU5qU0tiSlpObzVIOXpjSVQ1UFU1Z3hWeDIzOUVJcF9pR2h1ZXFyaDdORjlITV8yR0FIS2F2ZmRjeExtTk00bWVWam10ZG9mVXdHcndUTDlkLTd3byIsImlkIjoiZmNfTXhrNmFwR2lHZHltcXRzUGx2ZW4tUW9fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FuVnBlVmhIYmtkUFpsbHpXV2N5T1ZGWFFXSktkMVJvZG1wd1RtMUpkeTFoUkZCSFlpMVliRVI0VkdoVldUUkViWHBzV2toSk9GaEZUMnAzYVVKNldGUk9VR3hKWkU4eFpIUjVRMjF6UVdwTWRsOWhXalJsVmpacFp4SVhUWGhyTm1Gd1IybEhaSGx0Y1hSelVHeDJaVzR0VVc4YUlrRkVjM0k1WmxGa01VaFBVV1E0YjB0QldreENWV2RLUWpOS1psRldjak0zUkhjIiwiZmN2IjoiMyIsImVpIjoiTXhrNmFwR2lHZHltcXRzUGx2ZW4tUW8iLCJxYyI6IkNpVmpZV3h2Y21sbElHTmhiR04xYkdGMGIzSWdkMlZwWjJoMElHeHZjM01nYldGamNtOXpFQUI5MU1vRFB3IiwicXVlc3Rpb24iOiJIb3cgZG8gSSBjYWxjdWxhdGUgaG93IG1hbnkgbWFjcm9zIEkgbmVlZCB0byBsb3NlIHdlaWdodD8iLCJsayI6ImM1TXl5OGd2VnlqSlYwaE96RWt1elVrc1NWVUFDZVFtNWxVQ2llU2lfR0tGVElXODFOUVVrSnFjX09KVWhmTFV6UFNNRWdBIiwiYnMiOiJjNVdPdlF2Q01CREZjYjNKMWJvY3FJdW9sUHFCbmJyYXdkbFJRbnMyZ2RpREpDWDQzNXRhX0FKRjVPQ0dkN18zN2tFRDZZNDlsb3c1RmtJWGpSYU9VQWJwTE9wTFdJVmhHMjQxVVltT1ViTWw5S1FxNmJKa0cyMWFNc2pmcmVxVEZmWXdQa2poVUZsMGtqREZWUmpUYU1JVG16YU5qU0tiSlpObzVIOXpjSVQ1UFU1Z3hWeDIzOUVJcF9pR2h1ZXFyaDdORjlITV8yR0FIS2F2ZmRjeExtTk00bWVWam10ZG9mVXdHcndUTDlkLTd3byIsImlkIjoiZmNfTXhrNmFwR2lHZHltcXRzUGx2ZW4tUW9fNSJ9"
+    },
+    {
+      "question": "What is the 9 4 4 rule for calories?",
+      "type": "ai_overview",
+      "page_token": "ZTHfYHicHZDBboIwAECzn_E4KYhTE7MMqSAGHMUW28sCrYLQCpsIyG3_sq_a18zs9G7vJe_7R54v5e9TmzdNfV2Mx13XPWdVlcnjM6_UOLneL3zMEynThJeL6csUvJ74Et421upzY4W4romNtL1ttdgBqwj2tk-Yw3SRYNjpTM49jFEc2GzCZR4J400TA0sCaOZCJ9vw4NkEWIzh2ZDawZaVfRFqcx8p0u8OnvnwOyKe6SIGMDL8CVb1FIG68i-SRgPD_kHcqMFoqmaTB13k1owaViv2vCOa50Rw_c7j3hBQ3pGaIwK8cEeCC5GiiMpHmFAD6dJEha_TYk2xMjWuEwPmIjg6V50eLDfBojzGoBduEKYuk-kZoLSvziFGAy-kwhJ3GMgaD6wgMQRM0V5oWcOl39A4P-9VqYXh6MTbpTH6_7n8OKlmUX9V2R83x4H-",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZTHfYHicHZDBboIwAECzn_E4KYhTE7MMqSAGHMUW28sCrYLQCpsIyG3_sq_a18zs9G7vJe_7R54v5e9TmzdNfV2Mx13XPWdVlcnjM6_UOLneL3zMEynThJeL6csUvJ74Et421upzY4W4romNtL1ttdgBqwj2tk-Yw3SRYNjpTM49jFEc2GzCZR4J400TA0sCaOZCJ9vw4NkEWIzh2ZDawZaVfRFqcx8p0u8OnvnwOyKe6SIGMDL8CVb1FIG68i-SRgPD_kHcqMFoqmaTB13k1owaViv2vCOa50Rw_c7j3hBQ3pGaIwK8cEeCC5GiiMpHmFAD6dJEha_TYk2xMjWuEwPmIjg6V50eLDfBojzGoBduEKYuk-kZoLSvziFGAy-kwhJ3GMgaD6wgMQRM0V5oWcOl39A4P-9VqYXh6MTbpTH6_7n8OKlmUX9V2R83x4H-",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FuVnBlVmhIYmtkUFpsbHpXV2N5T1ZGWFFXSktkMVJvZG1wd1RtMUpkeTFoUkZCSFlpMVliRVI0VkdoVldUUkViWHBzV2toSk9GaEZUMnAzYVVKNldGUk9VR3hKWkU4eFpIUjVRMjF6UVdwTWRsOWhXalJsVmpacFp4SVhUWGhyTm1Gd1IybEhaSGx0Y1hSelVHeDJaVzR0VVc4YUlrRkVjM0k1WmxGa01VaFBVV1E0YjB0QldreENWV2RLUWpOS1psRldjak0zUkhjIiwiZmN2IjoiMyIsImVpIjoiTXhrNmFwR2lHZHltcXRzUGx2ZW4tUW8iLCJxYyI6IkNpVmpZV3h2Y21sbElHTmhiR04xYkdGMGIzSWdkMlZwWjJoMElHeHZjM01nYldGamNtOXpFQUI5MU1vRFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA5IDQgNCBydWxlIGZvciBjYWxvcmllcz8iLCJsayI6IkdpTjNhR0YwSUdseklIUm9aU0E1SURRZ05DQnlkV3hsSUdadmNpQmpZV3h2Y21sbGN3IiwiYnMiOiJjNVdPdlF2Q01CREZjYjNKMWJvY3FJdW9sUHFCbmJyYXdkbFJRbnMyZ2RpREpDWDQzNXRhX0FKRjVPQ0dkN18zN2tFRDZZNDlsb3c1RmtJWGpSYU9VQWJwTE9wTFdJVmhHMjQxVVltT1ViTWw5S1FxNmJKa0cyMWFNc2pmcmVxVEZmWXdQa2poVUZsMGtqREZWUmpUYU1JVG16YU5qU0tiSlpObzVIOXpjSVQ1UFU1Z3hWeDIzOUVJcF9pR2h1ZXFyaDdORjlITV8yR0FIS2F2ZmRjeExtTk00bWVWam10ZG9mVXdHcndUTDlkLTd3byIsImlkIjoiZmNfTXhrNmFwR2lHZHltcXRzUGx2ZW4tUW9fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FuVnBlVmhIYmtkUFpsbHpXV2N5T1ZGWFFXSktkMVJvZG1wd1RtMUpkeTFoUkZCSFlpMVliRVI0VkdoVldUUkViWHBzV2toSk9GaEZUMnAzYVVKNldGUk9VR3hKWkU4eFpIUjVRMjF6UVdwTWRsOWhXalJsVmpacFp4SVhUWGhyTm1Gd1IybEhaSGx0Y1hSelVHeDJaVzR0VVc4YUlrRkVjM0k1WmxGa01VaFBVV1E0YjB0QldreENWV2RLUWpOS1psRldjak0zUkhjIiwiZmN2IjoiMyIsImVpIjoiTXhrNmFwR2lHZHltcXRzUGx2ZW4tUW8iLCJxYyI6IkNpVmpZV3h2Y21sbElHTmhiR04xYkdGMGIzSWdkMlZwWjJoMElHeHZjM01nYldGamNtOXpFQUI5MU1vRFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA5IDQgNCBydWxlIGZvciBjYWxvcmllcz8iLCJsayI6IkdpTjNhR0YwSUdseklIUm9aU0E1SURRZ05DQnlkV3hsSUdadmNpQmpZV3h2Y21sbGN3IiwiYnMiOiJjNVdPdlF2Q01CREZjYjNKMWJvY3FJdW9sUHFCbmJyYXdkbFJRbnMyZ2RpREpDWDQzNXRhX0FKRjVPQ0dkN18zN2tFRDZZNDlsb3c1RmtJWGpSYU9VQWJwTE9wTFdJVmhHMjQxVVltT1ViTWw5S1FxNmJKa0cyMWFNc2pmcmVxVEZmWXdQa2poVUZsMGtqREZWUmpUYU1JVG16YU5qU0tiSlpObzVIOXpjSVQ1UFU1Z3hWeDIzOUVJcF9pR2h1ZXFyaDdORjlITV8yR0FIS2F2ZmRjeExtTk00bWVWam10ZG9mVXdHcndUTDlkLTd3byIsImlkIjoiZmNfTXhrNmFwR2lHZHltcXRzUGx2ZW4tUW9fNSJ9"
+    },
+    {
+      "question": "What is a good macro ratio for losing weight?",
+      "type": "ai_overview",
+      "page_token": "usoL_3icHdBdTsIwAADgeBkehTHESEJMCtTSQLFdf7a9mK0dDNr9yCabe_MunsrTaLzBl-_r251L-3N3y9u2bhbjcdd196eqOrnsXlfFOGk-Sz3WiXNpou1i_jj3no96ufnYgtX7FlBR13LNJkEIur01fCdjSrhRWUjcPoTbBFH_gPZ-yiGQiPXZheWRtS0JPC5DPOhNXRAHplISm4TmoJSktGSziGN6gA5TbtuDwNdYQKUHO4ll3RAuc2m9NipMLlTbEWECPQCYQdglHPfM1oqW5pytySufeIB7-YOELCAK-5E02GyYoxc42xeYZuIJxJBQrWjLoVkFCASxj8EmNyR7aaZRCFAijM2U1xtEaIpil549lvbVmQo26Isr_gw49OtCrjGnnCGJDBNcNtqxkg44EgLu4m501LelP_r_XL4di3ZRX6vTL72QhCw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=usoL_3icHdBdTsIwAADgeBkehTHESEJMCtTSQLFdf7a9mK0dDNr9yCabe_MunsrTaLzBl-_r251L-3N3y9u2bhbjcdd196eqOrnsXlfFOGk-Sz3WiXNpou1i_jj3no96ufnYgtX7FlBR13LNJkEIur01fCdjSrhRWUjcPoTbBFH_gPZ-yiGQiPXZheWRtS0JPC5DPOhNXRAHplISm4TmoJSktGSziGN6gA5TbtuDwNdYQKUHO4ll3RAuc2m9NipMLlTbEWECPQCYQdglHPfM1oqW5pytySufeIB7-YOELCAK-5E02GyYoxc42xeYZuIJxJBQrWjLoVkFCASxj8EmNyR7aaZRCFAijM2U1xtEaIpil549lvbVmQo26Isr_gw49OtCrjGnnCGJDBNcNtqxkg44EgLu4m501LelP_r_XL4di3ZRX6vTL72QhCw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FuVnBlVmhIYmtkUFpsbHpXV2N5T1ZGWFFXSktkMVJvZG1wd1RtMUpkeTFoUkZCSFlpMVliRVI0VkdoVldUUkViWHBzV2toSk9GaEZUMnAzYVVKNldGUk9VR3hKWkU4eFpIUjVRMjF6UVdwTWRsOWhXalJsVmpacFp4SVhUWGhyTm1Gd1IybEhaSGx0Y1hSelVHeDJaVzR0VVc4YUlrRkVjM0k1WmxGa01VaFBVV1E0YjB0QldreENWV2RLUWpOS1psRldjak0zUkhjIiwiZmN2IjoiMyIsImVpIjoiTXhrNmFwR2lHZHltcXRzUGx2ZW4tUW8iLCJxYyI6IkNpVmpZV3h2Y21sbElHTmhiR04xYkdGMGIzSWdkMlZwWjJoMElHeHZjM01nYldGamNtOXpFQUI5MU1vRFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgZ29vZCBtYWNybyByYXRpbyBmb3IgbG9zaW5nIHdlaWdodD8iLCJsayI6IkdpeDNhR0YwSUdseklHRWdaMjl2WkNCdFlXTnlieUJ5WVhScGJ5Qm1iM0lnYkc5emFXNW5JSGRsYVdkb2RBIiwiYnMiOiJjNVdPdlF2Q01CREZjYjNKMWJvY3FJdW9sUHFCbmJyYXdkbFJRbnMyZ2RpREpDWDQzNXRhX0FKRjVPQ0dkN18zN2tFRDZZNDlsb3c1RmtJWGpSYU9VQWJwTE9wTFdJVmhHMjQxVVltT1ViTWw5S1FxNmJKa0cyMWFNc2pmcmVxVEZmWXdQa2poVUZsMGtqREZWUmpUYU1JVG16YU5qU0tiSlpObzVIOXpjSVQ1UFU1Z3hWeDIzOUVJcF9pR2h1ZXFyaDdORjlITV8yR0FIS2F2ZmRjeExtTk00bWVWam10ZG9mVXdHcndUTDlkLTd3byIsImlkIjoiZmNfTXhrNmFwR2lHZHltcXRzUGx2ZW4tUW9fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FuVnBlVmhIYmtkUFpsbHpXV2N5T1ZGWFFXSktkMVJvZG1wd1RtMUpkeTFoUkZCSFlpMVliRVI0VkdoVldUUkViWHBzV2toSk9GaEZUMnAzYVVKNldGUk9VR3hKWkU4eFpIUjVRMjF6UVdwTWRsOWhXalJsVmpacFp4SVhUWGhyTm1Gd1IybEhaSGx0Y1hSelVHeDJaVzR0VVc4YUlrRkVjM0k1WmxGa01VaFBVV1E0YjB0QldreENWV2RLUWpOS1psRldjak0zUkhjIiwiZmN2IjoiMyIsImVpIjoiTXhrNmFwR2lHZHltcXRzUGx2ZW4tUW8iLCJxYyI6IkNpVmpZV3h2Y21sbElHTmhiR04xYkdGMGIzSWdkMlZwWjJoMElHeHZjM01nYldGamNtOXpFQUI5MU1vRFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgZ29vZCBtYWNybyByYXRpbyBmb3IgbG9zaW5nIHdlaWdodD8iLCJsayI6IkdpeDNhR0YwSUdseklHRWdaMjl2WkNCdFlXTnlieUJ5WVhScGJ5Qm1iM0lnYkc5emFXNW5JSGRsYVdkb2RBIiwiYnMiOiJjNVdPdlF2Q01CREZjYjNKMWJvY3FJdW9sUHFCbmJyYXdkbFJRbnMyZ2RpREpDWDQzNXRhX0FKRjVPQ0dkN18zN2tFRDZZNDlsb3c1RmtJWGpSYU9VQWJwTE9wTFdJVmhHMjQxVVltT1ViTWw5S1FxNmJKa0cyMWFNc2pmcmVxVEZmWXdQa2poVUZsMGtqREZWUmpUYU1JVG16YU5qU0tiSlpObzVIOXpjSVQ1UFU1Z3hWeDIzOUVJcF9pR2h1ZXFyaDdORjlITV8yR0FIS2F2ZmRjeExtTk00bWVWam10ZG9mVXdHcndUTDlkLTd3byIsImlkIjoiZmNfTXhrNmFwR2lHZHltcXRzUGx2ZW4tUW9fNSJ9"
+    },
+    {
+      "question": "What is the 50 30 20 rule for weight loss?",
+      "type": "ai_overview",
+      "page_token": "QK-1lXicHdDbTsMgAADQ-DM-OmjdjEsWk2ovmxYDo0B5MRS2XqAXu7rNvfkvfpVfo_EPTs7Xt6s7-3N1rKZpOCxns9PpdFP2fel2N7pvZ-rw2emZVs4VStvl4m4BH_Z6FX6sg8f3dYCzYWBPBNBkDbZ2SrdUOuyVEw83a9ZtuI6RzRn2JI1e0yYa04Qsihh6pCOxgIQXF-mkG0b9hBBuU1BEbJQcOcJhg1lQp3ZOt9Tepl01KOCUEVFErAxzWJ7TqDq-MObnnfZpls9fM3ikobPMRjFNSKOceTZgzowzIm0QNjVUmdiceSuFasu5gPcNT5h6ERLs4mo0LTkZf8ilnYKwMmgXH7xcBInKjN1xeDYJwkUiXVFDUpz7GmfkohvXZnZacAtuNa3sn-OCAWt4yIjyUY1a4wmwCTN8vdfHlX_9_7l627fTchj78hce9oOs",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QK-1lXicHdDbTsMgAADQ-DM-OmjdjEsWk2ovmxYDo0B5MRS2XqAXu7rNvfkvfpVfo_EPTs7Xt6s7-3N1rKZpOCxns9PpdFP2fel2N7pvZ-rw2emZVs4VStvl4m4BH_Z6FX6sg8f3dYCzYWBPBNBkDbZ2SrdUOuyVEw83a9ZtuI6RzRn2JI1e0yYa04Qsihh6pCOxgIQXF-mkG0b9hBBuU1BEbJQcOcJhg1lQp3ZOt9Tepl01KOCUEVFErAxzWJ7TqDq-MObnnfZpls9fM3ikobPMRjFNSKOceTZgzowzIm0QNjVUmdiceSuFasu5gPcNT5h6ERLs4mo0LTkZf8ilnYKwMmgXH7xcBInKjN1xeDYJwkUiXVFDUpz7GmfkohvXZnZacAtuNa3sn-OCAWt4yIjyUY1a4wmwCTN8vdfHlX_9_7l627fTchj78hce9oOs",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FuVnBlVmhIYmtkUFpsbHpXV2N5T1ZGWFFXSktkMVJvZG1wd1RtMUpkeTFoUkZCSFlpMVliRVI0VkdoVldUUkViWHBzV2toSk9GaEZUMnAzYVVKNldGUk9VR3hKWkU4eFpIUjVRMjF6UVdwTWRsOWhXalJsVmpacFp4SVhUWGhyTm1Gd1IybEhaSGx0Y1hSelVHeDJaVzR0VVc4YUlrRkVjM0k1WmxGa01VaFBVV1E0YjB0QldreENWV2RLUWpOS1psRldjak0zUkhjIiwiZmN2IjoiMyIsImVpIjoiTXhrNmFwR2lHZHltcXRzUGx2ZW4tUW8iLCJxYyI6IkNpVmpZV3h2Y21sbElHTmhiR04xYkdGMGIzSWdkMlZwWjJoMElHeHZjM01nYldGamNtOXpFQUI5MU1vRFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA1MCAzMCAyMCBydWxlIGZvciB3ZWlnaHQgbG9zcz8iLCJsayI6IkdoazFNQ0F6TUNBeU1DQnlkV3hsSUhkbGFXZG9kQ0JzYjNOeiIsImJzIjoiYzVXT3ZRdkNNQkRGY2IzSjFib2NxSXVvbFBxQm5icmF3ZGxSUW5zMmdkaURKQ1g0MzV0YV9BSkY1T0NHZDdfMzdrRUQ2WTQ5bG93NUZrSVhqUmFPVUFicExPcExXSVZoRzI0MVVZbU9VYk1sOUtRcTZiSmtHMjFhTXNqZnJlcVRGZll3UGtqaFVGbDBrakRGVlJqVGFNSVRtemFOalNLYkpaTm81SDl6Y0lUNVBVNWd4VngyMzlFSXBfaUdodWVxcmg3TkY5SE1fMkdBSEthdmZkY3hMbU5NNG1lVmptdGRvZlV3R3J3VEw5ZC03d28iLCJpZCI6ImZjX014azZhcEdpR2R5bXF0c1BsdmVuLVFvXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FuVnBlVmhIYmtkUFpsbHpXV2N5T1ZGWFFXSktkMVJvZG1wd1RtMUpkeTFoUkZCSFlpMVliRVI0VkdoVldUUkViWHBzV2toSk9GaEZUMnAzYVVKNldGUk9VR3hKWkU4eFpIUjVRMjF6UVdwTWRsOWhXalJsVmpacFp4SVhUWGhyTm1Gd1IybEhaSGx0Y1hSelVHeDJaVzR0VVc4YUlrRkVjM0k1WmxGa01VaFBVV1E0YjB0QldreENWV2RLUWpOS1psRldjak0zUkhjIiwiZmN2IjoiMyIsImVpIjoiTXhrNmFwR2lHZHltcXRzUGx2ZW4tUW8iLCJxYyI6IkNpVmpZV3h2Y21sbElHTmhiR04xYkdGMGIzSWdkMlZwWjJoMElHeHZjM01nYldGamNtOXpFQUI5MU1vRFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA1MCAzMCAyMCBydWxlIGZvciB3ZWlnaHQgbG9zcz8iLCJsayI6IkdoazFNQ0F6TUNBeU1DQnlkV3hsSUhkbGFXZG9kQ0JzYjNOeiIsImJzIjoiYzVXT3ZRdkNNQkRGY2IzSjFib2NxSXVvbFBxQm5icmF3ZGxSUW5zMmdkaURKQ1g0MzV0YV9BSkY1T0NHZDdfMzdrRUQ2WTQ5bG93NUZrSVhqUmFPVUFicExPcExXSVZoRzI0MVVZbU9VYk1sOUtRcTZiSmtHMjFhTXNqZnJlcVRGZll3UGtqaFVGbDBrakRGVlJqVGFNSVRtemFOalNLYkpaTm81SDl6Y0lUNVBVNWd4VngyMzlFSXBfaUdodWVxcmg3TkY5SE1fMkdBSEthdmZkY3hMbU5NNG1lVmptdGRvZlV3R3J3VEw5ZC03d28iLCJpZCI6ImZjX014azZhcEdpR2R5bXF0c1BsdmVuLVFvXzUifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Macro Calculator",
+      "link": "https://www.calculator.net/macro-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calculator.net/macro-calculator.html&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8QFnoECBsQAQ",
+      "displayed_link": "https://www.calculator.net › fitness & health",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png",
+      "snippet": "This macro calculator estimates the macronutrient needs of a person based on their age, physical characteristics, activity level, and bodyweight goals.",
+      "snippet_highlighted_words": [
+        "estimates the macronutrient needs of a person"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This macro calculator estimates the macronutrient needs of a person based on their age, physical characteristics, activity level, and bodyweight goals.",
+          "source_info_link": "https://www.calculator.net/macro-calculator.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.calculator.net/macro-calculator.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.calculator.net%2Fmacro-calculator.html",
+      "source": "Calculator.net"
+    },
+    {
+      "position": 2,
+      "title": "Free Macro Calculator",
+      "link": "https://blog.myfitnesspal.com/free-macro-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.myfitnesspal.com/free-macro-calculator/&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8QFnoECB0QAQ",
+      "displayed_link": "https://blog.myfitnesspal.com › free-macro-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUArOwAq-wAq-sBquoBqukBqegBqOcBp-YBp-UBpuQCpuMBqecCpeMCpeIBpOE3suVYut8bquQCpOF4yettvuIisOqJ0OxUtd8Dot8oo9YCo98Co-BQvO2s2eqPx-O0094Amdk-qNeFxee62-n0-v3___-mzuOg1Oi24vba7vpcs9sDoNsDot7g6_DM4u0Dod1wu9vP7voDodyAvNUFqMiFAAABNklEQVR4AX3RBZaDMBAA0KliaVg81AX37d7_bjsEh9ciz34yCgCr-l-t15vNdrvb7fb4CIIoSZK8MGUw-ZsRGAxxamRiym5ih292GGy_V2ZGoTf1RxMmplPoY2qGKQocuSHq0NcpWLYjMPcoSoQb1U8w9CCcL-715twfzyfBa_oJcdSf8fL8VxDaJtEp2hFGJmie70WmqmG-2hB7E2uM5Toj5cZgMKzE8w1GsAfKjcHIJIo33RNpYjLE3gTCHM_3X0nKWsugM5G419yPojgPkjvjlkFjgnBPCi96atrZvhQFMloJaPikVeH9GhYhJ8a0sxG-KpaVb47ynx8aZ-3Q9MDQVa0s34gYVLFUwgfa9cAYGiLfAyFys4euzqy2FLoFotGRIaYpjJY7M8TOlvcQP99D_HgPn38F1TQSeafLFAAAAABJRU5ErkJggg.png",
+      "date": "Oct 8, 2024",
+      "snippet": "To use the free macro calculator, enter your age, sex, height, weight, activity level, and goal to get a personalized macro breakdown.",
+      "snippet_highlighted_words": [
+        "enter your age, sex, height, weight, activity level, and goal"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "To use the free macro calculator, enter your age, sex, height, weight, activity level, and goal to get a personalized macro breakdown.",
+          "source_info_link": "https://blog.myfitnesspal.com/free-macro-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUArOwAq-wAq-sBquoBqukBqegBqOcBp-YBp-UBpuQCpuMBqecCpeMCpeIBpOE3suVYut8bquQCpOF4yettvuIisOqJ0OxUtd8Dot8oo9YCo98Co-BQvO2s2eqPx-O0094Amdk-qNeFxee62-n0-v3___-mzuOg1Oi24vba7vpcs9sDoNsDot7g6_DM4u0Dod1wu9vP7voDodyAvNUFqMiFAAABNklEQVR4AX3RBZaDMBAA0KliaVg81AX37d7_bjsEh9ciz34yCgCr-l-t15vNdrvb7fb4CIIoSZK8MGUw-ZsRGAxxamRiym5ih292GGy_V2ZGoTf1RxMmplPoY2qGKQocuSHq0NcpWLYjMPcoSoQb1U8w9CCcL-715twfzyfBa_oJcdSf8fL8VxDaJtEp2hFGJmie70WmqmG-2hB7E2uM5Toj5cZgMKzE8w1GsAfKjcHIJIo33RNpYjLE3gTCHM_3X0nKWsugM5G419yPojgPkjvjlkFjgnBPCi96atrZvhQFMloJaPikVeH9GhYhJ8a0sxG-KpaVb47ynx8aZ-3Q9MDQVa0s34gYVLFUwgfa9cAYGiLfAyFys4euzqy2FLoFotGRIaYpjJY7M8TOlvcQP99D_HgPn38F1TQSeafLFAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://blog.myfitnesspal.com/free-macro-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fblog.myfitnesspal.com%2Ffree-macro-calculator%2F",
+      "source": "MyFitnessPal Blog",
+      "read_more_link": "https://blog.myfitnesspal.com/free-macro-calculator/#:~:text=To%20use%20the%20free%20macro,get%20a%20personalized%20macro%20breakdown."
+    },
+    {
+      "position": 3,
+      "title": "The Ripped Body® Calorie and Macro Calculator",
+      "link": "https://rippedbody.com/macro-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rippedbody.com/macro-calculator/&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8QFnoECBkQAQ",
+      "displayed_link": "https://rippedbody.com › macro-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEwhHR4jHyAhHh8jHyAiHh8jHiAfGxwhHR4iHh8cGRkjHyAiHh8GAgIUDxCSkZGbm5tqaWnBwcF3dnaJiIiBgICjo6M_PD22tbVVVFStrKzS0dIsKSno6Oj-6mZLAAAADHRSTlMAgeydvyZCqRDQZt5MunUfAAABN0lEQVQokW2S25aDIAxFsTqiFkjCHbT__5sDzmBt9chDYBtyWAljTdPC5-dz7peJfWucxaHh55MN4kP8hH7aoVL_wWO6sA2gUdFo20uQwciW-1kvQJYiQvu13322eihT1kIdN1fP7Q3BBhk2GbDBYnlqiWbLBgxYCu1ixpadSKEoZbAOrK3bPXtkvN6IMaMLFj0CBIMxYoVdLakADSWf6KXX1SUvCcCqWvRZfQIZ0Eob55wuHxmscChQygLJZmuqHERToCsuBjYn78l5a5GAEFNdmTyazXHG3Zr1qvUaV--8K2GM6UU5vULHFpOt945KovZa21X7qEFHAjmyqTxKSlW1B8dS4trnt_pzN7-1d5Tfs-6voY87NrehvGGP98hecmd2Un9b75jAk63-OvNs7Pgw8G58n_wC16UiooRb7owAAAAASUVORK5CYII.png",
+      "snippet": "Unlike others, this macro calculator has been tested and refined over 14 years of helping clients set macros to achieve their fat loss or muscle gain goals.",
+      "snippet_highlighted_words": [
+        "macro calculator",
+        "macros",
+        "fat loss"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Unlike others, this macro calculator has been tested and refined over 14 years of helping clients set macros to achieve their fat loss or muscle gain goals.",
+          "source_info_link": "https://rippedbody.com/macro-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEwhHR4jHyAhHh8jHyAiHh8jHiAfGxwhHR4iHh8cGRkjHyAiHh8GAgIUDxCSkZGbm5tqaWnBwcF3dnaJiIiBgICjo6M_PD22tbVVVFStrKzS0dIsKSno6Oj-6mZLAAAADHRSTlMAgeydvyZCqRDQZt5MunUfAAABN0lEQVQokW2S25aDIAxFsTqiFkjCHbT__5sDzmBt9chDYBtyWAljTdPC5-dz7peJfWucxaHh55MN4kP8hH7aoVL_wWO6sA2gUdFo20uQwciW-1kvQJYiQvu13322eihT1kIdN1fP7Q3BBhk2GbDBYnlqiWbLBgxYCu1ixpadSKEoZbAOrK3bPXtkvN6IMaMLFj0CBIMxYoVdLakADSWf6KXX1SUvCcCqWvRZfQIZ0Eob55wuHxmscChQygLJZmuqHERToCsuBjYn78l5a5GAEFNdmTyazXHG3Zr1qvUaV--8K2GM6UU5vULHFpOt945KovZa21X7qEFHAjmyqTxKSlW1B8dS4trnt_pzN7-1d5Tfs-6voY87NrehvGGP98hecmd2Un9b75jAk63-OvNs7Pgw8G58n_wC16UiooRb7owAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://rippedbody.com/macro-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Frippedbody.com%2Fmacro-calculator%2F",
+      "source": "Ripped Body"
+    },
+    {
+      "position": 4,
+      "title": "Free Macro Calculator for Weight Loss",
+      "link": "https://eatcounter.com/pages/macrocalculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eatcounter.com/pages/macrocalculator&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8QFnoECCAQAQ",
+      "displayed_link": "https://eatcounter.com › pages › macrocalculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEUAAADa2tng4ODf3t7k5OSurq7____Nzczv8vPp7O309_fJycn5-vrFxcXU1NWWlZWrqqqlpaWTkpCenZ1pammNioh4eXjySk-eAAAAcUlEQVR4Aa3QwQ6AIAiAYTXF1NTU7P0ftRoXD4yt8r9-MDbEjKRSy6K0IREwS-LKofu86REDicDhhhjFmIUnJGwYSkAWOIw_UXI3NY34qWz2u2IAczXn3Eo5-A8RmLj30egRJbcp399ksbfaazGnmNAFXAEI8RsiGKIAAAAASUVORK5CYII.png",
+      "snippet": "Free macro calculator for weight loss. Get your daily protein, carb, and calorie targets in seconds, then hit them with easy 30g-protein meals. No sign-up.",
+      "snippet_highlighted_words": [
+        "Free macro calculator for weight loss"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Free macro calculator for weight loss. Get your daily protein, carb, and calorie targets in seconds, then hit them with easy 30g-protein meals. No sign-up.",
+          "source_info_link": "https://eatcounter.com/pages/macrocalculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEUAAADa2tng4ODf3t7k5OSurq7____Nzczv8vPp7O309_fJycn5-vrFxcXU1NWWlZWrqqqlpaWTkpCenZ1pammNioh4eXjySk-eAAAAcUlEQVR4Aa3QwQ6AIAiAYTXF1NTU7P0ftRoXD4yt8r9-MDbEjKRSy6K0IREwS-LKofu86REDicDhhhjFmIUnJGwYSkAWOIw_UXI3NY34qWz2u2IAczXn3Eo5-A8RmLj30egRJbcp399ksbfaazGnmNAFXAEI8RsiGKIAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://eatcounter.com/pages/macrocalculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Featcounter.com%2Fpages%2Fmacrocalculator",
+      "source": "Counter | High-Protein Frozen Meals"
+    },
+    {
+      "position": 5,
+      "title": "Macro Calculator",
+      "link": "https://www.grittysoldier.com/pages/macro-calculator?srsltid=AfmBOopPSNSOgQ4EQGBZbmiY4uwzmdRBBD5tffPqZdghUbyrNL_WtPCi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.grittysoldier.com/pages/macro-calculator%3Fsrsltid%3DAfmBOopPSNSOgQ4EQGBZbmiY4uwzmdRBBD5tffPqZdghUbyrNL_WtPCi&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8QFnoECBoQAQ",
+      "displayed_link": "https://www.grittysoldier.com › pages › macro-calculator",
+      "favicon": "https://serpapi.com/searches/6a3a19309c2312e813dbc470/images/cTAKAuEezt9pcO_LmBLW7Jwij7fqou1ASw_INki1Q_k.png",
+      "snippet": "This Macro Calculator will help you optimize your basic macronutrient needs based on your body type and goals. How to use the calculator: Fill in all areas ...",
+      "snippet_highlighted_words": [
+        "optimize your basic macronutrient needs based on your body type and goals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This Macro Calculator will help you optimize your basic macronutrient needs based on your body type and goals. How to use the calculator: Fill in all areas ...",
+          "source_info_link": "https://www.grittysoldier.com/pages/macro-calculator?srsltid=AfmBOopPSNSOgQ4EQGBZbmiY4uwzmdRBBD5tffPqZdghUbyrNL_WtPCi",
+          "icon": "https://serpapi.com/searches/6a3a19309c2312e813dbc470/images/cTAKAuEezt9pcO_LmBLW7LYuD434EHrdwWSMm2n-4PYOZxLFVbNsYjE0yw-oWD1l.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.grittysoldier.com/pages/macro-calculator?srsltid=AfmBOopPSNSOgQ4EQGBZbmiY4uwzmdRBBD5tffPqZdghUbyrNL_WtPCi&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.grittysoldier.com%2Fpages%2Fmacro-calculator%3Fsrsltid%3DAfmBOopPSNSOgQ4EQGBZbmiY4uwzmdRBBD5tffPqZdghUbyrNL_WtPCi",
+      "source": "Gritty Soldier Fitness",
+      "read_more_link": "https://www.grittysoldier.com/pages/macro-calculator?srsltid=AfmBOopPSNSOgQ4EQGBZbmiY4uwzmdRBBD5tffPqZdghUbyrNL_WtPCi#:~:text=This%20Macro%20Calculator%20will%20help,areas%20as%20accurately%20as%20possible."
+    },
+    {
+      "position": 6,
+      "title": "Macro Calculator: Determine Your Daily Macronutrient Needs",
+      "link": "https://www.forbes.com/health/nutrition/macro-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.forbes.com/health/nutrition/macro-calculator/&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8QFnoECBgQAQ",
+      "displayed_link": "https://www.forbes.com › health › nutrition › macro-cal...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEUYFxYQDg0GBAALCggVFBNTUlF0dHRqamlubm5mZmYdHBu-vr3____v7-_s7Ow1NTQSERAAAACUlJRBQD_MzMz19fRPT048OzsiISDV1NTq6uovLi2ioaHg4OAtLCsoJiVHRkWMjItuM4hgAAAAyUlEQVR4AcXQBRKDMBBA0YQYThZ3uf8lu6nvkPHKx3lo2FfjwXtCElPauEIMN1H8jiJKUleW55nbFpYolM4qAKHqtEEk2iLmHWcS-qHpKPIKnzde74CoqSjabkScLJNC9nMhKRYL4mrlpmN0RnFyuAnQdY9Ek9uA2FbRUsdn7BHTYchSRP-d3bYPFN_euXIw9J1vX1tY2d8GlsTdf-YVZ5Kf7DZCWSuYL6HwY5sIvAZzis0QeEwPSNhw2BPKYq-u7ZVkZ-X3LPtzF3mnDlewk4KhAAAAAElFTkSuQmCC.png",
+      "date": "Jul 28, 2025",
+      "snippet": "Discover your daily macronutrient needs using Forbes Health's free macro calculator backed by experts and based on age, activity level and ...",
+      "snippet_highlighted_words": [
+        "free macro calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Discover your daily macronutrient needs using Forbes Health's free macro calculator backed by experts and based on age, activity level and ...",
+          "source_info_link": "https://www.forbes.com/health/nutrition/macro-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEUYFxYQDg0GBAALCggVFBNTUlF0dHRqamlubm5mZmYdHBu-vr3____v7-_s7Ow1NTQSERAAAACUlJRBQD_MzMz19fRPT048OzsiISDV1NTq6uovLi2ioaHg4OAtLCsoJiVHRkWMjItuM4hgAAAAyUlEQVR4AcXQBRKDMBBA0YQYThZ3uf8lu6nvkPHKx3lo2FfjwXtCElPauEIMN1H8jiJKUleW55nbFpYolM4qAKHqtEEk2iLmHWcS-qHpKPIKnzde74CoqSjabkScLJNC9nMhKRYL4mrlpmN0RnFyuAnQdY9Ek9uA2FbRUsdn7BHTYchSRP-d3bYPFN_euXIw9J1vX1tY2d8GlsTdf-YVZ5Kf7DZCWSuYL6HwY5sIvAZzis0QeEwPSNhw2BPKYq-u7ZVkZ-X3LPtzF3mnDlewk4KhAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.forbes.com/health/nutrition/macro-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.forbes.com%2Fhealth%2Fnutrition%2Fmacro-calculator%2F",
+      "source": "Forbes"
+    },
+    {
+      "position": 7,
+      "title": "CALORIES for WEIGHT LOSS & MUSCLE GROWTH - A quick ...",
+      "link": "https://www.youtube.com/watch?v=MGRfwGUdGUo",
+      "displayed_link": "34.3K+ views · 4 years ago",
+      "thumbnail": "https://serpapi.com/searches/6a3a19309c2312e813dbc470/images/cTAKAuEezt9pcO_LmBLW7L7ddSuRasnDvyX-yiix3x4.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "Today we are talking about how to calculate your macros and calories for weight loss and muscle growth.",
+      "duration": "10:01",
+      "about_this_result": {
+        "source": {
+          "description": "Today we are talking about how to calculate your macros and calories for weight loss and muscle growth.",
+          "source_info_link": "https://www.youtube.com/watch?v=MGRfwGUdGUo",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=MGRfwGUdGUo&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMGRfwGUdGUo",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQnYR-stUkzdp98gCmR-LsSdLbdjnWY0gcu7A",
+      "source": "YouTube · MrandMrsMuscle"
+    },
+    {
+      "position": 8,
+      "title": "Precision Nutrition's Weight Loss Calculator",
+      "link": "https://www.precisionnutrition.com/weight-loss-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.precisionnutrition.com/weight-loss-calculator/&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8QFnoECCEQAQ",
+      "displayed_link": "https://www.precisionnutrition.com › weight-loss-calculat...",
+      "snippet": "Our weight loss calculator instantly tells you the calories and macros you need to reach your goals—completely customized for your body and preferences.",
+      "snippet_highlighted_words": [
+        "instantly tells you the calories and macros you need"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Let's Start By Getting To...",
+            "link": "https://www.precisionnutrition.com/weight-loss-calculator/#:~:text=Let%27s%20start%20by%20getting%20to%20know%20you"
+          },
+          {
+            "title": "Calculating Calories For...",
+            "link": "https://www.precisionnutrition.com/weight-loss-calculator/#:~:text=Calculating%20Calories%20for%20Weight%20Loss%20Made%20Easy"
+          },
+          {
+            "title": "What Is A Calorie Deficit...",
+            "link": "https://www.precisionnutrition.com/weight-loss-calculator/#:~:text=What%20is%20a%20Calorie%20Deficit%20for%20Weight%20Loss%3F"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Our weight loss calculator instantly tells you the calories and macros you need to reach your goals—completely customized for your body and preferences.",
+          "source_info_link": "https://www.precisionnutrition.com/weight-loss-calculator/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.precisionnutrition.com/weight-loss-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.precisionnutrition.com%2Fweight-loss-calculator%2F",
+      "source": "Precision Nutrition"
+    },
+    {
+      "position": 9,
+      "title": "Daily Calorie Calculator for Weight Loss & Gain Goals",
+      "link": "https://www.fatcalc.com/bwp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fatcalc.com/bwp&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8QFnoECEAQAQ",
+      "displayed_link": "https://www.fatcalc.com › bwp",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA1VBMVEX______PT_9dr_-uv95tr-8uv_8c3_23T_ygD_xAD_7bL1iDz0bwD1eQD3n2X70bn_8Mj_10__55D_763_zK_0dAD_2Gf_ziD_9cXy8vKtsbpqbnZCRk9OUlldY2ZmcHWnp6fnxLH2j0fB3IHu7u66urrd3d2Ai5DWvrDI342FhYjIyMj6s4fyh4z96-vi78RJSUu-yMrspanpAADsMzq3t7f7-_vzk5Vzc3PT09O_v7-YmJj4-Pj6z9DuSU_4vb785-j3cXXavL3xfYDrHyj4wcKTk5OJgAPHAAAA9UlEQVR4AWKgDWBEZoPAb2ySbEAJiDTjRzRJgR-MHIyM338K_vrPwfCD_Q2ypBhIA0zrW3YG3vv_Ac3NBVLEUBBF0YssARvvgrh7fjzB9r8j3J3SOeUt7_HsDG290mcAGGJap4eHL3U2zlrjlSvevh8AQEjk8l6cpNlTazTjkaHnbgHAzE9LANTTrqqNotCkaaEL6NMAqKunt4JHMgzA-PAqvNdN5zOAixSMlrfGvgQXIChbCt4IpssRmPGVK59_c10NoNL4TK71FsStG8DhPVckb3LltMh13UjDO81Mafm1M0MZdaN4r9GaRq2Nda4apZSwnW4BdbQnPWWbitAAAAAASUVORK5CYII.png",
+      "snippet": "Calculate Your Daily Calories and Macros to Reach Your Goal Weight. This calorie calculator uses a research-backed model from the National Institutes of ...",
+      "snippet_highlighted_words": [
+        "Calculate Your Daily Calories and Macros"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculate Your Daily Calories and Macros to Reach Your Goal Weight. This calorie calculator uses a research-backed model from the National Institutes of ...",
+          "source_info_link": "https://www.fatcalc.com/bwp",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA1VBMVEX______PT_9dr_-uv95tr-8uv_8c3_23T_ygD_xAD_7bL1iDz0bwD1eQD3n2X70bn_8Mj_10__55D_763_zK_0dAD_2Gf_ziD_9cXy8vKtsbpqbnZCRk9OUlldY2ZmcHWnp6fnxLH2j0fB3IHu7u66urrd3d2Ai5DWvrDI342FhYjIyMj6s4fyh4z96-vi78RJSUu-yMrspanpAADsMzq3t7f7-_vzk5Vzc3PT09O_v7-YmJj4-Pj6z9DuSU_4vb785-j3cXXavL3xfYDrHyj4wcKTk5OJgAPHAAAA9UlEQVR4AWKgDWBEZoPAb2ySbEAJiDTjRzRJgR-MHIyM338K_vrPwfCD_Q2ypBhIA0zrW3YG3vv_Ac3NBVLEUBBF0YssARvvgrh7fjzB9r8j3J3SOeUt7_HsDG290mcAGGJap4eHL3U2zlrjlSvevh8AQEjk8l6cpNlTazTjkaHnbgHAzE9LANTTrqqNotCkaaEL6NMAqKunt4JHMgzA-PAqvNdN5zOAixSMlrfGvgQXIChbCt4IpssRmPGVK59_c10NoNL4TK71FsStG8DhPVckb3LltMh13UjDO81Mafm1M0MZdaN4r9GaRq2Nda4apZSwnW4BdbQnPWWbitAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fatcalc.com/bwp&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fatcalc.com%2Fbwp",
+      "source": "FatCalc",
+      "read_more_link": "https://www.fatcalc.com/bwp#:~:text=Calculate%20Your%20Daily%20Calories%20and,by%20a%20realistic%20target%20date."
+    },
+    {
+      "position": 10,
+      "title": "calorie & macro calculator - Evidence Based Training",
+      "link": "https://new.ebtonline.app/macro_calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://new.ebtonline.app/macro_calculator&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8QFnoECEMQAQ",
+      "displayed_link": "https://new.ebtonline.app › macro_calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEUAAAAMfXwDHh4V29kZ__8MeXgY_foBEhEJY2ETxMEY-fYPoJ4KamkY-_gRsa8IVVQY8_AZ_voSurgU0M4Qp6UGODgX6eYW4-ADJSQFMTANjIoQq6kY9vMJXl0TysgV1NIOlJIDGBgGQUDfu7c-AAAAsElEQVR4Ac3QRWLDQBBE0a-k0pHbYsaA739H08qivd_wbBp4ewGHPj7FkS8zA75Dtk5ynSGKlcBSmuWuAhK5lSxViuM8oG5yt7bjVd_a829QHKtiobbYNUIptyxlqTCbZubJXD-QRrz6VQmjPLYBzjoti_ija83zpn_0wQqWgjx2JRCYxao39ZuHPM9pmVH9qP_30YdnRktFHusP_hU_M1oK1VyASHlTcyBVwrGI93YD3AwIdeUg-pAAAAAASUVORK5CYII.png",
+      "snippet": "The calorie calculator provides an estimation of your calorie requirements. It is best to use the recommended calories as your starting point.",
+      "snippet_highlighted_words": [
+        "provides an estimation of your calorie requirements"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The calorie calculator provides an estimation of your calorie requirements. It is best to use the recommended calories as your starting point.",
+          "source_info_link": "https://new.ebtonline.app/macro_calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEUAAAAMfXwDHh4V29kZ__8MeXgY_foBEhEJY2ETxMEY-fYPoJ4KamkY-_gRsa8IVVQY8_AZ_voSurgU0M4Qp6UGODgX6eYW4-ADJSQFMTANjIoQq6kY9vMJXl0TysgV1NIOlJIDGBgGQUDfu7c-AAAAsElEQVR4Ac3QRWLDQBBE0a-k0pHbYsaA739H08qivd_wbBp4ewGHPj7FkS8zA75Dtk5ynSGKlcBSmuWuAhK5lSxViuM8oG5yt7bjVd_a829QHKtiobbYNUIptyxlqTCbZubJXD-QRrz6VQmjPLYBzjoti_ija83zpn_0wQqWgjx2JRCYxao39ZuHPM9pmVH9qP_30YdnRktFHusP_hU_M1oK1VyASHlTcyBVwrGI93YD3AwIdeUg-pAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://new.ebtonline.app/macro_calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnew.ebtonline.app%2Fmacro_calculator",
+      "source": "ebtonline.app",
+      "read_more_link": "https://new.ebtonline.app/macro_calculator#:~:text=Note%3A%20The%20calorie%20calculator%20provides,to%20suit%20your%20individual%20requirements."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Free calorie calculator weight loss macros",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Free+calorie+calculator+weight+loss+macros&sa=X&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+calorie+calculator+weight+loss+macros"
+    },
+    {
+      "block_position": 1,
+      "query": "Macro calculator for weight loss female",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Macro+calculator+for+weight+loss+female&sa=X&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Macro+calculator+for+weight+loss+female"
+    },
+    {
+      "block_position": 1,
+      "query": "Calorie calculator weight loss macros female",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Calorie+calculator+weight+loss+macros+female&sa=X&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Calorie+calculator+weight+loss+macros+female"
+    },
+    {
+      "block_position": 1,
+      "query": "Free macro calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Free+macro+calculator&sa=X&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+macro+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Best calorie calculator weight loss macros",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Best+calorie+calculator+weight+loss+macros&sa=X&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+calorie+calculator+weight+loss+macros"
+    },
+    {
+      "block_position": 1,
+      "query": "Calorie calculator weight loss macros bodybuilding",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Calorie+calculator+weight+loss+macros+bodybuilding&sa=X&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Calorie+calculator+weight+loss+macros+bodybuilding"
+    },
+    {
+      "block_position": 1,
+      "query": "Best macros for weight loss female",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Best+macros+for+weight+loss+female&sa=X&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+macros+for+weight+loss+female"
+    },
+    {
+      "block_position": 1,
+      "query": "Best macro calculator free",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Best+macro+calculator+free&sa=X&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+macro+calculator+free"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=calorie+calculator+weight+loss+macros&sca_esv=bbb7d61e8d3bb37e&ei=Mxk6apGiGdymqtsPlven-Qo&start=10&sa=N&sstk=AU9db-AlqKLIicaS8Wvz06NTnF-4_PbCNG4m81V7Yvr3twGh2v3EXRe6mnW2OqFIARPtgJabnIH8gP7ZHbclAfV8J0xjOiHEGQsJuA&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q8NMDegQINhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=calorie+calculator+weight+loss+macros&sca_esv=bbb7d61e8d3bb37e&ei=Mxk6apGiGdymqtsPlven-Qo&start=10&sa=N&sstk=AU9db-AlqKLIicaS8Wvz06NTnF-4_PbCNG4m81V7Yvr3twGh2v3EXRe6mnW2OqFIARPtgJabnIH8gP7ZHbclAfV8J0xjOiHEGQsJuA&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q8tMDegQINhAE",
+      "3": "https://www.google.com/search?q=calorie+calculator+weight+loss+macros&sca_esv=bbb7d61e8d3bb37e&ei=Mxk6apGiGdymqtsPlven-Qo&start=20&sa=N&sstk=AU9db-AlqKLIicaS8Wvz06NTnF-4_PbCNG4m81V7Yvr3twGh2v3EXRe6mnW2OqFIARPtgJabnIH8gP7ZHbclAfV8J0xjOiHEGQsJuA&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q8tMDegQINhAG",
+      "4": "https://www.google.com/search?q=calorie+calculator+weight+loss+macros&sca_esv=bbb7d61e8d3bb37e&ei=Mxk6apGiGdymqtsPlven-Qo&start=30&sa=N&sstk=AU9db-AlqKLIicaS8Wvz06NTnF-4_PbCNG4m81V7Yvr3twGh2v3EXRe6mnW2OqFIARPtgJabnIH8gP7ZHbclAfV8J0xjOiHEGQsJuA&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q8tMDegQINhAI",
+      "5": "https://www.google.com/search?q=calorie+calculator+weight+loss+macros&sca_esv=bbb7d61e8d3bb37e&ei=Mxk6apGiGdymqtsPlven-Qo&start=40&sa=N&sstk=AU9db-AlqKLIicaS8Wvz06NTnF-4_PbCNG4m81V7Yvr3twGh2v3EXRe6mnW2OqFIARPtgJabnIH8gP7ZHbclAfV8J0xjOiHEGQsJuA&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q8tMDegQINhAK",
+      "6": "https://www.google.com/search?q=calorie+calculator+weight+loss+macros&sca_esv=bbb7d61e8d3bb37e&ei=Mxk6apGiGdymqtsPlven-Qo&start=50&sa=N&sstk=AU9db-AlqKLIicaS8Wvz06NTnF-4_PbCNG4m81V7Yvr3twGh2v3EXRe6mnW2OqFIARPtgJabnIH8gP7ZHbclAfV8J0xjOiHEGQsJuA&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q8tMDegQINhAM",
+      "7": "https://www.google.com/search?q=calorie+calculator+weight+loss+macros&sca_esv=bbb7d61e8d3bb37e&ei=Mxk6apGiGdymqtsPlven-Qo&start=60&sa=N&sstk=AU9db-AlqKLIicaS8Wvz06NTnF-4_PbCNG4m81V7Yvr3twGh2v3EXRe6mnW2OqFIARPtgJabnIH8gP7ZHbclAfV8J0xjOiHEGQsJuA&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q8tMDegQINhAO",
+      "8": "https://www.google.com/search?q=calorie+calculator+weight+loss+macros&sca_esv=bbb7d61e8d3bb37e&ei=Mxk6apGiGdymqtsPlven-Qo&start=70&sa=N&sstk=AU9db-AlqKLIicaS8Wvz06NTnF-4_PbCNG4m81V7Yvr3twGh2v3EXRe6mnW2OqFIARPtgJabnIH8gP7ZHbclAfV8J0xjOiHEGQsJuA&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q8tMDegQINhAQ",
+      "9": "https://www.google.com/search?q=calorie+calculator+weight+loss+macros&sca_esv=bbb7d61e8d3bb37e&ei=Mxk6apGiGdymqtsPlven-Qo&start=80&sa=N&sstk=AU9db-AlqKLIicaS8Wvz06NTnF-4_PbCNG4m81V7Yvr3twGh2v3EXRe6mnW2OqFIARPtgJabnIH8gP7ZHbclAfV8J0xjOiHEGQsJuA&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q8tMDegQINhAS",
+      "10": "https://www.google.com/search?q=calorie+calculator+weight+loss+macros&sca_esv=bbb7d61e8d3bb37e&ei=Mxk6apGiGdymqtsPlven-Qo&start=90&sa=N&sstk=AU9db-AlqKLIicaS8Wvz06NTnF-4_PbCNG4m81V7Yvr3twGh2v3EXRe6mnW2OqFIARPtgJabnIH8gP7ZHbclAfV8J0xjOiHEGQsJuA&ved=2ahUKEwjRh6OY0JyVAxVck2oFHZb7Ka8Q8tMDegQINhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=calorie+calculator+weight+loss+macros&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=calorie+calculator+weight+loss+macros&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=calorie+calculator+weight+loss+macros&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=calorie+calculator+weight+loss+macros&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=calorie+calculator+weight+loss+macros&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=calorie+calculator+weight+loss+macros&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=calorie+calculator+weight+loss+macros&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=calorie+calculator+weight+loss+macros&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=calorie+calculator+weight+loss+macros&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=calorie+calculator+weight+loss+macros&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=calorie+calculator+weight+loss+macros&start=90"
+    }
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "search_metadata": {
+    "id": "6a3a1841eb2bd172fa0d8844",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/HbnHMi9P9BiXcLD9-uBhOw/6a3a1841eb2bd172fa0d8844.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/HbnHMi9P9BiXcLD9-uBhOw/6a3a1841eb2bd172fa0d8844.json_with_pixel_position",
+    "created_at": "2026-06-23 05:23:13 UTC",
+    "processed_at": "2026-06-23 05:23:13 UTC",
+    "google_url": "https://www.google.com/search?q=hat+size+converter+international&oq=hat+size+converter+international&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/HbnHMi9P9BiXcLD9-uBhOw/6a3a1841eb2bd172fa0d8844.html",
+    "total_time_taken": 1.58
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "hat size converter international",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "hat size converter international",
+    "total_results": 106,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "yRQ2EXicxVZZk6JIEH7f_zG-dI-AeHYEMVEgKKK2eIyNLwRXFyiHDSjYb_tf9lft0_6UqUJQbLU7diI2Ng3ryMrKyusz_fMv1_E3f__xjx3H2-iJIJIkqcIggK5VNQKP0KKDbxCvgRuFhv3jsGfoihExZMVyGDmFTW2vT9lWsx3u-AmtP3tQFivZFUbVtchaI43pOiJUAg2bb3QXbapR1fKrnF3X05-BlKaLao2kOtVnQvOQAPgPiQfTbJbRR0SzeCWBn4dfaJFFfHFW4nClsaDRUZEoZhN3VymXW8EpWKT7fRXWWdCVM17_Eytml9slHniQAMBiE3n51p1bRhS8IJ_Zuy_y16xMmM3f6pbV3_OXLSdYxjrnbcCdE1G4zILCAyQC0Zo9amwAtj5JuB73SZrQyRb2efu7fNPoEgkSv03y9VDpIYsIE6IiJAk9RBNFOIZtZIswwrXJzTtkIExCc5X2u2Fj9nKIQp7s70bOKt358UgmDB3JuYFmWqZqq-SPbE_VqAbZoVvtxwwURnRCRVRGxao5cgE9eKUFUB1WWaoEiSwYx1IqXMLlxt5xT8pjWKJTdWaxlgd5bIooLwoxNijQkTPWG1xVyonRxqmwP76IdV1DoiBYXiBIZGaLi9PNsjheiuzZ1Jy6H_N93uc-KECSTy7zJYuPgeDL-w1WLvYKRnI6wlqhCzKII0jwucLni_uwbBgKFssBvjg-WYBlupuTGJ9ZiI8VWVaAKCCIovTBwvk8lQgS4mXswPpiJ0D85eBNgH9F7Dnh94gHRe1_KOULCAzHuh3VBu5AZSN72xAc-9DrerO6Iye3Sz7w9H_RCYz_FxSLvE8sciRIN0EBvwCFLPKf9oljAZ_7BK4VLrgHCi4HxWWfOBbuuU9cg2J2CYr7faIEiqOWz0HB3gXF8WflGhS4T1yBAt4BxbFPlEFx2Sf8k2bsQQkUv9Un5N_oExlGrON02TR2a3i3efQHgrJyKMUc03qjGTbcftLnhB0X-2v4ZfN49eInTzPdR9Uxn9jaID6YjypiBE-WWXljbC1-iJx368EI_L0Vxlb44Pho9LXYCXzNrXhuGDCkVt93XtJAma7HtDZaKzHZ3b28-f6b1EiNfV_bD73mUp3QW2cyDnrzxK13e814nr5PD6bLiytTnUsLY9E3VrEgKa0m1XhRxzBcjs1OvTEh52ojps35hv6ZCN77dJKuoUEPWcG1l1SNVTwykRR6ISX-sxm-pfJkAzK7Isbdh_OxMBtvMUczI4uhKl5oMAgG9QiMZbCEwED1D2T0b0rmAvRNUPYrkaGpVrRndF1vmU3Kapu0rtMtq-LB-LBl6lQl8kOG-gXu8RpU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yRQ2EXicxVZZk6JIEH7f_zG-dI-AeHYEMVEgKKK2eIyNLwRXFyiHDSjYb_tf9lft0_6UqUJQbLU7diI2Ng3ryMrKyusz_fMv1_E3f__xjx3H2-iJIJIkqcIggK5VNQKP0KKDbxCvgRuFhv3jsGfoihExZMVyGDmFTW2vT9lWsx3u-AmtP3tQFivZFUbVtchaI43pOiJUAg2bb3QXbapR1fKrnF3X05-BlKaLao2kOtVnQvOQAPgPiQfTbJbRR0SzeCWBn4dfaJFFfHFW4nClsaDRUZEoZhN3VymXW8EpWKT7fRXWWdCVM17_Eytml9slHniQAMBiE3n51p1bRhS8IJ_Zuy_y16xMmM3f6pbV3_OXLSdYxjrnbcCdE1G4zILCAyQC0Zo9amwAtj5JuB73SZrQyRb2efu7fNPoEgkSv03y9VDpIYsIE6IiJAk9RBNFOIZtZIswwrXJzTtkIExCc5X2u2Fj9nKIQp7s70bOKt358UgmDB3JuYFmWqZqq-SPbE_VqAbZoVvtxwwURnRCRVRGxao5cgE9eKUFUB1WWaoEiSwYx1IqXMLlxt5xT8pjWKJTdWaxlgd5bIooLwoxNijQkTPWG1xVyonRxqmwP76IdV1DoiBYXiBIZGaLi9PNsjheiuzZ1Jy6H_N93uc-KECSTy7zJYuPgeDL-w1WLvYKRnI6wlqhCzKII0jwucLni_uwbBgKFssBvjg-WYBlupuTGJ9ZiI8VWVaAKCCIovTBwvk8lQgS4mXswPpiJ0D85eBNgH9F7Dnh94gHRe1_KOULCAzHuh3VBu5AZSN72xAc-9DrerO6Iye3Sz7w9H_RCYz_FxSLvE8sciRIN0EBvwCFLPKf9oljAZ_7BK4VLrgHCi4HxWWfOBbuuU9cg2J2CYr7faIEiqOWz0HB3gXF8WflGhS4T1yBAt4BxbFPlEFx2Sf8k2bsQQkUv9Un5N_oExlGrON02TR2a3i3efQHgrJyKMUc03qjGTbcftLnhB0X-2v4ZfN49eInTzPdR9Uxn9jaID6YjypiBE-WWXljbC1-iJx368EI_L0Vxlb44Pho9LXYCXzNrXhuGDCkVt93XtJAma7HtDZaKzHZ3b28-f6b1EiNfV_bD73mUp3QW2cyDnrzxK13e814nr5PD6bLiytTnUsLY9E3VrEgKa0m1XhRxzBcjs1OvTEh52ojps35hv6ZCN77dJKuoUEPWcG1l1SNVTwykRR6ISX-sxm-pfJkAzK7Isbdh_OxMBtvMUczI4uhKl5oMAgG9QiMZbCEwED1D2T0b0rmAvRNUPYrkaGpVrRndF1vmU3Kapu0rtMtq-LB-LBl6lQl8kOG-gXu8RpU"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Hat Size Chart",
+      "link": "https://www.lockhatters.com/pages/hat-sizing?srsltid=AfmBOopHackjrqhCQRnSFzZs9NlIgz0BtBCK0wGRllUr9SBO78CW5-sE",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lockhatters.com/pages/hat-sizing%3Fsrsltid%3DAfmBOopHackjrqhCQRnSFzZs9NlIgz0BtBCK0wGRllUr9SBO78CW5-sE&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQFnoECB4QAQ",
+      "displayed_link": "https://www.lockhatters.com › pages › hat-sizing",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEX____19fXy8vLs7OzV1NTHxsa4t7erqqqura3Ly8u9vb2fnp6YlpeysbGnpaZxbm7i4uLR0dHb2tqhn6CIhofBwMDEw8OVk5ShoKB3d3f7-_vh4OCQjo9BPT5mY2RRTk-CgIBeW1xIRUVkYWJQTE2ngh6pAAABtklEQVR4AY3S16KcIBCAYWRgRobOgrhKNnqS93_GbEnv_-2ndPG_TZOU0_Q7AaWRiGbUCn42TbNh66zXZib9A8kQgwJOmnOGEuLlu5-htmwMGhCwNPYZWk9f_3PrdZvUhhdHLe1iX4CGfNlGC7wTt1scS32f3OEjvx84b08sh1lOvI3DpvHG9ayHMkUf6mGTD6YwGjV5ctZpJc0swQQv75gC3GkBUJlba2rfU1k8Q0h3VLwttaJc8Vh9RfLNdj0scL5jszDHG1IMUYVzP0P78NH22-75jjyaC_3IZGlDkoe9zqmySfaOWyuMpgARmYU1gYBstoRkeBMbY2GJFgq3poJRCFNZWoN8R6E9jYRXXPvlQovP1towI83tcfzF8hrcZYRQncMVjR26H8OHckdwu_JmB5mMD8FzkbAvrMClO07ok1hJlKwUM0Mucpdb8n56nS2Vt10Odx3c3XwJI_rmr0U8QxK3GvtRz9B7PPo4oyAUr6T1JmTTzI7eTEbtkJqTX19C1yC0WjqRz6kI4AHfvSFf2aHp5H2CmauX4vvyWlfW3BhdXfMvLxpK45mQM_z2XW-PxHd9AkmfHhx8Ys3VAAAAAElFTkSuQmCC.png",
+      "snippet": "1. Place a tape measure around your head positioned mid-forehead and just above the ears. · 2. What size is my head? Take note of the measurements in centimeters ...",
+      "snippet_highlighted_words": [
+        "1. Place a tape measure around your head positioned mid-forehead and just above the ears"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. Place a tape measure around your head positioned mid-forehead and just above the ears. · 2. What size is my head? Take note of the measurements in centimeters ...",
+          "source_info_link": "https://www.lockhatters.com/pages/hat-sizing?srsltid=AfmBOopHackjrqhCQRnSFzZs9NlIgz0BtBCK0wGRllUr9SBO78CW5-sE",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEX____19fXy8vLs7OzV1NTHxsa4t7erqqqura3Ly8u9vb2fnp6YlpeysbGnpaZxbm7i4uLR0dHb2tqhn6CIhofBwMDEw8OVk5ShoKB3d3f7-_vh4OCQjo9BPT5mY2RRTk-CgIBeW1xIRUVkYWJQTE2ngh6pAAABtklEQVR4AY3S16KcIBCAYWRgRobOgrhKNnqS93_GbEnv_-2ndPG_TZOU0_Q7AaWRiGbUCn42TbNh66zXZib9A8kQgwJOmnOGEuLlu5-htmwMGhCwNPYZWk9f_3PrdZvUhhdHLe1iX4CGfNlGC7wTt1scS32f3OEjvx84b08sh1lOvI3DpvHG9ayHMkUf6mGTD6YwGjV5ctZpJc0swQQv75gC3GkBUJlba2rfU1k8Q0h3VLwttaJc8Vh9RfLNdj0scL5jszDHG1IMUYVzP0P78NH22-75jjyaC_3IZGlDkoe9zqmySfaOWyuMpgARmYU1gYBstoRkeBMbY2GJFgq3poJRCFNZWoN8R6E9jYRXXPvlQovP1towI83tcfzF8hrcZYRQncMVjR26H8OHckdwu_JmB5mMD8FzkbAvrMClO07ok1hJlKwUM0Mucpdb8n56nS2Vt10Odx3c3XwJI_rmr0U8QxK3GvtRz9B7PPo4oyAUr6T1JmTTzI7eTEbtkJqTX19C1yC0WjqRz6kI4AHfvSFf2aHp5H2CmauX4vvyWlfW3BhdXfMvLxpK45mQM_z2XW-PxHd9AkmfHhx8Ys3VAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.lockhatters.com/pages/hat-sizing?srsltid=AfmBOopHackjrqhCQRnSFzZs9NlIgz0BtBCK0wGRllUr9SBO78CW5-sE&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.lockhatters.com%2Fpages%2Fhat-sizing%3Fsrsltid%3DAfmBOopHackjrqhCQRnSFzZs9NlIgz0BtBCK0wGRllUr9SBO78CW5-sE",
+      "source": "Lock & Co. Hatters",
+      "read_more_link": "https://www.lockhatters.com/pages/hat-sizing?srsltid=AfmBOopHackjrqhCQRnSFzZs9NlIgz0BtBCK0wGRllUr9SBO78CW5-sE#:~:text=1.%20Place%20a%20tape%20measure,and%20just%20above%20the%20ears.&text=2.%20What%20size%20is%20my,measurements%20in%20centimeters%20or%20inches."
+    },
+    {
+      "position": 2,
+      "title": "Hat Size Conversion Chart - Student Affairs | Baruch College",
+      "link": "https://studentaffairs.baruch.cuny.edu/studentlife/commencement/hat-conversion-chart/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studentaffairs.baruch.cuny.edu/studentlife/commencement/hat-conversion-chart/&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQFnoECBwQAQ",
+      "displayed_link": "https://studentaffairs.baruch.cuny.edu › commencement",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX4-Pny8faytcx4hKo8VIcoRH0oRXwnQXojP3gwSIA-UohJXI3c4Or6-vzS0tL____39_rEytuLlrk2ToVIZJRVaZdHWY2Fj7S6wdWlrsoaO3cfOnWRmrsZOHR_jbLN0eLn5_FBXI9gcp7W3Oi4u9NwgKhpeaOBirBvfafCw9lCXpBpdqS-xtfAyNqcosLV1dSE28loAAABc0lEQVR4AXTSVaKEIBQAUItUn0GMogjGdO1_d4_p5pND3PI8zw_CCEAIAcIYI0RoHAaJ20__vCzLizJCACHAuBCSEULFrPLTLDthmtSRUk0D4rauQwm0QqQz_hVt0CulGzJU4ziVsXJrqJMbTmdkc7fhmwV2KJfmin71wNSGpNE_MLMdcxiX4xfMkzlwOEz2C9ppwBpF5ehfMLvhyuF6RbWOwirP3m6uRlvMJCG8q2z2jgtThFJj2RZ-9oFD3cZAIzmbbH7D7Iai7TYMAbptp_FW2yzfbS7PFuOuFQyziHeTveF-c0slNwcBlVYydH15xyy3BwG0wqxb-x-Ypa67WmksWnv8RL_iyi2ySC5YPNCpWZz6gsV4Rq_gT5glIXWo-Xdcyi-4er6pvj87nv9Ewy0gjs8Dtre-b00d48aVf2kvuHOoFNoc1qNZl6ciKLAK_Ovc9hghAOgQdsuVoAQwvgqSy8SbkgJCCPgfkAADcIYABTwAP7A9mH3LCrIAAAAASUVORK5CYII.png",
+      "snippet": "If you do not know your hat size, you can find it by using a measuring tape. Place the measuring tape around the widest part of head where the cap is worn.",
+      "snippet_highlighted_words": [
+        "hat size"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you do not know your hat size, you can find it by using a measuring tape. Place the measuring tape around the widest part of head where the cap is worn.",
+          "source_info_link": "https://studentaffairs.baruch.cuny.edu/studentlife/commencement/hat-conversion-chart/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX4-Pny8faytcx4hKo8VIcoRH0oRXwnQXojP3gwSIA-UohJXI3c4Or6-vzS0tL____39_rEytuLlrk2ToVIZJRVaZdHWY2Fj7S6wdWlrsoaO3cfOnWRmrsZOHR_jbLN0eLn5_FBXI9gcp7W3Oi4u9NwgKhpeaOBirBvfafCw9lCXpBpdqS-xtfAyNqcosLV1dSE28loAAABc0lEQVR4AXTSVaKEIBQAUItUn0GMogjGdO1_d4_p5pND3PI8zw_CCEAIAcIYI0RoHAaJ20__vCzLizJCACHAuBCSEULFrPLTLDthmtSRUk0D4rauQwm0QqQz_hVt0CulGzJU4ziVsXJrqJMbTmdkc7fhmwV2KJfmin71wNSGpNE_MLMdcxiX4xfMkzlwOEz2C9ppwBpF5ehfMLvhyuF6RbWOwirP3m6uRlvMJCG8q2z2jgtThFJj2RZ-9oFD3cZAIzmbbH7D7Iai7TYMAbptp_FW2yzfbS7PFuOuFQyziHeTveF-c0slNwcBlVYydH15xyy3BwG0wqxb-x-Ypa67WmksWnv8RL_iyi2ySC5YPNCpWZz6gsV4Rq_gT5glIXWo-Xdcyi-4er6pvj87nv9Ewy0gjs8Dtre-b00d48aVf2kvuHOoFNoc1qNZl6ciKLAK_Ovc9hghAOgQdsuVoAQwvgqSy8SbkgJCCPgfkAADcIYABTwAP7A9mH3LCrIAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://studentaffairs.baruch.cuny.edu/studentlife/commencement/hat-conversion-chart/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fstudentaffairs.baruch.cuny.edu%2Fstudentlife%2Fcommencement%2Fhat-conversion-chart%2F",
+      "source": "Student Affairs | Baruch College -",
+      "read_more_link": "https://studentaffairs.baruch.cuny.edu/studentlife/commencement/hat-conversion-chart/#:~:text=If%20you%20do%20not%20know,where%20the%20cap%20is%20worn."
+    },
+    {
+      "position": 3,
+      "title": "International hat size chart | Guide | Measuring tips",
+      "link": "https://www.hatshopping.com/Size-guide-us.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hatshopping.com/Size-guide-us.html&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQFnoECCIQAQ",
+      "displayed_link": "https://www.hatshopping.com › Size-guide-us",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEX3-_1HcEwogcwpfs0pfs0pfs0qfs0pfs1AscIpfs0pfs0pfs0of80pfc0ogM0pfs0pfc4ir7sfrLwdrrohrLwkk8Ucr7odrrodr7odr7ocrrodrbsdrrorsby1LDmvAAAAHnRSTlMBAHTIo1Mzjwr_9uqw4JZj0zRZaUeEl__k2MV37xmFs-xlAAAA1ElEQVR4AcSQhQEDIQwAkzdcAu-y_5pNHbpAD8_h8EfwzrvFH9e0Xf8wg2g7WVkEpZQ2VnROc6-vlw6qxNcrG17IixhjlGpr2XG0EWzbYHleLaO6x0PTBHFfD1g4MIpx1vv2sfdQyoFDJeErEfsfKRDeXwLYGKN1MaFFlJKFpJRzGlMzedu2bXSMiYg0E8K8PFm3fT5yPqYHRGndJZws9pnZ931bz3Nltm1dOSohs90J5HVdRDSOKSVefxw5EQDQvC2zxJL3RbniVfI2zNiFsUDMYQAAy88OlYp7zwYAAAAASUVORK5CYII.png",
+      "snippet": "Both size charts show conversions from American and English sizes into international sizes.",
+      "snippet_highlighted_words": [
+        "size",
+        "conversions",
+        "sizes",
+        "international sizes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Both size charts show conversions from American and English sizes into international sizes.",
+          "source_info_link": "https://www.hatshopping.com/Size-guide-us.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEX3-_1HcEwogcwpfs0pfs0pfs0qfs0pfs1AscIpfs0pfs0pfs0of80pfc0ogM0pfs0pfc4ir7sfrLwdrrohrLwkk8Ucr7odrrodr7odr7ocrrodrbsdrrorsby1LDmvAAAAHnRSTlMBAHTIo1Mzjwr_9uqw4JZj0zRZaUeEl__k2MV37xmFs-xlAAAA1ElEQVR4AcSQhQEDIQwAkzdcAu-y_5pNHbpAD8_h8EfwzrvFH9e0Xf8wg2g7WVkEpZQ2VnROc6-vlw6qxNcrG17IixhjlGpr2XG0EWzbYHleLaO6x0PTBHFfD1g4MIpx1vv2sfdQyoFDJeErEfsfKRDeXwLYGKN1MaFFlJKFpJRzGlMzedu2bXSMiYg0E8K8PFm3fT5yPqYHRGndJZws9pnZ931bz3Nltm1dOSohs90J5HVdRDSOKSVefxw5EQDQvC2zxJL3RbniVfI2zNiFsUDMYQAAy88OlYp7zwYAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.hatshopping.com/Size-guide-us.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.hatshopping.com%2FSize-guide-us.html",
+      "source": "Hatshopping.com"
+    },
+    {
+      "position": 4,
+      "title": "Hat Size Calculator",
+      "link": "https://www.omnicalculator.com/everyday-life/hat-size",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.omnicalculator.com/everyday-life/hat-size&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQFnoECBgQAQ",
+      "displayed_link": "https://www.omnicalculator.com › everyday-life › hat-s...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz8YXX8SWD8RV78RV38TmT8QFn8U2lCbfo-avpEbvpKc_o7aPpAbPo_a_r8R1_LvM1BbPpIcvpAbPo9avr8RFxFb_pPd_pjhvlIcfr8dIb60Cz6zh76zh36zRf6zA_6zA7510r6zh360Cn61DzYpcloAAAAJXRSTlMAFWuqzkr_Lonjczn_v86KBKZPtPjjXiUNRQgvbaDP__8LjkkVqtFInQAAAPBJREFUeAFt0QWWhEAMRdGPywRacNf9r3Eq5HQYqXsEeUgJlON6vu-7sAj8UET4y-GkMU5S3KLwBnwRUWZtHpCRkUM4n-A_XBd40uUl0ZfkORC51DeMQFoAVRArYVTaVEas_ozmAcVKGRMeIXuCNWktJymxFr5MgMX8pwZGS6yTX7owOmIJWEJGCte0qofxokujQ4qBZ8_JHpXts8AwToN9QMC8rOtinwq2xVh3-yI854Ud1uXDsUq1LvxzlnpCvBPdMuNcLgNQp-mrJPGCGHhIM0_llgNaV34xIZXhdu4Hz1yl-Etj3OK_Os_zIu6gvgFLyRf2XteplQAAAABJRU5ErkJggg.png",
+      "snippet": "Our hat size calculator is a great tool for assessing your hat measurement in international, American, and British charts — for both children and adults.",
+      "snippet_highlighted_words": [
+        "hat size calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Our hat size calculator is a great tool for assessing your hat measurement in international, American, and British charts — for both children and adults.",
+          "source_info_link": "https://www.omnicalculator.com/everyday-life/hat-size",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz8YXX8SWD8RV78RV38TmT8QFn8U2lCbfo-avpEbvpKc_o7aPpAbPo_a_r8R1_LvM1BbPpIcvpAbPo9avr8RFxFb_pPd_pjhvlIcfr8dIb60Cz6zh76zh36zRf6zA_6zA7510r6zh360Cn61DzYpcloAAAAJXRSTlMAFWuqzkr_Lonjczn_v86KBKZPtPjjXiUNRQgvbaDP__8LjkkVqtFInQAAAPBJREFUeAFt0QWWhEAMRdGPywRacNf9r3Eq5HQYqXsEeUgJlON6vu-7sAj8UET4y-GkMU5S3KLwBnwRUWZtHpCRkUM4n-A_XBd40uUl0ZfkORC51DeMQFoAVRArYVTaVEas_ozmAcVKGRMeIXuCNWktJymxFr5MgMX8pwZGS6yTX7owOmIJWEJGCte0qofxokujQ4qBZ8_JHpXts8AwToN9QMC8rOtinwq2xVh3-yI854Ud1uXDsUq1LvxzlnpCvBPdMuNcLgNQp-mrJPGCGHhIM0_llgNaV34xIZXhdu4Hz1yl-Etj3OK_Os_zIu6gvgFLyRf2XteplQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.omnicalculator.com/everyday-life/hat-size&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.omnicalculator.com%2Feveryday-life%2Fhat-size",
+      "source": "Omni Calculator"
+    },
+    {
+      "position": 5,
+      "title": "Hat Sizing - International Size Charts - kiwisizing.com",
+      "link": "https://kiwisizing.com/blog/size-conversion-charts-hats/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kiwisizing.com/blog/size-conversion-charts-hats/&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQFnoECBsQAQ",
+      "displayed_link": "https://kiwisizing.com › size-conversion-charts-hats",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEVHcExnuEhOrkpJrEhZskk9pENFq0dCp0VHqkgzpUVWsUpbs0kwuklAqEgwo0Zuu0dKrUl2vkeAwkdVsEzm7c6IxEb-_vt7wEfi57fy9uVftUbE3K1st3LL48av05mKw3YImjqlzm8-4odkAAAADHRSTlMA_t4o8AUaCTsQp-bN-AJfAAABN0lEQVQokYXS246DIBQF0AIiihGxUEQQtP__k3M42tY6mcx-g5Udrrfbf2GyI2QYxj0DIZ1kbwtAMDvdIdM0DMDhpTKUGhLgmFcoB4nEb3S3ByY6txhQCgDIO_Kyp3fOumUzA-l4QSEqKN7vhWZIsotSZqgEYlthMXsLmFIEUypUrfjg00cbY8p6U5gL5hzX7aArxjg7lxbUXvVf-LAOMs9-RTs1y27DkgCt9d6ovv8093MOW5-L-QVQnfBQkxzo0p-beLfj9LRlUWsvCDpmO1sguAQgrc9IVhttSinjbrR-NzsTQlh9jLkcA03r7kBqjAlrzMtOaJoeKDUoMepsRiLyuikDo7_MNDU-dssaSSnt6CmyYS2iqFnzK6wW-ydqa3ZhxmosYretL2kFf31czrn4Cudv-zM_N5UkdTawa9IAAAAASUVORK5CYII.png",
+      "date": "Feb 9, 2023",
+      "snippet": "Find the perfect fit for your hat with our comprehensive hat size charts. Easily convert international sizes and get the ideal fit for your head.",
+      "snippet_highlighted_words": [
+        "Easily convert international sizes"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Easy Fit and Fitted hat size...",
+            "link": "https://kiwisizing.com/blog/size-conversion-charts-hats/#elementor-toc__heading-anchor-1"
+          },
+          {
+            "title": "International size conversion...",
+            "link": "https://kiwisizing.com/blog/size-conversion-charts-hats/#elementor-toc__heading-anchor-4"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Find the perfect fit for your hat with our comprehensive hat size charts. Easily convert international sizes and get the ideal fit for your head.",
+          "source_info_link": "https://kiwisizing.com/blog/size-conversion-charts-hats/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEVHcExnuEhOrkpJrEhZskk9pENFq0dCp0VHqkgzpUVWsUpbs0kwuklAqEgwo0Zuu0dKrUl2vkeAwkdVsEzm7c6IxEb-_vt7wEfi57fy9uVftUbE3K1st3LL48av05mKw3YImjqlzm8-4odkAAAADHRSTlMA_t4o8AUaCTsQp-bN-AJfAAABN0lEQVQokYXS246DIBQF0AIiihGxUEQQtP__k3M42tY6mcx-g5Udrrfbf2GyI2QYxj0DIZ1kbwtAMDvdIdM0DMDhpTKUGhLgmFcoB4nEb3S3ByY6txhQCgDIO_Kyp3fOumUzA-l4QSEqKN7vhWZIsotSZqgEYlthMXsLmFIEUypUrfjg00cbY8p6U5gL5hzX7aArxjg7lxbUXvVf-LAOMs9-RTs1y27DkgCt9d6ovv8093MOW5-L-QVQnfBQkxzo0p-beLfj9LRlUWsvCDpmO1sguAQgrc9IVhttSinjbrR-NzsTQlh9jLkcA03r7kBqjAlrzMtOaJoeKDUoMepsRiLyuikDo7_MNDU-dssaSSnt6CmyYS2iqFnzK6wW-ydqa3ZhxmosYretL2kFf31czrn4Cudv-zM_N5UkdTawa9IAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kiwisizing.com/blog/size-conversion-charts-hats/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkiwisizing.com%2Fblog%2Fsize-conversion-charts-hats%2F",
+      "source": "Kiwi Sizing",
+      "read_more_link": "https://kiwisizing.com/blog/size-conversion-charts-hats/#:~:text=Find%20the%20perfect%20fit%20for,ideal%20fit%20for%20your%20head."
+    },
+    {
+      "position": 6,
+      "title": "Hat Size Measuring and Size Chart",
+      "link": "https://enhats.com/pages/hat-size-measuring-and-size-chart?srsltid=AfmBOoouIPYoB1WYwkDH5l44iHYD1O-CwTaW7kVd7tst3uiAU5bgJ9MD",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enhats.com/pages/hat-size-measuring-and-size-chart%3Fsrsltid%3DAfmBOoouIPYoB1WYwkDH5l44iHYD1O-CwTaW7kVd7tst3uiAU5bgJ9MD&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQFnoECB0QAQ",
+      "displayed_link": "https://enhats.com › pages › hat-size-measuring-and-size-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABt0lEQVR4AeXXA4wdURSA4ZmpEdS23ca1bdsMahtBbbcxy3Ab1IxRBrXtNljO_knOSe567sx6T_I9DP93NyvHmHrIs1mJr6go713k2iyAjwm5fXMdHxPz4uY6M-W5OPJsiuX9zYvyuPDkuQBMDoRWRi_UCnDj8vLay84P8wv_MTuTi-u20xga8dtWr9ULl-B0RjmUCPCdEgMfQ3R7hO-6Mfhme9JFfEYCZum-kAEj8BZOSYuTbmCznOxjubGsboiAd7bV17BfXo-WiB3QcXM64Cr2QqebRJyCjmcbUNxyBTSglDy3RTwumsfbroAXIsAz4uvhJ26Z5wQNqBZyBXSbRlTEazxAad0XJMDHK4zXT2YZYL4uJQFvUEkjsgo4iw3oIDtc64C076_hN-pphP13gXVAmm3nEIc2GpFRQAnZ6UYOSPslPAEfXTUip1dAx4XONokYbn775nSARuhqLJKIWdAZGT3A7typErFG3o_CezjFczjAvMdAI6IP3tuuwBXsNreFiOiEf3iGJ3CaWATcw2FzW8iIFviPr3D-yotpAf4kO4rF5rYIEY0QA6c5JqBZLv5_qKtXNhnLYV6gnHwsUwAAAABJRU5ErkJggg.png",
+      "snippet": "Measure hat size right. Use a soft tape measure. Place a tape measure around the circumference of your head. Find your size on the hat size chart.",
+      "snippet_highlighted_words": [
+        "hat size",
+        "hat size chart"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "4–12 day delivery",
+            "14-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Measure hat size right. Use a soft tape measure. Place a tape measure around the circumference of your head. Find your size on the hat size chart.",
+          "source_info_link": "https://enhats.com/pages/hat-size-measuring-and-size-chart?srsltid=AfmBOoouIPYoB1WYwkDH5l44iHYD1O-CwTaW7kVd7tst3uiAU5bgJ9MD",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABt0lEQVR4AeXXA4wdURSA4ZmpEdS23ca1bdsMahtBbbcxy3Ab1IxRBrXtNljO_knOSe567sx6T_I9DP93NyvHmHrIs1mJr6go713k2iyAjwm5fXMdHxPz4uY6M-W5OPJsiuX9zYvyuPDkuQBMDoRWRi_UCnDj8vLay84P8wv_MTuTi-u20xga8dtWr9ULl-B0RjmUCPCdEgMfQ3R7hO-6Mfhme9JFfEYCZum-kAEj8BZOSYuTbmCznOxjubGsboiAd7bV17BfXo-WiB3QcXM64Cr2QqebRJyCjmcbUNxyBTSglDy3RTwumsfbroAXIsAz4uvhJ26Z5wQNqBZyBXSbRlTEazxAad0XJMDHK4zXT2YZYL4uJQFvUEkjsgo4iw3oIDtc64C076_hN-pphP13gXVAmm3nEIc2GpFRQAnZ6UYOSPslPAEfXTUip1dAx4XONokYbn775nSARuhqLJKIWdAZGT3A7typErFG3o_CezjFczjAvMdAI6IP3tuuwBXsNreFiOiEf3iGJ3CaWATcw2FzW8iIFviPr3D-yotpAf4kO4rF5rYIEY0QA6c5JqBZLv5_qKtXNhnLYV6gnHwsUwAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://enhats.com/pages/hat-size-measuring-and-size-chart?srsltid=AfmBOoouIPYoB1WYwkDH5l44iHYD1O-CwTaW7kVd7tst3uiAU5bgJ9MD&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fenhats.com%2Fpages%2Fhat-size-measuring-and-size-chart%3Fsrsltid%3DAfmBOoouIPYoB1WYwkDH5l44iHYD1O-CwTaW7kVd7tst3uiAU5bgJ9MD",
+      "source": "enhats.com"
+    },
+    {
+      "position": 7,
+      "title": "Hat Size Conversion Table",
+      "link": "https://thecowboystore.com/hat-size-conversion-table",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thecowboystore.com/hat-size-conversion-table&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQFnoECBoQAQ",
+      "displayed_link": "https://thecowboystore.com › hat-size-conversion-table",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJFBMVEVHcEygoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKA00U61AAAAC3RSTlMAEbpi06vuOpd-JmyfR5IAAACzSURBVCiRrZLZDoUwCETL0k3-_3-vaYFSNSYmlyf12GGYktIfCqjl3AgeUGXR4nplKIJ0ABz9xLizIqhyQ6DAxro1ntIlairrbJ1dudojySpzxQLuyoutDaY71AMkpDBHOD82OeJUBpv-n55gjmLFxhlvXWG7GKxEZ5Aqu6ZrS9xcwnIYQ4tZh9nGAfb4hiHmdRno8c1kchinxystO-zxygZ1CLizsCaEtzV5X7D0upqf6weRFwoW6tnomQAAAABJRU5ErkJggg.png",
+      "snippet": "Hat Size: Wrap a tape measure around your head about 1/2\" above your ears and across forehead. Hats USA/Metric Conversion Table Head Size: Inches",
+      "snippet_highlighted_words": [
+        "Hats USA/Metric Conversion Table"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Hat Size: Wrap a tape measure around your head about 1/2\" above your ears and across forehead. Hats USA/Metric Conversion Table Head Size: Inches",
+          "source_info_link": "https://thecowboystore.com/hat-size-conversion-table",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJFBMVEVHcEygoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKA00U61AAAAC3RSTlMAEbpi06vuOpd-JmyfR5IAAACzSURBVCiRrZLZDoUwCETL0k3-_3-vaYFSNSYmlyf12GGYktIfCqjl3AgeUGXR4nplKIJ0ABz9xLizIqhyQ6DAxro1ntIlairrbJ1dudojySpzxQLuyoutDaY71AMkpDBHOD82OeJUBpv-n55gjmLFxhlvXWG7GKxEZ5Aqu6ZrS9xcwnIYQ4tZh9nGAfb4hiHmdRno8c1kchinxystO-zxygZ1CLizsCaEtzV5X7D0upqf6weRFwoW6tnomQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://thecowboystore.com/hat-size-conversion-table&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthecowboystore.com%2Fhat-size-conversion-table",
+      "source": "El Vaquero | The Cowboy Store",
+      "read_more_link": "https://thecowboystore.com/hat-size-conversion-table#:~:text=Hat%20Size%3A%20Wrap%20a%20tape,your%20ears%20and%20across%20forehead.&text=Hats%20USA%2FMetric%20Conversion%20Table%20Head,Size%3A%20Inches"
+    },
+    {
+      "position": 8,
+      "title": "Size Chart | Can't find a hat big enough to fit you?",
+      "link": "https://bighatstore.com/pages/size-chart?srsltid=AfmBOoqNryL2HELChiPbbn8h3q8aUfAA2RCb-BF_EiEgQbigouKqqqyM",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bighatstore.com/pages/size-chart%3Fsrsltid%3DAfmBOoqNryL2HELChiPbbn8h3q8aUfAA2RCb-BF_EiEgQbigouKqqqyM&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQFnoECDEQAQ",
+      "displayed_link": "https://bighatstore.com › pages › size-chart",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEVHcEwcn9ghp9sZoNgWndcWnNZqueINmNUEldMDmNUOn9dgu-MTntcAlNIFn9gmpdpnu-QKnNYEo9oEqN0trt9nvOV8wud1wOYKqt1Fs-F4wOaIxehWt-MOqt0qpdoipttbuOILodkAccSplZfPAAAAI3RSTlMAAShGNRQEwfPcaQh9__zzhZv__________-FB_tgf_snJFzvZr2sAAAD9SURBVHgBvJBVAsJADETr7utQvf8lmUBdfplaui9u_UU29IRWl1vsuJ4fkHHFbhhBcZh46YVm-arQ31PYbvwDBVRW6YH59Q81jHEhFejWXPBLCqSNkkq93mtg6mURMaaZbhVEoTbifC-pw_jLGs2Y-aKWdz2C-nCg84VxAdbC0K5FdGyHBrXY99WinmkYKEHbckbBGfmCUqBhGn-d85vCG9UACjVcSaG_du3b8_wtYkm6XSyWrHMmrTKamBIGH7DJ2RZUG6lEKzAEL2hJLLM2pfXQKgkHHie9OzWdd9i8G2PfU_0ZCyReWdBSARsLixKExYgzFUHdiC1x0QMAAG8RFavElbJZAAAAAElFTkSuQmCC.png",
+      "snippet": "Use our big <b>hat sizing chart</b> to quickly determine whether our from 7 1/2 through size 9 will comfortably fit you! Express, and International shipping.",
+      "snippet_highlighted_words": [
+        "Use our big <b>hat sizing chart</b"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "$8.95 delivery",
+            "60-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Use our big <b>hat sizing chart</b> to quickly determine whether our from 7 1/2 through size 9 will comfortably fit you! Express, and International shipping.",
+          "source_info_link": "https://bighatstore.com/pages/size-chart?srsltid=AfmBOoqNryL2HELChiPbbn8h3q8aUfAA2RCb-BF_EiEgQbigouKqqqyM",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEVHcEwcn9ghp9sZoNgWndcWnNZqueINmNUEldMDmNUOn9dgu-MTntcAlNIFn9gmpdpnu-QKnNYEo9oEqN0trt9nvOV8wud1wOYKqt1Fs-F4wOaIxehWt-MOqt0qpdoipttbuOILodkAccSplZfPAAAAI3RSTlMAAShGNRQEwfPcaQh9__zzhZv__________-FB_tgf_snJFzvZr2sAAAD9SURBVHgBvJBVAsJADETr7utQvf8lmUBdfplaui9u_UU29IRWl1vsuJ4fkHHFbhhBcZh46YVm-arQ31PYbvwDBVRW6YH59Q81jHEhFejWXPBLCqSNkkq93mtg6mURMaaZbhVEoTbifC-pw_jLGs2Y-aKWdz2C-nCg84VxAdbC0K5FdGyHBrXY99WinmkYKEHbckbBGfmCUqBhGn-d85vCG9UACjVcSaG_du3b8_wtYkm6XSyWrHMmrTKamBIGH7DJ2RZUG6lEKzAEL2hJLLM2pfXQKgkHHie9OzWdd9i8G2PfU_0ZCyReWdBSARsLixKExYgzFUHdiC1x0QMAAG8RFavElbJZAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bighatstore.com/pages/size-chart?srsltid=AfmBOoqNryL2HELChiPbbn8h3q8aUfAA2RCb-BF_EiEgQbigouKqqqyM&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbighatstore.com%2Fpages%2Fsize-chart%3Fsrsltid%3DAfmBOoqNryL2HELChiPbbn8h3q8aUfAA2RCb-BF_EiEgQbigouKqqqyM",
+      "source": "BigHatStore"
+    },
+    {
+      "position": 9,
+      "title": "Hat Size Converter | Find Your Perfect Fit",
+      "link": "https://www.agnoulitahats.com/en-us/pages/hat-size-converter?srsltid=AfmBOor3dCvO3h3_NfiojGvVOPtE3-WSBZYCpxJmoLgeai6I8mEj_eJB",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.agnoulitahats.com/en-us/pages/hat-size-converter%3Fsrsltid%3DAfmBOor3dCvO3h3_NfiojGvVOPtE3-WSBZYCpxJmoLgeai6I8mEj_eJB&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQFnoECDUQAQ",
+      "displayed_link": "https://www.agnoulitahats.com › en-us › pages › hat-siz...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEVHcEyWlgCurlm6unB6egCsrErk5M34-Pf7-_n9_fqjozPs7Nv___96egDOzqjz8_K5ubKEhHZ5eWmMjICZmYiwsKnW1tLv7-6ZmQCLiwDq6tY5ORLMzMfl5eLCwr3e3tuhoZhFRSeIiACsrJwQEACSkoFubl3q6uhQUDZeXkBpaVaHhzCzs2y8nc2NAAAALXRSTlMAVqrAELn_____ov__I_v___________8jTf__________Uv__________-b4PjsFhAAABMklEQVR4AXTShWKDMBRA0WwV7LXxpBLBbf__fyuDjOpt0YMDuvX1vXnp-wtNbXf7KJ5LkjgU7XfbG6YZvC1LETocYQ4TyhgXUmmYSqQ4ofNlNnmlRkcRtso5o3xe8P0ZlTNWhYG7csairFwQ1-reWNMouAQk_N6oIALu0N1Z1XatvkNLVjM95gTuEFwSLCoM7uMHjHVA2gB1cI9r6op1Ae8xHgjI5gNWAySjf49dr8APyT12hE9PHCfT1QCh95i3JgKIFCF5TZQZK1hRCFjCheus7u0_flUMQs00iwe94uCDuWJa7cdoxSaYv6ppohisSMJdFG7e5g7P1bJfL5eNAu7P6PTj50_IwRJdznk8IJQ2RIqRdxBydj5q-vdRH83vxGSR0zM7LFFDsoMOBmBSAkoAAM8KMqGBisPqAAAAAElFTkSuQmCC.png",
+      "snippet": "Universal Conversion: Convert between US, UK, and CAN sizes effortlessly. Exact Measurements: See your size in both centimeters and inches for a precise fit.",
+      "snippet_highlighted_words": [
+        "Convert between US, UK, and CAN sizes"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "$45 delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Universal Conversion: Convert between US, UK, and CAN sizes effortlessly. Exact Measurements: See your size in both centimeters and inches for a precise fit.",
+          "source_info_link": "https://www.agnoulitahats.com/en-us/pages/hat-size-converter?srsltid=AfmBOor3dCvO3h3_NfiojGvVOPtE3-WSBZYCpxJmoLgeai6I8mEj_eJB",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEVHcEyWlgCurlm6unB6egCsrErk5M34-Pf7-_n9_fqjozPs7Nv___96egDOzqjz8_K5ubKEhHZ5eWmMjICZmYiwsKnW1tLv7-6ZmQCLiwDq6tY5ORLMzMfl5eLCwr3e3tuhoZhFRSeIiACsrJwQEACSkoFubl3q6uhQUDZeXkBpaVaHhzCzs2y8nc2NAAAALXRSTlMAVqrAELn_____ov__I_v___________8jTf__________Uv__________-b4PjsFhAAABMklEQVR4AXTShWKDMBRA0WwV7LXxpBLBbf__fyuDjOpt0YMDuvX1vXnp-wtNbXf7KJ5LkjgU7XfbG6YZvC1LETocYQ4TyhgXUmmYSqQ4ofNlNnmlRkcRtso5o3xe8P0ZlTNWhYG7csairFwQ1-reWNMouAQk_N6oIALu0N1Z1XatvkNLVjM95gTuEFwSLCoM7uMHjHVA2gB1cI9r6op1Ae8xHgjI5gNWAySjf49dr8APyT12hE9PHCfT1QCh95i3JgKIFCF5TZQZK1hRCFjCheus7u0_flUMQs00iwe94uCDuWJa7cdoxSaYv6ppohisSMJdFG7e5g7P1bJfL5eNAu7P6PTj50_IwRJdznk8IJQ2RIqRdxBydj5q-vdRH83vxGSR0zM7LFFDsoMOBmBSAkoAAM8KMqGBisPqAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.agnoulitahats.com/en-us/pages/hat-size-converter?srsltid=AfmBOor3dCvO3h3_NfiojGvVOPtE3-WSBZYCpxJmoLgeai6I8mEj_eJB&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.agnoulitahats.com%2Fen-us%2Fpages%2Fhat-size-converter%3Fsrsltid%3DAfmBOor3dCvO3h3_NfiojGvVOPtE3-WSBZYCpxJmoLgeai6I8mEj_eJB",
+      "source": "Agnoulita Hats",
+      "read_more_link": "https://www.agnoulitahats.com/en-us/pages/hat-size-converter?srsltid=AfmBOor3dCvO3h3_NfiojGvVOPtE3-WSBZYCpxJmoLgeai6I8mEj_eJB#:~:text=Universal%20Conversion%3A%20Convert%20between%20US%2C,inches%20for%20a%20precise%20fit."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=hat+size+converter+international&sca_esv=bbb7d61e8d3bb37e&ei=Qxg6avbRB768ruEP3bOmgQI&start=10&sa=N&sstk=AU9db-A0RpeIty-m2mJNOdlRzXydlhmU01Sc91XdcvDobHiGEhKw6BipH-XfzbUCDtiEtObu9HkIvg_rmqYPNOwRkw7Hl3-nhkbHrw&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQ8NMDegQILxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=hat+size+converter+international&sca_esv=bbb7d61e8d3bb37e&ei=Qxg6avbRB768ruEP3bOmgQI&start=10&sa=N&sstk=AU9db-A0RpeIty-m2mJNOdlRzXydlhmU01Sc91XdcvDobHiGEhKw6BipH-XfzbUCDtiEtObu9HkIvg_rmqYPNOwRkw7Hl3-nhkbHrw&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQ8tMDegQILxAE",
+      "3": "https://www.google.com/search?q=hat+size+converter+international&sca_esv=bbb7d61e8d3bb37e&ei=Qxg6avbRB768ruEP3bOmgQI&start=20&sa=N&sstk=AU9db-A0RpeIty-m2mJNOdlRzXydlhmU01Sc91XdcvDobHiGEhKw6BipH-XfzbUCDtiEtObu9HkIvg_rmqYPNOwRkw7Hl3-nhkbHrw&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQ8tMDegQILxAG",
+      "4": "https://www.google.com/search?q=hat+size+converter+international&sca_esv=bbb7d61e8d3bb37e&ei=Qxg6avbRB768ruEP3bOmgQI&start=30&sa=N&sstk=AU9db-A0RpeIty-m2mJNOdlRzXydlhmU01Sc91XdcvDobHiGEhKw6BipH-XfzbUCDtiEtObu9HkIvg_rmqYPNOwRkw7Hl3-nhkbHrw&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQ8tMDegQILxAI",
+      "5": "https://www.google.com/search?q=hat+size+converter+international&sca_esv=bbb7d61e8d3bb37e&ei=Qxg6avbRB768ruEP3bOmgQI&start=40&sa=N&sstk=AU9db-A0RpeIty-m2mJNOdlRzXydlhmU01Sc91XdcvDobHiGEhKw6BipH-XfzbUCDtiEtObu9HkIvg_rmqYPNOwRkw7Hl3-nhkbHrw&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQ8tMDegQILxAK",
+      "6": "https://www.google.com/search?q=hat+size+converter+international&sca_esv=bbb7d61e8d3bb37e&ei=Qxg6avbRB768ruEP3bOmgQI&start=50&sa=N&sstk=AU9db-A0RpeIty-m2mJNOdlRzXydlhmU01Sc91XdcvDobHiGEhKw6BipH-XfzbUCDtiEtObu9HkIvg_rmqYPNOwRkw7Hl3-nhkbHrw&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQ8tMDegQILxAM",
+      "7": "https://www.google.com/search?q=hat+size+converter+international&sca_esv=bbb7d61e8d3bb37e&ei=Qxg6avbRB768ruEP3bOmgQI&start=60&sa=N&sstk=AU9db-A0RpeIty-m2mJNOdlRzXydlhmU01Sc91XdcvDobHiGEhKw6BipH-XfzbUCDtiEtObu9HkIvg_rmqYPNOwRkw7Hl3-nhkbHrw&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQ8tMDegQILxAO",
+      "8": "https://www.google.com/search?q=hat+size+converter+international&sca_esv=bbb7d61e8d3bb37e&ei=Qxg6avbRB768ruEP3bOmgQI&start=70&sa=N&sstk=AU9db-A0RpeIty-m2mJNOdlRzXydlhmU01Sc91XdcvDobHiGEhKw6BipH-XfzbUCDtiEtObu9HkIvg_rmqYPNOwRkw7Hl3-nhkbHrw&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQ8tMDegQILxAQ",
+      "9": "https://www.google.com/search?q=hat+size+converter+international&sca_esv=bbb7d61e8d3bb37e&ei=Qxg6avbRB768ruEP3bOmgQI&start=80&sa=N&sstk=AU9db-A0RpeIty-m2mJNOdlRzXydlhmU01Sc91XdcvDobHiGEhKw6BipH-XfzbUCDtiEtObu9HkIvg_rmqYPNOwRkw7Hl3-nhkbHrw&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQ8tMDegQILxAS",
+      "10": "https://www.google.com/search?q=hat+size+converter+international&sca_esv=bbb7d61e8d3bb37e&ei=Qxg6avbRB768ruEP3bOmgQI&start=90&sa=N&sstk=AU9db-A0RpeIty-m2mJNOdlRzXydlhmU01Sc91XdcvDobHiGEhKw6BipH-XfzbUCDtiEtObu9HkIvg_rmqYPNOwRkw7Hl3-nhkbHrw&ved=2ahUKEwi2_9ilz5yVAxU-nisGHd2ZKSAQ8tMDegQILxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hat+size+converter+international&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hat+size+converter+international&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hat+size+converter+international&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hat+size+converter+international&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hat+size+converter+international&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hat+size+converter+international&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hat+size+converter+international&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hat+size+converter+international&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hat+size+converter+international&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hat+size+converter+international&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hat+size+converter+international&start=90"
+    }
+  }
+}

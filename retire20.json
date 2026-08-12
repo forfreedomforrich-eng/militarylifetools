@@ -1,0 +1,1770 @@
+{
+  "search_metadata": {
+    "id": "6a3a2241124815aade9bbaa9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ypPFx_CIBDV37XuAUXUOag/6a3a2241124815aade9bbaa9.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/ypPFx_CIBDV37XuAUXUOag/6a3a2241124815aade9bbaa9.json_with_pixel_position",
+    "created_at": "2026-06-23 06:05:53 UTC",
+    "processed_at": "2026-06-23 06:05:53 UTC",
+    "google_url": "https://www.google.com/search?q=military+retirement+calculator+20+years&oq=military+retirement+calculator+20+years&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ypPFx_CIBDV37XuAUXUOag/6a3a2241124815aade9bbaa9.html",
+    "total_time_taken": 1.45
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military retirement calculator 20 years",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military retirement calculator 20 years",
+    "total_results": 131,
+    "time_taken_displayed": 0.45,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "11 Reasons to Join the Military in 2025",
+      "link": "https://www.youtube.com/watch?v=xBkp8r8WgHg",
+      "thumbnail": "https://serpapi.com/searches/6a3a2241124815aade9bbaa9/images/wbfq6nYJvjIVAysxpxHQdcQ-08ykmpUNNSAqF7b9rI0.jpeg",
+      "channel": "David Pere",
+      "duration": "15:41",
+      "platform": "YouTube",
+      "date": "Apr 23, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS5FUOd5XDVgcaffk_9OrnxBh4mVTBAXrnqPg"
+    },
+    {
+      "position": 2,
+      "title": "10 Reasons to Join the Military NO ONE Told You About!",
+      "link": "https://www.youtube.com/watch?v=m4yX8v1RKd0",
+      "thumbnail": "https://serpapi.com/searches/6a3a2241124815aade9bbaa9/images/oPnfT--Fuw89Ag0_KNph1oV75UATtPCaWynkWQN9kmQ.jpeg",
+      "channel": "JodywithaWhy",
+      "duration": "9:06",
+      "platform": "YouTube",
+      "date": "Jan 21, 2025",
+      "snippet": "Discover 10 lesser-known military benefits like waived credit card fees, space-available travel, and state-specific tuition aid.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT4fxLkh-odqg5SbHKB4MKGBnnZVh8VoWNqzg"
+    },
+    {
+      "position": 3,
+      "title": "Military vs. Army: What's the Real Difference?",
+      "link": "https://www.youtube.com/watch?v=SoUD2IcRLjw&vl=en-US",
+      "thumbnail": "https://serpapi.com/searches/6a3a2241124815aade9bbaa9/images/4n7ZKmdvRps86x1N_wrdXACoVrMny-k51kY3lQavn3Q.jpeg",
+      "channel": "History of Simple Things",
+      "duration": "8:04",
+      "platform": "YouTube",
+      "date": "Nov 4, 2025",
+      "snippet": "The military is the entire armed forces of a nation, while the army is just one branch that specializes in land-based warfare.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTYRa2hCm5pTIWkzjYfcF7dF79CY0_4Q4Agpg"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the 6 types of military?",
+      "type": "ai_overview",
+      "page_token": "ADDcO3icHdBbToNAFADQuJl-yrMYmzRGSgeKmSFlhsvjxyBDAYeXMpXCn3txVa7GxLOE8_3TNr34vUtqKcdppyjzPN9Xw1C15X0xdEo-LX2hFHnbvuWF2FkPlvZ0KfbHabYPw2yfo3EEJ1QpQ0uoo2uqyzgGX8Yoa6jQaKIiC6sg09UfcUSgdMcDNewPylozE-ZSeGNX9GCk4jhDC5JFtR6_Vzem-SteeRJ44QlYm2cdvHAPWuoSSXtklw4J0sTHORIm0fEW9NM2jPhCXLhig3s0rk-shyZz64x04eHc12YK_nDu-C1wapXrgiINMcqymiPbYQ5PylhTc-1ZDYAb-IiI2_h26JEliDPGEREcbIzdkGTdeCURsmJ4pKyb1tCxNarWxuZSfO2Nzf_Y_vXSyd34OVR_N2l3cA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ADDcO3icHdBbToNAFADQuJl-yrMYmzRGSgeKmSFlhsvjxyBDAYeXMpXCn3txVa7GxLOE8_3TNr34vUtqKcdppyjzPN9Xw1C15X0xdEo-LX2hFHnbvuWF2FkPlvZ0KfbHabYPw2yfo3EEJ1QpQ0uoo2uqyzgGX8Yoa6jQaKIiC6sg09UfcUSgdMcDNewPylozE-ZSeGNX9GCk4jhDC5JFtR6_Vzem-SteeRJ44QlYm2cdvHAPWuoSSXtklw4J0sTHORIm0fEW9NM2jPhCXLhig3s0rk-shyZz64x04eHc12YK_nDu-C1wapXrgiINMcqymiPbYQ5PylhTc-1ZDYAb-IiI2_h26JEliDPGEREcbIzdkGTdeCURsmJ4pKyb1tCxNarWxuZSfO2Nzf_Y_vXSyd34OVR_N2l3cA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFXaHFVRk5FVlVWSlZtWmpXWEZrWlZWZkxWaFNSblZtUVZWWVdWVmFSbEZJTTBGNmQycHFZWHBUZWxCMWRFY3lNSEJZYjJ0bE1IVlhUVEo1UVdNMU1qZzRORTVHVkZsNU5VdEpWVGx2Y2toSGJWaFVhakIwYTNCcFVSSVhVVk5KTm1GMFVFTk1OMWQ1YlhSclVEUTVWM2N3UVUwYUlrRkVjM0k1WmxGblRFRTRSamxEV2xZMGNFdzVURzV4UWxwb1owY3RUVGd5ZEZFIiwiZmN2IjoiMyIsImVpIjoiUVNJNmF0UENMN1d5bXRrUDQ5V3cwQU0iLCJxYyI6IkNnaHRhV3hwZEdGeWVSQUFmYngwTXo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNiB0eXBlcyBvZiBtaWxpdGFyeT8iLCJsayI6IkdoTTJJSFI1Y0dWeklHOW1JRzFwYkdsMFlYSjUiLCJicyI6ImMzV09NUS1DTUJDRjQzcVRpWEdwRG1lQ1RvUlVCZ2NkaU5GQkowZFhLeFI3Q3RTVUt1bV90N0lSY1h6MzN2ZmV3UnBtWnlVc0NpUFJLb2tydE80cGE5UTVsbFNRRmNZbDhaaU5ldTV3Z1dpdnY1VERHNzBsT3YzQ1lNbER6amxTM3NxN3BxcnQzWnJTRjBVc3pIcUlQa0I0QURZd09lZ0dQVk1LUTVYZnI0Vkh0YzZ1VGlieGxESDExNFlUekhlaXdtUDNDV3pJS3F3cGZSUVNVMWtVU2J4Z1FlcUQxQjNfQ1E0SEh3IiwiaWQiOiJmY19RU0k2YXRQQ0w3V3ltdGtQNDlXdzBBTV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFXaHFVRk5FVlVWSlZtWmpXWEZrWlZWZkxWaFNSblZtUVZWWVdWVmFSbEZJTTBGNmQycHFZWHBUZWxCMWRFY3lNSEJZYjJ0bE1IVlhUVEo1UVdNMU1qZzRORTVHVkZsNU5VdEpWVGx2Y2toSGJWaFVhakIwYTNCcFVSSVhVVk5KTm1GMFVFTk1OMWQ1YlhSclVEUTVWM2N3UVUwYUlrRkVjM0k1WmxGblRFRTRSamxEV2xZMGNFdzVURzV4UWxwb1owY3RUVGd5ZEZFIiwiZmN2IjoiMyIsImVpIjoiUVNJNmF0UENMN1d5bXRrUDQ5V3cwQU0iLCJxYyI6IkNnaHRhV3hwZEdGeWVSQUFmYngwTXo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNiB0eXBlcyBvZiBtaWxpdGFyeT8iLCJsayI6IkdoTTJJSFI1Y0dWeklHOW1JRzFwYkdsMFlYSjUiLCJicyI6ImMzV09NUS1DTUJDRjQzcVRpWEdwRG1lQ1RvUlVCZ2NkaU5GQkowZFhLeFI3Q3RTVUt1bV90N0lSY1h6MzN2ZmV3UnBtWnlVc0NpUFJLb2tydE80cGE5UTVsbFNRRmNZbDhaaU5ldTV3Z1dpdnY1VERHNzBsT3YzQ1lNbER6amxTM3NxN3BxcnQzWnJTRjBVc3pIcUlQa0I0QURZd09lZ0dQVk1LUTVYZnI0Vkh0YzZ1VGlieGxESDExNFlUekhlaXdtUDNDV3pJS3F3cGZSUVNVMWtVU2J4Z1FlcUQxQjNfQ1E0SEh3IiwiaWQiOiJmY19RU0k2YXRQQ0w3V3ltdGtQNDlXdzBBTV81In0%3D"
+    },
+    {
+      "question": "Do they give you $10,000 if you join the Army?",
+      "type": "ai_overview",
+      "page_token": "sUMpz3icHdDBToMwAIDh-DIeHZSJccliglDYHJ20tCu9GGzHmC1StcLGzXfxqXwajff_8v1f3-b4qn8uhtY5-7GYzcZxvDr0_cHsr2TfzeqP86ucydqY51rqRXgT-neNXCafq-j-bRUV1FoWY4_QdUMyGNMJchQbTTkepA_nMhCZSjGXnrUqWU0qO7jKqBAD1e-ZSrYlcwrAbV6uN0y3a8HtPOcMq4llIoZhHkSdKGHzTNv1hvgh8dwgE3tGPq72KZwXBt3LtHBkgk7u0EM9obcasiwHSlcTeixoe2QAVrluK8UY3ZTtQGLhiAfTnWFon6rP0rO5AOZENARbensSZRQkrcLU06DiuCi8MWCBcSp1xZ-NqymKStwfC4on-WI62ol6w9lxp3FZ_3VbDgFNT9cIOEd2wiOpj9R42chhGVz-_1w-NZ1b2Pf-8AvklYLv",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sUMpz3icHdDBToMwAIDh-DIeHZSJccliglDYHJ20tCu9GGzHmC1StcLGzXfxqXwajff_8v1f3-b4qn8uhtY5-7GYzcZxvDr0_cHsr2TfzeqP86ucydqY51rqRXgT-neNXCafq-j-bRUV1FoWY4_QdUMyGNMJchQbTTkepA_nMhCZSjGXnrUqWU0qO7jKqBAD1e-ZSrYlcwrAbV6uN0y3a8HtPOcMq4llIoZhHkSdKGHzTNv1hvgh8dwgE3tGPq72KZwXBt3LtHBkgk7u0EM9obcasiwHSlcTeixoe2QAVrluK8UY3ZTtQGLhiAfTnWFon6rP0rO5AOZENARbensSZRQkrcLU06DiuCi8MWCBcSp1xZ-NqymKStwfC4on-WI62ol6w9lxp3FZ_3VbDgFNT9cIOEd2wiOpj9R42chhGVz-_1w-NZ1b2Pf-8AvklYLv",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFXaHFVRk5FVlVWSlZtWmpXWEZrWlZWZkxWaFNSblZtUVZWWVdWVmFSbEZJTTBGNmQycHFZWHBUZWxCMWRFY3lNSEJZYjJ0bE1IVlhUVEo1UVdNMU1qZzRORTVHVkZsNU5VdEpWVGx2Y2toSGJWaFVhakIwYTNCcFVSSVhVVk5KTm1GMFVFTk1OMWQ1YlhSclVEUTVWM2N3UVUwYUlrRkVjM0k1WmxGblRFRTRSamxEV2xZMGNFdzVURzV4UWxwb1owY3RUVGd5ZEZFIiwiZmN2IjoiMyIsImVpIjoiUVNJNmF0UENMN1d5bXRrUDQ5V3cwQU0iLCJxYyI6IkNnaHRhV3hwZEdGeWVSQUFmYngwTXo4IiwicXVlc3Rpb24iOiJEbyB0aGV5IGdpdmUgeW91ICQxMCwwMDAgaWYgeW91IGpvaW4gdGhlIEFybXk/IiwibGsiOiJjNVBTU2NsWEtNbElyVlJJenl4TFZhak1MMVZRTVRRQUFvWE1OREF2S3o4ekQ2UkFJYkVvdHhJQSIsImJzIjoiYzNXT01RLUNNQkNGNDNxVGlYR3BEbWVDVG9SVUJnY2RpTkZCSjBkWEt4UjdDdFNVS3VtX3Q3SVJjWHozM3ZmZXdScG1aeVVzQ2lQUktva3J0TzRwYTlRNWxsU1FGY1lsOFppTmV1NXdnV2l2djVUREc3MGxPdjNDWU1sRHpqbFMzc3E3cHFydDNaclNGMFVzekhxSVBrQjRBRFl3T2VnR1BWTUtRNVhmcjRWSHRjNnVUaWJ4bERIMTE0WVR6SGVpd21QM0NXeklLcXdwZlJRU1Uxa1VTYnhnUWVxRDFCM19DUTRISHciLCJpZCI6ImZjX1FTSTZhdFBDTDdXeW10a1A0OVd3MEFNXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFXaHFVRk5FVlVWSlZtWmpXWEZrWlZWZkxWaFNSblZtUVZWWVdWVmFSbEZJTTBGNmQycHFZWHBUZWxCMWRFY3lNSEJZYjJ0bE1IVlhUVEo1UVdNMU1qZzRORTVHVkZsNU5VdEpWVGx2Y2toSGJWaFVhakIwYTNCcFVSSVhVVk5KTm1GMFVFTk1OMWQ1YlhSclVEUTVWM2N3UVUwYUlrRkVjM0k1WmxGblRFRTRSamxEV2xZMGNFdzVURzV4UWxwb1owY3RUVGd5ZEZFIiwiZmN2IjoiMyIsImVpIjoiUVNJNmF0UENMN1d5bXRrUDQ5V3cwQU0iLCJxYyI6IkNnaHRhV3hwZEdGeWVSQUFmYngwTXo4IiwicXVlc3Rpb24iOiJEbyB0aGV5IGdpdmUgeW91ICQxMCwwMDAgaWYgeW91IGpvaW4gdGhlIEFybXk%2FIiwibGsiOiJjNVBTU2NsWEtNbElyVlJJenl4TFZhak1MMVZRTVRRQUFvWE1OREF2S3o4ekQ2UkFJYkVvdHhJQSIsImJzIjoiYzNXT01RLUNNQkNGNDNxVGlYR3BEbWVDVG9SVUJnY2RpTkZCSjBkWEt4UjdDdFNVS3VtX3Q3SVJjWHozM3ZmZXdScG1aeVVzQ2lQUktva3J0TzRwYTlRNWxsU1FGY1lsOFppTmV1NXdnV2l2djVUREc3MGxPdjNDWU1sRHpqbFMzc3E3cHFydDNaclNGMFVzekhxSVBrQjRBRFl3T2VnR1BWTUtRNVhmcjRWSHRjNnVUaWJ4bERIMTE0WVR6SGVpd21QM0NXeklLcXdwZlJRU1Uxa1VTYnhnUWVxRDFCM19DUTRISHciLCJpZCI6ImZjX1FTSTZhdFBDTDdXeW10a1A0OVd3MEFNXzUifQ%3D%3D"
+    },
+    {
+      "question": "How do marines say goodbye?",
+      "type": "ai_overview",
+      "page_token": "xzL_u3icHdBdToMwAADgeJk9ShmC2ZLFyKAsGIoU-rO-GGgH2yhQB8rmm3fxVJ7GxO8I3_ePPvXt7x0_TpMZ15Y1z_N9MwyNPtzLobPK8dZLS5ZaV6Vs196jZz_VchOOs78dZj8jxtAAg5wdQbrzHdYPIKErzqI4pJGbIRoLDNCD5CpE7QSqdliiENcSikDC1Zei8Vj1KKS2qNMQ46RQeRGZ14pKV1FicwfzrNOkWoo5O-sXBsn10MUTt7GLSeyJszqj3kwIuB6Gx5tscVcur9s0WukcGKQcZJJIhblG7xhQQor9jHh8UWzMoQ2LvBBHBf2gCBQ_MBuU9jNIqXKSEKLoFPt4h24pE2TP9CXZNS6JpjRxfM242YqgvWKy-sh7WApi-4tafm6cxf_Y5q3uprW5DM0fDOt2sg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xzL_u3icHdBdToMwAADgeJk9ShmC2ZLFyKAsGIoU-rO-GGgH2yhQB8rmm3fxVJ7GxO8I3_ePPvXt7x0_TpMZ15Y1z_N9MwyNPtzLobPK8dZLS5ZaV6Vs196jZz_VchOOs78dZj8jxtAAg5wdQbrzHdYPIKErzqI4pJGbIRoLDNCD5CpE7QSqdliiENcSikDC1Zei8Vj1KKS2qNMQ46RQeRGZ14pKV1FicwfzrNOkWoo5O-sXBsn10MUTt7GLSeyJszqj3kwIuB6Gx5tscVcur9s0WukcGKQcZJJIhblG7xhQQor9jHh8UWzMoQ2LvBBHBf2gCBQ_MBuU9jNIqXKSEKLoFPt4h24pE2TP9CXZNS6JpjRxfM242YqgvWKy-sh7WApi-4tafm6cxf_Y5q3uprW5DM0fDOt2sg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFXaHFVRk5FVlVWSlZtWmpXWEZrWlZWZkxWaFNSblZtUVZWWVdWVmFSbEZJTTBGNmQycHFZWHBUZWxCMWRFY3lNSEJZYjJ0bE1IVlhUVEo1UVdNMU1qZzRORTVHVkZsNU5VdEpWVGx2Y2toSGJWaFVhakIwYTNCcFVSSVhVVk5KTm1GMFVFTk1OMWQ1YlhSclVEUTVWM2N3UVUwYUlrRkVjM0k1WmxGblRFRTRSamxEV2xZMGNFdzVURzV4UWxwb1owY3RUVGd5ZEZFIiwiZmN2IjoiMyIsImVpIjoiUVNJNmF0UENMN1d5bXRrUDQ5V3cwQU0iLCJxYyI6IkNnaHRhV3hwZEdGeWVSQUFmYngwTXo4IiwicXVlc3Rpb24iOiJIb3cgZG8gbWFyaW5lcyBzYXkgZ29vZGJ5ZT8iLCJsayI6IkdocG9iM2NnWkc4Z2JXRnlhVzVsY3lCellYa2daMjl2WkdKNVpRIiwiYnMiOiJjM1dPTVEtQ01CQ0Y0M3FUaVhHcERtZUNUb1JVQmdjZGlORkJKMGRYS3hSN0N0U1VLdW1fdDdJUmNYejMzdmZld1JwbVp5VXNDaVBSS29rcnRPNHBhOVE1bGxTUUZjWWw4WmlOZXU1d2dXaXZ2NVRERzcwbE92M0NZTWxEempsUzNzcTdwcXJ0M1pyU0YwVXN6SHFJUGtCNEFEWXdPZWdHUFZNS1E1WGZyNFZIdGM2dVRpYnhsREgxMTRZVHpIZWl3bVAzQ1d6SUtxd3BmUlFTVTFrVVNieGdRZXFEMUIzX0NRNEhIdyIsImlkIjoiZmNfUVNJNmF0UENMN1d5bXRrUDQ5V3cwQU1fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFXaHFVRk5FVlVWSlZtWmpXWEZrWlZWZkxWaFNSblZtUVZWWVdWVmFSbEZJTTBGNmQycHFZWHBUZWxCMWRFY3lNSEJZYjJ0bE1IVlhUVEo1UVdNMU1qZzRORTVHVkZsNU5VdEpWVGx2Y2toSGJWaFVhakIwYTNCcFVSSVhVVk5KTm1GMFVFTk1OMWQ1YlhSclVEUTVWM2N3UVUwYUlrRkVjM0k1WmxGblRFRTRSamxEV2xZMGNFdzVURzV4UWxwb1owY3RUVGd5ZEZFIiwiZmN2IjoiMyIsImVpIjoiUVNJNmF0UENMN1d5bXRrUDQ5V3cwQU0iLCJxYyI6IkNnaHRhV3hwZEdGeWVSQUFmYngwTXo4IiwicXVlc3Rpb24iOiJIb3cgZG8gbWFyaW5lcyBzYXkgZ29vZGJ5ZT8iLCJsayI6IkdocG9iM2NnWkc4Z2JXRnlhVzVsY3lCellYa2daMjl2WkdKNVpRIiwiYnMiOiJjM1dPTVEtQ01CQ0Y0M3FUaVhHcERtZUNUb1JVQmdjZGlORkJKMGRYS3hSN0N0U1VLdW1fdDdJUmNYejMzdmZld1JwbVp5VXNDaVBSS29rcnRPNHBhOVE1bGxTUUZjWWw4WmlOZXU1d2dXaXZ2NVRERzcwbE92M0NZTWxEempsUzNzcTdwcXJ0M1pyU0YwVXN6SHFJUGtCNEFEWXdPZWdHUFZNS1E1WGZyNFZIdGM2dVRpYnhsREgxMTRZVHpIZWl3bVAzQ1d6SUtxd3BmUlFTVTFrVVNieGdRZXFEMUIzX0NRNEhIdyIsImlkIjoiZmNfUVNJNmF0UENMN1d5bXRrUDQ5V3cwQU1fNSJ9"
+    },
+    {
+      "question": "Can I join the Army with sickle cell?",
+      "type": "ai_overview",
+      "page_token": "FVCzFHicHdBNUsIwGIDh8TIupT9ahRnGmWoKVJoxaRJKN05JgEK-tJFWWrrzLp7K08h4gPdZvN8_cKj07825bFvbTEajruvu9nW9h-2drM2oaC6VHMkCYFNIPQkeA_d5J6foaxG-fC5Cwq0Vr9RJPdmSAQfpXL0tOeoKbU8sGmPMI39rokXiCU0RIMotVaY8qRlOpVGFQADJStU8ijlz6JxrfFgy7eUVJTiSnchKu9YPUebYpuAxzgfV5Bny1qYbNsO-KzIIEhQ3iRHvuR9GGzdkTPeX1bFkdG4HdszDQvcL_OL2KeAqmY135CgC4caHrYAHNqj3LcB9Kq4dSjxqaC9X4KNSUe5ob51RQpzOFz60atYS_AqZGsKQ0fpAOB3kEQyvIKRgE-E4fW5anM_c_uq7wjx5qeM2vIpXnNzu5Hnq3_7_nH7sTDuxp3r_B2c3hHM",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FVCzFHicHdBNUsIwGIDh8TIupT9ahRnGmWoKVJoxaRJKN05JgEK-tJFWWrrzLp7K08h4gPdZvN8_cKj07825bFvbTEajruvu9nW9h-2drM2oaC6VHMkCYFNIPQkeA_d5J6foaxG-fC5Cwq0Vr9RJPdmSAQfpXL0tOeoKbU8sGmPMI39rokXiCU0RIMotVaY8qRlOpVGFQADJStU8ijlz6JxrfFgy7eUVJTiSnchKu9YPUebYpuAxzgfV5Bny1qYbNsO-KzIIEhQ3iRHvuR9GGzdkTPeX1bFkdG4HdszDQvcL_OL2KeAqmY135CgC4caHrYAHNqj3LcB9Kq4dSjxqaC9X4KNSUe5ob51RQpzOFz60atYS_AqZGsKQ0fpAOB3kEQyvIKRgE-E4fW5anM_c_uq7wjx5qeM2vIpXnNzu5Hnq3_7_nH7sTDuxp3r_B2c3hHM",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFXaHFVRk5FVlVWSlZtWmpXWEZrWlZWZkxWaFNSblZtUVZWWVdWVmFSbEZJTTBGNmQycHFZWHBUZWxCMWRFY3lNSEJZYjJ0bE1IVlhUVEo1UVdNMU1qZzRORTVHVkZsNU5VdEpWVGx2Y2toSGJWaFVhakIwYTNCcFVSSVhVVk5KTm1GMFVFTk1OMWQ1YlhSclVEUTVWM2N3UVUwYUlrRkVjM0k1WmxGblRFRTRSamxEV2xZMGNFdzVURzV4UWxwb1owY3RUVGd5ZEZFIiwiZmN2IjoiMyIsImVpIjoiUVNJNmF0UENMN1d5bXRrUDQ5V3cwQU0iLCJxYyI6IkNnaHRhV3hwZEdGeWVSQUFmYngwTXo4IiwicXVlc3Rpb24iOiJDYW4gSSBqb2luIHRoZSBBcm15IHdpdGggc2lja2xlIGNlbGw/IiwibGsiOiJHaVJqWVc0Z2FTQnFiMmx1SUhSb1pTQmhjbTE1SUhkcGRHZ2djMmxqYTJ4bElHTmxiR3ciLCJicyI6ImMzV09NUS1DTUJDRjQzcVRpWEdwRG1lQ1RvUlVCZ2NkaU5GQkowZFhLeFI3Q3RTVUt1bV90N0lSY1h6MzN2ZmV3UnBtWnlVc0NpUFJLb2tydE80cGE5UTVsbFNRRmNZbDhaaU5ldTV3Z1dpdnY1VERHNzBsT3YzQ1lNbER6amxTM3NxN3BxcnQzWnJTRjBVc3pIcUlQa0I0QURZd09lZ0dQVk1LUTVYZnI0Vkh0YzZ1VGlieGxESDExNFlUekhlaXdtUDNDV3pJS3F3cGZSUVNVMWtVU2J4Z1FlcUQxQjNfQ1E0SEh3IiwiaWQiOiJmY19RU0k2YXRQQ0w3V3ltdGtQNDlXdzBBTV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFXaHFVRk5FVlVWSlZtWmpXWEZrWlZWZkxWaFNSblZtUVZWWVdWVmFSbEZJTTBGNmQycHFZWHBUZWxCMWRFY3lNSEJZYjJ0bE1IVlhUVEo1UVdNMU1qZzRORTVHVkZsNU5VdEpWVGx2Y2toSGJWaFVhakIwYTNCcFVSSVhVVk5KTm1GMFVFTk1OMWQ1YlhSclVEUTVWM2N3UVUwYUlrRkVjM0k1WmxGblRFRTRSamxEV2xZMGNFdzVURzV4UWxwb1owY3RUVGd5ZEZFIiwiZmN2IjoiMyIsImVpIjoiUVNJNmF0UENMN1d5bXRrUDQ5V3cwQU0iLCJxYyI6IkNnaHRhV3hwZEdGeWVSQUFmYngwTXo4IiwicXVlc3Rpb24iOiJDYW4gSSBqb2luIHRoZSBBcm15IHdpdGggc2lja2xlIGNlbGw%2FIiwibGsiOiJHaVJqWVc0Z2FTQnFiMmx1SUhSb1pTQmhjbTE1SUhkcGRHZ2djMmxqYTJ4bElHTmxiR3ciLCJicyI6ImMzV09NUS1DTUJDRjQzcVRpWEdwRG1lQ1RvUlVCZ2NkaU5GQkowZFhLeFI3Q3RTVUt1bV90N0lSY1h6MzN2ZmV3UnBtWnlVc0NpUFJLb2tydE80cGE5UTVsbFNRRmNZbDhaaU5ldTV3Z1dpdnY1VERHNzBsT3YzQ1lNbER6amxTM3NxN3BxcnQzWnJTRjBVc3pIcUlQa0I0QURZd09lZ0dQVk1LUTVYZnI0Vkh0YzZ1VGlieGxESDExNFlUekhlaXdtUDNDV3pJS3F3cGZSUVNVMWtVU2J4Z1FlcUQxQjNfQ1E0SEh3IiwiaWQiOiJmY19RU0k2YXRQQ0w3V3ltdGtQNDlXdzBBTV81In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "A military, or armed forces, is a highly organized, heavily armed force authorized by a state to defend its national interests. It enforces security, conducts warfare, and provides disaster relief.",
+        "snippet_highlighted_words": [
+          "a highly organized, heavily armed force authorized by a state to defend its national interests"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "The U.S. Armed Forces are divided into six active-duty branches: ScienceDirect.com",
+        "snippet_links": [
+          {
+            "link": "https://www.sciencedirect.com/topics/social-sciences/military"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Army: Operates the primary ground forces to protect the country and its global interests."
+          },
+          {
+            "snippet": "Marine Corps: Specializes in rapid, amphibious, and expeditionary combat operations."
+          },
+          {
+            "snippet": "Navy: Controls the oceans, protecting vital sea lanes and providing worldwide maritime presence."
+          },
+          {
+            "snippet": "Air Force: Manages the skies, executing rapid, flexible, and lethal aviation and strategic operations."
+          },
+          {
+            "snippet": "Space Force: Organizes and trains forces to protect U.S. and allied capabilities in space."
+          },
+          {
+            "snippet": "Coast Guard: Operates under the Department of Homeland Security (or Navy during wartime) to protect ports, waterways, and coastal borders. U.S. Department of War (.gov) +1",
+            "snippet_links": [
+              {
+                "link": "https://www.war.gov/About/our-forces/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Service Opportunities & Benefits"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Enlisted vs. Officer: You can enlist with a high school diploma or GED, while Officer roles typically require a bachelor's degree. GoArmy.com",
+            "snippet_links": [
+              {
+                "link": "https://www.goarmy.com/how-to-join/steps"
+              }
+            ]
+          },
+          {
+            "snippet": "Reserve/Guard: Part-time service allows members to serve in their local communities while remaining on call for federal or state emergencies. U.S. Department of War (.gov) +1",
+            "snippet_links": [
+              {
+                "link": "https://www.war.gov/About/our-forces/"
+              }
+            ]
+          },
+          {
+            "snippet": "Benefits: Veterans and active-duty members are eligible for extensive benefits, including the GI Bill for education, comprehensive healthcare, and home loan assistance. USA.gov",
+            "snippet_links": [
+              {
+                "link": "https://www.usa.gov/military-and-veterans"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "To explore careers, benefits, or enlistment requirements, visit Today's Military or check the USAGov Military Resources portal.",
+        "snippet_links": [
+          {
+            "text": "Today's Military",
+            "link": "https://www.todaysmilitary.com/"
+          },
+          {
+            "text": "USAGov Military Resources",
+            "link": "https://www.usa.gov/military-and-veterans"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "Our Forces | U.S. Department of War",
+        "link": "https://www.war.gov/About/our-forces/",
+        "snippet": "Our Forces. The Army, Marine Corps, Navy, Air Force, Space Force and Coast Guard are the armed forces of the United States. The Ar...",
+        "source": "U.S. Department of War (.gov)",
+        "index": 0
+      },
+      {
+        "title": "Military and veterans - USAGov",
+        "link": "https://www.usa.gov/military-and-veterans",
+        "snippet": "Most popular. Find out the requirements to enlist in the military. Register for the Selective Service (the draft) Learn about the ...",
+        "source": "USA.gov",
+        "index": 1
+      },
+      {
+        "title": "Home — Today's Military",
+        "link": "https://www.todaysmilitary.com/",
+        "snippet": "Types of Military Service. The U.S. Military consists of six active-duty Service branches and their respective Guard and Reserve c...",
+        "source": "Today's Military",
+        "index": 2
+      },
+      {
+        "title": "Military - an overview | ScienceDirect Topics",
+        "link": "https://www.sciencedirect.com/topics/social-sciences/military",
+        "snippet": "Branches of the Armed Forces The organizational structure of the military is composed of five active-duty branches of the military...",
+        "source": "ScienceDirect.com",
+        "index": 3
+      },
+      {
+        "title": "Steps to Join | U.S. Army",
+        "link": "https://www.goarmy.com/how-to-join/steps",
+        "snippet": "To enlist, you must have a high school diploma, GED, or a plan to get one. The main difference when applying to be an Army Officer...",
+        "source": "GoArmy.com",
+        "index": 4
+      },
+      {
+        "title": "Military - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Military",
+        "snippet": "A military, also known collectively as armed forces, is a heavily armed, highly organized force primarily intended for warfare. Militaries are typically authorized...",
+        "source": "Wikipedia",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3keXdzcRM3u5mKqAgO-QIbJFHrWWwYfnaSJl-qeiOiqV_JaJFHiM7TPz_YlMBMZOkkkGd5J9ReXrxpSQ",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "War Industry",
+        "link": "https://regeneration.org/nexus/war-industry",
+        "snippet": "Mobilize domestic defense forces to assist in relief efforts instead of combat. The military's personnel, coordination, and resources already play a critical role ...",
+        "source": "Project Regeneration",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMR4LINOloWvhURZzCFqanBGHAz7fyrfqtSOEay5b9b2XlvCk1oieR7AfDYOgG-YFnyjALzAiA1tAEGo8",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://regeneration.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "Difference between swat and military",
+        "link": "https://cdn.prod.website-files.com/65e87ef5039eb4ec34730442/67bff7b19415821b712f5ea8_39520904495.pdf",
+        "snippet": "In contrast, the military defends the nation against external threats, engaging in national defense, offensive operations, peaceke...",
+        "source": "cdn.prod.website-files.com",
+        "thumbnail": "https://cdn.prod.website-files.com/65e87ef5039eb4ec34730442/67bff7b19415821b712f5ea8_39520904495.pdf",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://cdn.prod.website-files.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "All 7 Military Branches Explained (By a Marine Who'll Be Honest)",
+        "link": "https://www.youtube.com/watch?v=gI0sjF_662Y",
+        "snippet": "most people think that all military branches do relatively the same thing. they don't the Army owns the land. and the Marines kick doors down first the Navy contro",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6ARJG8jzPTTXiVSEaIfrnYjbRk0nlKP1q82Ga3AnuJpeFwpHcShkpNdG3Fup1pWGkiu8NdbCuEqHDtA",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "Military Units: Navy",
+        "link": "https://www.war.gov/Multimedia/Experience/Military-Units/Navy/",
+        "snippet": "Serving to safeguard maritime interests, support global stability and ensure freedom of navigation, the Navy ( naval power ) 's surface forces include an unmatched...",
+        "source": "U.S. Department of War (.gov)",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPlybBOhLpwwbbdteJqqubWhtpILR1QxOCokOtojlvlkUQqaAh0bxaXkADsgjMqV1fdU-3jxx8mefCe_4",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.war.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      },
+      {
+        "title": "Untitled",
+        "link": "https://www.ausa.org/sites/default/files/SR-2010-Profile-of-the-US-Army.pdf",
+        "snippet": "The Navy's mission is to gain and maintain control of vital sea areas and protect sea lanes from surface, subsurface and air threats. Naval forces support the Army...",
+        "source": "www.ausa.org",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuFvHL9l0C9NfT4gvorpx8hWs1taadU_7R4NC9bAbSanvumQ25Mg0UnNlwKTyZW06ngWstm8yXRbhuYtg",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ausa.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 10
+      },
+      {
+        "title": "A brief introduction to the military workplace culture | USC CIR",
+        "link": "https://cir.usc.edu/wp-content/uploads/2016/02/Brief-Introduction-to-Military-Workplace-Culture.pdf",
+        "snippet": "Individuals' military service is affected by whether they serve as active duty or reserve. Active duty service members focus on th...",
+        "source": "USC CIR",
+        "thumbnail": "https://cir.usc.edu/wp-content/uploads/2016/02/Brief-Introduction-to-Military-Workplace-Culture.pdf",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cir.usc.edu&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 11
+      },
+      {
+        "title": "Understanding Your Military Retirement Benefits: A Comprehensive Guide",
+        "link": "https://www.the-ifw.com/blog/retirement-planning/military-retirement-benefits/",
+        "snippet": "Other military retiree benefits cover healthcare, such as TRICARE, education, and employment assistance through the GI Bill and VA ( Department of Veterans Affairs...",
+        "source": "The Institute of Financial Wellness",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlYyWGkzu1E5tMt96Hn5fAUlY566q5zcmBJ-ZgOW11y9qxiz-bcU5ARr5K6z6f2sHiC_S9XarqikZBjJ0",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.the-ifw.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 12
+      },
+      {
+        "title": "Help Center | U.S. Department of War",
+        "link": "https://www.war.gov/Contact/Help-Center/",
+        "snippet": "General Information on Veteran Benefits and Support The Department of Veterans Affairs, or VA, has jurisdiction over most veterans' issues and is responsible for p...",
+        "source": "U.S. Department of War (.gov)",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHlp8AagdB45AqJXPFMan4Y5Fz7cnU83s1T3jxdNOwqlkOphsCCmNvNwoPPKA6-fPRDTLRUltvE735vjs",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.war.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 13
+      },
+      {
+        "title": "About",
+        "link": "https://patriotfundinc.org/about-us/",
+        "snippet": "All Veterans have the earned benefits and the needed services for a full and fulfilling life.",
+        "source": "Patriot Fund",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToq43rEEshm9lPVDyb5FqXVsgEf3-yaIyyGReDiYVdzbtu2LXgxw-tnqLjnfZjDD3XxJ8M0PBqbnzFC7s",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://patriotfundinc.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 14
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Military.com | Military and Veteran Benefits, News, Veteran Jobs",
+      "link": "https://www.military.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQFnoECCUQAQ",
+      "displayed_link": "https://www.military.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "snippet": "Military.com helps millions of military-connected Americans access military and veteran benefits and news, find jobs and enjoy military discounts.",
+      "snippet_highlighted_words": [
+        "Military",
+        "military",
+        "military",
+        "military"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Join the Military",
+            "link": "https://www.military.com/find-info/contact-recruiter"
+          },
+          {
+            "title": "Military Life",
+            "link": "https://www.military.com/base-guide"
+          },
+          {
+            "title": "Insurance",
+            "link": "https://auto.military.com/?utm_source=organic&utmPlacement=Menu"
+          },
+          {
+            "title": "Mortgages",
+            "link": "https://www.military.com/va-loans/"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Military.com helps millions of military-connected Americans access military and veteran benefits and news, find jobs and enjoy military discounts.",
+          "source_info_link": "https://www.military.com/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2F",
+      "source": "Military.com"
+    },
+    {
+      "position": 2,
+      "title": "Military OneSource: Support for Military Personnel & Families",
+      "link": "https://www.militaryonesource.mil/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militaryonesource.mil/&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQFnoECC8QAQ",
+      "displayed_link": "https://www.militaryonesource.mil",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png",
+      "snippet": "Active duty military resource website, offering 24/7 support for service members, spouses, their family and survivors on taxes, moving, benefits, ...",
+      "snippet_highlighted_words": [
+        "Active duty military resource website"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Active duty military resource website, offering 24/7 support for service members, spouses, their family and survivors on taxes, moving, benefits, ...",
+          "source_info_link": "https://www.militaryonesource.mil/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militaryonesource.mil/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militaryonesource.mil%2F",
+      "source": "Military OneSource (.mil)"
+    },
+    {
+      "position": 3,
+      "title": "Military",
+      "link": "https://en.wikipedia.org/wiki/Military",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Military&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQFnoECDIQAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Military",
+      "thumbnail": "https://serpapi.com/searches/6a3a2241124815aade9bbaa9/images/LRaAu46yHhRB9p8GZnjR6zHtwuy2UjBv_BlY2V08qKU.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+      "snippet": "A military, also known collectively as armed forces, is a heavily armed, highly organized force primarily intended for warfare.",
+      "snippet_highlighted_words": [
+        "a heavily armed, highly organized force"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A military, also known collectively as armed forces, is a heavily armed, highly organized force primarily intended for warfare.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Military",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Military&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMilitary",
+      "source": "Wikipedia",
+      "read_more_link": "https://en.wikipedia.org/wiki/Military#:~:text=A%20military%2C%20also%20known%20collectively,force%20primarily%20intended%20for%20warfare."
+    },
+    {
+      "position": 4,
+      "title": "Our Forces",
+      "link": "https://www.war.gov/About/our-forces/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.war.gov/About/our-forces/&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQFnoECCsQAQ",
+      "displayed_link": "https://www.war.gov › About › our-forces",
+      "favicon": "https://serpapi.com/searches/6a3a2241124815aade9bbaa9/images/LRaAu46yHhRB9p8GZnjR6xvS27hsvQN-XdzpKA5IHI4.png",
+      "snippet": "Our Forces. The Army, Marine Corps, Navy, Air Force, Space Force and Coast Guard are the armed forces of the United States. The Army National Guard and the ...",
+      "snippet_highlighted_words": [
+        "The Army, Marine Corps, Navy, Air Force, Space Force and Coast Guard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Our Forces. The Army, Marine Corps, Navy, Air Force, Space Force and Coast Guard are the armed forces of the United States. The Army National Guard and the ...",
+          "source_info_link": "https://www.war.gov/About/our-forces/",
+          "icon": "https://serpapi.com/searches/6a3a2241124815aade9bbaa9/images/LRaAu46yHhRB9p8GZnjR65IIgpyA2qlAYx7HJaOHUjCLkLOwM85o-9eUNs7WD22c.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.war.gov/About/our-forces/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.war.gov%2FAbout%2Four-forces%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://www.war.gov/About/our-forces/#:~:text=Our%20Forces"
+    },
+    {
+      "position": 5,
+      "title": "Home — Today's Military",
+      "link": "https://www.todaysmilitary.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.todaysmilitary.com/&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQFnoECC0QAQ",
+      "displayed_link": "https://www.todaysmilitary.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEzGO1ADQ2bGO1DGO1DGO1BXP10EQmQEQmQEQWQEQmTGO1AEQmQEQmQEQmQEQWMFNFMEQWMEQWMEQmRb1-zQAAAAFHRSTlMAGgigS_8FY_-BEtW63EDo_50ckuGGEyMAAACESURBVHgB7c6FAYAgAETRo7v3n9XumsBn6xfAFcE3yvCNC9xJpScUTIw4zPpiZvX2zIVwwBp4zMIxcGIPtMIo-kHSOQ8BI2B8CHLWfoRNyXmbcgpyxWwL9DHQ90BPQSkx1XkNz0EbLvYP_kBdg0BxYQ5BSxF3Um6BxZsyB-9s0QpfJK56cRoPYnBFYvUAAAAASUVORK5CYII.png",
+      "snippet": "Ready to achieve your goals and go beyond the expected? This is the place to start. Check out how the Military can help fast-track your growth and build a ...",
+      "snippet_highlighted_words": [
+        "Ready to achieve your goals and go beyond the expected"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Ready to achieve your goals and go beyond the expected? This is the place to start. Check out how the Military can help fast-track your growth and build a ...",
+          "source_info_link": "https://www.todaysmilitary.com/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEzGO1ADQ2bGO1DGO1DGO1BXP10EQmQEQmQEQWQEQmTGO1AEQmQEQmQEQmQEQWMFNFMEQWMEQWMEQmRb1-zQAAAAFHRSTlMAGgigS_8FY_-BEtW63EDo_50ckuGGEyMAAACESURBVHgB7c6FAYAgAETRo7v3n9XumsBn6xfAFcE3yvCNC9xJpScUTIw4zPpiZvX2zIVwwBp4zMIxcGIPtMIo-kHSOQ8BI2B8CHLWfoRNyXmbcgpyxWwL9DHQ90BPQSkx1XkNz0EbLvYP_kBdg0BxYQ5BSxF3Um6BxZsyB-9s0QpfJK56cRoPYnBFYvUAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.todaysmilitary.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.todaysmilitary.com%2F",
+      "source": "Today's Military",
+      "read_more_link": "https://www.todaysmilitary.com/#:~:text=Ready%20to%20achieve%20your%20goals,and%20build%20a%20fulfilling%20future."
+    },
+    {
+      "position": 6,
+      "title": "Military and veterans | USAGov",
+      "link": "https://www.usa.gov/military-and-veterans",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usa.gov/military-and-veterans&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQFnoECC4QAQ",
+      "displayed_link": "https://www.usa.gov › military-and-veterans",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX____u-f7W8PvN7Pni9Pya2vRcvuI3m8IvhaosfKCE0vA4ockiW30PLE4VL1BKtt0RKEoWMlMZOFgXNFS95_cfRWUwaIgbPV1bxOssYIBMpMgAH0kAGkQPV3sofKEAO2AAI0thcobx8_Xh5Ojn6u1xf5Gzu8S_xMwALlHY3OBNYHcAF0SYoq4AJ0xYan8hVHWiq7YyaiTtAAABM0lEQVR4AVyShWLFIAxF64bDnru7_P_XLaQStlvvgXgUKE7SNInpm5TlRVnVdVUWefYPxQ3jQkiQELxs4pClimtjWzmjuUqJ_TCHCDWy1jj2M-xjekCyHjt4aNbtjZWzgybTGX45FSNsONnU8w4a3mAOJRk14ylCNJwBzGEjGR2g4TnAQvjXhddyta7XmyW8bY0VBYRTAjS7_SHU8XAyooyjpJKwc3uOQl1GVyurJEprgEBvhG73hfMZpz10bt-h_emBEQJEs7j12bLn64rfaBYDgp0TRGdXQSooH1BUIFxc0NlKTQdY9EUwb-9s-ZkWf4uQ-Z4s99FzC-EH5SuzrvDX72XywijGVPihZfet_4V0HLYMm021B0TNpjEh0ZiEA4aiARtGs6TRZE38OyISNd7sAAC_nSZpudEwewAAAABJRU5ErkJggg.png",
+      "snippet": "Find information on basic pay, pensions, survivor and health benefits for service members, veterans, and military retirees.",
+      "snippet_highlighted_words": [
+        "basic pay, pensions, survivor and health benefits"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Find information on basic pay, pensions, survivor and health benefits for service members, veterans, and military retirees.",
+          "source_info_link": "https://www.usa.gov/military-and-veterans",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX____u-f7W8PvN7Pni9Pya2vRcvuI3m8IvhaosfKCE0vA4ockiW30PLE4VL1BKtt0RKEoWMlMZOFgXNFS95_cfRWUwaIgbPV1bxOssYIBMpMgAH0kAGkQPV3sofKEAO2AAI0thcobx8_Xh5Ojn6u1xf5Gzu8S_xMwALlHY3OBNYHcAF0SYoq4AJ0xYan8hVHWiq7YyaiTtAAABM0lEQVR4AVyShWLFIAxF64bDnru7_P_XLaQStlvvgXgUKE7SNInpm5TlRVnVdVUWefYPxQ3jQkiQELxs4pClimtjWzmjuUqJ_TCHCDWy1jj2M-xjekCyHjt4aNbtjZWzgybTGX45FSNsONnU8w4a3mAOJRk14ylCNJwBzGEjGR2g4TnAQvjXhddyta7XmyW8bY0VBYRTAjS7_SHU8XAyooyjpJKwc3uOQl1GVyurJEprgEBvhG73hfMZpz10bt-h_emBEQJEs7j12bLn64rfaBYDgp0TRGdXQSooH1BUIFxc0NlKTQdY9EUwb-9s-ZkWf4uQ-Z4s99FzC-EH5SuzrvDX72XywijGVPihZfet_4V0HLYMm021B0TNpjEh0ZiEA4aiARtGs6TRZE38OyISNd7sAAC_nSZpudEwewAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.usa.gov/military-and-veterans&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.usa.gov%2Fmilitary-and-veterans",
+      "source": "USA.gov",
+      "read_more_link": "https://www.usa.gov/military-and-veterans#:~:text=Find%20information%20on%20basic%20pay%2C,members%2C%20veterans%2C%20and%20military%20retirees."
+    },
+    {
+      "position": 7,
+      "title": "The Official Home Page of the United States Army",
+      "link": "https://www.army.mil/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.army.mil/&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQFnoECCoQAQ",
+      "displayed_link": "https://www.army.mil",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEUjHyAhHSA2Lx4eGyAAACLCoAwSEyAACCH_2QBpVhsZFyBpWRqzlxDIqQz_zwDsxAYfHCD70AD_zQH_0wBhUht1Yxn_1QDDpA3kvQcNDiFPRBxGPR31zABrWxlBOB1URxz_1wC5mxB5ZxfwxASdhRMRESEAACHetgouKR-GcRdaTRupjRIoJB-khxP_4AA4MR5SEODtAAABEElEQVR4AWKgFmDEJ8fEjFsSUBdVIDcMA8E6lpl1jagGOTHj_19XCiujGzimXWTZ-qTjer4u5wduiLRTozjRzTXSDMOnZq59JDGoc1PzIohCBIxfvetTQnxdJHcPORTlxRH_ObNiMvsTiHNUQ3axs9Ol1fcjF-NznmcNCrI8P2MsWdnezkReFicB6viH36FDH8sGPeHIh57I8A93fyQkn15PNp0Zu01r-oULdGmVJ1OekApNzpKQ0n5DoCCsWyV1anflarKrZR1JCecZmKPi6ic4huzISIylSrk_SUx6m6NQYpiVVqcmvxCkv7Qdc2AK-G3ORHd9mW77y1xzoqZ9s7vm9V6jbI2nHeXrRYbe08gPGtgVh5zv5t0AAAAASUVORK5CYII.png",
+      "snippet": "The latest news, images, videos, career information, and links from the U.S. Army.",
+      "about_this_result": {
+        "source": {
+          "description": "The latest news, images, videos, career information, and links from the U.S. Army.",
+          "source_info_link": "https://www.army.mil/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEUjHyAhHSA2Lx4eGyAAACLCoAwSEyAACCH_2QBpVhsZFyBpWRqzlxDIqQz_zwDsxAYfHCD70AD_zQH_0wBhUht1Yxn_1QDDpA3kvQcNDiFPRBxGPR31zABrWxlBOB1URxz_1wC5mxB5ZxfwxASdhRMRESEAACHetgouKR-GcRdaTRupjRIoJB-khxP_4AA4MR5SEODtAAABEElEQVR4AWKgFmDEJ8fEjFsSUBdVIDcMA8E6lpl1jagGOTHj_19XCiujGzimXWTZ-qTjer4u5wduiLRTozjRzTXSDMOnZq59JDGoc1PzIohCBIxfvetTQnxdJHcPORTlxRH_ObNiMvsTiHNUQ3axs9Ol1fcjF-NznmcNCrI8P2MsWdnezkReFicB6viH36FDH8sGPeHIh57I8A93fyQkn15PNp0Zu01r-oULdGmVJ1OekApNzpKQ0n5DoCCsWyV1anflarKrZR1JCecZmKPi6ic4huzISIylSrk_SUx6m6NQYpiVVqcmvxCkv7Qdc2AK-G3ORHd9mW77y1xzoqZ9s7vm9V6jbI2nHeXrRYbe08gPGtgVh5zv5t0AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.army.mil/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.army.mil%2F",
+      "source": "Army.mil"
+    },
+    {
+      "position": 8,
+      "title": "Military Times - Independent News About Your Military ...",
+      "link": "https://www.militarytimes.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarytimes.com/&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQFnoECCwQAQ",
+      "displayed_link": "https://www.militarytimes.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEUzMzMzMzQyMzA1NTdBP1c9PFBCPl06OUk6OUVQSXxQSX1MRnNQSXhKRWxCP1pGQmNOSXJJRWosLio7NV0fICgmJiY6OE4wMDA7OzjJy8fCwsKhoaHY2thNTU0oKya9vb3____k5OSXl5dkZGRCQkJbW1sjIyNtbW0uLi7R0dH39_eCgoLt7e2MjIx4eHixsbGlpaW7P3w6AAAA_klEQVR4Ad3OhWEkQQwEwG5p4GD_zZB_VA7BbB8szqxkhhhcERT-DtIFBsE7E6PjW3AloKRL1dnSgF8CEDkmDss-BY5COgQwQAwUJtHZYg2mNU65jRZrKt41ewigWhVAB6DHxoO42yAHKlAXLVKoll3MxMO05Dz9t1LMFfifwyIkdkvTrik5G2JtEUZDuCDpQi6IALLB82GzL0FHEyMuM8kpT4lv5RXNhVefYXgGNSTNNWrUdmxjuzszMwAB2CzHBdAQAZv_zv-b_7G_w5uALy1maFdS8m1IeCe4wWEzHYQnHkwHuXjaH2oUvFOgnVet3s_N7bps6oFsNOgV_poXKep5RdOEvugAAAAASUVORK5CYII.png",
+      "snippet": "Military Times is your trusted, independent voice for news about service members at home and deployed around the world.",
+      "snippet_highlighted_words": [
+        "Military Times"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military Times is your trusted, independent voice for news about service members at home and deployed around the world.",
+          "source_info_link": "https://www.militarytimes.com/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEUzMzMzMzQyMzA1NTdBP1c9PFBCPl06OUk6OUVQSXxQSX1MRnNQSXhKRWxCP1pGQmNOSXJJRWosLio7NV0fICgmJiY6OE4wMDA7OzjJy8fCwsKhoaHY2thNTU0oKya9vb3____k5OSXl5dkZGRCQkJbW1sjIyNtbW0uLi7R0dH39_eCgoLt7e2MjIx4eHixsbGlpaW7P3w6AAAA_klEQVR4Ad3OhWEkQQwEwG5p4GD_zZB_VA7BbB8szqxkhhhcERT-DtIFBsE7E6PjW3AloKRL1dnSgF8CEDkmDss-BY5COgQwQAwUJtHZYg2mNU65jRZrKt41ewigWhVAB6DHxoO42yAHKlAXLVKoll3MxMO05Dz9t1LMFfifwyIkdkvTrik5G2JtEUZDuCDpQi6IALLB82GzL0FHEyMuM8kpT4lv5RXNhVefYXgGNSTNNWrUdmxjuzszMwAB2CzHBdAQAZv_zv-b_7G_w5uALy1maFdS8m1IeCe4wWEzHYQnHkwHuXjaH2oUvFOgnVet3s_N7bps6oFsNOgV_poXKep5RdOEvugAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarytimes.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarytimes.com%2F",
+      "source": "Military Times"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Career Paths",
+        "search_link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=what+are+the+different+career+paths+in+the+armed+forces&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQrooIegQIIRAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+are+the+different+career+paths+in+the+armed+forces",
+        "ai_overview": {
+          "text_blocks": [
+            {
+              "type": "paragraph",
+              "snippet": "Armed forces offer diverse career paths across combat, STEM, healthcare, and logistics, categorized into enlisted roles, warrant officers, and commissioned officers. Key fields include cyber security, intelligence, aviation, special warfare, engineering, and medical services. Over 88% of military jobs have civilian counterparts, including roles like nursing, law, and mechanical repair.",
+              "reference_indexes": [
+                2,
+                5,
+                6,
+                8
+              ]
+            },
+            {
+              "type": "heading",
+              "snippet": "Common Career Paths and Examples:"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "title": "Combat/Special Warfare (Infantryman, Special Forces, Armor Officer):",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Combat/Special+Warfare+(Infantryman,+Special+Forces,+Armor+Officer)&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIigEQAw",
+                  "snippet": "These roles are focused on tactical operations, security, and direct ground combat.",
+                  "reference_indexes": [
+                    4,
+                    6,
+                    12
+                  ]
+                },
+                {
+                  "title": "STEM & Technology (Cyber-Operations Specialist, Space Operations, Intel Analyst):",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=STEM+%26+Technology&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIjQEQAQ",
+                  "snippet": "These roles focus on cybersecurity, network defense, satellite operation, and data analysis.",
+                  "reference_indexes": [
+                    1,
+                    2,
+                    3
+                  ]
+                },
+                {
+                  "title": "Healthcare (Combat Medic, Nurse, Physical Therapist):",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Healthcare&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIzwEQAQ",
+                  "snippet": "These roles offer hands-on medical care to service members and their families.",
+                  "reference_indexes": [
+                    1,
+                    6
+                  ]
+                },
+                {
+                  "title": "Logistics & Administration (Finance Officer, HR Specialist, Supply Chain Manager):",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Logistics+%26+Administration&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIrgIQAQ",
+                  "snippet": "These roles involve managing personnel, budgets, and logistics.",
+                  "reference_indexes": [
+                    1,
+                    2
+                  ]
+                },
+                {
+                  "title": "Engineering & Maintenance (Mechanical Technician, Civil Engineer, Welder):",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Engineering+%26+Maintenance&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUI6QEQAQ",
+                  "snippet": "Roles involving the building, repair, and maintenance of machinery, aircraft, or ships.",
+                  "reference_indexes": [
+                    1,
+                    2,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "snippet": "Synonyms and Classifications of Career Paths:",
+              "reference_indexes": [
+                0,
+                5
+              ]
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "snippet": "Enlisted Personnel: Technicians, operators, specialists, crew members."
+                },
+                {
+                  "snippet": "Commissioned Officers: Managers, planners, leaders, commanders, pilots."
+                },
+                {
+                  "snippet": "Warrant Officers: Technical experts, advisors."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "snippet": "Key Career Fields/Branches:",
+              "reference_indexes": [
+                10,
+                11
+              ]
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "snippet": "Combat: Infantry, Special Forces, Armor, Artillery."
+                },
+                {
+                  "snippet": "Technical/Specialized: Cyber, Intelligence, Engineering, Signal."
+                },
+                {
+                  "snippet": "Logistics/Support: Transportation, Quartermaster, Finance, Public Affairs."
+                },
+                {
+                  "snippet": "Medical/Legal: Medical Corps, Dental Corps, Judge Advocate General (JAG)."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "snippet": "Key Considerations for Choosing a Path:"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "snippet": "ASVAB Score: The Armed Services Vocational Aptitude Battery determines job qualification.",
+                  "reference_indexes": [
+                    8
+                  ]
+                },
+                {
+                  "snippet": "Training & Education: Opportunities for specialized training, such as the Green to Gold program for enlisted soldiers becoming officers.",
+                  "reference_indexes": [
+                    0
+                  ]
+                },
+                {
+                  "snippet": "Service Component: Active Duty (full-time) or Guard/Reserve (part-time, community-based).",
+                  "reference_indexes": [
+                    7,
+                    9
+                  ]
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "title": "Find Your Path | U.S. Army",
+              "link": "https://www.goarmy.com/careers-and-jobs/find-your-path#:~:text=Yes%2C%20an%20enlisted%20Soldier%20can,to%20find%20the%20right%20fit.",
+              "snippet": "Yes, an enlisted Soldier can become an Army Officer with further education, training, and by meeting specific requirements. A bach...",
+              "source": "GoArmy.com",
+              "index": 0
+            },
+            {
+              "title": "Explore Careers in the Military",
+              "link": "https://www.todaysmilitary.com/careers-benefits/explore-careers",
+              "snippet": "* Strategic Thinkers & Solvers. You like figuring things out, spotting patterns and solving tough problems. Cyber-Operations Speci...",
+              "source": "Today's Military",
+              "index": 1
+            },
+            {
+              "title": "Careers - U.S. Air Force",
+              "link": "https://www.airforce.com/careers#:~:text=Healthcare,LAW%20AND%20ORDER",
+              "snippet": "Healthcare. MAINTENANCE AND REPAIR. SCIENCE AND TECHNOLOGY. AVIATION AND FLIGHT. LOGISTICS AND ADMINISTRATION. CYBER AND INTELLIGE...",
+              "source": "Air Force",
+              "index": 2
+            },
+            {
+              "title": "Careers • United States Air Force Academy",
+              "link": "https://www.usafa.edu/military/careers/#:~:text=They%20oversee%20space%20surveillance%2C%20space,and%20defeat%20enemy%20space%20systems.",
+              "snippet": "They oversee space surveillance, space lift, space warning and satellite command and control. By assessing the effectiveness of al...",
+              "source": "United States Air Force Academy",
+              "index": 3
+            },
+            {
+              "title": "Military Careers - Bureau of Labor Statistics",
+              "link": "https://www.bls.gov/ooh/military/military-careers.htm#:~:text=Machine%20operator%20and%20repair%20personnel,inmates%20in%20military%20correctional%20facilities.",
+              "snippet": "Machine operator and repair personnel operate industrial equipment and machinery to make and repair parts for a variety of equipme...",
+              "source": "Bureau of Labor Statistics (.gov)",
+              "index": 4
+            },
+            {
+              "title": "Military Jobs, Opportunities & Resources",
+              "link": "https://www.militaryonesource.mil/resources/millife-guides/military-career/#:~:text=Enlisted%20service%20members%20can%20pursue,careers%2C%20including%20nursing%20and%20law.",
+              "snippet": "Enlisted service members can pursue careers in, among others, mechanical, transportation, journalism, medical, legal, personnel an...",
+              "source": "Military OneSource (.mil)",
+              "index": 5
+            },
+            {
+              "title": "Military Careers: A Definitive Guide | Indeed.com",
+              "link": "https://www.indeed.com/career-advice/finding-a-job/career-military#:~:text=The%20United%20States%20Armed%20Forces,specific%20physical%20and%20training%20standards.",
+              "snippet": "Dec 15, 2025 — The United States Armed Forces offer a variety of fulfilling military careers across the span of many industries so th...",
+              "source": "Indeed",
+              "index": 6
+            },
+            {
+              "title": "Ways to Serve - US Army",
+              "link": "https://www.goarmy.com/explore-the-army/army-structure#:~:text=Serve%20part%20time%20within%20your,or%20civilian%20career%20while%20serving",
+              "snippet": "Serve part time within your community. Army National Guard Soldiers serve locally part time and stand by for community emergencies...",
+              "source": "GoArmy.com",
+              "index": 7
+            },
+            {
+              "title": "Military Options - California Career Center",
+              "link": "https://www.calcareercenter.org/content/408/military-options#:~:text=Each%20year%20more%20than%20200%2C000,interested%20in%20taking%20the%20ASVAB.",
+              "snippet": "Each year more than 200,000 men and women join the United States Army, Air Force, Coast Guard, Marine Corps, or Navy. More than 4,",
+              "source": "California Career Center",
+              "index": 8
+            },
+            {
+              "title": "Military Career Options | I Can Succeed",
+              "link": "https://www.icansucceed.org/career-planning/military-career-options",
+              "source": "I Can Succeed",
+              "index": 9
+            },
+            {
+              "title": "Career Options - USC ARMY ROTC",
+              "link": "https://uscrotc.com/career-options/#:~:text=Infantry%20Branch%20(IN),Management%20Functional%20Area%20(FA%2050)",
+              "snippet": "Infantry Branch (IN) Corps of Engineers Branch (EN) Field Artillery Branch (FA) Air Defense Artillery Branch (ADA) Aviation Branch...",
+              "source": "USC ARMY ROTC",
+              "index": 10
+            },
+            {
+              "title": "Career Fields - Military Science/Army ROTC - Boise State University",
+              "link": "https://www.boisestate.edu/sps-militaryscience/full-time-part-time-career-opportunities/army-career-fields/#:~:text=Judge%20Advocate%20General%20(Army%20Lawyers,to%20help%20pay%20for%20it.",
+              "snippet": "Judge Advocate General (Army Lawyers) – “Soldier First – Lawyer Always” The U.S. Army Judge Advocate General's Corps is a governme...",
+              "source": "Boise State University",
+              "index": 11
+            },
+            {
+              "title": "Careers in the U.S. Army - The Citadel",
+              "link": "https://www.citadel.edu/armyrotc/careers/#:~:text=U.S.%20Army%20Careers,Corps%20Officer%20and%20Chaplains%20Corps.",
+              "snippet": "U.S. Army Careers. Enlisting in the U.S. Army can be a great opportunity for individuals to gain specialized skills and leadership...",
+              "source": "The Citadel - The Military College of South Carolina",
+              "index": 12
+            }
+          ]
+        }
+      },
+      {
+        "text": "Enlistment Requirements",
+        "search_link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=what+are+the+requirements+to+join+the+armed+forces&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQrooIegQIIRAe",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+are+the+requirements+to+join+the+armed+forces",
+        "ai_overview": {
+          "text_blocks": [
+            {
+              "type": "paragraph",
+              "snippet": "To join the U.S. armed forces, applicants must generally be U.S. citizens or legal permanent residents (with a Green Card), aged 17–42 (17 with parental consent), hold a high school diploma or GED, and pass the ASVAB aptitude test and a physical exam. Specific requirements, such as minimum ASVAB scores and fitness standards, vary by branch (Army, Navy, Marines, Air Force, Space Force, Coast Guard).",
+              "reference_indexes": [
+                0,
+                1,
+                2,
+                3,
+                4
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Core Requirements for Enlistment"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "snippet": "Age: 17 to 42 years old (varies slightly by branch).",
+                  "reference_indexes": [
+                    4,
+                    7
+                  ]
+                },
+                {
+                  "snippet": "Citizenship: U.S. Citizen or Legal Permanent Resident (I-151/I-551 Green Card).",
+                  "reference_indexes": [
+                    3
+                  ]
+                },
+                {
+                  "snippet": "Education: High school diploma preferred; GED holders can enlist but may have lower priority.",
+                  "reference_indexes": [
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "snippet": "Testing (ASVAB): Applicants must pass the Armed Services Vocational Aptitude Battery (ASVAB) test to determine job eligibility.",
+                  "reference_indexes": [
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "snippet": "Physical: Must pass a medical exam at a Military Entrance Processing Station (MEPS) and meet height/weight standards.",
+                  "snippet_links": [
+                    {
+                      "text": "Military Entrance Processing Station (MEPS)",
+                      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+Entrance+Processing+Station+(MEPS)&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIvgIQAQ"
+                    }
+                  ],
+                  "reference_indexes": [
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "snippet": "Character: Must meet moral standards; a record of drug use or criminal activity may require a waiver.",
+                  "reference_indexes": [
+                    3,
+                    5,
+                    9
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Branch-Specific Nuances",
+              "reference_indexes": [
+                1,
+                2,
+                6,
+                8
+              ]
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "snippet": "Army/National Guard: Age limit 17–42."
+                },
+                {
+                  "snippet": "Navy: Age limit 17–41."
+                },
+                {
+                  "snippet": "Marine Corps: Requires passing an Initial Strength Test (IST)."
+                },
+                {
+                  "snippet": "Air Force/Space Force: Strict requirements, generally high ASVAB scores needed."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Officer Requirements To become an officer, a 4-year university degree is generally required, in addition to higher physical and aptitude standards.",
+              "reference_indexes": [
+                0,
+                3
+              ]
+            }
+          ],
+          "references": [
+            {
+              "title": "Requirements to join the U.S. military - USAGov",
+              "link": "https://www.usa.gov/military-requirements#:~:text=Have%20a%20U.S.%20Permanent%20Resident,read%2C%20and%20write%20English%20fluently",
+              "snippet": "May 4, 2026 — ASVAB testing. Everyone who wants to enlist in the military must take the Armed Services Vocational Aptitude Battery (A...",
+              "source": "USA.gov",
+              "index": 0
+            },
+            {
+              "title": "Eligibility & Requirements to Join | U.S. Army",
+              "link": "https://www.goarmy.com/how-to-join/requirements#:~:text=Be%20between%2017%20and%2042,of%20Soldiers%20under%20your%20command.",
+              "snippet": "Be between 17 and 42 years old. Be medically and physically fit. Be a U.S. citizen or permanent resident with a valid Green Card.",
+              "source": "GoArmy.com",
+              "index": 1
+            },
+            {
+              "title": "Requirements to Join the Navy",
+              "link": "https://www.navy.com/joining/requirements",
+              "source": "Navy.com",
+              "index": 2
+            },
+            {
+              "title": "Military Eligibility Requirements | ASVAB Career Exploration Program",
+              "link": "https://www.asvabprogram.com/media-center-article/109#:~:text=Are%20under%20any%20form%20of,individual%20circumstances%20with%20a%20recruiter.",
+              "snippet": "Joining the Military: Military Entrance Requirements. Did you know only 29 percent of American youth (ages 17 to 24) meet the elig...",
+              "source": "ASVAB Career Exploration Program",
+              "index": 3
+            },
+            {
+              "title": "Joining the National Guard & Reserves - Military OneSource",
+              "link": "https://www.militaryonesource.mil/resources/millife-guides/guard-and-reserves/#:~:text=in%20civilian%20life.-,Eligibility%20for%20the%20National%20Guard%20or%20reserves,the%20Armed%20Forces%20Qualification%20Test.",
+              "snippet": "Eligibility for the National Guard or reserves You must meet these minimum requirements to join the National Guard or military res...",
+              "source": "Military OneSource (.mil)",
+              "index": 4
+            },
+            {
+              "title": "Join the Active Duty Air Force",
+              "link": "https://www.airforce.com/how-to-join/join-the-air-force#:~:text=Criminal%20Record%20and%20Drug%20Use,(waiver%20standards%20still%20apply).",
+              "snippet": "Criminal Record and Drug Use. Law violations can heavily impact your eligibility for enlistment. Even an excessive number of traff...",
+              "source": "Air Force",
+              "index": 5
+            },
+            {
+              "title": "Enlistment Requirements - Marine Corps",
+              "link": "https://www.marines.com/become/requirements.html#:~:text=Pass%20The%20Initial%20Strength%20Test,a%201.5%2Dmile%20timed%20run.",
+              "snippet": "Pass The Initial Strength Test, or IST, to demonstrate their physical fitness. The IST consists of pull-ups or push-ups, plank pos...",
+              "source": "Marines",
+              "index": 6
+            },
+            {
+              "title": "Join the Air National Guard - U.S. Air Force",
+              "link": "https://www.airforce.com/how-to-join/join-the-air-national-guard#:~:text=Age%2C%20Height%20and%20Weight,not%20reached%20your%2042nd%20birthday.",
+              "snippet": "Age, Height and Weight. Age requirements vary depending on the path you choose: To enlist or join as an officer, you must be betwe...",
+              "source": "Air Force",
+              "index": 7
+            },
+            {
+              "title": "Join as an Enlisted Guardian - U.S. Space Force",
+              "link": "https://www.spaceforce.com/how-to-join/enlisted-guardians",
+              "snippet": "See screenshot for placement option. * Qualify. You must be 17–42 years of age, a U.S. citizen and obtain a qualifying ASVAB scor...",
+              "source": "spaceforce.com",
+              "index": 8
+            },
+            {
+              "title": "Soldier Prep Quiz - US Army",
+              "link": "https://www.goarmy.com/how-to-join/soldier-prep-quiz#:~:text=What%20can%20I%20do%20if,civilian%20career%20within%20the%20Army.",
+              "snippet": "What can I do if I don't meet the eligibility requirements to join? In addition to meeting the physical and ASVAB requirements, an...",
+              "source": "GoArmy.com",
+              "index": 9
+            }
+          ]
+        }
+      },
+      {
+        "text": "Role of Technology",
+        "search_link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=what+is+the+role+of+technology+in+the+armed+forces&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQrooIegQIIRAt",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+the+role+of+technology+in+the+armed+forces",
+        "ai_overview": {
+          "text_blocks": [
+            {
+              "type": "paragraph",
+              "snippet": "Technology in the armed forces acts as a force multiplier, enhancing operational efficiency, situational awareness, and precision through AI, autonomous systems, and advanced communications. Key roles include accelerating decision-making, improving reconnaissance, and reducing human risk, while enabling networked warfare across land, air, sea, and cyber domains.",
+              "reference_indexes": [
+                1,
+                5,
+                7,
+                9
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Usage Examples in the Armed Forces"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "title": "Unmanned Systems & Drones:",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Unmanned+Systems+%26+Drones&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUI7AIQAw",
+                  "snippet": "Utilizing UAVs for real-time surveillance, intelligence gathering, and precision strikes without risking personnel.",
+                  "reference_indexes": [
+                    6
+                  ]
+                },
+                {
+                  "title": "AI and Machine Learning:",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=AI+and+Machine+Learning&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUInQMQAw",
+                  "snippet": "Employing AI for faster target identification (e.g., \"Gospel and Lavender\" tools) and processing, improving decision-making speeds.",
+                  "reference_indexes": [
+                    3
+                  ]
+                },
+                {
+                  "title": "Cyber Warfare & Security:",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Cyber+Warfare+%26+Security&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUI_gMQAw",
+                  "snippet": "Protecting digital infrastructure and engaging in cyber operations to disrupt adversaries, crucial in the age of the \"Internet of Military Things\" (IoMT).",
+                  "snippet_links": [
+                    {
+                      "text": "Internet of Military Things",
+                      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Internet+of+Military+Things&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUI9AMQAQ"
+                    }
+                  ],
+                  "reference_indexes": [
+                    0,
+                    8
+                  ]
+                },
+                {
+                  "title": "Precision-Guided Weapons:",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Precision-Guided+Weapons&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIhgQQAw",
+                  "snippet": "Using advanced sensors and GPS to strike targets with high accuracy, reducing collateral damage.",
+                  "reference_indexes": [
+                    4
+                  ]
+                },
+                {
+                  "title": "Network-Centric Operations:",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Network-Centric+Operations&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUI8gMQAw",
+                  "snippet": "Integrating communication systems to share real-time battle data, enhancing coordination between soldiers and equipment.",
+                  "reference_indexes": [
+                    9
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Synonyms and Related Concepts"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "snippet": "Military Innovation"
+                },
+                {
+                  "snippet": "Defense Technology"
+                },
+                {
+                  "snippet": "Modern Warfare Systems"
+                },
+                {
+                  "snippet": "Force Modernization",
+                  "snippet_links": [
+                    {
+                      "text": "Force Modernization",
+                      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Force+Modernization&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIswIQAQ"
+                    }
+                  ]
+                },
+                {
+                  "snippet": "Emerging Defense Technologies",
+                  "snippet_links": [
+                    {
+                      "text": "Emerging Defense Technologies",
+                      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Emerging+Defense+Technologies&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIqQIQAQ"
+                    }
+                  ]
+                },
+                {
+                  "snippet": "RMA (Revolution in Military Affairs)",
+                  "snippet_links": [
+                    {
+                      "text": "RMA (Revolution in Military Affairs)",
+                      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=RMA+(Revolution+in+Military+Affairs)&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIsAIQAQ"
+                    }
+                  ]
+                },
+                {
+                  "snippet": "Smart Defense Technologies",
+                  "snippet_links": [
+                    {
+                      "text": "Smart Defense Technologies",
+                      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Smart+Defense+Technologies&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIuAIQAQ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Key Strategic Impacts"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "snippet": "Advantage in Asymmetric Warfare: Allowing smaller forces to neutralize larger enemies through advanced technology.",
+                  "reference_indexes": [
+                    9
+                  ]
+                },
+                {
+                  "snippet": "Enhanced Logistics: Using technology to improve supply chains, maintenance, and troop support.",
+                  "reference_indexes": [
+                    2
+                  ]
+                },
+                {
+                  "snippet": "Improved Survivability: Protecting soldiers through advanced armor, autonomous reconnaissance, and situational awareness tools.",
+                  "reference_indexes": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "title": "Technology Careers in the Military",
+              "link": "https://education.purdue.edu/news/2024/01/01/technology-careers-in-the-military/#:~:text=Career%20Options%20in%20the%20Military,such%20the%20online%2Dfocused%20world.",
+              "snippet": "Jan 1, 2024 — Career Options in the Military. A plethora of military careers utilizing technology currently exist and the list contin...",
+              "source": "Purdue University College of Education",
+              "index": 0
+            },
+            {
+              "title": "Technology at the Point of Contact: Shaping the Future of Warfighting",
+              "link": "https://www.armyupress.army.mil/Journals/NCO-Journal/Muddy-Boots/Technology-at-Point-of-Contact/#:~:text=In%20this%20environment%2C%20technology%20enables,%2C%20surveillance%2C%20and%20target%20acquisition.",
+              "snippet": "Nov 25, 2024 — In this environment, technology enables armies to generate new forms of mass, such as unmanned systems, strategically ...",
+              "source": "Army University Press (.mil)",
+              "index": 1
+            },
+            {
+              "title": "Military technology - Wikipedia",
+              "link": "https://en.wikipedia.org/wiki/Military_technology#:~:text=Rapid%20development%20in%20military%20technology,torpedo%20boat%20and%20the%20destroyer.",
+              "snippet": "Rapid development in military technology had a dramatic impact on armies and navies in the industrialized world in 1740–1914. For ...",
+              "source": "Wikipedia",
+              "index": 2
+            },
+            {
+              "title": "Redefining Deterrence: The Impact of Emerging Technologies on Nuclear ...",
+              "link": "https://nuclearnetwork.csis.org/redefining-deterrence-the-impact-of-emerging-technologies-on-nuclear-and-conventional-military-forces/#:~:text=The%20advent%20of%20emerging%20technologies%20has%20changed%20how%20military%20operations,of%20trust%20in%20autonomous%20systems.",
+              "snippet": "May 7, 2025 — The advent of emerging technologies has changed how military operations are conducted. Among the top technological deve...",
+              "source": "CSIS | Center for Strategic and International Studies",
+              "index": 3
+            },
+            {
+              "title": "3 National Security and Technological Environments and Their Effects",
+              "link": "https://www.nationalacademies.org/read/9675/chapter/5",
+              "snippet": "Some examples of the military's use of advanced technologies are described below: * Precision weapons, with unprecedented worldwi...",
+              "source": "National Academies of Sciences, Engineering, and Medicine",
+              "index": 4
+            },
+            {
+              "title": "Maintaining Military Advantage Through Science & Technology ...",
+              "link": "https://clintonwhitehouse4.archives.gov/WH/EOP/OSTP/nssts/html/chapt2.html#:~:text=Information%20technologies%20have%20changed%20the,accurate%20and%20timely%20battlefield%20information.",
+              "snippet": "Information technologies have changed the battlefield. They enable better performance of current platforms, weapons, sensors, and ...",
+              "source": "Clinton White House (.gov)",
+              "index": 5
+            },
+            {
+              "title": "The Role of Advanced Technologies in Modern Defence Systems",
+              "link": "https://www.defence-industries.com/articles/advanced-technologies-in-modern-defence-systems#:~:text=Unmanned%20Aerial%20Vehicles%20(UAVs)%20and%20Drones:,assets%20in%20modern%20warfare%20scenarios.",
+              "snippet": "Unmanned Aerial Vehicles (UAVs) and Drones: Unmanned aerial vehicles (UAVs) and drones have emerged as game-changers in modern def...",
+              "source": "Defence Industries",
+              "index": 6
+            },
+            {
+              "title": "The Impact of Technology on Modern Warfare - Quorum",
+              "link": "https://qlsl.com/2024/02/the-impact-of-technology-on-modern-warfare/#:~:text=Adapting%20to%20technological%20change%20in%20warfare%20requires%20continual%20assessment%20and,operational%20efficiency%20and%20response%20times.",
+              "snippet": "Adapting to technological change in warfare requires continual assessment and integration of advancements to maintain strategic ad...",
+              "source": "qlsl.com",
+              "index": 7
+            },
+            {
+              "title": "The Internet of Military Things is Transforming Defense Operations",
+              "link": "https://www.akkodis.com/en/blog/articles/internet-of-military-things#:~:text=19th%20of%20May%2C%202025,in%20high%2Dstakes%20combat%20environments.",
+              "snippet": "May 19, 2025 — 19th of May, 2025 As militaries increasingly rely on connected technologies, the rise of the Internet of Military Thin...",
+              "source": "Akkodis",
+              "index": 8
+            },
+            {
+              "title": "The Role of Technology in Modern Warfare: Innovations in the Army, ...",
+              "link": "https://warriorallegiance.com/the-role-of-technology-in-modern-warfare-innovations-in-the-army-navy-air-force-and-marines/",
+              "snippet": "The Impact of Technology on Military Strategy * Network-Centric Warfare. Network-centric warfare leverages advanced communication...",
+              "source": "Warrior Allegiance",
+              "index": 9
+            }
+          ]
+        }
+      },
+      {
+        "text": "Organizational Structure",
+        "search_link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=what+is+the+organizational+structure+of+the+armed+forces&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQrooIegQIIRA8",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+the+organizational+structure+of+the+armed+forces",
+        "ai_overview": {
+          "text_blocks": [
+            {
+              "type": "paragraph",
+              "snippet": "The organizational structure of the U.S. Armed Forces is a hierarchical system designed for civilian control, flowing from the President to the Secretary of Defense, and through to Joint Chiefs of Staff and Combatant Commands. It consists of the Departments of Defense and Homeland Security (Coast Guard), subdivided into military departments (Army, Navy, Air Force) and services.",
+              "reference_indexes": [
+                1,
+                5,
+                6
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Core Components of the Organizational Structure"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "title": "Chain of Command:",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Chain+of+Command&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIpgEQAQ",
+                  "snippet": "$\\rightarrow $",
+                  "snippet_latex": [
+                    "\\rightarrow "
+                  ],
+                  "reference_indexes": [
+                    1,
+                    6,
+                    8
+                  ]
+                },
+                {
+                  "title": "Military Departments:",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+Departments&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUI4wEQAQ",
+                  "snippet": "These civilian-led entities (Army, Navy, Air Force) are responsible for organizing, training, and equipping forces.",
+                  "reference_indexes": [
+                    2,
+                    6
+                  ]
+                },
+                {
+                  "title": "Combatant Commands:",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Combatant+Commands&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIhwIQAQ",
+                  "snippet": "Geographical or functional commands (e.g., SOCOM, INDOPACOM) that command actual military operations.",
+                  "reference_indexes": [
+                    5,
+                    8
+                  ]
+                },
+                {
+                  "title": "Joint Chiefs of Staff:",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Joint+Chiefs+of+Staff&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIpQMQAQ",
+                  "snippet": "Composed of the uniformed heads of the services, providing strategic advice.",
+                  "reference_indexes": [
+                    5
+                  ]
+                },
+                {
+                  "title": "Operational Forces vs. Institutional Army:",
+                  "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Operational+Forces+vs.+Institutional+Army&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIyAIQAQ",
+                  "snippet": "The operational force conducts missions (numbered armies, corps, divisions), while the institutional force builds and sustains them (training, logistics).",
+                  "reference_indexes": [
+                    2,
+                    9
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Hierarchy of Units (Army/Marine Focus)",
+              "reference_indexes": [
+                3,
+                10
+              ]
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "snippet": "Team: Smallest unit $\\approx $ 4 soldiers).",
+                  "snippet_links": [
+                    {
+                      "text": "Team",
+                      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Team&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUI_AIQAQ"
+                    }
+                  ],
+                  "snippet_latex": [
+                    "\\approx "
+                  ]
+                },
+                {
+                  "snippet": "Squad: Composed of teams $\\approx $ 9 soldiers).",
+                  "snippet_links": [
+                    {
+                      "text": "Squad",
+                      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Squad&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIjgMQAQ"
+                    }
+                  ],
+                  "snippet_latex": [
+                    "\\approx "
+                  ]
+                },
+                {
+                  "snippet": "Platoon: Led by a lieutenant $\\approx $ 42 soldiers).",
+                  "snippet_links": [
+                    {
+                      "text": "Platoon",
+                      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Platoon&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIoAMQAQ"
+                    }
+                  ],
+                  "snippet_latex": [
+                    "\\approx "
+                  ]
+                },
+                {
+                  "snippet": "Company/Battery/Troop: Led by a captain $\\approx $ 62–190 soldiers).",
+                  "snippet_links": [
+                    {
+                      "text": "Company/Battery/Troop",
+                      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Company/Battery/Troop&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIzAMQAQ"
+                    }
+                  ],
+                  "snippet_latex": [
+                    "\\approx "
+                  ]
+                },
+                {
+                  "snippet": "Battalion/Squadron: Led by a lieutenant colonel $\\approx $ 300–1,000 soldiers).",
+                  "snippet_links": [
+                    {
+                      "text": "Battalion/Squadron",
+                      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Battalion/Squadron&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUIrAMQAQ"
+                    }
+                  ],
+                  "snippet_latex": [
+                    "\\approx "
+                  ]
+                },
+                {
+                  "snippet": "Brigade/Regiment: Led by a colonel $\\approx $ 1,500–3,200 soldiers).",
+                  "snippet_links": [
+                    {
+                      "text": "Brigade/Regiment",
+                      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Brigade/Regiment&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUItgMQAQ"
+                    }
+                  ],
+                  "snippet_latex": [
+                    "\\approx "
+                  ]
+                },
+                {
+                  "snippet": "Division: Led by a major general $\\approx $ 10,000–16,000 soldiers).",
+                  "snippet_links": [
+                    {
+                      "text": "Division",
+                      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Division&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUI3gMQAQ"
+                    }
+                  ],
+                  "snippet_latex": [
+                    "\\approx "
+                  ]
+                },
+                {
+                  "snippet": "Corps: Led by a lieutenant general $\\approx $ 20,000–40,000 soldiers).",
+                  "snippet_links": [
+                    {
+                      "text": "Corps",
+                      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Corps&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQxccNegUI7QMQAQ"
+                    }
+                  ],
+                  "snippet_latex": [
+                    "\\approx "
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Synonyms & Related Terms",
+              "reference_indexes": [
+                0,
+                4,
+                11,
+                12
+              ]
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "snippet": "Military organization"
+                },
+                {
+                  "snippet": "Chain of command"
+                },
+                {
+                  "snippet": "Command and control structure"
+                },
+                {
+                  "snippet": "Service branch/Armed service"
+                },
+                {
+                  "snippet": "Defense apparatus"
+                },
+                {
+                  "snippet": "Command hierarchy"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Usage Examples"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "snippet": "Operational Control: A combatant commander uses the structure to deploy a Marine Expeditionary Force.",
+                  "reference_indexes": [
+                    7
+                  ]
+                },
+                {
+                  "snippet": "Administrative Support: The Department of the Army organizes and trains forces for deployment.",
+                  "reference_indexes": [
+                    2
+                  ]
+                },
+                {
+                  "snippet": "Strategic Planning: The Joint Chiefs of Staff advise the President on military operations.",
+                  "reference_indexes": [
+                    5
+                  ]
+                },
+                {
+                  "snippet": "Command Structure: A Sergeant leads a fire team.",
+                  "reference_indexes": [
+                    3
+                  ]
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "title": "Military organization - Wikipedia",
+              "link": "https://en.wikipedia.org/wiki/Military_organization#:~:text=In%20most%20countries%2C%20the%20armed,reasons%20such%20as%20being%20landlocked.",
+              "snippet": "In most countries, the armed forces are divided into three military branches (also service, armed service, or military service): a...",
+              "source": "Wikipedia",
+              "index": 0
+            },
+            {
+              "title": "Organizational structure of the United States Department of Defense",
+              "link": "https://en.wikipedia.org/wiki/Organizational_structure_of_the_United_States_Department_of_Defense#:~:text=The%20United%20States%20Department%20of%20Defense%20(DoD)%20has%20a%20complex,to%20$560.6%20billion%20for%202015.",
+              "snippet": "The United States Department of Defense (DoD) has a complex organizational structure. It includes the Army, Navy, the Marine Corps...",
+              "source": "Wikipedia",
+              "index": 1
+            },
+            {
+              "title": "The U.S. Army's Command Structure",
+              "link": "https://www.army.mil/organization/#:~:text=the%20Army's%20Structure-,Organization,logistics%20needed%20to%20support%20them.",
+              "snippet": "Organization. The Army, as one of the three military departments (Army, Navy and Air Force) reporting to the Department of Defense...",
+              "source": "Army.mil",
+              "index": 2
+            },
+            {
+              "title": "Structure of the United States Army - Wikipedia",
+              "link": "https://en.wikipedia.org/wiki/Structure_of_the_United_States_Army#:~:text=Regimental%20troops%20are%20designated%20A,4%20soldiers.",
+              "snippet": "Regimental troops are designated A to T, depending on the number of troops. The troops are then divided into their like squadrons.",
+              "source": "Wikipedia",
+              "index": 3
+            },
+            {
+              "title": "Military organization | Military History and Science | Research Starters",
+              "link": "https://www.ebsco.com/research-starters/military-history-and-science/military-organization#:~:text=Military%20organization%20refers%20to%20the,that%20denotes%20rank%20and%20authority.",
+              "snippet": "Military organization refers to the systematic structure through which a nation-state manages its armed forces. It encompasses the...",
+              "source": "EBSCO",
+              "index": 4
+            },
+            {
+              "title": "How exactly does the US military's organizational structure work above the level of branch?",
+              "link": "https://www.reddit.com/r/WarCollege/comments/1fymryy/how_exactly_does_the_us_militarys_organizational/",
+              "snippet": "Oct 8, 2024",
+              "source": "Reddit · r/WarCollege",
+              "index": 5
+            },
+            {
+              "title": "United States Armed Forces - Wikipedia",
+              "link": "https://en.wikipedia.org/wiki/United_States_Armed_Forces#:~:text=The%20United%20States%20Armed%20Forces%20are%20split%20between%20two%20cabinet,through%20the%20unified%20combatant%20commands.",
+              "snippet": "The United States Armed Forces are split between two cabinet departments, with the Department of Defense serving as the primary ca...",
+              "source": "Wikipedia",
+              "index": 6
+            },
+            {
+              "title": "Military Units: Marine Corps | U.S. Department of War",
+              "link": "https://www.war.gov/Multimedia/Experience/Military-Units/Marine-Corps/",
+              "snippet": "Command Structure * While the Marine Corps falls under the Department of the Navy, its command structure is similar to the Army's...",
+              "source": "U.S. Department of War (.gov)",
+              "index": 7
+            },
+            {
+              "title": "United States Department of Defense - Wikipedia",
+              "link": "https://en.wikipedia.org/wiki/United_States_Department_of_Defense#:~:text=The%20military%20departments%20are%20each,military%20departments%20and%20service%20chiefs.",
+              "snippet": "The military departments are each headed by their secretary (i.e., Secretary of the Army, Secretary of the Navy and Secretary of t...",
+              "source": "Wikipedia",
+              "index": 8
+            },
+            {
+              "title": "Profile of the United States Army: Army Organization - AUSA",
+              "link": "https://www.ausa.org/publications/profile-united-states-army-army-organization#:~:text=Overarching%20Organization,and%20combat%20service%20support%20units.",
+              "snippet": "Sep 1, 2022 — Overarching Organization The Army is an extremely complex organization that is comprised of an Operating Force and a Ge...",
+              "source": "ausa.org",
+              "index": 9
+            },
+            {
+              "title": "U.S. Army Ranks",
+              "link": "https://www.army.mil/ranks/",
+              "snippet": "Officer Ranks * Second Lieutenant. Typically the entry-level rank for most commissioned officers. ... * First Lieutenant. A seaso...",
+              "source": "Army.mil",
+              "index": 10
+            },
+            {
+              "title": "Structure of the United States Armed Forces - Military Wiki | Fandom",
+              "link": "https://military-history.fandom.com/wiki/Structure_of_the_United_States_Armed_Forces#:~:text=The%20Chain%20of%20command%20leads,and%20military%20chains%20of%20command.",
+              "snippet": "The Chain of command leads from the President (as commander-in-chief) through the Secretary of Defense down to the newest recruits...",
+              "source": "Military Wiki | Fandom",
+              "index": 11
+            },
+            {
+              "title": "Chain of Command - Military Hierarchy",
+              "link": "https://www.todaysmilitary.com/life-in-the-military/customs-practices/chain-of-command",
+              "source": "Today's Military",
+              "index": 12
+            }
+          ]
+        }
+      },
+      {
+        "text": "History",
+        "search_link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=what+is+the+history+of+the+armed+forces&sa=X&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQrooIegQIIRBL",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+the+history+of+the+armed+forces",
+        "ai_overview": {
+          "text_blocks": [
+            {
+              "type": "paragraph",
+              "snippet": "The U.S. Armed Forces began on June 14, 1775, when the Continental Congress established the Continental Army to fight the Revolutionary War. The Navy and Marines followed later that year, with the force formally evolving from a small, temporary militia-based structure to a large, all-volunteer professional force after World War II.",
+              "reference_indexes": [
+                0,
+                1,
+                5,
+                6
+              ]
+            },
+            {
+              "type": "heading",
+              "snippet": "Key Historical Developments (1775-Present):"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "title": "Establishment (1775):",
+                  "snippet": "Congress formed the Continental Army (June 14), Navy (Oct 13), and Marines (Nov 10). George Washington was named Commander-in-Chief.",
+                  "reference_indexes": [
+                    0,
+                    2,
+                    5
+                  ]
+                },
+                {
+                  "title": "Post-Revolutionary Era:",
+                  "snippet": "The military briefly demobilized, then was rebuilt under the new 1787 Constitution, which made the President the Commander-in-Chief.",
+                  "reference_indexes": [
+                    0,
+                    1
+                  ]
+                },
+                {
+                  "title": "Expansion & Conflict:",
+                  "snippet": "Key conflicts that shaped the force included the War of 1812, Mexican-American War, the Civil War (introduction of mass conscription), Spanish-American War, and the World Wars.",
+                  "reference_indexes": [
+                    1,
+                    3
+                  ]
+                },
+                {
+                  "title": "The 20th Century & Beyond:",
+                  "snippet": "The Air Force was established in 1947. The military transitioned to an all-volunteer force in 1973 after the Vietnam War. The newest branch, the Space Force, was established in 2019.",
+                  "reference_indexes": [
+                    6,
+                    7
+                  ]
+                },
+                {
+                  "title": "Modern Structure:",
+                  "snippet": "The Department of Defense oversees the Army, Marine Corps, Navy, Air Force, and Space Force, while the Department of Homeland Security oversees the Coast Guard.",
+                  "reference_indexes": [
+                    3,
+                    4
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Synonyms/Related Terms: United States Military, U.S. Armed Services, National Defense Forces, Continental Army/Navy/Marines (historic), and The Armed Services."
+            },
+            {
+              "type": "heading",
+              "snippet": "Usage Examples in Historical Context:"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "snippet": "The Continental Army was essential for winning independence in the Revolutionary War.",
+                  "reference_indexes": [
+                    1,
+                    3
+                  ]
+                },
+                {
+                  "snippet": "The Union Army was used to fight in the American Civil War (1861-1865).",
+                  "reference_indexes": [
+                    1
+                  ]
+                },
+                {
+                  "snippet": "The U.S. Army Tank Corps saw its first action during World War I.",
+                  "reference_indexes": [
+                    1
+                  ]
+                },
+                {
+                  "snippet": "The Army, Navy, and Marines were reorganized after the September 11 attacks for the War on Terror.",
+                  "reference_indexes": [
+                    8
+                  ]
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "title": "United States Armed Forces - Wikipedia",
+              "link": "https://en.wikipedia.org/wiki/United_States_Armed_Forces#:~:text=The%20history%20of%20the%20U.S.,'%20commander%2Din%2Dchief.",
+              "snippet": "The history of the U.S. Armed Forces dates back to 14 June 1775, with the creation of the Continental Army, even before the Declar...",
+              "source": "Wikipedia",
+              "index": 0
+            },
+            {
+              "title": "US Military History",
+              "link": "https://www.military.com/history#:~:text=By%20MLT%20Staff-,The%20United%20States%20wasn't%20always%20a%20military%20superpower.,died%20in%20the%20American%20Revolution.",
+              "snippet": "The American Revolution * The U.S. military formed on June 14, 1775, during the American Revolution with the country's first forma...",
+              "source": "Military.com",
+              "index": 1
+            },
+            {
+              "title": "Historic Highlights from the Department of War",
+              "link": "https://www.war.gov/Multimedia/Experience/Historic-Highlights-from-the-Department-of-War/#:~:text=Back%20to%20Top-,The%201700s,The%20Continental%20Congress",
+              "snippet": "The 1700s. * JUNE 14, 1775. The Continental Congress authorizes the creation of the Continental Army, and the next day, puts it un...",
+              "source": "U.S. Department of War (.gov)",
+              "index": 2
+            },
+            {
+              "title": "Military history of the United States - Wikipedia",
+              "link": "https://en.wikipedia.org/wiki/Military_history_of_the_United_States#:~:text=As%20of%202024%2C%20the%20United,the%20Department%20of%20Homeland%20Security.&text=In%201775%2C%20the%20Continental%20Congress,war%20against%20the%20Islamic%20State.",
+              "snippet": "As of 2024, the United States Armed Forces consists of the Army, Marine Corps, Navy, Air Force and Space Force, all under the comm...",
+              "source": "Wikipedia",
+              "index": 3
+            },
+            {
+              "title": "United States Armed Forces",
+              "link": "https://chicagonavymemorial.org/commemorative-us-sea-services-monument/armed-forces",
+              "source": "Chicago Navy Memorial Foundation",
+              "index": 4
+            },
+            {
+              "title": "U.S. Army | America's First National Institution",
+              "link": "https://www.army.mil/1775/timeline.html",
+              "source": "Army.mil",
+              "index": 5
+            },
+            {
+              "title": "The Military, A Brief History and Overview",
+              "link": "https://www.youtube.com/watch?v=MXVyI9P8m7g",
+              "snippet": "Mar 9, 2022 — the history of the US military goes back to the beginning of the colonial. era in 1636. a Massachusetts Bay Colony orga...",
+              "source": "YouTube · Columbia University Center for Veteran Transition and Integration",
+              "index": 6
+            },
+            {
+              "title": "1.1. History of the Military",
+              "link": "https://fycs.ifas.ufl.edu/media/fycsifasufledu/rural-veteran-lab/docs/VA-1.1-History-of-the-Military.pdf",
+              "snippet": "The U.S. military was established during the American Revolution on June 14, 1775, with the first formal fighting force, the Conti...",
+              "source": "University of Florida",
+              "index": 7
+            },
+            {
+              "title": "History of the United States Army - Wikipedia",
+              "link": "https://en.wikipedia.org/wiki/History_of_the_United_States_Army#:~:text=A%20combined%20conscript%20and%20volunteer,allied%202003%20invasion%20of%20Iraq.",
+              "snippet": "A combined conscript and volunteer force, the National Army, was formed by the United States War Department in 1917 to fight in Wo...",
+              "source": "Wikipedia",
+              "index": 8
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military&sca_esv=c510ba4e6526f391&ei=QSI6atPCL7WymtkP49Ww0AM&start=10&sa=N&sstk=AU9db-Al3J2ovrPxuZhyXV79gZ7Vt0KtiCITc-YkVYrBcwwcXaVtOTEPW9g1wo7Q38Wz3cGg-iaiWu26gJjlhcQDp6Jrrwi0fxLucA&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQ8NMDegQIKRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military&sca_esv=c510ba4e6526f391&ei=QSI6atPCL7WymtkP49Ww0AM&start=10&sa=N&sstk=AU9db-Al3J2ovrPxuZhyXV79gZ7Vt0KtiCITc-YkVYrBcwwcXaVtOTEPW9g1wo7Q38Wz3cGg-iaiWu26gJjlhcQDp6Jrrwi0fxLucA&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQ8tMDegQIKRAE",
+      "3": "https://www.google.com/search?q=military&sca_esv=c510ba4e6526f391&ei=QSI6atPCL7WymtkP49Ww0AM&start=20&sa=N&sstk=AU9db-Al3J2ovrPxuZhyXV79gZ7Vt0KtiCITc-YkVYrBcwwcXaVtOTEPW9g1wo7Q38Wz3cGg-iaiWu26gJjlhcQDp6Jrrwi0fxLucA&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQ8tMDegQIKRAG",
+      "4": "https://www.google.com/search?q=military&sca_esv=c510ba4e6526f391&ei=QSI6atPCL7WymtkP49Ww0AM&start=30&sa=N&sstk=AU9db-Al3J2ovrPxuZhyXV79gZ7Vt0KtiCITc-YkVYrBcwwcXaVtOTEPW9g1wo7Q38Wz3cGg-iaiWu26gJjlhcQDp6Jrrwi0fxLucA&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQ8tMDegQIKRAI",
+      "5": "https://www.google.com/search?q=military&sca_esv=c510ba4e6526f391&ei=QSI6atPCL7WymtkP49Ww0AM&start=40&sa=N&sstk=AU9db-Al3J2ovrPxuZhyXV79gZ7Vt0KtiCITc-YkVYrBcwwcXaVtOTEPW9g1wo7Q38Wz3cGg-iaiWu26gJjlhcQDp6Jrrwi0fxLucA&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQ8tMDegQIKRAK",
+      "6": "https://www.google.com/search?q=military&sca_esv=c510ba4e6526f391&ei=QSI6atPCL7WymtkP49Ww0AM&start=50&sa=N&sstk=AU9db-Al3J2ovrPxuZhyXV79gZ7Vt0KtiCITc-YkVYrBcwwcXaVtOTEPW9g1wo7Q38Wz3cGg-iaiWu26gJjlhcQDp6Jrrwi0fxLucA&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQ8tMDegQIKRAM",
+      "7": "https://www.google.com/search?q=military&sca_esv=c510ba4e6526f391&ei=QSI6atPCL7WymtkP49Ww0AM&start=60&sa=N&sstk=AU9db-Al3J2ovrPxuZhyXV79gZ7Vt0KtiCITc-YkVYrBcwwcXaVtOTEPW9g1wo7Q38Wz3cGg-iaiWu26gJjlhcQDp6Jrrwi0fxLucA&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQ8tMDegQIKRAO",
+      "8": "https://www.google.com/search?q=military&sca_esv=c510ba4e6526f391&ei=QSI6atPCL7WymtkP49Ww0AM&start=70&sa=N&sstk=AU9db-Al3J2ovrPxuZhyXV79gZ7Vt0KtiCITc-YkVYrBcwwcXaVtOTEPW9g1wo7Q38Wz3cGg-iaiWu26gJjlhcQDp6Jrrwi0fxLucA&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQ8tMDegQIKRAQ",
+      "9": "https://www.google.com/search?q=military&sca_esv=c510ba4e6526f391&ei=QSI6atPCL7WymtkP49Ww0AM&start=80&sa=N&sstk=AU9db-Al3J2ovrPxuZhyXV79gZ7Vt0KtiCITc-YkVYrBcwwcXaVtOTEPW9g1wo7Q38Wz3cGg-iaiWu26gJjlhcQDp6Jrrwi0fxLucA&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQ8tMDegQIKRAS",
+      "10": "https://www.google.com/search?q=military&sca_esv=c510ba4e6526f391&ei=QSI6atPCL7WymtkP49Ww0AM&start=90&sa=N&sstk=AU9db-Al3J2ovrPxuZhyXV79gZ7Vt0KtiCITc-YkVYrBcwwcXaVtOTEPW9g1wo7Q38Wz3cGg-iaiWu26gJjlhcQDp6Jrrwi0fxLucA&ved=2ahUKEwiT5-Dp2JyVAxU1mSYFHeMqDDoQ8tMDegQIKRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military&start=90"
+    }
+  }
+}

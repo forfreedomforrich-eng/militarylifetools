@@ -1,0 +1,472 @@
+{
+  "search_metadata": {
+    "id": "6a3a190bc2bb9925b0bd24d5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Oy-3UAG8kuJno7QsNCojAQ/6a3a190bc2bb9925b0bd24d5.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Oy-3UAG8kuJno7QsNCojAQ/6a3a190bc2bb9925b0bd24d5.json_with_pixel_position",
+    "created_at": "2026-06-23 05:26:35 UTC",
+    "processed_at": "2026-06-23 05:26:35 UTC",
+    "google_url": "https://www.google.com/search?q=shipping+cost+calculator+USPS+ups+fedex&oq=shipping+cost+calculator+USPS+ups+fedex&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Oy-3UAG8kuJno7QsNCojAQ/6a3a190bc2bb9925b0bd24d5.html",
+    "total_time_taken": 0.74
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "shipping cost calculator USPS ups fedex",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "shipping cost calculator USPS ups fedex",
+    "total_results": 99,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Who is cheaper to ship with UPS or USPS or FedEx?",
+      "type": "ai_overview",
+      "page_token": "GVzvsnicHdBNbqMwAEBh9TJdNsG0qRIpGpWCIVYgxWA7eFMRm58UY9yGBurdXGHOMKfqaaaaEzx97_dfddbd982fdhzNZbNYTNN01wxDo6o7MfSL8vKlxUKUSp1K0W1WjyvnVy22wVV4zx_CS4kx1MfLDDw4jKg-jtAxh08j6Zc2X45B5lOSWWyEMrtS71xMoOUa3SeMvghoiIi8FxpSE4cT4H1nCYVdTpI5CeY2fpOD0MYWgMMTWxdFh58TGk-Ueh4L2q-qk5dTvzYZQFdi4cg1XVXH9lOApMTBOs5-evnZSSrW3HMXce7TGjuNU4LZlgGqT4z7hwC1uBcuVbBloUQ0Slax4tc8hJ-58oa05zthpZURt3sGMXbiKWilX4UXUBzR-57INtZqllGSHvz0xyAxn4dzSrAVb6onih4KZw3yHL1LSkam1ZCBdCws2sek1dSVJE1va3Hdurf_X29f637cmI-h-Qd91I7h",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GVzvsnicHdBNbqMwAEBh9TJdNsG0qRIpGpWCIVYgxWA7eFMRm58UY9yGBurdXGHOMKfqaaaaEzx97_dfddbd982fdhzNZbNYTNN01wxDo6o7MfSL8vKlxUKUSp1K0W1WjyvnVy22wVV4zx_CS4kx1MfLDDw4jKg-jtAxh08j6Zc2X45B5lOSWWyEMrtS71xMoOUa3SeMvghoiIi8FxpSE4cT4H1nCYVdTpI5CeY2fpOD0MYWgMMTWxdFh58TGk-Ueh4L2q-qk5dTvzYZQFdi4cg1XVXH9lOApMTBOs5-evnZSSrW3HMXce7TGjuNU4LZlgGqT4z7hwC1uBcuVbBloUQ0Slax4tc8hJ-58oa05zthpZURt3sGMXbiKWilX4UXUBzR-57INtZqllGSHvz0xyAxn4dzSrAVb6onih4KZw3yHL1LSkam1ZCBdCws2sek1dSVJE1va3Hdurf_X29f637cmI-h-Qd91I7h",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0yZFZiWGhETVhKNVZIRnFTM0EwTXpObFZrNXlWbmxxYjBJNFdVZDJNSHBKWDJOelRISm5iM1YxWldoTGRGVXlVemREU0d0MWMwWndjMnRWUms5R2JYWjZRamRNWkV4RVkwdEVlVVJ1UTA0MGJVRkVhRk5JTW01Q2R4SVhRM2hyTm1GeWFpMUhZVEo1Y1hSelVEZzBObVpuVVdjYUlrRkVjM0k1WmxKdGVqUllVVzVtTm10S0xWSjFhV293VW5RM2FsOXRWRTFVYUhjIiwiZmN2IjoiMyIsImVpIjoiQ3hrNmFyai1HYTJ5cXRzUDg0NmZnUWciLCJxYyI6IkNpZHphR2x3Y0dsdVp5QmpiM04wSUdOaGJHTjFiR0YwYjNJZ2RYTndjeUIxY0hNZ1ptVmtaWGdRQUgyVUN5Y18iLCJxdWVzdGlvbiI6IldobyBpcyBjaGVhcGVyIHRvIHNoaXAgd2l0aCBVUFMgb3IgVVNQUyBvciBGZWRFeD8iLCJsayI6ImM1TXlLTV9JVjhnc1Zrak9TRTBzU0MxU0tNbFhLTTdJTEZBb3p5ekpVQ2d0S0ZiSUwxSW9MWWJRYWFrcHFSVUEiLCJicyI6ImM1V1FNUS1DTUJTRTQ5ckowVEM5WFVEc0gyQlJFemNUUWh5MXdMTnROTGFoSmFBX3hOOHJCV0p3VU9OMHc3dnY3dklJSjh1OVVDQU41QUtaeGhLc0FpT2tobHBhQWVrdUFWVkNtdlM2d1dMZHhKUjZVZjBGcXJSeDVzcjBlc0lDRzhKSXVEVWc3UnVDMXdJWTBBZ3VHV1NxR2RmRmRPRUY4aWN4NmlKSDRxOFVtaTZGdGI1dWJVdXpraU5rTjZoUmNtR2QzY2c3eHJQSGxBYmV2SENJaTNGSXRfVWpRZzRrR0w1bEJRNjdqSDBOMHl3X000N3VXcXFLaTVpR25sX19BVXduVHciLCJpZCI6ImZjX0N4azZhcmotR2EyeXF0c1A4NDZmZ1FnXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0yZFZiWGhETVhKNVZIRnFTM0EwTXpObFZrNXlWbmxxYjBJNFdVZDJNSHBKWDJOelRISm5iM1YxWldoTGRGVXlVemREU0d0MWMwWndjMnRWUms5R2JYWjZRamRNWkV4RVkwdEVlVVJ1UTA0MGJVRkVhRk5JTW01Q2R4SVhRM2hyTm1GeWFpMUhZVEo1Y1hSelVEZzBObVpuVVdjYUlrRkVjM0k1WmxKdGVqUllVVzVtTm10S0xWSjFhV293VW5RM2FsOXRWRTFVYUhjIiwiZmN2IjoiMyIsImVpIjoiQ3hrNmFyai1HYTJ5cXRzUDg0NmZnUWciLCJxYyI6IkNpZHphR2x3Y0dsdVp5QmpiM04wSUdOaGJHTjFiR0YwYjNJZ2RYTndjeUIxY0hNZ1ptVmtaWGdRQUgyVUN5Y18iLCJxdWVzdGlvbiI6IldobyBpcyBjaGVhcGVyIHRvIHNoaXAgd2l0aCBVUFMgb3IgVVNQUyBvciBGZWRFeD8iLCJsayI6ImM1TXlLTV9JVjhnc1Zrak9TRTBzU0MxU0tNbFhLTTdJTEZBb3p5ekpVQ2d0S0ZiSUwxSW9MWWJRYWFrcHFSVUEiLCJicyI6ImM1V1FNUS1DTUJTRTQ5ckowVEM5WFVEc0gyQlJFemNUUWh5MXdMTnROTGFoSmFBX3hOOHJCV0p3VU9OMHc3dnY3dklJSjh1OVVDQU41QUtaeGhLc0FpT2tobHBhQWVrdUFWVkNtdlM2d1dMZHhKUjZVZjBGcXJSeDVzcjBlc0lDRzhKSXVEVWc3UnVDMXdJWTBBZ3VHV1NxR2RmRmRPRUY4aWN4NmlKSDRxOFVtaTZGdGI1dWJVdXpraU5rTjZoUmNtR2QzY2c3eHJQSGxBYmV2SENJaTNGSXRfVWpRZzRrR0w1bEJRNjdqSDBOMHl3X000N3VXcXFLaTVpR25sX19BVXduVHciLCJpZCI6ImZjX0N4azZhcmotR2EyeXF0c1A4NDZmZ1FnXzQifQ%3D%3D"
+    },
+    {
+      "question": "Is it cheaper to send a 20 lb box UPS or USPS?",
+      "type": "ai_overview",
+      "page_token": "C17Y2nicHdBRbtowAIBh7TJ9LHEMbYeEqjFikog4s7Ed8Mvk2AkptpNQQgl92116qp6m1Q7w65P-fx_upbWfP96aYejP88nker3eH7ru4Kp73fmJOt9aPdHKuVJpO394fADPtV5El2T5-5QsCe97saLBlgmgkbhs_WgNwJZwGaiQtqXt_2THtK5QN6OtAcQlo7FmkyMcibAJ9twBxTk0VkRYNEUhaMrAr4GGcl1ygEskryxCKotmUIBoUM4ExU5PcSxq9d74ih2gdj9jHblcBChgsUzZcbnRYAn52oxCICxj1Jc-venCDsQ3mEO618Lk5NhsNyyZsoLDDDZTVTyFlcNJaXEbNWZVrc_hfpeeNtw0WetGE2OSr0govaFy7F4Ip-_66DyHKRKtDGQrTtKDInM03IUzmjN--yYv390rIXe1flvAu_8_F39rP8z71-7wBW6SgpQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=C17Y2nicHdBRbtowAIBh7TJ9LHEMbYeEqjFikog4s7Ed8Mvk2AkptpNQQgl92116qp6m1Q7w65P-fx_upbWfP96aYejP88nker3eH7ru4Kp73fmJOt9aPdHKuVJpO394fADPtV5El2T5-5QsCe97saLBlgmgkbhs_WgNwJZwGaiQtqXt_2THtK5QN6OtAcQlo7FmkyMcibAJ9twBxTk0VkRYNEUhaMrAr4GGcl1ygEskryxCKotmUIBoUM4ExU5PcSxq9d74ih2gdj9jHblcBChgsUzZcbnRYAn52oxCICxj1Jc-venCDsQ3mEO618Lk5NhsNyyZsoLDDDZTVTyFlcNJaXEbNWZVrc_hfpeeNtw0WetGE2OSr0govaFy7F4Ip-_66DyHKRKtDGQrTtKDInM03IUzmjN--yYv390rIXe1flvAu_8_F39rP8z71-7wBW6SgpQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0yZFZiWGhETVhKNVZIRnFTM0EwTXpObFZrNXlWbmxxYjBJNFdVZDJNSHBKWDJOelRISm5iM1YxWldoTGRGVXlVemREU0d0MWMwWndjMnRWUms5R2JYWjZRamRNWkV4RVkwdEVlVVJ1UTA0MGJVRkVhRk5JTW01Q2R4SVhRM2hyTm1GeWFpMUhZVEo1Y1hSelVEZzBObVpuVVdjYUlrRkVjM0k1WmxKdGVqUllVVzVtTm10S0xWSjFhV293VW5RM2FsOXRWRTFVYUhjIiwiZmN2IjoiMyIsImVpIjoiQ3hrNmFyai1HYTJ5cXRzUDg0NmZnUWciLCJxYyI6IkNpZHphR2x3Y0dsdVp5QmpiM04wSUdOaGJHTjFiR0YwYjNJZ2RYTndjeUIxY0hNZ1ptVmtaWGdRQUgyVUN5Y18iLCJxdWVzdGlvbiI6IklzIGl0IGNoZWFwZXIgdG8gc2VuZCBhIDIwIGxiIGJveCBVUFMgb3IgVVNQUz8iLCJsayI6IkdpMXBjeUJwZENCamFHVmhjR1Z5SUhSdklITmxibVFnWVNBeU1DQnNZaUJpYjNnZ2RYQnpJRzl5SUhWemNITSIsImJzIjoiYzVXUU1RLUNNQlNFNDlySjBUQzlYVURzSDJCUkV6Y1RRaHkxd0xOdE5MYWhKYUFfeE44ckJXSndVT04wdzd2djd2SUlKOHU5VUNBTjVBS1p4aEtzQWlPa2hscGFBZWt1QVZWQ212UzZ3V0xkeEpSNlVmMEZxclJ4NXNyMGVzSUNHOEpJdURVZzdSdUMxd0lZMEFndUdXU3FHZGZGZE9FRjhpY3g2aUpINHE4VW1pNkZ0YjV1YlV1emtpTmtONmhSY21HZDNjZzd4clBIbEFiZXZIQ0lpM0ZJdF9ValFnNGtHTDVsQlE2N2pIME4weXdfTTQ3dVdxcUtpNWlHbmxfX0FVd25UdyIsImlkIjoiZmNfQ3hrNmFyai1HYTJ5cXRzUDg0NmZnUWdfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0yZFZiWGhETVhKNVZIRnFTM0EwTXpObFZrNXlWbmxxYjBJNFdVZDJNSHBKWDJOelRISm5iM1YxWldoTGRGVXlVemREU0d0MWMwWndjMnRWUms5R2JYWjZRamRNWkV4RVkwdEVlVVJ1UTA0MGJVRkVhRk5JTW01Q2R4SVhRM2hyTm1GeWFpMUhZVEo1Y1hSelVEZzBObVpuVVdjYUlrRkVjM0k1WmxKdGVqUllVVzVtTm10S0xWSjFhV293VW5RM2FsOXRWRTFVYUhjIiwiZmN2IjoiMyIsImVpIjoiQ3hrNmFyai1HYTJ5cXRzUDg0NmZnUWciLCJxYyI6IkNpZHphR2x3Y0dsdVp5QmpiM04wSUdOaGJHTjFiR0YwYjNJZ2RYTndjeUIxY0hNZ1ptVmtaWGdRQUgyVUN5Y18iLCJxdWVzdGlvbiI6IklzIGl0IGNoZWFwZXIgdG8gc2VuZCBhIDIwIGxiIGJveCBVUFMgb3IgVVNQUz8iLCJsayI6IkdpMXBjeUJwZENCamFHVmhjR1Z5SUhSdklITmxibVFnWVNBeU1DQnNZaUJpYjNnZ2RYQnpJRzl5SUhWemNITSIsImJzIjoiYzVXUU1RLUNNQlNFNDlySjBUQzlYVURzSDJCUkV6Y1RRaHkxd0xOdE5MYWhKYUFfeE44ckJXSndVT04wdzd2djd2SUlKOHU5VUNBTjVBS1p4aEtzQWlPa2hscGFBZWt1QVZWQ212UzZ3V0xkeEpSNlVmMEZxclJ4NXNyMGVzSUNHOEpJdURVZzdSdUMxd0lZMEFndUdXU3FHZGZGZE9FRjhpY3g2aUpINHE4VW1pNkZ0YjV1YlV1emtpTmtONmhSY21HZDNjZzd4clBIbEFiZXZIQ0lpM0ZJdF9ValFnNGtHTDVsQlE2N2pIME4weXdfTTQ3dVdxcUtpNWlHbmxfX0FVd25UdyIsImlkIjoiZmNfQ3hrNmFyai1HYTJ5cXRzUDg0NmZnUWdfNCJ9"
+    },
+    {
+      "question": "Does UPS and FedEx charge by weight or size?",
+      "type": "featured_snippet",
+      "snippet": "Your shipping price is based on either the dimensional weight (dim weight) or actual package weight—whichever is greater. (Dim weight reﬂects a package's density—that is, the amount of space a package occupies in relation to its actual weight.)",
+      "title": "How to Estimate Shipping Costs with FedEx",
+      "link": "https://www.fedex.com/en-us/shipping/how-to-estimate-shipping-cost.html#:~:text=Your%20shipping%20price%20is%20based,relation%20to%20its%20actual%20weight.)",
+      "displayed_link": "https://www.fedex.com › en-us › how-to-estimate-shipp...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0yZFZiWGhETVhKNVZIRnFTM0EwTXpObFZrNXlWbmxxYjBJNFdVZDJNSHBKWDJOelRISm5iM1YxWldoTGRGVXlVemREU0d0MWMwWndjMnRWUms5R2JYWjZRamRNWkV4RVkwdEVlVVJ1UTA0MGJVRkVhRk5JTW01Q2R4SVhRM2hyTm1GeWFpMUhZVEo1Y1hSelVEZzBObVpuVVdjYUlrRkVjM0k1WmxKdGVqUllVVzVtTm10S0xWSjFhV293VW5RM2FsOXRWRTFVYUhjIiwiZmN2IjoiMyIsImVpIjoiQ3hrNmFyai1HYTJ5cXRzUDg0NmZnUWciLCJxYyI6IkNpZHphR2x3Y0dsdVp5QmpiM04wSUdOaGJHTjFiR0YwYjNJZ2RYTndjeUIxY0hNZ1ptVmtaWGdRQUgyVUN5Y18iLCJxdWVzdGlvbiI6IkRvZXMgVVBTIGFuZCBGZWRFeCBjaGFyZ2UgYnkgd2VpZ2h0IG9yIHNpemU/IiwibGsiOiJHaXRrYjJWeklIVndjeUJoYm1RZ1ptVmtaWGdnWTJoaGNtZGxJR0o1SUhkbGFXZG9kQ0J2Y2lCemFYcGwiLCJicyI6ImM1V1FNUS1DTUJTRTQ5ckowVEM5WFVEc0gyQlJFemNUUWh5MXdMTnROTGFoSmFBX3hOOHJCV0p3VU9OMHc3dnY3dklJSjh1OVVDQU41QUtaeGhLc0FpT2tobHBhQWVrdUFWVkNtdlM2d1dMZHhKUjZVZjBGcXJSeDVzcjBlc0lDRzhKSXVEVWc3UnVDMXdJWTBBZ3VHV1NxR2RmRmRPRUY4aWN4NmlKSDRxOFVtaTZGdGI1dWJVdXpraU5rTjZoUmNtR2QzY2c3eHJQSGxBYmV2SENJaTNGSXRfVWpRZzRrR0w1bEJRNjdqSDBOMHl3X000N3VXcXFLaTVpR25sX19BVXduVHciLCJpZCI6ImZjX0N4azZhcmotR2EyeXF0c1A4NDZmZ1FnXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0yZFZiWGhETVhKNVZIRnFTM0EwTXpObFZrNXlWbmxxYjBJNFdVZDJNSHBKWDJOelRISm5iM1YxWldoTGRGVXlVemREU0d0MWMwWndjMnRWUms5R2JYWjZRamRNWkV4RVkwdEVlVVJ1UTA0MGJVRkVhRk5JTW01Q2R4SVhRM2hyTm1GeWFpMUhZVEo1Y1hSelVEZzBObVpuVVdjYUlrRkVjM0k1WmxKdGVqUllVVzVtTm10S0xWSjFhV293VW5RM2FsOXRWRTFVYUhjIiwiZmN2IjoiMyIsImVpIjoiQ3hrNmFyai1HYTJ5cXRzUDg0NmZnUWciLCJxYyI6IkNpZHphR2x3Y0dsdVp5QmpiM04wSUdOaGJHTjFiR0YwYjNJZ2RYTndjeUIxY0hNZ1ptVmtaWGdRQUgyVUN5Y18iLCJxdWVzdGlvbiI6IkRvZXMgVVBTIGFuZCBGZWRFeCBjaGFyZ2UgYnkgd2VpZ2h0IG9yIHNpemU%2FIiwibGsiOiJHaXRrYjJWeklIVndjeUJoYm1RZ1ptVmtaWGdnWTJoaGNtZGxJR0o1SUhkbGFXZG9kQ0J2Y2lCemFYcGwiLCJicyI6ImM1V1FNUS1DTUJTRTQ5ckowVEM5WFVEc0gyQlJFemNUUWh5MXdMTnROTGFoSmFBX3hOOHJCV0p3VU9OMHc3dnY3dklJSjh1OVVDQU41QUtaeGhLc0FpT2tobHBhQWVrdUFWVkNtdlM2d1dMZHhKUjZVZjBGcXJSeDVzcjBlc0lDRzhKSXVEVWc3UnVDMXdJWTBBZ3VHV1NxR2RmRmRPRUY4aWN4NmlKSDRxOFVtaTZGdGI1dWJVdXpraU5rTjZoUmNtR2QzY2c3eHJQSGxBYmV2SENJaTNGSXRfVWpRZzRrR0w1bEJRNjdqSDBOMHl3X000N3VXcXFLaTVpR25sX19BVXduVHciLCJpZCI6ImZjX0N4azZhcmotR2EyeXF0c1A4NDZmZ1FnXzQifQ%3D%3D"
+    },
+    {
+      "question": "Who is the cheapest to send packages through?",
+      "type": "ai_overview",
+      "page_token": "XnN_tnicHdBfboIwHADg7DJ7VApjy0zMEuSPM4Jr9VegLwu0KEopVZgIb7vLTrXTzOwEX_J9_8ijqn4frmXX6XY2nfZ9Pzk0zUEWE97U06wdFJ_yTMo849Xs-eUZve353Pt6dxbndweD1tQlxhbRDQNscdfRXDl2Fqyy3EytaEfUdvQrYkYfOym8NCl7YXFD1Ahoop3M9HV-ik4sgIFS3yMuH8myZEUiMSDRhkY6RpRVhZKmiJlP3NUZajxugKCcAsKjN3DEzaISWS59FS9DAyfek7DYJY9LDUrYkanXYVKOIF8XO0v7d4-CRT0IBEqN9olbNA6hseOg28QVqSMZKa8UbhG0ZpqszmsQZajkTSwjvHGxyWpB2K05YiAjP8kagMW50dlA9RGQdABu69CzJaNiCA15je8O6x_3_Dq3Hv8_55_7upvpS3P4Aw95g7A",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XnN_tnicHdBfboIwHADg7DJ7VApjy0zMEuSPM4Jr9VegLwu0KEopVZgIb7vLTrXTzOwEX_J9_8ijqn4frmXX6XY2nfZ9Pzk0zUEWE97U06wdFJ_yTMo849Xs-eUZve353Pt6dxbndweD1tQlxhbRDQNscdfRXDl2Fqyy3EytaEfUdvQrYkYfOym8NCl7YXFD1Ahoop3M9HV-ik4sgIFS3yMuH8myZEUiMSDRhkY6RpRVhZKmiJlP3NUZajxugKCcAsKjN3DEzaISWS59FS9DAyfek7DYJY9LDUrYkanXYVKOIF8XO0v7d4-CRT0IBEqN9olbNA6hseOg28QVqSMZKa8UbhG0ZpqszmsQZajkTSwjvHGxyWpB2K05YiAjP8kagMW50dlA9RGQdABu69CzJaNiCA15je8O6x_3_Dq3Hv8_55_7upvpS3P4Aw95g7A",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0yZFZiWGhETVhKNVZIRnFTM0EwTXpObFZrNXlWbmxxYjBJNFdVZDJNSHBKWDJOelRISm5iM1YxWldoTGRGVXlVemREU0d0MWMwWndjMnRWUms5R2JYWjZRamRNWkV4RVkwdEVlVVJ1UTA0MGJVRkVhRk5JTW01Q2R4SVhRM2hyTm1GeWFpMUhZVEo1Y1hSelVEZzBObVpuVVdjYUlrRkVjM0k1WmxKdGVqUllVVzVtTm10S0xWSjFhV293VW5RM2FsOXRWRTFVYUhjIiwiZmN2IjoiMyIsImVpIjoiQ3hrNmFyai1HYTJ5cXRzUDg0NmZnUWciLCJxYyI6IkNpZHphR2x3Y0dsdVp5QmpiM04wSUdOaGJHTjFiR0YwYjNJZ2RYTndjeUIxY0hNZ1ptVmtaWGdRQUgyVUN5Y18iLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgY2hlYXBlc3QgdG8gc2VuZCBwYWNrYWdlcyB0aHJvdWdoPyIsImxrIjoiR2l4M2FHOGdhWE1nZEdobElHTm9aV0Z3WlhOMElIUnZJSE5sYm1RZ2NHRmphMkZuWlhNZ2RHaHliM1ZuYUEiLCJicyI6ImM1V1FNUS1DTUJTRTQ5ckowVEM5WFVEc0gyQlJFemNUUWh5MXdMTnROTGFoSmFBX3hOOHJCV0p3VU9OMHc3dnY3dklJSjh1OVVDQU41QUtaeGhLc0FpT2tobHBhQWVrdUFWVkNtdlM2d1dMZHhKUjZVZjBGcXJSeDVzcjBlc0lDRzhKSXVEVWc3UnVDMXdJWTBBZ3VHV1NxR2RmRmRPRUY4aWN4NmlKSDRxOFVtaTZGdGI1dWJVdXpraU5rTjZoUmNtR2QzY2c3eHJQSGxBYmV2SENJaTNGSXRfVWpRZzRrR0w1bEJRNjdqSDBOMHl3X000N3VXcXFLaTVpR25sX19BVXduVHciLCJpZCI6ImZjX0N4azZhcmotR2EyeXF0c1A4NDZmZ1FnXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE0yZFZiWGhETVhKNVZIRnFTM0EwTXpObFZrNXlWbmxxYjBJNFdVZDJNSHBKWDJOelRISm5iM1YxWldoTGRGVXlVemREU0d0MWMwWndjMnRWUms5R2JYWjZRamRNWkV4RVkwdEVlVVJ1UTA0MGJVRkVhRk5JTW01Q2R4SVhRM2hyTm1GeWFpMUhZVEo1Y1hSelVEZzBObVpuVVdjYUlrRkVjM0k1WmxKdGVqUllVVzVtTm10S0xWSjFhV293VW5RM2FsOXRWRTFVYUhjIiwiZmN2IjoiMyIsImVpIjoiQ3hrNmFyai1HYTJ5cXRzUDg0NmZnUWciLCJxYyI6IkNpZHphR2x3Y0dsdVp5QmpiM04wSUdOaGJHTjFiR0YwYjNJZ2RYTndjeUIxY0hNZ1ptVmtaWGdRQUgyVUN5Y18iLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgY2hlYXBlc3QgdG8gc2VuZCBwYWNrYWdlcyB0aHJvdWdoPyIsImxrIjoiR2l4M2FHOGdhWE1nZEdobElHTm9aV0Z3WlhOMElIUnZJSE5sYm1RZ2NHRmphMkZuWlhNZ2RHaHliM1ZuYUEiLCJicyI6ImM1V1FNUS1DTUJTRTQ5ckowVEM5WFVEc0gyQlJFemNUUWh5MXdMTnROTGFoSmFBX3hOOHJCV0p3VU9OMHc3dnY3dklJSjh1OVVDQU41QUtaeGhLc0FpT2tobHBhQWVrdUFWVkNtdlM2d1dMZHhKUjZVZjBGcXJSeDVzcjBlc0lDRzhKSXVEVWc3UnVDMXdJWTBBZ3VHV1NxR2RmRmRPRUY4aWN4NmlKSDRxOFVtaTZGdGI1dWJVdXpraU5rTjZoUmNtR2QzY2c3eHJQSGxBYmV2SENJaTNGSXRfVWpRZzRrR0w1bEJRNjdqSDBOMHl3X000N3VXcXFLaTVpR25sX19BVXduVHciLCJpZCI6ImZjX0N4azZhcmotR2EyeXF0c1A4NDZmZ1FnXzQifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Shipping Cost Calculator | UPS - United States",
+      "link": "https://www.ups.com/us/en/shipping/quote",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ups.com/us/en/shipping/quote&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQFnoECA8QAQ",
+      "displayed_link": "https://www.ups.com › shipping › quote",
+      "favicon": "https://serpapi.com/searches/6a3a190bc2bb9925b0bd24d5/images/j1EMFVfF_eZg7oC219m1j8bo1QfF_531Hvg-gQOerMA.png",
+      "snippet": "Our cost calculator makes it easy to estimate your shipping costs. Simply enter your origin, destination, and package weight for a quick shipping quote.",
+      "snippet_highlighted_words": [
+        "easy to estimate your shipping costs"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Our cost calculator makes it easy to estimate your shipping costs. Simply enter your origin, destination, and package weight for a quick shipping quote.",
+          "source_info_link": "https://www.ups.com/us/en/shipping/quote",
+          "icon": "https://serpapi.com/searches/6a3a190bc2bb9925b0bd24d5/images/j1EMFVfF_eZg7oC219m1j98MiL7Q84aNyjQ9MTWerNwj3sIDC73VyKim5lpsbjSx.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ups.com/us/en/shipping/quote&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ups.com%2Fus%2Fen%2Fshipping%2Fquote",
+      "source": "UPS"
+    },
+    {
+      "position": 2,
+      "title": "Shipping Calculator | Compare shipping rates at Parcel Monkey",
+      "link": "https://www.parcelmonkey.com/shipping-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.parcelmonkey.com/shipping-calculator&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQFnoECBAQAQ",
+      "displayed_link": "https://www.parcelmonkey.com › shipping-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAApVBMVEVMGmRMGWRMGmNMGWNNGmRNGmNNGWRLFmRNGWNQH2JfNlhmQFRZLlx0U0pLFWRdM1p2VUlxT0xjPVVHEGJcNFN7VF-3jnTGn3yTb1uNaVrHoX6ifGeIYV-8lnTbroi-lXdSImCPd17jtYxiV0ZqSkVQI1ZUTT-pi23pupGRbVy4mHeEcFmcgmbsvJLqu5GNaVnwwJSVbmdrSE52ZVEzNy-rhGlnQ1JzOECTAAAB0UlEQVR4AVWSh3ajMBBFZ9Td5G45SpAJJcjJQpT6_5-2I3nrnXbgMagCgZhTKQx4NsaBcQYg_kP-DXJApVABJUFVqP-A_9AI_yELRhqj9Gw-U0ab368kGMmkYVJyOV8s5ytKmksjVJaBMUZBcLvebLeb1WaHyPK8CaXKNHBvD9tVYbPQijoVdaLCDD-e3PnOeXdP6lyrDEIB7YOvqkBRhQs113j77-2buvKV995RCufVarHHsk5OGL107jGEpmqb0Fy61d1DjdxwYJl975r26WkILjbx1F3D88Oe0zLy8u36EpuXdvgRxzhNr50Lz9e9EQZAANYuTWPjU5qI5tpdfPO2Ryinsj-mKY4-xBizGs-b4JZaKEEi7u-pZXTNRDmnsNrW1hipgMksjmOqUkrRD4G-2Lzr2zqlVPadBgyDHz7aoYlTbDYHW44cKPTylFz7-fn5EtKYB9jO8CYyyVAvLikOj56USP661oyzss5yJosvmgcJNHZzPth-aYxSBko_6uX2y5PahK9tr3FWoyDhdmQcta4P3-_v77tea8458gyYXyBaazW5KYicaEJAUe4KR2CCFgcoGQhaZHlkjAlGQ5ADrQ0ByDNGmYwqhZL87RQ_ASRSLQBJXG2fAAAAAElFTkSuQmCC.png",
+      "snippet": "Compare shipping quotes with our free shipping cost calculator! Parcel Monkey compares shipping rates from DHL, UPS, USPS & more to find the best price.",
+      "snippet_highlighted_words": [
+        "free shipping cost calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Compare shipping quotes with our free shipping cost calculator! Parcel Monkey compares shipping rates from DHL, UPS, USPS & more to find the best price.",
+          "source_info_link": "https://www.parcelmonkey.com/shipping-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAApVBMVEVMGmRMGWRMGmNMGWNNGmRNGmNNGWRLFmRNGWNQH2JfNlhmQFRZLlx0U0pLFWRdM1p2VUlxT0xjPVVHEGJcNFN7VF-3jnTGn3yTb1uNaVrHoX6ifGeIYV-8lnTbroi-lXdSImCPd17jtYxiV0ZqSkVQI1ZUTT-pi23pupGRbVy4mHeEcFmcgmbsvJLqu5GNaVnwwJSVbmdrSE52ZVEzNy-rhGlnQ1JzOECTAAAB0UlEQVR4AVWSh3ajMBBFZ9Td5G45SpAJJcjJQpT6_5-2I3nrnXbgMagCgZhTKQx4NsaBcQYg_kP-DXJApVABJUFVqP-A_9AI_yELRhqj9Gw-U0ab368kGMmkYVJyOV8s5ytKmksjVJaBMUZBcLvebLeb1WaHyPK8CaXKNHBvD9tVYbPQijoVdaLCDD-e3PnOeXdP6lyrDEIB7YOvqkBRhQs113j77-2buvKV995RCufVarHHsk5OGL107jGEpmqb0Fy61d1DjdxwYJl975r26WkILjbx1F3D88Oe0zLy8u36EpuXdvgRxzhNr50Lz9e9EQZAANYuTWPjU5qI5tpdfPO2Ryinsj-mKY4-xBizGs-b4JZaKEEi7u-pZXTNRDmnsNrW1hipgMksjmOqUkrRD4G-2Lzr2zqlVPadBgyDHz7aoYlTbDYHW44cKPTylFz7-fn5EtKYB9jO8CYyyVAvLikOj56USP661oyzss5yJosvmgcJNHZzPth-aYxSBko_6uX2y5PahK9tr3FWoyDhdmQcta4P3-_v77tea8458gyYXyBaazW5KYicaEJAUe4KR2CCFgcoGQhaZHlkjAlGQ5ADrQ0ByDNGmYwqhZL87RQ_ASRSLQBJXG2fAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.parcelmonkey.com/shipping-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.parcelmonkey.com%2Fshipping-calculator",
+      "source": "parcelmonkey.com"
+    },
+    {
+      "position": 3,
+      "title": "Calculate Shipping Rates",
+      "link": "https://www.fedex.com/en-us/online/rating.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fedex.com/en-us/online/rating.html&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQFnoECBcQAQ",
+      "displayed_link": "https://www.fedex.com › en-us › online › rating",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAACFElEQVR4Ae2UA6xcQRiFp7atoI5q27Zt27Zt27Zt27bdhnVP-_X1zjOC-m5ysjv8fpxZU7hNiV-qvwDoAl1gudjDovtUyZgjQgRy0J5TA-NbUmR_gSVijJBPfQPmCAzIvj6pu0itjNQ0rNTQeKiqEZ9AgeUTjbldJOLwOeUSjl5uTNOEQQH2Tt3VE9gkzAE1MvNVySyUNDVAYLkEo9Wh8KJZzqSk2qd23um_ctzxvnxLKvrl8ZXMj2-9GbBz0cX-9y686pTfDPUEdk4iTStfwBcgIGC1lBO-Zwh4zsC9H3vVWKbWReZocNPVOrTlyt3Ht1-fmz9inzqXWyTmvAFbx5GaR_HIsEPcBRpeeIFqmQVa0n6Bbh9ZbsebBq21JeUCBLxoxBHi4uM7bqpBuuni97h2W-z8oHprvAPpXd0f_WN87QBjj8wnVCEgWwWb4dRuOwBwGRcTBFnbQJhj3LfqyvyUhrEFoh2TBAjhUsZOIKw788a5mFLSO8oGADBBUF6yYw_Z-gkk-o5hqlkPAHx4lTWAZGl77A3IxOgWm-YxBvLo3ksRAGB6SiAEsH3JWVtSn88CYTD1S888wVjo0xOnixnnKXQqvrgZwEuHH9Yb323zO3rVLM9soWn9tt_dveLiOcyCkVjjXO_UXRZgEsziyDEHzwOzYBz2MMZAfloXKPbnWSAiI2rnqbD25_6XukAX6AJd4FfpM0kS0DIoWAAAAABJRU5ErkJggg.png",
+      "snippet": "Use the FedEx Shipping Calculator for estimated shipping costs based on details, such as shipment origin, destination, date, packaging, and weight.",
+      "snippet_highlighted_words": [
+        "Use the FedEx Shipping Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use the FedEx Shipping Calculator for estimated shipping costs based on details, such as shipment origin, destination, date, packaging, and weight.",
+          "source_info_link": "https://www.fedex.com/en-us/online/rating.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAACFElEQVR4Ae2UA6xcQRiFp7atoI5q27Zt27Zt27Zt27bdhnVP-_X1zjOC-m5ysjv8fpxZU7hNiV-qvwDoAl1gudjDovtUyZgjQgRy0J5TA-NbUmR_gSVijJBPfQPmCAzIvj6pu0itjNQ0rNTQeKiqEZ9AgeUTjbldJOLwOeUSjl5uTNOEQQH2Tt3VE9gkzAE1MvNVySyUNDVAYLkEo9Wh8KJZzqSk2qd23um_ctzxvnxLKvrl8ZXMj2-9GbBz0cX-9y686pTfDPUEdk4iTStfwBcgIGC1lBO-Zwh4zsC9H3vVWKbWReZocNPVOrTlyt3Ht1-fmz9inzqXWyTmvAFbx5GaR_HIsEPcBRpeeIFqmQVa0n6Bbh9ZbsebBq21JeUCBLxoxBHi4uM7bqpBuuni97h2W-z8oHprvAPpXd0f_WN87QBjj8wnVCEgWwWb4dRuOwBwGRcTBFnbQJhj3LfqyvyUhrEFoh2TBAjhUsZOIKw788a5mFLSO8oGADBBUF6yYw_Z-gkk-o5hqlkPAHx4lTWAZGl77A3IxOgWm-YxBvLo3ksRAGB6SiAEsH3JWVtSn88CYTD1S888wVjo0xOnixnnKXQqvrgZwEuHH9Yb323zO3rVLM9soWn9tt_dveLiOcyCkVjjXO_UXRZgEsziyDEHzwOzYBz2MMZAfloXKPbnWSAiI2rnqbD25_6XukAX6AJd4FfpM0kS0DIoWAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fedex.com/en-us/online/rating.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fedex.com%2Fen-us%2Fonline%2Frating.html",
+      "source": "FedEx"
+    },
+    {
+      "position": 4,
+      "title": "Shipping Rates Calculator: Compare & Estimate Costs",
+      "link": "https://www.shipstation.com/fulfillment/shipping/shipping-rates-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shipstation.com/fulfillment/shipping/shipping-rates-calculator/&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQFnoECBMQAQ",
+      "displayed_link": "https://www.shipstation.com › fulfillment › shipping-rat...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEURADoRADgSADcItVgC4WMRADkA62UA6GQPR0IOTUME1GAA5mQOTEMA72YA7mYGvFoJn1MQKj4D2GEOWUULlFEKmVIItFiQ2quHAAAAv0lEQVR4AWKgDgCUSlUJDsUgkJAM04SGV7__TXfr7uUH90mq6ZFPcylZ7yVBIEaaQHCZDuQRaqM72xijDJx7m_UIOumMCGtnLh3MN2Sl7IUhHZ2osbH0CTDpG3eMz-oinH2YqohOh06Pc18NzuaKrazzGaMevSqNttCjujA22aspG92W6bjy0py22ula6NdOZ9Hnzsdlc3o20MNVXh7h8fkqnh_-_GXx6GUCyfXw7LWQgScweQCwlT6E3xGav9I_jx4LGzrRsp4AAAAASUVORK5CYII.png",
+      "snippet": "Use our shipping calculator to compare shipping costs, get instant quotes, and find the lowest shipping rates for domestic and international packages.",
+      "snippet_highlighted_words": [
+        "Use our shipping calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our shipping calculator to compare shipping costs, get instant quotes, and find the lowest shipping rates for domestic and international packages.",
+          "source_info_link": "https://www.shipstation.com/fulfillment/shipping/shipping-rates-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEURADoRADgSADcItVgC4WMRADkA62UA6GQPR0IOTUME1GAA5mQOTEMA72YA7mYGvFoJn1MQKj4D2GEOWUULlFEKmVIItFiQ2quHAAAAv0lEQVR4AWKgDgCUSlUJDsUgkJAM04SGV7__TXfr7uUH90mq6ZFPcylZ7yVBIEaaQHCZDuQRaqM72xijDJx7m_UIOumMCGtnLh3MN2Sl7IUhHZ2osbH0CTDpG3eMz-oinH2YqohOh06Pc18NzuaKrazzGaMevSqNttCjujA22aspG92W6bjy0py22ula6NdOZ9Hnzsdlc3o20MNVXh7h8fkqnh_-_GXx6GUCyfXw7LWQgScweQCwlT6E3xGav9I_jx4LGzrRsp4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.shipstation.com/fulfillment/shipping/shipping-rates-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.shipstation.com%2Ffulfillment%2Fshipping%2Fshipping-rates-calculator%2F",
+      "source": "ShipStation"
+    },
+    {
+      "position": 5,
+      "title": "Retail Postage Price Calculator - USPS",
+      "link": "https://postcalc.usps.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://postcalc.usps.com/&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQFnoECA4QAQ",
+      "displayed_link": "https://postcalc.usps.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAflBMVEUee74cebvS5PGix-JyqtNCjcQcdrj____0-PzG3OyVvtxloc04grkbdLXj7vZHjcAbcrEmd7NUlMN9rtKsy-Jgm8cabKiVudVwpcu40OLe6PDr8fctdaweaKJLhrVckbwgZZ-Lr80hY5xZirUxb6IfYpqtxdkdX5caXpUYXJLZ87UeAAAAgUlEQVR4AWXIxQGAMBAAwUMvwd3d6b9A3JnfLvwwH8ByvCA-AC4IlWRF3YG2I6hxurEAwzCVjWWzDuca4Hk67lg_cENvGV60j5hS1t-Gj4jUDnyWRIkHaZpmxM_9GDHMl4BikYeIWpkUK6iqmiKGdXWAnGJUNu0FsKv7J2iGNxg_Zq1TE-PKFhqgAAAAAElFTkSuQmCC.png",
+      "snippet": "Domestic. Retail Calculator · Business Calculator · APO/FPO/DPO Restrictions · Zone Chart · Locate a Post Office · ZIP Code Lookup · Service Commitments.",
+      "snippet_highlighted_words": [
+        "Retail Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Domestic. Retail Calculator · Business Calculator · APO/FPO/DPO Restrictions · Zone Chart · Locate a Post Office · ZIP Code Lookup · Service Commitments.",
+          "source_info_link": "https://postcalc.usps.com/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAflBMVEUee74cebvS5PGix-JyqtNCjcQcdrj____0-PzG3OyVvtxloc04grkbdLXj7vZHjcAbcrEmd7NUlMN9rtKsy-Jgm8cabKiVudVwpcu40OLe6PDr8fctdaweaKJLhrVckbwgZZ-Lr80hY5xZirUxb6IfYpqtxdkdX5caXpUYXJLZ87UeAAAAgUlEQVR4AWXIxQGAMBAAwUMvwd3d6b9A3JnfLvwwH8ByvCA-AC4IlWRF3YG2I6hxurEAwzCVjWWzDuca4Hk67lg_cENvGV60j5hS1t-Gj4jUDnyWRIkHaZpmxM_9GDHMl4BikYeIWpkUK6iqmiKGdXWAnGJUNu0FsKv7J2iGNxg_Zq1TE-PKFhqgAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://postcalc.usps.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fpostcalc.usps.com%2F",
+      "source": "USPS",
+      "read_more_link": "https://postcalc.usps.com/#:~:text=Retail%20Calculator"
+    },
+    {
+      "position": 6,
+      "title": "Shipping Calculator | Compare Rates: USPS, UPS & FedEx",
+      "link": "https://goshippo.com/shipping-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://goshippo.com/shipping-calculator&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQFnoECBIQAQ",
+      "displayed_link": "https://goshippo.com › shipping-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEz________________________________5-frl5uba29z___-eoqUzP0YAAAG2uLoAAxSGi47IysxmbXFJU1gAEx8CHigOJC3v8PB9g4bfNdfjAAAADXRSTlMAFni-6_8mxpL____OC-SEHgAAAR5JREFUeAGN0tFyhSAMBNCqrl5ACBEV8f8_tAGrlXbmtvvgQ864jJiP_6Vpux7ou7b5RcOIO-NQ2wsSpY1WhV9PmwBYRznOZp0q88TWKChjmfxTpXMmiyvePJqHbAb6Vu1tAIaCI4IY3BJkqFRYiTeOZszWAFvuXJhlSMRxl0RKjWALT5DMm4xYHme2uRXssBxihsRWzJdG1wn2oABoLqOwxht7QShK5uBzyPGuPZAxUTmqTuSUsVe0_8xGa0Ku7bDHmiItGkBXPuWoS9kZIAFtuYRA1WsWUC4AzXl9Ln5bzI2LA8avi9d0IxkxTxoYrl_mL2VbzD-WYYKn87pXIC1i9Srolba4s_cLOV1ZboaZHRPtRz709X41_17qt_kELrwfMhysPCkAAAAASUVORK5CYII.png",
+      "snippet": "Get a shipping quote in seconds with Shippo's shipping cost calculator. Compare the best rates for USPS, UPS, FedEx, and others in real-time.",
+      "snippet_highlighted_words": [
+        "Get a shipping quote in seconds with Shippo's shipping cost calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Get a shipping quote in seconds with Shippo's shipping cost calculator. Compare the best rates for USPS, UPS, FedEx, and others in real-time.",
+          "source_info_link": "https://goshippo.com/shipping-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEz________________________________5-frl5uba29z___-eoqUzP0YAAAG2uLoAAxSGi47IysxmbXFJU1gAEx8CHigOJC3v8PB9g4bfNdfjAAAADXRSTlMAFni-6_8mxpL____OC-SEHgAAAR5JREFUeAGN0tFyhSAMBNCqrl5ACBEV8f8_tAGrlXbmtvvgQ864jJiP_6Vpux7ou7b5RcOIO-NQ2wsSpY1WhV9PmwBYRznOZp0q88TWKChjmfxTpXMmiyvePJqHbAb6Vu1tAIaCI4IY3BJkqFRYiTeOZszWAFvuXJhlSMRxl0RKjWALT5DMm4xYHme2uRXssBxihsRWzJdG1wn2oABoLqOwxht7QShK5uBzyPGuPZAxUTmqTuSUsVe0_8xGa0Ku7bDHmiItGkBXPuWoS9kZIAFtuYRA1WsWUC4AzXl9Ln5bzI2LA8avi9d0IxkxTxoYrl_mL2VbzD-WYYKn87pXIC1i9Srolba4s_cLOV1ZboaZHRPtRz709X41_17qt_kELrwfMhysPCkAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://goshippo.com/shipping-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fgoshippo.com%2Fshipping-calculator",
+      "source": "Shippo",
+      "read_more_link": "https://goshippo.com/shipping-calculator#:~:text=Get%20a%20shipping%20quote%20in,FedEx%2C%20and%20others%20in%20real%2Dtime."
+    },
+    {
+      "position": 7,
+      "title": "Shipping Rate Calculator",
+      "link": "https://www.easyship.com/shipping-rate-calculator/usa-to-usa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.easyship.com/shipping-rate-calculator/usa-to-usa&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQFnoECBEQAQ",
+      "displayed_link": "https://www.easyship.com › usa-to-usa",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEwaKjYaKjYaKjYaKjYaKjYVIzAOFiYkOEMtRU99usGU3OOP1NtVf4cACh1poKd1zdNAYWposrmD0NdgkJhcsbfbcvfKAAAABnRSTlMAg8_z_y3Xt18NAAAAsklEQVR4AYXTRQKDQAwF0NEESJCR3v-qJZXg8DfIGxczxzofdvHOGkkMF4kzhsvMbQYNYAOwQmucvmPbEffDws74fzUYiZlpSoOOyvxo6FlMODf40y9iKsQaqggL4rgiUU6gCKlstbxQ8del0jQp6mDVtqjTFDtBaTuVS5QZkWA5RVDMF8gPWK5R9BYTXCGNQewMqWt1y_wWqaQBdLPdFiuuj4kNaw24PmD3R_P-UN9chzfL7hTPJPIdLQAAAABJRU5ErkJggg.png",
+      "snippet": "Estimate rates to United States from United States with our shipping cost calculator. Get domestic & international costs, including taxes and duties.",
+      "snippet_highlighted_words": [
+        "Get domestic & international costs"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Estimate rates to United States from United States with our shipping cost calculator. Get domestic & international costs, including taxes and duties.",
+          "source_info_link": "https://www.easyship.com/shipping-rate-calculator/usa-to-usa",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEwaKjYaKjYaKjYaKjYaKjYVIzAOFiYkOEMtRU99usGU3OOP1NtVf4cACh1poKd1zdNAYWposrmD0NdgkJhcsbfbcvfKAAAABnRSTlMAg8_z_y3Xt18NAAAAsklEQVR4AYXTRQKDQAwF0NEESJCR3v-qJZXg8DfIGxczxzofdvHOGkkMF4kzhsvMbQYNYAOwQmucvmPbEffDws74fzUYiZlpSoOOyvxo6FlMODf40y9iKsQaqggL4rgiUU6gCKlstbxQ8del0jQp6mDVtqjTFDtBaTuVS5QZkWA5RVDMF8gPWK5R9BYTXCGNQewMqWt1y_wWqaQBdLPdFiuuj4kNaw24PmD3R_P-UN9chzfL7hTPJPIdLQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.easyship.com/shipping-rate-calculator/usa-to-usa&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.easyship.com%2Fshipping-rate-calculator%2Fusa-to-usa",
+      "source": "Easyship"
+    },
+    {
+      "position": 8,
+      "title": "Shipping Cost Calculator — Compare USPS, FedEx, DHL ...",
+      "link": "https://shippingcostcalculator.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shippingcostcalculator.com/&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQFnoECBoQAQ",
+      "displayed_link": "https://shippingcostcalculator.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEVHcEwbbb8eas8VZaAcaMMZY7UUVJEPTXMcbMMLTV0LTVoJSFQXebMWWZQdZsQacMAUXIwQUXwTfZobY7gaZ7IXWaMNUWgOT2kJSE8RVX8OW3MJSFIMVGIYVqcNUmsPWHcUT44JRE8PWHsKQVQfbtMTUIkSVIYcdMcRV4IZerwLPVYVTZALRFoOXHULRl8QUnoYcrYZbLQLT2IJP08Va6IOTGnKVY5sAAAAIXRSTlMAvvD8XP74Xf5q9fr-LbDwGe4CEuuDivbSzLzBHuxG82dmqcvrAAABdElEQVQokY3S646CMBAFYBDkqqJ4v61CoUAptEV8_1fbmeIas6vJnvTfl9Np0jGM_2Zp28sPNLdnWTaz529bs1EGiWZ_27Y5yjzQyPMi036VeD20vPHYK4qiisz106Zmlq1GaEWhFNiqqszpk7B11q1CWpasIBPN7nloeZ4ClUrKXk6qyWrrI9b1eZhVqF4p3eqtBWfugHXtoCqpoIcm7owgxmvEOncsJQsAKS3RsjtjZBMbxrV26hxDLbyyB2LkTrb8MdNxgHJKy74XrOVw5XZLiJ6pW1SjYAyQcMFvA1415lTQ8oEdIXASHx-UOxQjyrJMGW9bbHVJ2OKD3NxBLYUo07SFcAIYBImeSamzgJZIIZwTaHZdECY_SBHRUkYI7zoeBkmCM43pnpaAqW7ewDgA4G74l6_9QteapoEbwxBx9_X80c3-MmB3S8DC3eZ1FQz_cGmwCRIc_fj37vmHAY_-u_07uYfmdvRPb_fWiOfuJ3qTb2x-QB_N4uDoAAAAAElFTkSuQmCC.png",
+      "snippet": "Free shipping cost calculator. Compare UPS, USPS, FedEx, and DHL shipping rates for domestic and international packages. Find the cheapest way to ship.",
+      "snippet_highlighted_words": [
+        "Free shipping cost calculator"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "USPS Rates",
+            "link": "https://shippingcostcalculator.com/usps"
+          },
+          {
+            "title": "UPS Rates",
+            "link": "https://shippingcostcalculator.com/ups"
+          },
+          {
+            "title": "FedEx Rates",
+            "link": "https://shippingcostcalculator.com/fedex"
+          },
+          {
+            "title": "Compare Rates",
+            "link": "https://shippingcostcalculator.com/compare"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Free shipping cost calculator. Compare UPS, USPS, FedEx, and DHL shipping rates for domestic and international packages. Find the cheapest way to ship.",
+          "source_info_link": "https://shippingcostcalculator.com/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEVHcEwbbb8eas8VZaAcaMMZY7UUVJEPTXMcbMMLTV0LTVoJSFQXebMWWZQdZsQacMAUXIwQUXwTfZobY7gaZ7IXWaMNUWgOT2kJSE8RVX8OW3MJSFIMVGIYVqcNUmsPWHcUT44JRE8PWHsKQVQfbtMTUIkSVIYcdMcRV4IZerwLPVYVTZALRFoOXHULRl8QUnoYcrYZbLQLT2IJP08Va6IOTGnKVY5sAAAAIXRSTlMAvvD8XP74Xf5q9fr-LbDwGe4CEuuDivbSzLzBHuxG82dmqcvrAAABdElEQVQokY3S646CMBAFYBDkqqJ4v61CoUAptEV8_1fbmeIas6vJnvTfl9Np0jGM_2Zp28sPNLdnWTaz529bs1EGiWZ_27Y5yjzQyPMi036VeD20vPHYK4qiisz106Zmlq1GaEWhFNiqqszpk7B11q1CWpasIBPN7nloeZ4ClUrKXk6qyWrrI9b1eZhVqF4p3eqtBWfugHXtoCqpoIcm7owgxmvEOncsJQsAKS3RsjtjZBMbxrV26hxDLbyyB2LkTrb8MdNxgHJKy74XrOVw5XZLiJ6pW1SjYAyQcMFvA1415lTQ8oEdIXASHx-UOxQjyrJMGW9bbHVJ2OKD3NxBLYUo07SFcAIYBImeSamzgJZIIZwTaHZdECY_SBHRUkYI7zoeBkmCM43pnpaAqW7ewDgA4G74l6_9QteapoEbwxBx9_X80c3-MmB3S8DC3eZ1FQz_cGmwCRIc_fj37vmHAY_-u_07uYfmdvRPb_fWiOfuJ3qTb2x-QB_N4uDoAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://shippingcostcalculator.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fshippingcostcalculator.com%2F",
+      "source": "shippingcostcalculator.com"
+    },
+    {
+      "position": 9,
+      "title": "How to Estimate Shipping Costs with FedEx",
+      "link": "https://www.fedex.com/en-us/shipping/how-to-estimate-shipping-cost.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fedex.com/en-us/shipping/how-to-estimate-shipping-cost.html&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQFnoECEQQAQ",
+      "displayed_link": "https://www.fedex.com › en-us › how-to-estimate-shipp...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAACFElEQVR4Ae2UA6xcQRiFp7atoI5q27Zt27Zt27Zt27bdhnVP-_X1zjOC-m5ysjv8fpxZU7hNiV-qvwDoAl1gudjDovtUyZgjQgRy0J5TA-NbUmR_gSVijJBPfQPmCAzIvj6pu0itjNQ0rNTQeKiqEZ9AgeUTjbldJOLwOeUSjl5uTNOEQQH2Tt3VE9gkzAE1MvNVySyUNDVAYLkEo9Wh8KJZzqSk2qd23um_ctzxvnxLKvrl8ZXMj2-9GbBz0cX-9y686pTfDPUEdk4iTStfwBcgIGC1lBO-Zwh4zsC9H3vVWKbWReZocNPVOrTlyt3Ht1-fmz9inzqXWyTmvAFbx5GaR_HIsEPcBRpeeIFqmQVa0n6Bbh9ZbsebBq21JeUCBLxoxBHi4uM7bqpBuuni97h2W-z8oHprvAPpXd0f_WN87QBjj8wnVCEgWwWb4dRuOwBwGRcTBFnbQJhj3LfqyvyUhrEFoh2TBAjhUsZOIKw788a5mFLSO8oGADBBUF6yYw_Z-gkk-o5hqlkPAHx4lTWAZGl77A3IxOgWm-YxBvLo3ksRAGB6SiAEsH3JWVtSn88CYTD1S888wVjo0xOnixnnKXQqvrgZwEuHH9Yb323zO3rVLM9soWn9tt_dveLiOcyCkVjjXO_UXRZgEsziyDEHzwOzYBz2MMZAfloXKPbnWSAiI2rnqbD25_6XukAX6AJd4FfpM0kS0DIoWAAAAABJRU5ErkJggg.png",
+      "snippet": "Our online shipping rates calculator estimates shipping cost based on the information you input, like how much the package weighs, its dimensions, the currency ...",
+      "snippet_highlighted_words": [
+        "online shipping rates calculator"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How cost is calculated for...",
+            "link": "https://www.fedex.com/en-us/shipping/how-to-estimate-shipping-cost.html#cost-calculated"
+          },
+          {
+            "title": "Tools to calculate shipping cost",
+            "link": "https://www.fedex.com/en-us/shipping/how-to-estimate-shipping-cost.html#tools"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Our online shipping rates calculator estimates shipping cost based on the information you input, like how much the package weighs, its dimensions, the currency ...",
+          "source_info_link": "https://www.fedex.com/en-us/shipping/how-to-estimate-shipping-cost.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAACFElEQVR4Ae2UA6xcQRiFp7atoI5q27Zt27Zt27Zt27bdhnVP-_X1zjOC-m5ysjv8fpxZU7hNiV-qvwDoAl1gudjDovtUyZgjQgRy0J5TA-NbUmR_gSVijJBPfQPmCAzIvj6pu0itjNQ0rNTQeKiqEZ9AgeUTjbldJOLwOeUSjl5uTNOEQQH2Tt3VE9gkzAE1MvNVySyUNDVAYLkEo9Wh8KJZzqSk2qd23um_ctzxvnxLKvrl8ZXMj2-9GbBz0cX-9y686pTfDPUEdk4iTStfwBcgIGC1lBO-Zwh4zsC9H3vVWKbWReZocNPVOrTlyt3Ht1-fmz9inzqXWyTmvAFbx5GaR_HIsEPcBRpeeIFqmQVa0n6Bbh9ZbsebBq21JeUCBLxoxBHi4uM7bqpBuuni97h2W-z8oHprvAPpXd0f_WN87QBjj8wnVCEgWwWb4dRuOwBwGRcTBFnbQJhj3LfqyvyUhrEFoh2TBAjhUsZOIKw788a5mFLSO8oGADBBUF6yYw_Z-gkk-o5hqlkPAHx4lTWAZGl77A3IxOgWm-YxBvLo3ksRAGB6SiAEsH3JWVtSn88CYTD1S888wVjo0xOnixnnKXQqvrgZwEuHH9Yb323zO3rVLM9soWn9tt_dveLiOcyCkVjjXO_UXRZgEsziyDEHzwOzYBz2MMZAfloXKPbnWSAiI2rnqbD25_6XukAX6AJd4FfpM0kS0DIoWAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fedex.com/en-us/shipping/how-to-estimate-shipping-cost.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fedex.com%2Fen-us%2Fshipping%2Fhow-to-estimate-shipping-cost.html",
+      "source": "FedEx",
+      "read_more_link": "https://www.fedex.com/en-us/shipping/how-to-estimate-shipping-cost.html#:~:text=Our%20online%20shipping%20rates%20calculator,shipping%20internationally)%2C%20and%20other%20factors."
+    },
+    {
+      "position": 10,
+      "title": "How to Calculate Shipping Costs Across USPS, UPS, ...",
+      "link": "https://wesupplylabs.com/how-to-calculate-shipping-costs-across-usps-ups-fedex-and-dhl/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wesupplylabs.com/how-to-calculate-shipping-costs-across-usps-ups-fedex-and-dhl/&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQFnoECEUQAQ",
+      "displayed_link": "https://wesupplylabs.com › how-to-calculate-shipping-c...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEVHcEz_______________________________________________________________8AAADx8fHPz89jY2P7-_uZmZlISEg7OztVVVUpKSmzs7O7u7t3d3d-fn6urq7f399tbW2Dg4PDw8OHh4cSEhLb29v3L6XTAAAAEHRSTlMApLQ8XHJH2x7ylr3LCIuRwk4weQAAARFJREFUKJHVkulugzAQhE24IWlnjW2OEMgBvP8jdtat1P6vVKkj4cR8451dC2P-t6r81Cb5539QpTlxrasM38oitNajhLeWa9yEfh-CRaFQpKdxEfFAJ3L0olrQKHyKEHL_AoJMV4J1dECqkO5OF3kAvWyLuB-ZPBR4fGABT98mcrWArxSe4Ri6ixbgA6uJQwdcCHMwRd_eZAta0oeJeEbCs5V6Bwa-ZOrlGvPuUwxujakxRKfXekxbOdJNnF8tjEk4QBzSsQKZ7MvIppxMhAUOkZFVZm1bLZTDg23GYfphRgM7jnd6jrA8eR_ovMI2NsFsVf5177qrCS-nsjynpjrzh7edvSfNW2qKPPvzr-V3-gAQ2BsYATHfpQAAAABJRU5ErkJggg.png",
+      "snippet": "It's calculated by multiplying length × width × height and dividing by a number called a divisor. For UPS, FedEx, and DHL, the divisor is usually 139. USPS uses ...",
+      "snippet_highlighted_words": [
+        "multiplying length × width × height and dividing by a number called a divisor"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Why Accurate Shipping Cost...",
+            "link": "https://wesupplylabs.com/how-to-calculate-shipping-costs-across-usps-ups-fedex-and-dhl/#elementor-toc__heading-anchor-0"
+          },
+          {
+            "title": "Comparing Costs Across...",
+            "link": "https://wesupplylabs.com/how-to-calculate-shipping-costs-across-usps-ups-fedex-and-dhl/#elementor-toc__heading-anchor-8"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "It's calculated by multiplying length × width × height and dividing by a number called a divisor. For UPS, FedEx, and DHL, the divisor is usually 139. USPS uses ...",
+          "source_info_link": "https://wesupplylabs.com/how-to-calculate-shipping-costs-across-usps-ups-fedex-and-dhl/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEVHcEz_______________________________________________________________8AAADx8fHPz89jY2P7-_uZmZlISEg7OztVVVUpKSmzs7O7u7t3d3d-fn6urq7f399tbW2Dg4PDw8OHh4cSEhLb29v3L6XTAAAAEHRSTlMApLQ8XHJH2x7ylr3LCIuRwk4weQAAARFJREFUKJHVkulugzAQhE24IWlnjW2OEMgBvP8jdtat1P6vVKkj4cR8451dC2P-t6r81Cb5539QpTlxrasM38oitNajhLeWa9yEfh-CRaFQpKdxEfFAJ3L0olrQKHyKEHL_AoJMV4J1dECqkO5OF3kAvWyLuB-ZPBR4fGABT98mcrWArxSe4Ri6ixbgA6uJQwdcCHMwRd_eZAta0oeJeEbCs5V6Bwa-ZOrlGvPuUwxujakxRKfXekxbOdJNnF8tjEk4QBzSsQKZ7MvIppxMhAUOkZFVZm1bLZTDg23GYfphRgM7jnd6jrA8eR_ovMI2NsFsVf5177qrCS-nsjynpjrzh7edvSfNW2qKPPvzr-V3-gAQ2BsYATHfpQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://wesupplylabs.com/how-to-calculate-shipping-costs-across-usps-ups-fedex-and-dhl/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwesupplylabs.com%2Fhow-to-calculate-shipping-costs-across-usps-ups-fedex-and-dhl%2F",
+      "source": "WeSupply | Labs",
+      "read_more_link": "https://wesupplylabs.com/how-to-calculate-shipping-costs-across-usps-ups-fedex-and-dhl/#:~:text=It's%20calculated%20by%20multiplying%20length,uses%20166%20for%20domestic%20shipments."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "UPS shipping calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=UPS+shipping+calculator&sa=X&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=UPS+shipping+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "USPS shipping calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=USPS+shipping+calculator&sa=X&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=USPS+shipping+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Shipping cost calculator usps ups fedex to usa",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Shipping+cost+calculator+usps+ups+fedex+to+usa&sa=X&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shipping+cost+calculator+usps+ups+fedex+to+usa"
+    },
+    {
+      "block_position": 1,
+      "query": "Free shipping cost calculator usps ups fedex",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Free+shipping+cost+calculator+usps+ups+fedex&sa=X&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+shipping+cost+calculator+usps+ups+fedex"
+    },
+    {
+      "block_position": 1,
+      "query": "International shipping cost calculator usps ups fedex",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=International+shipping+cost+calculator+usps+ups+fedex&sa=X&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=International+shipping+cost+calculator+usps+ups+fedex"
+    },
+    {
+      "block_position": 1,
+      "query": "FedEx shipping calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=FedEx+shipping+calculator&sa=X&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FedEx+shipping+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "UPS shipping rates",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=UPS+shipping+rates&sa=X&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=UPS+shipping+rates"
+    },
+    {
+      "block_position": 1,
+      "query": "UPS Ground shipping calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=UPS+Ground+shipping+calculator&sa=X&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=UPS+Ground+shipping+calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=shipping+cost+calculator+USPS+ups+fedex&sca_esv=bbb7d61e8d3bb37e&ei=Cxk6arj-Ga2yqtsP846fgQg&start=10&sa=N&sstk=AU9db-CuKv7MSlclKG2RCz9i4AhlG_meQYhlfDL8x-GVmOOdk-Sy2oz9zgwWvdJf1Gghj4D8vhXdjbxSreJpKFxt9vu6BFWGThkVDQ&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ8NMDegQIORAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=shipping+cost+calculator+USPS+ups+fedex&sca_esv=bbb7d61e8d3bb37e&ei=Cxk6arj-Ga2yqtsP846fgQg&start=10&sa=N&sstk=AU9db-CuKv7MSlclKG2RCz9i4AhlG_meQYhlfDL8x-GVmOOdk-Sy2oz9zgwWvdJf1Gghj4D8vhXdjbxSreJpKFxt9vu6BFWGThkVDQ&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ8tMDegQIORAE",
+      "3": "https://www.google.com/search?q=shipping+cost+calculator+USPS+ups+fedex&sca_esv=bbb7d61e8d3bb37e&ei=Cxk6arj-Ga2yqtsP846fgQg&start=20&sa=N&sstk=AU9db-CuKv7MSlclKG2RCz9i4AhlG_meQYhlfDL8x-GVmOOdk-Sy2oz9zgwWvdJf1Gghj4D8vhXdjbxSreJpKFxt9vu6BFWGThkVDQ&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ8tMDegQIORAG",
+      "4": "https://www.google.com/search?q=shipping+cost+calculator+USPS+ups+fedex&sca_esv=bbb7d61e8d3bb37e&ei=Cxk6arj-Ga2yqtsP846fgQg&start=30&sa=N&sstk=AU9db-CuKv7MSlclKG2RCz9i4AhlG_meQYhlfDL8x-GVmOOdk-Sy2oz9zgwWvdJf1Gghj4D8vhXdjbxSreJpKFxt9vu6BFWGThkVDQ&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ8tMDegQIORAI",
+      "5": "https://www.google.com/search?q=shipping+cost+calculator+USPS+ups+fedex&sca_esv=bbb7d61e8d3bb37e&ei=Cxk6arj-Ga2yqtsP846fgQg&start=40&sa=N&sstk=AU9db-CuKv7MSlclKG2RCz9i4AhlG_meQYhlfDL8x-GVmOOdk-Sy2oz9zgwWvdJf1Gghj4D8vhXdjbxSreJpKFxt9vu6BFWGThkVDQ&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ8tMDegQIORAK",
+      "6": "https://www.google.com/search?q=shipping+cost+calculator+USPS+ups+fedex&sca_esv=bbb7d61e8d3bb37e&ei=Cxk6arj-Ga2yqtsP846fgQg&start=50&sa=N&sstk=AU9db-CuKv7MSlclKG2RCz9i4AhlG_meQYhlfDL8x-GVmOOdk-Sy2oz9zgwWvdJf1Gghj4D8vhXdjbxSreJpKFxt9vu6BFWGThkVDQ&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ8tMDegQIORAM",
+      "7": "https://www.google.com/search?q=shipping+cost+calculator+USPS+ups+fedex&sca_esv=bbb7d61e8d3bb37e&ei=Cxk6arj-Ga2yqtsP846fgQg&start=60&sa=N&sstk=AU9db-CuKv7MSlclKG2RCz9i4AhlG_meQYhlfDL8x-GVmOOdk-Sy2oz9zgwWvdJf1Gghj4D8vhXdjbxSreJpKFxt9vu6BFWGThkVDQ&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ8tMDegQIORAO",
+      "8": "https://www.google.com/search?q=shipping+cost+calculator+USPS+ups+fedex&sca_esv=bbb7d61e8d3bb37e&ei=Cxk6arj-Ga2yqtsP846fgQg&start=70&sa=N&sstk=AU9db-CuKv7MSlclKG2RCz9i4AhlG_meQYhlfDL8x-GVmOOdk-Sy2oz9zgwWvdJf1Gghj4D8vhXdjbxSreJpKFxt9vu6BFWGThkVDQ&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ8tMDegQIORAQ",
+      "9": "https://www.google.com/search?q=shipping+cost+calculator+USPS+ups+fedex&sca_esv=bbb7d61e8d3bb37e&ei=Cxk6arj-Ga2yqtsP846fgQg&start=80&sa=N&sstk=AU9db-CuKv7MSlclKG2RCz9i4AhlG_meQYhlfDL8x-GVmOOdk-Sy2oz9zgwWvdJf1Gghj4D8vhXdjbxSreJpKFxt9vu6BFWGThkVDQ&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ8tMDegQIORAS",
+      "10": "https://www.google.com/search?q=shipping+cost+calculator+USPS+ups+fedex&sca_esv=bbb7d61e8d3bb37e&ei=Cxk6arj-Ga2yqtsP846fgQg&start=90&sa=N&sstk=AU9db-CuKv7MSlclKG2RCz9i4AhlG_meQYhlfDL8x-GVmOOdk-Sy2oz9zgwWvdJf1Gghj4D8vhXdjbxSreJpKFxt9vu6BFWGThkVDQ&ved=2ahUKEwj4r5qF0JyVAxUtmWoFHXPHJ4AQ8tMDegQIORAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=shipping+cost+calculator+USPS+ups+fedex&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=shipping+cost+calculator+USPS+ups+fedex&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=shipping+cost+calculator+USPS+ups+fedex&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=shipping+cost+calculator+USPS+ups+fedex&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=shipping+cost+calculator+USPS+ups+fedex&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=shipping+cost+calculator+USPS+ups+fedex&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=shipping+cost+calculator+USPS+ups+fedex&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=shipping+cost+calculator+USPS+ups+fedex&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=shipping+cost+calculator+USPS+ups+fedex&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=shipping+cost+calculator+USPS+ups+fedex&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=shipping+cost+calculator+USPS+ups+fedex&start=90"
+    }
+  }
+}

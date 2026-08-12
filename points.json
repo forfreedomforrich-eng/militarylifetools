@@ -1,0 +1,464 @@
+{
+  "search_metadata": {
+    "id": "6a3a211218dc93d121ea2331",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bZbKkvSWufjH4ITjT6RuNQ/6a3a211218dc93d121ea2331.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/bZbKkvSWufjH4ITjT6RuNQ/6a3a211218dc93d121ea2331.json_with_pixel_position",
+    "created_at": "2026-06-23 06:00:50 UTC",
+    "processed_at": "2026-06-23 06:00:50 UTC",
+    "google_url": "https://www.google.com/search?q=military+service+record+points+calculator&oq=military+service+record+points+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/bZbKkvSWufjH4ITjT6RuNQ/6a3a211218dc93d121ea2331.html",
+    "total_time_taken": 1.24
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military service record points calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military service record points calculator",
+    "total_results": 105,
+    "time_taken_displayed": 0.17,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How much does a retired E7 with 20 years make?",
+      "type": "ai_overview",
+      "page_token": "8WS8XnicHdBdboIwAADg7DI-yt_mjIlZgrRDlDIKLdiXBVq0YoFOmaBvu8tOtdNs2Q2-fF_f6tiefh6usu_1ZWEYwzBMD113UNWUd41RXG4tN3ihVFnw02L2PLNe9nwJPtfu6mPtxkRr6mEzseYjB8FN2OHAmxFSk98yJUyS6z71wrFS2sV3uU-b2Akh9HJ77lQ1SzGVAEGGsRl0UYqzkrqa1cjGhJkYwrYE1hOrgyRUMmM-fhR3dqwy2jIgMgpZsrMxCxVlaSbe0pw1YS3-DDszAfIcAYmTFqsCCo0chkJgbcsUychTn8SBAfV1m3ixWRK8iZ2TU1j6il51FPlBC6SAFSH2Lg9GTIhV5NDitYxRC-6i6V0xdseY4DuvVUMytI3z8LbNGYgIBYmDfWrJTZqjMyeHAVF3JYbJnl-XzuT_c_m-b_qFPneHXxxHgzw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8WS8XnicHdBdboIwAADg7DI-yt_mjIlZgrRDlDIKLdiXBVq0YoFOmaBvu8tOtdNs2Q2-fF_f6tiefh6usu_1ZWEYwzBMD113UNWUd41RXG4tN3ihVFnw02L2PLNe9nwJPtfu6mPtxkRr6mEzseYjB8FN2OHAmxFSk98yJUyS6z71wrFS2sV3uU-b2Akh9HJ77lQ1SzGVAEGGsRl0UYqzkrqa1cjGhJkYwrYE1hOrgyRUMmM-fhR3dqwy2jIgMgpZsrMxCxVlaSbe0pw1YS3-DDszAfIcAYmTFqsCCo0chkJgbcsUychTn8SBAfV1m3ixWRK8iZ2TU1j6il51FPlBC6SAFSH2Lg9GTIhV5NDitYxRC-6i6V0xdseY4DuvVUMytI3z8LbNGYgIBYmDfWrJTZqjMyeHAVF3JYbJnl-XzuT_c_m-b_qFPneHXxxHgzw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JVNW9NMnhTV2xBd2NUbFliMVJsU0RkWWRIcGFPV05HV1Y5aldTMDBOV0Z2U0RCemNYWjFTa0l5TTNRM2FtRTNTbXg1YWxGdmVuaEtha1pPTTNsWmFtWnhZMHhwY0hsbFVsaE9NWFpZYWtwVmFqVlROM056VW5GUlVSSVhSWGxGTm1GeWNVVkZOV2x4ZFhJNFVEWnhNM1pyUVhjYUlrRkVjM0k1WmxSSldrWlFVaTFLU0dkMFIxbEpjMUJ0VlRSWVNrRkNUMmR6U2tFIiwiZmN2IjoiMyIsImVpIjoiRXlFNmFycUVFNWlxdXI4UDZxM3ZrQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQnpaWEoyYVdObElISmxZMjl5WkNCd2IybHVkSE1nWTJGc1kzVnNZWFJ2Y2hBQWZTRGhaRDgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgYSByZXRpcmVkIEU3IHdpdGggMjAgeWVhcnMgbWFrZT8iLCJsayI6IkdpMW9iM2NnYlhWamFDQmtiMlZ6SUdFZ2NtVjBhWEpsWkNCbE55QjNhWFJvSURJd0lIbGxZWEp6SUcxaGEyVSIsImJzIjoiYzQyT3NRckNNQmlFY2Mza0tGbThkdFdxQk1TeGs2QjlCNGVRX3BEUXBwRTBwWFQxdFYxc29jV2xSZGZqdS0tT1NYYTR1UmEyVVJxNW94b1Nub0x4bE9ONlFXdUNoamloSS1scldGbFFLbzQ4MFFzTm1tdXdqRVhEUkhEb3N3cm4wOGhicWdLZXpsU2hUamZ2VE1RYy1nZkhIbXdfdXBRc1ZWUEtRTENtTkVINmJrWXJFcjdUX19QOTFYalE1dzUzS0UycWdPMi1fUFQxbFlpSWJ5ZnZBclplZlFBIiwiaWQiOiJmY19FeUU2YXJxRUU1aXF1cjhQNnEzdmtBd18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JVNW9NMnhTV2xBd2NUbFliMVJsU0RkWWRIcGFPV05HV1Y5aldTMDBOV0Z2U0RCemNYWjFTa0l5TTNRM2FtRTNTbXg1YWxGdmVuaEtha1pPTTNsWmFtWnhZMHhwY0hsbFVsaE9NWFpZYWtwVmFqVlROM056VW5GUlVSSVhSWGxGTm1GeWNVVkZOV2x4ZFhJNFVEWnhNM1pyUVhjYUlrRkVjM0k1WmxSSldrWlFVaTFLU0dkMFIxbEpjMUJ0VlRSWVNrRkNUMmR6U2tFIiwiZmN2IjoiMyIsImVpIjoiRXlFNmFycUVFNWlxdXI4UDZxM3ZrQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQnpaWEoyYVdObElISmxZMjl5WkNCd2IybHVkSE1nWTJGc1kzVnNZWFJ2Y2hBQWZTRGhaRDgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgYSByZXRpcmVkIEU3IHdpdGggMjAgeWVhcnMgbWFrZT8iLCJsayI6IkdpMW9iM2NnYlhWamFDQmtiMlZ6SUdFZ2NtVjBhWEpsWkNCbE55QjNhWFJvSURJd0lIbGxZWEp6SUcxaGEyVSIsImJzIjoiYzQyT3NRckNNQmlFY2Mza0tGbThkdFdxQk1TeGs2QjlCNGVRX3BEUXBwRTBwWFQxdFYxc29jV2xSZGZqdS0tT1NYYTR1UmEyVVJxNW94b1Nub0x4bE9ONlFXdUNoamloSS1scldGbFFLbzQ4MFFzTm1tdXdqRVhEUkhEb3N3cm4wOGhicWdLZXpsU2hUamZ2VE1RYy1nZkhIbXdfdXBRc1ZWUEtRTENtTkVINmJrWXJFcjdUX19QOTFYalE1dzUzS0UycWdPMi1fUFQxbFlpSWJ5ZnZBclplZlFBIiwiaWQiOiJmY19FeUU2YXJxRUU1aXF1cjhQNnEzdmtBd18zIn0%3D"
+    },
+    {
+      "question": "How to earn 50 retirement points?",
+      "type": "featured_snippet",
+      "snippet": "A qualified year typically requires a minimum of 50 retirement points. These points can be earned through active duty, training, and other eligible service activities. Active Duty Veterans must have a minimum of 20 years of service to qualify for pension benefits.",
+      "title": "National Guard & Reserves Retirement Calculator",
+      "link": "https://themilitarywallet.com/reserve-retirement-calculator/#:~:text=A%20qualified%20year%20typically%20requires,to%20qualify%20for%20pension%20benefits.",
+      "displayed_link": "https://themilitarywallet.com › reserve-retirement-calcul...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JVNW9NMnhTV2xBd2NUbFliMVJsU0RkWWRIcGFPV05HV1Y5aldTMDBOV0Z2U0RCemNYWjFTa0l5TTNRM2FtRTNTbXg1YWxGdmVuaEtha1pPTTNsWmFtWnhZMHhwY0hsbFVsaE9NWFpZYWtwVmFqVlROM056VW5GUlVSSVhSWGxGTm1GeWNVVkZOV2x4ZFhJNFVEWnhNM1pyUVhjYUlrRkVjM0k1WmxSSldrWlFVaTFLU0dkMFIxbEpjMUJ0VlRSWVNrRkNUMmR6U2tFIiwiZmN2IjoiMyIsImVpIjoiRXlFNmFycUVFNWlxdXI4UDZxM3ZrQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQnpaWEoyYVdObElISmxZMjl5WkNCd2IybHVkSE1nWTJGc1kzVnNZWFJ2Y2hBQWZTRGhaRDgiLCJxdWVzdGlvbiI6IkhvdyB0byBlYXJuIDUwIHJldGlyZW1lbnQgcG9pbnRzPyIsImxrIjoiR2lCb2IzY2dkRzhnWldGeWJpQTFNQ0J5WlhScGNtVnRaVzUwSUhCdmFXNTBjdyIsImJzIjoiYzQyT3NRckNNQmlFY2Mza0tGbThkdFdxQk1TeGs2QjlCNGVRX3BEUXBwRTBwWFQxdFYxc29jV2xSZGZqdS0tT1NYYTR1UmEyVVJxNW94b1Nub0x4bE9ONlFXdUNoamloSS1scldGbFFLbzQ4MFFzTm1tdXdqRVhEUkhEb3N3cm4wOGhicWdLZXpsU2hUamZ2VE1RYy1nZkhIbXdfdXBRc1ZWUEtRTENtTkVINmJrWXJFcjdUX19QOTFYalE1dzUzS0UycWdPMi1fUFQxbFlpSWJ5ZnZBclplZlFBIiwiaWQiOiJmY19FeUU2YXJxRUU1aXF1cjhQNnEzdmtBd18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JVNW9NMnhTV2xBd2NUbFliMVJsU0RkWWRIcGFPV05HV1Y5aldTMDBOV0Z2U0RCemNYWjFTa0l5TTNRM2FtRTNTbXg1YWxGdmVuaEtha1pPTTNsWmFtWnhZMHhwY0hsbFVsaE9NWFpZYWtwVmFqVlROM056VW5GUlVSSVhSWGxGTm1GeWNVVkZOV2x4ZFhJNFVEWnhNM1pyUVhjYUlrRkVjM0k1WmxSSldrWlFVaTFLU0dkMFIxbEpjMUJ0VlRSWVNrRkNUMmR6U2tFIiwiZmN2IjoiMyIsImVpIjoiRXlFNmFycUVFNWlxdXI4UDZxM3ZrQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQnpaWEoyYVdObElISmxZMjl5WkNCd2IybHVkSE1nWTJGc1kzVnNZWFJ2Y2hBQWZTRGhaRDgiLCJxdWVzdGlvbiI6IkhvdyB0byBlYXJuIDUwIHJldGlyZW1lbnQgcG9pbnRzPyIsImxrIjoiR2lCb2IzY2dkRzhnWldGeWJpQTFNQ0J5WlhScGNtVnRaVzUwSUhCdmFXNTBjdyIsImJzIjoiYzQyT3NRckNNQmlFY2Mza0tGbThkdFdxQk1TeGs2QjlCNGVRX3BEUXBwRTBwWFQxdFYxc29jV2xSZGZqdS0tT1NYYTR1UmEyVVJxNW94b1Nub0x4bE9ONlFXdUNoamloSS1scldGbFFLbzQ4MFFzTm1tdXdqRVhEUkhEb3N3cm4wOGhicWdLZXpsU2hUamZ2VE1RYy1nZkhIbXdfdXBRc1ZWUEtRTENtTkVINmJrWXJFcjdUX19QOTFYalE1dzUzS0UycWdPMi1fUFQxbFlpSWJ5ZnZBclplZlFBIiwiaWQiOiJmY19FeUU2YXJxRUU1aXF1cjhQNnEzdmtBd18zIn0%3D"
+    },
+    {
+      "question": "How to calculate military retirement points?",
+      "type": "ai_overview",
+      "page_token": "4z-grnicHZDbboIwAECzn_FxWFGXmJhljJZApIxCK_RlAYpWKJRNJpe3_cu-al8zs_eTnJPz_aMubf37cJN93113hjEMw-NZ67MqHwvdGNl1agujyJTKs6LebZ-24PlU7OGXa71-uFZIu47ZZBkpEXBHbNIZ2xFlFkv8yXdwHZsvS1z3HnXAOmOMkXqEgRNOZYVSH_JYOP7mwLguYy8sE5WK1uo5cAEFUuGZbLCjzAxqUFa8wbTug6PAKeCXrOE9qTtMKhxEreVTZI24ATwHys1nj6ZMmzm8Dr6tEmxLiWP0FtdnkB_FyV8KGTVoU0IVHRE6CLMDufIs1uLqcE-8swRKgUpKV2nijYRSkCUIFJUMcQtn0fSWGPUlpGQuKtVQU64yRQCnbLo71-kKRMJEM1kt18ksUQ6BFsPiVNz25uL_5_791PS77lOf_wAOnYMm",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4z-grnicHZDbboIwAECzn_FxWFGXmJhljJZApIxCK_RlAYpWKJRNJpe3_cu-al8zs_eTnJPz_aMubf37cJN93113hjEMw-NZ67MqHwvdGNl1agujyJTKs6LebZ-24PlU7OGXa71-uFZIu47ZZBkpEXBHbNIZ2xFlFkv8yXdwHZsvS1z3HnXAOmOMkXqEgRNOZYVSH_JYOP7mwLguYy8sE5WK1uo5cAEFUuGZbLCjzAxqUFa8wbTug6PAKeCXrOE9qTtMKhxEreVTZI24ATwHys1nj6ZMmzm8Dr6tEmxLiWP0FtdnkB_FyV8KGTVoU0IVHRE6CLMDufIs1uLqcE-8swRKgUpKV2nijYRSkCUIFJUMcQtn0fSWGPUlpGQuKtVQU64yRQCnbLo71-kKRMJEM1kt18ksUQ6BFsPiVNz25uL_5_791PS77lOf_wAOnYMm",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JVNW9NMnhTV2xBd2NUbFliMVJsU0RkWWRIcGFPV05HV1Y5aldTMDBOV0Z2U0RCemNYWjFTa0l5TTNRM2FtRTNTbXg1YWxGdmVuaEtha1pPTTNsWmFtWnhZMHhwY0hsbFVsaE9NWFpZYWtwVmFqVlROM056VW5GUlVSSVhSWGxGTm1GeWNVVkZOV2x4ZFhJNFVEWnhNM1pyUVhjYUlrRkVjM0k1WmxSSldrWlFVaTFLU0dkMFIxbEpjMUJ0VlRSWVNrRkNUMmR6U2tFIiwiZmN2IjoiMyIsImVpIjoiRXlFNmFycUVFNWlxdXI4UDZxM3ZrQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQnpaWEoyYVdObElISmxZMjl5WkNCd2IybHVkSE1nWTJGc1kzVnNZWFJ2Y2hBQWZTRGhaRDgiLCJxdWVzdGlvbiI6IkhvdyB0byBjYWxjdWxhdGUgbWlsaXRhcnkgcmV0aXJlbWVudCBwb2ludHM/IiwibGsiOiJHaXRvYjNjZ2RHOGdZMkZzWTNWc1lYUmxJRzFwYkdsMFlYSjVJSEpsZEdseVpXMWxiblFnY0c5cGJuUnoiLCJicyI6ImM0Mk9zUXJDTUJpRWNjM2tLRm04ZHRXcUJNU3hrNkI5QjRlUV9wRFFwcEUwcFhUMXRWMXNvY1dsUmRmanUtLU9TWGE0dVJhMlVScTVveG9Tbm9MeGxPTjZRV3VDaGppaEktbHJXRmxRS280ODBRc05tbXV3akVYRFJIRG9zd3JuMDhoYnFnS2V6bFNoVGpmdlRNUWMtZ2ZISG13X3VwUXNWVlBLUUxDbU5FSDZia1lyRXI3VF9fUDkxWGpRNXc1M0tFMnFnTzItX1BUMWxZaUlieWZ2QXJaZWZRQSIsImlkIjoiZmNfRXlFNmFycUVFNWlxdXI4UDZxM3ZrQXdfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JVNW9NMnhTV2xBd2NUbFliMVJsU0RkWWRIcGFPV05HV1Y5aldTMDBOV0Z2U0RCemNYWjFTa0l5TTNRM2FtRTNTbXg1YWxGdmVuaEtha1pPTTNsWmFtWnhZMHhwY0hsbFVsaE9NWFpZYWtwVmFqVlROM056VW5GUlVSSVhSWGxGTm1GeWNVVkZOV2x4ZFhJNFVEWnhNM1pyUVhjYUlrRkVjM0k1WmxSSldrWlFVaTFLU0dkMFIxbEpjMUJ0VlRSWVNrRkNUMmR6U2tFIiwiZmN2IjoiMyIsImVpIjoiRXlFNmFycUVFNWlxdXI4UDZxM3ZrQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQnpaWEoyYVdObElISmxZMjl5WkNCd2IybHVkSE1nWTJGc1kzVnNZWFJ2Y2hBQWZTRGhaRDgiLCJxdWVzdGlvbiI6IkhvdyB0byBjYWxjdWxhdGUgbWlsaXRhcnkgcmV0aXJlbWVudCBwb2ludHM%2FIiwibGsiOiJHaXRvYjNjZ2RHOGdZMkZzWTNWc1lYUmxJRzFwYkdsMFlYSjVJSEpsZEdseVpXMWxiblFnY0c5cGJuUnoiLCJicyI6ImM0Mk9zUXJDTUJpRWNjM2tLRm04ZHRXcUJNU3hrNkI5QjRlUV9wRFFwcEUwcFhUMXRWMXNvY1dsUmRmanUtLU9TWGE0dVJhMlVScTVveG9Tbm9MeGxPTjZRV3VDaGppaEktbHJXRmxRS280ODBRc05tbXV3akVYRFJIRG9zd3JuMDhoYnFnS2V6bFNoVGpmdlRNUWMtZ2ZISG13X3VwUXNWVlBLUUxDbU5FSDZia1lyRXI3VF9fUDkxWGpRNXc1M0tFMnFnTzItX1BUMWxZaUlieWZ2QXJaZWZRQSIsImlkIjoiZmNfRXlFNmFycUVFNWlxdXI4UDZxM3ZrQXdfMyJ9"
+    },
+    {
+      "question": "How do I check my military points?",
+      "type": "featured_snippet",
+      "snippet": "Soldiers may access the My Record Portal at www.hrc.army.mil for personalized retirement point information such as the ARPC Form 249-E, Points Corrections, Points Detail, and the Retired Pay Calculator.",
+      "title": "RETIREMENT POINTS ACCOUNTING SYSTEM (RPAS) INFORMATION",
+      "link": "https://www.hrcapps.army.mil/shared/download/pdf/ahrc_2363.pdf",
+      "displayed_link": "https://www.hrcapps.army.mil › shared › pdf › ahrc_2363",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JVNW9NMnhTV2xBd2NUbFliMVJsU0RkWWRIcGFPV05HV1Y5aldTMDBOV0Z2U0RCemNYWjFTa0l5TTNRM2FtRTNTbXg1YWxGdmVuaEtha1pPTTNsWmFtWnhZMHhwY0hsbFVsaE9NWFpZYWtwVmFqVlROM056VW5GUlVSSVhSWGxGTm1GeWNVVkZOV2x4ZFhJNFVEWnhNM1pyUVhjYUlrRkVjM0k1WmxSSldrWlFVaTFLU0dkMFIxbEpjMUJ0VlRSWVNrRkNUMmR6U2tFIiwiZmN2IjoiMyIsImVpIjoiRXlFNmFycUVFNWlxdXI4UDZxM3ZrQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQnpaWEoyYVdObElISmxZMjl5WkNCd2IybHVkSE1nWTJGc1kzVnNZWFJ2Y2hBQWZTRGhaRDgiLCJxdWVzdGlvbiI6IkhvdyBkbyBJIGNoZWNrIG15IG1pbGl0YXJ5IHBvaW50cz8iLCJsayI6IkdoOW9iM2NnZEc4Z1kyaGxZMnNnYlhrZ2JXbHNhWFJoY25rZ2NHOXBiblJ6IiwiYnMiOiJjNDJPc1FyQ01CaUVjYzNrS0ZtOGR0V3FCTVN4azZCOUI0ZVFfcERRcHBFMHBYVDF0VjFzb2NXbFJkZmp1LS1PU1hhNHVSYTJVUnE1b3hvU25vTHhsT042UVd1Q2hqaWhJLWxyV0ZsUUtvNDgwUXNObW11d2pFWERSSERvc3dybjA4aGJxZ0tlemxTaFRqZnZUTVFjLWdmSEhtd191cFFzVlZQS1FMQ21ORUg2YmtZckVyN1RfX1A5MVhqUTV3NTNLRTJxZ08yLV9QVDFsWWlJYnlmdkFyWmVmUUEiLCJpZCI6ImZjX0V5RTZhcnFFRTVpcXVyOFA2cTN2a0F3XzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1JVNW9NMnhTV2xBd2NUbFliMVJsU0RkWWRIcGFPV05HV1Y5aldTMDBOV0Z2U0RCemNYWjFTa0l5TTNRM2FtRTNTbXg1YWxGdmVuaEtha1pPTTNsWmFtWnhZMHhwY0hsbFVsaE9NWFpZYWtwVmFqVlROM056VW5GUlVSSVhSWGxGTm1GeWNVVkZOV2x4ZFhJNFVEWnhNM1pyUVhjYUlrRkVjM0k1WmxSSldrWlFVaTFLU0dkMFIxbEpjMUJ0VlRSWVNrRkNUMmR6U2tFIiwiZmN2IjoiMyIsImVpIjoiRXlFNmFycUVFNWlxdXI4UDZxM3ZrQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQnpaWEoyYVdObElISmxZMjl5WkNCd2IybHVkSE1nWTJGc1kzVnNZWFJ2Y2hBQWZTRGhaRDgiLCJxdWVzdGlvbiI6IkhvdyBkbyBJIGNoZWNrIG15IG1pbGl0YXJ5IHBvaW50cz8iLCJsayI6IkdoOW9iM2NnZEc4Z1kyaGxZMnNnYlhrZ2JXbHNhWFJoY25rZ2NHOXBiblJ6IiwiYnMiOiJjNDJPc1FyQ01CaUVjYzNrS0ZtOGR0V3FCTVN4azZCOUI0ZVFfcERRcHBFMHBYVDF0VjFzb2NXbFJkZmp1LS1PU1hhNHVSYTJVUnE1b3hvU25vTHhsT042UVd1Q2hqaWhJLWxyV0ZsUUtvNDgwUXNObW11d2pFWERSSERvc3dybjA4aGJxZ0tlemxTaFRqZnZUTVFjLWdmSEhtd191cFFzVlZQS1FMQ21ORUg2YmtZckVyN1RfX1A5MVhqUTV3NTNLRTJxZ08yLV9QVDFsWWlJYnlmdkFyWmVmUUEiLCJpZCI6ImZjX0V5RTZhcnFFRTVpcXVyOFA2cTN2a0F3XzMifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "77yuHHicxZbdcqpIEIDv9z3WmxwFVDRJFXVqQIxoNCHGePSGwgEHFBxkEOK523fZp9pH2aud4UcxalJ7qrZ2LJkfenq6p_uz_eNPz92s__rtbyeKAnLPcUmS1BDGyLNrEPucSfYbyC2xR0LofCd4F0LbtSTohNi3K_tYalQgkfiK7UrqXm2Z4VZVRXe7C2-fW9tGvAZJJVUhGQuT2Ct6wvuKcAZHH-vfGx06qZGavaktnqG77EW9ZIJqdV64qz1xpk8FwH_YVPCS9jr9aLTXziTY8egLLbrGNo5LK0rpWbRhpkjT0k65qlTJrVBmTKRTnYdNGXT0dK33iRXj0-mUPVSQACAzE1X90p5LRhRrOO_lqyeq50upsJyf1Smrv-avXA6wznS-3gLlGIjCZRkUHlARRMdyplEEcvM5UR6UT8JE3wSopzpV_aLRpdYdqEGSjx9nD9QizkI0CXluEdJO4FzowHQQEpabyusdj7sbMB-1ds7gtTFUDKMxGWw07HibenCrcxAuqKCHTcu2DMfgv6dzoS6062KrzX9LqYDkgAUpYzFvDT3Q6C8bXVB7rMlCiYn0NrQTp1m-yVf8G-SX-EEcZFqYvn5-OcU1TwoxGRd45AurNUur2WHhlsXC-Xgi03XORNFQeUCZSM3WJoedZXE21OSjqXnrfAz4cZ77MAMD_eCyWrI4uwi1PF8z5dpDsZAcXjGtyAMp45QJVc40Pp3sR2XD6GXJClCL1wcLmExnfRBTUwvZ65muz4DWpYzS8KHC-TyUlAnt9O7A6mTWReyroIuEf9XkY8CvNRUUyf8xl08gMIK4Hr-3EB_slLed6Dw6SlWcya_1B3A557G_-Be1AP6_VEzySjHJURhcpAJ9QYWuqZ9WiszuY6VgyaLga1QoORWnlSLL3GOlOKdifErF9UpRoiLT8jkV8lUqst-VcypYpTijAl2hIqsUZSpOK8XmoJl5UKLilyqF_guVIoXEzrrTsrFboavlo_fYV3iqZfejOVq-16eTlT9tz9BdOIzA1-Vj6Uf3vml53wzXupfr_WhvfTPoAr63rcpW8l3Pjcxwf0PsMHahfRNS8ELrJsDuJiI30PTgzjMjHFZ8L8QSbzatheGPbhHAcbB819bD9Q_ST8SfrqGg4InHUTyIp_vhQ2O85FFXqw7E_RiS_vMCvbSq-n5rJ-OwbVb9iT_l8RsZGEFna4lg7lsjIjyKe29T1aN2POzuYH_Xm2p1UH31X9QR9HyjOlbH9ry6-omxyrf5aPCWWkWkOVq-PAtLdxjrFeobsSWh4odQojg0ERjpYIoApBwAnf6v0hVMvwnNggqBpmGTWIKiwC_Mpt0S661l445uRtE-kJpChWxCSfgHvHoiWA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=77yuHHicxZbdcqpIEIDv9z3WmxwFVDRJFXVqQIxoNCHGePSGwgEHFBxkEOK523fZp9pH2aud4UcxalJ7qrZ2LJkfenq6p_uz_eNPz92s__rtbyeKAnLPcUmS1BDGyLNrEPucSfYbyC2xR0LofCd4F0LbtSTohNi3K_tYalQgkfiK7UrqXm2Z4VZVRXe7C2-fW9tGvAZJJVUhGQuT2Ct6wvuKcAZHH-vfGx06qZGavaktnqG77EW9ZIJqdV64qz1xpk8FwH_YVPCS9jr9aLTXziTY8egLLbrGNo5LK0rpWbRhpkjT0k65qlTJrVBmTKRTnYdNGXT0dK33iRXj0-mUPVSQACAzE1X90p5LRhRrOO_lqyeq50upsJyf1Smrv-avXA6wznS-3gLlGIjCZRkUHlARRMdyplEEcvM5UR6UT8JE3wSopzpV_aLRpdYdqEGSjx9nD9QizkI0CXluEdJO4FzowHQQEpabyusdj7sbMB-1ds7gtTFUDKMxGWw07HibenCrcxAuqKCHTcu2DMfgv6dzoS6062KrzX9LqYDkgAUpYzFvDT3Q6C8bXVB7rMlCiYn0NrQTp1m-yVf8G-SX-EEcZFqYvn5-OcU1TwoxGRd45AurNUur2WHhlsXC-Xgi03XORNFQeUCZSM3WJoedZXE21OSjqXnrfAz4cZ77MAMD_eCyWrI4uwi1PF8z5dpDsZAcXjGtyAMp45QJVc40Pp3sR2XD6GXJClCL1wcLmExnfRBTUwvZ65muz4DWpYzS8KHC-TyUlAnt9O7A6mTWReyroIuEf9XkY8CvNRUUyf8xl08gMIK4Hr-3EB_slLed6Dw6SlWcya_1B3A557G_-Be1AP6_VEzySjHJURhcpAJ9QYWuqZ9WiszuY6VgyaLga1QoORWnlSLL3GOlOKdifErF9UpRoiLT8jkV8lUqst-VcypYpTijAl2hIqsUZSpOK8XmoJl5UKLilyqF_guVIoXEzrrTsrFboavlo_fYV3iqZfejOVq-16eTlT9tz9BdOIzA1-Vj6Uf3vml53wzXupfr_WhvfTPoAr63rcpW8l3Pjcxwf0PsMHahfRNS8ELrJsDuJiI30PTgzjMjHFZ8L8QSbzatheGPbhHAcbB819bD9Q_ST8SfrqGg4InHUTyIp_vhQ2O85FFXqw7E_RiS_vMCvbSq-n5rJ-OwbVb9iT_l8RsZGEFna4lg7lsjIjyKe29T1aN2POzuYH_Xm2p1UH31X9QR9HyjOlbH9ry6-omxyrf5aPCWWkWkOVq-PAtLdxjrFeobsSWh4odQojg0ERjpYIoApBwAnf6v0hVMvwnNggqBpmGTWIKiwC_Mpt0S661l445uRtE-kJpChWxCSfgHvHoiWA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Calculators",
+      "link": "https://militarypay.defense.gov/calculators/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/calculators/&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQFnoECBsQAQ",
+      "displayed_link": "https://militarypay.defense.gov › calculators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "REDUX Calculator: Service members who opted for the Career Status Bonus at 15 years of service, but are not yet retired can use this calculator to estimate ...",
+      "snippet_highlighted_words": [
+        "REDUX Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "REDUX Calculator: Service members who opted for the Career Status Bonus at 15 years of service, but are not yet retired can use this calculator to estimate ...",
+          "source_info_link": "https://militarypay.defense.gov/calculators/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/calculators/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2Fcalculators%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/calculators/#:~:text=REDUX%20Calculator%3A%20Service%20members%20who,under%20the%20REDUX%20retirement%20plan."
+    },
+    {
+      "position": 2,
+      "title": "National Guard & Reserves Retirement Calculator",
+      "link": "https://themilitarywallet.com/reserve-retirement-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://themilitarywallet.com/reserve-retirement-calculator/&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQFnoECBgQAQ",
+      "displayed_link": "https://themilitarywallet.com › reserve-retirement-calcul...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEVHcEwnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAhLgBVYQ8EEACmtiQlMgA6RwfE1Sve8TJreRUWJAB-jBo2QwYAo_maAAAAEXRSTlMAEwgpkv8fqoRh4DZwS9Hywv0CEv0AAADBSURBVHgBhdAFDsMwEARA04aZ6f_fLFgry1fcQmCUHKh_0ebDTcujQ_JmKXiSAbkkUyBCpLGVgEAUOlgFgT51KPcB4VjOJ5MINCzH10hEy9NWK4lROkJA9BSWS2Lshz4uVyPCcZhGr23CWwHnZV23de_Bcp2Ys--3bT84qi4gcZjO6QBqblbgvBzHNQM1N0vkomf_Rc3NAi1RIyRvwLjPK-KDIfmvBSrdCMtjY1dMoSVxdO5dJuqrtepzkrQRj_3MHeUdCzGyzGpbAAAAAElFTkSuQmCC.png",
+      "snippet": "Use our free retirement calculator to estimate your monthly and annual payments. Calculate Your Estimated Retirement Pay: Status at retirement: Active Duty",
+      "snippet_highlighted_words": [
+        "Use our free retirement calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our free retirement calculator to estimate your monthly and annual payments. Calculate Your Estimated Retirement Pay: Status at retirement: Active Duty",
+          "source_info_link": "https://themilitarywallet.com/reserve-retirement-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEVHcEwnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAnNAAhLgBVYQ8EEACmtiQlMgA6RwfE1Sve8TJreRUWJAB-jBo2QwYAo_maAAAAEXRSTlMAEwgpkv8fqoRh4DZwS9Hywv0CEv0AAADBSURBVHgBhdAFDsMwEARA04aZ6f_fLFgry1fcQmCUHKh_0ebDTcujQ_JmKXiSAbkkUyBCpLGVgEAUOlgFgT51KPcB4VjOJ5MINCzH10hEy9NWK4lROkJA9BSWS2Lshz4uVyPCcZhGr23CWwHnZV23de_Bcp2Ys--3bT84qi4gcZjO6QBqblbgvBzHNQM1N0vkomf_Rc3NAi1RIyRvwLjPK-KDIfmvBSrdCMtjY1dMoSVxdO5dJuqrtepzkrQRj_3MHeUdCzGyzGpbAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://themilitarywallet.com/reserve-retirement-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthemilitarywallet.com%2Freserve-retirement-calculator%2F",
+      "source": "The Military Wallet",
+      "read_more_link": "https://themilitarywallet.com/reserve-retirement-calculator/#:~:text=Use%20our%20free%20retirement%20calculator,Active%20Duty"
+    },
+    {
+      "position": 3,
+      "title": "FMS Calculator - Advancement & Promotion - MyNavy Portal",
+      "link": "https://mn3p.navy.mil/web/advancement-and-promotion/fms-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mn3p.navy.mil/web/advancement-and-promotion/fms-calculator&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQFnoECB0QAQ",
+      "displayed_link": "https://mn3p.navy.mil › web › fms-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEULY84LY84KY84DYM0LY84VatAoddSbu-nK3PS80fBGh9mBruVjm-DS4fV0peP____4-_5Wk92mxOwAW8yHclkmAAAABXRSTlNU4f__8PE6cmQAAADgSURBVHgBlZJHggMgCEUTDdj7_e86wEKc9PzFtzwrcLlczQtdhb2m7JYkJt0NbwIBEdXghBad9yEm733Mxfv6H5bW-pittZzIHHwPfe8MO8PeHb1KHwQx5yyGyGYAYO-ENKfDPOeMi2Qj9ep5Z5M766K5VakXwCrsJ-wCP-80MGrNGFNKKHdirTUao7DCYvGKuKEeKyc6DkJ6fJDAJPDhQQp1pwZhscacc0S3g0ACktHwse3XSv5BA1977_ufItCUnQ8SWYX6IN2pZTKol_RO0llgYic8SlO6Am_kv5c8sT9GeBYzvE23DQAAAABJRU5ErkJggg.png",
+      "snippet": "Final Multiple Score (FMS) is a \"Whole Person Concept\" that considers a number of data elements to ensure the most qualified Sailors are selected for ...",
+      "snippet_highlighted_words": [
+        "Final Multiple Score (FMS"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Final Multiple Score (FMS) is a \"Whole Person Concept\" that considers a number of data elements to ensure the most qualified Sailors are selected for ...",
+          "source_info_link": "https://mn3p.navy.mil/web/advancement-and-promotion/fms-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEULY84LY84KY84DYM0LY84VatAoddSbu-nK3PS80fBGh9mBruVjm-DS4fV0peP____4-_5Wk92mxOwAW8yHclkmAAAABXRSTlNU4f__8PE6cmQAAADgSURBVHgBlZJHggMgCEUTDdj7_e86wEKc9PzFtzwrcLlczQtdhb2m7JYkJt0NbwIBEdXghBad9yEm733Mxfv6H5bW-pittZzIHHwPfe8MO8PeHb1KHwQx5yyGyGYAYO-ENKfDPOeMi2Qj9ep5Z5M766K5VakXwCrsJ-wCP-80MGrNGFNKKHdirTUao7DCYvGKuKEeKyc6DkJ6fJDAJPDhQQp1pwZhscacc0S3g0ACktHwse3XSv5BA1977_ufItCUnQ8SWYX6IN2pZTKol_RO0llgYic8SlO6Am_kv5c8sT9GeBYzvE23DQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://mn3p.navy.mil/web/advancement-and-promotion/fms-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmn3p.navy.mil%2Fweb%2Fadvancement-and-promotion%2Ffms-calculator",
+      "source": "navy.mil",
+      "read_more_link": "https://mn3p.navy.mil/web/advancement-and-promotion/fms-calculator#:~:text=Final%20Multiple%20Score%20(FMS)%20is,Sailors%20are%20selected%20for%20advancement."
+    },
+    {
+      "position": 4,
+      "title": "Military Calculation Rules",
+      "link": "https://ga.ng.mil/portals/49/g1/documents/HR%20SERVICES/RPAM/Attachment%202%20Military%20Calculation%20Rules.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ga.ng.mil/portals/49/g1/documents/HR%2520SERVICES/RPAM/Attachment%25202%2520Military%2520Calculation%2520Rules.pdf&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQFnoECDsQAQ",
+      "displayed_link": "https://ga.ng.mil › portals › HR SERVICES › RPAM",
+      "favicon": "https://serpapi.com/searches/6a3a211218dc93d121ea2331/images/zV3M3TlC_ml-mv6izulvaP6fp0x76lYQdb11eXk2cek.png",
+      "snippet": "Member is given credit for 130 points only as none were for funeral honor duty. Maximum retirement points for Inactive duty points (IDT & Membership & ACCP).",
+      "snippet_highlighted_words": [
+        "points",
+        "duty",
+        "points",
+        "duty points"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 3
+          },
+          "extensions": [
+            "3 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Member is given credit for 130 points only as none were for funeral honor duty. Maximum retirement points for Inactive duty points (IDT & Membership & ACCP).",
+          "source_info_link": "https://ga.ng.mil/portals/49/g1/documents/HR%20SERVICES/RPAM/Attachment%202%20Military%20Calculation%20Rules.pdf",
+          "icon": "https://serpapi.com/searches/6a3a211218dc93d121ea2331/images/zV3M3TlC_ml-mv6izulvaFK2iRZOttD5O7ZtzpQjYnYqL2Knh_X4zr0ioqYZM7UL.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ga.ng.mil/portals/49/g1/documents/HR%20SERVICES/RPAM/Attachment%202%20Military%20Calculation%20Rules.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fga.ng.mil%2Fportals%2F49%2Fg1%2Fdocuments%2FHR%2520SERVICES%2FRPAM%2FAttachment%25202%2520Military%2520Calculation%2520Rules.pdf",
+      "source": "Georgia National Guard (.mil)",
+      "read_more_link": "https://ga.ng.mil/portals/49/g1/documents/HR%20SERVICES/RPAM/Attachment%202%20Military%20Calculation%20Rules.pdf#:~:text=Member%20is%20given%20credit,(IDT%20%26%20Membership%20%26%20ACCP)"
+    },
+    {
+      "position": 5,
+      "title": "Military Retirement Pay Calculator",
+      "link": "https://veteran.com/military-retirement-calculators/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://veteran.com/military-retirement-calculators/&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQFnoECDkQAQ",
+      "displayed_link": "https://veteran.com › Retirement/Pension",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAGUEAGUEAGUEAGUEAGUEAGUEAGUEAGEEAGUEAGUEAGUEAGUEAGUEAFkAAGUF_LUbYPkvYPkvZPkteJkS-OUncP0vYPkvLO0rYPkvYPktuxi__AAAAG3RSTlMAb3sQhI7_IqXPNrji9EpaB1zF__91S5b2uSUp5I2JAAAAzklEQVR4AZ2SURZAQAwDCwAAYO9_UFp9efErQHbAQP4nip9EwknSZyjVvSzXFAxLHansMIMlQxupbbexfWKR9lYstcFYkE575KXV0oH1nysN1nrxVNqy7wNUXgprCSBs4NGAwYY9ELaJyYNtIngMIGQDj3EEgo17pDJNQLBxj1HmmWH62pX-2MvC1x0NKlvXbT-W5dj3aadv6DkXz4yzC8B-f9lE162MmNDEDDb-YS-7KAjejXrIcoZwLgB4q-oxXVqvjeFoP2QhErRh8y83vmcMCfkRWd8AAAAASUVORK5CYII.png",
+      "date": "Apr 16, 2025",
+      "snippet": "This tool is aimed at helping you if you're active duty or serving in the National Guard or the Reserves.",
+      "snippet_highlighted_words": [
+        "duty",
+        "National"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This tool is aimed at helping you if you're active duty or serving in the National Guard or the Reserves.",
+          "source_info_link": "https://veteran.com/military-retirement-calculators/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAGUEAGUEAGUEAGUEAGUEAGUEAGUEAGEEAGUEAGUEAGUEAGUEAGUEAFkAAGUF_LUbYPkvYPkvZPkteJkS-OUncP0vYPkvLO0rYPkvYPktuxi__AAAAG3RSTlMAb3sQhI7_IqXPNrji9EpaB1zF__91S5b2uSUp5I2JAAAAzklEQVR4AZ2SURZAQAwDCwAAYO9_UFp9efErQHbAQP4nip9EwknSZyjVvSzXFAxLHansMIMlQxupbbexfWKR9lYstcFYkE575KXV0oH1nysN1nrxVNqy7wNUXgprCSBs4NGAwYY9ELaJyYNtIngMIGQDj3EEgo17pDJNQLBxj1HmmWH62pX-2MvC1x0NKlvXbT-W5dj3aadv6DkXz4yzC8B-f9lE162MmNDEDDb-YS-7KAjejXrIcoZwLgB4q-oxXVqvjeFoP2QhErRh8y83vmcMCfkRWd8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://veteran.com/military-retirement-calculators/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fveteran.com%2Fmilitary-retirement-calculators%2F",
+      "source": "Veteran.com",
+      "read_more_link": "https://veteran.com/military-retirement-calculators/#:~:text=Note%3A%20This%20tool%20is%20aimed,National%20Guard%20or%20the%20Reserves."
+    },
+    {
+      "position": 6,
+      "title": "Military Retirement Calculator, Pay, Pension",
+      "link": "https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQFnoECDcQAQ",
+      "displayed_link": "https://www.militaryonesource.mil › personal-finance",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png",
+      "date": "Mar 26, 2026",
+      "snippet": "You can get a solid estimate in less than five minutes using free retirement pension calculators for the High-36 and Final Pay legacy retirement systems.",
+      "snippet_highlighted_words": [
+        "free retirement pension calculators"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You can get a solid estimate in less than five minutes using free retirement pension calculators for the High-36 and Final Pay legacy retirement systems.",
+          "source_info_link": "https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militaryonesource.mil%2Ffinancial-legal%2Fpersonal-finance%2Fmilitary-retirement-calculators%2F",
+      "source": "Military OneSource (.mil)",
+      "read_more_link": "https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/#:~:text=You%20can%20get%20a%20solid,offered%20by%20the%20War%20Department."
+    },
+    {
+      "position": 7,
+      "title": "Estimate Your Retirement Pay",
+      "link": "https://www.dfas.mil/retiredmilitary/plan/estimate/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dfas.mil/retiredmilitary/plan/estimate/&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQFnoECDYQAQ",
+      "displayed_link": "https://www.dfas.mil › retiredmilitary › plan › estimate",
+      "favicon": "https://serpapi.com/searches/6a3a211218dc93d121ea2331/images/zV3M3TlC_ml-mv6izulvaBWu5m5ERu7LAO5BeeUumQw.png",
+      "date": "Sep 22, 2023",
+      "snippet": "Reserve service is “converted” to active service by dividing retirement points by 360. 7200 points divided by 360 = 20 years of active duty ...",
+      "snippet_highlighted_words": [
+        "service",
+        "service",
+        "points",
+        "points",
+        "duty"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Reserve service is “converted” to active service by dividing retirement points by 360. 7200 points divided by 360 = 20 years of active duty ...",
+          "source_info_link": "https://www.dfas.mil/retiredmilitary/plan/estimate/",
+          "icon": "https://serpapi.com/searches/6a3a211218dc93d121ea2331/images/zV3M3TlC_ml-mv6izulvaJmzXV33FjE6eo9Q0tzDESihmVlG6ihANL1e5TsZUggu.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.dfas.mil/retiredmilitary/plan/estimate/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dfas.mil%2Fretiredmilitary%2Fplan%2Festimate%2F",
+      "source": "Defense Finance Accounting Service (DFAS) (.mil)",
+      "read_more_link": "https://www.dfas.mil/retiredmilitary/plan/estimate/#:~:text=Reserve%20service%20is%20%E2%80%9Cconverted%E2%80%9D%20to,years%20of%20active%20duty%20service"
+    },
+    {
+      "position": 8,
+      "title": "Military Pay Calculator",
+      "link": "https://www.military.com/benefits/military-pay/calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/benefits/military-pay/calculator&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQFnoECD4QAQ",
+      "displayed_link": "https://www.military.com › benefits › calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "snippet": "To begin using the Military Pay Calculator, first choose your status: whether Active Duty, National Guard or Reserve. Then scroll down to find your current pay ...",
+      "snippet_highlighted_words": [
+        "Military Pay Calculator"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Allowances",
+            "link": "https://www.military.com/benefits/military-pay/calculator#:~:text=Allowances,-Tap%20%60%60Next%3A"
+          },
+          {
+            "title": "Special Pay",
+            "link": "https://www.military.com/benefits/military-pay/calculator#:~:text=Special%20Pay,-Some%20military%20members%20who%20face"
+          },
+          {
+            "title": "About Military Pay",
+            "link": "https://www.military.com/benefits/military-pay/calculator#:~:text=About%20Military%20Pay"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "To begin using the Military Pay Calculator, first choose your status: whether Active Duty, National Guard or Reserve. Then scroll down to find your current pay ...",
+          "source_info_link": "https://www.military.com/benefits/military-pay/calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/benefits/military-pay/calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fbenefits%2Fmilitary-pay%2Fcalculator",
+      "source": "Military.com",
+      "read_more_link": "https://www.military.com/benefits/military-pay/calculator#:~:text=To%20begin%20using%20the%20Military,grade%3A%20E1%2D9%2C%20W1%2D5%2C%20or%20O1%2D10."
+    },
+    {
+      "position": 9,
+      "title": "West Point Admissions Calculator | Whole Candidate Score",
+      "link": "https://www.gainserviceacademyadmission.com/calculators/wcs/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gainserviceacademyadmission.com/calculators/wcs/&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQFnoECDgQAQ",
+      "displayed_link": "https://www.gainserviceacademyadmission.com › wcs",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAclBMVEWxlV6Ldk2OeE4AABcAABsKEiAADh8ADCAAABooJycABx9AOjGki1jWtG5fUju4m2AdICZ5Z0XJqWgWGyQAAB4ZHSXbt3AOFiMuKynRsGwTGSRrXEHBo2WZglRxYUNGPzM8Ny-GckxoWj9TSTdaTzqskVwaoFIrAAABVUlEQVR4AZ2ThQKEIBBEFdZFsGVRz87__8Tr7rux5dEzlmWzN7K35RzeiNsWA-daiDefwG4B4UrpipeA4p4fBL7H1VMAeBgFLI5ZEIUc7gEESNI0Eag1it0bAF4DYl-PHG220g7t2xIXAGXme5Sbs3Ly_EziBShWvDQ3KvmquAHI3In-AbTe3V4DGBdkUOa50fgMUKwKa7LDpnWEpR4BtCuhWqy514k2wjtABkQpxX2PQz2Kfmq8kgJ5ARzISkqhbIZpC_JtN6NTZuBcAF7P1LRklVFfsGGmpFFzza8AYL5SUyVzGc5m6sppUg27bgFlEOsy10bnpS5LU-ZxIPF6u91mAXMlWBr3zg9poi7lKkkBbx0liqA67wdVQSHuLQdeMEC532kYAo8ePUkyjaTQWsgolfDM1cJlGTNme3PxRS7cYmf7wn0dHNwFB2-C8zF6H8P7Mf4bpR0pI8XJGE0AAAAASUVORK5CYII.png",
+      "snippet": "See exactly where your WCS points come from. Enter your scores above to see your standing — then get your full, personalized breakdown by email.",
+      "snippet_highlighted_words": [
+        "Enter your scores above to see your standing"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "The Wcs At Three Weights",
+            "link": "https://www.gainserviceacademyadmission.com/calculators/wcs/#:~:text=The%20WCS%20at%20three%20weights."
+          },
+          {
+            "title": "Common Questions",
+            "link": "https://www.gainserviceacademyadmission.com/calculators/wcs/#:~:text=Common%20questions."
+          },
+          {
+            "title": "What Counts As A Competitive...",
+            "link": "https://www.gainserviceacademyadmission.com/calculators/wcs/#:~:text=What%20counts%20as%20a%20competitive%20Whole%20Candidate%20Score%3F"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "See exactly where your WCS points come from. Enter your scores above to see your standing — then get your full, personalized breakdown by email.",
+          "source_info_link": "https://www.gainserviceacademyadmission.com/calculators/wcs/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAclBMVEWxlV6Ldk2OeE4AABcAABsKEiAADh8ADCAAABooJycABx9AOjGki1jWtG5fUju4m2AdICZ5Z0XJqWgWGyQAAB4ZHSXbt3AOFiMuKynRsGwTGSRrXEHBo2WZglRxYUNGPzM8Ny-GckxoWj9TSTdaTzqskVwaoFIrAAABVUlEQVR4AZ2ThQKEIBBEFdZFsGVRz87__8Tr7rux5dEzlmWzN7K35RzeiNsWA-daiDefwG4B4UrpipeA4p4fBL7H1VMAeBgFLI5ZEIUc7gEESNI0Eag1it0bAF4DYl-PHG220g7t2xIXAGXme5Sbs3Ly_EziBShWvDQ3KvmquAHI3In-AbTe3V4DGBdkUOa50fgMUKwKa7LDpnWEpR4BtCuhWqy514k2wjtABkQpxX2PQz2Kfmq8kgJ5ARzISkqhbIZpC_JtN6NTZuBcAF7P1LRklVFfsGGmpFFzza8AYL5SUyVzGc5m6sppUg27bgFlEOsy10bnpS5LU-ZxIPF6u91mAXMlWBr3zg9poi7lKkkBbx0liqA67wdVQSHuLQdeMEC532kYAo8ePUkyjaTQWsgolfDM1cJlGTNme3PxRS7cYmf7wn0dHNwFB2-C8zF6H8P7Mf4bpR0pI8XJGE0AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.gainserviceacademyadmission.com/calculators/wcs/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gainserviceacademyadmission.com%2Fcalculators%2Fwcs%2F",
+      "source": "Gain Service Academy Admission",
+      "read_more_link": "https://www.gainserviceacademyadmission.com/calculators/wcs/#:~:text=See%20exactly%20where%20your%20WCS,full%2C%20personalized%20breakdown%20by%20email."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military service record points calculator 2022",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+service+record+points+calculator+2022&sa=X&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+service+record+points+calculator+2022"
+    },
+    {
+      "block_position": 1,
+      "query": "Best military service record points calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Best+military+service+record+points+calculator&sa=X&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ1QJ6BAgtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+military+service+record+points+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Active duty points calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Active+duty+points+calculator&sa=X&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Active+duty+points+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "20 year military retirement calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=20+year+military+retirement+calculator&sa=X&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=20+year+military+retirement+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Military High-3 Calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+High-3+Calculator&sa=X&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+High-3+Calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Military retirement pay chart",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+retirement+pay+chart&sa=X&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+retirement+pay+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Military retirement calculator monthly",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+retirement+calculator+monthly&sa=X&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+retirement+calculator+monthly"
+    },
+    {
+      "block_position": 1,
+      "query": "Retirement points calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Retirement+points+calculator&sa=X&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Retirement+points+calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+service+record+points+calculator&sca_esv=c510ba4e6526f391&ei=EyE6arqEE5iqur8P6q3vkAw&start=10&sa=N&sstk=AU9db-DEMEXBzP6LR3ICg3FPCGjMZt9e5VEvBRpPqfv5Ia4eBHxr9tvljZYARolpeDrRd06BdI4G4OzMwtFehoODjJZbthNB3pASAA&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ8NMDegQILBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+service+record+points+calculator&sca_esv=c510ba4e6526f391&ei=EyE6arqEE5iqur8P6q3vkAw&start=10&sa=N&sstk=AU9db-DEMEXBzP6LR3ICg3FPCGjMZt9e5VEvBRpPqfv5Ia4eBHxr9tvljZYARolpeDrRd06BdI4G4OzMwtFehoODjJZbthNB3pASAA&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ8tMDegQILBAE",
+      "3": "https://www.google.com/search?q=military+service+record+points+calculator&sca_esv=c510ba4e6526f391&ei=EyE6arqEE5iqur8P6q3vkAw&start=20&sa=N&sstk=AU9db-DEMEXBzP6LR3ICg3FPCGjMZt9e5VEvBRpPqfv5Ia4eBHxr9tvljZYARolpeDrRd06BdI4G4OzMwtFehoODjJZbthNB3pASAA&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ8tMDegQILBAG",
+      "4": "https://www.google.com/search?q=military+service+record+points+calculator&sca_esv=c510ba4e6526f391&ei=EyE6arqEE5iqur8P6q3vkAw&start=30&sa=N&sstk=AU9db-DEMEXBzP6LR3ICg3FPCGjMZt9e5VEvBRpPqfv5Ia4eBHxr9tvljZYARolpeDrRd06BdI4G4OzMwtFehoODjJZbthNB3pASAA&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ8tMDegQILBAI",
+      "5": "https://www.google.com/search?q=military+service+record+points+calculator&sca_esv=c510ba4e6526f391&ei=EyE6arqEE5iqur8P6q3vkAw&start=40&sa=N&sstk=AU9db-DEMEXBzP6LR3ICg3FPCGjMZt9e5VEvBRpPqfv5Ia4eBHxr9tvljZYARolpeDrRd06BdI4G4OzMwtFehoODjJZbthNB3pASAA&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ8tMDegQILBAK",
+      "6": "https://www.google.com/search?q=military+service+record+points+calculator&sca_esv=c510ba4e6526f391&ei=EyE6arqEE5iqur8P6q3vkAw&start=50&sa=N&sstk=AU9db-DEMEXBzP6LR3ICg3FPCGjMZt9e5VEvBRpPqfv5Ia4eBHxr9tvljZYARolpeDrRd06BdI4G4OzMwtFehoODjJZbthNB3pASAA&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ8tMDegQILBAM",
+      "7": "https://www.google.com/search?q=military+service+record+points+calculator&sca_esv=c510ba4e6526f391&ei=EyE6arqEE5iqur8P6q3vkAw&start=60&sa=N&sstk=AU9db-DEMEXBzP6LR3ICg3FPCGjMZt9e5VEvBRpPqfv5Ia4eBHxr9tvljZYARolpeDrRd06BdI4G4OzMwtFehoODjJZbthNB3pASAA&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ8tMDegQILBAO",
+      "8": "https://www.google.com/search?q=military+service+record+points+calculator&sca_esv=c510ba4e6526f391&ei=EyE6arqEE5iqur8P6q3vkAw&start=70&sa=N&sstk=AU9db-DEMEXBzP6LR3ICg3FPCGjMZt9e5VEvBRpPqfv5Ia4eBHxr9tvljZYARolpeDrRd06BdI4G4OzMwtFehoODjJZbthNB3pASAA&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ8tMDegQILBAQ",
+      "9": "https://www.google.com/search?q=military+service+record+points+calculator&sca_esv=c510ba4e6526f391&ei=EyE6arqEE5iqur8P6q3vkAw&start=80&sa=N&sstk=AU9db-DEMEXBzP6LR3ICg3FPCGjMZt9e5VEvBRpPqfv5Ia4eBHxr9tvljZYARolpeDrRd06BdI4G4OzMwtFehoODjJZbthNB3pASAA&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ8tMDegQILBAS",
+      "10": "https://www.google.com/search?q=military+service+record+points+calculator&sca_esv=c510ba4e6526f391&ei=EyE6arqEE5iqur8P6q3vkAw&start=90&sa=N&sstk=AU9db-DEMEXBzP6LR3ICg3FPCGjMZt9e5VEvBRpPqfv5Ia4eBHxr9tvljZYARolpeDrRd06BdI4G4OzMwtFehoODjJZbthNB3pASAA&ved=2ahUKEwj62cPZ15yVAxUYle4BHerWG8IQ8tMDegQILBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+service+record+points+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+service+record+points+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+service+record+points+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+service+record+points+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+service+record+points+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+service+record+points+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+service+record+points+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+service+record+points+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+service+record+points+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+service+record+points+calculator&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+service+record+points+calculator&start=90"
+    }
+  }
+}

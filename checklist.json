@@ -1,0 +1,400 @@
+{
+  "search_metadata": {
+    "id": "6a3a21d6bdfe490ded7fcc0b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/OmnH_IW5Wg6p8A9VhD6wPQ/6a3a21d6bdfe490ded7fcc0b.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/OmnH_IW5Wg6p8A9VhD6wPQ/6a3a21d6bdfe490ded7fcc0b.json_with_pixel_position",
+    "created_at": "2026-06-23 06:04:06 UTC",
+    "processed_at": "2026-06-23 06:04:06 UTC",
+    "google_url": "https://www.google.com/search?q=military+transition+checklist+countdown&oq=military+transition+checklist+countdown&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/OmnH_IW5Wg6p8A9VhD6wPQ/6a3a21d6bdfe490ded7fcc0b.html",
+    "total_time_taken": 0.71
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military transition checklist countdown",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military transition checklist countdown",
+    "total_results": 203000,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "EBTq2nicxZbdcqJIFIDv9z3Gm2QExN9UUVMNoqIhSgyTmBsKG2yQP0OjDHO377JPte-x99ONoBg1qZ2qrW1L-ofTp8_pcz6Pf_7lu6H39x__OEmywXcMk6ZpHUUR8u06jALGxFkImVXk4xg633C0jaHtWgJ04iiwa9lO4GsQC2zNdgXOldvmJm5Lk6G6jbszNrnPMFBruQrBWJrYXpMTfqwxYzDk4X3h-2RSx3U7rC9n0F2NklGqo3qD5Xr1KWMGRAD8h00Gj3mvkY9CeuVMgh6PPtGiKXTjvLIiVZ5lU_eKFCXvpKtKpcIKaUFF-l9f46YI-lq-NvrAivnp9Jk-ZJACIFITZe3SnktGlGtR0YtXT5TPl3JhsTirX1V_zV-xGmCN6nzqAukYiNJlEZQeEBFExuJeYwuIzVkqDaUPwkTebNBIdr5qF42utMFE3qTF-H4xJBYxFiJJyDLLmHQc40IH5oMY09yUnnpsNAjB60N760yeeFUyDF6fhErk-GFj09UYuCRyfmRatmU4Bvstn3MNrtNotdvN2xwKiA9U4CoVr23VB_x4xQ9A_b4uchUk8stQTnym6SZecW9S3OE7cbDXQvWNi7spb1kvxcSopKNYWHs0qxaHhS4NhfP-RKrrHImyoeqAIJGbreiHnVVxOlTEo6lF67-P93Fe-LAAE-3gslyxeH8RcnXuUReVYbmQHl5RrcgHOeIECblQOD3Zj6qGEU2iBOTy9cECKtP3DmJybiF9vdC0BVAGBFESPlQ6X4SSIKGc3h1Yn8wGiH4ldBHwz5p4DPi1JoMy99-lchUBeQo63dB4eXmTE4XV2SBLt63HxbARm-hyykfB8l9UAvj_QqEXdUIvSJhchAJ9AoWmyB_Wib3dxzpBc0WKrkEhFVCc1ol94h7rxDkU81MorteJChR7LR9DIV6FYv-zcg4FrRNnUKArUOzrRBWK0zoRHjRTDypQ_Fad0H6jTuSM2PvutGhs1-h68diMZ7bXfn7Rv081U3N2tmdmuxbndS30afFYBcldYFr-reFad2JjnGTWrUEWojvbqr0Jgeu7iRlnN0lshthN3Ci8gY4NPd_FyQ2MtmFiRWlYC_w4ElizY87Dn5litdZ2Z8ipaTdb6c5a_w76oqir_ano8sp2smp1lssm4mU1XLLPkNU6Xuvn7tFc959sZ2I9IIN4hh3urbnTwrCL0EyVdS3gNmpbnmRvxDrVtkdezOsrMG8YcynrjRKdH4znCQdhtlIgWCDHm-ZWYcHDD-su7vTUe1gje7EtcLUghgJJ_6YHHjTwjAAkEACN_KXSpIh8U5ICNQxNw8Y7AbY4dmk27Xar0V7xPbIZJdlG6LE1HMYC9wsbEyBO",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EBTq2nicxZbdcqJIFIDv9z3Gm2QExN9UUVMNoqIhSgyTmBsKG2yQP0OjDHO377JPte-x99ONoBg1qZ2qrW1L-ofTp8_pcz6Pf_7lu6H39x__OEmywXcMk6ZpHUUR8u06jALGxFkImVXk4xg633C0jaHtWgJ04iiwa9lO4GsQC2zNdgXOldvmJm5Lk6G6jbszNrnPMFBruQrBWJrYXpMTfqwxYzDk4X3h-2RSx3U7rC9n0F2NklGqo3qD5Xr1KWMGRAD8h00Gj3mvkY9CeuVMgh6PPtGiKXTjvLIiVZ5lU_eKFCXvpKtKpcIKaUFF-l9f46YI-lq-NvrAivnp9Jk-ZJACIFITZe3SnktGlGtR0YtXT5TPl3JhsTirX1V_zV-xGmCN6nzqAukYiNJlEZQeEBFExuJeYwuIzVkqDaUPwkTebNBIdr5qF42utMFE3qTF-H4xJBYxFiJJyDLLmHQc40IH5oMY09yUnnpsNAjB60N760yeeFUyDF6fhErk-GFj09UYuCRyfmRatmU4Bvstn3MNrtNotdvN2xwKiA9U4CoVr23VB_x4xQ9A_b4uchUk8stQTnym6SZecW9S3OE7cbDXQvWNi7spb1kvxcSopKNYWHs0qxaHhS4NhfP-RKrrHImyoeqAIJGbreiHnVVxOlTEo6lF67-P93Fe-LAAE-3gslyxeH8RcnXuUReVYbmQHl5RrcgHOeIECblQOD3Zj6qGEU2iBOTy9cECKtP3DmJybiF9vdC0BVAGBFESPlQ6X4SSIKGc3h1Yn8wGiH4ldBHwz5p4DPi1JoMy99-lchUBeQo63dB4eXmTE4XV2SBLt63HxbARm-hyykfB8l9UAvj_QqEXdUIvSJhchAJ9AoWmyB_Wib3dxzpBc0WKrkEhFVCc1ol94h7rxDkU81MorteJChR7LR9DIV6FYv-zcg4FrRNnUKArUOzrRBWK0zoRHjRTDypQ_Fad0H6jTuSM2PvutGhs1-h68diMZ7bXfn7Rv081U3N2tmdmuxbndS30afFYBcldYFr-reFad2JjnGTWrUEWojvbqr0Jgeu7iRlnN0lshthN3Ci8gY4NPd_FyQ2MtmFiRWlYC_w4ElizY87Dn5litdZ2Z8ipaTdb6c5a_w76oqir_ano8sp2smp1lssm4mU1XLLPkNU6Xuvn7tFc959sZ2I9IIN4hh3urbnTwrCL0EyVdS3gNmpbnmRvxDrVtkdezOsrMG8YcynrjRKdH4znCQdhtlIgWCDHm-ZWYcHDD-su7vTUe1gje7EtcLUghgJJ_6YHHjTwjAAkEACN_KXSpIh8U5ICNQxNw8Y7AbY4dmk27Xar0V7xPbIZJdlG6LE1HMYC9wsbEyBO"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Managing Your Transition",
+      "link": "https://www.tapevents.mil/Assets/ResourceContent/TAP/Managing_Your_Transition.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tapevents.mil/Assets/ResourceContent/TAP/Managing_Your_Transition.pdf&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQFnoECBoQAQ",
+      "displayed_link": "https://www.tapevents.mil › ResourceContent › TAP",
+      "favicon": "https://serpapi.com/searches/6a3a21d6bdfe490ded7fcc0b/images/FW-CDPGp3308Z9p84s2mwaLumAhNxNgrWMSa7ZjSB_o.png",
+      "snippet": "Complete a Continuum of Military Service. Opportunity counseling. Capstone. MANDATORY FOR ALL SERVICE MEMBERS. Verification NLT 90 days prior to transition by.",
+      "snippet_highlighted_words": [
+        "Military",
+        "counseling",
+        "transition"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 27
+          },
+          "extensions": [
+            "27 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Complete a Continuum of Military Service. Opportunity counseling. Capstone. MANDATORY FOR ALL SERVICE MEMBERS. Verification NLT 90 days prior to transition by.",
+          "source_info_link": "https://www.tapevents.mil/Assets/ResourceContent/TAP/Managing_Your_Transition.pdf",
+          "icon": "https://serpapi.com/searches/6a3a21d6bdfe490ded7fcc0b/images/FW-CDPGp3308Z9p84s2mwW6-crMdYdN-H9-Sti3Y88zYKortnMAFbvQS7APUxqtC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tapevents.mil/Assets/ResourceContent/TAP/Managing_Your_Transition.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tapevents.mil%2FAssets%2FResourceContent%2FTAP%2FManaging_Your_Transition.pdf",
+      "source": "TAP Events (.mil)",
+      "read_more_link": "https://www.tapevents.mil/Assets/ResourceContent/TAP/Managing_Your_Transition.pdf#:~:text=Complete%20a%20Continuum,days%20prior%20to%20transition%20by"
+    },
+    {
+      "position": 2,
+      "title": "Your 2026 Military Transition Checklist",
+      "link": "https://www.firstcommand.com/coaching-center/financial-resources/military-separation-checklist/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.firstcommand.com/coaching-center/financial-resources/military-separation-checklist/&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQFnoECBcQAQ",
+      "displayed_link": "https://www.firstcommand.com › financial-resources",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX____rrbDdanLdZW3ZUVvxw8ZUd6pcfa1ti7XaWWHPABHQAB3PAADb4uwANIgAR48AP4x8lbvREybUKTf55-mqudENTJK3xNkAN4no7fTRFyjppqron6MUUZX33N3SIC_hf4XQABrvvL8AQo3fcnnPAAoAOooyYJ3L1OOWqcfjhozWPkn-9_jyy87lkZbuubwiutkFAAAAzUlEQVR4AWIYogBA5VjgMAzAQGwMZWZm7v9_t1xHaUSWrMh3PJ0vV8DtTvfYuacgSpuTFVVVNX33JximtZGtOY6jubtH8fmhh0rS87kUgnMYHUGxg-MuEdJAFDIi3yOlPnZJMU3TvCBykSxtLiuDZI1FekmykblMtwO12KNxZ9WkjArYIHnjsshJihjbQZY9lwOSQkLUI6l1XI4BPkE3JD3uJiSDJ1BDsuVy3pIRkYykZ3O5SHmeSzORrWiaohOwzxU3Yazruv5rgzfNAQAO-xOc8Ujf6QAAAABJRU5ErkJggg.png",
+      "date": "Mar 13, 2026",
+      "snippet": "This article and comprehensive checklist are designed to simplify your transition by focusing on the key financial decisions you will need to make.",
+      "snippet_highlighted_words": [
+        "checklist",
+        "transition"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This article and comprehensive checklist are designed to simplify your transition by focusing on the key financial decisions you will need to make.",
+          "source_info_link": "https://www.firstcommand.com/coaching-center/financial-resources/military-separation-checklist/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX____rrbDdanLdZW3ZUVvxw8ZUd6pcfa1ti7XaWWHPABHQAB3PAADb4uwANIgAR48AP4x8lbvREybUKTf55-mqudENTJK3xNkAN4no7fTRFyjppqron6MUUZX33N3SIC_hf4XQABrvvL8AQo3fcnnPAAoAOooyYJ3L1OOWqcfjhozWPkn-9_jyy87lkZbuubwiutkFAAAAzUlEQVR4AWIYogBA5VjgMAzAQGwMZWZm7v9_t1xHaUSWrMh3PJ0vV8DtTvfYuacgSpuTFVVVNX33JximtZGtOY6jubtH8fmhh0rS87kUgnMYHUGxg-MuEdJAFDIi3yOlPnZJMU3TvCBykSxtLiuDZI1FekmykblMtwO12KNxZ9WkjArYIHnjsshJihjbQZY9lwOSQkLUI6l1XI4BPkE3JD3uJiSDJ1BDsuVy3pIRkYykZ3O5SHmeSzORrWiaohOwzxU3Yazruv5rgzfNAQAO-xOc8Ujf6QAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.firstcommand.com/coaching-center/financial-resources/military-separation-checklist/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.firstcommand.com%2Fcoaching-center%2Ffinancial-resources%2Fmilitary-separation-checklist%2F",
+      "source": "First Command",
+      "read_more_link": "https://www.firstcommand.com/coaching-center/financial-resources/military-separation-checklist/#:~:text=This%20article%20and%20comprehensive%20checklist,you%20will%20need%20to%20make."
+    },
+    {
+      "position": 3,
+      "title": "The Final Countdown: Your Military Separation Checklist",
+      "link": "https://news.clearancejobs.com/2011/06/13/the-final-countdown-your-military-separation-checklist/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.clearancejobs.com/2011/06/13/the-final-countdown-your-military-separation-checklist/&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQFnoECCYQAQ",
+      "displayed_link": "https://news.clearancejobs.com › 2011/06/13 › the-final...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEVHcEwVPHZvLlkVPHYUPHYVPHYTPHbYHy7SIzPSIzPSIzMVPHbSIzPSIzPSIzPSIzMUPHYVPHYSPHbWIjDSIzPSIzMVPHYWPHbSIzPSIzPVIjHSIzMVPHZoqTmiAAAAHXRSTlMAIwSP9v_VB0B7pnsNuuf_W-apM27JDL70jE8aNF2He3AAAADOSURBVHgBYhjMgJERlwwToBqqMGAYhmFlDnO6_--ctdb5YSpEELLHaZ6XJtdtP5o4Z2ACvbZdSKWUfCNtKLFaW-cP8h-ErovGpomiccBmr59DqTfpOAMJdxm6gXwBn5GmyX6w9UJz2MfJnilO5QvxjSRXmChZxnHpHh9AGNM5Lu1UxYHYt4svZHAqwuY_mg5bNBF3SHmwT7g3_GMEFb_6Xr8WkduF1oJEBAk_5Hahq9R6gFYUoRjy8K517Kn4Yv89GWEu3BaB-QykDvo_8AUD_Q9J104_rAAAAABJRU5ErkJggg.png",
+      "date": "Jun 13, 2011",
+      "snippet": "A checklist to guide you isn't a bad idea, especially when you find yourself well down the road to release at the six-month mark.",
+      "snippet_highlighted_words": [
+        "checklist"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A checklist to guide you isn't a bad idea, especially when you find yourself well down the road to release at the six-month mark.",
+          "source_info_link": "https://news.clearancejobs.com/2011/06/13/the-final-countdown-your-military-separation-checklist/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEVHcEwVPHZvLlkVPHYUPHYVPHYTPHbYHy7SIzPSIzPSIzMVPHbSIzPSIzPSIzPSIzMUPHYVPHYSPHbWIjDSIzPSIzMVPHYWPHbSIzPSIzPVIjHSIzMVPHZoqTmiAAAAHXRSTlMAIwSP9v_VB0B7pnsNuuf_W-apM27JDL70jE8aNF2He3AAAADOSURBVHgBYhjMgJERlwwToBqqMGAYhmFlDnO6_--ctdb5YSpEELLHaZ6XJtdtP5o4Z2ACvbZdSKWUfCNtKLFaW-cP8h-ErovGpomiccBmr59DqTfpOAMJdxm6gXwBn5GmyX6w9UJz2MfJnilO5QvxjSRXmChZxnHpHh9AGNM5Lu1UxYHYt4svZHAqwuY_mg5bNBF3SHmwT7g3_GMEFb_6Xr8WkduF1oJEBAk_5Hahq9R6gFYUoRjy8K517Kn4Yv89GWEu3BaB-QykDvo_8AUD_Q9J104_rAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://news.clearancejobs.com/2011/06/13/the-final-countdown-your-military-separation-checklist/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnews.clearancejobs.com%2F2011%2F06%2F13%2Fthe-final-countdown-your-military-separation-checklist%2F",
+      "source": "Clearance Jobs",
+      "read_more_link": "https://news.clearancejobs.com/2011/06/13/the-final-countdown-your-military-separation-checklist/#:~:text=Both%20processes%20are%20busy%20ones,already%20have%20accomplished%20these%20tasks%3A"
+    },
+    {
+      "position": 4,
+      "title": "The Military Spouse Transition Timeline Part Two",
+      "link": "https://milspousetransition.com/the-military-spouse-transition-timeline-part-two-6-months-to-12-months-out/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://milspousetransition.com/the-military-spouse-transition-timeline-part-two-6-months-to-12-months-out/&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQFnoECCUQAQ",
+      "displayed_link": "https://milspousetransition.com › the-military-spouse-tra...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEzytDzyszjytDzytDvytT3yryjytDzytDrysjXyszfytDzytDzytDrxrBH3z4787dj__vv--_T87NT64Lf52afytDvxryHysS30wWX__fnzulD98uL64r5uxBFIAAAAHnRSTlMANV0he5dSm4RJbJMNkI2nwf73_4f______-T_1r0yhGYGAAABPklEQVR4AY3SB5LsIAwE0LGMBKgRNvZ48KT7H_MHbc7bRSUeGR1-nYFo-LR_HAITs8SUP1jUAJC3RPrGysDIAJkRkBlWXqGlHEmrThNVVUMYXywASjy3ZV3bcqxQjU9aogTUY9tOfe_9vF6UYHhEAlSmdt1Pnr5dKlLOD8gwS83hUW9ZEP3GJYvW27a_0gYY_D5jRJDWTy_Zt7kmzX5_BqbVJz7lehFNvu5IJMftDfalwtiRLU3vUQ0-s7DZtPa3yypR9ifkQLntbw50N7D4VSigzq_X3RspHh-QzSDL-Vn7eq-J6OCRmHLgdu5Oe19nYWN9wCIEQ76s5977vrV7DcJc3Py8nFM93pZlucwmeH5310gKSK1SKUGTL_qiIyOpgWBqTNHtVUjgFaQxjR_rc7CYNMY8fpDHxUs5_Dp_ATZJG-OrF8O3AAAAAElFTkSuQmCC.png",
+      "snippet": "This military spouse transition timeline provides specific checklists and guidance from 6 to 12 months out to ensure a better exit from active duty life.",
+      "snippet_highlighted_words": [
+        "provides specific checklists and guidance from 6 to 12 months out"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This military spouse transition timeline provides specific checklists and guidance from 6 to 12 months out to ensure a better exit from active duty life.",
+          "source_info_link": "https://milspousetransition.com/the-military-spouse-transition-timeline-part-two-6-months-to-12-months-out/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEzytDzyszjytDzytDvytT3yryjytDzytDrysjXyszfytDzytDzytDrxrBH3z4787dj__vv--_T87NT64Lf52afytDvxryHysS30wWX__fnzulD98uL64r5uxBFIAAAAHnRSTlMANV0he5dSm4RJbJMNkI2nwf73_4f______-T_1r0yhGYGAAABPklEQVR4AY3SB5LsIAwE0LGMBKgRNvZ48KT7H_MHbc7bRSUeGR1-nYFo-LR_HAITs8SUP1jUAJC3RPrGysDIAJkRkBlWXqGlHEmrThNVVUMYXywASjy3ZV3bcqxQjU9aogTUY9tOfe_9vF6UYHhEAlSmdt1Pnr5dKlLOD8gwS83hUW9ZEP3GJYvW27a_0gYY_D5jRJDWTy_Zt7kmzX5_BqbVJz7lehFNvu5IJMftDfalwtiRLU3vUQ0-s7DZtPa3yypR9ifkQLntbw50N7D4VSigzq_X3RspHh-QzSDL-Vn7eq-J6OCRmHLgdu5Oe19nYWN9wCIEQ76s5977vrV7DcJc3Py8nFM93pZlucwmeH5310gKSK1SKUGTL_qiIyOpgWBqTNHtVUjgFaQxjR_rc7CYNMY8fpDHxUs5_Dp_ATZJG-OrF8O3AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://milspousetransition.com/the-military-spouse-transition-timeline-part-two-6-months-to-12-months-out/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilspousetransition.com%2Fthe-military-spouse-transition-timeline-part-two-6-months-to-12-months-out%2F",
+      "source": "MilSpouse Transition"
+    },
+    {
+      "position": 5,
+      "title": "Financial Checklist for Military Transition: Planning ...",
+      "link": "https://www.navyfederal.org/makingcents/military-life/financial-checklist-for-military-transition.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.navyfederal.org/makingcents/military-life/financial-checklist-for-military-transition.html&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQFnoECCgQAQ",
+      "displayed_link": "https://www.navyfederal.org › ... › Military Life",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA4ElEQVR4AWJAB8oJSwCdUwENxCAMnAQkTMJLQAISkDAJczAJSHgJSKgEJCCBb5NrcuGfZPskF9rrtZQCWfFWDEVXNNjG5VnPiUFRKbHDL-QPcOErmQQJu0YkH7AbYr5B4AIVOD3RePdhF7PBien5zNxyA9yWmSd93nw4iou62X90sJsW9uXDNkcgTF7A1rkAx0yLWNuoreIk1pN5joGrXkB42vAjwDzHDsQEHTw-QkZM_h1i4SHyNcqNaxTSR35IcuMhvWiYdfUP8uIpd9j0H559prFKngslDLZzMXBx1n8AuU1izRJUOrMAAAAASUVORK5CYII.png",
+      "date": "Jan 24, 2025",
+      "snippet": "Start planning your financial transition at least one year before leaving Active Duty to maximize your benefits and options.",
+      "snippet_highlighted_words": [
+        "Start planning your financial transition at least one year"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Start planning your financial transition at least one year before leaving Active Duty to maximize your benefits and options.",
+          "source_info_link": "https://www.navyfederal.org/makingcents/military-life/financial-checklist-for-military-transition.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA4ElEQVR4AWJAB8oJSwCdUwENxCAMnAQkTMJLQAISkDAJczAJSHgJSKgEJCCBb5NrcuGfZPskF9rrtZQCWfFWDEVXNNjG5VnPiUFRKbHDL-QPcOErmQQJu0YkH7AbYr5B4AIVOD3RePdhF7PBien5zNxyA9yWmSd93nw4iou62X90sJsW9uXDNkcgTF7A1rkAx0yLWNuoreIk1pN5joGrXkB42vAjwDzHDsQEHTw-QkZM_h1i4SHyNcqNaxTSR35IcuMhvWiYdfUP8uIpd9j0H559prFKngslDLZzMXBx1n8AuU1izRJUOrMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.navyfederal.org/makingcents/military-life/financial-checklist-for-military-transition.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.navyfederal.org%2Fmakingcents%2Fmilitary-life%2Ffinancial-checklist-for-military-transition.html",
+      "source": "Navy Federal Credit Union",
+      "read_more_link": "https://www.navyfederal.org/makingcents/military-life/financial-checklist-for-military-transition.html#:~:text=Start%20planning%20your%20financial%20transition,maximize%20your%20benefits%20and%20options."
+    },
+    {
+      "position": 6,
+      "title": "About DOW Transition Assistance Program",
+      "link": "https://www.militaryonesource.mil/benefits/transition-assistance-program/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militaryonesource.mil/benefits/transition-assistance-program/&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQFnoECCcQAQ",
+      "displayed_link": "https://www.militaryonesource.mil › benefits › transitio...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png",
+      "snippet": "Learn about the DoDTAP website, offering service-specific transition assistance programs to help military service members prepare for their post-military ...",
+      "snippet_highlighted_words": [
+        "Learn about the DoDTAP website"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Learn about the DoDTAP website, offering service-specific transition assistance programs to help military service members prepare for their post-military ...",
+          "source_info_link": "https://www.militaryonesource.mil/benefits/transition-assistance-program/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militaryonesource.mil/benefits/transition-assistance-program/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militaryonesource.mil%2Fbenefits%2Ftransition-assistance-program%2F",
+      "source": "Military OneSource (.mil)"
+    },
+    {
+      "position": 7,
+      "title": "12 Months Before Separation: Complete Military Transition ...",
+      "link": "https://www.militarytransitiontoolkit.com/blog/12-months-before-separation-checklist",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarytransitiontoolkit.com/blog/12-months-before-separation-checklist&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQFnoECCQQAQ",
+      "displayed_link": "https://www.militarytransitiontoolkit.com › blog › 12-mo...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABo0lEQVR4Ac3XAWcCcRgG8Au2PkGxJoCyDgj6BgnM1AAEkAB9g4umJIDtU1T6HAWmL5A7LBLchUqePea10Wr_3urmHn6Q3t435727v6XMDdn0TA59CEc-s-U7V88Dteid1oQj1vKdltRcnHt6JZ-g5EvtPZ2VJ5oRLjST31KlQVvClWypoWmOcJiHeNT_c5Wt9DiYO3IJIfMoRb_yRtDI5_OoVqvQD8Fee8lQQNAYjUZYLBZIJpPaAVaUpe-8EDSKxSJ2ux0Y9Ho9Ta1gT8ktTTXF8Xgc4_EYkARBANu2tQNMpbeVo42muFarYT_D4RCxWEwzwEZ6WxVN80QiAdd1sR9eDpRKJc0AxN6Moynqdrs4lslkAl4ezQBNsuanFuRyOfi-j79Sr9c1A8xVA_T7fZjieR64lqoBmpq1M0S7lg5ZFcXaGaJey4p5DWXttBkMBieuoeFGlE6nsVwucU7K5bL5RmS6FRcKha_Va7fbKp1Ox_SgYs-fZGlF-CcBZQyP4zCx14GkyCOEzKVUJF_JIvFSGv5refQPJhE6mkXicBr68fwTVWYuwEfZOWcAAAAASUVORK5CYII.png",
+      "date": "Jan 18, 2026",
+      "snippet": "Start your transition 12 months before separation. Comprehensive checklist of actions, planning, and preparation for successful civilian ...",
+      "snippet_highlighted_words": [
+        "Start your transition 12 months before separation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Start your transition 12 months before separation. Comprehensive checklist of actions, planning, and preparation for successful civilian ...",
+          "source_info_link": "https://www.militarytransitiontoolkit.com/blog/12-months-before-separation-checklist",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABo0lEQVR4Ac3XAWcCcRgG8Au2PkGxJoCyDgj6BgnM1AAEkAB9g4umJIDtU1T6HAWmL5A7LBLchUqePea10Wr_3urmHn6Q3t435727v6XMDdn0TA59CEc-s-U7V88Dteid1oQj1vKdltRcnHt6JZ-g5EvtPZ2VJ5oRLjST31KlQVvClWypoWmOcJiHeNT_c5Wt9DiYO3IJIfMoRb_yRtDI5_OoVqvQD8Fee8lQQNAYjUZYLBZIJpPaAVaUpe-8EDSKxSJ2ux0Y9Ho9Ta1gT8ktTTXF8Xgc4_EYkARBANu2tQNMpbeVo42muFarYT_D4RCxWEwzwEZ6WxVN80QiAdd1sR9eDpRKJc0AxN6Moynqdrs4lslkAl4ezQBNsuanFuRyOfi-j79Sr9c1A8xVA_T7fZjieR64lqoBmpq1M0S7lg5ZFcXaGaJey4p5DWXttBkMBieuoeFGlE6nsVwucU7K5bL5RmS6FRcKha_Va7fbKp1Ox_SgYs-fZGlF-CcBZQyP4zCx14GkyCOEzKVUJF_JIvFSGv5refQPJhE6mkXicBr68fwTVWYuwEfZOWcAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarytransitiontoolkit.com/blog/12-months-before-separation-checklist&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarytransitiontoolkit.com%2Fblog%2F12-months-before-separation-checklist",
+      "source": "Military Transition Toolkit"
+    },
+    {
+      "position": 8,
+      "title": "Welcome to the Military.com Transition Center",
+      "link": "https://www.military.com/military-transition/checklist-active-duty-separating.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/military-transition/checklist-active-duty-separating.html&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQFnoECCMQAQ",
+      "displayed_link": "https://www.military.com › Career Advice",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "date": "Aug 4, 2022",
+      "snippet": "The following checklist and associated resources are designed to help you make a successful transition: 18-12 Months to Separation.",
+      "snippet_highlighted_words": [
+        "18-12 Months to Separation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The following checklist and associated resources are designed to help you make a successful transition: 18-12 Months to Separation.",
+          "source_info_link": "https://www.military.com/military-transition/checklist-active-duty-separating.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/military-transition/checklist-active-duty-separating.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fmilitary-transition%2Fchecklist-active-duty-separating.html",
+      "source": "Military.com",
+      "read_more_link": "https://www.military.com/military-transition/checklist-active-duty-separating.html#:~:text=The%20following%20checklist%20and%20associated,18%2D12%20Months%20to%20Separation"
+    },
+    {
+      "position": 9,
+      "title": "MANAGING YOUR TRANSITION TIMELINE (MYTT)",
+      "link": "https://www.dodtap.mil/dodtap/rest/docs?filename=Managing_Your_Transition_Timeline.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dodtap.mil/dodtap/rest/docs%3Ffilename%3DManaging_Your_Transition_Timeline.pdf&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQFnoECCkQAQ",
+      "displayed_link": "https://www.dodtap.mil › dodtap › rest › docs › f...",
+      "favicon": "https://serpapi.com/searches/6a3a21d6bdfe490ded7fcc0b/images/FW-CDPGp3308Z9p84s2mwa6GbmlaVTYzXY17lA0hztI.png",
+      "date": "Dec 15, 2022",
+      "snippet": "If retiring, schedule and attend. Individualized Initial Counseling and. Pre-Separation Counseling (can occur.",
+      "snippet_highlighted_words": [
+        "Counseling",
+        "Counseling"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "page": 1
+          },
+          "extensions": [
+            "1 page"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "If retiring, schedule and attend. Individualized Initial Counseling and. Pre-Separation Counseling (can occur.",
+          "source_info_link": "https://www.dodtap.mil/dodtap/rest/docs?filename=Managing_Your_Transition_Timeline.pdf",
+          "icon": "https://serpapi.com/searches/6a3a21d6bdfe490ded7fcc0b/images/FW-CDPGp3308Z9p84s2mwSNJSoCqDMsbH0L3CKnqGqFJPd3P_54INKPXkhVyVA8h.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.dodtap.mil/dodtap/rest/docs?filename=Managing_Your_Transition_Timeline.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dodtap.mil%2Fdodtap%2Frest%2Fdocs%3Ffilename%3DManaging_Your_Transition_Timeline.pdf",
+      "source": "DoD Transition Assistance Program (.mil)",
+      "read_more_link": "https://www.dodtap.mil/dodtap/rest/docs?filename=Managing_Your_Transition_Timeline.pdf#:~:text=%E2%9D%91%20If%20retiring%2C%20schedule%20and,Pre%2DSeparation%20Counseling%20(can%20occur"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military transition resources",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+transition+resources&sa=X&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ1QJ6BAggEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+transition+resources"
+    },
+    {
+      "block_position": 1,
+      "query": "Military transition to civilian life",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+transition+to+civilian+life&sa=X&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ1QJ6BAgrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+transition+to+civilian+life"
+    },
+    {
+      "block_position": 1,
+      "query": "Military occupation codes",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+occupation+codes&sa=X&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ1QJ6BAgtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+occupation+codes"
+    },
+    {
+      "block_position": 1,
+      "query": "Veteran Transition Support",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Veteran+Transition+Support&sa=X&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ1QJ6BAgsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Veteran+Transition+Support"
+    },
+    {
+      "block_position": 1,
+      "query": "Tap my education post course quiz",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Tap+my+education+post+course+quiz&sa=X&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ1QJ6BAgqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tap+my+education+post+course+quiz"
+    },
+    {
+      "block_position": 1,
+      "query": "Financial planning for transition spending plan",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Financial+planning+for+transition+spending+plan&sa=X&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ1QJ6BAgiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Financial+planning+for+transition+spending+plan"
+    },
+    {
+      "block_position": 1,
+      "query": "San diego taps class",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=San+diego+taps+class&sa=X&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ1QJ6BAgfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=San+diego+taps+class"
+    },
+    {
+      "block_position": 1,
+      "query": "Army tap moc crosswalk",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Army+tap+moc+crosswalk&sa=X&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ1QJ6BAghEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Army+tap+moc+crosswalk"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+transition+checklist+countdown&sca_esv=c510ba4e6526f391&ei=1iE6apr6CKGMur8P0tLysAM&start=10&sa=N&sstk=AU9db-Dp10nwUCw5p_OG-i-HWhY6RmV2LFlj5IHoSLbjyzxpPMkcQZZUjJP17qFS-H0pkOdB7KnkkWibgwBNOOz-gRkEL6_jKTfbrA&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ8NMDegQIHRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+transition+checklist+countdown&sca_esv=c510ba4e6526f391&ei=1iE6apr6CKGMur8P0tLysAM&start=10&sa=N&sstk=AU9db-Dp10nwUCw5p_OG-i-HWhY6RmV2LFlj5IHoSLbjyzxpPMkcQZZUjJP17qFS-H0pkOdB7KnkkWibgwBNOOz-gRkEL6_jKTfbrA&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ8tMDegQIHRAE",
+      "3": "https://www.google.com/search?q=military+transition+checklist+countdown&sca_esv=c510ba4e6526f391&ei=1iE6apr6CKGMur8P0tLysAM&start=20&sa=N&sstk=AU9db-Dp10nwUCw5p_OG-i-HWhY6RmV2LFlj5IHoSLbjyzxpPMkcQZZUjJP17qFS-H0pkOdB7KnkkWibgwBNOOz-gRkEL6_jKTfbrA&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ8tMDegQIHRAG",
+      "4": "https://www.google.com/search?q=military+transition+checklist+countdown&sca_esv=c510ba4e6526f391&ei=1iE6apr6CKGMur8P0tLysAM&start=30&sa=N&sstk=AU9db-Dp10nwUCw5p_OG-i-HWhY6RmV2LFlj5IHoSLbjyzxpPMkcQZZUjJP17qFS-H0pkOdB7KnkkWibgwBNOOz-gRkEL6_jKTfbrA&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ8tMDegQIHRAI",
+      "5": "https://www.google.com/search?q=military+transition+checklist+countdown&sca_esv=c510ba4e6526f391&ei=1iE6apr6CKGMur8P0tLysAM&start=40&sa=N&sstk=AU9db-Dp10nwUCw5p_OG-i-HWhY6RmV2LFlj5IHoSLbjyzxpPMkcQZZUjJP17qFS-H0pkOdB7KnkkWibgwBNOOz-gRkEL6_jKTfbrA&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ8tMDegQIHRAK",
+      "6": "https://www.google.com/search?q=military+transition+checklist+countdown&sca_esv=c510ba4e6526f391&ei=1iE6apr6CKGMur8P0tLysAM&start=50&sa=N&sstk=AU9db-Dp10nwUCw5p_OG-i-HWhY6RmV2LFlj5IHoSLbjyzxpPMkcQZZUjJP17qFS-H0pkOdB7KnkkWibgwBNOOz-gRkEL6_jKTfbrA&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ8tMDegQIHRAM",
+      "7": "https://www.google.com/search?q=military+transition+checklist+countdown&sca_esv=c510ba4e6526f391&ei=1iE6apr6CKGMur8P0tLysAM&start=60&sa=N&sstk=AU9db-Dp10nwUCw5p_OG-i-HWhY6RmV2LFlj5IHoSLbjyzxpPMkcQZZUjJP17qFS-H0pkOdB7KnkkWibgwBNOOz-gRkEL6_jKTfbrA&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ8tMDegQIHRAO",
+      "8": "https://www.google.com/search?q=military+transition+checklist+countdown&sca_esv=c510ba4e6526f391&ei=1iE6apr6CKGMur8P0tLysAM&start=70&sa=N&sstk=AU9db-Dp10nwUCw5p_OG-i-HWhY6RmV2LFlj5IHoSLbjyzxpPMkcQZZUjJP17qFS-H0pkOdB7KnkkWibgwBNOOz-gRkEL6_jKTfbrA&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ8tMDegQIHRAQ",
+      "9": "https://www.google.com/search?q=military+transition+checklist+countdown&sca_esv=c510ba4e6526f391&ei=1iE6apr6CKGMur8P0tLysAM&start=80&sa=N&sstk=AU9db-Dp10nwUCw5p_OG-i-HWhY6RmV2LFlj5IHoSLbjyzxpPMkcQZZUjJP17qFS-H0pkOdB7KnkkWibgwBNOOz-gRkEL6_jKTfbrA&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ8tMDegQIHRAS",
+      "10": "https://www.google.com/search?q=military+transition+checklist+countdown&sca_esv=c510ba4e6526f391&ei=1iE6apr6CKGMur8P0tLysAM&start=90&sa=N&sstk=AU9db-Dp10nwUCw5p_OG-i-HWhY6RmV2LFlj5IHoSLbjyzxpPMkcQZZUjJP17qFS-H0pkOdB7KnkkWibgwBNOOz-gRkEL6_jKTfbrA&ved=2ahUKEwiavbe22JyVAxUhhu4BHVKpHDYQ8tMDegQIHRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+transition+checklist+countdown&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+transition+checklist+countdown&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+transition+checklist+countdown&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+transition+checklist+countdown&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+transition+checklist+countdown&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+transition+checklist+countdown&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+transition+checklist+countdown&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+transition+checklist+countdown&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+transition+checklist+countdown&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+transition+checklist+countdown&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+transition+checklist+countdown&start=90"
+    }
+  }
+}

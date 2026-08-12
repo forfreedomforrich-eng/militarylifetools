@@ -1,0 +1,48 @@
+TITLE: TSP Withdrawal Calculator 2026: Estimate Monthly Income, Taxes, and How Long Your Balance Will Last
+
+Republished from the Military Life Tools resource library for WordPress Reader followers who want a structured overview of TSP withdrawal strategy.
+
+The Thrift Savings Plan is one of the most valuable retirement benefits available to federal employees and service members. A TSP withdrawal calculator helps retirees estimate monthly income, taxes, and how long the balance will last under different withdrawal strategies.
+
+HOW TSP WITHDRAWALS WORK
+
+TSP participants can withdraw their balance in several ways:
+
+- Monthly installments — a fixed payment every month, like a pension
+- Partial withdrawals — a specific dollar amount at a specific time
+- A single lump-sum distribution — the entire balance at once
+
+For most retirees, monthly installments are the simplest option. They provide predictable income and require no active management.
+
+TAXES ON TSP WITHDRAWALS
+
+Traditional TSP withdrawals are taxed as ordinary income. Every dollar withdrawn from a traditional balance is added to the retiree's taxable income for the year.
+
+Roth TSP withdrawals, when qualified, are tax-free. This makes Roth balances especially valuable in retirement, because they do not push the retiree into a higher tax bracket.
+
+For retirees who have both traditional and Roth balances, the optimal strategy often involves drawing from the traditional balance first while letting the Roth balance grow. But the right answer depends on the retiree's specific situation.
+
+THE 4 PERCENT RULE
+
+The 4 percent rule is the most popular guideline for retirement withdrawals. The idea is that you withdraw 4 percent of your balance in the first year of retirement, then adjust that dollar amount for inflation every year after.
+
+For a $300,000 balance, that is $12,000 in year one, or $1,000 per month. For a $500,000 balance, it is $20,000 in year one, or about $1,667 per month.
+
+The 4 percent rule is just a starting point. The right withdrawal rate depends on the retiree's other income sources, expected expenses, expected lifespan, and tolerance for risk.
+
+WHAT A TSP WITHDRAWAL CALCULATOR DOES
+
+A TSP withdrawal calculator takes the starting balance, the desired monthly withdrawal, and the account type (traditional or Roth) as inputs, and returns estimates of:
+
+- Monthly gross withdrawal
+- Federal tax owed on the withdrawal
+- Monthly take-home after taxes
+- How many years the balance will last under conservative growth assumptions
+
+The result is an estimate, not an official figure. It is a useful starting point for planning, but the actual numbers depend on future tax laws, market returns, and the retiree's personal situation.
+
+Republished with permission from Military Life Tools.
+
+👉 https://militarylifetools.com/tsp-withdrawal-calculator/
+
+Categories: Retirement, TSP | Tags: TSP Withdrawal, Thrift Savings Plan, Retirement Income, 2026

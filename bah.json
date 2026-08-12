@@ -1,0 +1,452 @@
+{
+  "search_metadata": {
+    "id": "6a3a2020fdfbab48698f3b6a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8UhwtbXEh2X5y2-UXH_dEA/6a3a2020fdfbab48698f3b6a.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/8UhwtbXEh2X5y2-UXH_dEA/6a3a2020fdfbab48698f3b6a.json_with_pixel_position",
+    "created_at": "2026-06-23 05:56:48 UTC",
+    "processed_at": "2026-06-23 05:56:48 UTC",
+    "google_url": "https://www.google.com/search?q=BAH+calculator+military+2026&oq=BAH+calculator+military+2026&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8UhwtbXEh2X5y2-UXH_dEA/6a3a2020fdfbab48698f3b6a.html",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "BAH calculator military 2026",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "BAH calculator military 2026",
+    "total_results": 120,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How much will the BAH increase for 2026?",
+      "type": "ai_overview",
+      "page_token": "lNbAMnicHdBfTsIwHADgeBkepa2CgYQYhxtsQrG_td3Yi9k6oazdH2C6wZt38VSeRuMNvnxf3_ZQmZ-bT922zXk6HHZdd7uv6719v1V1OUzPl0oNVWptliozHT-M8eNOzdwP35kffYeJppHPgMJSm2jhrWI0WaRXORdxsuae1AqNPCEZEbGMGF73vBz1fEm7EDsFmAlfm64T2JFpRFkYg91wuwQjRmlsIyD5al1qf7NsiswTKIoTHC6bmqPchSrg1NImJO2HIC1X3LHUCrS1mgnSvyiUvyo5IdI-9emC-iD1KzXqGqLATQpbpyUUirv34FK2jb1ThoHlUV9xnLywqwRX5wFDLtnGVIDRWBLd5Z7HNmJyFM8BhFAfmICrKmwpcNICofO8cC5b0VyShe6zyh4yN_DB_Bml3eXdYKc-Z3eD_8_Z265sp82p3v8CfxGDWQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=lNbAMnicHdBfTsIwHADgeBkepa2CgYQYhxtsQrG_td3Yi9k6oazdH2C6wZt38VSeRuMNvnxf3_ZQmZ-bT922zXk6HHZdd7uv6719v1V1OUzPl0oNVWptliozHT-M8eNOzdwP35kffYeJppHPgMJSm2jhrWI0WaRXORdxsuae1AqNPCEZEbGMGF73vBz1fEm7EDsFmAlfm64T2JFpRFkYg91wuwQjRmlsIyD5al1qf7NsiswTKIoTHC6bmqPchSrg1NImJO2HIC1X3LHUCrS1mgnSvyiUvyo5IdI-9emC-iD1KzXqGqLATQpbpyUUirv34FK2jb1ThoHlUV9xnLywqwRX5wFDLtnGVIDRWBLd5Z7HNmJyFM8BhFAfmICrKmwpcNICofO8cC5b0VyShe6zyh4yN_DB_Bml3eXdYKc-Z3eD_8_Z265sp82p3v8CfxGDWQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEyNVZka0ZyUzBKbWFXOUJVMVJzT0dwMlgyMXpSREl0VURRMVNuSk5lVlJCZURGUE9WVkxlbUpzZVVaT1IxSXpZMmhPVjFwVVJVRnJYM3BNWWt4VVFXZFJSbFZYYkdOTGFVZG9lVmhmTjBwVFIzUkdTV3cxWm1kbFVSSVhTVU5CTm1GelZFWklkVmRvY0hSUlVEbFBhbEF5VVVrYUlrRkVjM0k1WmxGUFdsQlRWSEZoV0ZOcFZFeFNRbEF5UTBkdE5tNXpUbDlVWVVFIiwiZmN2IjoiMyIsImVpIjoiSUNBNmFzVEZIdVdocHRRUDlPalAyUUkiLCJxYyI6IkNoeGlZV2dnWTJGc1kzVnNZWFJ2Y2lCdGFXeHBkR0Z5ZVNBeU1ESTJFQUI5X0xnbVB3IiwicXVlc3Rpb24iOiJIb3cgbXVjaCB3aWxsIHRoZSBCQUggaW5jcmVhc2UgZm9yIDIwMjY/IiwibGsiOiJHaU5vYjNjZ2JYVmphQ0IzYVd4c0lHSmhhQ0JwYm1OeVpXRnpaU0JtYjNJZ01qQXlOZyIsImJzIjoiYy1NSzVOTHd5QzlYeUMxTnpsQW96OHpKVVNqSlNGVndjdlJReU14TExrcE5MRTVWU01zdlVqQXlNREt6TjFLVlVzNUFVWnVVbUlHcGpzdUZTeTRjSkFzeUpUMWZvYlFBcUFZc28xQ1VtcEtTV1dJdnNkZlNTRjVLRm00RU5rVmNkbHpxbUE3THpjekpMRWtzcWxRb1NLeUVhYkEzRXBZU0JPdEVsdVV5NVpMd0xBYTZJUmhvZkdaZU9wSU45a2FTVXVLWnhVQ3JpekhrQkJnQiIsImlkIjoiZmNfSUNBNmFzVEZIdVdocHRRUDlPalAyUUlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEyNVZka0ZyUzBKbWFXOUJVMVJzT0dwMlgyMXpSREl0VURRMVNuSk5lVlJCZURGUE9WVkxlbUpzZVVaT1IxSXpZMmhPVjFwVVJVRnJYM3BNWWt4VVFXZFJSbFZYYkdOTGFVZG9lVmhmTjBwVFIzUkdTV3cxWm1kbFVSSVhTVU5CTm1GelZFWklkVmRvY0hSUlVEbFBhbEF5VVVrYUlrRkVjM0k1WmxGUFdsQlRWSEZoV0ZOcFZFeFNRbEF5UTBkdE5tNXpUbDlVWVVFIiwiZmN2IjoiMyIsImVpIjoiSUNBNmFzVEZIdVdocHRRUDlPalAyUUkiLCJxYyI6IkNoeGlZV2dnWTJGc1kzVnNZWFJ2Y2lCdGFXeHBkR0Z5ZVNBeU1ESTJFQUI5X0xnbVB3IiwicXVlc3Rpb24iOiJIb3cgbXVjaCB3aWxsIHRoZSBCQUggaW5jcmVhc2UgZm9yIDIwMjY%2FIiwibGsiOiJHaU5vYjNjZ2JYVmphQ0IzYVd4c0lHSmhhQ0JwYm1OeVpXRnpaU0JtYjNJZ01qQXlOZyIsImJzIjoiYy1NSzVOTHd5QzlYeUMxTnpsQW96OHpKVVNqSlNGVndjdlJReU14TExrcE5MRTVWU01zdlVqQXlNREt6TjFLVlVzNUFVWnVVbUlHcGpzdUZTeTRjSkFzeUpUMWZvYlFBcUFZc28xQ1VtcEtTV1dJdnNkZlNTRjVLRm00RU5rVmNkbHpxbUE3THpjekpMRWtzcWxRb1NLeUVhYkEzRXBZU0JPdEVsdVV5NVpMd0xBYTZJUmhvZkdaZU9wSU45a2FTVXVLWnhVQ3JpekhrQkJnQiIsImlkIjoiZmNfSUNBNmFzVEZIdVdocHRRUDlPalAyUUlfMSJ9"
+    },
+    {
+      "question": "Will BAH go up in 2026 reddit?",
+      "type": "featured_snippet",
+      "snippet": "The Pentagon estimates that it will pay $29.9 billion in BAH payments in 2026, according to an announcement provided with the rates, up from the 2025 estimate of $29.2 billion. Look up your 2026 BAH rate. The 2026 average increase of 4.2% is lower than the two consecutive average increases of 5.4% in 2025 and 2024.",
+      "title": "Military BAH Housing Payments Are Up 4.2% for 2026",
+      "date": "Dec 12, 2025",
+      "link": "https://www.military.com/daily-news/2025/12/11/bah-military-housing-payments-are-42-2026.html#:~:text=The%20Pentagon%20estimates%20that%20it,5.4%25%20in%202025%20and%202024.",
+      "displayed_link": "https://www.military.com › daily-news › 2025/12/11 › b...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAA2ElEQVR4AWP4TyKgTMOxCw8ZNLuBCMKtmH6AQb0rt3sHTg2nLj9mCJ7L4DTl0esvQK5nxXqu2EUlE3YR0GCetwpoFZAL1JnUuZOQhsA5TXMPTVl39vOPPwzu04FsQhr8Zq_adx3o7qv3XgGd1Dj7IAENQFOBSoFOB2oDGk-EBrfpIMdYTAAqBeohrAHoUSADaA_QbUCrgCFLWAMkQIGWfPz-mwgNjtOBDKDrgRqAjLxJezEiDhP8-vX__19kBm4Nhw__Z2BAR2lpuDV8-PD_9Gl0dPs2RakVAHo2kByotk8gAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEyNVZka0ZyUzBKbWFXOUJVMVJzT0dwMlgyMXpSREl0VURRMVNuSk5lVlJCZURGUE9WVkxlbUpzZVVaT1IxSXpZMmhPVjFwVVJVRnJYM3BNWWt4VVFXZFJSbFZYYkdOTGFVZG9lVmhmTjBwVFIzUkdTV3cxWm1kbFVSSVhTVU5CTm1GelZFWklkVmRvY0hSUlVEbFBhbEF5VVVrYUlrRkVjM0k1WmxGUFdsQlRWSEZoV0ZOcFZFeFNRbEF5UTBkdE5tNXpUbDlVWVVFIiwiZmN2IjoiMyIsImVpIjoiSUNBNmFzVEZIdVdocHRRUDlPalAyUUkiLCJxYyI6IkNoeGlZV2dnWTJGc1kzVnNZWFJ2Y2lCdGFXeHBkR0Z5ZVNBeU1ESTJFQUI5X0xnbVB3IiwicXVlc3Rpb24iOiJXaWxsIEJBSCBnbyB1cCBpbiAyMDI2IHJlZGRpdD8iLCJsayI6IkdoMTNhV3hzSUdKaGFDQm5ieUIxY0NCcGJpQXlNREkySUhKbFpHUnBkQSIsImJzIjoiYy1NSzVOTHd5QzlYeUMxTnpsQW96OHpKVVNqSlNGVndjdlJReU14TExrcE5MRTVWU01zdlVqQXlNREt6TjFLVlVzNUFVWnVVbUlHcGpzdUZTeTRjSkFzeUpUMWZvYlFBcUFZc28xQ1VtcEtTV1dJdnNkZlNTRjVLRm00RU5rVmNkbHpxbUE3THpjekpMRWtzcWxRb1NLeUVhYkEzRXBZU0JPdEVsdVV5NVpMd0xBYTZJUmhvZkdaZU9wSU45a2FTVXVLWnhVQ3JpekhrQkJnQiIsImlkIjoiZmNfSUNBNmFzVEZIdVdocHRRUDlPalAyUUlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEyNVZka0ZyUzBKbWFXOUJVMVJzT0dwMlgyMXpSREl0VURRMVNuSk5lVlJCZURGUE9WVkxlbUpzZVVaT1IxSXpZMmhPVjFwVVJVRnJYM3BNWWt4VVFXZFJSbFZYYkdOTGFVZG9lVmhmTjBwVFIzUkdTV3cxWm1kbFVSSVhTVU5CTm1GelZFWklkVmRvY0hSUlVEbFBhbEF5VVVrYUlrRkVjM0k1WmxGUFdsQlRWSEZoV0ZOcFZFeFNRbEF5UTBkdE5tNXpUbDlVWVVFIiwiZmN2IjoiMyIsImVpIjoiSUNBNmFzVEZIdVdocHRRUDlPalAyUUkiLCJxYyI6IkNoeGlZV2dnWTJGc1kzVnNZWFJ2Y2lCdGFXeHBkR0Z5ZVNBeU1ESTJFQUI5X0xnbVB3IiwicXVlc3Rpb24iOiJXaWxsIEJBSCBnbyB1cCBpbiAyMDI2IHJlZGRpdD8iLCJsayI6IkdoMTNhV3hzSUdKaGFDQm5ieUIxY0NCcGJpQXlNREkySUhKbFpHUnBkQSIsImJzIjoiYy1NSzVOTHd5QzlYeUMxTnpsQW96OHpKVVNqSlNGVndjdlJReU14TExrcE5MRTVWU01zdlVqQXlNREt6TjFLVlVzNUFVWnVVbUlHcGpzdUZTeTRjSkFzeUpUMWZvYlFBcUFZc28xQ1VtcEtTV1dJdnNkZlNTRjVLRm00RU5rVmNkbHpxbUE3THpjekpMRWtzcWxRb1NLeUVhYkEzRXBZU0JPdEVsdVV5NVpMd0xBYTZJUmhvZkdaZU9wSU45a2FTVXVLWnhVQ3JpekhrQkJnQiIsImlkIjoiZmNfSUNBNmFzVEZIdVdocHRRUDlPalAyUUlfMSJ9"
+    },
+    {
+      "question": "How much will the military pay in 2026?",
+      "type": "ai_overview",
+      "page_token": "s4A3y3icHdBNbqMwGABQzWW6bPhRMkqkaCQKRmFkUhs-Q7ypwCahsQ1O4wbBrnfpqXqakeYd4X196_dB_fx69M7Z-261mqbp-TKOF909i9Gsmvs8iJVotG4boXab3xv_z1nsk89D9HI7RASsZTH1CiY1LiNSgHZtqmcBSNEhOkvPN5UZl8bIJU_vUx2ePKrt7Qg8Odbgdwp9YuW5JuEFVrTplMWN5-YyyDcdk5ylGebpdiELc2B0nPt0YIxjbFzEFz5KZNe4Wk-tsa8tgqCqdNSl1i8Dsi78_G9x5bqrGRcDfVQpTO2gcXGVcwlbU6IxpJVOmbfWTUlrCFFfAoqLOo-SXmbES4JTnQNVvc-CfpIIkSNsbxBntKDjOwG6iKs2wFDPUolPAZlp2Wcy8NUppHEXZwcK7lp7WQLk6Swe-_Dp_-f-7Wzczn6Ml3-tzYPY",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=s4A3y3icHdBNbqMwGABQzWW6bPhRMkqkaCQKRmFkUhs-Q7ypwCahsQ1O4wbBrnfpqXqakeYd4X196_dB_fx69M7Z-261mqbp-TKOF909i9Gsmvs8iJVotG4boXab3xv_z1nsk89D9HI7RASsZTH1CiY1LiNSgHZtqmcBSNEhOkvPN5UZl8bIJU_vUx2ePKrt7Qg8Odbgdwp9YuW5JuEFVrTplMWN5-YyyDcdk5ylGebpdiELc2B0nPt0YIxjbFzEFz5KZNe4Wk-tsa8tgqCqdNSl1i8Dsi78_G9x5bqrGRcDfVQpTO2gcXGVcwlbU6IxpJVOmbfWTUlrCFFfAoqLOo-SXmbES4JTnQNVvc-CfpIIkSNsbxBntKDjOwG6iKs2wFDPUolPAZlp2Wcy8NUppHEXZwcK7lp7WQLk6Swe-_Dp_-f-7Wzczn6Ml3-tzYPY",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEyNVZka0ZyUzBKbWFXOUJVMVJzT0dwMlgyMXpSREl0VURRMVNuSk5lVlJCZURGUE9WVkxlbUpzZVVaT1IxSXpZMmhPVjFwVVJVRnJYM3BNWWt4VVFXZFJSbFZYYkdOTGFVZG9lVmhmTjBwVFIzUkdTV3cxWm1kbFVSSVhTVU5CTm1GelZFWklkVmRvY0hSUlVEbFBhbEF5VVVrYUlrRkVjM0k1WmxGUFdsQlRWSEZoV0ZOcFZFeFNRbEF5UTBkdE5tNXpUbDlVWVVFIiwiZmN2IjoiMyIsImVpIjoiSUNBNmFzVEZIdVdocHRRUDlPalAyUUkiLCJxYyI6IkNoeGlZV2dnWTJGc1kzVnNZWFJ2Y2lCdGFXeHBkR0Z5ZVNBeU1ESTJFQUI5X0xnbVB3IiwicXVlc3Rpb24iOiJIb3cgbXVjaCB3aWxsIHRoZSBtaWxpdGFyeSBwYXkgaW4gMjAyNj8iLCJsayI6IkdoRXlNREkySUcxcGJHbDBZWEo1SUhCaGVRIiwiYnMiOiJjLU1LNU5Md3lDOVh5QzFOemxBb3o4ekpVU2pKU0ZWd2N2UlF5TXhMTGtwTkxFNVZTTXN2VWpBeU1ES3pOMUtWVXM1QVVadVVtSUdwanN1RlN5NGNKQXN5SlQxZm9iUUFxQVlzbzFDVW1wS1NXV0l2c2RmU1NGNUtGbTRFTmtWY2RsenFtQTdMemN6SkxFa3NxbFFvU0t5RWFiQTNFcFlTQk90RWx1VXk1Wkx3TEFhNklSaG9mR1plT3BJTjlrYVNVdUtaeFVDcml6SGtCQmdCIiwiaWQiOiJmY19JQ0E2YXNURkh1V2hwdFFQOU9qUDJRSV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEyNVZka0ZyUzBKbWFXOUJVMVJzT0dwMlgyMXpSREl0VURRMVNuSk5lVlJCZURGUE9WVkxlbUpzZVVaT1IxSXpZMmhPVjFwVVJVRnJYM3BNWWt4VVFXZFJSbFZYYkdOTGFVZG9lVmhmTjBwVFIzUkdTV3cxWm1kbFVSSVhTVU5CTm1GelZFWklkVmRvY0hSUlVEbFBhbEF5VVVrYUlrRkVjM0k1WmxGUFdsQlRWSEZoV0ZOcFZFeFNRbEF5UTBkdE5tNXpUbDlVWVVFIiwiZmN2IjoiMyIsImVpIjoiSUNBNmFzVEZIdVdocHRRUDlPalAyUUkiLCJxYyI6IkNoeGlZV2dnWTJGc1kzVnNZWFJ2Y2lCdGFXeHBkR0Z5ZVNBeU1ESTJFQUI5X0xnbVB3IiwicXVlc3Rpb24iOiJIb3cgbXVjaCB3aWxsIHRoZSBtaWxpdGFyeSBwYXkgaW4gMjAyNj8iLCJsayI6IkdoRXlNREkySUcxcGJHbDBZWEo1SUhCaGVRIiwiYnMiOiJjLU1LNU5Md3lDOVh5QzFOemxBb3o4ekpVU2pKU0ZWd2N2UlF5TXhMTGtwTkxFNVZTTXN2VWpBeU1ES3pOMUtWVXM1QVVadVVtSUdwanN1RlN5NGNKQXN5SlQxZm9iUUFxQVlzbzFDVW1wS1NXV0l2c2RmU1NGNUtGbTRFTmtWY2RsenFtQTdMemN6SkxFa3NxbFFvU0t5RWFiQTNFcFlTQk90RWx1VXk1Wkx3TEFhNklSaG9mR1plT3BJTjlrYVNVdUtaeFVDcml6SGtCQmdCIiwiaWQiOiJmY19JQ0E2YXNURkh1V2hwdFFQOU9qUDJRSV8xIn0%3D"
+    },
+    {
+      "question": "Is BAS going up in 2026?",
+      "type": "ai_overview",
+      "page_token": "5tSF03icHdBdToMwAADgeJk9SgGZYcliZPwNRxmlLawvBoqjGwXqNsfwzbt4Kk-j8QZfvq9veejbn7tCXC7qvNC0cRzvm2Fo5Ns9HzqtPE8913gpZVXydjF_nOtPe770zqOzGkYnJUpRFwEc8jFuxQkTBSnwp4rWQSnrgAGhasN2CZAJMUW0o3IiHqQpsWlhtDcm2bzqRJL49o15dI2OaJ2FcNoV8p1h6fLPaAs9y4M-LYghNnUoLA4Ypn6NoDkAXMBrjqPNLh9M5Fkr1JJLDJCsChll0oapoXqGmwdCEIPAjmF3e8Eytni_znwg3RQzwXUUZCEtytABhD5b2FBpLP0oOEQO-rMkOcMYsFOVRx9ZrpdYh1va1z3sYgse_QPXVQR90c_2_Lo0Z_9jy9d9d1mo09D8Aui_dz4",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5tSF03icHdBdToMwAADgeJk9SgGZYcliZPwNRxmlLawvBoqjGwXqNsfwzbt4Kk-j8QZfvq9veejbn7tCXC7qvNC0cRzvm2Fo5Ns9HzqtPE8913gpZVXydjF_nOtPe770zqOzGkYnJUpRFwEc8jFuxQkTBSnwp4rWQSnrgAGhasN2CZAJMUW0o3IiHqQpsWlhtDcm2bzqRJL49o15dI2OaJ2FcNoV8p1h6fLPaAs9y4M-LYghNnUoLA4Ypn6NoDkAXMBrjqPNLh9M5Fkr1JJLDJCsChll0oapoXqGmwdCEIPAjmF3e8Eytni_znwg3RQzwXUUZCEtytABhD5b2FBpLP0oOEQO-rMkOcMYsFOVRx9ZrpdYh1va1z3sYgse_QPXVQR90c_2_Lo0Z_9jy9d9d1mo09D8Aui_dz4",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEyNVZka0ZyUzBKbWFXOUJVMVJzT0dwMlgyMXpSREl0VURRMVNuSk5lVlJCZURGUE9WVkxlbUpzZVVaT1IxSXpZMmhPVjFwVVJVRnJYM3BNWWt4VVFXZFJSbFZYYkdOTGFVZG9lVmhmTjBwVFIzUkdTV3cxWm1kbFVSSVhTVU5CTm1GelZFWklkVmRvY0hSUlVEbFBhbEF5VVVrYUlrRkVjM0k1WmxGUFdsQlRWSEZoV0ZOcFZFeFNRbEF5UTBkdE5tNXpUbDlVWVVFIiwiZmN2IjoiMyIsImVpIjoiSUNBNmFzVEZIdVdocHRRUDlPalAyUUkiLCJxYyI6IkNoeGlZV2dnWTJGc1kzVnNZWFJ2Y2lCdGFXeHBkR0Z5ZVNBeU1ESTJFQUI5X0xnbVB3IiwicXVlc3Rpb24iOiJJcyBCQVMgZ29pbmcgdXAgaW4gMjAyNj8iLCJsayI6IkdoZHBjeUJpWVhNZ1oyOXBibWNnZFhBZ2FXNGdNakF5TmciLCJicyI6ImMtTUs1Tkx3eUM5WHlDMU56bEFvejh6SlVTakpTRlZ3Y3ZSUXlNeExMa3BOTEU1VlNNc3ZVakF5TURLek4xS1ZVczVBVVp1VW1JR3Bqc3VGU3k0Y0pBc3lKVDFmb2JRQXFBWXNvMUNVbXBLU1dXSXZzZGZTU0Y1S0ZtNEVOa1ZjZGx6cW1BN0x6Y3pKTEVrc3FsUW9TS3lFYWJBM0VwWVNCT3RFbHVVeTVaTHdMQWE2SVJob2ZHWmVPcElOOWthU1V1S1p4VUNyaXpIa0JCZ0IiLCJpZCI6ImZjX0lDQTZhc1RGSHVXaHB0UVA5T2pQMlFJXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFEyNVZka0ZyUzBKbWFXOUJVMVJzT0dwMlgyMXpSREl0VURRMVNuSk5lVlJCZURGUE9WVkxlbUpzZVVaT1IxSXpZMmhPVjFwVVJVRnJYM3BNWWt4VVFXZFJSbFZYYkdOTGFVZG9lVmhmTjBwVFIzUkdTV3cxWm1kbFVSSVhTVU5CTm1GelZFWklkVmRvY0hSUlVEbFBhbEF5VVVrYUlrRkVjM0k1WmxGUFdsQlRWSEZoV0ZOcFZFeFNRbEF5UTBkdE5tNXpUbDlVWVVFIiwiZmN2IjoiMyIsImVpIjoiSUNBNmFzVEZIdVdocHRRUDlPalAyUUkiLCJxYyI6IkNoeGlZV2dnWTJGc1kzVnNZWFJ2Y2lCdGFXeHBkR0Z5ZVNBeU1ESTJFQUI5X0xnbVB3IiwicXVlc3Rpb24iOiJJcyBCQVMgZ29pbmcgdXAgaW4gMjAyNj8iLCJsayI6IkdoZHBjeUJpWVhNZ1oyOXBibWNnZFhBZ2FXNGdNakF5TmciLCJicyI6ImMtTUs1Tkx3eUM5WHlDMU56bEFvejh6SlVTakpTRlZ3Y3ZSUXlNeExMa3BOTEU1VlNNc3ZVakF5TURLek4xS1ZVczVBVVp1VW1JR3Bqc3VGU3k0Y0pBc3lKVDFmb2JRQXFBWXNvMUNVbXBLU1dXSXZzZGZTU0Y1S0ZtNEVOa1ZjZGx6cW1BN0x6Y3pKTEVrc3FsUW9TS3lFYWJBM0VwWVNCT3RFbHVVeTVaTHdMQWE2SVJob2ZHWmVPcElOOWthU1V1S1p4VUNyaXpIa0JCZ0IiLCJpZCI6ImZjX0lDQTZhc1RGSHVXaHB0UVA5T2pQMlFJXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Basic Allowance for Housing | BAH",
+      "link": "https://www.travel.dod.mil/Allowances/Basic-Allowance-for-Housing/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.travel.dod.mil/Allowances/Basic-Allowance-for-Housing/&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQFnoECBcQAQ",
+      "displayed_link": "https://www.travel.dod.mil › Allowances › Basic-Allow...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEVHcEwjtf9C0P1Gz_9Jz_9Gz_9Iz_9Jz_9Jz_9Kz_9Gzf9Gy_9Jz_9Jz_9Hz_9Jz_9Jz_9Jz_9Jzv9Jzv9Jzv-yncPZAAAAFXRSTlMAAQQpdx07yfeYDBWL7WVK3v-kU7s582omAAAArklEQVR4Ac2SRWIDQAhFE3zcuP9V695Ouon9JQ-Hw2V1PMWO_0bDHiERb6mohbiDKVupOwqtD23wR3Pw1AwHsymMgj-wLIZYyygzuwb-NiWQ5kqzjGE2Rpd3wCirkpsVGy-y_hE5XXt5s75E5SXpPeWLsfRu9pT4uaOv9dR95tqWe0uJrFD8Ahsipwhxrfi8Bm3wBcJbX_EpgueYeNgI3SjuIE8X2EFAhFPPct96BDOHB8I_Tx4YAAAAAElFTkSuQmCC.png",
+      "snippet": "Generally, rental prices change between 2%-5% from year to year. Housing allowances typically change accordingly. To lookup rates, use the BAH calculator.",
+      "snippet_highlighted_words": [
+        "BAH calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Generally, rental prices change between 2%-5% from year to year. Housing allowances typically change accordingly. To lookup rates, use the BAH calculator.",
+          "source_info_link": "https://www.travel.dod.mil/Allowances/Basic-Allowance-for-Housing/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEVHcEwjtf9C0P1Gz_9Jz_9Gz_9Iz_9Jz_9Jz_9Kz_9Gzf9Gy_9Jz_9Jz_9Hz_9Jz_9Jz_9Jz_9Jzv9Jzv9Jzv-yncPZAAAAFXRSTlMAAQQpdx07yfeYDBWL7WVK3v-kU7s582omAAAArklEQVR4Ac2SRWIDQAhFE3zcuP9V695Ouon9JQ-Hw2V1PMWO_0bDHiERb6mohbiDKVupOwqtD23wR3Pw1AwHsymMgj-wLIZYyygzuwb-NiWQ5kqzjGE2Rpd3wCirkpsVGy-y_hE5XXt5s75E5SXpPeWLsfRu9pT4uaOv9dR95tqWe0uJrFD8Ahsipwhxrfi8Bm3wBcJbX_EpgueYeNgI3SjuIE8X2EFAhFPPct96BDOHB8I_Tx4YAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.travel.dod.mil/Allowances/Basic-Allowance-for-Housing/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.travel.dod.mil%2FAllowances%2FBasic-Allowance-for-Housing%2F",
+      "source": "Defense Travel Management (.mil)",
+      "read_more_link": "https://www.travel.dod.mil/Allowances/Basic-Allowance-for-Housing/#:~:text=Generally%2C%20rental%20prices%20change%20between,rates%2C%20use%20the%20BAH%20calculator."
+    },
+    {
+      "position": 2,
+      "title": "BAH Calculator - Check Your Basic Allowance for Housing",
+      "link": "https://www.veteransunited.com/education/tools/bah/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.veteransunited.com/education/tools/bah/&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQFnoECBwQAQ",
+      "displayed_link": "https://www.veteransunited.com › education › tools › bah",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABPUlEQVR4AWJwL_ChKx61EAPzuKQBaCtbGAZhIAp7MYOdRODmEfMavKzApz6hXtTgXe28Yl7gM4nHzbMTb8vLpSFH0okvGQf0u7-MRthA8zchZEHYFaGoEKKrsLKIwb0rPw8udqGuykbAOxuuo1nIVZ1kMQtJNtABOekGMq09nq8WXYSFD4A8CSvFAuBYwrMsXfQcc1Uxke7PiCWKJcRmikXEmOEn5KoYal0DKH4Yy88d1X63MFKbdEv5tzlGksAOmqFqSQFMWwrhjKx64U7QAhUR2sHseySWiIjEmtN_ba_6VgsdaIW66NcCEie8hf2Ap-CF9iBRJ3QW4aQFJvJJThahh9ShjRWoce1R4W5gLLY0asYj4XSrGcthHjhcV6WXZjTO68Ftx7sVJToJ3rw0hTAtjUP2JXCfjbZLaY4BRRj23tmJ2XwAAAAASUVORK5CYII.png",
+      "snippet": "BAH rates increased by 4.2% in 2026. Use our BAH calculator to estimate your allowance based on duty station, pay grade and dependent status.",
+      "snippet_highlighted_words": [
+        "Use our BAH calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "BAH rates increased by 4.2% in 2026. Use our BAH calculator to estimate your allowance based on duty station, pay grade and dependent status.",
+          "source_info_link": "https://www.veteransunited.com/education/tools/bah/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABPUlEQVR4AWJwL_ChKx61EAPzuKQBaCtbGAZhIAp7MYOdRODmEfMavKzApz6hXtTgXe28Yl7gM4nHzbMTb8vLpSFH0okvGQf0u7-MRthA8zchZEHYFaGoEKKrsLKIwb0rPw8udqGuykbAOxuuo1nIVZ1kMQtJNtABOekGMq09nq8WXYSFD4A8CSvFAuBYwrMsXfQcc1Uxke7PiCWKJcRmikXEmOEn5KoYal0DKH4Yy88d1X63MFKbdEv5tzlGksAOmqFqSQFMWwrhjKx64U7QAhUR2sHseySWiIjEmtN_ba_6VgsdaIW66NcCEie8hf2Ap-CF9iBRJ3QW4aQFJvJJThahh9ShjRWoce1R4W5gLLY0asYj4XSrGcthHjhcV6WXZjTO68Ftx7sVJToJ3rw0hTAtjUP2JXCfjbZLaY4BRRj23tmJ2XwAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.veteransunited.com/education/tools/bah/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.veteransunited.com%2Feducation%2Ftools%2Fbah%2F",
+      "source": "Veterans United Home Loans"
+    },
+    {
+      "position": 3,
+      "title": "2026 Basic Allowance for Housing",
+      "link": "https://www.military.com/benefits/military-pay/basic-allowance-for-housing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/benefits/military-pay/basic-allowance-for-housing&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQFnoECCIQAQ",
+      "displayed_link": "https://www.military.com › benefits › military-pay › ba...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "snippet": "Your BAH rate is based on your paygrade, your dependency status and the location of your duty station. The rates change Jan. 1 of each year. View Your 2026 ...",
+      "snippet_highlighted_words": [
+        "BAH",
+        "2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Your BAH rate is based on your paygrade, your dependency status and the location of your duty station. The rates change Jan. 1 of each year. View Your 2026 ...",
+          "source_info_link": "https://www.military.com/benefits/military-pay/basic-allowance-for-housing",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/benefits/military-pay/basic-allowance-for-housing&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fbenefits%2Fmilitary-pay%2Fbasic-allowance-for-housing",
+      "source": "Military.com",
+      "read_more_link": "https://www.military.com/benefits/military-pay/basic-allowance-for-housing#:~:text=Your%20BAH%20rate%20is%20based,Your%202026%20Military%20BAH%20Rate"
+    },
+    {
+      "position": 4,
+      "title": "Basic Allowance For Housing | BAH Calculator",
+      "link": "https://www.militarybyowner.com/resources/bah-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarybyowner.com/resources/bah-calculator/&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQFnoECBYQAQ",
+      "displayed_link": "https://www.militarybyowner.com › resources › bah-calc...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA-VBMVEX_4UH-5UP-4kP95D_030j33kb5wTr40kH_40H-5EWyv2Nim4zzhS7rkDf_4kY0g6LczlT1xT_maC33wD_5vj6wsWFhmZDpYCn6y0Hvei31ozfutUE-gZvn1U_uijLsnDnxmTjqbSru10nxykHzWTWWhmV-poTuZCb-6EdVkZJRkZpEiZhKgIxPdYDKdU7-2M_YeEjVu03RxFSEqYDIx1vmyk_nrULoXDnqoZj0y8f____5oY3GoVGnumvwraf___2hcl7_50mPqnepY1ttmYDSz1rHembZfWjqf1X-50lcgoPls0BpjX97cG7YfkD1rjynqmfYsk_86Edld4oaAAAA60lEQVR4ARVNA5YDQRCtGmw65tiObdu-_2G28x-_ARAZYBmOh78YkDgAoQIy8USSpNIsiTOQQYLxOPLZXL6AiASQKVKUYoLISLJcLEI8rvygarphWrbjQJyhJd71_CD0IoIZiJcr1Vq90Wy1OzGz28sAYn8wHI0n08lMmmcXCPQhpQ2Xq-lquc72ywgb5CV3u1utpu39Ib7Z0I2iw9eOy9PyXI5fNhfYlE3rcFVu98fzlbbTNsQ3ktd72xpXuX8s07bhe3lddKPoq9jL5jbfMq2U3ZC_yJL5TWT7dOObKV8um_KXL6gXl9ts_gG6riAvv_JZqQAAAABJRU5ErkJggg.png",
+      "snippet": "Use our BAH Calculator to find Basic Allowance for Housing rates by rank, location, and dependents. Plan your military housing with ease.",
+      "snippet_highlighted_words": [
+        "Use our BAH Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our BAH Calculator to find Basic Allowance for Housing rates by rank, location, and dependents. Plan your military housing with ease.",
+          "source_info_link": "https://www.militarybyowner.com/resources/bah-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA-VBMVEX_4UH-5UP-4kP95D_030j33kb5wTr40kH_40H-5EWyv2Nim4zzhS7rkDf_4kY0g6LczlT1xT_maC33wD_5vj6wsWFhmZDpYCn6y0Hvei31ozfutUE-gZvn1U_uijLsnDnxmTjqbSru10nxykHzWTWWhmV-poTuZCb-6EdVkZJRkZpEiZhKgIxPdYDKdU7-2M_YeEjVu03RxFSEqYDIx1vmyk_nrULoXDnqoZj0y8f____5oY3GoVGnumvwraf___2hcl7_50mPqnepY1ttmYDSz1rHembZfWjqf1X-50lcgoPls0BpjX97cG7YfkD1rjynqmfYsk_86Edld4oaAAAA60lEQVR4ARVNA5YDQRCtGmw65tiObdu-_2G28x-_ARAZYBmOh78YkDgAoQIy8USSpNIsiTOQQYLxOPLZXL6AiASQKVKUYoLISLJcLEI8rvygarphWrbjQJyhJd71_CD0IoIZiJcr1Vq90Wy1OzGz28sAYn8wHI0n08lMmmcXCPQhpQ2Xq-lquc72ywgb5CV3u1utpu39Ib7Z0I2iw9eOy9PyXI5fNhfYlE3rcFVu98fzlbbTNsQ3ktd72xpXuX8s07bhe3lddKPoq9jL5jbfMq2U3ZC_yJL5TWT7dOObKV8um_KXL6gXl9ts_gG6riAvv_JZqQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarybyowner.com/resources/bah-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarybyowner.com%2Fresources%2Fbah-calculator%2F",
+      "source": "MilitaryByOwner"
+    },
+    {
+      "position": 5,
+      "title": "Basic Allowance for Housing",
+      "link": "https://militarypay.defense.gov/pay/allowances/bah.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/pay/allowances/bah.aspx&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQFnoECB0QAQ",
+      "displayed_link": "https://militarypay.defense.gov › pay › allowances › bah",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "Military Compensation and Financial Readiness Website sponsored by ... To calculate your BAH rate by rank and location, view the basic housing calculator.",
+      "snippet_highlighted_words": [
+        "Military",
+        "calculate",
+        "BAH",
+        "calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military Compensation and Financial Readiness Website sponsored by ... To calculate your BAH rate by rank and location, view the basic housing calculator.",
+          "source_info_link": "https://militarypay.defense.gov/pay/allowances/bah.aspx",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/pay/allowances/bah.aspx&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2Fpay%2Fallowances%2Fbah.aspx",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/pay/allowances/bah.aspx#:~:text=BAH%20Differential%20(BAH%2DDiff)"
+    },
+    {
+      "position": 6,
+      "title": "BAH Basic Allowance for Housing Calculator",
+      "link": "https://compassmilitary.com/bah-basic-allowance-for-housing-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://compassmilitary.com/bah-basic-allowance-for-housing-calculator/&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQFnoECDoQAQ",
+      "displayed_link": "https://compassmilitary.com › bah-basic-allowance-for-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAR2LVAAAAEnRSTlMAEP8aRXqu3SZrnbvLhedXBoez9cn4AAAA3ElEQVR4Aa1RCQ6EIBCD4oko-P_PbrYwsa4km8Pm4JgydFr3Brz_U_EI_XqAETD06gMuAsZnfYQSMP3WJ9wJmO_1GSRYMyKoPGK85BBD90wsIFZHrCCWzp_xu42iSbDxOjmXuNnUsMRlZ-E4uOy8SlW3b-0yDMj1W_EhiNQmL4hRNlJh_6PYqErAaFI3Mc_riDWNGC0JGVWPjye9NDSJnvu676TRSSLQttLSaEkUmmtOTpKGJDGZD_bgtPppLcWoRdLIJkoJcitcJSDWNGoSEUIomVhlsGXNRHEv4AMAFgcHvgejYAAAAABJRU5ErkJggg.png",
+      "snippet": "You can use the BAH calculator on this page to estimate your current allowance and explore how it could support your journey to homeownership. How BAH Rates Are ...",
+      "snippet_highlighted_words": [
+        "You can use the BAH calculator on this page"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You can use the BAH calculator on this page to estimate your current allowance and explore how it could support your journey to homeownership. How BAH Rates Are ...",
+          "source_info_link": "https://compassmilitary.com/bah-basic-allowance-for-housing-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAR2LVAAAAEnRSTlMAEP8aRXqu3SZrnbvLhedXBoez9cn4AAAA3ElEQVR4Aa1RCQ6EIBCD4oko-P_PbrYwsa4km8Pm4JgydFr3Brz_U_EI_XqAETD06gMuAsZnfYQSMP3WJ9wJmO_1GSRYMyKoPGK85BBD90wsIFZHrCCWzp_xu42iSbDxOjmXuNnUsMRlZ-E4uOy8SlW3b-0yDMj1W_EhiNQmL4hRNlJh_6PYqErAaFI3Mc_riDWNGC0JGVWPjye9NDSJnvu676TRSSLQttLSaEkUmmtOTpKGJDGZD_bgtPppLcWoRdLIJkoJcitcJSDWNGoSEUIomVhlsGXNRHEv4AMAFgcHvgejYAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://compassmilitary.com/bah-basic-allowance-for-housing-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcompassmilitary.com%2Fbah-basic-allowance-for-housing-calculator%2F",
+      "source": "Compass Military",
+      "read_more_link": "https://compassmilitary.com/bah-basic-allowance-for-housing-calculator/#:~:text=Because%20housing%20costs%20vary%20widely,How%20BAH%20Rates%20Are%20Calculated"
+    },
+    {
+      "position": 7,
+      "title": "2026 Military BAH Rates & Calculator",
+      "link": "https://blog.ahrn.com/military-bah-rates/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.ahrn.com/military-bah-rates/&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQFnoECD4QAQ",
+      "displayed_link": "https://blog.ahrn.com › military-bah-rates",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAeFBMVEVHcEzufCjqey3qey3qeyzqey3qey3tgTjqey3seyvqey3sfS_seyv4fxPwfCZsZYN4Z35sZYN9Z3vqey0yXpYwXpYyXpUyXZU0XpU0XpU0XpU0XpUzXpUYW5wfXJnYubLO3_Nbe6gzXpU0XpXN2OjK4frM2_AvW5O65bRfAAAAKHRSTlMAc4mz_0lOpDnvVNnKGP4pkoFcHEz_sJxaSP8Iz2ql0PbE4tl8WCaDBe8fFwAAAJdJREFUeAHNzgMSxEAQBdCObdvJ_U-4GK3NV_zVhEdxPFwliKJwpSyJiAwXKCKhAPA8B0dUTWQ0XRSN4-_EIybsszTxagNnI7SGEweM43qIbwUblo-T6wAVRliMY0JiClSWY7SBxKcaio0rDdRfN5QVUl5sqG3NMAGSKw2iKH6-4Q9-MJq27aKThn5AEmUcpxkWHPsQ3mIN5i4ugDcF3mAAAAAASUVORK5CYII.png",
+      "date": "Jan 27, 2026",
+      "snippet": "Up-to-date information regarding military BAH rates for Dual Military BAH, BAH Type 2, Partial BAH, BAH Diff, and OHA rates.",
+      "snippet_highlighted_words": [
+        "military BAH rates"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Up-to-date information regarding military BAH rates for Dual Military BAH, BAH Type 2, Partial BAH, BAH Diff, and OHA rates.",
+          "source_info_link": "https://blog.ahrn.com/military-bah-rates/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAeFBMVEVHcEzufCjqey3qey3qeyzqey3qey3tgTjqey3seyvqey3sfS_seyv4fxPwfCZsZYN4Z35sZYN9Z3vqey0yXpYwXpYyXpUyXZU0XpU0XpU0XpU0XpUzXpUYW5wfXJnYubLO3_Nbe6gzXpU0XpXN2OjK4frM2_AvW5O65bRfAAAAKHRSTlMAc4mz_0lOpDnvVNnKGP4pkoFcHEz_sJxaSP8Iz2ql0PbE4tl8WCaDBe8fFwAAAJdJREFUeAHNzgMSxEAQBdCObdvJ_U-4GK3NV_zVhEdxPFwliKJwpSyJiAwXKCKhAPA8B0dUTWQ0XRSN4-_EIybsszTxagNnI7SGEweM43qIbwUblo-T6wAVRliMY0JiClSWY7SBxKcaio0rDdRfN5QVUl5sqG3NMAGSKw2iKH6-4Q9-MJq27aKThn5AEmUcpxkWHPsQ3mIN5i4ugDcF3mAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://blog.ahrn.com/military-bah-rates/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fblog.ahrn.com%2Fmilitary-bah-rates%2F",
+      "source": "AHRN - Automated Housing Referral Network"
+    },
+    {
+      "position": 8,
+      "title": "BAH Rates - Los Angeles AFB, CA",
+      "link": "https://www.losangelesafbhousing.com/bah-rates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.losangelesafbhousing.com/bah-rates&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQFnoECD8QAQ",
+      "displayed_link": "https://www.losangelesafbhousing.com › bah-rates",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIAQgBCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0hMTU3OjouIys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3ListNTc3Nzc3Nzc3NzcuKy0rKzc3Nzc3Ny0rLTg3Nzc3NSsuNf_AABEIABAAEAMBEQACEQEDEQH_xAAWAAEBAQAAAAAAAAAAAAAAAAAGBwP_xAAlEAABAgMIAwEAAAAAAAAAAAABAgMEBhEABQcSITFRYYGRsQj_xAAXAQEBAQEAAAAAAAAAAAAAAAADBQQC_8QAIREAAQMDBAMAAAAAAAAAAAAAAQACAwQRMSFRYfASMkL_2gAMAwEAAhEDEQA_AJxEOXze8ShGOcdM77yUgsh6IDiAONSderbI4HBtmjRFLP5uu7K0TLq0DNiaibWk75Sk1SrknJSnVR3SyinGXFEZdgnt9TJFoUXPzDMM_CuxDSEg-U0-WjmOQ_ZV8VtONDAB3lEbwnOaDVOIEdMr7fJoR73t0A9uSgeYJfUWX__Z.jpeg",
+      "snippet": "2026 Los Angeles AFB, CA BAH Rates have increased by 3.6 percent from 2025. For 2026, soldiers with dependents receive 21.4% more BAH than soldiers without ...",
+      "snippet_highlighted_words": [
+        "2026 Los Angeles AFB, CA BAH Rates have increased by 3.6 percent from 2025"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "2026 Los Angeles AFB, CA BAH Rates have increased by 3.6 percent from 2025. For 2026, soldiers with dependents receive 21.4% more BAH than soldiers without ...",
+          "source_info_link": "https://www.losangelesafbhousing.com/bah-rates",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIAQgBCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0hMTU3OjouIys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3ListNTc3Nzc3Nzc3NzcuKy0rKzc3Nzc3Ny0rLTg3Nzc3NSsuNf_AABEIABAAEAMBEQACEQEDEQH_xAAWAAEBAQAAAAAAAAAAAAAAAAAGBwP_xAAlEAABAgMIAwEAAAAAAAAAAAABAgMEBhEABQcSITFRYYGRsQj_xAAXAQEBAQEAAAAAAAAAAAAAAAADBQQC_8QAIREAAQMDBAMAAAAAAAAAAAAAAQACAwQRMSFRYfASMkL_2gAMAwEAAhEDEQA_AJxEOXze8ShGOcdM77yUgsh6IDiAONSderbI4HBtmjRFLP5uu7K0TLq0DNiaibWk75Sk1SrknJSnVR3SyinGXFEZdgnt9TJFoUXPzDMM_CuxDSEg-U0-WjmOQ_ZV8VtONDAB3lEbwnOaDVOIEdMr7fJoR73t0A9uSgeYJfUWX__Z.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.losangelesafbhousing.com/bah-rates&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.losangelesafbhousing.com%2Fbah-rates",
+      "source": "losangelesafbhousing.com",
+      "read_more_link": "https://www.losangelesafbhousing.com/bah-rates#:~:text=2026%20Los%20Angeles%20AFB%2C%20CA,BAH%20than%20soldiers%20without%20dependents."
+    },
+    {
+      "position": 9,
+      "title": "2026 BAH Calculator | Basic Allowance for Housing by Zip ...",
+      "link": "https://veteran.com/bah-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://veteran.com/bah-calculator/&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQFnoECEIQAQ",
+      "displayed_link": "https://veteran.com › BAH and Allowances",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAGUEAGUEAGUEAGUEAGUEAGUEAGUEAGEEAGUEAGUEAGUEAGUEAGUEAFkAAGUF_LUbYPkvYPkvZPkteJkS-OUncP0vYPkvLO0rYPkvYPktuxi__AAAAG3RSTlMAb3sQhI7_IqXPNrji9EpaB1zF__91S5b2uSUp5I2JAAAAzklEQVR4AZ2SURZAQAwDCwAAYO9_UFp9efErQHbAQP4nip9EwknSZyjVvSzXFAxLHansMIMlQxupbbexfWKR9lYstcFYkE575KXV0oH1nysN1nrxVNqy7wNUXgprCSBs4NGAwYY9ELaJyYNtIngMIGQDj3EEgo17pDJNQLBxj1HmmWH62pX-2MvC1x0NKlvXbT-W5dj3aadv6DkXz4yzC8B-f9lE162MmNDEDDb-YS-7KAjejXrIcoZwLgB4q-oxXVqvjeFoP2QhErRh8y83vmcMCfkRWd8AAAAASUVORK5CYII.png",
+      "date": "Mar 27, 2026",
+      "snippet": "Find your 2026 Basic Allowance for Housing rate fast. Enter your pay grade, zip code, and dependent status to get your monthly and annual ...",
+      "snippet_highlighted_words": [
+        "Enter your pay grade, zip code, and dependent status"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Who Is Eligible For Bah?",
+            "link": "https://veteran.com/bah-calculator/#:~:text=Who%20is%20Eligible%20for%20BAH%3F,-To%20receive%20BAH%2C%20a"
+          },
+          {
+            "title": "2026 Bah Rate Increase And...",
+            "link": "https://veteran.com/bah-calculator/#:~:text=2026%20BAH%20Rate%20Increase%20and%20Recent%20Trends,-BAH%20rates%20increased%20an%20average"
+          },
+          {
+            "title": "Areas With The Largest Bah...",
+            "link": "https://veteran.com/bah-calculator/#:~:text=Areas%20With%20the%20Largest%20BAH%20Increases%20in%202026"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Find your 2026 Basic Allowance for Housing rate fast. Enter your pay grade, zip code, and dependent status to get your monthly and annual ...",
+          "source_info_link": "https://veteran.com/bah-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAGUEAGUEAGUEAGUEAGUEAGUEAGUEAGEEAGUEAGUEAGUEAGUEAGUEAFkAAGUF_LUbYPkvYPkvZPkteJkS-OUncP0vYPkvLO0rYPkvYPktuxi__AAAAG3RSTlMAb3sQhI7_IqXPNrji9EpaB1zF__91S5b2uSUp5I2JAAAAzklEQVR4AZ2SURZAQAwDCwAAYO9_UFp9efErQHbAQP4nip9EwknSZyjVvSzXFAxLHansMIMlQxupbbexfWKR9lYstcFYkE575KXV0oH1nysN1nrxVNqy7wNUXgprCSBs4NGAwYY9ELaJyYNtIngMIGQDj3EEgo17pDJNQLBxj1HmmWH62pX-2MvC1x0NKlvXbT-W5dj3aadv6DkXz4yzC8B-f9lE162MmNDEDDb-YS-7KAjejXrIcoZwLgB4q-oxXVqvjeFoP2QhErRh8y83vmcMCfkRWd8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://veteran.com/bah-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fveteran.com%2Fbah-calculator%2F",
+      "source": "Veteran.com"
+    },
+    {
+      "position": 10,
+      "title": "Department of War Releases 2026 Basic Allowance for ...",
+      "link": "https://www.war.gov/News/Releases/Release/Article/4357076/department-of-war-releases-2026-basic-allowance-for-housing-rates/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.war.gov/News/Releases/Release/Article/4357076/department-of-war-releases-2026-basic-allowance-for-housing-rates/&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQFnoECDkQAQ",
+      "displayed_link": "https://www.war.gov › News › Releases › Release › Article",
+      "favicon": "https://serpapi.com/searches/6a3a2020fdfbab48698f3b6a/images/epnIK561DGSE-OnARrUba0yY-VKLPdjC9lp-QwwQJ0E.png",
+      "date": "Dec 11, 2025",
+      "snippet": "The basic allowance for housing rates will increase by an average of 4.2 percent, and an estimated $29.9 billion will be paid to approximately ...",
+      "about_this_result": {
+        "source": {
+          "description": "The basic allowance for housing rates will increase by an average of 4.2 percent, and an estimated $29.9 billion will be paid to approximately ...",
+          "source_info_link": "https://www.war.gov/News/Releases/Release/Article/4357076/department-of-war-releases-2026-basic-allowance-for-housing-rates/",
+          "icon": "https://serpapi.com/searches/6a3a2020fdfbab48698f3b6a/images/epnIK561DGSE-OnARrUba9vG02WZY2OVwuz1488TZ22gLl36Ann9WxWGv1t-Zhwo.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.war.gov/News/Releases/Release/Article/4357076/department-of-war-releases-2026-basic-allowance-for-housing-rates/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.war.gov%2FNews%2FReleases%2FRelease%2FArticle%2F4357076%2Fdepartment-of-war-releases-2026-basic-allowance-for-housing-rates%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://www.war.gov/News/Releases/Release/Article/4357076/department-of-war-releases-2026-basic-allowance-for-housing-rates/#:~:text=The%20basic%20allowance%20for%20housing,approximately%20one%20million%20service%20members."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "DoD BAH calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=DoD+BAH+calculator&sa=X&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=DoD+BAH+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "GI Bill BAH calculator 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=GI+Bill+BAH+calculator+2026&sa=X&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=GI+Bill+BAH+calculator+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "BAH pay chart 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=BAH+pay+chart+2026&sa=X&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAH+pay+chart+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "BAH increase 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=BAH+increase+2026&sa=X&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAH+increase+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Military pay calculator 2026 with BAH",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+pay+calculator+2026+with+BAH&sa=X&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+pay+calculator+2026+with+BAH"
+    },
+    {
+      "block_position": 1,
+      "query": "Overseas BAH Calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Overseas+BAH+Calculator&sa=X&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Overseas+BAH+Calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "When will 2026 BAH rates be released",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=When+will+2026+BAH+rates+be+released&sa=X&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=When+will+2026+BAH+rates+be+released"
+    },
+    {
+      "block_position": 1,
+      "query": "BAH with dependents calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=BAH+with+dependents+calculator&sa=X&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAH+with+dependents+calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=BAH+calculator+military+2026&sca_esv=c510ba4e6526f391&ei=ICA6asTFHuWhptQP9OjP2QI&start=10&sa=N&sstk=AU9db-BWLjVDE7gx7tsUKKaQ68An8DVK_OIu17XxaLQHPhtozT9rY1IYkRXVZyrjSUf2Rq6ibvjuwGjaUJqLNT9PtUbvWa5P4hDrig&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ8NMDegQILxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=BAH+calculator+military+2026&sca_esv=c510ba4e6526f391&ei=ICA6asTFHuWhptQP9OjP2QI&start=10&sa=N&sstk=AU9db-BWLjVDE7gx7tsUKKaQ68An8DVK_OIu17XxaLQHPhtozT9rY1IYkRXVZyrjSUf2Rq6ibvjuwGjaUJqLNT9PtUbvWa5P4hDrig&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ8tMDegQILxAE",
+      "3": "https://www.google.com/search?q=BAH+calculator+military+2026&sca_esv=c510ba4e6526f391&ei=ICA6asTFHuWhptQP9OjP2QI&start=20&sa=N&sstk=AU9db-BWLjVDE7gx7tsUKKaQ68An8DVK_OIu17XxaLQHPhtozT9rY1IYkRXVZyrjSUf2Rq6ibvjuwGjaUJqLNT9PtUbvWa5P4hDrig&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ8tMDegQILxAG",
+      "4": "https://www.google.com/search?q=BAH+calculator+military+2026&sca_esv=c510ba4e6526f391&ei=ICA6asTFHuWhptQP9OjP2QI&start=30&sa=N&sstk=AU9db-BWLjVDE7gx7tsUKKaQ68An8DVK_OIu17XxaLQHPhtozT9rY1IYkRXVZyrjSUf2Rq6ibvjuwGjaUJqLNT9PtUbvWa5P4hDrig&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ8tMDegQILxAI",
+      "5": "https://www.google.com/search?q=BAH+calculator+military+2026&sca_esv=c510ba4e6526f391&ei=ICA6asTFHuWhptQP9OjP2QI&start=40&sa=N&sstk=AU9db-BWLjVDE7gx7tsUKKaQ68An8DVK_OIu17XxaLQHPhtozT9rY1IYkRXVZyrjSUf2Rq6ibvjuwGjaUJqLNT9PtUbvWa5P4hDrig&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ8tMDegQILxAK",
+      "6": "https://www.google.com/search?q=BAH+calculator+military+2026&sca_esv=c510ba4e6526f391&ei=ICA6asTFHuWhptQP9OjP2QI&start=50&sa=N&sstk=AU9db-BWLjVDE7gx7tsUKKaQ68An8DVK_OIu17XxaLQHPhtozT9rY1IYkRXVZyrjSUf2Rq6ibvjuwGjaUJqLNT9PtUbvWa5P4hDrig&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ8tMDegQILxAM",
+      "7": "https://www.google.com/search?q=BAH+calculator+military+2026&sca_esv=c510ba4e6526f391&ei=ICA6asTFHuWhptQP9OjP2QI&start=60&sa=N&sstk=AU9db-BWLjVDE7gx7tsUKKaQ68An8DVK_OIu17XxaLQHPhtozT9rY1IYkRXVZyrjSUf2Rq6ibvjuwGjaUJqLNT9PtUbvWa5P4hDrig&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ8tMDegQILxAO",
+      "8": "https://www.google.com/search?q=BAH+calculator+military+2026&sca_esv=c510ba4e6526f391&ei=ICA6asTFHuWhptQP9OjP2QI&start=70&sa=N&sstk=AU9db-BWLjVDE7gx7tsUKKaQ68An8DVK_OIu17XxaLQHPhtozT9rY1IYkRXVZyrjSUf2Rq6ibvjuwGjaUJqLNT9PtUbvWa5P4hDrig&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ8tMDegQILxAQ",
+      "9": "https://www.google.com/search?q=BAH+calculator+military+2026&sca_esv=c510ba4e6526f391&ei=ICA6asTFHuWhptQP9OjP2QI&start=80&sa=N&sstk=AU9db-BWLjVDE7gx7tsUKKaQ68An8DVK_OIu17XxaLQHPhtozT9rY1IYkRXVZyrjSUf2Rq6ibvjuwGjaUJqLNT9PtUbvWa5P4hDrig&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ8tMDegQILxAS",
+      "10": "https://www.google.com/search?q=BAH+calculator+military+2026&sca_esv=c510ba4e6526f391&ei=ICA6asTFHuWhptQP9OjP2QI&start=90&sa=N&sstk=AU9db-BWLjVDE7gx7tsUKKaQ68An8DVK_OIu17XxaLQHPhtozT9rY1IYkRXVZyrjSUf2Rq6ibvjuwGjaUJqLNT9PtUbvWa5P4hDrig&ved=2ahUKEwjE1d_l1pyVAxXlkIkEHXT0MysQ8tMDegQILxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAH+calculator+military+2026&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAH+calculator+military+2026&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAH+calculator+military+2026&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAH+calculator+military+2026&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAH+calculator+military+2026&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAH+calculator+military+2026&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAH+calculator+military+2026&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAH+calculator+military+2026&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAH+calculator+military+2026&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAH+calculator+military+2026&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAH+calculator+military+2026&start=90"
+    }
+  }
+}

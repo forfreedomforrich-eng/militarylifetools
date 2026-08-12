@@ -1,0 +1,93 @@
+{
+  "created": "2026-08-12",
+  "last_updated": "2026-08-12",
+  "articles": [
+    {
+      "name": "VA Disability",
+      "platforms": {
+        "blogger": {
+          "url": "https://militarylifetools.blogspot.com/2026/08/va-disability-compensation-explained_01512287756.html",
+          "published": "2026-08-05",
+          "status": "live"
+        },
+        "medium": {
+          "url": "https://medium.com/@forfreedomforrich/va-disability-compensation-in-2026-how-to-estimate-your-benefits-before-you-file-2fe064e8eb3d",
+          "published": "2026-08-05",
+          "status": "live"
+        },
+        "wordpress": {
+          "url": "https://militarylifetools.wordpress.com/2026/08/05/va-disability-compensation-explained-what-veterans-should-know-in-2026/",
+          "published": "2026-08-05",
+          "status": "live"
+        },
+        "tumblr": {
+          "url": "https://www.tumblr.com/militarylifeguide/824734239175131136/va-disability-compensation-explained-what?source=share",
+          "published": "2026-08-12",
+          "status": "live"
+        }
+      },
+      "source_article": "https://militarylifetools.com/blog/va-disability-guide/"
+    },
+    {
+      "name": "GI Bill",
+      "platforms": {
+        "blogger": {
+          "url": "https://militarylifetools.blogspot.com/2026/08/gi-bill-calculator-how-to-estimate.html",
+          "published": "2026-08-05",
+          "status": "live"
+        },
+        "medium": {
+          "url": "https://medium.com/@forfreedomforrich/the-gi-bill-calculator-every-service-member-should-use-before-picking-a-school-6e1141a34945",
+          "published": "2026-08-05",
+          "status": "live"
+        },
+        "wordpress": {
+          "url": "https://militarylifetools.wordpress.com/2026/08/05/gi-bill-calculator-how-to-estimate-education-benefits-before-you-choose-a-school/",
+          "published": "2026-08-05",
+          "status": "live"
+        },
+        "tumblr": {
+          "url": "https://www.tumblr.com/militarylifeguide/824734312305917952/gi-bill-calculator-how-to-estimate-education?source=share",
+          "published": "2026-08-12",
+          "status": "live"
+        }
+      },
+      "source_article": "https://militarylifetools.com/blog/gi-bill-guide/"
+    },
+    {
+      "name": "Retirement",
+      "platforms": {
+        "blogger": {
+          "url": "https://militarylifetools.blogspot.com/2026/08/military-retirement-planning-in-2026.html",
+          "published": "2026-08-05",
+          "status": "live"
+        },
+        "medium": {
+          "url": null,
+          "published": "2026-08-06T20:00:00",
+          "status": "scheduled",
+          "note": "Medium 24h limit reached; scheduled for 2026-08-06 20:00"
+        },
+        "wordpress": {
+          "url": "https://militarylifetools.wordpress.com/2026/08/05/military-retirement-planning-in-2026-legacy-vs-brs-tsp-and-what-to-know-before-you-leave/",
+          "published": "2026-08-05",
+          "status": "live"
+        },
+        "tumblr": {
+          "url": "https://www.tumblr.com/militarylifeguide/824734408534900736/military-retirement-planning-in-2026-legacy-vs?source=share",
+          "published": "2026-08-12",
+          "status": "live"
+        }
+      },
+      "source_article": "https://militarylifetools.com/blog/retirement-planning-guide/"
+    }
+  ],
+  "summary": {
+    "total_platforms": 15,
+    "live": 14,
+    "scheduled": 1,
+    "pending": 0,
+    "last_published": "2026-08-12",
+    "last_published_platforms": ["tumblr"]
+  }
+}

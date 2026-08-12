@@ -1,0 +1,317 @@
+{
+  "search_metadata": {
+    "id": "6a3a20e9d9961227fbe24aa5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/xFvwibqfYNT0Kp41Eb18hg/6a3a20e9d9961227fbe24aa5.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/xFvwibqfYNT0Kp41Eb18hg/6a3a20e9d9961227fbe24aa5.json_with_pixel_position",
+    "created_at": "2026-06-23 06:00:09 UTC",
+    "processed_at": "2026-06-23 06:00:09 UTC",
+    "google_url": "https://www.google.com/search?q=military+GI+Bill+calculator+tuition&oq=military+GI+Bill+calculator+tuition&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/xFvwibqfYNT0Kp41Eb18hg/6a3a20e9d9961227fbe24aa5.html",
+    "total_time_taken": 2.05
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military GI Bill calculator tuition",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military GI Bill calculator tuition",
+    "total_results": 117,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "mVJMwXicxVbdkqo4EL7f9zjezCiggjJV1KkE0Yn_OHpmnBsKEaMCRgFFzt2-yz7V3u2bnICg6OBM7ana2lgkpEn66-70l_bPv-zVxvr7j3-Wvr_1nhgmCIISJgTbZskgDqN74cZgFsT2XGP5PTxIlYLhSWzBXElCCATdd5bPB6ETzKzhcVGbVIFRiLdI2kz3zDXVeFx7jMbQzvpWadBJySuZm5IN1AZ2nYHygkpllhNLA0Z36ALwHzYFIByNiP6UeH7bIP2ufqVFBjLtcUaEM33SGhEMALIcD4Dc0wZjK2QAlQgXaj2xTofT8ga-twuAl-vpa2wZCCKF1AUl14k8daksNRDewcs3JYaZJJNq5sPH0EaNRiMb3g5VSxMGgFEiGKTrsnAYK6CRyp-DQQ8OlNFnh0Sdb_VA3RrK6JNVkfXIDZrJe9CfUlBmjmkOsszMpQPHrIylEb-4XpSa8lhkyXO3U6moZC3XBHHNvyz4Y3MrOs_mHA8wY8zoOpvoc3OuLTX2ezznyhzPipVa_THmhOGdSeFlSYF7026wDzhUVErdEuQyjIi9RVdnQCNJcybfr07cX52knL7ESRmrykank4wQlCPpRS8chxF6L41SdEQT8CGuEVYOIzKYF_Akc-XmxbFrTSiBz3oHgxvEC0CSClPQUc8uK3R6ZVxWGQRWfAe0UsFFd6QV2_EFETFCSRQOrvbjrGHRTaJieEZWs9bxmU0YwPgQ1iHt2oDI6S0UbUFJEDqRddncbt0yyaOmePjOwX_V7t5CGTvT3L9J5SsK9IJdm7Q8EXJVvw7xYu3u-eleDLU2yE954sz-RSEw_l9SpGWikxxQM5cU6hekUGT4aZk4LW-cSRHPd_dIAVFemTjduJcy8ZEUL9ekuF8mMqTAiVdZrbekgHdIgRPfckgxySGFlUuKpExkSLGsqldl4gR2LhMpKX6rTBx-p0zEFDFPw3XN2K_xJ7WjfRi55FhUHGzPyPuqI_R9q9kNQFP9snYsHP_J0ef2o7aaP8Fy2w_njxoVkCdzXthJzspe-bobPrTQA1zZ9oOh28be1n3iPvj7lb8im4Jju0RidWEGl2qfZ9_4YnF0OFRs7ofXFZ0phMODJZu1xShc9I9y8yA2t8Wfxd1y7eDGq4DgpjxhEUJ99Marwrs-riNLHS66w3EQlFUS6D-2Y-BqyHcGAmqqNfN1zB17mlC1FY7bhH3TklHoHe3deOP3SZnDbxy3nzTU2C5Pmvoz8R2RoXo0CtQvz5S4guMaEs2GKgZ9Fbxi-mdBngJVxvQh9AlonhQ8Q9dM7yAZPMfO9Kop8GVhURHpZuyHW6nKFbyNK3G_ADS-F6s",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mVJMwXicxVbdkqo4EL7f9zjezCiggjJV1KkE0Yn_OHpmnBsKEaMCRgFFzt2-yz7V3u2bnICg6OBM7ana2lgkpEn66-70l_bPv-zVxvr7j3-Wvr_1nhgmCIISJgTbZskgDqN74cZgFsT2XGP5PTxIlYLhSWzBXElCCATdd5bPB6ETzKzhcVGbVIFRiLdI2kz3zDXVeFx7jMbQzvpWadBJySuZm5IN1AZ2nYHygkpllhNLA0Z36ALwHzYFIByNiP6UeH7bIP2ufqVFBjLtcUaEM33SGhEMALIcD4Dc0wZjK2QAlQgXaj2xTofT8ga-twuAl-vpa2wZCCKF1AUl14k8daksNRDewcs3JYaZJJNq5sPH0EaNRiMb3g5VSxMGgFEiGKTrsnAYK6CRyp-DQQ8OlNFnh0Sdb_VA3RrK6JNVkfXIDZrJe9CfUlBmjmkOsszMpQPHrIylEb-4XpSa8lhkyXO3U6moZC3XBHHNvyz4Y3MrOs_mHA8wY8zoOpvoc3OuLTX2ezznyhzPipVa_THmhOGdSeFlSYF7026wDzhUVErdEuQyjIi9RVdnQCNJcybfr07cX52knL7ESRmrykank4wQlCPpRS8chxF6L41SdEQT8CGuEVYOIzKYF_Akc-XmxbFrTSiBz3oHgxvEC0CSClPQUc8uK3R6ZVxWGQRWfAe0UsFFd6QV2_EFETFCSRQOrvbjrGHRTaJieEZWs9bxmU0YwPgQ1iHt2oDI6S0UbUFJEDqRddncbt0yyaOmePjOwX_V7t5CGTvT3L9J5SsK9IJdm7Q8EXJVvw7xYu3u-eleDLU2yE954sz-RSEw_l9SpGWikxxQM5cU6hekUGT4aZk4LW-cSRHPd_dIAVFemTjduJcy8ZEUL9ekuF8mMqTAiVdZrbekgHdIgRPfckgxySGFlUuKpExkSLGsqldl4gR2LhMpKX6rTBx-p0zEFDFPw3XN2K_xJ7WjfRi55FhUHGzPyPuqI_R9q9kNQFP9snYsHP_J0ef2o7aaP8Fy2w_njxoVkCdzXthJzspe-bobPrTQA1zZ9oOh28be1n3iPvj7lb8im4Jju0RidWEGl2qfZ9_4YnF0OFRs7ofXFZ0phMODJZu1xShc9I9y8yA2t8Wfxd1y7eDGq4DgpjxhEUJ99Marwrs-riNLHS66w3EQlFUS6D-2Y-BqyHcGAmqqNfN1zB17mlC1FY7bhH3TklHoHe3deOP3SZnDbxy3nzTU2C5Pmvoz8R2RoXo0CtQvz5S4guMaEs2GKgZ9Fbxi-mdBngJVxvQh9AlonhQ8Q9dM7yAZPMfO9Kop8GVhURHpZuyHW6nKFbyNK3G_ADS-F6s"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "GI Bill® Comparison Tool | Veterans Affairs",
+      "link": "https://www.va.gov/education/gi-bill-comparison-tool/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.va.gov/education/gi-bill-comparison-tool/&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQFnoECCMQAQ",
+      "displayed_link": "https://www.va.gov › education › gi-bill-comparison-tool",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUWHEwFD0YAC0UIEUcRGEoUGksMFEhvcox2eZFgZIEyNl56fZVTVnUAAEHT1Nv____7-_yanK09QWQ4PGIAAECIip5YW3jZ2uDGx9AAADV_gpYnLVkjKFb39_nv7_IAADrj5OikprcAADglKlbo6e61t8SipLMcIlCRk6ZITG4AAD2-v8lTV3VeVWWWAAABGklEQVR4Ac2RhRXDMAwFA7YbvjLbKfP-81Uqj9Afkt45wugPFSdJ-jBMkiTWipu4N3OdLMtjZUWZlUUsbla9ad1At1ajJ0Z_0AWa-gWHI2CcCpzAdDZHtTBPaJZAr45c30M5m0KAMnlCq3EnbZSU4PsmsFrDtLaC3rkWZjiFZtMRkIOPXtANgLLe7mA0W2sKD1L_U8kK9puxRq3FrDTv_l1vfYAwk1fTVrAbHE_yTt5xz9rgBEabk1ghBODsXvWmOzgFiXppeOvwibuHiUYdeLiu1-ud-G8Yj1GN2gz84jKc9X6GZI8BJGo7ff6R3vToZ75TdErboF3K4Yv_Gb47l7KndJtl5UCjpeMs63yX-tiwLlqY0iSJo__THWPcGFaQjPxnAAAAAElFTkSuQmCC.png",
+      "snippet": "GI Bill® Comparison Tool ... Discover how your GI Bill benefits can support your education. Search and compare schools and employers with programs approved for ...",
+      "snippet_highlighted_words": [
+        "GI Bill",
+        "GI Bill"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "GI Bill® Comparison Tool",
+            "link": "https://www.va.gov/education/gi-bill-comparison-tool/institution/11925406",
+            "snippet": "Calculate your benefits · Your military details. Which GI Bill ..."
+          },
+          {
+            "title": "Schools and employers",
+            "link": "https://www.va.gov/education/gi-bill-comparison-tool/schools-and-employers",
+            "snippet": "For technical assistance or questions about the GI Bill ..."
+          },
+          {
+            "title": "THE NEW SCHOOL",
+            "link": "https://www.va.gov/education/gi-bill-comparison-tool/institution/319D1132",
+            "snippet": "Note: We round your estimated benefits to the nearest dollar · GI ..."
+          },
+          {
+            "title": "Bolivar technical college",
+            "link": "https://www.va.gov/education/gi-bill-comparison-tool/institution/34125725",
+            "snippet": "Calculate your benefits · Your military details. Which GI Bill ..."
+          },
+          {
+            "title": "DEPARTMENT OF ...",
+            "link": "https://www.va.gov/education/gi-bill-comparison-tool/institution/104F6505",
+            "snippet": "Calculate your benefits · Your military details. Which GI Bill ..."
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "GI Bill® Comparison Tool ... Discover how your GI Bill benefits can support your education. Search and compare schools and employers with programs approved for ...",
+          "source_info_link": "https://www.va.gov/education/gi-bill-comparison-tool/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUWHEwFD0YAC0UIEUcRGEoUGksMFEhvcox2eZFgZIEyNl56fZVTVnUAAEHT1Nv____7-_yanK09QWQ4PGIAAECIip5YW3jZ2uDGx9AAADV_gpYnLVkjKFb39_nv7_IAADrj5OikprcAADglKlbo6e61t8SipLMcIlCRk6ZITG4AAD2-v8lTV3VeVWWWAAABGklEQVR4Ac2RhRXDMAwFA7YbvjLbKfP-81Uqj9Afkt45wugPFSdJ-jBMkiTWipu4N3OdLMtjZUWZlUUsbla9ad1At1ajJ0Z_0AWa-gWHI2CcCpzAdDZHtTBPaJZAr45c30M5m0KAMnlCq3EnbZSU4PsmsFrDtLaC3rkWZjiFZtMRkIOPXtANgLLe7mA0W2sKD1L_U8kK9puxRq3FrDTv_l1vfYAwk1fTVrAbHE_yTt5xz9rgBEabk1ghBODsXvWmOzgFiXppeOvwibuHiUYdeLiu1-ud-G8Yj1GN2gz84jKc9X6GZI8BJGo7ff6R3vToZ75TdErboF3K4Yv_Gb47l7KndJtl5UCjpeMs63yX-tiwLlqY0iSJo__THWPcGFaQjPxnAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.va.gov/education/gi-bill-comparison-tool/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.va.gov%2Feducation%2Fgi-bill-comparison-tool%2F",
+      "source": "VA.gov Home | Veterans Affairs"
+    },
+    {
+      "position": 2,
+      "title": "Current VA Education Benefit Rates | Veterans Affairs",
+      "link": "https://www.va.gov/education/benefit-rates/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.va.gov/education/benefit-rates/&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQFnoECBsQAQ",
+      "displayed_link": "https://www.va.gov › education › benefit-rates",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUWHEwFD0YAC0UIEUcRGEoUGksMFEhvcox2eZFgZIEyNl56fZVTVnUAAEHT1Nv____7-_yanK09QWQ4PGIAAECIip5YW3jZ2uDGx9AAADV_gpYnLVkjKFb39_nv7_IAADrj5OikprcAADglKlbo6e61t8SipLMcIlCRk6ZITG4AAD2-v8lTV3VeVWWWAAABGklEQVR4Ac2RhRXDMAwFA7YbvjLbKfP-81Uqj9Afkt45wugPFSdJ-jBMkiTWipu4N3OdLMtjZUWZlUUsbla9ad1At1ajJ0Z_0AWa-gWHI2CcCpzAdDZHtTBPaJZAr45c30M5m0KAMnlCq3EnbZSU4PsmsFrDtLaC3rkWZjiFZtMRkIOPXtANgLLe7mA0W2sKD1L_U8kK9puxRq3FrDTv_l1vfYAwk1fTVrAbHE_yTt5xz9rgBEabk1ghBODsXvWmOzgFiXppeOvwibuHiUYdeLiu1-ud-G8Yj1GN2gz84jKc9X6GZI8BJGo7ff6R3vToZ75TdErboF3K4Yv_Gb47l7KndJtl5UCjpeMs63yX-tiwLlqY0iSJo__THWPcGFaQjPxnAAAAAElFTkSuQmCC.png",
+      "date": "Nov 29, 2024",
+      "snippet": "Find out how much money you can get through transferred Post-9/11 GI Bill benefits to help you pay for tuition, housing, and other education ...",
+      "snippet_highlighted_words": [
+        "how much money you can get through transferred Post-9/11 GI Bill benefits"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Find out how much money you can get through transferred Post-9/11 GI Bill benefits to help you pay for tuition, housing, and other education ...",
+          "source_info_link": "https://www.va.gov/education/benefit-rates/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUWHEwFD0YAC0UIEUcRGEoUGksMFEhvcox2eZFgZIEyNl56fZVTVnUAAEHT1Nv____7-_yanK09QWQ4PGIAAECIip5YW3jZ2uDGx9AAADV_gpYnLVkjKFb39_nv7_IAADrj5OikprcAADglKlbo6e61t8SipLMcIlCRk6ZITG4AAD2-v8lTV3VeVWWWAAABGklEQVR4Ac2RhRXDMAwFA7YbvjLbKfP-81Uqj9Afkt45wugPFSdJ-jBMkiTWipu4N3OdLMtjZUWZlUUsbla9ad1At1ajJ0Z_0AWa-gWHI2CcCpzAdDZHtTBPaJZAr45c30M5m0KAMnlCq3EnbZSU4PsmsFrDtLaC3rkWZjiFZtMRkIOPXtANgLLe7mA0W2sKD1L_U8kK9puxRq3FrDTv_l1vfYAwk1fTVrAbHE_yTt5xz9rgBEabk1ghBODsXvWmOzgFiXppeOvwibuHiUYdeLiu1-ud-G8Yj1GN2gz84jKc9X6GZI8BJGo7ff6R3vToZ75TdErboF3K4Yv_Gb47l7KndJtl5UCjpeMs63yX-tiwLlqY0iSJo__THWPcGFaQjPxnAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.va.gov/education/benefit-rates/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.va.gov%2Feducation%2Fbenefit-rates%2F",
+      "source": "VA.gov Home | Veterans Affairs",
+      "read_more_link": "https://www.va.gov/education/benefit-rates/#:~:text=Find%20out%20how%20much%20money,housing%2C%20and%20other%20education%20costs."
+    },
+    {
+      "position": 3,
+      "title": "GI Bill Calculator",
+      "link": "https://helmetstohardhats.org/explore-construction-careers/gi-bill-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://helmetstohardhats.org/explore-construction-careers/gi-bill-calculator/&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQFnoECBkQAQ",
+      "displayed_link": "https://helmetstohardhats.org › gi-bill-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAABf0lEQVR4AYXSIYjsMBCA4fGirp6VNXWF2MiYuFCIiQgEImIqSsTYyFAfVVUPVdX1K-uqKletqd13tHfHPq7cjRs-GEb88Ppl3vGxLut6jXdTMWEJbvEHLl5IdFgbNWGz_Y8b10bWhvkgnNN2ecetNdpZKpE2MEVh7PMNo9HKUlROI9dG6Ta8YcecRRfCLd46rrV3avnGSSslQpWyHlI2FI2RqvtGKRQJWaxaFoSsWuKZN1-4123hucOyg4GiMo1tGU-fuKH0iod8hAF6ImLhua78JyKz0nHjZCBUNY4ESAWqL1TMc9ZKOkJPTcojssjM_cCNOR3yVFibjdB5mCBwbtSJU1MjjJlruPbJWSxT5bTg84EL8bIb5MBlD7Oo5txHmii6Aw0gJcUEc6l76JtsAkXl3an1A8eF7a9RlcAACBTZTRT64-SWT8e36uxgW-c-9eN93Y8dHweSy4DC80D5vMLudWB6XNiSTqz3CxzjiZftTnhAX17heOL-_Lv4i_kHMgk1DQEHjyoAAAAASUVORK5CYII.png",
+      "snippet": "Use the U.S. Veterans Affairs' GI Bill Comparison Tool to calculate and compare your personal GI Bill benefits across apprenticeship programs.",
+      "snippet_highlighted_words": [
+        "Use the U.S. Veterans Affairs' GI Bill Comparison Tool"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use the U.S. Veterans Affairs' GI Bill Comparison Tool to calculate and compare your personal GI Bill benefits across apprenticeship programs.",
+          "source_info_link": "https://helmetstohardhats.org/explore-construction-careers/gi-bill-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAABf0lEQVR4AYXSIYjsMBCA4fGirp6VNXWF2MiYuFCIiQgEImIqSsTYyFAfVVUPVdX1K-uqKletqd13tHfHPq7cjRs-GEb88Ppl3vGxLut6jXdTMWEJbvEHLl5IdFgbNWGz_Y8b10bWhvkgnNN2ecetNdpZKpE2MEVh7PMNo9HKUlROI9dG6Ta8YcecRRfCLd46rrV3avnGSSslQpWyHlI2FI2RqvtGKRQJWaxaFoSsWuKZN1-4123hucOyg4GiMo1tGU-fuKH0iod8hAF6ImLhua78JyKz0nHjZCBUNY4ESAWqL1TMc9ZKOkJPTcojssjM_cCNOR3yVFibjdB5mCBwbtSJU1MjjJlruPbJWSxT5bTg84EL8bIb5MBlD7Oo5txHmii6Aw0gJcUEc6l76JtsAkXl3an1A8eF7a9RlcAACBTZTRT64-SWT8e36uxgW-c-9eN93Y8dHweSy4DC80D5vMLudWB6XNiSTqz3CxzjiZftTnhAX17heOL-_Lv4i_kHMgk1DQEHjyoAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://helmetstohardhats.org/explore-construction-careers/gi-bill-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhelmetstohardhats.org%2Fexplore-construction-careers%2Fgi-bill-calculator%2F",
+      "source": "Helmets to Hardhats"
+    },
+    {
+      "position": 4,
+      "title": "VA Tuition Cost Calculator",
+      "link": "https://www2.tesu.edu/vacalculator/index.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www2.tesu.edu/vacalculator/index.php&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQFnoECBgQAQ",
+      "displayed_link": "https://www2.tesu.edu › vacalculator",
+      "favicon": "https://serpapi.com/searches/6a3a20e9d9961227fbe24aa5/images/jHqP_AySS_MWuBmqkrufEl0xGV2TkJctsZmRyVTbNss.png",
+      "snippet": "VA Tuition Cost Calculator for Post-9/11 GI Bill® Benefits Below 100%. Choose Your Program: Select Program Select Program PCTP Nursing",
+      "snippet_highlighted_words": [
+        "VA Tuition Cost Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "VA Tuition Cost Calculator for Post-9/11 GI Bill® Benefits Below 100%. Choose Your Program: Select Program Select Program PCTP Nursing",
+          "source_info_link": "https://www2.tesu.edu/vacalculator/index.php",
+          "icon": "https://serpapi.com/searches/6a3a20e9d9961227fbe24aa5/images/jHqP_AySS_MWuBmqkrufEungdusAoKZj50QlPRmB_bdcFgDYY1HECEt2H8Kf8zfS.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www2.tesu.edu/vacalculator/index.php&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww2.tesu.edu%2Fvacalculator%2Findex.php",
+      "source": "Thomas Edison State University",
+      "read_more_link": "https://www2.tesu.edu/vacalculator/index.php#:~:text=VA%20Tuition%20Cost%20Calculator&text=For%20Post%2D9%2F11%20GI%20Bill%C2%AE%20Benefits,Below%20100%25&text=Choose%20Your%20Program%3A&text=Select%20Program&text=Select%20Program"
+    },
+    {
+      "position": 5,
+      "title": "Monthly Housing Allowance (MHA) for the GI Bill",
+      "link": "https://veteran.com/monthly-housing-allowance-mha-for-post-911-gi-bill/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://veteran.com/monthly-housing-allowance-mha-for-post-911-gi-bill/&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQFnoECDUQAQ",
+      "displayed_link": "https://veteran.com › BAH and Allowances",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAGUEAGUEAGUEAGUEAGUEAGUEAGUEAGEEAGUEAGUEAGUEAGUEAGUEAFkAAGUF_LUbYPkvYPkvZPkteJkS-OUncP0vYPkvLO0rYPkvYPktuxi__AAAAG3RSTlMAb3sQhI7_IqXPNrji9EpaB1zF__91S5b2uSUp5I2JAAAAzklEQVR4AZ2SURZAQAwDCwAAYO9_UFp9efErQHbAQP4nip9EwknSZyjVvSzXFAxLHansMIMlQxupbbexfWKR9lYstcFYkE575KXV0oH1nysN1nrxVNqy7wNUXgprCSBs4NGAwYY9ELaJyYNtIngMIGQDj3EEgo17pDJNQLBxj1HmmWH62pX-2MvC1x0NKlvXbT-W5dj3aadv6DkXz4yzC8B-f9lE162MmNDEDDb-YS-7KAjejXrIcoZwLgB4q-oxXVqvjeFoP2QhErRh8y83vmcMCfkRWd8AAAAASUVORK5CYII.png",
+      "date": "Jul 22, 2025",
+      "snippet": "Veterans, dependents and National Guard and reserve service members can use the MHA calculator to see their estimated monthly payments.",
+      "snippet_highlighted_words": [
+        "MHA calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Veterans, dependents and National Guard and reserve service members can use the MHA calculator to see their estimated monthly payments.",
+          "source_info_link": "https://veteran.com/monthly-housing-allowance-mha-for-post-911-gi-bill/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAGUEAGUEAGUEAGUEAGUEAGUEAGUEAGEEAGUEAGUEAGUEAGUEAGUEAFkAAGUF_LUbYPkvYPkvZPkteJkS-OUncP0vYPkvLO0rYPkvYPktuxi__AAAAG3RSTlMAb3sQhI7_IqXPNrji9EpaB1zF__91S5b2uSUp5I2JAAAAzklEQVR4AZ2SURZAQAwDCwAAYO9_UFp9efErQHbAQP4nip9EwknSZyjVvSzXFAxLHansMIMlQxupbbexfWKR9lYstcFYkE575KXV0oH1nysN1nrxVNqy7wNUXgprCSBs4NGAwYY9ELaJyYNtIngMIGQDj3EEgo17pDJNQLBxj1HmmWH62pX-2MvC1x0NKlvXbT-W5dj3aadv6DkXz4yzC8B-f9lE162MmNDEDDb-YS-7KAjejXrIcoZwLgB4q-oxXVqvjeFoP2QhErRh8y83vmcMCfkRWd8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://veteran.com/monthly-housing-allowance-mha-for-post-911-gi-bill/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fveteran.com%2Fmonthly-housing-allowance-mha-for-post-911-gi-bill%2F",
+      "source": "Veteran.com",
+      "read_more_link": "https://veteran.com/monthly-housing-allowance-mha-for-post-911-gi-bill/#:~:text=Veterans%2C%20dependents%20and%20National%20Guard,see%20their%20estimated%20monthly%20payments."
+    },
+    {
+      "position": 6,
+      "title": "Post-9/11 GI Bill (Chapter 33) Rates",
+      "link": "https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQFnoECDYQAQ",
+      "displayed_link": "https://www.va.gov › education › benefit-rates › post-9...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUWHEwFD0YAC0UIEUcRGEoUGksMFEhvcox2eZFgZIEyNl56fZVTVnUAAEHT1Nv____7-_yanK09QWQ4PGIAAECIip5YW3jZ2uDGx9AAADV_gpYnLVkjKFb39_nv7_IAADrj5OikprcAADglKlbo6e61t8SipLMcIlCRk6ZITG4AAD2-v8lTV3VeVWWWAAABGklEQVR4Ac2RhRXDMAwFA7YbvjLbKfP-81Uqj9Afkt45wugPFSdJ-jBMkiTWipu4N3OdLMtjZUWZlUUsbla9ad1At1ajJ0Z_0AWa-gWHI2CcCpzAdDZHtTBPaJZAr45c30M5m0KAMnlCq3EnbZSU4PsmsFrDtLaC3rkWZjiFZtMRkIOPXtANgLLe7mA0W2sKD1L_U8kK9puxRq3FrDTv_l1vfYAwk1fTVrAbHE_yTt5xz9rgBEabk1ghBODsXvWmOzgFiXppeOvwibuHiUYdeLiu1-ud-G8Yj1GN2gz84jKc9X6GZI8BJGo7ff6R3vToZ75TdErboF3K4Yv_Gb47l7KndJtl5UCjpeMs63yX-tiwLlqY0iSJo__THWPcGFaQjPxnAAAAAElFTkSuQmCC.png",
+      "date": "Apr 24, 2026",
+      "snippet": "We'll pay the net tuition and mandatory fees up to $29,920.95 at a private school. Monthly housing allowance. You may be eligible for money to ...",
+      "snippet_highlighted_words": [
+        "net tuition and mandatory fees up to $29,920.95"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We'll pay the net tuition and mandatory fees up to $29,920.95 at a private school. Monthly housing allowance. You may be eligible for money to ...",
+          "source_info_link": "https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUWHEwFD0YAC0UIEUcRGEoUGksMFEhvcox2eZFgZIEyNl56fZVTVnUAAEHT1Nv____7-_yanK09QWQ4PGIAAECIip5YW3jZ2uDGx9AAADV_gpYnLVkjKFb39_nv7_IAADrj5OikprcAADglKlbo6e61t8SipLMcIlCRk6ZITG4AAD2-v8lTV3VeVWWWAAABGklEQVR4Ac2RhRXDMAwFA7YbvjLbKfP-81Uqj9Afkt45wugPFSdJ-jBMkiTWipu4N3OdLMtjZUWZlUUsbla9ad1At1ajJ0Z_0AWa-gWHI2CcCpzAdDZHtTBPaJZAr45c30M5m0KAMnlCq3EnbZSU4PsmsFrDtLaC3rkWZjiFZtMRkIOPXtANgLLe7mA0W2sKD1L_U8kK9puxRq3FrDTv_l1vfYAwk1fTVrAbHE_yTt5xz9rgBEabk1ghBODsXvWmOzgFiXppeOvwibuHiUYdeLiu1-ud-G8Yj1GN2gz84jKc9X6GZI8BJGo7ff6R3vToZ75TdErboF3K4Yv_Gb47l7KndJtl5UCjpeMs63yX-tiwLlqY0iSJo__THWPcGFaQjPxnAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.va.gov%2Feducation%2Fbenefit-rates%2Fpost-9-11-gi-bill-rates%2F",
+      "source": "VA.gov Home | Veterans Affairs",
+      "read_more_link": "https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/#:~:text=We'll%20pay%20the%20net%20tuition,your%20housing%20while%20you're%20studying."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "GI Bill BAH calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=GI+Bill+BAH+calculator&sa=X&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=GI+Bill+BAH+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "GI Bill BAH calculator 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=GI+Bill+BAH+calculator+2026&sa=X&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=GI+Bill+BAH+calculator+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Post 9 11 GI Bill calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Post+9+11+GI+Bill+calculator&sa=X&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Post+9+11+GI+Bill+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "GI Bill calculator ZIP code",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=GI+Bill+calculator+ZIP+code&sa=X&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ1QJ6BAgtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=GI+Bill+calculator+ZIP+code"
+    },
+    {
+      "block_position": 1,
+      "query": "How much does GI Bill pay per month",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=How+much+does+GI+Bill+pay+per+month&sa=X&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+GI+Bill+pay+per+month"
+    },
+    {
+      "block_position": 1,
+      "query": "How much is the GI Bill worth for dependents",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=How+much+is+the+GI+Bill+worth+for+dependents&sa=X&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+is+the+GI+Bill+worth+for+dependents"
+    },
+    {
+      "block_position": 1,
+      "query": "Post 911 GI Bill pay chart",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Post+911+GI+Bill+pay+chart&sa=X&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Post+911+GI+Bill+pay+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "GI Bill OJT Calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=GI+Bill+OJT+Calculator&sa=X&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=GI+Bill+OJT+Calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+GI+Bill+calculator+tuition&sca_esv=c510ba4e6526f391&ei=6yA6atmhHv6KwbkPxf7U4Ac&start=10&sa=N&sstk=AU9db-DCYhHcrsYaL2-U183ao9d41-FMRUuts3R-OyW9iCmszxeyWujvzaMwjBnV8h64VAkdyanOjoHtuq56l8pCxNEc31ocJAJY-w&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ8NMDegQIKxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+GI+Bill+calculator+tuition&sca_esv=c510ba4e6526f391&ei=6yA6atmhHv6KwbkPxf7U4Ac&start=10&sa=N&sstk=AU9db-DCYhHcrsYaL2-U183ao9d41-FMRUuts3R-OyW9iCmszxeyWujvzaMwjBnV8h64VAkdyanOjoHtuq56l8pCxNEc31ocJAJY-w&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ8tMDegQIKxAE",
+      "3": "https://www.google.com/search?q=military+GI+Bill+calculator+tuition&sca_esv=c510ba4e6526f391&ei=6yA6atmhHv6KwbkPxf7U4Ac&start=20&sa=N&sstk=AU9db-DCYhHcrsYaL2-U183ao9d41-FMRUuts3R-OyW9iCmszxeyWujvzaMwjBnV8h64VAkdyanOjoHtuq56l8pCxNEc31ocJAJY-w&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ8tMDegQIKxAG",
+      "4": "https://www.google.com/search?q=military+GI+Bill+calculator+tuition&sca_esv=c510ba4e6526f391&ei=6yA6atmhHv6KwbkPxf7U4Ac&start=30&sa=N&sstk=AU9db-DCYhHcrsYaL2-U183ao9d41-FMRUuts3R-OyW9iCmszxeyWujvzaMwjBnV8h64VAkdyanOjoHtuq56l8pCxNEc31ocJAJY-w&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ8tMDegQIKxAI",
+      "5": "https://www.google.com/search?q=military+GI+Bill+calculator+tuition&sca_esv=c510ba4e6526f391&ei=6yA6atmhHv6KwbkPxf7U4Ac&start=40&sa=N&sstk=AU9db-DCYhHcrsYaL2-U183ao9d41-FMRUuts3R-OyW9iCmszxeyWujvzaMwjBnV8h64VAkdyanOjoHtuq56l8pCxNEc31ocJAJY-w&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ8tMDegQIKxAK",
+      "6": "https://www.google.com/search?q=military+GI+Bill+calculator+tuition&sca_esv=c510ba4e6526f391&ei=6yA6atmhHv6KwbkPxf7U4Ac&start=50&sa=N&sstk=AU9db-DCYhHcrsYaL2-U183ao9d41-FMRUuts3R-OyW9iCmszxeyWujvzaMwjBnV8h64VAkdyanOjoHtuq56l8pCxNEc31ocJAJY-w&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ8tMDegQIKxAM",
+      "7": "https://www.google.com/search?q=military+GI+Bill+calculator+tuition&sca_esv=c510ba4e6526f391&ei=6yA6atmhHv6KwbkPxf7U4Ac&start=60&sa=N&sstk=AU9db-DCYhHcrsYaL2-U183ao9d41-FMRUuts3R-OyW9iCmszxeyWujvzaMwjBnV8h64VAkdyanOjoHtuq56l8pCxNEc31ocJAJY-w&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ8tMDegQIKxAO",
+      "8": "https://www.google.com/search?q=military+GI+Bill+calculator+tuition&sca_esv=c510ba4e6526f391&ei=6yA6atmhHv6KwbkPxf7U4Ac&start=70&sa=N&sstk=AU9db-DCYhHcrsYaL2-U183ao9d41-FMRUuts3R-OyW9iCmszxeyWujvzaMwjBnV8h64VAkdyanOjoHtuq56l8pCxNEc31ocJAJY-w&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ8tMDegQIKxAQ",
+      "9": "https://www.google.com/search?q=military+GI+Bill+calculator+tuition&sca_esv=c510ba4e6526f391&ei=6yA6atmhHv6KwbkPxf7U4Ac&start=80&sa=N&sstk=AU9db-DCYhHcrsYaL2-U183ao9d41-FMRUuts3R-OyW9iCmszxeyWujvzaMwjBnV8h64VAkdyanOjoHtuq56l8pCxNEc31ocJAJY-w&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ8tMDegQIKxAS",
+      "10": "https://www.google.com/search?q=military+GI+Bill+calculator+tuition&sca_esv=c510ba4e6526f391&ei=6yA6atmhHv6KwbkPxf7U4Ac&start=90&sa=N&sstk=AU9db-DCYhHcrsYaL2-U183ao9d41-FMRUuts3R-OyW9iCmszxeyWujvzaMwjBnV8h64VAkdyanOjoHtuq56l8pCxNEc31ocJAJY-w&ved=2ahUKEwiZw8XG15yVAxV-RTABHUU_FXwQ8tMDegQIKxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+GI+Bill+calculator+tuition&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+GI+Bill+calculator+tuition&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+GI+Bill+calculator+tuition&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+GI+Bill+calculator+tuition&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+GI+Bill+calculator+tuition&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+GI+Bill+calculator+tuition&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+GI+Bill+calculator+tuition&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+GI+Bill+calculator+tuition&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+GI+Bill+calculator+tuition&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+GI+Bill+calculator+tuition&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+GI+Bill+calculator+tuition&start=90"
+    }
+  }
+}

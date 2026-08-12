@@ -1,0 +1,453 @@
+{
+  "search_metadata": {
+    "id": "6a3a21403f79e8feb0b74e26",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aVzxMsg1SvO-rxIX9UWszw/6a3a21403f79e8feb0b74e26.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/aVzxMsg1SvO-rxIX9UWszw/6a3a21403f79e8feb0b74e26.json_with_pixel_position",
+    "created_at": "2026-06-23 06:01:36 UTC",
+    "processed_at": "2026-06-23 06:01:36 UTC",
+    "google_url": "https://www.google.com/search?q=military+dental+insurance+cost+calculator&oq=military+dental+insurance+cost+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/aVzxMsg1SvO-rxIX9UWszw/6a3a21403f79e8feb0b74e26.html",
+    "total_time_taken": 1.92
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military dental insurance cost calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military dental insurance cost calculator",
+    "total_results": 102,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Does the military pay for dental insurance?",
+      "type": "featured_snippet",
+      "snippet": "The TRICARE Dental Program is a voluntary dental plan. Sponsors can enroll through milConnect. You get active duty dental benefits if you're on active duty orders for more than 30 days or covered by TAMP.",
+      "title": "TRICARE Dental Program",
+      "link": "https://tricare.mil/CoveredServices/Dental/TDP#:~:text=The%20TRICARE%20Dental%20Program%20is,Sponsors%20can%20enroll%20through%20milConnect.&text=You%20get%20active%20duty%20dental,days%20or%20covered%20by%20TAMP.",
+      "displayed_link": "https://tricare.mil › CoveredServices › Dental › TDP",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABmElEQVR4Ae2Qw2IlURRFd9s2Lwq3Xtu2bds2h22bMWdx5rGeY_s3MktOxbP8QNY1jjZ66YFLuSOw8-ssbPs2A9sCJmLX97nY9mUYutMM9CmfPXtgx9kv5SgXN5ZXzdRW719980rfnT-_YufP59j54yaNn9jxaw1sNrzs3-Ggr0cau71c7bBXpzDv-Lh1vYhrx1O1uQcmbXu_B3v-R5OTROz4kYydv35i979QcrapK6K0DpVI65RLmFfdXF30C3XUwxwH66dPn4vd_8eQ8WOKfBC7flzAjp-XydFJHI3tBxuvPmu2W6gzldI6ScYPXFzdrNAcBz3cOFkxRTDsCTxHtVPEn6_s0brf_WsxOsiZOXeMnXqhZh5wMccit66PBJGxYUNbjQciRlMJN7Dn72bs-nsF-8I2Yufv0-jALcQk2wmIPM0xB0TuDDWVtOlnZ9eq0zBMovNQGiOaxo9QrX-kWuKcPnssPEwJ30xTFs-bN8zFzfOxZOiU1txGzgc7SVgAfVxC7fMJpQqEYE5mHgTh4eaBXKVGoBe0AIGCfF0xAV7OAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xVRmtZazFsZEc1RGIzZExSREF3VTB4Zk1EWmZaek5UYmtaWVkwSnlTM1ZYZFVWSlZqRmFWWEkxVkdkMVduSmtVMUV3VTJFMlkzaHNaVWhHYkVKbE1IbDNWVlZCZGtvd2ExZHBNWGxRWkZKRllXOWliMlYwVW1zeWR4SVhVVk5GTm1GME4zWkhXbnBwYTFCSlVHdExlVlpwUVhjYUlrRkVjM0k1WmxKTU1EWnVlakZSUmw5R2JreHlSbEpLYlhaTVdqWXdObXh2VVhjIiwiZmN2IjoiMyIsImVpIjoiUVNFNmF0N3ZHWnppa1BJUGtLeVZpQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmtaVzUwWVd3Z2FXNXpkWEpoYm1ObElHTnZjM1FnWTJGc1kzVnNZWFJ2Y2hBQWZmYkhXRDgiLCJxdWVzdGlvbiI6IkRvZXMgdGhlIG1pbGl0YXJ5IHBheSBmb3IgZGVudGFsIGluc3VyYW5jZT8iLCJsayI6IkdpcGtiMlZ6SUhSb1pTQnRhV3hwZEdGeWVTQndZWGtnWm05eUlHUmxiblJoYkNCcGJuTjFjbUZ1WTJVIiwiYnMiOiJjLU9LNDlKMnlVOHRWaWpKU0ZYSXpjekpMRWtzcWxRb1NLeFVTTXN2VWtoSnpTdEp6RkhJekNzdUxVck1TMDYxbHppV2JLUWpwWlZDdEE2dUZDNDlqX3h5aGR6UzVBd0ZzRGE0Rm5TbENzbjVaYWxGOWhMWG5ZMzBwWFF6U05IRUZjdWxnMnBMU0pDbnMyT1FLMHg5Y241eGlVSkJhcEZDYm41ZVNZYTlrYTZVTnFvRkpVV1p5WWxGcWRqVmMzbHlLWG5pYzBSNmZuNkt2Wkd5bEdJbUlWVUNqQUEiLCJpZCI6ImZjX1FTRTZhdDd2R1p6aWtQSVBrS3lWaUF3XzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xVRmtZazFsZEc1RGIzZExSREF3VTB4Zk1EWmZaek5UYmtaWVkwSnlTM1ZYZFVWSlZqRmFWWEkxVkdkMVduSmtVMUV3VTJFMlkzaHNaVWhHYkVKbE1IbDNWVlZCZGtvd2ExZHBNWGxRWkZKRllXOWliMlYwVW1zeWR4SVhVVk5GTm1GME4zWkhXbnBwYTFCSlVHdExlVlpwUVhjYUlrRkVjM0k1WmxKTU1EWnVlakZSUmw5R2JreHlSbEpLYlhaTVdqWXdObXh2VVhjIiwiZmN2IjoiMyIsImVpIjoiUVNFNmF0N3ZHWnppa1BJUGtLeVZpQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmtaVzUwWVd3Z2FXNXpkWEpoYm1ObElHTnZjM1FnWTJGc1kzVnNZWFJ2Y2hBQWZmYkhXRDgiLCJxdWVzdGlvbiI6IkRvZXMgdGhlIG1pbGl0YXJ5IHBheSBmb3IgZGVudGFsIGluc3VyYW5jZT8iLCJsayI6IkdpcGtiMlZ6SUhSb1pTQnRhV3hwZEdGeWVTQndZWGtnWm05eUlHUmxiblJoYkNCcGJuTjFjbUZ1WTJVIiwiYnMiOiJjLU9LNDlKMnlVOHRWaWpKU0ZYSXpjekpMRWtzcWxRb1NLeFVTTXN2VWtoSnpTdEp6RkhJekNzdUxVck1TMDYxbHppV2JLUWpwWlZDdEE2dUZDNDlqX3h5aGR6UzVBd0ZzRGE0Rm5TbENzbjVaYWxGOWhMWG5ZMzBwWFF6U05IRUZjdWxnMnBMU0pDbnMyT1FLMHg5Y241eGlVSkJhcEZDYm41ZVNZYTlrYTZVTnFvRkpVV1p5WWxGcWRqVmMzbHlLWG5pYzBSNmZuNkt2Wkd5bEdJbUlWVUNqQUEiLCJpZCI6ImZjX1FTRTZhdDd2R1p6aWtQSVBrS3lWaUF3XzIifQ%3D%3D"
+    },
+    {
+      "question": "How much does military dental insurance cover?",
+      "type": "featured_snippet",
+      "snippet": "Jump to:",
+      "table": [
+        [
+          "Maximum",
+          "Amount"
+        ],
+        [
+          "Annual Benefit Maximum",
+          "$1,500 per enrollee"
+        ],
+        [
+          "Orthodontic Lifetime Maximum (See age limitations in Orthodontics Section below)",
+          "$1,750 per enrollee"
+        ],
+        [
+          "Dental Accident Coverage Annual Maximum",
+          "$1,200 per enrollee"
+        ]
+      ],
+      "formatted": [
+        {
+          "maximum": "Annual Benefit Maximum",
+          "amount": "$1,500 per enrollee"
+        },
+        {
+          "maximum": "Orthodontic Lifetime Maximum (See age limitations in Orthodontics Section below)",
+          "amount": "$1,750 per enrollee"
+        },
+        {
+          "maximum": "Dental Accident Coverage Annual Maximum",
+          "amount": "$1,200 per enrollee"
+        }
+      ],
+      "title": "Whats Covered - TRICARE Dental Program",
+      "link": "https://www.uccitdp.com/member/enrollment-and-benefits/whats-covered",
+      "displayed_link": "https://www.uccitdp.com › enrollment-and-benefits › wh...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAS1BMVEVHcEzIACfGIDzmpq7BBC7LHzv___-4IT7EITzDIDzJCzDJEzPYanfLFzbilJ3beoXqs7ntwcbehpHy1tnVXW3STV_67vDNLETwys5cBGdiAAAACnRSTlMA____5___XuXpDU_sfQAAAJxJREFUGJVNz1cOwzAIAFAwwU4A74ze_6S10yotH4wnJARAWJ1DVEVxbg0AgZmlvMxqwtEGWMecvPc1eRLmDdwXRtBcmcB43sD8AM254z9Q8ucPNJ-IvTygjCbYkOMHNF-Gu6GwxRuErl4S1UJJJ0i80nEc2Y62a2QQytnSPlJudbcIC2UqrRvVRp3KAkFjlDguiI6q892Nn9gCvAH85whgIPODUQAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xVRmtZazFsZEc1RGIzZExSREF3VTB4Zk1EWmZaek5UYmtaWVkwSnlTM1ZYZFVWSlZqRmFWWEkxVkdkMVduSmtVMUV3VTJFMlkzaHNaVWhHYkVKbE1IbDNWVlZCZGtvd2ExZHBNWGxRWkZKRllXOWliMlYwVW1zeWR4SVhVVk5GTm1GME4zWkhXbnBwYTFCSlVHdExlVlpwUVhjYUlrRkVjM0k1WmxKTU1EWnVlakZSUmw5R2JreHlSbEpLYlhaTVdqWXdObXh2VVhjIiwiZmN2IjoiMyIsImVpIjoiUVNFNmF0N3ZHWnppa1BJUGtLeVZpQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmtaVzUwWVd3Z2FXNXpkWEpoYm1ObElHTnZjM1FnWTJGc1kzVnNZWFJ2Y2hBQWZmYkhXRDgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgbWlsaXRhcnkgZGVudGFsIGluc3VyYW5jZSBjb3Zlcj8iLCJsayI6IkdpMW9iM2NnYlhWamFDQmtiMlZ6SUcxcGJHbDBZWEo1SUdSbGJuUmhiQ0JwYm5OMWNtRnVZMlVnWTI5MlpYSSIsImJzIjoiYy1PSzQ5SjJ5VTh0VmlqSlNGWEl6Y3pKTEVrc3FsUW9TS3hVU01zdlVraEp6U3RKekZISXpDc3VMVXJNUzA2MWx6aVdiS1FqcFpWQ3RBNnVGQzQ5al94eWhkelM1QXdGc0RhNEZuU2xDc241WmFsRjloTFhuWTMwcFhRelNOSEVGY3VsZzJwTFNKQ25zMk9RSzB4OWNuNXhpVUpCYXBGQ2JuNWVTWWE5a2E2VU5xb0ZKVVdaeVlsRnFkalZjM2x5S1huaWMwUjZmbjZLdlpHeWxHSW1JVlVDakFBIiwiaWQiOiJmY19RU0U2YXQ3dkdaemlrUElQa0t5VmlBd18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xVRmtZazFsZEc1RGIzZExSREF3VTB4Zk1EWmZaek5UYmtaWVkwSnlTM1ZYZFVWSlZqRmFWWEkxVkdkMVduSmtVMUV3VTJFMlkzaHNaVWhHYkVKbE1IbDNWVlZCZGtvd2ExZHBNWGxRWkZKRllXOWliMlYwVW1zeWR4SVhVVk5GTm1GME4zWkhXbnBwYTFCSlVHdExlVlpwUVhjYUlrRkVjM0k1WmxKTU1EWnVlakZSUmw5R2JreHlSbEpLYlhaTVdqWXdObXh2VVhjIiwiZmN2IjoiMyIsImVpIjoiUVNFNmF0N3ZHWnppa1BJUGtLeVZpQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmtaVzUwWVd3Z2FXNXpkWEpoYm1ObElHTnZjM1FnWTJGc1kzVnNZWFJ2Y2hBQWZmYkhXRDgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgbWlsaXRhcnkgZGVudGFsIGluc3VyYW5jZSBjb3Zlcj8iLCJsayI6IkdpMW9iM2NnYlhWamFDQmtiMlZ6SUcxcGJHbDBZWEo1SUdSbGJuUmhiQ0JwYm5OMWNtRnVZMlVnWTI5MlpYSSIsImJzIjoiYy1PSzQ5SjJ5VTh0VmlqSlNGWEl6Y3pKTEVrc3FsUW9TS3hVU01zdlVraEp6U3RKekZISXpDc3VMVXJNUzA2MWx6aVdiS1FqcFpWQ3RBNnVGQzQ5al94eWhkelM1QXdGc0RhNEZuU2xDc241WmFsRjloTFhuWTMwcFhRelNOSEVGY3VsZzJwTFNKQ25zMk9RSzB4OWNuNXhpVUpCYXBGQ2JuNWVTWWE5a2E2VU5xb0ZKVVdaeVlsRnFkalZjM2x5S1huaWMwUjZmbjZLdlpHeWxHSW1JVlVDakFBIiwiaWQiOiJmY19RU0U2YXQ3dkdaemlrUElQa0t5VmlBd18yIn0%3D"
+    },
+    {
+      "question": "How much does TRICARE dental cost per month?",
+      "type": "ai_overview",
+      "page_token": "Yljn7HicHdDRbpswFIBh7WV62ZhQd2qkaColLElTVoyP7XIzEbvEHcfgJh4k3O1d9lR9mlV7gV-f_j9_8a1rP74MNgR_Wsxm4zheH_r-gK_Xunez-nTp9EzXiPtat4vbr7fRt0YvV783ycP7JinAe5EywrP7cw10x2MrNaGNljbaO9oyF8IT2KzEKjJT_s7SpOExu5RKU4l4kt-pkGJLNVZnQ0Jaq2yUqR00eGbirXtq84ErQX5I2u1krqp1Qo1inUwzxTHz5Vw8FnhHmasCW-fPe9h602W1Xh0uhUqOQgaAlKEmd17zJANhp3zC4SXexByymx1E84oXF8lRsJZ8uvwIMXYraxgQmL-oIjatqV8dHmGFRU0CFQ4Tc-7fCmCT_oUOSARsndxAZKtywkc9Pz9IbkFF-PzZp-Vkmmq8avSwjK_-_1z-bFxY-GN_-AeSr4Po",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Yljn7HicHdDRbpswFIBh7WV62ZhQd2qkaColLElTVoyP7XIzEbvEHcfgJh4k3O1d9lR9mlV7gV-f_j9_8a1rP74MNgR_Wsxm4zheH_r-gK_Xunez-nTp9EzXiPtat4vbr7fRt0YvV783ycP7JinAe5EywrP7cw10x2MrNaGNljbaO9oyF8IT2KzEKjJT_s7SpOExu5RKU4l4kt-pkGJLNVZnQ0Jaq2yUqR00eGbirXtq84ErQX5I2u1krqp1Qo1inUwzxTHz5Vw8FnhHmasCW-fPe9h602W1Xh0uhUqOQgaAlKEmd17zJANhp3zC4SXexByymx1E84oXF8lRsJZ8uvwIMXYraxgQmL-oIjatqV8dHmGFRU0CFQ4Tc-7fCmCT_oUOSARsndxAZKtywkc9Pz9IbkFF-PzZp-Vkmmq8avSwjK_-_1z-bFxY-GN_-AeSr4Po",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xVRmtZazFsZEc1RGIzZExSREF3VTB4Zk1EWmZaek5UYmtaWVkwSnlTM1ZYZFVWSlZqRmFWWEkxVkdkMVduSmtVMUV3VTJFMlkzaHNaVWhHYkVKbE1IbDNWVlZCZGtvd2ExZHBNWGxRWkZKRllXOWliMlYwVW1zeWR4SVhVVk5GTm1GME4zWkhXbnBwYTFCSlVHdExlVlpwUVhjYUlrRkVjM0k1WmxKTU1EWnVlakZSUmw5R2JreHlSbEpLYlhaTVdqWXdObXh2VVhjIiwiZmN2IjoiMyIsImVpIjoiUVNFNmF0N3ZHWnppa1BJUGtLeVZpQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmtaVzUwWVd3Z2FXNXpkWEpoYm1ObElHTnZjM1FnWTJGc1kzVnNZWFJ2Y2hBQWZmYkhXRDgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgVFJJQ0FSRSBkZW50YWwgY29zdCBwZXIgbW9udGg/IiwibGsiOiJHaXRvYjNjZ2JYVmphQ0JrYjJWeklIUnlhV05oY21VZ1pHVnVkR0ZzSUdOdmMzUWdjR1Z5SUcxdmJuUm8iLCJicyI6ImMtT0s0OUoyeVU4dFZpakpTRlhJemN6SkxFa3NxbFFvU0t4VVNNc3ZVa2hKelN0SnpGSEl6Q3N1TFVyTVMwNjFsemlXYktRanBaVkN0QTZ1RkM0OWpfeHloZHpTNUF3RnNEYTRGblNsQ3NuNVphbEY5aExYblkzMHBYUXpTTkhFRmN1bGcycExTSkNuczJPUUsweDljbjV4aVVKQmFwRkNibjVlU1lhOWthNlVOcW9GSlVXWnlZbEZxZGpWYzNseUtYbmljMFI2Zm42S3ZaR3lsR0ltSVZVQ2pBQSIsImlkIjoiZmNfUVNFNmF0N3ZHWnppa1BJUGtLeVZpQXdfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xVRmtZazFsZEc1RGIzZExSREF3VTB4Zk1EWmZaek5UYmtaWVkwSnlTM1ZYZFVWSlZqRmFWWEkxVkdkMVduSmtVMUV3VTJFMlkzaHNaVWhHYkVKbE1IbDNWVlZCZGtvd2ExZHBNWGxRWkZKRllXOWliMlYwVW1zeWR4SVhVVk5GTm1GME4zWkhXbnBwYTFCSlVHdExlVlpwUVhjYUlrRkVjM0k1WmxKTU1EWnVlakZSUmw5R2JreHlSbEpLYlhaTVdqWXdObXh2VVhjIiwiZmN2IjoiMyIsImVpIjoiUVNFNmF0N3ZHWnppa1BJUGtLeVZpQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmtaVzUwWVd3Z2FXNXpkWEpoYm1ObElHTnZjM1FnWTJGc1kzVnNZWFJ2Y2hBQWZmYkhXRDgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgVFJJQ0FSRSBkZW50YWwgY29zdCBwZXIgbW9udGg%2FIiwibGsiOiJHaXRvYjNjZ2JYVmphQ0JrYjJWeklIUnlhV05oY21VZ1pHVnVkR0ZzSUdOdmMzUWdjR1Z5SUcxdmJuUm8iLCJicyI6ImMtT0s0OUoyeVU4dFZpakpTRlhJemN6SkxFa3NxbFFvU0t4VVNNc3ZVa2hKelN0SnpGSEl6Q3N1TFVyTVMwNjFsemlXYktRanBaVkN0QTZ1RkM0OWpfeHloZHpTNUF3RnNEYTRGblNsQ3NuNVphbEY5aExYblkzMHBYUXpTTkhFRmN1bGcycExTSkNuczJPUUsweDljbjV4aVVKQmFwRkNibjVlU1lhOWthNlVOcW9GSlVXWnlZbEZxZGpWYzNseUtYbmljMFI2Zm42S3ZaR3lsR0ltSVZVQ2pBQSIsImlkIjoiZmNfUVNFNmF0N3ZHWnppa1BJUGtLeVZpQXdfMiJ9"
+    },
+    {
+      "question": "Is military dental insurance good?",
+      "type": "ai_overview",
+      "page_token": "rG7HdnicHdBNjpswGABQ9TKznDiQpGqkqBIBT0lLkA2fDd5U2CZhYvMzE3cM2fUuPVVPU6nvCO_3H_s6mL-fPjrnpvt-tfLeP1_H8WrbZzX2q-a-DGqlGmtlo8x-93m3_npRh-RXGh3f0ojANLGYouLBZmLFEcIkpOvpLl8wyIfwOYuETuqwBZZkWIBk05yZ7baA1BNkM3rL1qQ0nnJtWHUONANUc78pAAWyyh40wLU0WuT8C5Gh7Wp2Sgk739qSvgGaN3VPwxxnAVTnJePiVFTT0ljxvfzWJT94Z5oY7ximC4DenAO3Fdz1RTJzWaZexlEskULlIDplMdLF2kGJ721sh6TTFBAEdUVCbXTT9vYdEksa5Last5Gex1cC9KFutgc0HUvDQtGLmvEph9tpYWU0CM6cxODzF4e0f7qoj0P49P_z8PPSu_30Pl7_AQAFg_Q",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rG7HdnicHdBNjpswGABQ9TKznDiQpGqkqBIBT0lLkA2fDd5U2CZhYvMzE3cM2fUuPVVPU6nvCO_3H_s6mL-fPjrnpvt-tfLeP1_H8WrbZzX2q-a-DGqlGmtlo8x-93m3_npRh-RXGh3f0ojANLGYouLBZmLFEcIkpOvpLl8wyIfwOYuETuqwBZZkWIBk05yZ7baA1BNkM3rL1qQ0nnJtWHUONANUc78pAAWyyh40wLU0WuT8C5Gh7Wp2Sgk739qSvgGaN3VPwxxnAVTnJePiVFTT0ljxvfzWJT94Z5oY7ximC4DenAO3Fdz1RTJzWaZexlEskULlIDplMdLF2kGJ721sh6TTFBAEdUVCbXTT9vYdEksa5Last5Gex1cC9KFutgc0HUvDQtGLmvEph9tpYWU0CM6cxODzF4e0f7qoj0P49P_z8PPSu_30Pl7_AQAFg_Q",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xVRmtZazFsZEc1RGIzZExSREF3VTB4Zk1EWmZaek5UYmtaWVkwSnlTM1ZYZFVWSlZqRmFWWEkxVkdkMVduSmtVMUV3VTJFMlkzaHNaVWhHYkVKbE1IbDNWVlZCZGtvd2ExZHBNWGxRWkZKRllXOWliMlYwVW1zeWR4SVhVVk5GTm1GME4zWkhXbnBwYTFCSlVHdExlVlpwUVhjYUlrRkVjM0k1WmxKTU1EWnVlakZSUmw5R2JreHlSbEpLYlhaTVdqWXdObXh2VVhjIiwiZmN2IjoiMyIsImVpIjoiUVNFNmF0N3ZHWnppa1BJUGtLeVZpQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmtaVzUwWVd3Z2FXNXpkWEpoYm1ObElHTnZjM1FnWTJGc1kzVnNZWFJ2Y2hBQWZmYkhXRDgiLCJxdWVzdGlvbiI6IklzIG1pbGl0YXJ5IGRlbnRhbCBpbnN1cmFuY2UgZ29vZD8iLCJsayI6IkdpRnBjeUJ0YVd4cGRHRnllU0JrWlc1MFlXd2dhVzV6ZFhKaGJtTmxJR2R2YjJRIiwiYnMiOiJjLU9LNDlKMnlVOHRWaWpKU0ZYSXpjekpMRWtzcWxRb1NLeFVTTXN2VWtoSnpTdEp6RkhJekNzdUxVck1TMDYxbHppV2JLUWpwWlZDdEE2dUZDNDlqX3h5aGR6UzVBd0ZzRGE0Rm5TbENzbjVaYWxGOWhMWG5ZMzBwWFF6U05IRUZjdWxnMnBMU0pDbnMyT1FLMHg5Y241eGlVSkJhcEZDYm41ZVNZYTlrYTZVTnFvRkpVV1p5WWxGcWRqVmMzbHlLWG5pYzBSNmZuNkt2Wkd5bEdJbUlWVUNqQUEiLCJpZCI6ImZjX1FTRTZhdDd2R1p6aWtQSVBrS3lWaUF3XzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS0xVRmtZazFsZEc1RGIzZExSREF3VTB4Zk1EWmZaek5UYmtaWVkwSnlTM1ZYZFVWSlZqRmFWWEkxVkdkMVduSmtVMUV3VTJFMlkzaHNaVWhHYkVKbE1IbDNWVlZCZGtvd2ExZHBNWGxRWkZKRllXOWliMlYwVW1zeWR4SVhVVk5GTm1GME4zWkhXbnBwYTFCSlVHdExlVlpwUVhjYUlrRkVjM0k1WmxKTU1EWnVlakZSUmw5R2JreHlSbEpLYlhaTVdqWXdObXh2VVhjIiwiZmN2IjoiMyIsImVpIjoiUVNFNmF0N3ZHWnppa1BJUGtLeVZpQXciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmtaVzUwWVd3Z2FXNXpkWEpoYm1ObElHTnZjM1FnWTJGc1kzVnNZWFJ2Y2hBQWZmYkhXRDgiLCJxdWVzdGlvbiI6IklzIG1pbGl0YXJ5IGRlbnRhbCBpbnN1cmFuY2UgZ29vZD8iLCJsayI6IkdpRnBjeUJ0YVd4cGRHRnllU0JrWlc1MFlXd2dhVzV6ZFhKaGJtTmxJR2R2YjJRIiwiYnMiOiJjLU9LNDlKMnlVOHRWaWpKU0ZYSXpjekpMRWtzcWxRb1NLeFVTTXN2VWtoSnpTdEp6RkhJekNzdUxVck1TMDYxbHppV2JLUWpwWlZDdEE2dUZDNDlqX3h5aGR6UzVBd0ZzRGE0Rm5TbENzbjVaYWxGOWhMWG5ZMzBwWFF6U05IRUZjdWxnMnBMU0pDbnMyT1FLMHg5Y241eGlVSkJhcEZDYm41ZVNZYTlrYTZVTnFvRkpVV1p5WWxGcWRqVmMzbHlLWG5pYzBSNmZuNkt2Wkd5bEdJbUlWVUNqQUEiLCJpZCI6ImZjX1FTRTZhdDd2R1p6aWtQSVBrS3lWaUF3XzIifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "ZHadonicxZbbcuI4EEDf9z-GlwRsDOGSKteUbGRi7hpCCLxQRjayg2-xTAx523_Zr9rP2C8Y-UbMAEntVG2tKFuW3Gp1q_u4-fMv23K3f__xjxmGPr3nuCiKKsTziG1UsOdwGj24mNt4Ng2w-Z16uwAbli5iM_Aco3R4E2slTEW-ZFgimsKGFjbfust3aztRJ9v-4ckCUSlRIa7WGjVe2A77F8qtOHbbfqt12KBCK4ZbWU-wtXkIH6IZqQh8tV0Zc5rDBMB_2CD4kfSI_VTWq2cS8fbkCy1IjRdOCzNy4Z63YapIVZNOvqpUzqyQF7FIp7wM6hLooGTu4RMrpqfDeXyDIAJAik2E6NKaS0bkc17WS1d3hOdTibCU7dUpqr_mr1QMMIp1PraA_BGI3GUJ5B4wEcKepVTjHZDqk0juyp-Eib3xyQM0y-ii0YWm9KEfZc-DRZdZxOmEJSHPrQPWVTkLmzh5CGicm_Jjm_cUFyxHjZ3Zf6wN5dWqNuu7qmfaruC3EIfxmgnanqYb-spc8d-TcVWoNoW7RpO_TajA9IgFLWKxbAxtUOttagqoDCpStcBEchppLuU-xfmmXPQPgn52iIUm5wuTw0a97HDyY57lYpKX45FNvGzjtFocJ1pxLMzzPS8xkbc8WFLGRGKJOjuuLIrHhqrSh6lZ6_wa8I9x5sMC9NHRZViwOD0IWBxvYxfVbj4RHV_FWokNEsYZEzBTOD5ZT4qGMU2SDGD--mhBLNPZHsVgYmH8eoHQAqgKY1SC6dchWQczbVA9PTvwcjJSSHzJ5CLhXzXpI-DXGgR58v-ay0UIuvPJaOzXF-DQ3NNgOVSep3O5iYHQ1sjlnPec9b-oBfj_pWKWVYpZhkL_IhXkCyqQCj-tFGkGD49UxMkie9eokDMqTitFmrkfleKciukpFdcrRYGKVMvnVEhXqUi_K-dUxJXijApyhYq0UhSpOK0U7lFz7EGBit-qFOg3KkUCiZF2p2Vj90Kulw88n4-dckOrhVNvKnU643XH6TYiSp7J1-Vj44T3jqbbtytLv5eEXnjQb1dswrs39NKr6Fi2FWrB4UY33FCzbyyX7gLNxcYN9mh4gzUb72wt9IKSYweeyGtN23GbPrKre6houFPHtbmuUmgNpR-THqBVrW8Kr-9Py6e6rWsTwXsK_DbYv5m9ley-jstSY7hvjAJ30OWbu_5mLzwv7TFUML_ftHz6VOen0fpOcGwojxUayhYKW-r7-L08qpPyALy2ddrj0d400aPit12aWEXF2v59hg4DntBFyQmwyDCoEzBCYE4AZvkPEPs_hWSPXRGLfolibWXQNxHfVfm1Vjcad0JjU2tXSw4JD77Y5kvUDcTqT_EQH2Y",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZHadonicxZbbcuI4EEDf9z-GlwRsDOGSKteUbGRi7hpCCLxQRjayg2-xTAx523_Zr9rP2C8Y-UbMAEntVG2tKFuW3Gp1q_u4-fMv23K3f__xjxmGPr3nuCiKKsTziG1UsOdwGj24mNt4Ng2w-Z16uwAbli5iM_Aco3R4E2slTEW-ZFgimsKGFjbfust3aztRJ9v-4ckCUSlRIa7WGjVe2A77F8qtOHbbfqt12KBCK4ZbWU-wtXkIH6IZqQh8tV0Zc5rDBMB_2CD4kfSI_VTWq2cS8fbkCy1IjRdOCzNy4Z63YapIVZNOvqpUzqyQF7FIp7wM6hLooGTu4RMrpqfDeXyDIAJAik2E6NKaS0bkc17WS1d3hOdTibCU7dUpqr_mr1QMMIp1PraA_BGI3GUJ5B4wEcKepVTjHZDqk0juyp-Eib3xyQM0y-ii0YWm9KEfZc-DRZdZxOmEJSHPrQPWVTkLmzh5CGicm_Jjm_cUFyxHjZ3Zf6wN5dWqNuu7qmfaruC3EIfxmgnanqYb-spc8d-TcVWoNoW7RpO_TajA9IgFLWKxbAxtUOttagqoDCpStcBEchppLuU-xfmmXPQPgn52iIUm5wuTw0a97HDyY57lYpKX45FNvGzjtFocJ1pxLMzzPS8xkbc8WFLGRGKJOjuuLIrHhqrSh6lZ6_wa8I9x5sMC9NHRZViwOD0IWBxvYxfVbj4RHV_FWokNEsYZEzBTOD5ZT4qGMU2SDGD--mhBLNPZHsVgYmH8eoHQAqgKY1SC6dchWQczbVA9PTvwcjJSSHzJ5CLhXzXpI-DXGgR58v-ay0UIuvPJaOzXF-DQ3NNgOVSep3O5iYHQ1sjlnPec9b-oBfj_pWKWVYpZhkL_IhXkCyqQCj-tFGkGD49UxMkie9eokDMqTitFmrkfleKciukpFdcrRYGKVMvnVEhXqUi_K-dUxJXijApyhYq0UhSpOK0U7lFz7EGBit-qFOg3KkUCiZF2p2Vj90Kulw88n4-dckOrhVNvKnU643XH6TYiSp7J1-Vj44T3jqbbtytLv5eEXnjQb1dswrs39NKr6Fi2FWrB4UY33FCzbyyX7gLNxcYN9mh4gzUb72wt9IKSYweeyGtN23GbPrKre6houFPHtbmuUmgNpR-THqBVrW8Kr-9Py6e6rWsTwXsK_DbYv5m9ley-jstSY7hvjAJ30OWbu_5mLzwv7TFUML_ftHz6VOen0fpOcGwojxUayhYKW-r7-L08qpPyALy2ddrj0d400aPit12aWEXF2v59hg4DntBFyQmwyDCoEzBCYE4AZvkPEPs_hWSPXRGLfolibWXQNxHfVfm1Vjcad0JjU2tXSw4JD77Y5kvUDcTqT_EQH2Y"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Cost Estimator tab",
+      "link": "https://www.uccifedvip.com/our-plans/cost-estimator-tab",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uccifedvip.com/our-plans/cost-estimator-tab&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQFnoECBkQAQ",
+      "displayed_link": "https://www.uccifedvip.com › our-plans › cost-estimato...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEVHcEwROmIROmIQOmIROmIROmIROmITO2MRO2MROmL___8ALlsAJlYENV_c4ebGzNWttsKHlaaVobHR1t1wgZYqSm08Vna7w81OZYGirboAEU3v8vRDDV-QAAAACnRSTlMABgv_58sI_vlnNiQdTgAAAUZJREFUKJFt0wlygzAMBVC3hjogWfK-kPvfs2IJoSU_TCbwxo5sC6WUmsbHLeOk1nwNegsggrYAYPf74UfwMPRc01KC6w0PlTkP41lCxVWa3aGTGvcfet7DLs5z2Wce1WM3M1-SdjQvxOcFj5JOhPS213-eqJd4Iuj_CP5lEe_4nvcDykhq2X1EKyPR2oVmuqMsZn0qO9XsHW1eK0Fqr2JPlPPYY7ZDgStCwNQQi0_rkQF2uCDSEnznlp7JuxzcvtQLhupDZ_sMHJc_CJ2puRUD90aOTgT5oBRi9VZQBjC5yN2K4JiwWGMyFg0FTdaZAxRY0dKyhBqlP3oN7BwFcjW2zmjUiJQ9Z66Zoym0ULTRsDQb4agmW6o31afsc_WNi0ffvU89gLTuYNd1y8bIt5VL6tt2AqQ11c-gP2b43np-Gs0t2-vwCyijHMVyyKfHAAAAAElFTkSuQmCC.png",
+      "snippet": "Use our Cost Estimator tool to compare your general out-of-pocket costs when using an in-network dentist vs. an out-of-network dentist.",
+      "snippet_highlighted_words": [
+        "Use our Cost Estimator tool"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our Cost Estimator tool to compare your general out-of-pocket costs when using an in-network dentist vs. an out-of-network dentist.",
+          "source_info_link": "https://www.uccifedvip.com/our-plans/cost-estimator-tab",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEVHcEwROmIROmIQOmIROmIROmIROmITO2MRO2MROmL___8ALlsAJlYENV_c4ebGzNWttsKHlaaVobHR1t1wgZYqSm08Vna7w81OZYGirboAEU3v8vRDDV-QAAAACnRSTlMABgv_58sI_vlnNiQdTgAAAUZJREFUKJFt0wlygzAMBVC3hjogWfK-kPvfs2IJoSU_TCbwxo5sC6WUmsbHLeOk1nwNegsggrYAYPf74UfwMPRc01KC6w0PlTkP41lCxVWa3aGTGvcfet7DLs5z2Wce1WM3M1-SdjQvxOcFj5JOhPS213-eqJd4Iuj_CP5lEe_4nvcDykhq2X1EKyPR2oVmuqMsZn0qO9XsHW1eK0Fqr2JPlPPYY7ZDgStCwNQQi0_rkQF2uCDSEnznlp7JuxzcvtQLhupDZ_sMHJc_CJ2puRUD90aOTgT5oBRi9VZQBjC5yN2K4JiwWGMyFg0FTdaZAxRY0dKyhBqlP3oN7BwFcjW2zmjUiJQ9Z66Zoym0ULTRsDQb4agmW6o31afsc_WNi0ffvU89gLTuYNd1y8bIt5VL6tt2AqQ11c-gP2b43np-Gs0t2-vwCyijHMVyyKfHAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.uccifedvip.com/our-plans/cost-estimator-tab&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.uccifedvip.com%2Four-plans%2Fcost-estimator-tab",
+      "source": "United Concordia Dental FEDVIP"
+    },
+    {
+      "position": 2,
+      "title": "TRICARE Dental Program Costs",
+      "link": "https://tricare.mil/Costs/DentalCosts/TDP",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tricare.mil/Costs/DentalCosts/TDP&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQFnoECDMQAQ",
+      "displayed_link": "https://tricare.mil › Costs › Dental Costs",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEVHcEwASZEATZcASo8ATZUASpEASZAASI_QHh7LHyXKICbOHiMASJEASpIASZHIIyfIISbMHyDNICaBM1sASZEASZAASpIASpIASZDJICbLISfLISbLICbJICYASpLLISbIHyXHHyQYuxROAAAAInRSTlMAJggcD8s2lQQlNxxT3kIKRBV7vmimkbd9Y5psiS2GU7nq2HHrpgAAAOhJREFUeAHcy4VhBCEQBdC_jjOwwga99N9kzuKpIA8dw7_VoR_66_2XccK8dNf7B8aFkErPZpqNnvFkyQEgf7Nu-xHOfQnGmO5efIkpZU-Fu0L9WafpnPQWwn1a8tKItxxjzBJj3ecahjOYHld0abzFyBljTWALqKFX04g7K3P0pfgYvcSmFrVVZfZH0cYmpcix8ZI8U2FaDr3t04Y77nP2hKfh2Lrj7OvR48FZfOq7HjPQjbhiVIDrsdyiCMAVBtcYpLh-WGrAJUMmidyAlwsHvVq0TAyQDhDPSQIr5ODIXift24ZTigIA3p4P9xU7CeEAAAAASUVORK5CYII.png",
+      "date": "Apr 11, 2025",
+      "snippet": "Find your TRICARE costs, including copayments, enrollment fees, and payment options. Monthly premiums are based on your sponsor's military ...",
+      "snippet_highlighted_words": [
+        "TRICARE costs"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Find your TRICARE costs, including copayments, enrollment fees, and payment options. Monthly premiums are based on your sponsor's military ...",
+          "source_info_link": "https://tricare.mil/Costs/DentalCosts/TDP",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEVHcEwASZEATZcASo8ATZUASpEASZAASI_QHh7LHyXKICbOHiMASJEASpIASZHIIyfIISbMHyDNICaBM1sASZEASZAASpIASpIASZDJICbLISfLISbLICbJICYASpLLISbIHyXHHyQYuxROAAAAInRSTlMAJggcD8s2lQQlNxxT3kIKRBV7vmimkbd9Y5psiS2GU7nq2HHrpgAAAOhJREFUeAHcy4VhBCEQBdC_jjOwwga99N9kzuKpIA8dw7_VoR_66_2XccK8dNf7B8aFkErPZpqNnvFkyQEgf7Nu-xHOfQnGmO5efIkpZU-Fu0L9WafpnPQWwn1a8tKItxxjzBJj3ecahjOYHld0abzFyBljTWALqKFX04g7K3P0pfgYvcSmFrVVZfZH0cYmpcix8ZI8U2FaDr3t04Y77nP2hKfh2Lrj7OvR48FZfOq7HjPQjbhiVIDrsdyiCMAVBtcYpLh-WGrAJUMmidyAlwsHvVq0TAyQDhDPSQIr5ODIXift24ZTigIA3p4P9xU7CeEAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://tricare.mil/Costs/DentalCosts/TDP&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftricare.mil%2FCosts%2FDentalCosts%2FTDP",
+      "source": "TRICARE (.mil)"
+    },
+    {
+      "position": 3,
+      "title": "Dental Cost - TRICARE Dental Program",
+      "link": "https://www.uccitdp.com/member/enrollment-and-benefits/dental-cost",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uccitdp.com/member/enrollment-and-benefits/dental-cost&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQFnoECCcQAQ",
+      "displayed_link": "https://www.uccitdp.com › enrollment-and-benefits › d...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAATlBMVEVHcEx_JkaVJkTLHzvGIDzGITzGIDzFIT2-IT3GITz____JBS3IACHKEjPnrrXimqPvy8_24OPtwMXRSFrONkvei5Tz1traeIPUWmr78fMH_dWNAAAACnRSTlMACw__ztTw-m_t759xeAAAATZJREFUKJFtk4uSgzAIRdNFW1cIhLz7_z-6iaZuW73OMAxHEBI0xphlepw0Labr9gubLKFtFrvt-r01OBgl5wsFYa60R-6t5mBubdLAPq886GKm3YF1l-O8rmEPzebxCTfV8dkXpOcbHO8f0JZ_xvgFgfIB8TsTML1YphN8q3sBW6bWyNewZZIF0quybRhtUfJrsGcI0bU2UevR7AtasJuxsF0KvkMrWCpSSKVdGSCNY9ghKXFiF8qzJI7Co6cDivgk7O1TXKYPiOK0cofiOCjrAXE8e1sYLUKMAyI7pT5bxAAYGmlDSXcatEokPrNX6UVZRdm7Kh7BTKgxueh8cBmiUnaQwbdlU5rbgkWXwKcSpDnVBSFhSYXFLn01sZ_L1oy1m4PdwXtf6jtc6v6z7fwyn9Hcf4c_eswaTHVQELsAAAAASUVORK5CYII.png",
+      "snippet": "Dental Costs ; Active Duty (E1-E4), Single: $8.65. Family: $22.48, Active Duty (E1-E4) ; Active Duty (E5 & Above), Single: $11.53. Family: $29.98, Active Duty (E5 ...",
+      "snippet_highlighted_words": [
+        "Dental Costs"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dental Costs ; Active Duty (E1-E4), Single: $8.65. Family: $22.48, Active Duty (E1-E4) ; Active Duty (E5 & Above), Single: $11.53. Family: $29.98, Active Duty (E5 ...",
+          "source_info_link": "https://www.uccitdp.com/member/enrollment-and-benefits/dental-cost",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAATlBMVEVHcEx_JkaVJkTLHzvGIDzGITzGIDzFIT2-IT3GITz____JBS3IACHKEjPnrrXimqPvy8_24OPtwMXRSFrONkvei5Tz1traeIPUWmr78fMH_dWNAAAACnRSTlMACw__ztTw-m_t759xeAAAATZJREFUKJFtk4uSgzAIRdNFW1cIhLz7_z-6iaZuW73OMAxHEBI0xphlepw0Labr9gubLKFtFrvt-r01OBgl5wsFYa60R-6t5mBubdLAPq886GKm3YF1l-O8rmEPzebxCTfV8dkXpOcbHO8f0JZ_xvgFgfIB8TsTML1YphN8q3sBW6bWyNewZZIF0quybRhtUfJrsGcI0bU2UevR7AtasJuxsF0KvkMrWCpSSKVdGSCNY9ghKXFiF8qzJI7Co6cDivgk7O1TXKYPiOK0cofiOCjrAXE8e1sYLUKMAyI7pT5bxAAYGmlDSXcatEokPrNX6UVZRdm7Kh7BTKgxueh8cBmiUnaQwbdlU5rbgkWXwKcSpDnVBSFhSYXFLn01sZ_L1oy1m4PdwXtf6jtc6v6z7fwyn9Hcf4c_eswaTHVQELsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.uccitdp.com/member/enrollment-and-benefits/dental-cost&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.uccitdp.com%2Fmember%2Fenrollment-and-benefits%2Fdental-cost",
+      "source": "uccitdp.com",
+      "read_more_link": "https://www.uccitdp.com/member/enrollment-and-benefits/dental-cost#:~:text=Dental%20Costs&text=Active%20Duty,(E1%2DE4)&text=Active%20Duty,(E5%20%26%20Above)"
+    },
+    {
+      "position": 4,
+      "title": "Dental Procedure Cost Estimator",
+      "link": "https://www.deltadental.com/member/cost-estimator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltadental.com/member/cost-estimator/&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQFnoECDEQAQ",
+      "displayed_link": "https://www.deltadental.com › member › cost-estimator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAAAY1BMVEVDsCo2rRYuqwAyrA7A4br8_vz5_fjR6c0nqQBAryZIsjD___-BxnU7rh6y2qyt2KaZz5BMszZWtkOd0ZWTzYnh8N7r9emHyHx3wmk4rRlvv2Dy-fE9riKk1JzO58q53rNiulEonvRFAAAA2ElEQVR4Ab2SRQKFMBBD6RR3d7v_Jb80g8OWh09CqtrbCPojn3XdME3TsOwng-N6Cj94cshQGUx6jBCIiOSdGPygGI7EueppFv_IYbjpp10opazgqIOT3vCvrV2qZ3eKcHqOpr7F2yAOBhrXzpGFV23fz6BGMZS_sATvI-0nyFQ1QzrbbHltv-kTSnmD2TIwoLWf_exx5TiiuFmmoDxlLoUe_RQDPke7YSRH6pLXGETDSswRLuag8B5AgtanD7ohnHWUt2Bj8cBvGLf1aqo7A_4HAd3gaC_xBWoGFVzqpkmtAAAAAElFTkSuQmCC.png",
+      "snippet": "Our Dental Care Cost Estimator tool provides estimated cost ranges for common dental care needs. includes in-network savings.",
+      "snippet_highlighted_words": [
+        "provides estimated cost ranges for common dental care needs"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Our Dental Care Cost Estimator tool provides estimated cost ranges for common dental care needs. includes in-network savings.",
+          "source_info_link": "https://www.deltadental.com/member/cost-estimator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAAAY1BMVEVDsCo2rRYuqwAyrA7A4br8_vz5_fjR6c0nqQBAryZIsjD___-BxnU7rh6y2qyt2KaZz5BMszZWtkOd0ZWTzYnh8N7r9emHyHx3wmk4rRlvv2Dy-fE9riKk1JzO58q53rNiulEonvRFAAAA2ElEQVR4Ab2SRQKFMBBD6RR3d7v_Jb80g8OWh09CqtrbCPojn3XdME3TsOwng-N6Cj94cshQGUx6jBCIiOSdGPygGI7EueppFv_IYbjpp10opazgqIOT3vCvrV2qZ3eKcHqOpr7F2yAOBhrXzpGFV23fz6BGMZS_sATvI-0nyFQ1QzrbbHltv-kTSnmD2TIwoLWf_exx5TiiuFmmoDxlLoUe_RQDPke7YSRH6pLXGETDSswRLuag8B5AgtanD7ohnHWUt2Bj8cBvGLf1aqo7A_4HAd3gaC_xBWoGFVzqpkmtAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.deltadental.com/member/cost-estimator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.deltadental.com%2Fmember%2Fcost-estimator%2F",
+      "source": "Delta Dental"
+    },
+    {
+      "position": 5,
+      "title": "treatment cost calculator",
+      "link": "https://www.solsticecare.com/cost-calculator.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.solsticecare.com/cost-calculator.aspx&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQFnoECC0QAQ",
+      "displayed_link": "https://www.solsticecare.com › cost-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAKlBMVEVHcExmmkFmmkFmmkFmmkFmmkFmmkFmmkFmmkFmmkFmmkFmmkFmmkFmmkHLOFozAAAADXRSTlMAgGqJLUbE4het9nOTa-o5swAAAJhJREFUOI2tkdsOxCAIRAsI3ur__-7WbnVNKphme15nxIHZtlcIIKlcuIkeywDc9TTqBZX3QnBAwPcBVU5BD-iqYfKuw9Vg6G8ZjIzfkGKNOM-QiF1Q5nCZkQSc7Tjw3YKiWIZigmPGTibRy2-clmit52sMy5BXN8a_DcsvZBEytjURftDFHn0_FGpNVHKLYpUVFFHI6uEJH5YWDxdDC2wjAAAAAElFTkSuQmCC.png",
+      "snippet": "COST CALCULATOR. Give us a call to our toll free number: 1.855.574.1284 Web available in each state. 954.370.1700.",
+      "snippet_highlighted_words": [
+        "COST CALCULATOR"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "COST CALCULATOR. Give us a call to our toll free number: 1.855.574.1284 Web available in each state. 954.370.1700.",
+          "source_info_link": "https://www.solsticecare.com/cost-calculator.aspx",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAKlBMVEVHcExmmkFmmkFmmkFmmkFmmkFmmkFmmkFmmkFmmkFmmkFmmkFmmkFmmkHLOFozAAAADXRSTlMAgGqJLUbE4het9nOTa-o5swAAAJhJREFUOI2tkdsOxCAIRAsI3ur__-7WbnVNKphme15nxIHZtlcIIKlcuIkeywDc9TTqBZX3QnBAwPcBVU5BD-iqYfKuw9Vg6G8ZjIzfkGKNOM-QiF1Q5nCZkQSc7Tjw3YKiWIZigmPGTibRy2-clmit52sMy5BXN8a_DcsvZBEytjURftDFHn0_FGpNVHKLYpUVFFHI6uEJH5YWDxdDC2wjAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.solsticecare.com/cost-calculator.aspx&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.solsticecare.com%2Fcost-calculator.aspx",
+      "source": "Solstice Dental Exchange"
+    },
+    {
+      "position": 6,
+      "title": "Check out the new TRICARE Dental Program premiums ...",
+      "link": "https://myarmybenefits.us.army.mil/News/Check-out-the-new-TRICARE-Dental-Program-premiums-starting-March-1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myarmybenefits.us.army.mil/News/Check-out-the-new-TRICARE-Dental-Program-premiums-starting-March-1&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQFnoECC4QAQ",
+      "displayed_link": "https://myarmybenefits.us.army.mil › News › Check-ou...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png",
+      "date": "Jan 29, 2026",
+      "snippet": "Rates are set annually and vary based on the sponsor's: Military status. Single: $11.72 Family: $30.47 $8.79 E-5 and above: $11.72 Single: $29. ...",
+      "snippet_highlighted_words": [
+        "Rates",
+        "Military"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Rates are set annually and vary based on the sponsor's: Military status. Single: $11.72 Family: $30.47 $8.79 E-5 and above: $11.72 Single: $29. ...",
+          "source_info_link": "https://myarmybenefits.us.army.mil/News/Check-out-the-new-TRICARE-Dental-Program-premiums-starting-March-1",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myarmybenefits.us.army.mil/News/Check-out-the-new-TRICARE-Dental-Program-premiums-starting-March-1&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyarmybenefits.us.army.mil%2FNews%2FCheck-out-the-new-TRICARE-Dental-Program-premiums-starting-March-1",
+      "source": "MyArmyBenefits (.mil)"
+    },
+    {
+      "position": 7,
+      "title": "Dental Cost Estimator",
+      "link": "https://www.guardiananytime.com/dce/DentalCostEstimatorWeb/dentalCostEstimator.process",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.guardiananytime.com/dce/DentalCostEstimatorWeb/dentalCostEstimator.process&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQFnoECDAQAQ",
+      "displayed_link": "https://www.guardiananytime.com › dce › dentalCostEsti...",
+      "snippet": "1. Select Procedure 2. Input Zip Code 3. View Cost Estimate Cost of Dental Care Step 1 : Select a Dental Procedure * required",
+      "snippet_highlighted_words": [
+        "Cost",
+        "Estimate Cost",
+        "Dental Care"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. Select Procedure 2. Input Zip Code 3. View Cost Estimate Cost of Dental Care Step 1 : Select a Dental Procedure * required",
+          "source_info_link": "https://www.guardiananytime.com/dce/DentalCostEstimatorWeb/dentalCostEstimator.process"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.guardiananytime.com/dce/DentalCostEstimatorWeb/dentalCostEstimator.process&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.guardiananytime.com%2Fdce%2FDentalCostEstimatorWeb%2FdentalCostEstimator.process",
+      "source": "GuardianAnytime.com",
+      "read_more_link": "https://www.guardiananytime.com/dce/DentalCostEstimatorWeb/dentalCostEstimator.process#:~:text=1&text=Select%20Procedure&text=2&text=Input%20Zip%20Code&text=3&text=View%20Cost&text=Estimate%20Cost%20of%20Dental%20Care&text=Step%201%20%3A%20Select%20a,Dental%20Procedure&text=Step%201%20%3A%20Select%20a,Dental%20Procedure&text=Step%201%20%3A%20Select%20a,Dental%20Procedure&text=*%20required"
+    },
+    {
+      "position": 8,
+      "title": "Monthly Premiums",
+      "link": "https://tricare.mil/Costs/DentalCosts/TDP/Premiums",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tricare.mil/Costs/DentalCosts/TDP/Premiums&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQFnoECDQQAQ",
+      "displayed_link": "https://tricare.mil › ... › TRICARE Dental Program Costs",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEVHcEwASZEATZcASo8ATZUASpEASZAASI_QHh7LHyXKICbOHiMASJEASpIASZHIIyfIISbMHyDNICaBM1sASZEASZAASpIASpIASZDJICbLISfLISbLICbJICYASpLLISbIHyXHHyQYuxROAAAAInRSTlMAJggcD8s2lQQlNxxT3kIKRBV7vmimkbd9Y5psiS2GU7nq2HHrpgAAAOhJREFUeAHcy4VhBCEQBdC_jjOwwga99N9kzuKpIA8dw7_VoR_66_2XccK8dNf7B8aFkErPZpqNnvFkyQEgf7Nu-xHOfQnGmO5efIkpZU-Fu0L9WafpnPQWwn1a8tKItxxjzBJj3ecahjOYHld0abzFyBljTWALqKFX04g7K3P0pfgYvcSmFrVVZfZH0cYmpcix8ZI8U2FaDr3t04Y77nP2hKfh2Lrj7OvR48FZfOq7HjPQjbhiVIDrsdyiCMAVBtcYpLh-WGrAJUMmidyAlwsHvVq0TAyQDhDPSQIr5ODIXift24ZTigIA3p4P9xU7CeEAAAAASUVORK5CYII.png",
+      "date": "Mar 10, 2026",
+      "snippet": "Active duty Single: Pay grades E-4 and below: $8.79 Pay grades E-5 and above: $11.72 Family: Pay grades E-4 and below: $22.85 Pay grades E-5",
+      "snippet_highlighted_words": [
+        "Active duty Single: Pay grades E-4 and below: $8.79"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Active duty Single: Pay grades E-4 and below: $8.79 Pay grades E-5 and above: $11.72 Family: Pay grades E-4 and below: $22.85 Pay grades E-5",
+          "source_info_link": "https://tricare.mil/Costs/DentalCosts/TDP/Premiums",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEVHcEwASZEATZcASo8ATZUASpEASZAASI_QHh7LHyXKICbOHiMASJEASpIASZHIIyfIISbMHyDNICaBM1sASZEASZAASpIASpIASZDJICbLISfLISbLICbJICYASpLLISbIHyXHHyQYuxROAAAAInRSTlMAJggcD8s2lQQlNxxT3kIKRBV7vmimkbd9Y5psiS2GU7nq2HHrpgAAAOhJREFUeAHcy4VhBCEQBdC_jjOwwga99N9kzuKpIA8dw7_VoR_66_2XccK8dNf7B8aFkErPZpqNnvFkyQEgf7Nu-xHOfQnGmO5efIkpZU-Fu0L9WafpnPQWwn1a8tKItxxjzBJj3ecahjOYHld0abzFyBljTWALqKFX04g7K3P0pfgYvcSmFrVVZfZH0cYmpcix8ZI8U2FaDr3t04Y77nP2hKfh2Lrj7OvR48FZfOq7HjPQjbhiVIDrsdyiCMAVBtcYpLh-WGrAJUMmidyAlwsHvVq0TAyQDhDPSQIr5ODIXift24ZTigIA3p4P9xU7CeEAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://tricare.mil/Costs/DentalCosts/TDP/Premiums&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftricare.mil%2FCosts%2FDentalCosts%2FTDP%2FPremiums",
+      "source": "TRICARE (.mil)"
+    },
+    {
+      "position": 9,
+      "title": "Treatment plan cost calculator frequently asked questions",
+      "link": "https://www.uhcdental.com/content/dam/provider/dental/dental-treatment-plan-calculator-FAQ.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uhcdental.com/content/dam/provider/dental/dental-treatment-plan-calculator-FAQ.pdf&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQFnoECDIQAQ",
+      "displayed_link": "https://www.uhcdental.com › provider › dental",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUAAAAAJncAJncAJncAJncAJncAJncAJncAJncAJncAJncAJncAJncAJncAJncAJncAJndvRWnkAAAAEXRSTlMAgO9g_98wnxDPIL-vQI9QcALTyMwAAACVSURBVHgB7cy3AQMxEANBPLlH7_qvVvHbWG7jAXTX5vSQl0D3GRI8XPME4B6E6B5A8hnYg_0YngDwBx8K7A6YClWiqeN2oAHApsHQZGnQdqADYElGUaTIWNo1DWrQYqgT5SHpXNjIKZkryTF0KALYpu7warjzwepJaUacV4R-8V8BXCwlg9dVcxaVGcGCrvPNAXk3fwFhwAee0p5qCgAAAABJRU5ErkJggg.png",
+      "snippet": "The treatment plan cost calculator provides accurate and real-time treatment pricing of the patient's benefit plan coverage and out-of-pocket expenses.",
+      "snippet_highlighted_words": [
+        "provides accurate and real-time treatment pricing"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 2
+          },
+          "extensions": [
+            "2 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The treatment plan cost calculator provides accurate and real-time treatment pricing of the patient's benefit plan coverage and out-of-pocket expenses.",
+          "source_info_link": "https://www.uhcdental.com/content/dam/provider/dental/dental-treatment-plan-calculator-FAQ.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUAAAAAJncAJncAJncAJncAJncAJncAJncAJncAJncAJncAJncAJncAJncAJncAJncAJndvRWnkAAAAEXRSTlMAgO9g_98wnxDPIL-vQI9QcALTyMwAAACVSURBVHgB7cy3AQMxEANBPLlH7_qvVvHbWG7jAXTX5vSQl0D3GRI8XPME4B6E6B5A8hnYg_0YngDwBx8K7A6YClWiqeN2oAHApsHQZGnQdqADYElGUaTIWNo1DWrQYqgT5SHpXNjIKZkryTF0KALYpu7warjzwepJaUacV4R-8V8BXCwlg9dVcxaVGcGCrvPNAXk3fwFhwAee0p5qCgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.uhcdental.com/content/dam/provider/dental/dental-treatment-plan-calculator-FAQ.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.uhcdental.com%2Fcontent%2Fdam%2Fprovider%2Fdental%2Fdental-treatment-plan-calculator-FAQ.pdf",
+      "source": "UnitedHealthcare Dental Provider Portal",
+      "read_more_link": "https://www.uhcdental.com/content/dam/provider/dental/dental-treatment-plan-calculator-FAQ.pdf#:~:text=The%20treatment%20plan%20cost%20calculator,plan%20coverage%20and%20out%2Dof%2Dpocket%20expenses."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "military dental insurance cost calculator near california",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=military+dental+insurance+cost+calculator+near+california&sa=X&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ1QJ6BAgpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+dental+insurance+cost+calculator+near+california"
+    },
+    {
+      "block_position": 1,
+      "query": "military dental insurance cost calculator near pittsburg, ca",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=military+dental+insurance+cost+calculator+near+pittsburg,+ca&sa=X&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+dental+insurance+cost+calculator+near+pittsburg%2C+ca"
+    },
+    {
+      "block_position": 1,
+      "query": "Retired military dental insurance cost",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Retired+military+dental+insurance+cost&sa=X&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Retired+military+dental+insurance+cost"
+    },
+    {
+      "block_position": 1,
+      "query": "United Concordia cost estimator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=United+Concordia+cost+estimator&sa=X&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=United+Concordia+cost+estimator"
+    },
+    {
+      "block_position": 1,
+      "query": "How much is TRICARE Dental for retirees",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=How+much+is+TRICARE+Dental+for+retirees&sa=X&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+is+TRICARE+Dental+for+retirees"
+    },
+    {
+      "block_position": 1,
+      "query": "TRICARE Dental cost for dependents",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=TRICARE+Dental+cost+for+dependents&sa=X&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=TRICARE+Dental+cost+for+dependents"
+    },
+    {
+      "block_position": 1,
+      "query": "TRICARE Reserve Dental Cost",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=TRICARE+Reserve+Dental+Cost&sa=X&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=TRICARE+Reserve+Dental+Cost"
+    },
+    {
+      "block_position": 1,
+      "query": "United Concordia Dental fee schedule 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=United+Concordia+Dental+fee+schedule+2026&sa=X&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ1QJ6BAgrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=United+Concordia+Dental+fee+schedule+2026"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+dental+insurance+cost+calculator&sca_esv=c510ba4e6526f391&ei=QSE6at7vGZzikPIPkKyViAw&start=10&sa=N&sstk=AU9db-Bb0ub4HSjW0BlwLN-xoIW6LMlzsksrF-Xu4Bp9ofPpTdN97RCoSVlVINsfTojEUAjIqkSH9lTefMtgrOxzm_vj4b-WSgv6ow&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ8NMDegQINhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+dental+insurance+cost+calculator&sca_esv=c510ba4e6526f391&ei=QSE6at7vGZzikPIPkKyViAw&start=10&sa=N&sstk=AU9db-Bb0ub4HSjW0BlwLN-xoIW6LMlzsksrF-Xu4Bp9ofPpTdN97RCoSVlVINsfTojEUAjIqkSH9lTefMtgrOxzm_vj4b-WSgv6ow&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ8tMDegQINhAE",
+      "3": "https://www.google.com/search?q=military+dental+insurance+cost+calculator&sca_esv=c510ba4e6526f391&ei=QSE6at7vGZzikPIPkKyViAw&start=20&sa=N&sstk=AU9db-Bb0ub4HSjW0BlwLN-xoIW6LMlzsksrF-Xu4Bp9ofPpTdN97RCoSVlVINsfTojEUAjIqkSH9lTefMtgrOxzm_vj4b-WSgv6ow&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ8tMDegQINhAG",
+      "4": "https://www.google.com/search?q=military+dental+insurance+cost+calculator&sca_esv=c510ba4e6526f391&ei=QSE6at7vGZzikPIPkKyViAw&start=30&sa=N&sstk=AU9db-Bb0ub4HSjW0BlwLN-xoIW6LMlzsksrF-Xu4Bp9ofPpTdN97RCoSVlVINsfTojEUAjIqkSH9lTefMtgrOxzm_vj4b-WSgv6ow&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ8tMDegQINhAI",
+      "5": "https://www.google.com/search?q=military+dental+insurance+cost+calculator&sca_esv=c510ba4e6526f391&ei=QSE6at7vGZzikPIPkKyViAw&start=40&sa=N&sstk=AU9db-Bb0ub4HSjW0BlwLN-xoIW6LMlzsksrF-Xu4Bp9ofPpTdN97RCoSVlVINsfTojEUAjIqkSH9lTefMtgrOxzm_vj4b-WSgv6ow&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ8tMDegQINhAK",
+      "6": "https://www.google.com/search?q=military+dental+insurance+cost+calculator&sca_esv=c510ba4e6526f391&ei=QSE6at7vGZzikPIPkKyViAw&start=50&sa=N&sstk=AU9db-Bb0ub4HSjW0BlwLN-xoIW6LMlzsksrF-Xu4Bp9ofPpTdN97RCoSVlVINsfTojEUAjIqkSH9lTefMtgrOxzm_vj4b-WSgv6ow&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ8tMDegQINhAM",
+      "7": "https://www.google.com/search?q=military+dental+insurance+cost+calculator&sca_esv=c510ba4e6526f391&ei=QSE6at7vGZzikPIPkKyViAw&start=60&sa=N&sstk=AU9db-Bb0ub4HSjW0BlwLN-xoIW6LMlzsksrF-Xu4Bp9ofPpTdN97RCoSVlVINsfTojEUAjIqkSH9lTefMtgrOxzm_vj4b-WSgv6ow&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ8tMDegQINhAO",
+      "8": "https://www.google.com/search?q=military+dental+insurance+cost+calculator&sca_esv=c510ba4e6526f391&ei=QSE6at7vGZzikPIPkKyViAw&start=70&sa=N&sstk=AU9db-Bb0ub4HSjW0BlwLN-xoIW6LMlzsksrF-Xu4Bp9ofPpTdN97RCoSVlVINsfTojEUAjIqkSH9lTefMtgrOxzm_vj4b-WSgv6ow&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ8tMDegQINhAQ",
+      "9": "https://www.google.com/search?q=military+dental+insurance+cost+calculator&sca_esv=c510ba4e6526f391&ei=QSE6at7vGZzikPIPkKyViAw&start=80&sa=N&sstk=AU9db-Bb0ub4HSjW0BlwLN-xoIW6LMlzsksrF-Xu4Bp9ofPpTdN97RCoSVlVINsfTojEUAjIqkSH9lTefMtgrOxzm_vj4b-WSgv6ow&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ8tMDegQINhAS",
+      "10": "https://www.google.com/search?q=military+dental+insurance+cost+calculator&sca_esv=c510ba4e6526f391&ei=QSE6at7vGZzikPIPkKyViAw&start=90&sa=N&sstk=AU9db-Bb0ub4HSjW0BlwLN-xoIW6LMlzsksrF-Xu4Bp9ofPpTdN97RCoSVlVINsfTojEUAjIqkSH9lTefMtgrOxzm_vj4b-WSgv6ow&ved=2ahUKEwielMLv15yVAxUcMUQIHRBWBcEQ8tMDegQINhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+dental+insurance+cost+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+dental+insurance+cost+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+dental+insurance+cost+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+dental+insurance+cost+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+dental+insurance+cost+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+dental+insurance+cost+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+dental+insurance+cost+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+dental+insurance+cost+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+dental+insurance+cost+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+dental+insurance+cost+calculator&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+dental+insurance+cost+calculator&start=90"
+    }
+  }
+}

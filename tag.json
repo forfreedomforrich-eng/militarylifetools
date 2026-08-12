@@ -1,0 +1,601 @@
+{
+  "search_metadata": {
+    "id": "6a3a2158cf8870d4b4e895ea",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/r7fQBHWPxJnoaNSPu0q75A/6a3a2158cf8870d4b4e895ea.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/r7fQBHWPxJnoaNSPu0q75A/6a3a2158cf8870d4b4e895ea.json_with_pixel_position",
+    "created_at": "2026-06-23 06:02:00 UTC",
+    "processed_at": "2026-06-23 06:02:00 UTC",
+    "google_url": "https://www.google.com/search?q=military+uniform+name+tag+converter&oq=military+uniform+name+tag+converter&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/r7fQBHWPxJnoaNSPu0q75A/6a3a2158cf8870d4b4e895ea.html",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military uniform name tag converter",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military uniform name tag converter",
+    "total_results": 75500000,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is the name tag on a military uniform called?",
+      "type": "featured_snippet",
+      "snippet": "Military Name Tapes. Military name tapes are an essential component to any standard regulation U.S. Military uniform.",
+      "title": "Military Name Tapes - Army Surplus World",
+      "link": "https://www.armysurplusworld.com/custom-dog-tags/name-tapes#:~:text=Military%20Name%20Tapes-,Military%20Name%20Tapes,standard%20regulation%20U.S.%20Military%20uniform.",
+      "displayed_link": "https://www.armysurplusworld.com › custom-dog-tags",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABH0lEQVR4AWJwL_ChCOOUAFROBhoIBEEYfoAQBBICpeBORaXqqMRhgUCAHiBCQHSkIIIC1ytErxAIQE_QG6RHuObn37PHtRw-s7t2_p2ZmW0OnJLQh80k0Bm7y-7E_QqRrANY7LFOFdiehwOho1ntemW83B45J0NQUeiZJnAUIuEDCyDS8pwKLhSK9Vx75IbYi72BhAAu09lnFPfgMlzvQ68htgZkXTWBT6IGFLhy_RBewgbWwiwWwItGCi9aX1hYULEA8kTIAEXV4TOK4x-uQl63LkDlUSzsdaEY2d2CH0eAXgM4s-9L1kQdQm9qgjMyMwcooLOCs9lGI8Ib5yN9EpECB0bpi5zGOc6Zmn2UOXVvOmhB7OeZPhOwfySbQAZ-aTFNh8ZZ4K8AAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ExRlpZMlp6VDJOV1VWcDFWMlJmVEdOWmVGYzVWMDVZVGt4RmR6bDRjUzF3Ulc1WExYWlFZazVDWVVkWFREVnViWFJIYlRobFdYcE9SRGwyUTFsNlJtWktVVUZXYWpscE9XZ3hVblIwWVVNeWVYUm5NUzFPVFRCcmR4SVhWME5GTm1GMmVUQkdOR2w2Y25WRlVEWXRiV1F5UVVVYUlrRkVjM0k1WmxJMVRtWjZXamRwUm1ONFdpMTFhSFJKVTBaNE1URnNTSFpTTmxFIiwiZmN2IjoiMyIsImVpIjoiV0NFNmF2eTBGNGl6cnVFUDYtbWQyQUUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjFibWxtYjNKdElHNWhiV1VnZEdGbklHTnZiblpsY25SbGNoQUFmU0p1Q2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBuYW1lIHRhZyBvbiBhIG1pbGl0YXJ5IHVuaWZvcm0gY2FsbGVkPyIsImxrIjoiR2pGM2FHRjBJR2x6SUhSb1pTQnVZVzFsSUhSaFp5QnZiaUJoSUcxcGJHbDBZWEo1SUhWdWFXWnZjbTBnWTJGc2JHVmsiLCJicyI6ImM1WE9NUXJDTUJRR1lOemtnZUJZc3ZpcXM0cnhBQjNFUVhEdl9FaGlHMGhTU1ZKS1BaNVg4UWhld0NvaW9pSjBlZFAzXy04SEF6d3ZLYUlPR0V1RmpxekNTQVZXRGdtdE5qcVNiN0YyLWxCNWk0S01VVEpMTGlPLVpxdW1ieEQyTU4yUXd4MktPc1RLNnBOQzJ5TDU3andMamlwTHJrTS1ZNm5vb1A0SFFjTGlmWHVJNUNSNWllSE91N2NmUG1USldmSWxtemQ5UXJBRnpFdmxGWXJIOGtMRnIxNmVza256TXZxWEdROXUiLCJpZCI6ImZjX1dDRTZhdnkwRjRpenJ1RVA2LW1kMkFFXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ExRlpZMlp6VDJOV1VWcDFWMlJmVEdOWmVGYzVWMDVZVGt4RmR6bDRjUzF3Ulc1WExYWlFZazVDWVVkWFREVnViWFJIYlRobFdYcE9SRGwyUTFsNlJtWktVVUZXYWpscE9XZ3hVblIwWVVNeWVYUm5NUzFPVFRCcmR4SVhWME5GTm1GMmVUQkdOR2w2Y25WRlVEWXRiV1F5UVVVYUlrRkVjM0k1WmxJMVRtWjZXamRwUm1ONFdpMTFhSFJKVTBaNE1URnNTSFpTTmxFIiwiZmN2IjoiMyIsImVpIjoiV0NFNmF2eTBGNGl6cnVFUDYtbWQyQUUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjFibWxtYjNKdElHNWhiV1VnZEdGbklHTnZiblpsY25SbGNoQUFmU0p1Q2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBuYW1lIHRhZyBvbiBhIG1pbGl0YXJ5IHVuaWZvcm0gY2FsbGVkPyIsImxrIjoiR2pGM2FHRjBJR2x6SUhSb1pTQnVZVzFsSUhSaFp5QnZiaUJoSUcxcGJHbDBZWEo1SUhWdWFXWnZjbTBnWTJGc2JHVmsiLCJicyI6ImM1WE9NUXJDTUJRR1lOemtnZUJZc3ZpcXM0cnhBQjNFUVhEdl9FaGlHMGhTU1ZKS1BaNVg4UWhld0NvaW9pSjBlZFAzXy04SEF6d3ZLYUlPR0V1RmpxekNTQVZXRGdtdE5qcVNiN0YyLWxCNWk0S01VVEpMTGlPLVpxdW1ieEQyTU4yUXd4MktPc1RLNnBOQzJ5TDU3andMamlwTHJrTS1ZNm5vb1A0SFFjTGlmWHVJNUNSNWllSE91N2NmUG1USldmSWxtemQ5UXJBRnpFdmxGWXJIOGtMRnIxNmVza256TXZxWEdROXUiLCJpZCI6ImZjX1dDRTZhdnkwRjRpenJ1RVA2LW1kMkFFXzIifQ%3D%3D"
+    },
+    {
+      "question": "Can I customize my army name tape?",
+      "type": "featured_snippet",
+      "snippet": "Name tapes are an easy and cost effective way to personalize or be military compliant. They're ideal for everyone, including those in active service, veterans, and members of the public. Choose the name tape that you want, add your name or custom text and we'll get busy creating them for you.",
+      "title": "Name Tapes - The Biggest Selection in The World",
+      "link": "https://tacticalgearjunkie.com/collections/name-tapes#:~:text=Name%20tapes%20are%20an%20easy,busy%20creating%20them%20for%20you.",
+      "displayed_link": "https://tacticalgearjunkie.com › collections › name-tapes",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ExRlpZMlp6VDJOV1VWcDFWMlJmVEdOWmVGYzVWMDVZVGt4RmR6bDRjUzF3Ulc1WExYWlFZazVDWVVkWFREVnViWFJIYlRobFdYcE9SRGwyUTFsNlJtWktVVUZXYWpscE9XZ3hVblIwWVVNeWVYUm5NUzFPVFRCcmR4SVhWME5GTm1GMmVUQkdOR2w2Y25WRlVEWXRiV1F5UVVVYUlrRkVjM0k1WmxJMVRtWjZXamRwUm1ONFdpMTFhSFJKVTBaNE1URnNTSFpTTmxFIiwiZmN2IjoiMyIsImVpIjoiV0NFNmF2eTBGNGl6cnVFUDYtbWQyQUUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjFibWxtYjNKdElHNWhiV1VnZEdGbklHTnZiblpsY25SbGNoQUFmU0p1Q2o4IiwicXVlc3Rpb24iOiJDYW4gSSBjdXN0b21pemUgbXkgYXJteSBuYW1lIHRhcGU/IiwibGsiOiJHaUZqWVc0Z2FTQmpkWE4wYjIxcGVtVWdiWGtnWVhKdGVTQnVZVzFsSUhSaGNHVSIsImJzIjoiYzVYT01RckNNQlFHWU56a2dlQllzdmlxczRyeEFCM0VRWER2X0VoaUcwaFNTVkpLUFo1WDhRaGV3Q29pb2lKMGVkUDNfLThIQXp3dkthSU9HRXVGanF6Q1NBVldEZ210TmpxU2I3RjItbEI1aTRLTVVUSkxMaU8tWnF1bWJ4RDJNTjJRd3gyS09zVEs2cE5DMnlMNTdqd0xqaXBMcmtNLVk2bm9vUDRIUWNMaWZYdUk1Q1I1aWVIT3U3Y2ZQbVRKV2ZJbG16ZDlRckFGekV2bEZZckg4a0xGcjE2ZXNrbnpNdnFYR1E5dSIsImlkIjoiZmNfV0NFNmF2eTBGNGl6cnVFUDYtbWQyQUVfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ExRlpZMlp6VDJOV1VWcDFWMlJmVEdOWmVGYzVWMDVZVGt4RmR6bDRjUzF3Ulc1WExYWlFZazVDWVVkWFREVnViWFJIYlRobFdYcE9SRGwyUTFsNlJtWktVVUZXYWpscE9XZ3hVblIwWVVNeWVYUm5NUzFPVFRCcmR4SVhWME5GTm1GMmVUQkdOR2w2Y25WRlVEWXRiV1F5UVVVYUlrRkVjM0k1WmxJMVRtWjZXamRwUm1ONFdpMTFhSFJKVTBaNE1URnNTSFpTTmxFIiwiZmN2IjoiMyIsImVpIjoiV0NFNmF2eTBGNGl6cnVFUDYtbWQyQUUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjFibWxtYjNKdElHNWhiV1VnZEdGbklHTnZiblpsY25SbGNoQUFmU0p1Q2o4IiwicXVlc3Rpb24iOiJDYW4gSSBjdXN0b21pemUgbXkgYXJteSBuYW1lIHRhcGU%2FIiwibGsiOiJHaUZqWVc0Z2FTQmpkWE4wYjIxcGVtVWdiWGtnWVhKdGVTQnVZVzFsSUhSaGNHVSIsImJzIjoiYzVYT01RckNNQlFHWU56a2dlQllzdmlxczRyeEFCM0VRWER2X0VoaUcwaFNTVkpLUFo1WDhRaGV3Q29pb2lKMGVkUDNfLThIQXp3dkthSU9HRXVGanF6Q1NBVldEZ210TmpxU2I3RjItbEI1aTRLTVVUSkxMaU8tWnF1bWJ4RDJNTjJRd3gyS09zVEs2cE5DMnlMNTdqd0xqaXBMcmtNLVk2bm9vUDRIUWNMaWZYdUk1Q1I1aWVIT3U3Y2ZQbVRKV2ZJbG16ZDlRckFGekV2bEZZckg4a0xGcjE2ZXNrbnpNdnFYR1E5dSIsImlkIjoiZmNfV0NFNmF2eTBGNGl6cnVFUDYtbWQyQUVfMiJ9"
+    },
+    {
+      "question": "What is the standard size for army name tapes?",
+      "type": "featured_snippet",
+      "snippet": "U.S. Army Name Tapes are embroidered with black thread on an OCP tape and meet all AR670-1 requirements. Velcro tapes are 5\" by 1\" with 3/4\" lettering in compliance with AR670-1 uniform regulations and are the military standard.",
+      "title": "5\" by 1\"",
+      "date": "Feb 19, 2026",
+      "link": "https://sd-supply.com/products/name-tape-us-army#:~:text=U.S.%20Army%20Name%20Tapes%20are,and%20are%20the%20military%20standard.",
+      "displayed_link": "https://sd-supply.com › products › name-tape-us-army",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEUAAADVuACYhABzdoQAAAL_7QArJQBydX-bm5tVVllPRAX_4gDjxADOsgB7fH9eUQD-3ABaUCH11AC1nQCxpnV0ZACNegA-Nw8OCg-fl3WDg4XDqACnkQDtzQCHhHWEfmquFaAtAAAACnRSTlP-_________v7-H9LDnAAAAKBJREFUGJVlj0kOwjAQBMembQfvxFtW8v9fYnJJBHWYlupQ0hD9MvjHl-UcvwykeDTGjLL2iW7ypJwBighcTJDGKVKr0Ci75kICI1PkkUQCcBPQMYZLKO6AVbRL3KKI7IxaO4oetTaa4GnBq9Om1q-esNAz5_nIc37nefb5fZC2JQXLOFt3Jh2TJItNYbclMO1kc0RyS3qrG1pF3XT9e54-_dgKeyK8ChsAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ExRlpZMlp6VDJOV1VWcDFWMlJmVEdOWmVGYzVWMDVZVGt4RmR6bDRjUzF3Ulc1WExYWlFZazVDWVVkWFREVnViWFJIYlRobFdYcE9SRGwyUTFsNlJtWktVVUZXYWpscE9XZ3hVblIwWVVNeWVYUm5NUzFPVFRCcmR4SVhWME5GTm1GMmVUQkdOR2w2Y25WRlVEWXRiV1F5UVVVYUlrRkVjM0k1WmxJMVRtWjZXamRwUm1ONFdpMTFhSFJKVTBaNE1URnNTSFpTTmxFIiwiZmN2IjoiMyIsImVpIjoiV0NFNmF2eTBGNGl6cnVFUDYtbWQyQUUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjFibWxtYjNKdElHNWhiV1VnZEdGbklHTnZiblpsY25SbGNoQUFmU0p1Q2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzdGFuZGFyZCBzaXplIGZvciBhcm15IG5hbWUgdGFwZXM/IiwibGsiOiJHaTEzYUdGMElHbHpJSFJvWlNCemRHRnVaR0Z5WkNCemFYcGxJR1p2Y2lCaGNtMTVJRzVoYldVZ2RHRndaWE0iLCJicyI6ImM1WE9NUXJDTUJRR1lOemtnZUJZc3ZpcXM0cnhBQjNFUVhEdl9FaGlHMGhTU1ZKS1BaNVg4UWhld0NvaW9pSjBlZFAzXy04SEF6d3ZLYUlPR0V1RmpxekNTQVZXRGdtdE5qcVNiN0YyLWxCNWk0S01VVEpMTGlPLVpxdW1ieEQyTU4yUXd4MktPc1RLNnBOQzJ5TDU3andMamlwTHJrTS1ZNm5vb1A0SFFjTGlmWHVJNUNSNWllSE91N2NmUG1USldmSWxtemQ5UXJBRnpFdmxGWXJIOGtMRnIxNmVza256TXZxWEdROXUiLCJpZCI6ImZjX1dDRTZhdnkwRjRpenJ1RVA2LW1kMkFFXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ExRlpZMlp6VDJOV1VWcDFWMlJmVEdOWmVGYzVWMDVZVGt4RmR6bDRjUzF3Ulc1WExYWlFZazVDWVVkWFREVnViWFJIYlRobFdYcE9SRGwyUTFsNlJtWktVVUZXYWpscE9XZ3hVblIwWVVNeWVYUm5NUzFPVFRCcmR4SVhWME5GTm1GMmVUQkdOR2w2Y25WRlVEWXRiV1F5UVVVYUlrRkVjM0k1WmxJMVRtWjZXamRwUm1ONFdpMTFhSFJKVTBaNE1URnNTSFpTTmxFIiwiZmN2IjoiMyIsImVpIjoiV0NFNmF2eTBGNGl6cnVFUDYtbWQyQUUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjFibWxtYjNKdElHNWhiV1VnZEdGbklHTnZiblpsY25SbGNoQUFmU0p1Q2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzdGFuZGFyZCBzaXplIGZvciBhcm15IG5hbWUgdGFwZXM%2FIiwibGsiOiJHaTEzYUdGMElHbHpJSFJvWlNCemRHRnVaR0Z5WkNCemFYcGxJR1p2Y2lCaGNtMTVJRzVoYldVZ2RHRndaWE0iLCJicyI6ImM1WE9NUXJDTUJRR1lOemtnZUJZc3ZpcXM0cnhBQjNFUVhEdl9FaGlHMGhTU1ZKS1BaNVg4UWhld0NvaW9pSjBlZFAzXy04SEF6d3ZLYUlPR0V1RmpxekNTQVZXRGdtdE5qcVNiN0YyLWxCNWk0S01VVEpMTGlPLVpxdW1ieEQyTU4yUXd4MktPc1RLNnBOQzJ5TDU3andMamlwTHJrTS1ZNm5vb1A0SFFjTGlmWHVJNUNSNWllSE91N2NmUG1USldmSWxtemQ5UXJBRnpFdmxGWXJIOGtMRnIxNmVza256TXZxWEdROXUiLCJpZCI6ImZjX1dDRTZhdnkwRjRpenJ1RVA2LW1kMkFFXzIifQ%3D%3D"
+    },
+    {
+      "question": "Where can I get army name tapes?",
+      "type": "ai_overview",
+      "page_token": "39odrnicHdDhTqMwAADg-DL-dC2Lmi1ZjDiKoLC0tIXy51LasQ4ocLfqpP98F5_qnuaS-x7h-_4ZzmP_9-bTODdftqvV9Xq9O03TaTjeqcmu5GUZ1UrJYWik6rcPjw_wqVW76CMJX34nIWbzzPcEFJ1xjU_z0s5dTkPR7El34OEL9jx6p0NbUCSPZbQ-9m5SaJNIK_whyiCF-l1XKJDsAgSYnCrFgscJMJ8KvJ5dUfL2wHPIALI6TjwtBSzsJijAF60DTg9lCgoGgK50Iv1wz1kONTJ5EbuWdHWOQeabgPecpoZR80aAict--FA9svx1jgnnI0FmEWzD6oG3OcxHEn-RyOgKAxaIqr7PIgFkNS-acZyfoav3aUjIdMaMeNUNlsFnLxHCHDHYgAxkrDYUzk5bXZFXfanH5wXj21Z97ta3_z93v1rrtvOf6fQPRliDGQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=39odrnicHdDhTqMwAADg-DL-dC2Lmi1ZjDiKoLC0tIXy51LasQ4ocLfqpP98F5_qnuaS-x7h-_4ZzmP_9-bTODdftqvV9Xq9O03TaTjeqcmu5GUZ1UrJYWik6rcPjw_wqVW76CMJX34nIWbzzPcEFJ1xjU_z0s5dTkPR7El34OEL9jx6p0NbUCSPZbQ-9m5SaJNIK_whyiCF-l1XKJDsAgSYnCrFgscJMJ8KvJ5dUfL2wHPIALI6TjwtBSzsJijAF60DTg9lCgoGgK50Iv1wz1kONTJ5EbuWdHWOQeabgPecpoZR80aAict--FA9svx1jgnnI0FmEWzD6oG3OcxHEn-RyOgKAxaIqr7PIgFkNS-acZyfoav3aUjIdMaMeNUNlsFnLxHCHDHYgAxkrDYUzk5bXZFXfanH5wXj21Z97ta3_z93v1rrtvOf6fQPRliDGQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ExRlpZMlp6VDJOV1VWcDFWMlJmVEdOWmVGYzVWMDVZVGt4RmR6bDRjUzF3Ulc1WExYWlFZazVDWVVkWFREVnViWFJIYlRobFdYcE9SRGwyUTFsNlJtWktVVUZXYWpscE9XZ3hVblIwWVVNeWVYUm5NUzFPVFRCcmR4SVhWME5GTm1GMmVUQkdOR2w2Y25WRlVEWXRiV1F5UVVVYUlrRkVjM0k1WmxJMVRtWjZXamRwUm1ONFdpMTFhSFJKVTBaNE1URnNTSFpTTmxFIiwiZmN2IjoiMyIsImVpIjoiV0NFNmF2eTBGNGl6cnVFUDYtbWQyQUUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjFibWxtYjNKdElHNWhiV1VnZEdGbklHTnZiblpsY25SbGNoQUFmU0p1Q2o4IiwicXVlc3Rpb24iOiJXaGVyZSBjYW4gSSBnZXQgYXJteSBuYW1lIHRhcGVzPyIsImxrIjoiR2g5M2FHVnlaU0JqWVc0Z2FTQm5aWFFnWVhKdGVTQnVZVzFsSUhSaGNHVnoiLCJicyI6ImM1WE9NUXJDTUJRR1lOemtnZUJZc3ZpcXM0cnhBQjNFUVhEdl9FaGlHMGhTU1ZKS1BaNVg4UWhld0NvaW9pSjBlZFAzXy04SEF6d3ZLYUlPR0V1RmpxekNTQVZXRGdtdE5qcVNiN0YyLWxCNWk0S01VVEpMTGlPLVpxdW1ieEQyTU4yUXd4MktPc1RLNnBOQzJ5TDU3andMamlwTHJrTS1ZNm5vb1A0SFFjTGlmWHVJNUNSNWllSE91N2NmUG1USldmSWxtemQ5UXJBRnpFdmxGWXJIOGtMRnIxNmVza256TXZxWEdROXUiLCJpZCI6ImZjX1dDRTZhdnkwRjRpenJ1RVA2LW1kMkFFXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ExRlpZMlp6VDJOV1VWcDFWMlJmVEdOWmVGYzVWMDVZVGt4RmR6bDRjUzF3Ulc1WExYWlFZazVDWVVkWFREVnViWFJIYlRobFdYcE9SRGwyUTFsNlJtWktVVUZXYWpscE9XZ3hVblIwWVVNeWVYUm5NUzFPVFRCcmR4SVhWME5GTm1GMmVUQkdOR2w2Y25WRlVEWXRiV1F5UVVVYUlrRkVjM0k1WmxJMVRtWjZXamRwUm1ONFdpMTFhSFJKVTBaNE1URnNTSFpTTmxFIiwiZmN2IjoiMyIsImVpIjoiV0NFNmF2eTBGNGl6cnVFUDYtbWQyQUUiLCJxYyI6IkNpTnRhV3hwZEdGeWVTQjFibWxtYjNKdElHNWhiV1VnZEdGbklHTnZiblpsY25SbGNoQUFmU0p1Q2o4IiwicXVlc3Rpb24iOiJXaGVyZSBjYW4gSSBnZXQgYXJteSBuYW1lIHRhcGVzPyIsImxrIjoiR2g5M2FHVnlaU0JqWVc0Z2FTQm5aWFFnWVhKdGVTQnVZVzFsSUhSaGNHVnoiLCJicyI6ImM1WE9NUXJDTUJRR1lOemtnZUJZc3ZpcXM0cnhBQjNFUVhEdl9FaGlHMGhTU1ZKS1BaNVg4UWhld0NvaW9pSjBlZFAzXy04SEF6d3ZLYUlPR0V1RmpxekNTQVZXRGdtdE5qcVNiN0YyLWxCNWk0S01VVEpMTGlPLVpxdW1ieEQyTU4yUXd4MktPc1RLNnBOQzJ5TDU3andMamlwTHJrTS1ZNm5vb1A0SFFjTGlmWHVJNUNSNWllSE91N2NmUG1USldmSWxtemQ5UXJBRnpFdmxGWXJIOGtMRnIxNmVza256TXZxWEdROXUiLCJpZCI6ImZjX1dDRTZhdnkwRjRpenJ1RVA2LW1kMkFFXzIifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "jJBjpXicxZbdcqpIEIDv9z3Wm0QB_46mijo1ICjRRJEYgzcUDjgiwiA_GnO377JPtW-xb7AzCIpRk9pTtbVjyfzQ09M93Z_tH3-uHd_967e_l3EcRA8Ms9vtKghjtLYrEHuMGe19yCzwOgrh8meEkxDajsXDZYg9u7Tf8rUSjHi2ZDv8VJSa5nbPynXnI0ykUbPsWVUglVIVvDE3I3tFTnhfRYzBkIf7e61DJpWoYvuV-Qg6i17c201Qpcpy7cqQMT0iAP7DJoFx2qvko5BeuZCgx6NvtKgK3agd5wIQ0148k3o6KFKUtBNvKhUzK0SdinTKs7AugI6arvW-sEI7n07pQwI7ag4xUVKv7blmRL6Gs164eaJ0uZQKC9lZnaL6W_4KxQCrVOdLC4inQOQuCyD3gIggMhYOGhtAqI92Ylf8IkzkTYB60rKsXjW60OS-FOyy8UDvEosYC5EkZJl5SDqOceASpoMworkpvrRZLAXduYLHur-xF4ErDwT1raE8vzX33gAxcE7k1ti0bMtYGuzPdM5VuQbbrv1o3adQwOhIRVSkYtZ8WoPa46Img8qgInAFJNLLUM58pukm3HCvn93hJ3Fw0EL1PWZ3k9_yJBcTcE5HtrByaVbpx4UWDcXy84lU1yUSeUPFAUEiNVuZHHcWxelQEU6mZq3zOd6neeaDDvrq0WWpYPHhIqTi3KXKlW6-sDu-olrRGqSIEySkTOHwbD8qGkYuSxCBlL8-WkBlOu5RTEotpK91VdWBIhNESfhQ7nwWSoKEcn53YHU2kxH9iugq4N814RTwW00Cee5_SuUiAr3lbAgmRhBMzE53iFoz9mOOcKPXB8nuespjb_4vKgH8f6GYZHVikpHQvwoF-gYKVZG-rBMHu091guaKiG9BIWZQnNeJQ-Ke6sQlFNo5FLfrRAGKg5avoRBuQnH4WbmEgtaJCyjQDSgOdaIIxXmd8I-aqQcFKH6pTqi_UCdSRuxDd140khW6WTxk0GZX4jNbjpxXz9Xgyg_jgdngkhf9--Kx8OIHz7TW94ZjPQjVx3hv3RtkAT_YVmnDe87aic1wf5f4zgKH3p1vevZdbKI7iP2tHcZ2WPLWIeZZ84demw7HiS0PVsG0jRLWGPUMLdyHTfZpILD-xoIrg4zet0NYXtjVoLn_CDbGtrVeGNBtugPjI9K0pS-3RLcjy4-vs2fN0TnN_ZjWrMQaa_rmvYpfln3p1XHr--7waVZ_nnTi_kuiJXM8eUsem0MPjNTuamzVUqsiHk-1ciPplxvzeol4Fdk8V_JCyBMO6gg8q2CKACQAAJX8nVJFTL47Ev5SBE3DjrY8bHDs3KzbzUa1uai1yWYU7wO-zpUiP-S5fwC3Fx8z",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jJBjpXicxZbdcqpIEIDv9z3Wm0QB_46mijo1ICjRRJEYgzcUDjgiwiA_GnO377JPtW-xb7AzCIpRk9pTtbVjyfzQ09M93Z_tH3-uHd_967e_l3EcRA8Ms9vtKghjtLYrEHuMGe19yCzwOgrh8meEkxDajsXDZYg9u7Tf8rUSjHi2ZDv8VJSa5nbPynXnI0ykUbPsWVUglVIVvDE3I3tFTnhfRYzBkIf7e61DJpWoYvuV-Qg6i17c201Qpcpy7cqQMT0iAP7DJoFx2qvko5BeuZCgx6NvtKgK3agd5wIQ0148k3o6KFKUtBNvKhUzK0SdinTKs7AugI6arvW-sEI7n07pQwI7ag4xUVKv7blmRL6Gs164eaJ0uZQKC9lZnaL6W_4KxQCrVOdLC4inQOQuCyD3gIggMhYOGhtAqI92Ylf8IkzkTYB60rKsXjW60OS-FOyy8UDvEosYC5EkZJl5SDqOceASpoMworkpvrRZLAXduYLHur-xF4ErDwT1raE8vzX33gAxcE7k1ti0bMtYGuzPdM5VuQbbrv1o3adQwOhIRVSkYtZ8WoPa46Img8qgInAFJNLLUM58pukm3HCvn93hJ3Fw0EL1PWZ3k9_yJBcTcE5HtrByaVbpx4UWDcXy84lU1yUSeUPFAUEiNVuZHHcWxelQEU6mZq3zOd6neeaDDvrq0WWpYPHhIqTi3KXKlW6-sDu-olrRGqSIEySkTOHwbD8qGkYuSxCBlL8-WkBlOu5RTEotpK91VdWBIhNESfhQ7nwWSoKEcn53YHU2kxH9iugq4N814RTwW00Cee5_SuUiAr3lbAgmRhBMzE53iFoz9mOOcKPXB8nuespjb_4vKgH8f6GYZHVikpHQvwoF-gYKVZG-rBMHu091guaKiG9BIWZQnNeJQ-Ke6sQlFNo5FLfrRAGKg5avoRBuQnH4WbmEgtaJCyjQDSgOdaIIxXmd8I-aqQcFKH6pTqi_UCdSRuxDd140khW6WTxk0GZX4jNbjpxXz9Xgyg_jgdngkhf9--Kx8OIHz7TW94ZjPQjVx3hv3RtkAT_YVmnDe87aic1wf5f4zgKH3p1vevZdbKI7iP2tHcZ2WPLWIeZZ84demw7HiS0PVsG0jRLWGPUMLdyHTfZpILD-xoIrg4zet0NYXtjVoLn_CDbGtrVeGNBtugPjI9K0pS-3RLcjy4-vs2fN0TnN_ZjWrMQaa_rmvYpfln3p1XHr--7waVZ_nnTi_kuiJXM8eUsem0MPjNTuamzVUqsiHk-1ciPplxvzeol4Fdk8V_JCyBMO6gg8q2CKACQAAJX8nVJFTL47Ev5SBE3DjrY8bHDs3KzbzUa1uai1yWYU7wO-zpUiP-S5fwC3Fx8z"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Military Name Tag Plate Builder",
+      "link": "https://ezrackbuilder.usamm.com/name-tag-builder",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ezrackbuilder.usamm.com/name-tag-builder&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQFnoECB8QAQ",
+      "displayed_link": "https://ezrackbuilder.usamm.com › name-tag-builder",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACOUlEQVR4AcSTA4wfQRSHv5ndPV9t27Zt27YbJ7Vt226j2rZt2-35_tqd7paHWP3lfXkTzTP_XYLfOnL0-FKvh14xMS4BjtngOAHKMYVjIaEBlpTm8Nq1asz48wGHDh9d--5tRNdFC_YSFuYCTUdIBz-E_UZZKNNrOy8Z0ofSu1ctlTJ1wKh6dWtPkgBS6s3WrjzE929RIIRtEiG13_z5zH4Lydu3YaxZfVjoht8QALE9Z7FUgZXKPrt85VmoJ9aLFNJGoAn5CylAgaksHCwb_wCdUiWyhXmuXN_kfFDHQB3UUGSoXpmC40bgev2GyOs38UuWlLTtWvN11x48X79hpEsHhsGNvkPxCYEX7kigAL-VqmJ5AjKkx_3xMy9mzMWMiMByufi4biMpG9RFCw0lOFcO4uh2vA-SlylJ9NPnxL54STL7swx9evKk_xCkvz96smQkr1SeN2s3xftAB_LxW3pQEGZsDGZMDBm6dMCKdZGiQT0Csmfj-ZiJGBnSE5wvT7wPnB58NVApNBQG4Hhd2fAPAB8CB1PYXok_Pcim3_dGN3Yrq6oWElK90tSpNZYvPaQ9efaN-HugUKaHPDmT0r1XLY_ctjUbF6_GNnl6K0wQRzuWregRlDnXig3rTsjrt98jpD9CM0CZFCuUis6dKlmGn6psb-G5RKv8R4ePHCsjpf_xM2fuBR0-8hCFpG7tfFSunC_aZ7or1q5Z_WbiW0j8iS6kXGWZojUCJYW1SSnV345s_hjVcyMAPMvgxNudjBQAAAAASUVORK5CYII.png",
+      "snippet": "Build your military name tapes and name plates with our Military Name Tag Builder! MilSpec regulation name tapes and plates ship within 24 business hours.",
+      "snippet_highlighted_words": [
+        "Military Name Tag Builder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "reviews": 3672
+          },
+          "extensions": [
+            "4.9(3,672)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Build your military name tapes and name plates with our Military Name Tag Builder! MilSpec regulation name tapes and plates ship within 24 business hours.",
+          "source_info_link": "https://ezrackbuilder.usamm.com/name-tag-builder",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACOUlEQVR4AcSTA4wfQRSHv5ndPV9t27Zt27YbJ7Vt226j2rZt2-35_tqd7paHWP3lfXkTzTP_XYLfOnL0-FKvh14xMS4BjtngOAHKMYVjIaEBlpTm8Nq1asz48wGHDh9d--5tRNdFC_YSFuYCTUdIBz-E_UZZKNNrOy8Z0ofSu1ctlTJ1wKh6dWtPkgBS6s3WrjzE929RIIRtEiG13_z5zH4Lydu3YaxZfVjoht8QALE9Z7FUgZXKPrt85VmoJ9aLFNJGoAn5CylAgaksHCwb_wCdUiWyhXmuXN_kfFDHQB3UUGSoXpmC40bgev2GyOs38UuWlLTtWvN11x48X79hpEsHhsGNvkPxCYEX7kigAL-VqmJ5AjKkx_3xMy9mzMWMiMByufi4biMpG9RFCw0lOFcO4uh2vA-SlylJ9NPnxL54STL7swx9evKk_xCkvz96smQkr1SeN2s3xftAB_LxW3pQEGZsDGZMDBm6dMCKdZGiQT0Csmfj-ZiJGBnSE5wvT7wPnB58NVApNBQG4Hhd2fAPAB8CB1PYXok_Pcim3_dGN3Yrq6oWElK90tSpNZYvPaQ9efaN-HugUKaHPDmT0r1XLY_ctjUbF6_GNnl6K0wQRzuWregRlDnXig3rTsjrt98jpD9CM0CZFCuUis6dKlmGn6psb-G5RKv8R4ePHCsjpf_xM2fuBR0-8hCFpG7tfFSunC_aZ7or1q5Z_WbiW0j8iS6kXGWZojUCJYW1SSnV345s_hjVcyMAPMvgxNudjBQAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ezrackbuilder.usamm.com/name-tag-builder&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fezrackbuilder.usamm.com%2Fname-tag-builder",
+      "source": "EZ Rack Builder"
+    },
+    {
+      "position": 2,
+      "title": "Military Name Tag Builder | USAMM",
+      "link": "https://ezrackbuilder.usamm.com/name-tag-builder/home",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ezrackbuilder.usamm.com/name-tag-builder/home&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQFnoECBsQAQ",
+      "displayed_link": "https://ezrackbuilder.usamm.com › name-tag-builder",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACOUlEQVR4AcSTA4wfQRSHv5ndPV9t27Zt27YbJ7Vt226j2rZt2-35_tqd7paHWP3lfXkTzTP_XYLfOnL0-FKvh14xMS4BjtngOAHKMYVjIaEBlpTm8Nq1asz48wGHDh9d--5tRNdFC_YSFuYCTUdIBz-E_UZZKNNrOy8Z0ofSu1ctlTJ1wKh6dWtPkgBS6s3WrjzE929RIIRtEiG13_z5zH4Lydu3YaxZfVjoht8QALE9Z7FUgZXKPrt85VmoJ9aLFNJGoAn5CylAgaksHCwb_wCdUiWyhXmuXN_kfFDHQB3UUGSoXpmC40bgev2GyOs38UuWlLTtWvN11x48X79hpEsHhsGNvkPxCYEX7kigAL-VqmJ5AjKkx_3xMy9mzMWMiMByufi4biMpG9RFCw0lOFcO4uh2vA-SlylJ9NPnxL54STL7swx9evKk_xCkvz96smQkr1SeN2s3xftAB_LxW3pQEGZsDGZMDBm6dMCKdZGiQT0Csmfj-ZiJGBnSE5wvT7wPnB58NVApNBQG4Hhd2fAPAB8CB1PYXok_Pcim3_dGN3Yrq6oWElK90tSpNZYvPaQ9efaN-HugUKaHPDmT0r1XLY_ctjUbF6_GNnl6K0wQRzuWregRlDnXig3rTsjrt98jpD9CM0CZFCuUis6dKlmGn6psb-G5RKv8R4ePHCsjpf_xM2fuBR0-8hCFpG7tfFSunC_aZ7or1q5Z_WbiW0j8iS6kXGWZojUCJYW1SSnV345s_hjVcyMAPMvgxNudjBQAAAAASUVORK5CYII.png",
+      "snippet": "Build your Name Plate or Name Tape just by following a few easy steps. Login to permanently save or restore your name tags.",
+      "snippet_highlighted_words": [
+        "Build your Name Plate or Name Tape"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Build your Name Plate or Name Tape just by following a few easy steps. Login to permanently save or restore your name tags.",
+          "source_info_link": "https://ezrackbuilder.usamm.com/name-tag-builder/home",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACOUlEQVR4AcSTA4wfQRSHv5ndPV9t27Zt27YbJ7Vt226j2rZt2-35_tqd7paHWP3lfXkTzTP_XYLfOnL0-FKvh14xMS4BjtngOAHKMYVjIaEBlpTm8Nq1asz48wGHDh9d--5tRNdFC_YSFuYCTUdIBz-E_UZZKNNrOy8Z0ofSu1ctlTJ1wKh6dWtPkgBS6s3WrjzE929RIIRtEiG13_z5zH4Lydu3YaxZfVjoht8QALE9Z7FUgZXKPrt85VmoJ9aLFNJGoAn5CylAgaksHCwb_wCdUiWyhXmuXN_kfFDHQB3UUGSoXpmC40bgev2GyOs38UuWlLTtWvN11x48X79hpEsHhsGNvkPxCYEX7kigAL-VqmJ5AjKkx_3xMy9mzMWMiMByufi4biMpG9RFCw0lOFcO4uh2vA-SlylJ9NPnxL54STL7swx9evKk_xCkvz96smQkr1SeN2s3xftAB_LxW3pQEGZsDGZMDBm6dMCKdZGiQT0Csmfj-ZiJGBnSE5wvT7wPnB58NVApNBQG4Hhd2fAPAB8CB1PYXok_Pcim3_dGN3Yrq6oWElK90tSpNZYvPaQ9efaN-HugUKaHPDmT0r1XLY_ctjUbF6_GNnl6K0wQRzuWregRlDnXig3rTsjrt98jpD9CM0CZFCuUis6dKlmGn6psb-G5RKv8R4ePHCsjpf_xM2fuBR0-8hCFpG7tfFSunC_aZ7or1q5Z_WbiW0j8iS6kXGWZojUCJYW1SSnV345s_hjVcyMAPMvgxNudjBQAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ezrackbuilder.usamm.com/name-tag-builder/home&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fezrackbuilder.usamm.com%2Fname-tag-builder%2Fhome",
+      "source": "USAMM"
+    },
+    {
+      "position": 3,
+      "title": "Personalized Name Tapes and Tags",
+      "link": "https://militaryuniformsupply.com/collections/military-name-tapes-personalized-name-tapes-and-tags/camo-name-tapes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militaryuniformsupply.com/collections/military-name-tapes-personalized-name-tapes-and-tags/camo-name-tapes&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQFnoECDwQAQ",
+      "displayed_link": "https://militaryuniformsupply.com › collections › camo...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAATlBMVEUYLkkNKEVaZXUACjXQ09cAIUEAFDlGUmX___8TK0cGJUNlb36GjZimq7Pl5ul-hpF7g48gNE6RmKIAAC7DxssADDXW2d02RlyvtLsAGz0I4eL1AAAAeElEQVR4AeWMhQGEMBAEN36HO6T_Qv9xhwaYeFbwSYR40aR8VpXW6iFmrCNy1uzDHAyAwyhOiJI4ChnjF_eaS7MsS3MT00xs8vHL8SpCFTRSKKziUguUFfVUJbDWbtQN9TQ17rB9ZV9tcQO3nfBedC3fqp7n7Wv8AXzwBme_c4PrAAAAAElFTkSuQmCC.png",
+      "snippet": "Discover authentic military name tapes and uniform identification for all U.S. branches, including Army, Air Force, and Space Force. Find options for OCP, ...",
+      "snippet_highlighted_words": [
+        "authentic military name tapes and uniform identification"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price_from": 7,
+            "price_to": 8,
+            "currency": "$"
+          },
+          "extensions": [
+            "$7 to $8",
+            "45-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Discover authentic military name tapes and uniform identification for all U.S. branches, including Army, Air Force, and Space Force. Find options for OCP, ...",
+          "source_info_link": "https://militaryuniformsupply.com/collections/military-name-tapes-personalized-name-tapes-and-tags/camo-name-tapes",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAATlBMVEUYLkkNKEVaZXUACjXQ09cAIUEAFDlGUmX___8TK0cGJUNlb36GjZimq7Pl5ul-hpF7g48gNE6RmKIAAC7DxssADDXW2d02RlyvtLsAGz0I4eL1AAAAeElEQVR4AeWMhQGEMBAEN36HO6T_Qv9xhwaYeFbwSYR40aR8VpXW6iFmrCNy1uzDHAyAwyhOiJI4ChnjF_eaS7MsS3MT00xs8vHL8SpCFTRSKKziUguUFfVUJbDWbtQN9TQ17rB9ZV9tcQO3nfBedC3fqp7n7Wv8AXzwBme_c4PrAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militaryuniformsupply.com/collections/military-name-tapes-personalized-name-tapes-and-tags/camo-name-tapes&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitaryuniformsupply.com%2Fcollections%2Fmilitary-name-tapes-personalized-name-tapes-and-tags%2Fcamo-name-tapes",
+      "source": "Military Uniform Supply"
+    },
+    {
+      "position": 4,
+      "title": "Name & Branch Tapes - Custom Military Name Tapes",
+      "link": "https://kellac.com/name-branch-tapes/?srsltid=AfmBOorlVL-9PhE4i9s69pFQeW7Hz0yg3qMw1g94YZN8Y5cqQkgxAuaW",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kellac.com/name-branch-tapes/%3Fsrsltid%3DAfmBOorlVL-9PhE4i9s69pFQeW7Hz0yg3qMw1g94YZN8Y5cqQkgxAuaW&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQFnoECEUQAQ",
+      "displayed_link": "https://kellac.com › ... › Name Tapes and Rank",
+      "favicon": "https://serpapi.com/searches/6a3a2158cf8870d4b4e895ea/images/uLVJb0eaNhB6GEjcOOu3E40znftWn-vbUWakyF3xkNk.png",
+      "snippet": "Kel-Lac offers custom embroidered military branch & name tapes for army, air force, navy, marines & more. Get velcro or sew-on name tape to match your uniform.",
+      "snippet_highlighted_words": [
+        "custom embroidered military branch & name tapes"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price_from": 4,
+            "price_to": 9,
+            "currency": "$",
+            "rating": 4.4,
+            "reviews": 336
+          },
+          "extensions": [
+            "4.4 store rating (336)",
+            "$4 to $9",
+            "6-day delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Kel-Lac offers custom embroidered military branch & name tapes for army, air force, navy, marines & more. Get velcro or sew-on name tape to match your uniform.",
+          "source_info_link": "https://kellac.com/name-branch-tapes/?srsltid=AfmBOorlVL-9PhE4i9s69pFQeW7Hz0yg3qMw1g94YZN8Y5cqQkgxAuaW",
+          "icon": "https://serpapi.com/searches/6a3a2158cf8870d4b4e895ea/images/uLVJb0eaNhB6GEjcOOu3E8tDHMRj4ipHiXKKce3xqbbxemKvVqFUScXxSLG815K3.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kellac.com/name-branch-tapes/?srsltid=AfmBOorlVL-9PhE4i9s69pFQeW7Hz0yg3qMw1g94YZN8Y5cqQkgxAuaW&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkellac.com%2Fname-branch-tapes%2F%3Fsrsltid%3DAfmBOorlVL-9PhE4i9s69pFQeW7Hz0yg3qMw1g94YZN8Y5cqQkgxAuaW",
+      "source": "Kel-Lac Tactical",
+      "read_more_link": "https://kellac.com/name-branch-tapes/?srsltid=AfmBOorlVL-9PhE4i9s69pFQeW7Hz0yg3qMw1g94YZN8Y5cqQkgxAuaW#:~:text=Kel%2DLac%20offers%20custom%20embroidered%20military,tape%20to%20match%20your%20uniform."
+    },
+    {
+      "position": 5,
+      "title": "Cool way to reuse your name tags from your Military uniform!",
+      "link": "https://www.pinterest.com/pin/name-tags--12314598965469700/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pinterest.com/pin/name-tags--12314598965469700/&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQFnoECD0QAQ",
+      "displayed_link": "8 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png",
+      "snippet": "Cool way to reuse your name tags from your Military uniform! How To Recycle Military. Military uniform upcycle ideas, How to recycle military ...",
+      "snippet_highlighted_words": [
+        "name tags",
+        "Military uniform",
+        "Military",
+        "Military uniform",
+        "military"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Cool way to reuse your name tags from your Military uniform! How To Recycle Military. Military uniform upcycle ideas, How to recycle military ...",
+          "source_info_link": "https://www.pinterest.com/pin/name-tags--12314598965469700/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pinterest.com/pin/name-tags--12314598965469700/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fname-tags--12314598965469700%2F",
+      "source": "Pinterest · earth7611"
+    },
+    {
+      "position": 6,
+      "title": "OD Green Custom Uniform Military Name Tape, Sew on ( ...",
+      "link": "https://www.amazon.com/Green-Custom-Uniform-Military-Name/dp/B077LRCNYL",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Green-Custom-Uniform-Military-Name/dp/B077LRCNYL&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQFnoECDsQAQ",
+      "displayed_link": "https://www.amazon.com › Green-Custom-Uniform-Milit...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Military Name Tape, Embroidered with 3/4 block letters, sew on 1 x 7 inches. Made to official mil. All tapes are made on 1 inch mil. Available in 5 Sizes.",
+      "snippet_highlighted_words": [
+        "Military Name Tape"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Military Name Tape, Embroidered with 3/4 block letters, sew on 1 x 7 inches. Made to official mil. All tapes are made on 1 inch mil. Available in 5 Sizes.",
+          "source_info_link": "https://www.amazon.com/Green-Custom-Uniform-Military-Name/dp/B077LRCNYL",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.amazon.com/Green-Custom-Uniform-Military-Name/dp/B077LRCNYL&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2FGreen-Custom-Uniform-Military-Name%2Fdp%2FB077LRCNYL",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 7,
+      "title": "Military Name Tags For Uniforms: Essential Guide & Types",
+      "link": "https://rushpatch.com/blogs/news/military-name-tags-for-uniforms-essential-guide-types?srsltid=AfmBOopk6bSCvw4kZ1qyc_IMi-XHoUBflDeg11Qdf_SrXml6y6xjm8qS",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rushpatch.com/blogs/news/military-name-tags-for-uniforms-essential-guide-types%3Fsrsltid%3DAfmBOopk6bSCvw4kZ1qyc_IMi-XHoUBflDeg11Qdf_SrXml6y6xjm8qS&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQFnoECD8QAQ",
+      "displayed_link": "https://rushpatch.com › blogs › news › military-name-tag...",
+      "favicon": "https://serpapi.com/searches/6a3a2158cf8870d4b4e895ea/images/uLVJb0eaNhB6GEjcOOu3Ey20uGPyMCB3SxcDV1XgZZs.png",
+      "date": "Aug 26, 2025",
+      "snippet": "Military name tags for uniform are the most critical standard badge that helps identify personnel. change their uniforms",
+      "snippet_highlighted_words": [
+        "Military name tags for uniform are the most critical standard badge"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military name tags for uniform are the most critical standard badge that helps identify personnel. change their uniforms",
+          "source_info_link": "https://rushpatch.com/blogs/news/military-name-tags-for-uniforms-essential-guide-types?srsltid=AfmBOopk6bSCvw4kZ1qyc_IMi-XHoUBflDeg11Qdf_SrXml6y6xjm8qS",
+          "icon": "https://serpapi.com/searches/6a3a2158cf8870d4b4e895ea/images/uLVJb0eaNhB6GEjcOOu3E3fAInml2OdUxl4ZtvTCXGzagYzU4X821KlhZXUKBz9R.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://rushpatch.com/blogs/news/military-name-tags-for-uniforms-essential-guide-types?srsltid=AfmBOopk6bSCvw4kZ1qyc_IMi-XHoUBflDeg11Qdf_SrXml6y6xjm8qS&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Frushpatch.com%2Fblogs%2Fnews%2Fmilitary-name-tags-for-uniforms-essential-guide-types%3Fsrsltid%3DAfmBOopk6bSCvw4kZ1qyc_IMi-XHoUBflDeg11Qdf_SrXml6y6xjm8qS",
+      "source": "Rush Patch"
+    },
+    {
+      "position": 8,
+      "title": "Best Army Name Tape Generator",
+      "link": "https://vondy.com/army-name-tape-generator--0tHsroiw",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://vondy.com/army-name-tape-generator--0tHsroiw&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQFnoECDgQAQ",
+      "displayed_link": "https://vondy.com › Writing Translation › Book Writing",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEVHcEwkWtk3bexAdfA4buwyaegkWdktY-MlXd4dVtiUqer___--yvMSS83v8vxvjOQYUNLX3_cHPsMMRcgQRsdV4gF2AAAAFXRSTlMAYb79__8l_______________-_8E680OxAAABHUlEQVR4AW3SQZKFIAxF0aD-T0JEQNz_WjsvabsY9C1HnnopBxJK2_7bsR_osyWKvq84gLzva6uE5Zyh68EgGCJKy-odRZxow2ihMM7MvJHDSkh2MZQXHRgAK1qgFIK4nMx-r17ahEUMscG9Q7XrVUuTpqOKRX6v2UJOPYuOptc9bOgIK6qlf1RZ9bi07HpNWCcc3Ifq2Udpf8Mu3aJssRyqrYo0btow7K5AKL6B2U5NG5baUQVyfD0L6ja8naohe_3U0oEYThDQSRiD2e1qwbB6Eyg4OIeOfJvpMYMm0E16v1Tt0TaDgBL5RbMzT5dADkHztmCh902PmVcR3oeYPZQAsEVBViIKQusK4df8j1D8uIsAFkPpqcsIPYmsH_rhH4BKBVqQAAAAAElFTkSuQmCC.png",
+      "snippet": "Create personalized military name tapes with our Army Name Tape Generator. Customize your name, branch, and attachment type to meet military standards.",
+      "snippet_highlighted_words": [
+        "Create personalized military name tapes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Create personalized military name tapes with our Army Name Tape Generator. Customize your name, branch, and attachment type to meet military standards.",
+          "source_info_link": "https://vondy.com/army-name-tape-generator--0tHsroiw",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEVHcEwkWtk3bexAdfA4buwyaegkWdktY-MlXd4dVtiUqer___--yvMSS83v8vxvjOQYUNLX3_cHPsMMRcgQRsdV4gF2AAAAFXRSTlMAYb79__8l_______________-_8E680OxAAABHUlEQVR4AW3SQZKFIAxF0aD-T0JEQNz_WjsvabsY9C1HnnopBxJK2_7bsR_osyWKvq84gLzva6uE5Zyh68EgGCJKy-odRZxow2ihMM7MvJHDSkh2MZQXHRgAK1qgFIK4nMx-r17ahEUMscG9Q7XrVUuTpqOKRX6v2UJOPYuOptc9bOgIK6qlf1RZ9bi07HpNWCcc3Ifq2Udpf8Mu3aJssRyqrYo0btow7K5AKL6B2U5NG5baUQVyfD0L6ja8naohe_3U0oEYThDQSRiD2e1qwbB6Eyg4OIeOfJvpMYMm0E16v1Tt0TaDgBL5RbMzT5dADkHztmCh902PmVcR3oeYPZQAsEVBViIKQusK4df8j1D8uIsAFkPpqcsIPYmsH_rhH4BKBVqQAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://vondy.com/army-name-tape-generator--0tHsroiw&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fvondy.com%2Farmy-name-tape-generator--0tHsroiw",
+      "source": "Vondy"
+    },
+    {
+      "position": 9,
+      "title": "Name Tapes - The Biggest Selection in The World",
+      "link": "https://tacticalgearjunkie.com/collections/name-tapes?srsltid=AfmBOorJrotxYkQFwYJtKQcqLrvBjmt_sIkqnhau2x15oq3pPIahuO9y",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tacticalgearjunkie.com/collections/name-tapes%3Fsrsltid%3DAfmBOorJrotxYkQFwYJtKQcqLrvBjmt_sIkqnhau2x15oq3pPIahuO9y&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQFnoECD4QAQ",
+      "displayed_link": "https://tacticalgearjunkie.com › collections › name-tapes",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEVHcEwAAAIAAAAHBwRVXCQFBgMxMxQAAAA1NxgXFwkPDggtLxUDAwIyNhgsLhYAAABKUBw_QxkPDwYlJREjJg8AAAATFAhFSBotLxUAAABOUhscHg4AAABLTxsAAAA7PhcAAAAAAAAAAAAgIhBVUhobHAs7PBYsLhU8Px8YFgkBAAB8HBABAAAAK3RSTlMALFmCI7_XI4b__-Tt_7T_Zf9s_wU0ef__P_-UTP_V_xqroN9DEcSj9Geaz74mxQAAAQRJREFUeAHFz0UWAjEQBNBi3JuQMJFxHO5_PzS4bPm7fu34h9GvlOPixjvCjesAfhDCiuIkuLWlPo6yvLBpL6axTRV5hpOQchZMzvmUCwDTMpCKbIOmWBpZAdMgrYHqGMSkYdVEvJG1mzAWt45sOFGNG02UyC5uJGtiJROyfVafETHTSNmYhijr8WwgqU5pZZIZ3uh5R1xRHkzxgWdy1XGzwLtwWUjGc2VWoscLQcQ7RnF--mOJJ8tC0VpJoi5fkyoesmI5Yk3p-6tjkq2HNmq6kRA2OaIN22LmL1lCG_gDJmxDGpabAaIGxjzxgFoA7Q437eAKHFUaR6LcZbhbTvCk7PEvB-QcE1fKcQIaAAAAAElFTkSuQmCC.png",
+      "snippet": "Need to identify your uniform, hat or gear? Name tapes are an easy and cost effective way to personalize or be military compliant.",
+      "snippet_highlighted_words": [
+        "easy and cost effective way to personalize or be military compliant"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price_from": 2,
+            "price_to": 18,
+            "currency": "$",
+            "rating": 4.9,
+            "reviews": 627
+          },
+          "extensions": [
+            "4.9 store rating (627)",
+            "$2 to $18",
+            "1–4 day delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Need to identify your uniform, hat or gear? Name tapes are an easy and cost effective way to personalize or be military compliant.",
+          "source_info_link": "https://tacticalgearjunkie.com/collections/name-tapes?srsltid=AfmBOorJrotxYkQFwYJtKQcqLrvBjmt_sIkqnhau2x15oq3pPIahuO9y",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEVHcEwAAAIAAAAHBwRVXCQFBgMxMxQAAAA1NxgXFwkPDggtLxUDAwIyNhgsLhYAAABKUBw_QxkPDwYlJREjJg8AAAATFAhFSBotLxUAAABOUhscHg4AAABLTxsAAAA7PhcAAAAAAAAAAAAgIhBVUhobHAs7PBYsLhU8Px8YFgkBAAB8HBABAAAAK3RSTlMALFmCI7_XI4b__-Tt_7T_Zf9s_wU0ef__P_-UTP_V_xqroN9DEcSj9Geaz74mxQAAAQRJREFUeAHFz0UWAjEQBNBi3JuQMJFxHO5_PzS4bPm7fu34h9GvlOPixjvCjesAfhDCiuIkuLWlPo6yvLBpL6axTRV5hpOQchZMzvmUCwDTMpCKbIOmWBpZAdMgrYHqGMSkYdVEvJG1mzAWt45sOFGNG02UyC5uJGtiJROyfVafETHTSNmYhijr8WwgqU5pZZIZ3uh5R1xRHkzxgWdy1XGzwLtwWUjGc2VWoscLQcQ7RnF--mOJJ8tC0VpJoi5fkyoesmI5Yk3p-6tjkq2HNmq6kRA2OaIN22LmL1lCG_gDJmxDGpabAaIGxjzxgFoA7Q437eAKHFUaR6LcZbhbTvCk7PEvB-QcE1fKcQIaAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://tacticalgearjunkie.com/collections/name-tapes?srsltid=AfmBOorJrotxYkQFwYJtKQcqLrvBjmt_sIkqnhau2x15oq3pPIahuO9y&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftacticalgearjunkie.com%2Fcollections%2Fname-tapes%3Fsrsltid%3DAfmBOorJrotxYkQFwYJtKQcqLrvBjmt_sIkqnhau2x15oq3pPIahuO9y",
+      "source": "Tactical Gear Junkie",
+      "read_more_link": "https://tacticalgearjunkie.com/collections/name-tapes?srsltid=AfmBOorJrotxYkQFwYJtKQcqLrvBjmt_sIkqnhau2x15oq3pPIahuO9y#:~:text=Need%20to%20identify%20your%20uniform%2C,personalize%20or%20be%20military%20compliant."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military uniform name tag converter online free",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+uniform+name+tag+converter+online+free&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+uniform+name+tag+converter+online+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Military uniform name tag converter ww2",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+uniform+name+tag+converter+ww2&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+uniform+name+tag+converter+ww2"
+    },
+    {
+      "block_position": 1,
+      "query": "Military uniform name tag converter online",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+uniform+name+tag+converter+online&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+uniform+name+tag+converter+online"
+    },
+    {
+      "block_position": 1,
+      "query": "Military uniform name tag converter army",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+uniform+name+tag+converter+army&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+uniform+name+tag+converter+army"
+    },
+    {
+      "block_position": 1,
+      "query": "Military Name tags for Uniforms",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+Name+tags+for+Uniforms&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+Name+tags+for+Uniforms"
+    },
+    {
+      "block_position": 1,
+      "query": "Military uniform name tag converter free",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+uniform+name+tag+converter+free&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+uniform+name+tag+converter+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Military uniform name tag placement",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+uniform+name+tag+placement&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+uniform+name+tag+placement"
+    },
+    {
+      "block_position": 1,
+      "query": "Best military uniform name tag converter",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Best+military+uniform+name+tag+converter&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+military+uniform+name+tag+converter"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?q=military+uniform+name+tag+converter+for+sale&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKAB6BAgaEAI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+name+tag+converter+for+sale"
+    },
+    {
+      "query": "Green",
+      "link": "https://www.google.com/search?q=green+military+uniform+name+tag+converter&shoprs=CAEYASojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyFwgBEgVHcmVlbjoMCNiM9QEQ6Ir1ATALWOjXIGAB&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKAF6BAgaEAM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=green+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?q=military+uniform+name+tag+converter+nearby&shoprs=CAEYAyojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyDAgDEgZOZWFyYnkYAljo1yBgAQ&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKAJ6BAgaEAQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+name+tag+converter+nearby"
+    },
+    {
+      "query": "Custom",
+      "link": "https://www.google.com/search?q=custom+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyCggSEgZDdXN0b21gAQ&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKAN6BAgaEAU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=custom+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Female",
+      "link": "https://www.google.com/search?q=female+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyCggSEgZGZW1hbGVgAQ&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKAR6BAgaEAY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=female+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Free",
+      "link": "https://www.google.com/search?q=free+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyCAgSEgRGcmVlYAE&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKAV6BAgaEAc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=free+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?q=online+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyCggSEgZPbmxpbmVgAQ&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKAZ6BAgaEAg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=online+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKAd6BAgaEAk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=price+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKAh6BAgaEAo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=buy+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Male",
+      "link": "https://www.google.com/search?q=male+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyCAgSEgRNYWxlYAE&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKAl6BAgaEAs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=male+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Woman",
+      "link": "https://www.google.com/search?q=woman+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyCQgSEgVXb21hbmAB&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKAp6BAgaEAw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=woman+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Girl",
+      "link": "https://www.google.com/search?q=girl+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyCAgSEgRHaXJsYAE&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKAt6BAgaEA0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=girl+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Under $5",
+      "link": "https://www.google.com/search?q=military+uniform+name+tag+converter+under+$5&shoprs=CAESDRILEQAAAADQElNBGAEYBSojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyIQgFEghVbmRlciAkNRgCIg0SCxEAAAAA0BJTQRgBKgIYAVjo1yBgAQ&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKAx6BAgaEA4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+name+tag+converter+under+%245"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?q=new+military+uniform+name+tag+converter&shoprs=CAEYCiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyBwgKEgNOZXdY6NcgYAE&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKA16BAgaEA8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=new+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?q=used+military+uniform+name+tag+converter&shoprs=CAEYCiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyCAgKEgRVc2VkWOjXIGAB&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKA56BAgaEBA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=used+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Badges & Insignia",
+      "link": "https://www.google.com/search?q=badges+%26+insignia+military+uniform+name+tag+converter&shoprs=CAEYCSojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyFQgJEhFCYWRnZXMgJiBJbnNpZ25pYWAB&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKA96BAgaEBE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=badges+%26+insignia+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Sewing Fasteners",
+      "link": "https://www.google.com/search?q=sewing+fasteners+military+uniform+name+tag+converter&shoprs=CAEYCSojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyFAgJEhBTZXdpbmcgRmFzdGVuZXJzYAE&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKBB6BAgaEBI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=sewing+fasteners+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Images",
+      "link": "https://www.google.com/search?q=images+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyCggSEgZJbWFnZXNgAQ&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKBF6BAgaEBM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=images+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Tan",
+      "link": "https://www.google.com/search?q=tan+military+uniform+name+tag+converter&shoprs=CAEYASojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyFQgBEgNUYW46DAjYjPUBEJ2M9QEwC1jo1yBgAQ&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKBJ6BAgaEBQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tan+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Dress",
+      "link": "https://www.google.com/search?q=dress+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyCQgSEgVEcmVzc2AB&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKBN6BAgaEBU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dress+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Pants",
+      "link": "https://www.google.com/search?q=pants+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyCQgSEgVQYW50c2AB&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKBR6BAgaEBY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pants+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Man",
+      "link": "https://www.google.com/search?q=man+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyBwgSEgNNYW5gAQ&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKBV6BAgaEBc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=man+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKBZ6BAgaEBg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=reviews+military+uniform+name+tag+converter"
+    },
+    {
+      "query": "Size",
+      "link": "https://www.google.com/search?q=size+military+uniform+name+tag+converter&shoprs=CAEYEiojbWlsaXRhcnkgdW5pZm9ybSBuYW1lIHRhZyBjb252ZXJ0ZXIyCAgSEgRTaXplYAE&sa=X&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQip4GKBd6BAgaEBk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=size+military+uniform+name+tag+converter"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+uniform+name+tag+converter&sca_esv=c510ba4e6526f391&ei=WCE6avy0F4izruEP6-md2AE&start=10&sa=N&sstk=AU9db-C7G8K19kET3lebAHlGz4R_hzqN-UfB30ZzGKIZlX970NMY5mOGPjvQd1QSKBv96_wfHA2NBRj3FbC8UUw20aBnvpd48WL1lg&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ8NMDegQIVRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+uniform+name+tag+converter&sca_esv=c510ba4e6526f391&ei=WCE6avy0F4izruEP6-md2AE&start=10&sa=N&sstk=AU9db-C7G8K19kET3lebAHlGz4R_hzqN-UfB30ZzGKIZlX970NMY5mOGPjvQd1QSKBv96_wfHA2NBRj3FbC8UUw20aBnvpd48WL1lg&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ8tMDegQIVRAE",
+      "3": "https://www.google.com/search?q=military+uniform+name+tag+converter&sca_esv=c510ba4e6526f391&ei=WCE6avy0F4izruEP6-md2AE&start=20&sa=N&sstk=AU9db-C7G8K19kET3lebAHlGz4R_hzqN-UfB30ZzGKIZlX970NMY5mOGPjvQd1QSKBv96_wfHA2NBRj3FbC8UUw20aBnvpd48WL1lg&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ8tMDegQIVRAG",
+      "4": "https://www.google.com/search?q=military+uniform+name+tag+converter&sca_esv=c510ba4e6526f391&ei=WCE6avy0F4izruEP6-md2AE&start=30&sa=N&sstk=AU9db-C7G8K19kET3lebAHlGz4R_hzqN-UfB30ZzGKIZlX970NMY5mOGPjvQd1QSKBv96_wfHA2NBRj3FbC8UUw20aBnvpd48WL1lg&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ8tMDegQIVRAI",
+      "5": "https://www.google.com/search?q=military+uniform+name+tag+converter&sca_esv=c510ba4e6526f391&ei=WCE6avy0F4izruEP6-md2AE&start=40&sa=N&sstk=AU9db-C7G8K19kET3lebAHlGz4R_hzqN-UfB30ZzGKIZlX970NMY5mOGPjvQd1QSKBv96_wfHA2NBRj3FbC8UUw20aBnvpd48WL1lg&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ8tMDegQIVRAK",
+      "6": "https://www.google.com/search?q=military+uniform+name+tag+converter&sca_esv=c510ba4e6526f391&ei=WCE6avy0F4izruEP6-md2AE&start=50&sa=N&sstk=AU9db-C7G8K19kET3lebAHlGz4R_hzqN-UfB30ZzGKIZlX970NMY5mOGPjvQd1QSKBv96_wfHA2NBRj3FbC8UUw20aBnvpd48WL1lg&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ8tMDegQIVRAM",
+      "7": "https://www.google.com/search?q=military+uniform+name+tag+converter&sca_esv=c510ba4e6526f391&ei=WCE6avy0F4izruEP6-md2AE&start=60&sa=N&sstk=AU9db-C7G8K19kET3lebAHlGz4R_hzqN-UfB30ZzGKIZlX970NMY5mOGPjvQd1QSKBv96_wfHA2NBRj3FbC8UUw20aBnvpd48WL1lg&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ8tMDegQIVRAO",
+      "8": "https://www.google.com/search?q=military+uniform+name+tag+converter&sca_esv=c510ba4e6526f391&ei=WCE6avy0F4izruEP6-md2AE&start=70&sa=N&sstk=AU9db-C7G8K19kET3lebAHlGz4R_hzqN-UfB30ZzGKIZlX970NMY5mOGPjvQd1QSKBv96_wfHA2NBRj3FbC8UUw20aBnvpd48WL1lg&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ8tMDegQIVRAQ",
+      "9": "https://www.google.com/search?q=military+uniform+name+tag+converter&sca_esv=c510ba4e6526f391&ei=WCE6avy0F4izruEP6-md2AE&start=80&sa=N&sstk=AU9db-C7G8K19kET3lebAHlGz4R_hzqN-UfB30ZzGKIZlX970NMY5mOGPjvQd1QSKBv96_wfHA2NBRj3FbC8UUw20aBnvpd48WL1lg&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ8tMDegQIVRAS",
+      "10": "https://www.google.com/search?q=military+uniform+name+tag+converter&sca_esv=c510ba4e6526f391&ei=WCE6avy0F4izruEP6-md2AE&start=90&sa=N&sstk=AU9db-C7G8K19kET3lebAHlGz4R_hzqN-UfB30ZzGKIZlX970NMY5mOGPjvQd1QSKBv96_wfHA2NBRj3FbC8UUw20aBnvpd48WL1lg&ved=2ahUKEwj8wLv615yVAxWImSsGHet0BxsQ8tMDegQIVRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+name+tag+converter&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+name+tag+converter&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+name+tag+converter&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+name+tag+converter&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+name+tag+converter&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+name+tag+converter&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+name+tag+converter&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+name+tag+converter&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+name+tag+converter&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+name+tag+converter&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+name+tag+converter&start=90"
+    }
+  }
+}

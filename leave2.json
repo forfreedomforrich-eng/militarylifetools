@@ -1,0 +1,405 @@
+{
+  "search_metadata": {
+    "id": "6a3a2205f8cc7801039b6093",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/g41uyeWvlQGrdEkmypJpeQ/6a3a2205f8cc7801039b6093.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/g41uyeWvlQGrdEkmypJpeQ/6a3a2205f8cc7801039b6093.json_with_pixel_position",
+    "created_at": "2026-06-23 06:04:53 UTC",
+    "processed_at": "2026-06-23 06:04:53 UTC",
+    "google_url": "https://www.google.com/search?q=military+terminal+leave+balance+calculator&oq=military+terminal+leave+balance+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/g41uyeWvlQGrdEkmypJpeQ/6a3a2205f8cc7801039b6093.html",
+    "total_time_taken": 1.97
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military terminal leave balance calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military terminal leave balance calculator",
+    "total_results": 105,
+    "time_taken_displayed": 0.18,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "2KcPEnicxZbbcvI2EIDv-x7lJjG2OYVkxvOP5AM4JAT_ARK48QjZyAbZTmyDQ-76Ln2qPkqvKp-ICZBM_5lOxaDjarUr7cfyx5_U9dd__fa3E8cv0Q3PJ0lSJ0FAqF3HgcejaOdjfhnQKMTOjyjYhNh2LQk7YeDZtd1WatZwJAk125Wgq3dQyNm3nLdtD4ORO_JbOzCpZSokc4Eie8VOeFtFvMmzav17U2GDelS3_fpihN1lP-4nE1JvCOJ1_YFHHhMA_2FRwc-sNdhHZ61-JJEeT77RYujpxsfKjFypy3KfK9L1rJHPKpULK-RZKqJw87AFgWJkc_0vrHg8HD6llQoSAGBqomqc2nPKiHIuKFp49kT1eCoThsVZSlX9OX9h9YGNVOe4C-SPhyhdhqD0gIkQ1oe5xjaArVEi9-QvnomtvJC-6nDGSaMrRRuoL0nRv5v1mEW8RVgQCvwiZI3Iu9jBWSeM0tiUx9dCoPlgPuxsnMG4eS-bZnMy8PXAoX7jpWvweMHkaIAs2zIdU_iRjcWG2Baum1fdywwKHO2piKpUzDv3FDRvl00N1O_qUKwgkV2GfuBzGm7wjHuD4g4_iYNcS1YXd1Pe8qQUg0FJRzGxWqdRNdtPdNOncD6fmOo6RqIspNphSGRm65P9zqp42tVhxdS8KJ_f-2Nc-DADA2PvslqxOL8ItTpep8r1XjmR7JdSrYSCDHGGhFoofDjYT6qGscuCMlDL5b0FqYyy3oupmYXp8swwZkDXGKLs-UjpfPGUDAn98O7A6mCkkfQrk5OAf1fgx4OfKyooY_9TKB8gcBVMG1rMKfrE6D9Ejbf39_7wXds9OCE5HfKBt_gXmQD_v1BMijwxKUgYnISCfAOFoatf5onc7o88kcaKHJyDQi6gOMwTeeB-5IljKB4PoTifJypQ5Fq-hgKehSL_WTmGIs0TR1CQM1DkeaIKxWGe8PeaUw8qUPxSnjB-IU9kjNh5c5g0NityNnn0koVOn_ux1tnEY9qMQk7j3qcqF929gm-Tx9KLbzxk0UvTtW5g4zbeWZcmmwhubKv2KnkudWMU7i5iO_RcH9ELaqOtfbFAFPnYvsCI4g1FcRDWPBoGkoA699ZT8ypUOnDVWlFlCpba2ybB0xnFVlfYPitz8EwmPznz7Ul9nYavDy06e3XE2-heaLmm-bxoT-JFbI0Fxez2Yv_O8npedwn6kBob0VRCnUOzx2HXo-LAMnRno2kjROfD7chGAzrvqTq8RWMHop5hBgGnGpldkQSninnXSqy1Nqsx9yJbEmteiCUGRIuAoQGeCMCMBGCw_1WGHLBvwuKgFmFk2tFWwm1RWKCW3Wk3OsvmNdtM4t2L1BJrkR9K4j_SSyFJ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2KcPEnicxZbbcvI2EIDv-x7lJjG2OYVkxvOP5AM4JAT_ARK48QjZyAbZTmyDQ-76Ln2qPkqvKp-ICZBM_5lOxaDjarUr7cfyx5_U9dd__fa3E8cv0Q3PJ0lSJ0FAqF3HgcejaOdjfhnQKMTOjyjYhNh2LQk7YeDZtd1WatZwJAk125Wgq3dQyNm3nLdtD4ORO_JbOzCpZSokc4Eie8VOeFtFvMmzav17U2GDelS3_fpihN1lP-4nE1JvCOJ1_YFHHhMA_2FRwc-sNdhHZ61-JJEeT77RYujpxsfKjFypy3KfK9L1rJHPKpULK-RZKqJw87AFgWJkc_0vrHg8HD6llQoSAGBqomqc2nPKiHIuKFp49kT1eCoThsVZSlX9OX9h9YGNVOe4C-SPhyhdhqD0gIkQ1oe5xjaArVEi9-QvnomtvJC-6nDGSaMrRRuoL0nRv5v1mEW8RVgQCvwiZI3Iu9jBWSeM0tiUx9dCoPlgPuxsnMG4eS-bZnMy8PXAoX7jpWvweMHkaIAs2zIdU_iRjcWG2Baum1fdywwKHO2piKpUzDv3FDRvl00N1O_qUKwgkV2GfuBzGm7wjHuD4g4_iYNcS1YXd1Pe8qQUg0FJRzGxWqdRNdtPdNOncD6fmOo6RqIspNphSGRm65P9zqp42tVhxdS8KJ_f-2Nc-DADA2PvslqxOL8ItTpep8r1XjmR7JdSrYSCDHGGhFoofDjYT6qGscuCMlDL5b0FqYyy3oupmYXp8swwZkDXGKLs-UjpfPGUDAn98O7A6mCkkfQrk5OAf1fgx4OfKyooY_9TKB8gcBVMG1rMKfrE6D9Ejbf39_7wXds9OCE5HfKBt_gXmQD_v1BMijwxKUgYnISCfAOFoatf5onc7o88kcaKHJyDQi6gOMwTeeB-5IljKB4PoTifJypQ5Fq-hgKehSL_WTmGIs0TR1CQM1DkeaIKxWGe8PeaUw8qUPxSnjB-IU9kjNh5c5g0NityNnn0koVOn_ux1tnEY9qMQk7j3qcqF929gm-Tx9KLbzxk0UvTtW5g4zbeWZcmmwhubKv2KnkudWMU7i5iO_RcH9ELaqOtfbFAFPnYvsCI4g1FcRDWPBoGkoA699ZT8ypUOnDVWlFlCpba2ybB0xnFVlfYPitz8EwmPznz7Ul9nYavDy06e3XE2-heaLmm-bxoT-JFbI0Fxez2Yv_O8npedwn6kBob0VRCnUOzx2HXo-LAMnRno2kjROfD7chGAzrvqTq8RWMHop5hBgGnGpldkQSninnXSqy1Nqsx9yJbEmteiCUGRIuAoQGeCMCMBGCw_1WGHLBvwuKgFmFk2tFWwm1RWKCW3Wk3OsvmNdtM4t2L1BJrkR9K4j_SSyFJ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Terminal Leave Calculator",
+      "link": "https://www.scott.af.mil/Portals/28/Attachment%203_%20Terminal%20Leave%20Calculator.xlsx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scott.af.mil/Portals/28/Attachment%25203_%2520Terminal%2520Leave%2520Calculator.xlsx&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQFnoECBwQAQ",
+      "displayed_link": "https://www.scott.af.mil › Portals › Attachment 3_...",
+      "snippet": "TERMINAL LEAVE CALCULATOR ... START HERE ↓ Enter Current LES Month & Year (based on any LES you are using) (Fill in Yellow Blocks only!) Current Leave balance ...",
+      "snippet_highlighted_words": [
+        "Enter Current LES Month & Year"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "TERMINAL LEAVE CALCULATOR ... START HERE ↓ Enter Current LES Month & Year (based on any LES you are using) (Fill in Yellow Blocks only!) Current Leave balance ...",
+          "source_info_link": "https://www.scott.af.mil/Portals/28/Attachment%203_%20Terminal%20Leave%20Calculator.xlsx"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.scott.af.mil/Portals/28/Attachment%203_%20Terminal%20Leave%20Calculator.xlsx&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.scott.af.mil%2FPortals%2F28%2FAttachment%25203_%2520Terminal%2520Leave%2520Calculator.xlsx",
+      "source": "Scott Air Force Base (.mil)",
+      "read_more_link": "https://www.scott.af.mil/Portals/28/Attachment%203_%20Terminal%20Leave%20Calculator.xlsx#:~:text=TERMINAL%20LEAVE%20CALCULATOR&text=START%20HERE%20%E2%86%93%20Enter%20Current,Leave%20balance%20from%20your%20LES"
+    },
+    {
+      "position": 2,
+      "title": "Terminal Leave Calculator",
+      "link": "https://www.militarytransitiontoolkit.com/calculator/terminal-leave",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarytransitiontoolkit.com/calculator/terminal-leave&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQFnoECB0QAQ",
+      "displayed_link": "https://www.militarytransitiontoolkit.com › Tools",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABo0lEQVR4Ac3XAWcCcRgG8Au2PkGxJoCyDgj6BgnM1AAEkAB9g4umJIDtU1T6HAWmL5A7LBLchUqePea10Wr_3urmHn6Q3t435727v6XMDdn0TA59CEc-s-U7V88Dteid1oQj1vKdltRcnHt6JZ-g5EvtPZ2VJ5oRLjST31KlQVvClWypoWmOcJiHeNT_c5Wt9DiYO3IJIfMoRb_yRtDI5_OoVqvQD8Fee8lQQNAYjUZYLBZIJpPaAVaUpe-8EDSKxSJ2ux0Y9Ho9Ta1gT8ktTTXF8Xgc4_EYkARBANu2tQNMpbeVo42muFarYT_D4RCxWEwzwEZ6WxVN80QiAdd1sR9eDpRKJc0AxN6Moynqdrs4lslkAl4ezQBNsuanFuRyOfi-j79Sr9c1A8xVA_T7fZjieR64lqoBmpq1M0S7lg5ZFcXaGaJey4p5DWXttBkMBieuoeFGlE6nsVwucU7K5bL5RmS6FRcKha_Va7fbKp1Ox_SgYs-fZGlF-CcBZQyP4zCx14GkyCOEzKVUJF_JIvFSGv5refQPJhE6mkXicBr68fwTVWYuwEfZOWcAAAAASUVORK5CYII.png",
+      "snippet": "Calculate terminal leave dates, pay, and benefits. Compare taking leave vs selling back to maximize transition income.",
+      "snippet_highlighted_words": [
+        "Calculate terminal leave dates, pay, and benefits"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculate terminal leave dates, pay, and benefits. Compare taking leave vs selling back to maximize transition income.",
+          "source_info_link": "https://www.militarytransitiontoolkit.com/calculator/terminal-leave",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABo0lEQVR4Ac3XAWcCcRgG8Au2PkGxJoCyDgj6BgnM1AAEkAB9g4umJIDtU1T6HAWmL5A7LBLchUqePea10Wr_3urmHn6Q3t435727v6XMDdn0TA59CEc-s-U7V88Dteid1oQj1vKdltRcnHt6JZ-g5EvtPZ2VJ5oRLjST31KlQVvClWypoWmOcJiHeNT_c5Wt9DiYO3IJIfMoRb_yRtDI5_OoVqvQD8Fee8lQQNAYjUZYLBZIJpPaAVaUpe-8EDSKxSJ2ux0Y9Ho9Ta1gT8ktTTXF8Xgc4_EYkARBANu2tQNMpbeVo42muFarYT_D4RCxWEwzwEZ6WxVN80QiAdd1sR9eDpRKJc0AxN6Moynqdrs4lslkAl4ezQBNsuanFuRyOfi-j79Sr9c1A8xVA_T7fZjieR64lqoBmpq1M0S7lg5ZFcXaGaJey4p5DWXttBkMBieuoeFGlE6nsVwucU7K5bL5RmS6FRcKha_Va7fbKp1Ox_SgYs-fZGlF-CcBZQyP4zCx14GkyCOEzKVUJF_JIvFSGv5refQPJhE6mkXicBr68fwTVWYuwEfZOWcAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarytransitiontoolkit.com/calculator/terminal-leave&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarytransitiontoolkit.com%2Fcalculator%2Fterminal-leave",
+      "source": "Military Transition Toolkit"
+    },
+    {
+      "position": 3,
+      "title": "Terminal Leave Calculator",
+      "link": "https://mountainhomefss.com/wp-content/uploads/2024/09/Terminal-Leave-Calculator.xlsx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mountainhomefss.com/wp-content/uploads/2024/09/Terminal-Leave-Calculator.xlsx&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQFnoECBoQAQ",
+      "displayed_link": "https://mountainhomefss.com › uploads › 2024/09",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEVHcEyur7Gtr7Ktr7KwsLK2tbOtr7KtrrGtr7Kur7KrrbGtr7KTn6yur7Ktr7Ktr7Ktr7IAUZoAUZsAUZsAT5qtr7IAUJkKUpsBUpsAUpsAUJueprCys7M6aKBMc6IIe-lyAAAAH3RSTlMAQML_KTCNXMxUGWULnnbZsDxtn0_mGcn_8f_9__9HP8HTQwAAAPxJREFUeAGVkQWyhDAQBSe8BHeHL_c_5s7gTm2XIN0Qo29Rb4H1FkA_ewP7OXCA1-B5FgqA--Q9CP5tYFtjcRsECBwwzl0Qsos4iOX-KkgUIgk89ia2InMM4CRmMwcX6XEObpiw99YRjxub6t1GAMkh8PXmB6Su9tUzIVGY5UVJVAHB0ddlXjQtUxClQEWCDsVkbDo2fbv6cdMdTfUoVxoalqPFq2Ul3C0-YF2Nh7Y9u3LQfaMq9hENxNtg-oPoyizbGdFCMUxStEO0BLAUjeimZ__zm7BeCCBUrpsAv389-0jTjhgLEvzTGSeyksRNo9h0bUaPtOWzD3P6ng9CUA7qn5H_7AAAAABJRU5ErkJggg.png",
+      "snippet": "Military members wishing to estimate their terminal leave dates in conjunction with separation or retirement. This is an estimate only, please see your local ...",
+      "snippet_highlighted_words": [
+        "estimate their terminal leave dates"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military members wishing to estimate their terminal leave dates in conjunction with separation or retirement. This is an estimate only, please see your local ...",
+          "source_info_link": "https://mountainhomefss.com/wp-content/uploads/2024/09/Terminal-Leave-Calculator.xlsx",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEVHcEyur7Gtr7Ktr7KwsLK2tbOtr7KtrrGtr7Kur7KrrbGtr7KTn6yur7Ktr7Ktr7Ktr7IAUZoAUZsAUZsAT5qtr7IAUJkKUpsBUpsAUpsAUJueprCys7M6aKBMc6IIe-lyAAAAH3RSTlMAQML_KTCNXMxUGWULnnbZsDxtn0_mGcn_8f_9__9HP8HTQwAAAPxJREFUeAGVkQWyhDAQBSe8BHeHL_c_5s7gTm2XIN0Qo29Rb4H1FkA_ewP7OXCA1-B5FgqA--Q9CP5tYFtjcRsECBwwzl0Qsos4iOX-KkgUIgk89ia2InMM4CRmMwcX6XEObpiw99YRjxub6t1GAMkh8PXmB6Su9tUzIVGY5UVJVAHB0ddlXjQtUxClQEWCDsVkbDo2fbv6cdMdTfUoVxoalqPFq2Ul3C0-YF2Nh7Y9u3LQfaMq9hENxNtg-oPoyizbGdFCMUxStEO0BLAUjeimZ__zm7BeCCBUrpsAv389-0jTjhgLEvzTGSeyksRNo9h0bUaPtOWzD3P6ng9CUA7qn5H_7AAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://mountainhomefss.com/wp-content/uploads/2024/09/Terminal-Leave-Calculator.xlsx&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmountainhomefss.com%2Fwp-content%2Fuploads%2F2024%2F09%2FTerminal-Leave-Calculator.xlsx",
+      "source": "366th Force Support Squadron",
+      "read_more_link": "https://mountainhomefss.com/wp-content/uploads/2024/09/Terminal-Leave-Calculator.xlsx#:~:text=Military%20members%20wishing%20to%20estimate,for%20assistance%20with%20actual%20authorization."
+    },
+    {
+      "position": 4,
+      "title": "Final Pay Calculator",
+      "link": "https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQFnoECBgQAQ",
+      "displayed_link": "https://militarypay.defense.gov › Calculators › Final-Pay-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "This calculator is designed to assist Service members in projecting their pension under the Final Pay retirement plan. I am in the. Active Component. Reserve ...",
+      "snippet_highlighted_words": [
+        "calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator is designed to assist Service members in projecting their pension under the Final Pay retirement plan. I am in the. Active Component. Reserve ...",
+          "source_info_link": "https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2FCalculators%2FFinal-Pay-Calculator%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/#:~:text=This%20calculator%20is%20designed%20to,Reserve%20Component"
+    },
+    {
+      "position": 5,
+      "title": "Terminal Leave Calculation : r/AirForce",
+      "link": "https://www.reddit.com/r/AirForce/comments/1fj0vjr/terminal_leave_calculation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/AirForce/comments/1fj0vjr/terminal_leave_calculation/&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQFnoECCAQAQ",
+      "displayed_link": "7 comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "You earn 2.5 days per month. You have x now, you will have x in n months. The ETS balance on your LES shows what you will earn between now and separation.",
+      "snippet_highlighted_words": [
+        "balance"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Leave calculator/planner? : r/army",
+            "link": "https://www.reddit.com/r/army/comments/1ks1p59/leave_calculatorplanner/",
+            "answer_count": 7,
+            "date": "May 21, 2025"
+          },
+          {
+            "title": "Terminal Leave Calculator? : r/AirForce",
+            "link": "https://www.reddit.com/r/AirForce/comments/48l9uu/terminal_leave_calculator/",
+            "answer_count": 15,
+            "date": "Mar 2, 2016"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "You earn 2.5 days per month. You have x now, you will have x in n months. The ETS balance on your LES shows what you will earn between now and separation.",
+          "source_info_link": "https://www.reddit.com/r/AirForce/comments/1fj0vjr/terminal_leave_calculation/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/AirForce/comments/1fj0vjr/terminal_leave_calculation/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FAirForce%2Fcomments%2F1fj0vjr%2Fterminal_leave_calculation%2F",
+      "source": "Reddit · r/AirForce",
+      "read_more_link": "https://www.reddit.com/r/AirForce/comments/1fj0vjr/terminal_leave_calculation/#:~:text=You%20earn%202.5%20days%20per,earn%20between%20now%20and%20separation."
+    },
+    {
+      "position": 6,
+      "title": "Terminal Leave Calculator: Sell It vs. Use It (Ultimate Guide)",
+      "link": "https://milversity.com/blog/terminal-leave-calculator-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://milversity.com/blog/terminal-leave-calculator-guide/&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQFnoECBkQAQ",
+      "displayed_link": "https://milversity.com › blog › terminal-leave-calculator-...",
+      "snippet": "In order to calculate your terminal leave, find the block labeled ETS BAL on your Leave and Earnings Statement (LES). This block estimates how much leave you ...",
+      "snippet_highlighted_words": [
+        "calculate",
+        "terminal leave",
+        "find the block labeled ETS BAL on your Leave and Earnings Statement (LES)"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What is Terminal Leave?",
+            "link": "https://milversity.com/blog/terminal-leave-calculator-guide/#tab-con-10"
+          },
+          {
+            "title": "Terminal Leave Calculator",
+            "link": "https://milversity.com/blog/terminal-leave-calculator-guide/#tab-con-2"
+          },
+          {
+            "title": "How is Military Leave Sell...",
+            "link": "https://milversity.com/blog/terminal-leave-calculator-guide/#tab-con-3"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "In order to calculate your terminal leave, find the block labeled ETS BAL on your Leave and Earnings Statement (LES). This block estimates how much leave you ...",
+          "source_info_link": "https://milversity.com/blog/terminal-leave-calculator-guide/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://milversity.com/blog/terminal-leave-calculator-guide/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilversity.com%2Fblog%2Fterminal-leave-calculator-guide%2F",
+      "source": "Milversity",
+      "read_more_link": "https://milversity.com/blog/terminal-leave-calculator-guide/#:~:text=In%20order%20to%20calculate%20your,at%20your%20date%20of%20separation."
+    },
+    {
+      "position": 7,
+      "title": "ETS - UQR Calculator",
+      "link": "https://home.army.mil/drum/download_file/view/3c7e6128-1a79-4404-b6d6-331955d85b7e/2553",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://home.army.mil/drum/download_file/view/3c7e6128-1a79-4404-b6d6-331955d85b7e/2553&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQFnoECB8QAQ",
+      "displayed_link": "https://home.army.mil › download_file › view",
+      "favicon": "https://serpapi.com/searches/6a3a2205f8cc7801039b6093/images/ZEIe8XgSWUwN1pmk0f1ZV2FoKnr_PiyZ-Za1Gs2-hCo.png",
+      "snippet": "Career Skills Program ETS/UQR Planning Calculator. 2, Rank / Name (Last Name, First Name):. 3. 4, Separation Date, Eligibility date, Clearing, Terminal Leave ...",
+      "snippet_highlighted_words": [
+        "Calculator",
+        "Terminal Leave"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Career Skills Program ETS/UQR Planning Calculator. 2, Rank / Name (Last Name, First Name):. 3. 4, Separation Date, Eligibility date, Clearing, Terminal Leave ...",
+          "source_info_link": "https://home.army.mil/drum/download_file/view/3c7e6128-1a79-4404-b6d6-331955d85b7e/2553",
+          "icon": "https://serpapi.com/searches/6a3a2205f8cc7801039b6093/images/ZEIe8XgSWUwN1pmk0f1ZVzVIGVaPOtZDIQL-FBLceYclwemUgJ1zhZN2eBJ2ZL-p.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://home.army.mil/drum/download_file/view/3c7e6128-1a79-4404-b6d6-331955d85b7e/2553&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhome.army.mil%2Fdrum%2Fdownload_file%2Fview%2F3c7e6128-1a79-4404-b6d6-331955d85b7e%2F2553",
+      "source": "Army.mil",
+      "read_more_link": "https://home.army.mil/drum/download_file/view/3c7e6128-1a79-4404-b6d6-331955d85b7e/2553#:~:text=Career%20Skills%20Program%20ETS%2FUQR%20Planning,Terminal%20Leave%20Days"
+    },
+    {
+      "position": 8,
+      "title": "Types of Military Leave & How It Works",
+      "link": "https://www.militaryonesource.mil/military-basics/new-to-the-military/military-leave-and-how-it-works/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militaryonesource.mil/military-basics/new-to-the-military/military-leave-and-how-it-works/&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQFnoECDoQAQ",
+      "displayed_link": "https://www.militaryonesource.mil › new-to-the-military",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png",
+      "date": "Jun 9, 2026",
+      "snippet": "What is terminal leave? Terminal leave is regular, chargeable leave used immediately prior to separation or retirement from the military.",
+      "snippet_highlighted_words": [
+        "regular, chargeable leave"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What is terminal leave? Terminal leave is regular, chargeable leave used immediately prior to separation or retirement from the military.",
+          "source_info_link": "https://www.militaryonesource.mil/military-basics/new-to-the-military/military-leave-and-how-it-works/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militaryonesource.mil/military-basics/new-to-the-military/military-leave-and-how-it-works/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militaryonesource.mil%2Fmilitary-basics%2Fnew-to-the-military%2Fmilitary-leave-and-how-it-works%2F",
+      "source": "Military OneSource (.mil)",
+      "read_more_link": "https://www.militaryonesource.mil/military-basics/new-to-the-military/military-leave-and-how-it-works/#:~:text=What%20is%20terminal%20leave%3F"
+    },
+    {
+      "position": 9,
+      "title": "Calculators",
+      "link": "https://militarypay.defense.gov/calculators/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/calculators/&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQFnoECDwQAQ",
+      "displayed_link": "https://militarypay.defense.gov › calculators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "Medical Final Pay Calculator: This calculator estimates medical separation or retirement benefits based on DoD disability percentage or years of service ...",
+      "snippet_highlighted_words": [
+        "Calculator",
+        "calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Medical Final Pay Calculator: This calculator estimates medical separation or retirement benefits based on DoD disability percentage or years of service ...",
+          "source_info_link": "https://militarypay.defense.gov/calculators/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/calculators/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2Fcalculators%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/calculators/#:~:text=Medical%20Final%20Pay%20Calculator%3A%20This,prior%20to%20September%208%2C%201980."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military terminal leave balance calculator usa",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+terminal+leave+balance+calculator+usa&sa=X&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+terminal+leave+balance+calculator+usa"
+    },
+    {
+      "block_position": 1,
+      "query": "Military terminal leave balance calculator army",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+terminal+leave+balance+calculator+army&sa=X&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+terminal+leave+balance+calculator+army"
+    },
+    {
+      "block_position": 1,
+      "query": "Military terminal leave balance calculator 2021",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+terminal+leave+balance+calculator+2021&sa=X&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+terminal+leave+balance+calculator+2021"
+    },
+    {
+      "block_position": 1,
+      "query": "Military Terminal leave Calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+Terminal+leave+Calculator&sa=X&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+Terminal+leave+Calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Army terminal leave calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Army+terminal+leave+calculator&sa=X&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Army+terminal+leave+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Military leave Calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+leave+Calculator&sa=X&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+leave+Calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Terminal leave Calculator air force",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Terminal+leave+Calculator+air+force&sa=X&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Terminal+leave+Calculator+air+force"
+    },
+    {
+      "block_position": 1,
+      "query": "Military retirement calculator monthly",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+retirement+calculator+monthly&sa=X&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+retirement+calculator+monthly"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+terminal+leave+balance+calculator&sca_esv=c510ba4e6526f391&ei=BiI6ar-eJ-mv5NoPiPn4yAU&start=10&sa=N&sstk=AU9db-AfoffEB2NsV6Jwb9pZI_jaoXtXmBN7Z5ukmOItuEfpmQjn9NKOZWXktlMk4hK7ifQMMfnon254GjsZQR1UiMtmPEdeveFp1Q&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ8NMDegQILxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+terminal+leave+balance+calculator&sca_esv=c510ba4e6526f391&ei=BiI6ar-eJ-mv5NoPiPn4yAU&start=10&sa=N&sstk=AU9db-AfoffEB2NsV6Jwb9pZI_jaoXtXmBN7Z5ukmOItuEfpmQjn9NKOZWXktlMk4hK7ifQMMfnon254GjsZQR1UiMtmPEdeveFp1Q&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ8tMDegQILxAE",
+      "3": "https://www.google.com/search?q=military+terminal+leave+balance+calculator&sca_esv=c510ba4e6526f391&ei=BiI6ar-eJ-mv5NoPiPn4yAU&start=20&sa=N&sstk=AU9db-AfoffEB2NsV6Jwb9pZI_jaoXtXmBN7Z5ukmOItuEfpmQjn9NKOZWXktlMk4hK7ifQMMfnon254GjsZQR1UiMtmPEdeveFp1Q&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ8tMDegQILxAG",
+      "4": "https://www.google.com/search?q=military+terminal+leave+balance+calculator&sca_esv=c510ba4e6526f391&ei=BiI6ar-eJ-mv5NoPiPn4yAU&start=30&sa=N&sstk=AU9db-AfoffEB2NsV6Jwb9pZI_jaoXtXmBN7Z5ukmOItuEfpmQjn9NKOZWXktlMk4hK7ifQMMfnon254GjsZQR1UiMtmPEdeveFp1Q&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ8tMDegQILxAI",
+      "5": "https://www.google.com/search?q=military+terminal+leave+balance+calculator&sca_esv=c510ba4e6526f391&ei=BiI6ar-eJ-mv5NoPiPn4yAU&start=40&sa=N&sstk=AU9db-AfoffEB2NsV6Jwb9pZI_jaoXtXmBN7Z5ukmOItuEfpmQjn9NKOZWXktlMk4hK7ifQMMfnon254GjsZQR1UiMtmPEdeveFp1Q&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ8tMDegQILxAK",
+      "6": "https://www.google.com/search?q=military+terminal+leave+balance+calculator&sca_esv=c510ba4e6526f391&ei=BiI6ar-eJ-mv5NoPiPn4yAU&start=50&sa=N&sstk=AU9db-AfoffEB2NsV6Jwb9pZI_jaoXtXmBN7Z5ukmOItuEfpmQjn9NKOZWXktlMk4hK7ifQMMfnon254GjsZQR1UiMtmPEdeveFp1Q&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ8tMDegQILxAM",
+      "7": "https://www.google.com/search?q=military+terminal+leave+balance+calculator&sca_esv=c510ba4e6526f391&ei=BiI6ar-eJ-mv5NoPiPn4yAU&start=60&sa=N&sstk=AU9db-AfoffEB2NsV6Jwb9pZI_jaoXtXmBN7Z5ukmOItuEfpmQjn9NKOZWXktlMk4hK7ifQMMfnon254GjsZQR1UiMtmPEdeveFp1Q&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ8tMDegQILxAO",
+      "8": "https://www.google.com/search?q=military+terminal+leave+balance+calculator&sca_esv=c510ba4e6526f391&ei=BiI6ar-eJ-mv5NoPiPn4yAU&start=70&sa=N&sstk=AU9db-AfoffEB2NsV6Jwb9pZI_jaoXtXmBN7Z5ukmOItuEfpmQjn9NKOZWXktlMk4hK7ifQMMfnon254GjsZQR1UiMtmPEdeveFp1Q&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ8tMDegQILxAQ",
+      "9": "https://www.google.com/search?q=military+terminal+leave+balance+calculator&sca_esv=c510ba4e6526f391&ei=BiI6ar-eJ-mv5NoPiPn4yAU&start=80&sa=N&sstk=AU9db-AfoffEB2NsV6Jwb9pZI_jaoXtXmBN7Z5ukmOItuEfpmQjn9NKOZWXktlMk4hK7ifQMMfnon254GjsZQR1UiMtmPEdeveFp1Q&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ8tMDegQILxAS",
+      "10": "https://www.google.com/search?q=military+terminal+leave+balance+calculator&sca_esv=c510ba4e6526f391&ei=BiI6ar-eJ-mv5NoPiPn4yAU&start=90&sa=N&sstk=AU9db-AfoffEB2NsV6Jwb9pZI_jaoXtXmBN7Z5ukmOItuEfpmQjn9NKOZWXktlMk4hK7ifQMMfnon254GjsZQR1UiMtmPEdeveFp1Q&ved=2ahUKEwi_ucfN2JyVAxXpF1kFHYg8HlkQ8tMDegQILxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+terminal+leave+balance+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+terminal+leave+balance+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+terminal+leave+balance+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+terminal+leave+balance+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+terminal+leave+balance+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+terminal+leave+balance+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+terminal+leave+balance+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+terminal+leave+balance+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+terminal+leave+balance+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+terminal+leave+balance+calculator&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+terminal+leave+balance+calculator&start=90"
+    }
+  }
+}

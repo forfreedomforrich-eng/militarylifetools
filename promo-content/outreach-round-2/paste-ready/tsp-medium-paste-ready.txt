@@ -1,0 +1,48 @@
+TITLE: TSP Withdrawals in 2026: How to Make Your Balance Last Without Running Out of Money
+SUBTITLE: A practical guide to TSP withdrawal strategy, the 4 percent rule, and the tax traps most retirees do not see coming.
+
+For Medium's military, federal, and personal-finance readers — a plain-language walkthrough of how to actually withdraw from your Thrift Savings Plan without making costly mistakes.
+
+The TSP is one of the best retirement accounts in the country. The fees are low, the funds are solid, and the agency match for service members under BRS is generous. But the part of the TSP that nobody talks about — the withdrawal phase — is where most people make the biggest mistakes of their financial lives.
+
+After decades of building the balance, retirees often face the same set of questions: How much can I withdraw each month without running out? How will taxes affect my take-home? Should I take monthly installments or roll the balance somewhere else? And the most important one: how long is the money actually going to last?
+
+THE 4 PERCENT RULE, AND WHY IT IS JUST A STARTING POINT
+
+The 4 percent rule is the most popular guideline for retirement withdrawals. The idea is that you withdraw 4 percent of your balance in the first year, then adjust that dollar amount for inflation every year after. For a $300,000 balance, that is $12,000 in year one, or $1,000 per month.
+
+For a $500,000 balance, it is $20,000 per year, or about $1,667 per month. The math is simple, and the rule has held up reasonably well across many historical market scenarios.
+
+But the 4 percent rule was designed for a generic retiree with no other income. Most TSP retirees have other income streams — military pension, Social Security, VA disability, a part-time job, or a spouse's income. That changes the math significantly.
+
+A retiree who withdraws 4 percent on top of a $30,000-per-year military pension is in a much stronger position than a retiree who relies entirely on TSP withdrawals. A TSP withdrawal calculator helps put this in perspective by comparing different scenarios side by side.
+
+THE TAX TRAP NOBODY SEES COMING
+
+TSP withdrawals are taxed as ordinary income. For traditional (pre-tax) balances, every dollar you withdraw is added to your taxable income for the year.
+
+That matters more than most retirees realize. A retiree who withdraws $3,000 per month from a traditional TSP balance is adding $36,000 per year to their taxable income. Depending on their other income, that can push them into a higher tax bracket, increase the taxable portion of their Social Security, and raise their Medicare Part B and Part D premiums.
+
+The result is that the retiree's marginal tax rate on the TSP withdrawal can easily climb into the 22 to 28 percent range, even if their "headline" tax bracket is lower. A TSP withdrawal calculator factors this in by estimating federal tax owed on the withdrawal, which gives a more realistic picture of monthly take-home.
+
+ROTH VS TRADITIONAL
+
+Roth TSP withdrawals, when qualified, are tax-free. Traditional TSP withdrawals are fully taxable. This makes Roth TSP balances particularly valuable in retirement, because they do not push the retiree into a higher tax bracket.
+
+For retirees who have both traditional and Roth balances, the optimal strategy is often to draw from the traditional balance first (when tax rates are lower) and let the Roth balance grow. But every situation is different, and the right answer depends on expected future tax rates, expected income, and personal preferences.
+
+A TSP withdrawal calculator helps by letting you compare the after-tax income from a traditional balance versus a Roth balance under the same withdrawal amount.
+
+HOW LONG WILL THE MONEY LAST?
+
+The most important question in TSP withdrawal planning is how long the money will last. The answer depends on three things: the starting balance, the withdrawal rate, and the investment growth rate during retirement.
+
+A TSP withdrawal calculator typically assumes a conservative growth rate (often 4 to 6 percent annually) and a steady withdrawal amount, then estimates how many years the balance will last under those assumptions. The result is a range, not a single number, but it is enough to help the retiree decide whether the plan is realistic.
+
+For most retirees, the takeaway is that a withdrawal rate somewhere between 3.5 and 4.5 percent of the starting balance is sustainable, while anything above 5 percent meaningfully increases the risk of running out of money before the end of life.
+
+Originally published on Military Life Tools.
+
+👉 https://militarylifetools.com/tsp-withdrawal-calculator/
+
+Tags: TSP, Retirement, Withdrawal, Thrift Savings Plan, 2026

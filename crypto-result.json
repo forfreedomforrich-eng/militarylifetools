@@ -1,0 +1,444 @@
+{
+  "search_metadata": {
+    "id": "6a3a1741abe7ece4341acdab",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vuczvHXl7tF_bYdORg180A/6a3a1741abe7ece4341acdab.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/vuczvHXl7tF_bYdORg180A/6a3a1741abe7ece4341acdab.json_with_pixel_position",
+    "created_at": "2026-06-23 05:18:57 UTC",
+    "processed_at": "2026-06-23 05:18:57 UTC",
+    "google_url": "https://www.google.com/search?q=crypto+mining+profitability+calculator&oq=crypto+mining+profitability+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/vuczvHXl7tF_bYdORg180A/6a3a1741abe7ece4341acdab.html",
+    "total_time_taken": 1.1
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "crypto mining profitability calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "crypto mining profitability calculator",
+    "total_results": 126,
+    "time_taken_displayed": 0.14,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How profitable is crypto mining?",
+      "type": "ai_overview",
+      "page_token": "Qx8h0nicHdDdbpswGABQ7WV62WCTZlukaBINP0UNlb9gA76ZsGlC4QO7qVcId32XPdWeZlVvz-X5-IsvY__vm2uds2_b1WqaptuzMWd8vtVmWNVv11GvdI2oat1vN9835NdJ78I_YXD_-hAwbq3Yg3fEgKh74jdHYpqx8So6X45JQHlsXd0Fac3xooi0Imk6lUSeKAF5h7FAWQJlCx_Fe03smJfiURXm7sBh86lrvYdF8WqqRzNlZeOz_uecYXARxfxaEplW-fma9ebuWdgw9-YWRNszgkzk0QghRMDRibA9KSqXjAKC_3DlCyYi0stTGVLhsVlG_XQY2LrCwKk4pEXvIGwl8OFAqzKlmv9wTdES3bVM-qkt4gzilzSAJLs-FfII3ErZ4WPOZaT3YmoGs7A8Wlc9zoqnqcAWbk76fefffG3ufp8Gt7UXc_4PG1CENQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Qx8h0nicHdDdbpswGABQ7WV62WCTZlukaBINP0UNlb9gA76ZsGlC4QO7qVcId32XPdWeZlVvz-X5-IsvY__vm2uds2_b1WqaptuzMWd8vtVmWNVv11GvdI2oat1vN9835NdJ78I_YXD_-hAwbq3Yg3fEgKh74jdHYpqx8So6X45JQHlsXd0Fac3xooi0Imk6lUSeKAF5h7FAWQJlCx_Fe03smJfiURXm7sBh86lrvYdF8WqqRzNlZeOz_uecYXARxfxaEplW-fma9ebuWdgw9-YWRNszgkzk0QghRMDRibA9KSqXjAKC_3DlCyYi0stTGVLhsVlG_XQY2LrCwKk4pEXvIGwl8OFAqzKlmv9wTdES3bVM-qkt4gzilzSAJLs-FfII3ErZ4WPOZaT3YmoGs7A8Wlc9zoqnqcAWbk76fefffG3ufp8Gt7UXc_4PG1CENQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlZVNTZaakJHTlZKc1EyUTVUM1EyUlVSVVFVd3RPVTVOVWxKbmJTMUtkMUJEZFhSd1J6WlZNVFZHWTJkQ1NtRkdRVGxZTVdsUGNYSmhiMFZPTTJZNGNVZDRUVU5pU2pNNFNEQm9aVk5KUlZac1VXbGxTV015Y0V4RFFSSVdVVkpqTm1GeWRuRlBMWFZvZFhJNFVHZHlhVmhqVVJvaVFVUnpjamxtVWxkTFFVTmFYMVJoYTA1bVRFMUdOelV5VFVsa2MycFlhM1p0UVEiLCJmY3YiOiIzIiwiZWkiOiJRUmM2YXJ2cU8tdWh1cjhQZ3JpWGNRIiwicWMiOiJDaVpqY25sd2RHOGdiV2x1YVc1bklIQnliMlpwZEdGaWFXeHBkSGtnWTJGc1kzVnNZWFJ2Y2hBQWZWaDE4RDQiLCJxdWVzdGlvbiI6IkhvdyBwcm9maXRhYmxlIGlzIGNyeXB0byBtaW5pbmc/IiwibGsiOiJHaDlvYjNjZ2NISnZabWwwWVdKc1pTQnBjeUJqY25sd2RHOGdiV2x1YVc1biIsImJzIjoiYzQzTk1RdUNRQmpHY1ZyZnFmbVdIaU9vcUVDRmhpYkJpUG9BTlRhYzUta2Q2WjNvUmZqdFF5VGJyUG41OFhfb1JMallGNnJhWnRyeHBKRFFEVVRkVnM2aTFFYWJQQW85TmxQamhtNjA2akxsVXlnbzNxaWFPNGwtbGdnUVg0LW9aSTJVdDFHNFprczFZaE1uUHBiTzVBMVp3UTA0OXY3QjctWFFtek9vSDRqdXRPMUNoVFU1VWlzYmFBZkhIOV9mUlFDYklkWk9XRzJpY01jMjZnLWY5SDQ2ZVFNIiwiaWQiOiJmY19RUmM2YXJ2cU8tdWh1cjhQZ3JpWGNRXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlZVNTZaakJHTlZKc1EyUTVUM1EyUlVSVVFVd3RPVTVOVWxKbmJTMUtkMUJEZFhSd1J6WlZNVFZHWTJkQ1NtRkdRVGxZTVdsUGNYSmhiMFZPTTJZNGNVZDRUVU5pU2pNNFNEQm9aVk5KUlZac1VXbGxTV015Y0V4RFFSSVdVVkpqTm1GeWRuRlBMWFZvZFhJNFVHZHlhVmhqVVJvaVFVUnpjamxtVWxkTFFVTmFYMVJoYTA1bVRFMUdOelV5VFVsa2MycFlhM1p0UVEiLCJmY3YiOiIzIiwiZWkiOiJRUmM2YXJ2cU8tdWh1cjhQZ3JpWGNRIiwicWMiOiJDaVpqY25sd2RHOGdiV2x1YVc1bklIQnliMlpwZEdGaWFXeHBkSGtnWTJGc1kzVnNZWFJ2Y2hBQWZWaDE4RDQiLCJxdWVzdGlvbiI6IkhvdyBwcm9maXRhYmxlIGlzIGNyeXB0byBtaW5pbmc%2FIiwibGsiOiJHaDlvYjNjZ2NISnZabWwwWVdKc1pTQnBjeUJqY25sd2RHOGdiV2x1YVc1biIsImJzIjoiYzQzTk1RdUNRQmpHY1ZyZnFmbVdIaU9vcUVDRmhpYkJpUG9BTlRhYzUta2Q2WjNvUmZqdFF5VGJyUG41OFhfb1JMallGNnJhWnRyeHBKRFFEVVRkVnM2aTFFYWJQQW85TmxQamhtNjA2akxsVXlnbzNxaWFPNGwtbGdnUVg0LW9aSTJVdDFHNFprczFZaE1uUHBiTzVBMVp3UTA0OXY3QjctWFFtek9vSDRqdXRPMUNoVFU1VWlzYmFBZkhIOV9mUlFDYklkWk9XRzJpY01jMjZnLWY5SDQ2ZVFNIiwiaWQiOiJmY19RUmM2YXJ2cU8tdWh1cjhQZ3JpWGNRXzQifQ%3D%3D"
+    },
+    {
+      "question": "How much hashrate to mine 1 BTC per day?",
+      "type": "ai_overview",
+      "page_token": "Vq5kfXicHdBfboIwHADg7DI-agF1m4lZxkQUR5k_aIG-LNgKaAui1j_wtrvsVDvNlp3gS76vb7Wr5c-DLrVuzpPB4Ha79YvDoVDbPj9Ug-zc1nzAM6U2GZeT8ePYeMn51Lk49ttxaa9J09AZoJCqNoxeR1TqUzATywiNFkFkg9-Ve1YXbZioFZeiTGOvFo5YBg7OwRUqtLAMO-UBuu-3UhNuwigyb21qgMulkljSbDvzGkLumqE_C7EjS7jJELYSU9P3eK4YMoacNFXS2WdOlBlR8RHJuYs7cc9mONnsxZp2Xp5Ru0qpCAAth6nRXDdGgQgadtTBJVTPK2KJGiLWgsNqp2RAKt9ME8_k5EmLuDT4vlwzy2tiF4O782xY4DaIGWxMxfw5ONAad7-jECTiQi0v8RXgOCZGOKd1L-fXqdX735x-5pWeNKdD8QsWD4Lv",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Vq5kfXicHdBfboIwHADg7DI-agF1m4lZxkQUR5k_aIG-LNgKaAui1j_wtrvsVDvNlp3gS76vb7Wr5c-DLrVuzpPB4Ha79YvDoVDbPj9Ug-zc1nzAM6U2GZeT8ePYeMn51Lk49ttxaa9J09AZoJCqNoxeR1TqUzATywiNFkFkg9-Ve1YXbZioFZeiTGOvFo5YBg7OwRUqtLAMO-UBuu-3UhNuwigyb21qgMulkljSbDvzGkLumqE_C7EjS7jJELYSU9P3eK4YMoacNFXS2WdOlBlR8RHJuYs7cc9mONnsxZp2Xp5Ru0qpCAAth6nRXDdGgQgadtTBJVTPK2KJGiLWgsNqp2RAKt9ME8_k5EmLuDT4vlwzy2tiF4O782xY4DaIGWxMxfw5ONAad7-jECTiQi0v8RXgOCZGOKd1L-fXqdX735x-5pWeNKdD8QsWD4Lv",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlZVNTZaakJHTlZKc1EyUTVUM1EyUlVSVVFVd3RPVTVOVWxKbmJTMUtkMUJEZFhSd1J6WlZNVFZHWTJkQ1NtRkdRVGxZTVdsUGNYSmhiMFZPTTJZNGNVZDRUVU5pU2pNNFNEQm9aVk5KUlZac1VXbGxTV015Y0V4RFFSSVdVVkpqTm1GeWRuRlBMWFZvZFhJNFVHZHlhVmhqVVJvaVFVUnpjamxtVWxkTFFVTmFYMVJoYTA1bVRFMUdOelV5VFVsa2MycFlhM1p0UVEiLCJmY3YiOiIzIiwiZWkiOiJRUmM2YXJ2cU8tdWh1cjhQZ3JpWGNRIiwicWMiOiJDaVpqY25sd2RHOGdiV2x1YVc1bklIQnliMlpwZEdGaWFXeHBkSGtnWTJGc1kzVnNZWFJ2Y2hBQWZWaDE4RDQiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGhhc2hyYXRlIHRvIG1pbmUgMSBCVEMgcGVyIGRheT8iLCJsayI6IkdpZG9iM2NnYlhWamFDQm9ZWE5vY21GMFpTQjBieUJ0YVc1bElERWdZblJqSUhCbGNpQmtZWGsiLCJicyI6ImM0M05NUXVDUUJqR2NWcmZxZm1XSGlPb3FFQ0ZoaWJCaVBvQU5UYWM1LWtkNlozb1JmanRReVRiclBuNThYX29STGpZRjZyYVp0cnhwSkRRRFVUZFZzNmkxRWFiUEFvOU5sUGpobTYwNmpMbFV5Z28zcWlhTzRsLWxnZ1FYNC1vWkkyVXQxRzRaa3MxWWhNblBwYk81QTFad1EwNDl2N0I3LVhRbXpPb0g0anV0TzFDaFRVNVVpc2JhQWZISDlfZlJRQ2JJZFpPV0cyaWNNYzI2Zy1mOUg0NmVRTSIsImlkIjoiZmNfUVJjNmFydnFPLXVodXI4UGdyaVhjUV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlZVNTZaakJHTlZKc1EyUTVUM1EyUlVSVVFVd3RPVTVOVWxKbmJTMUtkMUJEZFhSd1J6WlZNVFZHWTJkQ1NtRkdRVGxZTVdsUGNYSmhiMFZPTTJZNGNVZDRUVU5pU2pNNFNEQm9aVk5KUlZac1VXbGxTV015Y0V4RFFSSVdVVkpqTm1GeWRuRlBMWFZvZFhJNFVHZHlhVmhqVVJvaVFVUnpjamxtVWxkTFFVTmFYMVJoYTA1bVRFMUdOelV5VFVsa2MycFlhM1p0UVEiLCJmY3YiOiIzIiwiZWkiOiJRUmM2YXJ2cU8tdWh1cjhQZ3JpWGNRIiwicWMiOiJDaVpqY25sd2RHOGdiV2x1YVc1bklIQnliMlpwZEdGaWFXeHBkSGtnWTJGc1kzVnNZWFJ2Y2hBQWZWaDE4RDQiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGhhc2hyYXRlIHRvIG1pbmUgMSBCVEMgcGVyIGRheT8iLCJsayI6IkdpZG9iM2NnYlhWamFDQm9ZWE5vY21GMFpTQjBieUJ0YVc1bElERWdZblJqSUhCbGNpQmtZWGsiLCJicyI6ImM0M05NUXVDUUJqR2NWcmZxZm1XSGlPb3FFQ0ZoaWJCaVBvQU5UYWM1LWtkNlozb1JmanRReVRiclBuNThYX29STGpZRjZyYVp0cnhwSkRRRFVUZFZzNmkxRWFiUEFvOU5sUGpobTYwNmpMbFV5Z28zcWlhTzRsLWxnZ1FYNC1vWkkyVXQxRzRaa3MxWWhNblBwYk81QTFad1EwNDl2N0I3LVhRbXpPb0g0anV0TzFDaFRVNVVpc2JhQWZISDlfZlJRQ2JJZFpPV0cyaWNNYzI2Zy1mOUg0NmVRTSIsImlkIjoiZmNfUVJjNmFydnFPLXVodXI4UGdyaVhjUV80In0%3D"
+    },
+    {
+      "question": "How much can a 5090 mine per day?",
+      "type": "ai_overview",
+      "page_token": "Z59Rk3icHdDbboIwAIDh7GW81BbUiYlZwqAoERyFFtqbpRSlcp7ikN3tXfZUe5odLv_ku_o_v6pzU34_9Krvu-t6NhuGYZq3bV4dp7KtZ-I6NnImRVWlQpbr5eMSPp3kxr7Z5vPbzgxI11ELg5B22hH5XIDVIOxK9yi90JI2rHGDqFR3UpD-WFAHb3FMIvcQErVPE1NQiOcsyRqWIJvHsCVbt8Oamge6qTMAFj6QY4YMwUpj9PUcEgsTCiokt9yJbWyFHzTYJ5gJx4ApRCEnC--vQ8D9oEAsrYdBEvfF02yQACOigAJGkEidOxUABX5Z3RLd33klsiKYQ9mou2dj01Yck9rTWOJqkqz6LFZQFirgutvFjo-ds2virT8e4l9H-jiIh5FTWmTOQmUOX4a1Qb0ELQWo5sTKzMlJvm_0yf_Nzeup7tfdpc1_AO5HfsQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Z59Rk3icHdDbboIwAIDh7GW81BbUiYlZwqAoERyFFtqbpRSlcp7ikN3tXfZUe5odLv_ku_o_v6pzU34_9Krvu-t6NhuGYZq3bV4dp7KtZ-I6NnImRVWlQpbr5eMSPp3kxr7Z5vPbzgxI11ELg5B22hH5XIDVIOxK9yi90JI2rHGDqFR3UpD-WFAHb3FMIvcQErVPE1NQiOcsyRqWIJvHsCVbt8Oamge6qTMAFj6QY4YMwUpj9PUcEgsTCiokt9yJbWyFHzTYJ5gJx4ApRCEnC--vQ8D9oEAsrYdBEvfF02yQACOigAJGkEidOxUABX5Z3RLd33klsiKYQ9mou2dj01Yck9rTWOJqkqz6LFZQFirgutvFjo-ds2virT8e4l9H-jiIh5FTWmTOQmUOX4a1Qb0ELQWo5sTKzMlJvm_0yf_Nzeup7tfdpc1_AO5HfsQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlZVNTZaakJHTlZKc1EyUTVUM1EyUlVSVVFVd3RPVTVOVWxKbmJTMUtkMUJEZFhSd1J6WlZNVFZHWTJkQ1NtRkdRVGxZTVdsUGNYSmhiMFZPTTJZNGNVZDRUVU5pU2pNNFNEQm9aVk5KUlZac1VXbGxTV015Y0V4RFFSSVdVVkpqTm1GeWRuRlBMWFZvZFhJNFVHZHlhVmhqVVJvaVFVUnpjamxtVWxkTFFVTmFYMVJoYTA1bVRFMUdOelV5VFVsa2MycFlhM1p0UVEiLCJmY3YiOiIzIiwiZWkiOiJRUmM2YXJ2cU8tdWh1cjhQZ3JpWGNRIiwicWMiOiJDaVpqY25sd2RHOGdiV2x1YVc1bklIQnliMlpwZEdGaWFXeHBkSGtnWTJGc1kzVnNZWFJ2Y2hBQWZWaDE4RDQiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGNhbiBhIDUwOTAgbWluZSBwZXIgZGF5PyIsImxrIjoiR2lCb2IzY2diWFZqYUNCallXNGdZU0ExTURrd0lHMXBibVVnY0dWeUlHUmhlUSIsImJzIjoiYzQzTk1RdUNRQmpHY1ZyZnFmbVdIaU9vcUVDRmhpYkJpUG9BTlRhYzUta2Q2WjNvUmZqdFF5VGJyUG41OFhfb1JMallGNnJhWnRyeHBKRFFEVVRkVnM2aTFFYWJQQW85TmxQamhtNjA2akxsVXlnbzNxaWFPNGwtbGdnUVg0LW9aSTJVdDFHNFprczFZaE1uUHBiTzVBMVp3UTA0OXY3QjctWFFtek9vSDRqdXRPMUNoVFU1VWlzYmFBZkhIOV9mUlFDYklkWk9XRzJpY01jMjZnLWY5SDQ2ZVFNIiwiaWQiOiJmY19RUmM2YXJ2cU8tdWh1cjhQZ3JpWGNRXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlZVNTZaakJHTlZKc1EyUTVUM1EyUlVSVVFVd3RPVTVOVWxKbmJTMUtkMUJEZFhSd1J6WlZNVFZHWTJkQ1NtRkdRVGxZTVdsUGNYSmhiMFZPTTJZNGNVZDRUVU5pU2pNNFNEQm9aVk5KUlZac1VXbGxTV015Y0V4RFFSSVdVVkpqTm1GeWRuRlBMWFZvZFhJNFVHZHlhVmhqVVJvaVFVUnpjamxtVWxkTFFVTmFYMVJoYTA1bVRFMUdOelV5VFVsa2MycFlhM1p0UVEiLCJmY3YiOiIzIiwiZWkiOiJRUmM2YXJ2cU8tdWh1cjhQZ3JpWGNRIiwicWMiOiJDaVpqY25sd2RHOGdiV2x1YVc1bklIQnliMlpwZEdGaWFXeHBkSGtnWTJGc1kzVnNZWFJ2Y2hBQWZWaDE4RDQiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGNhbiBhIDUwOTAgbWluZSBwZXIgZGF5PyIsImxrIjoiR2lCb2IzY2diWFZqYUNCallXNGdZU0ExTURrd0lHMXBibVVnY0dWeUlHUmhlUSIsImJzIjoiYzQzTk1RdUNRQmpHY1ZyZnFmbVdIaU9vcUVDRmhpYkJpUG9BTlRhYzUta2Q2WjNvUmZqdFF5VGJyUG41OFhfb1JMallGNnJhWnRyeHBKRFFEVVRkVnM2aTFFYWJQQW85TmxQamhtNjA2akxsVXlnbzNxaWFPNGwtbGdnUVg0LW9aSTJVdDFHNFprczFZaE1uUHBiTzVBMVp3UTA0OXY3QjctWFFtek9vSDRqdXRPMUNoVFU1VWlzYmFBZkhIOV9mUlFDYklkWk9XRzJpY01jMjZnLWY5SDQ2ZVFNIiwiaWQiOiJmY19RUmM2YXJ2cU8tdWh1cjhQZ3JpWGNRXzQifQ%3D%3D"
+    },
+    {
+      "question": "How long does it take to mine $1 of Bitcoin?",
+      "type": "ai_overview",
+      "page_token": "wqYvynicHdBLUoMwGADg8TIuLSHWR2c6zqAE7FiQnzwgG4cmpbQEiBqldOddPJWn0fEA3-b7-jb7vv05c41z9n0xm43jeLEbhp3ZXqihm1XvU69mqjJmU6l2cXV9he5qtQw_wuD-9THImLX8Abz8pFf5ifs0AgQtlxIlLEPJg-phvm2P823ExypyIo0cemIJ2cZkLjt9WbWoFsTAE330tecuIYaamSZYI203eBg33s4XcfL858s0bkiO-FR4jZd1Lk0F2QPmVc4IrZg3ld7tnOIA1rEtREgYhLLfEG0pJm80dECJxlAMkwglrE1zDwx4ciJC9SUCY1pNJWIHKWkvcdhIYN3aL4uVr9iN06JB6tBkEq-siBKI9qsA4mRKhYRsj1xeBFl50C1w88o62zHhOh0xV2IecnHsz2v1ucTn_5vLl7pzC_s27H4BqmWBVw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wqYvynicHdBLUoMwGADg8TIuLSHWR2c6zqAE7FiQnzwgG4cmpbQEiBqldOddPJWn0fEA3-b7-jb7vv05c41z9n0xm43jeLEbhp3ZXqihm1XvU69mqjJmU6l2cXV9he5qtQw_wuD-9THImLX8Abz8pFf5ifs0AgQtlxIlLEPJg-phvm2P823ExypyIo0cemIJ2cZkLjt9WbWoFsTAE330tecuIYaamSZYI203eBg33s4XcfL858s0bkiO-FR4jZd1Lk0F2QPmVc4IrZg3ld7tnOIA1rEtREgYhLLfEG0pJm80dECJxlAMkwglrE1zDwx4ciJC9SUCY1pNJWIHKWkvcdhIYN3aL4uVr9iN06JB6tBkEq-siBKI9qsA4mRKhYRsj1xeBFl50C1w88o62zHhOh0xV2IecnHsz2v1ucTn_5vLl7pzC_s27H4BqmWBVw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlZVNTZaakJHTlZKc1EyUTVUM1EyUlVSVVFVd3RPVTVOVWxKbmJTMUtkMUJEZFhSd1J6WlZNVFZHWTJkQ1NtRkdRVGxZTVdsUGNYSmhiMFZPTTJZNGNVZDRUVU5pU2pNNFNEQm9aVk5KUlZac1VXbGxTV015Y0V4RFFSSVdVVkpqTm1GeWRuRlBMWFZvZFhJNFVHZHlhVmhqVVJvaVFVUnpjamxtVWxkTFFVTmFYMVJoYTA1bVRFMUdOelV5VFVsa2MycFlhM1p0UVEiLCJmY3YiOiIzIiwiZWkiOiJRUmM2YXJ2cU8tdWh1cjhQZ3JpWGNRIiwicWMiOiJDaVpqY25sd2RHOGdiV2x1YVc1bklIQnliMlpwZEdGaWFXeHBkSGtnWTJGc1kzVnNZWFJ2Y2hBQWZWaDE4RDQiLCJxdWVzdGlvbiI6IkhvdyBsb25nIGRvZXMgaXQgdGFrZSB0byBtaW5lICQxIG9mIEJpdGNvaW4/IiwibGsiOiJHaXRvYjNjZ2JHOXVaeUJrYjJWeklHbDBJSFJoYTJVZ2RHOGdiV2x1WlNBa01TQnZaaUJpYVhSamIybHUiLCJicyI6ImM0M05NUXVDUUJqR2NWcmZxZm1XSGlPb3FFQ0ZoaWJCaVBvQU5UYWM1LWtkNlozb1JmanRReVRiclBuNThYX29STGpZRjZyYVp0cnhwSkRRRFVUZFZzNmkxRWFiUEFvOU5sUGpobTYwNmpMbFV5Z28zcWlhTzRsLWxnZ1FYNC1vWkkyVXQxRzRaa3MxWWhNblBwYk81QTFad1EwNDl2N0I3LVhRbXpPb0g0anV0TzFDaFRVNVVpc2JhQWZISDlfZlJRQ2JJZFpPV0cyaWNNYzI2Zy1mOUg0NmVRTSIsImlkIjoiZmNfUVJjNmFydnFPLXVodXI4UGdyaVhjUV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlZVNTZaakJHTlZKc1EyUTVUM1EyUlVSVVFVd3RPVTVOVWxKbmJTMUtkMUJEZFhSd1J6WlZNVFZHWTJkQ1NtRkdRVGxZTVdsUGNYSmhiMFZPTTJZNGNVZDRUVU5pU2pNNFNEQm9aVk5KUlZac1VXbGxTV015Y0V4RFFSSVdVVkpqTm1GeWRuRlBMWFZvZFhJNFVHZHlhVmhqVVJvaVFVUnpjamxtVWxkTFFVTmFYMVJoYTA1bVRFMUdOelV5VFVsa2MycFlhM1p0UVEiLCJmY3YiOiIzIiwiZWkiOiJRUmM2YXJ2cU8tdWh1cjhQZ3JpWGNRIiwicWMiOiJDaVpqY25sd2RHOGdiV2x1YVc1bklIQnliMlpwZEdGaWFXeHBkSGtnWTJGc1kzVnNZWFJ2Y2hBQWZWaDE4RDQiLCJxdWVzdGlvbiI6IkhvdyBsb25nIGRvZXMgaXQgdGFrZSB0byBtaW5lICQxIG9mIEJpdGNvaW4%2FIiwibGsiOiJHaXRvYjNjZ2JHOXVaeUJrYjJWeklHbDBJSFJoYTJVZ2RHOGdiV2x1WlNBa01TQnZaaUJpYVhSamIybHUiLCJicyI6ImM0M05NUXVDUUJqR2NWcmZxZm1XSGlPb3FFQ0ZoaWJCaVBvQU5UYWM1LWtkNlozb1JmanRReVRiclBuNThYX29STGpZRjZyYVp0cnhwSkRRRFVUZFZzNmkxRWFiUEFvOU5sUGpobTYwNmpMbFV5Z28zcWlhTzRsLWxnZ1FYNC1vWkkyVXQxRzRaa3MxWWhNblBwYk81QTFad1EwNDl2N0I3LVhRbXpPb0g0anV0TzFDaFRVNVVpc2JhQWZISDlfZlJRQ2JJZFpPV0cyaWNNYzI2Zy1mOUg0NmVRTSIsImlkIjoiZmNfUVJjNmFydnFPLXVodXI4UGdyaVhjUV80In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "gBI8dXicxVbvcqo4FP--77F-aRURtbYzzJ0EEdFam3q9W_zCQKABBWMDFu23-y77VPsK-xIbEBSrtrN3ZmePA0lOTk7Ovx_Hn38G_nLx129_e3G8iu4EIUmSGqGUBG4N01Cwou0SCy80iBj2vkV0zbDrOzL2GA3dyvZNlio4kusV15fRE25b7O11XF17a9Z5JMx_xqiSaZBN24rcOb9gM48EU-Cvxe9Sly9qUc1d1hSvaW9-0OFmM6016uJtbSxYIRcA_yGp4CkbEf_pfNRPJNLryRdakJ4enJQ4Suld0GinSNezQbmoVMmtUIxUpFudsSYEXZTx-p9YMTle_pG-VJAAAFMTVXTuzDkjCh7NR3jxRvWUlQnD_K5uWf0lf2E5wSjV-b0DlEMiCpchKDzgIoTP4U5jC8DmY6Joyidp4jsr0le9KjprdIl6Q3WV5PN7Q-MWCQ7hRVgXbMYHUfCxh7MJi9LaVL7f1mnvkTmzTb_LWpPnbcTUen898meb9TIeIQHbXC6gluM6pmfWv2VrsSG26rfSTec6AwWO9qiIyqiYtUcBkAYvUg_U7mtQLEEiC8aulAqX0nKDF9wb5jEs0b46s1ijQR6bIsrTQgzSAh05Y75Iq8rYMzppKryPN6a6TiFREClPOCQys_Xp_mRZPJ3q8GBqTt2P-T6scx8MMER7l9WSxbtAqOX1IlWuawUj2W-lWkkAMohzSKi5wvHReVI2jAcLKkAttvcWpDLdxV5MzSxMtw2EDKD3OER5-kjhfJ5KDgn9OHZgfrTqkfRRyFmAf0XwkPBLpIKi9j-U8hEE7h9sL2oMgoEJI2_V6vneVuuGk6aPkvMlT0P7X3QC_P-CYpr3iWmOhOFZUJAvQIF09dM-sSvgQ59Ia0Whl0Ch5KA47hO7wj30iVNQTI5BcblPlECx0_I5KOBFUOw-K6egSPvECSjIBVDs-kQZFMd9YrnXnHpQAsUv9Qn0C30iw4i7G46bxnpOLjaP_qBnzHzRcB4ku9VmraCf9JXeWomXc_Jl83gJ47vQcoJr03fuYGMQb51rkzPonetUXmXMtquYXoX-0l-SqxWjL35s2X7gx9srbAV4HVgxZZUwYFSuW81xwyWEvSNtvm64ofLD1k0S37vGCt8gXQvncBoEPaq2J-OkazYAU7BjmHiebObGqGuIVWg3oXmris92mOgjrdfRb56eadKIxw40NTPo9M0JxCMw1frVGEvDqCr5yvtKUR_Q0ys1LUd6v59OBq9205CamVWRHC8a4WQ1edf8TiVkWOZV31yABwQ0AjCvfYD4PymkUP4kPPOVCFumG73Jtm3fOG3R7TiSbUs3biUk8XYlN8VKtGSy-A8KKx68",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gBI8dXicxVbvcqo4FP--77F-aRURtbYzzJ0EEdFam3q9W_zCQKABBWMDFu23-y77VPsK-xIbEBSrtrN3ZmePA0lOTk7Ovx_Hn38G_nLx129_e3G8iu4EIUmSGqGUBG4N01Cwou0SCy80iBj2vkV0zbDrOzL2GA3dyvZNlio4kusV15fRE25b7O11XF17a9Z5JMx_xqiSaZBN24rcOb9gM48EU-Cvxe9Sly9qUc1d1hSvaW9-0OFmM6016uJtbSxYIRcA_yGp4CkbEf_pfNRPJNLryRdakJ4enJQ4Suld0GinSNezQbmoVMmtUIxUpFudsSYEXZTx-p9YMTle_pG-VJAAAFMTVXTuzDkjCh7NR3jxRvWUlQnD_K5uWf0lf2E5wSjV-b0DlEMiCpchKDzgIoTP4U5jC8DmY6Joyidp4jsr0le9KjprdIl6Q3WV5PN7Q-MWCQ7hRVgXbMYHUfCxh7MJi9LaVL7f1mnvkTmzTb_LWpPnbcTUen898meb9TIeIQHbXC6gluM6pmfWv2VrsSG26rfSTec6AwWO9qiIyqiYtUcBkAYvUg_U7mtQLEEiC8aulAqX0nKDF9wb5jEs0b46s1ijQR6bIsrTQgzSAh05Y75Iq8rYMzppKryPN6a6TiFREClPOCQys_Xp_mRZPJ3q8GBqTt2P-T6scx8MMER7l9WSxbtAqOX1IlWuawUj2W-lWkkAMohzSKi5wvHReVI2jAcLKkAttvcWpDLdxV5MzSxMtw2EDKD3OER5-kjhfJ5KDgn9OHZgfrTqkfRRyFmAf0XwkPBLpIKi9j-U8hEE7h9sL2oMgoEJI2_V6vneVuuGk6aPkvMlT0P7X3QC_P-CYpr3iWmOhOFZUJAvQIF09dM-sSvgQ59Ia0Whl0Ch5KA47hO7wj30iVNQTI5BcblPlECx0_I5KOBFUOw-K6egSPvECSjIBVDs-kQZFMd9YrnXnHpQAsUv9Qn0C30iw4i7G46bxnpOLjaP_qBnzHzRcB4ku9VmraCf9JXeWomXc_Jl83gJ47vQcoJr03fuYGMQb51rkzPonetUXmXMtquYXoX-0l-SqxWjL35s2X7gx9srbAV4HVgxZZUwYFSuW81xwyWEvSNtvm64ofLD1k0S37vGCt8gXQvncBoEPaq2J-OkazYAU7BjmHiebObGqGuIVWg3oXmris92mOgjrdfRb56eadKIxw40NTPo9M0JxCMw1frVGEvDqCr5yvtKUR_Q0ys1LUd6v59OBq9205CamVWRHC8a4WQ1edf8TiVkWOZV31yABwQ0AjCvfYD4PymkUP4kPPOVCFumG73Jtm3fOG3R7TiSbUs3biUk8XYlN8VKtGSy-A8KKx68"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Profitability Calculator",
+      "link": "https://www.nicehash.com/profitability-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nicehash.com/profitability-calculator&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4QFnoECA0QAQ",
+      "displayed_link": "https://www.nicehash.com › profitability-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEX____-7c_95LX-9eT-89780Xn7vST7vzT95bj7uxj7wkH7viv-9-r7wDj-9-j__fj7vy_82JD80n39577z1jgKAAAAl0lEQVR4Ac3NwQ4CIQxF0QJa4BUEmP__V5uqSTWzdDFnwSO5IdBVhZhIxbcbOXfOXHRrNhz9OwYgehGY7GPMALidx8RAB_noFGEk3SqmavSanY9mHoP-IVYRqYlUqr9_hgmgL1KrA5jBxSFQc6W0JpQMcnaH6iKv3eQ1hsONvhyu8kGe1Q7TfftoW2bOU3ajMyOUEgZd2BMJUQf8EEuHXAAAAABJRU5ErkJggg.png",
+      "snippet": "Profitability Calculator. You can estimate your potential mining earnings by entering your hashrate or devices.",
+      "snippet_highlighted_words": [
+        "Profitability Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Profitability Calculator. You can estimate your potential mining earnings by entering your hashrate or devices.",
+          "source_info_link": "https://www.nicehash.com/profitability-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEX____-7c_95LX-9eT-89780Xn7vST7vzT95bj7uxj7wkH7viv-9-r7wDj-9-j__fj7vy_82JD80n39577z1jgKAAAAl0lEQVR4Ac3NwQ4CIQxF0QJa4BUEmP__V5uqSTWzdDFnwSO5IdBVhZhIxbcbOXfOXHRrNhz9OwYgehGY7GPMALidx8RAB_noFGEk3SqmavSanY9mHoP-IVYRqYlUqr9_hgmgL1KrA5jBxSFQc6W0JpQMcnaH6iKv3eQ1hsONvhyu8kGe1Q7TfftoW2bOU3ajMyOUEgZd2BMJUQf8EEuHXAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.nicehash.com/profitability-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nicehash.com%2Fprofitability-calculator",
+      "source": "NiceHash",
+      "read_more_link": "https://www.nicehash.com/profitability-calculator#:~:text=Profitability%20Calculator&text=You%20can%20estimate%20your%20potential,entering%20your%20hashrate%20or%20devices."
+    },
+    {
+      "position": 2,
+      "title": "ASIC Miner Value: ASIC Miner Profitability Calculator 2026",
+      "link": "https://www.asicminervalue.com/en/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.asicminervalue.com/en/&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4QFnoECCkQAQ",
+      "displayed_link": "https://www.asicminervalue.com › ...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA4VBMVEVHcEz4DQD_dQD3CgD-PQD6JgD_gwD3BAD7KQD7KQD_agD_WgD_RwD7LQD_nQD_VQD_iAD_UgD_gwD_UQD-QQD7LQD5GwD6JwD-RAD7KgD8LgD_cAD_hwD_jgD_fQD_YQD_YAD-PQD_pgD_owD_eAD5GgD_iwD_ggD_XAD9NgD3BAD2BwD3CgD_iAD_bQD_aAD_UAD_WAD_kwD_hQD_jQD2AgD9OAD8MgD_ZgD_kAD_XAD_dQD_bwD_RwD-QAD7LAD6IQD_fAD4FQD6JgD_iAD_ggD5GwD4DgD_UQD_TAD_mwAG4VDQAAAANXRSTlMAanp3EImijS5zOHdeZ3r-gqsZaZCeH9oHP65lUGFaiNTj-2K4T5IRVfTN3rUfzL3F4dbSr4Ogi1gAAAGGSURBVCiRjdLndoIwGAbgj00YlT1cuEet2iWoddRVx_1fUJNAraM_-h349ZyQvG8A-M-YlQ4og0YbjDfjDl-mKiizmQXiTrxDO1LAitgAikbxWmQ1UlU2YlnWMB7I9C9sfsxNp-PZ7GO1204mp1OtZp3RWcyPh2ut_2KcKSv-aIau3xTiVCv4vJnWjdcHjP4GCUmqCgwHVLeT0vuEJGIEWVhSdcCuBMN0banYyhIJy2WSxFUeVNzSmGopyyHzwoaoBjzgJ6JashSS9XGNhE-seQjzwD9bUCFaFrctgntG-MLqomqsOcdn2xxjzdDzAmmN1ddRt7uo2mpuirXQ7rfTbaU9UR30JA7BORAtpMJJoTSiKoOLQFvMiRbKYhljb8RJI6o-Pq3cjal2GitSgvTUxEg1D4FP6zjkNLaRfZkgVeSSNkiV9vlWKKb7bjLVfi97dKu4yvN4HMcwDHkR0nUd6RdGE7kheK4TgGZqcDNBb81BmMQemEfz7tfEiUDOuzzYpn2Hf803xwVPMPNLOogAAAAASUVORK5CYII.png",
+      "snippet": "Real-time profitability for every ASIC miner in 2026. Compare hashrate, ROI and best prices across 200+ coins and 25+ algorithms.",
+      "snippet_highlighted_words": [
+        "Real-time profitability for every ASIC miner in 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Real-time profitability for every ASIC miner in 2026. Compare hashrate, ROI and best prices across 200+ coins and 25+ algorithms.",
+          "source_info_link": "https://www.asicminervalue.com/en/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA4VBMVEVHcEz4DQD_dQD3CgD-PQD6JgD_gwD3BAD7KQD7KQD_agD_WgD_RwD7LQD_nQD_VQD_iAD_UgD_gwD_UQD-QQD7LQD5GwD6JwD-RAD7KgD8LgD_cAD_hwD_jgD_fQD_YQD_YAD-PQD_pgD_owD_eAD5GgD_iwD_ggD_XAD9NgD3BAD2BwD3CgD_iAD_bQD_aAD_UAD_WAD_kwD_hQD_jQD2AgD9OAD8MgD_ZgD_kAD_XAD_dQD_bwD_RwD-QAD7LAD6IQD_fAD4FQD6JgD_iAD_ggD5GwD4DgD_UQD_TAD_mwAG4VDQAAAANXRSTlMAanp3EImijS5zOHdeZ3r-gqsZaZCeH9oHP65lUGFaiNTj-2K4T5IRVfTN3rUfzL3F4dbSr4Ogi1gAAAGGSURBVCiRjdLndoIwGAbgj00YlT1cuEet2iWoddRVx_1fUJNAraM_-h349ZyQvG8A-M-YlQ4og0YbjDfjDl-mKiizmQXiTrxDO1LAitgAikbxWmQ1UlU2YlnWMB7I9C9sfsxNp-PZ7GO1204mp1OtZp3RWcyPh2ut_2KcKSv-aIau3xTiVCv4vJnWjdcHjP4GCUmqCgwHVLeT0vuEJGIEWVhSdcCuBMN0banYyhIJy2WSxFUeVNzSmGopyyHzwoaoBjzgJ6JashSS9XGNhE-seQjzwD9bUCFaFrctgntG-MLqomqsOcdn2xxjzdDzAmmN1ddRt7uo2mpuirXQ7rfTbaU9UR30JA7BORAtpMJJoTSiKoOLQFvMiRbKYhljb8RJI6o-Pq3cjal2GitSgvTUxEg1D4FP6zjkNLaRfZkgVeSSNkiV9vlWKKb7bjLVfi97dKu4yvN4HMcwDHkR0nUd6RdGE7kheK4TgGZqcDNBb81BmMQemEfz7tfEiUDOuzzYpn2Hf803xwVPMPNLOogAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.asicminervalue.com/en/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.asicminervalue.com%2Fen%2F",
+      "source": "ASIC Miner Value"
+    },
+    {
+      "position": 3,
+      "title": "WhatToMine - Crypto coins mining profit calculator compared ...",
+      "link": "https://whattomine.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://whattomine.com/&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4QFnoECCoQAQ",
+      "displayed_link": "https://whattomine.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEX____E2OmGstVMksUAfrx7q9G50eWbvtsAc7YAbbMAdbcGeLgAb7Tj7fUUfLoAcrXN3-0AaLFYmMf1-fxmn8t0p88rg72kyOGRuNju9fmpyuIli8I3kcVkpc9Nm8rU4-89k8YkisJ9stW51OhfMnm7AAABNUlEQVR4Aa1SBaLDIAyd4DD3krZhu_8df9Iw-26pRF4cRv9B48lUqak270DWeRdiDC6lyStoNk_xRouwfMSWq4XYQwj0d-sHbLPd6Tlje73TxPzyVeKJq8Z1iPPXDR0WMexZ2IWFZXbNuuFBUkyGtePCk27USeZTqqF-fc3W-C39p5ls7ApgKdwnUcerJbkqaAetA9DEnJMifeD2APOgAWBHbH-kn6Ug5nvEvKlg5hFIGWvKT52YcgU7xEKGntvgQswBa9ozRfZSbt_JphUiinghcDxIWwDZFgWClR0UhEMNkEIcWGajmhfOzHeUgvdiMqKMyaEZWDwplOJrkEChcUHTmC1XOhpjecjDw5GUnDMgEZBAGJW506UwVAnK4dUlagVmqOV6r2Db5VJyd-xfI_dj_za9ABBAGz71euO0AAAAAElFTkSuQmCC.png",
+      "snippet": "Using below table, you can check how profitable it is to mine selected altcoins in comparison to ethereum classic.",
+      "snippet_highlighted_words": [
+        "ethereum"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Asic",
+            "link": "https://whattomine.com/asic"
+          },
+          {
+            "title": "GPU",
+            "link": "https://whattomine.com/coins"
+          },
+          {
+            "title": "CPU",
+            "link": "https://whattomine.com/cpu"
+          },
+          {
+            "title": "Coins",
+            "link": "https://whattomine.com/calculators"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Using below table, you can check how profitable it is to mine selected altcoins in comparison to ethereum classic.",
+          "source_info_link": "https://whattomine.com/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEX____E2OmGstVMksUAfrx7q9G50eWbvtsAc7YAbbMAdbcGeLgAb7Tj7fUUfLoAcrXN3-0AaLFYmMf1-fxmn8t0p88rg72kyOGRuNju9fmpyuIli8I3kcVkpc9Nm8rU4-89k8YkisJ9stW51OhfMnm7AAABNUlEQVR4Aa1SBaLDIAyd4DD3krZhu_8df9Iw-26pRF4cRv9B48lUqak270DWeRdiDC6lyStoNk_xRouwfMSWq4XYQwj0d-sHbLPd6Tlje73TxPzyVeKJq8Z1iPPXDR0WMexZ2IWFZXbNuuFBUkyGtePCk27USeZTqqF-fc3W-C39p5ls7ApgKdwnUcerJbkqaAetA9DEnJMifeD2APOgAWBHbH-kn6Ug5nvEvKlg5hFIGWvKT52YcgU7xEKGntvgQswBa9ozRfZSbt_JphUiinghcDxIWwDZFgWClR0UhEMNkEIcWGajmhfOzHeUgvdiMqKMyaEZWDwplOJrkEChcUHTmC1XOhpjecjDw5GUnDMgEZBAGJW506UwVAnK4dUlagVmqOV6r2Db5VJyd-xfI_dj_za9ABBAGz71euO0AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://whattomine.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwhattomine.com%2F",
+      "source": "WhatToMine",
+      "read_more_link": "https://whattomine.com/#:~:text=Using%20below%20table%2C%20you%20can,in%20comparison%20to%20ethereum%20classic."
+    },
+    {
+      "position": 4,
+      "title": "Bitcoin Mining Profitability Calculator",
+      "link": "https://www.cryptocompare.com/mining/calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cryptocompare.com/mining/calculator/&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4QFnoECCgQAQ",
+      "displayed_link": "https://www.cryptocompare.com › mining › calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEVHcEwA12QA12QA12UA2GYA12UA12UA12UA22YIDxoJFSIA1mUA32YIFCEJEyIKFSMJCB4A22YA2GQA628A3GcA2WUKFiMJFSIA12MJDx4JFSMBLiQJCxMJFSIA12UJFSIJCRcKFiMJFSIGEyBzJjSrAAAAJHRSTlMAJXChx9y0kEwjof8KS9__kV8yHD977YUUYlMGN8L3uC7NeRKUEqoVAAAA8UlEQVR4AcXOV4KEIBBF0WegBaqxzDm7_z2OESf99zV7FMCnc1zPF0K8AvlblFaCbN4bTyZkjmIvTpzUyXJ_Y2n_2qgoFWzVy2q9UYOrVh5vXaJjZM1cwiYoPq4eBQAi5g62hIRzjkwCMMzXZC6A7FkIEcBscOSTB0lS9TcOqPl6EH5GPsnufnZIYLwmzP2uTikD3-hRjoJxNnEzIbKYEL3BNzI3JfON74FyYGb1D6YD-QBK1idqPRmtt8sCxHQYWuYaP0sEkYcjw6xb2Cp3o0ECVnmsVdu2q1nqfCMXT6tmW5i-JH7WNnoOiyIcS4MP9wUjVA_uNy-z_QAAAABJRU5ErkJggg.png",
+      "snippet": "Find out what your expected BTC and USD return is depending on your hash rate, power consumption and electricity cost. Find out if it's profitable to mine ...",
+      "snippet_highlighted_words": [
+        "Find out what your expected BTC and USD return is"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Find out what your expected BTC and USD return is depending on your hash rate, power consumption and electricity cost. Find out if it's profitable to mine ...",
+          "source_info_link": "https://www.cryptocompare.com/mining/calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEVHcEwA12QA12QA12UA2GYA12UA12UA12UA22YIDxoJFSIA1mUA32YIFCEJEyIKFSMJCB4A22YA2GQA628A3GcA2WUKFiMJFSIA12MJDx4JFSMBLiQJCxMJFSIA12UJFSIJCRcKFiMJFSIGEyBzJjSrAAAAJHRSTlMAJXChx9y0kEwjof8KS9__kV8yHD977YUUYlMGN8L3uC7NeRKUEqoVAAAA8UlEQVR4AcXOV4KEIBBF0WegBaqxzDm7_z2OESf99zV7FMCnc1zPF0K8AvlblFaCbN4bTyZkjmIvTpzUyXJ_Y2n_2qgoFWzVy2q9UYOrVh5vXaJjZM1cwiYoPq4eBQAi5g62hIRzjkwCMMzXZC6A7FkIEcBscOSTB0lS9TcOqPl6EH5GPsnufnZIYLwmzP2uTikD3-hRjoJxNnEzIbKYEL3BNzI3JfON74FyYGb1D6YD-QBK1idqPRmtt8sCxHQYWuYaP0sEkYcjw6xb2Cp3o0ECVnmsVdu2q1nqfCMXT6tmW5i-JH7WNnoOiyIcS4MP9wUjVA_uNy-z_QAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.cryptocompare.com/mining/calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.cryptocompare.com%2Fmining%2Fcalculator%2F",
+      "source": "CryptoCompare"
+    },
+    {
+      "position": 5,
+      "title": "Crypto Mining Calculator",
+      "link": "https://bitcoinfoundation.org/tools/mining-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitcoinfoundation.org/tools/mining-calculator/&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4QFnoECCQQAQ",
+      "displayed_link": "https://bitcoinfoundation.org › Tools",
+      "favicon": "https://serpapi.com/searches/6a3a1741abe7ece4341acdab/images/o0LW0GYaagFQloqXn9JG1fmM91-0LFNmNGzO4AvF7WQ.png",
+      "snippet": "Use our mining cryptocurrency calculator and gpu mining calculator to quickly estimate earnings and analyze mining calculator profitability based on your ...",
+      "snippet_highlighted_words": [
+        "Use our mining cryptocurrency calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our mining cryptocurrency calculator and gpu mining calculator to quickly estimate earnings and analyze mining calculator profitability based on your ...",
+          "source_info_link": "https://bitcoinfoundation.org/tools/mining-calculator/",
+          "icon": "https://serpapi.com/searches/6a3a1741abe7ece4341acdab/images/o0LW0GYaagFQloqXn9JG1eeIf_zY9k0yHhdrUKoQW1OdQcJMaEbWGvLKLfre_0VH.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bitcoinfoundation.org/tools/mining-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbitcoinfoundation.org%2Ftools%2Fmining-calculator%2F",
+      "source": "Bitcoin Foundation"
+    },
+    {
+      "position": 6,
+      "title": "Miner Profit Calculator",
+      "link": "https://www.bitmain.com/calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bitmain.com/calculator&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4QFnoECCsQAQ",
+      "displayed_link": "https://www.bitmain.com › calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABgklEQVR4Ab3XA6wdQQBG4dq226C2jahhbRtBbdsOajesbYa1bdv23xPfbN_kLmb3JF-cLEeJPDQN3_AJwxFpTSGHeoisCZBDf0RWd8ihFiIpCc5B-IJ3GIzIag1hF0zlQm90RCpY7QSEckioQngFQTiHFLBSMQinYGoK5NAYVhoKoS9MzYEcWsJKmyAUg6nGUIw7SAcrPcInJIGpbRDWYTiy2Rx-wgkX_8gFJIHVskDY5-L7d4X18kHYBlP38APpYL10EI7ANP6FAwitX7gSZ4WcgNC6gD9IA2fDIbRGaC2DUAfOZkWxL2gPYR6cLYBQAaGVCT_wAskMQ7AeQm0dhO6Gf6A3UiG0SkB4ggqYg0v4A8W4gXkoA-utgjzYgFywUhW8gDx6gWoIVCV8gHz6hirwVTY8gQJ6hmwBJiErlsFTBfDHw7eehIZoiUX4BsX4gwJw3XDIhSPIBGdFcA-KMRKuO-by22aAqXLOm4Xr3kBxjEW89kAQ3sF1cqG-90Pt__0DFzT8MuvsvQQAAAAASUVORK5CYII.png",
+      "snippet": "*Please Note: This calculator uses the current network difficulty to estimate mining revenue. It should be used as a reference only, as actual revenue may ...",
+      "snippet_highlighted_words": [
+        "calculator",
+        "mining"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "*Please Note: This calculator uses the current network difficulty to estimate mining revenue. It should be used as a reference only, as actual revenue may ...",
+          "source_info_link": "https://www.bitmain.com/calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABgklEQVR4Ab3XA6wdQQBG4dq226C2jahhbRtBbdsOajesbYa1bdv23xPfbN_kLmb3JF-cLEeJPDQN3_AJwxFpTSGHeoisCZBDf0RWd8ihFiIpCc5B-IJ3GIzIag1hF0zlQm90RCpY7QSEckioQngFQTiHFLBSMQinYGoK5NAYVhoKoS9MzYEcWsJKmyAUg6nGUIw7SAcrPcInJIGpbRDWYTiy2Rx-wgkX_8gFJIHVskDY5-L7d4X18kHYBlP38APpYL10EI7ANP6FAwitX7gSZ4WcgNC6gD9IA2fDIbRGaC2DUAfOZkWxL2gPYR6cLYBQAaGVCT_wAskMQ7AeQm0dhO6Gf6A3UiG0SkB4ggqYg0v4A8W4gXkoA-utgjzYgFywUhW8gDx6gWoIVCV8gHz6hirwVTY8gQJ6hmwBJiErlsFTBfDHw7eehIZoiUX4BsX4gwJw3XDIhSPIBGdFcA-KMRKuO-by22aAqXLOm4Xr3kBxjEW89kAQ3sF1cqG-90Pt__0DFzT8MuvsvQQAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.bitmain.com/calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bitmain.com%2Fcalculator",
+      "source": "BITMAIN",
+      "read_more_link": "https://www.bitmain.com/calculator#:~:text=*Please%20Note%3A%20This%20calculator%20uses,as%20actual%20revenue%20may%20differ."
+    },
+    {
+      "position": 7,
+      "title": "Crypto Mining profit calculator",
+      "link": "https://minerset.com/crypto-mining-profit-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://minerset.com/crypto-mining-profit-calculator/&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4QFnoECD8QAQ",
+      "displayed_link": "https://minerset.com › crypto-mining-profit-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcExZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLILiDIkmAAAAD3RSTlMAOMnbRCj1jWB5Cxaj57ZrCjACAAAA_klEQVQokX1SWbLEIAgEXBJHnb7_bR8mQJapenwQpA20NERqmX6MI5Jf8EqB31jHJ8DvG9zQLfrgumdWUaIG2hPLgJMskPqiM7HHvfyk1LEHuIPqg9IGikYKtgclDKqbxW0q4RulXanO4VUS0bhRSnqWo4-IzCqSIGGYIlVzotdSreqAZHZEdbmjzKrfEHQWl2gzt8gddPr5mjWBzBisXqp6_c60TgMaE_4xYma0or7MpJ8idR24IfMa6ccUOJtZ62yaFZdn5X2ObEl2YYcydAWKyZJ9JbSE_7BUs16uSJKvv92VuGaz3_bFiG0B0m3TcGrWS4DjWojS6WXlud1__WcKaS6Bp1sAAAAASUVORK5CYII.png",
+      "snippet": "Use the Minerset Crypto Mining profit calculator to get an in-depth look at BTC ETH, ETC, XMR, ZEC, DASH and LTC mining profit.",
+      "snippet_highlighted_words": [
+        "Minerset Crypto Mining profit calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use the Minerset Crypto Mining profit calculator to get an in-depth look at BTC ETH, ETC, XMR, ZEC, DASH and LTC mining profit.",
+          "source_info_link": "https://minerset.com/crypto-mining-profit-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcExZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLIJZLILiDIkmAAAAD3RSTlMAOMnbRCj1jWB5Cxaj57ZrCjACAAAA_klEQVQokX1SWbLEIAgEXBJHnb7_bR8mQJapenwQpA20NERqmX6MI5Jf8EqB31jHJ8DvG9zQLfrgumdWUaIG2hPLgJMskPqiM7HHvfyk1LEHuIPqg9IGikYKtgclDKqbxW0q4RulXanO4VUS0bhRSnqWo4-IzCqSIGGYIlVzotdSreqAZHZEdbmjzKrfEHQWl2gzt8gddPr5mjWBzBisXqp6_c60TgMaE_4xYma0or7MpJ8idR24IfMa6ccUOJtZ62yaFZdn5X2ObEl2YYcydAWKyZJ9JbSE_7BUs16uSJKvv92VuGaz3_bFiG0B0m3TcGrWS4DjWojS6WXlud1__WcKaS6Bp1sAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://minerset.com/crypto-mining-profit-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fminerset.com%2Fcrypto-mining-profit-calculator%2F",
+      "source": "Minerset"
+    },
+    {
+      "position": 8,
+      "title": "CoinWarz",
+      "link": "https://www.coinwarz.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coinwarz.com/&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4QFnoECEAQAQ",
+      "displayed_link": "https://www.coinwarz.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEzExMQlJSVXV1erq6sAAAArKysqKioAAAAAAAADAwMsLCw0NDS_v78ZGRl0dHRFRUVPT08LCwu0tLRISEhHR0e1n2TnAAAAFnRSTlMAClRTIf_37c_ExLjEDv8ukWf_EIh_URRmswAAAGdJREFUeAHNzsEOQDAURNGhngJF1f__Kk1FnkpmY8HZ3sUMoqLMGVwqydUs2g-iPtS0py5pe7ymNoe_Rcui2JFEcROJ4gyJIvNyUHXxkoEyuXvz0FZLIjCwiJlFGEeivoWnImxJQLQDeAIJOfcvX_oAAAAASUVORK5CYII.png",
+      "snippet": "Calculate cryptocurrency mining profits and view mining rewards, mining difficulty, and mining hashrate for the most popular Proof-Of-Work cryptos.",
+      "snippet_highlighted_words": [
+        "Calculate cryptocurrency mining profits"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Mining Calculators",
+            "link": "https://www.coinwarz.com/mining/calculators"
+          },
+          {
+            "title": "Bitcoin Mining Calculator",
+            "link": "https://www.coinwarz.com/mining/bitcoin/calculator"
+          },
+          {
+            "title": "Mining Profitability",
+            "link": "https://www.coinwarz.com/cryptocurrency"
+          },
+          {
+            "title": "Bitcoin Halving",
+            "link": "https://www.coinwarz.com/bitcoin-halving"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Calculate cryptocurrency mining profits and view mining rewards, mining difficulty, and mining hashrate for the most popular Proof-Of-Work cryptos.",
+          "source_info_link": "https://www.coinwarz.com/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEzExMQlJSVXV1erq6sAAAArKysqKioAAAAAAAADAwMsLCw0NDS_v78ZGRl0dHRFRUVPT08LCwu0tLRISEhHR0e1n2TnAAAAFnRSTlMAClRTIf_37c_ExLjEDv8ukWf_EIh_URRmswAAAGdJREFUeAHNzsEOQDAURNGhngJF1f__Kk1FnkpmY8HZ3sUMoqLMGVwqydUs2g-iPtS0py5pe7ymNoe_Rcui2JFEcROJ4gyJIvNyUHXxkoEyuXvz0FZLIjCwiJlFGEeivoWnImxJQLQDeAIJOfcvX_oAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.coinwarz.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.coinwarz.com%2F",
+      "source": "CoinWarz",
+      "read_more_link": "https://www.coinwarz.com/#:~:text=Calculate%20cryptocurrency%20mining%20profits%20and,Monero%2C%20Zcash%2C%20Ravencoin%2C%20and%20more."
+    },
+    {
+      "position": 9,
+      "title": "ASIC Miner Profitability Calculator, Rank & ROI",
+      "link": "https://bt-miners.com/daily-income-of-miners/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bt-miners.com/daily-income-of-miners/&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4QFnoECEUQAQ",
+      "displayed_link": "https://bt-miners.com › daily-income-of-miners",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEw6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6OzuWe5TIAAAAD3RSTlMAZ1Z4rzBLPoPYFSTyxJStH0XHAAABFUlEQVQokWWSWRbDIAhFGUScEve_26Joalo-cgxXHoMAbCuRCBGZCvxaRFW-Q7hRieWFahJufVkm5VdYHCiHfl0TCz_akdIMQWgVPFo3rXi7h6FL6Zs6TGQ_l6oWqCaT8qSSVAFIPOprM8kFYlddNJ3Fz6qiHVQ8SRje3IYL2ENNlQ7Ypst1u9VL9wGXvJdEBq8D1jq-T2dA-YBuC94_UHGG4oZ4ytpF8cJcFs-C2hjwrsi6wviCrTzQTjJfq4fpLNWXYg8BUvobX5iTn6-p7QUrZpeKY5SsfXeddT12b7YMI1NB78uis2woW6pGH_7YobDijjRR1pxWW_VVH8l-gN6CEMLLrDbb5sSogvy_8yM1MqJ-PR9b5RUFbo8RrgAAAABJRU5ErkJggg.png",
+      "snippet": "You can calculate the potential profitability of your crypto mining venture using BT-Miners' miner profitability calculator.",
+      "snippet_highlighted_words": [
+        "BT-Miners' miner profitability calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You can calculate the potential profitability of your crypto mining venture using BT-Miners' miner profitability calculator.",
+          "source_info_link": "https://bt-miners.com/daily-income-of-miners/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEw6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6Ozs6OzuWe5TIAAAAD3RSTlMAZ1Z4rzBLPoPYFSTyxJStH0XHAAABFUlEQVQokWWSWRbDIAhFGUScEve_26Joalo-cgxXHoMAbCuRCBGZCvxaRFW-Q7hRieWFahJufVkm5VdYHCiHfl0TCz_akdIMQWgVPFo3rXi7h6FL6Zs6TGQ_l6oWqCaT8qSSVAFIPOprM8kFYlddNJ3Fz6qiHVQ8SRje3IYL2ENNlQ7Ypst1u9VL9wGXvJdEBq8D1jq-T2dA-YBuC94_UHGG4oZ4ytpF8cJcFs-C2hjwrsi6wviCrTzQTjJfq4fpLNWXYg8BUvobX5iTn6-p7QUrZpeKY5SsfXeddT12b7YMI1NB78uis2woW6pGH_7YobDijjRR1pxWW_VVH8l-gN6CEMLLrDbb5sSogvy_8yM1MqJ-PR9b5RUFbo8RrgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bt-miners.com/daily-income-of-miners/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbt-miners.com%2Fdaily-income-of-miners%2F",
+      "source": "BT Miners",
+      "read_more_link": "https://bt-miners.com/daily-income-of-miners/#:~:text=You%20can%20calculate%20the%20potential,using%20BT%2DMiners'%20miner%20profitability%20calculator."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best crypto mining profitability calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Best+crypto+mining+profitability+calculator&sa=X&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+crypto+mining+profitability+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Mining calculator GPU",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Mining+calculator+GPU&sa=X&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mining+calculator+GPU"
+    },
+    {
+      "block_position": 1,
+      "query": "Dogecoin mining calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Dogecoin+mining+calculator&sa=X&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dogecoin+mining+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "GPU mining profitability",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=GPU+mining+profitability&sa=X&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=GPU+mining+profitability"
+    },
+    {
+      "block_position": 1,
+      "query": "Nicehash Profitability calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Nicehash+Profitability+calculator&sa=X&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nicehash+Profitability+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Hashrate calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Hashrate+calculator&sa=X&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hashrate+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "ASIC miner profitability",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=ASIC+miner+profitability&sa=X&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ASIC+miner+profitability"
+    },
+    {
+      "block_position": 1,
+      "query": "CPU mining calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=CPU+mining+calculator&sa=X&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=CPU+mining+calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=crypto+mining+profitability+calculator&sca_esv=bbb7d61e8d3bb37e&ei=QRc6arvqO-uhur8PgriXcQ&start=10&sa=N&sstk=AU9db-D1LkhdD4NJAYmtHtzIJu0KkzX1LbyD64kvDoSV6WCYMS05-qnlq16MpGU6MIIHrkOhhLU9e4HqfFqShirPiNz4a7oPO5oqQQ&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q8NMDegQINBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=crypto+mining+profitability+calculator&sca_esv=bbb7d61e8d3bb37e&ei=QRc6arvqO-uhur8PgriXcQ&start=10&sa=N&sstk=AU9db-D1LkhdD4NJAYmtHtzIJu0KkzX1LbyD64kvDoSV6WCYMS05-qnlq16MpGU6MIIHrkOhhLU9e4HqfFqShirPiNz4a7oPO5oqQQ&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q8tMDegQINBAE",
+      "3": "https://www.google.com/search?q=crypto+mining+profitability+calculator&sca_esv=bbb7d61e8d3bb37e&ei=QRc6arvqO-uhur8PgriXcQ&start=20&sa=N&sstk=AU9db-D1LkhdD4NJAYmtHtzIJu0KkzX1LbyD64kvDoSV6WCYMS05-qnlq16MpGU6MIIHrkOhhLU9e4HqfFqShirPiNz4a7oPO5oqQQ&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q8tMDegQINBAG",
+      "4": "https://www.google.com/search?q=crypto+mining+profitability+calculator&sca_esv=bbb7d61e8d3bb37e&ei=QRc6arvqO-uhur8PgriXcQ&start=30&sa=N&sstk=AU9db-D1LkhdD4NJAYmtHtzIJu0KkzX1LbyD64kvDoSV6WCYMS05-qnlq16MpGU6MIIHrkOhhLU9e4HqfFqShirPiNz4a7oPO5oqQQ&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q8tMDegQINBAI",
+      "5": "https://www.google.com/search?q=crypto+mining+profitability+calculator&sca_esv=bbb7d61e8d3bb37e&ei=QRc6arvqO-uhur8PgriXcQ&start=40&sa=N&sstk=AU9db-D1LkhdD4NJAYmtHtzIJu0KkzX1LbyD64kvDoSV6WCYMS05-qnlq16MpGU6MIIHrkOhhLU9e4HqfFqShirPiNz4a7oPO5oqQQ&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q8tMDegQINBAK",
+      "6": "https://www.google.com/search?q=crypto+mining+profitability+calculator&sca_esv=bbb7d61e8d3bb37e&ei=QRc6arvqO-uhur8PgriXcQ&start=50&sa=N&sstk=AU9db-D1LkhdD4NJAYmtHtzIJu0KkzX1LbyD64kvDoSV6WCYMS05-qnlq16MpGU6MIIHrkOhhLU9e4HqfFqShirPiNz4a7oPO5oqQQ&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q8tMDegQINBAM",
+      "7": "https://www.google.com/search?q=crypto+mining+profitability+calculator&sca_esv=bbb7d61e8d3bb37e&ei=QRc6arvqO-uhur8PgriXcQ&start=60&sa=N&sstk=AU9db-D1LkhdD4NJAYmtHtzIJu0KkzX1LbyD64kvDoSV6WCYMS05-qnlq16MpGU6MIIHrkOhhLU9e4HqfFqShirPiNz4a7oPO5oqQQ&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q8tMDegQINBAO",
+      "8": "https://www.google.com/search?q=crypto+mining+profitability+calculator&sca_esv=bbb7d61e8d3bb37e&ei=QRc6arvqO-uhur8PgriXcQ&start=70&sa=N&sstk=AU9db-D1LkhdD4NJAYmtHtzIJu0KkzX1LbyD64kvDoSV6WCYMS05-qnlq16MpGU6MIIHrkOhhLU9e4HqfFqShirPiNz4a7oPO5oqQQ&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q8tMDegQINBAQ",
+      "9": "https://www.google.com/search?q=crypto+mining+profitability+calculator&sca_esv=bbb7d61e8d3bb37e&ei=QRc6arvqO-uhur8PgriXcQ&start=80&sa=N&sstk=AU9db-D1LkhdD4NJAYmtHtzIJu0KkzX1LbyD64kvDoSV6WCYMS05-qnlq16MpGU6MIIHrkOhhLU9e4HqfFqShirPiNz4a7oPO5oqQQ&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q8tMDegQINBAS",
+      "10": "https://www.google.com/search?q=crypto+mining+profitability+calculator&sca_esv=bbb7d61e8d3bb37e&ei=QRc6arvqO-uhur8PgriXcQ&start=90&sa=N&sstk=AU9db-D1LkhdD4NJAYmtHtzIJu0KkzX1LbyD64kvDoSV6WCYMS05-qnlq16MpGU6MIIHrkOhhLU9e4HqfFqShirPiNz4a7oPO5oqQQ&ved=2ahUKEwj7joqrzpyVAxXrkO4BHQLcJQ4Q8tMDegQINBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=crypto+mining+profitability+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=crypto+mining+profitability+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=crypto+mining+profitability+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=crypto+mining+profitability+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=crypto+mining+profitability+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=crypto+mining+profitability+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=crypto+mining+profitability+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=crypto+mining+profitability+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=crypto+mining+profitability+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=crypto+mining+profitability+calculator&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=crypto+mining+profitability+calculator&start=90"
+    }
+  }
+}

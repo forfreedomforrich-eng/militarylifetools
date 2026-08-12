@@ -1,0 +1,438 @@
+{
+  "search_metadata": {
+    "id": "6a3a226e5c018f0af0761d57",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/imFn-ClbMdcUAhf7y0R6ZQ/6a3a226e5c018f0af0761d57.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/imFn-ClbMdcUAhf7y0R6ZQ/6a3a226e5c018f0af0761d57.json_with_pixel_position",
+    "created_at": "2026-06-23 06:06:38 UTC",
+    "processed_at": "2026-06-23 06:06:38 UTC",
+    "google_url": "https://www.google.com/search?q=military+benefits+after+4+years+air+force&oq=military+benefits+after+4+years+air+force&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/imFn-ClbMdcUAhf7y0R6ZQ/6a3a226e5c018f0af0761d57.html",
+    "total_time_taken": 0.65
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military benefits after 4 years air force",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military benefits after 4 years air force",
+    "total_results": 153,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What benefits do you get for joining the military for 4 years?",
+      "type": "featured_snippet",
+      "title": "Military financial benefits",
+      "date": "Apr 30, 2026",
+      "link": "https://www.militaryonesource.mil/military-basics/new-to-the-military/service-members-military-benefits-package/",
+      "list": [
+        "Allowances. ... ",
+        "Special and incentive, or S&I, pays. ... ",
+        "Paid leave days. ... ",
+        "Full military health and dental insurance. ... ",
+        "Retired pay. ... ",
+        "Free or reduced-cost housing. ... ",
+        "Family Supplemental Subsistence Allowance Program, or FSSA. ... ",
+        "Affordable life insurance."
+      ],
+      "displayed_link": "https://www.militaryonesource.mil › new-to-the-military",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEX___-qsbZ0got7iJDN09X-8_TfgIrhiZLrsbcALkMANEgAIzu1vsL-7e_SGznVOE3ULEUOPU_SIz7WPVHUMknggYrWSVvWP1Tklp7mnaXsub5teoIAACEAEiwAABnIABPMFjHLAinYcHrwy87np6xL8aY1AAAAb0lEQVR4AW3MAxbAQBAD0Nq2u7r_GZut9Z9nkihfqqbrmmFatuTgoLme5wdhFENi4aB7aeoGYZZDUV6HuILaPg_KaT-YTSt1VyUq4DFaQyxH-2EcJzWcCVCm_ODODcehTIrVOWon8amQB8e6EcrHAhMOCd6TH_ZYAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWEwZ3hUVUpVZVdSSk5ubEhhM05UVHpRemVtMVdSMHBhUkRkVGJscGZaMEk0VkVjM05UZGthRTkyTmpSUlluSTVabTVxTTFaSmRrSkJkVzFuT1MwNFNVUkZiMnBhV21GU1VVZFdRblpWYzIxdU1HUkxXRWN5TkVaT1p4SVhZbWxKTm1GMUxUaE5OVWhaTlU1dlVEaFFTSFZ6UVdjYUlrRkVjM0k1WmxGVk9YRlRWWEYxWTFkRk5VaFJZWEZEVG5wWVdtOTZiamx3VDBFIiwiZmN2IjoiMyIsImVpIjoiYmlJNmF1LThNNUhZNU5vUDhQSHVzQWciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMElIbGxZWEp6SUdGcGNpQm1iM0pqWlJBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IldoYXQgYmVuZWZpdHMgZG8geW91IGdldCBmb3Igam9pbmluZyB0aGUgbWlsaXRhcnkgZm9yIDQgeWVhcnM/IiwibGsiOiJjeDNKd1FtQVFBd0V3RDU4YlJGLUxTWmk3bTVGRThoRkpOMEx6bmVXN1IyUzJOVzBNU2NPUl9tRHJvbm1nZE5wdEk0Y2lwc1hVNkwtV0ZFcU1UOCIsImJzIjoiYzZXUVR3N0JRQmpGWXlXWmxaMmExWGVHcWo4YkdvbUlBMGlzUl90Ti02bk95SFNxNmQ0TlhNS0puTUV4VUZHc0NPdjNmaV92UGJadnNQRXlGaFpXcUZDU3pTRFVVT29jSXJRZ3RZRzFKa1VxQWhzanBMUWhLMHhaQ1I2VUtFem1PeWR5ZlQ0cV9nbGhXLWJOZFFGcEhzUVBOaFVKZ3BBV2F4ZVFxaEltWkdDbVRZQy1jMnk2UGQ2TnYwYkZGWlUzbE8zWVlQb3NXWmVxRjVDc1JLMDJKV1JvZHZnY2ZQYmRJZS1IUDlGc3dienFieU5VOG5yVHA2V0h3TzN3ZHA0SmVVZmZfSzNHQlEiLCJpZCI6ImZjX2JpSTZhdS04TTVIWTVOb1A4UEh1c0FnXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWEwZ3hUVUpVZVdSSk5ubEhhM05UVHpRemVtMVdSMHBhUkRkVGJscGZaMEk0VkVjM05UZGthRTkyTmpSUlluSTVabTVxTTFaSmRrSkJkVzFuT1MwNFNVUkZiMnBhV21GU1VVZFdRblpWYzIxdU1HUkxXRWN5TkVaT1p4SVhZbWxKTm1GMUxUaE5OVWhaTlU1dlVEaFFTSFZ6UVdjYUlrRkVjM0k1WmxGVk9YRlRWWEYxWTFkRk5VaFJZWEZEVG5wWVdtOTZiamx3VDBFIiwiZmN2IjoiMyIsImVpIjoiYmlJNmF1LThNNUhZNU5vUDhQSHVzQWciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMElIbGxZWEp6SUdGcGNpQm1iM0pqWlJBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IldoYXQgYmVuZWZpdHMgZG8geW91IGdldCBmb3Igam9pbmluZyB0aGUgbWlsaXRhcnkgZm9yIDQgeWVhcnM%2FIiwibGsiOiJjeDNKd1FtQVFBd0V3RDU4YlJGLUxTWmk3bTVGRThoRkpOMEx6bmVXN1IyUzJOVzBNU2NPUl9tRHJvbm1nZE5wdEk0Y2lwc1hVNkwtV0ZFcU1UOCIsImJzIjoiYzZXUVR3N0JRQmpGWXlXWmxaMmExWGVHcWo4YkdvbUlBMGlzUl90Ti02bk95SFNxNmQ0TlhNS0puTUV4VUZHc0NPdjNmaV92UGJadnNQRXlGaFpXcUZDU3pTRFVVT29jSXJRZ3RZRzFKa1VxQWhzanBMUWhLMHhaQ1I2VUtFem1PeWR5ZlQ0cV9nbGhXLWJOZFFGcEhzUVBOaFVKZ3BBV2F4ZVFxaEltWkdDbVRZQy1jMnk2UGQ2TnYwYkZGWlUzbE8zWVlQb3NXWmVxRjVDc1JLMDJKV1JvZHZnY2ZQYmRJZS1IUDlGc3dienFieU5VOG5yVHA2V0h3TzN3ZHA0SmVVZmZfSzNHQlEiLCJpZCI6ImZjX2JpSTZhdS04TTVIWTVOb1A4UEh1c0FnXzEifQ%3D%3D"
+    },
+    {
+      "question": "How much do you make after 4 years in the Air Force?",
+      "type": "featured_snippet",
+      "snippet": "4-Year Enlistment: Assuming I enlist for 4 years as an E-3 and achieve Standard promotions to E-4 during my first enlistment, I could earn an adjusted pay of around $77,342 during my first year, working up to $84,998 in my fourth year.",
+      "title": "Money",
+      "link": "https://airforce.fastport.com/AF/money/Database?p%5BProfileID%5D=129&p%5Bv#:~:text=4%2DYear%20Enlistment%3A%20Assuming%20I,%2484%2C998%20in%20my%20fourth%20year.",
+      "displayed_link": "https://airforce.fastport.com › money › Database",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACDElEQVR4AXSSBbLVQBBFTyaTPMfdN_DLcChjIehaKGcN-CpYA-7u7vA8yXSTzNQfvFM3PXbbUdVkEdevXz8wmUz0XxiNRvr-_Xu9c-fOqV85fPr0KT5q1v-Tqqp0Pp_r3bt39fnz59FIMhwO9cLDGS-_FSyzBYf2b6MoSj5_G_KrOOe8fv_2FXmWISKnFxYWjlmAl1-LGnPoC_8TY0xDYvnKNSwb9BiPR0cuXbp03gIISqXKt1kFQJoa-t12TUohAXHBsDafQpZl5K02dTrGAv5QVD1CuMJwPPUPE_ApKYgopvktWzqQzFqcCDECYyBLk-AJCAv1a1EabYL9BJq1d1QFA06VWSVMEoeqNohWwjLocAcioKK4ymGbQydKKYILD0Dx-s2b12Q29cR6Buj3-4wnc7Zs3Ya1lmfPny2xGiKICB-IL2aKrdHv91i_fj0xKoL33bv2nLAoVCKUTrwWBYmRJLTbbcrSURTD2AWC-MitoJ5Ywx-oEPPt9rqsXrOGkLfGbgF-PZsX2GbhwkUkJomh2-kwn0mdhmVeP5zOZt6Ic0KWt2i1Wn5ODBJCmZRCzUOUWhs6nTY2FBAnriFHVJXDOV1MAY7uWM-ocOQ4Pn_-_Eu7KgDyvFVHknuCSBw6v7avXr44XpalSRTKHwMqfoaUgD5_-mjy-tVLFbDTobYDMyBQHyRxvH3z-hkA1BfuH9gVqCwAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWEwZ3hUVUpVZVdSSk5ubEhhM05UVHpRemVtMVdSMHBhUkRkVGJscGZaMEk0VkVjM05UZGthRTkyTmpSUlluSTVabTVxTTFaSmRrSkJkVzFuT1MwNFNVUkZiMnBhV21GU1VVZFdRblpWYzIxdU1HUkxXRWN5TkVaT1p4SVhZbWxKTm1GMUxUaE5OVWhaTlU1dlVEaFFTSFZ6UVdjYUlrRkVjM0k1WmxGVk9YRlRWWEYxWTFkRk5VaFJZWEZEVG5wWVdtOTZiamx3VDBFIiwiZmN2IjoiMyIsImVpIjoiYmlJNmF1LThNNUhZNU5vUDhQSHVzQWciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMElIbGxZWEp6SUdGcGNpQm1iM0pqWlJBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvIHlvdSBtYWtlIGFmdGVyIDQgeWVhcnMgaW4gdGhlIEFpciBGb3JjZT8iLCJsayI6IkdqTm9iM2NnYlhWamFDQmtieUI1YjNVZ2JXRnJaU0JoWm5SbGNpQTBJSGxsWVhKeklHbHVJSFJvWlNCaGFYSWdabTl5WTJVIiwiYnMiOiJjNldRVHc3QlFCakZZeVdabFoyYTFYZUdxajhiR29tSUEwaXNSX3ROLTZuT3lIU3E2ZDROWE1LSm5NRXhVRkdzQ092M2ZpX3ZQYlp2c1BFeUZoWldxRkNTelNEVVVPb2NJclFndFlHMUprVXFBaHNqcExRaEsweFpDUjZVS0V6bU95ZHlmVDRxX2dsaFctYk5kUUZwSHNRUE5oVUpncEFXYXhlUXFoSW1aR0NtVFlDLWMyeTZQZDZOdjBiRkZaVTNsTzNZWVBvc1daZXFGNUNzUkswMkpXUm9kdmdjZlBiZEllLUhQOUZzd2J6cWJ5TlU4bnJUcDZXSHdPM3dkcDRKZVVmZl9LM0dCUSIsImlkIjoiZmNfYmlJNmF1LThNNUhZNU5vUDhQSHVzQWdfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWEwZ3hUVUpVZVdSSk5ubEhhM05UVHpRemVtMVdSMHBhUkRkVGJscGZaMEk0VkVjM05UZGthRTkyTmpSUlluSTVabTVxTTFaSmRrSkJkVzFuT1MwNFNVUkZiMnBhV21GU1VVZFdRblpWYzIxdU1HUkxXRWN5TkVaT1p4SVhZbWxKTm1GMUxUaE5OVWhaTlU1dlVEaFFTSFZ6UVdjYUlrRkVjM0k1WmxGVk9YRlRWWEYxWTFkRk5VaFJZWEZEVG5wWVdtOTZiamx3VDBFIiwiZmN2IjoiMyIsImVpIjoiYmlJNmF1LThNNUhZNU5vUDhQSHVzQWciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMElIbGxZWEp6SUdGcGNpQm1iM0pqWlJBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvIHlvdSBtYWtlIGFmdGVyIDQgeWVhcnMgaW4gdGhlIEFpciBGb3JjZT8iLCJsayI6IkdqTm9iM2NnYlhWamFDQmtieUI1YjNVZ2JXRnJaU0JoWm5SbGNpQTBJSGxsWVhKeklHbHVJSFJvWlNCaGFYSWdabTl5WTJVIiwiYnMiOiJjNldRVHc3QlFCakZZeVdabFoyYTFYZUdxajhiR29tSUEwaXNSX3ROLTZuT3lIU3E2ZDROWE1LSm5NRXhVRkdzQ092M2ZpX3ZQYlp2c1BFeUZoWldxRkNTelNEVVVPb2NJclFndFlHMUprVXFBaHNqcExRaEsweFpDUjZVS0V6bU95ZHlmVDRxX2dsaFctYk5kUUZwSHNRUE5oVUpncEFXYXhlUXFoSW1aR0NtVFlDLWMyeTZQZDZOdjBiRkZaVTNsTzNZWVBvc1daZXFGNUNzUkswMkpXUm9kdmdjZlBiZEllLUhQOUZzd2J6cWJ5TlU4bnJUcDZXSHdPM3dkcDRKZVVmZl9LM0dCUSIsImlkIjoiZmNfYmlJNmF1LThNNUhZNU5vUDhQSHVzQWdfMSJ9"
+    },
+    {
+      "question": "Do you get military benefits if you only serve 4 years?",
+      "type": "featured_snippet",
+      "snippet": "Generally speaking, you need at least 36 months of continuous active service to qualify for 100% benefits, but there are many other factors that come into play.",
+      "title": "Military Benefits When Your Service is Up",
+      "link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/#:~:text=Generally%20speaking%2C%20you%20need%20at,factors%20that%20come%20into%20play.",
+      "displayed_link": "https://www.militarybenefit.org › get-educated › military...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWEwZ3hUVUpVZVdSSk5ubEhhM05UVHpRemVtMVdSMHBhUkRkVGJscGZaMEk0VkVjM05UZGthRTkyTmpSUlluSTVabTVxTTFaSmRrSkJkVzFuT1MwNFNVUkZiMnBhV21GU1VVZFdRblpWYzIxdU1HUkxXRWN5TkVaT1p4SVhZbWxKTm1GMUxUaE5OVWhaTlU1dlVEaFFTSFZ6UVdjYUlrRkVjM0k1WmxGVk9YRlRWWEYxWTFkRk5VaFJZWEZEVG5wWVdtOTZiamx3VDBFIiwiZmN2IjoiMyIsImVpIjoiYmlJNmF1LThNNUhZNU5vUDhQSHVzQWciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMElIbGxZWEp6SUdGcGNpQm1iM0pqWlJBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IkRvIHlvdSBnZXQgbWlsaXRhcnkgYmVuZWZpdHMgaWYgeW91IG9ubHkgc2VydmUgNCB5ZWFycz8iLCJsayI6ImM1TXlTOGxYcU13dlZVaFBMVkhJemN6SkxFa3NxbFJJU3MxTFRjc3NLVmJJVEFOTDV1ZmxWQ29VcHhhVnBTcVlLRlNtSmhZVkF3QSIsImJzIjoiYzZXUVR3N0JRQmpGWXlXWmxaMmExWGVHcWo4YkdvbUlBMGlzUl90Ti02bk95SFNxNmQ0TlhNS0puTUV4VUZHc0NPdjNmaV92UGJadnNQRXlGaFpXcUZDU3pTRFVVT29jSXJRZ3RZRzFKa1VxQWhzanBMUWhLMHhaQ1I2VUtFem1PeWR5ZlQ0cV9nbGhXLWJOZFFGcEhzUVBOaFVKZ3BBV2F4ZVFxaEltWkdDbVRZQy1jMnk2UGQ2TnYwYkZGWlUzbE8zWVlQb3NXWmVxRjVDc1JLMDJKV1JvZHZnY2ZQYmRJZS1IUDlGc3dienFieU5VOG5yVHA2V0h3TzN3ZHA0SmVVZmZfSzNHQlEiLCJpZCI6ImZjX2JpSTZhdS04TTVIWTVOb1A4UEh1c0FnXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWEwZ3hUVUpVZVdSSk5ubEhhM05UVHpRemVtMVdSMHBhUkRkVGJscGZaMEk0VkVjM05UZGthRTkyTmpSUlluSTVabTVxTTFaSmRrSkJkVzFuT1MwNFNVUkZiMnBhV21GU1VVZFdRblpWYzIxdU1HUkxXRWN5TkVaT1p4SVhZbWxKTm1GMUxUaE5OVWhaTlU1dlVEaFFTSFZ6UVdjYUlrRkVjM0k1WmxGVk9YRlRWWEYxWTFkRk5VaFJZWEZEVG5wWVdtOTZiamx3VDBFIiwiZmN2IjoiMyIsImVpIjoiYmlJNmF1LThNNUhZNU5vUDhQSHVzQWciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMElIbGxZWEp6SUdGcGNpQm1iM0pqWlJBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IkRvIHlvdSBnZXQgbWlsaXRhcnkgYmVuZWZpdHMgaWYgeW91IG9ubHkgc2VydmUgNCB5ZWFycz8iLCJsayI6ImM1TXlTOGxYcU13dlZVaFBMVkhJemN6SkxFa3NxbFJJU3MxTFRjc3NLVmJJVEFOTDV1ZmxWQ29VcHhhVnBTcVlLRlNtSmhZVkF3QSIsImJzIjoiYzZXUVR3N0JRQmpGWXlXWmxaMmExWGVHcWo4YkdvbUlBMGlzUl90Ti02bk95SFNxNmQ0TlhNS0puTUV4VUZHc0NPdjNmaV92UGJadnNQRXlGaFpXcUZDU3pTRFVVT29jSXJRZ3RZRzFKa1VxQWhzanBMUWhLMHhaQ1I2VUtFem1PeWR5ZlQ0cV9nbGhXLWJOZFFGcEhzUVBOaFVKZ3BBV2F4ZVFxaEltWkdDbVRZQy1jMnk2UGQ2TnYwYkZGWlUzbE8zWVlQb3NXWmVxRjVDc1JLMDJKV1JvZHZnY2ZQYmRJZS1IUDlGc3dienFieU5VOG5yVHA2V0h3TzN3ZHA0SmVVZmZfSzNHQlEiLCJpZCI6ImZjX2JpSTZhdS04TTVIWTVOb1A4UEh1c0FnXzEifQ%3D%3D"
+    },
+    {
+      "question": "What rank do you get after 4 years in the Air Force?",
+      "type": "featured_snippet",
+      "snippet": "Promotion to the first NCO rank, staff sergeant (E-5), happens around the 4-year mark, but from there, each rank becomes more competitive. It may take about six years to become a technical sergeant (E-6), eight years for master sergeant (E-7) and 11-14 years or more for the top enlisted ranks (E-8/E-9).",
+      "title": "Air Force Ranks: A Complete Guide to Enlisted and Officer Ranks",
+      "date": "Jul 28, 2025",
+      "link": "https://www.military.com/air-force/ranks#:~:text=Promotion%20to%20the%20first%20NCO,8%2FE%2D9).",
+      "displayed_link": "https://www.military.com › air-force › ranks",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAA2ElEQVR4AWP4TyKgTMOxCw8ZNLuBCMKtmH6AQb0rt3sHTg2nLj9mCJ7L4DTl0esvQK5nxXqu2EUlE3YR0GCetwpoFZAL1JnUuZOQhsA5TXMPTVl39vOPPwzu04FsQhr8Zq_adx3o7qv3XgGd1Dj7IAENQFOBSoFOB2oDGk-EBrfpIMdYTAAqBeohrAHoUSADaA_QbUCrgCFLWAMkQIGWfPz-mwgNjtOBDKDrgRqAjLxJezEiDhP8-vX__19kBm4Nhw__Z2BAR2lpuDV8-PD_9Gl0dPs2RakVAHo2kByotk8gAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWEwZ3hUVUpVZVdSSk5ubEhhM05UVHpRemVtMVdSMHBhUkRkVGJscGZaMEk0VkVjM05UZGthRTkyTmpSUlluSTVabTVxTTFaSmRrSkJkVzFuT1MwNFNVUkZiMnBhV21GU1VVZFdRblpWYzIxdU1HUkxXRWN5TkVaT1p4SVhZbWxKTm1GMUxUaE5OVWhaTlU1dlVEaFFTSFZ6UVdjYUlrRkVjM0k1WmxGVk9YRlRWWEYxWTFkRk5VaFJZWEZEVG5wWVdtOTZiamx3VDBFIiwiZmN2IjoiMyIsImVpIjoiYmlJNmF1LThNNUhZNU5vUDhQSHVzQWciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMElIbGxZWEp6SUdGcGNpQm1iM0pqWlJBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IldoYXQgcmFuayBkbyB5b3UgZ2V0IGFmdGVyIDQgeWVhcnMgaW4gdGhlIEFpciBGb3JjZT8iLCJsayI6IkdoZDFjMkZtSUhKaGJtc2dZV1owWlhJZ05DQjVaV0Z5Y3ciLCJicyI6ImM2V1FUdzdCUUJqRll5V1psWjJhMVhlR3FqOGJHb21JQTBpc1JfdE4tNm5PeUhTcTZkNE5YTUtKbk1FeFVGR3NDT3YzZmlfdlBiWnZzUEV5RmhaV3FGQ1N6U0RVVU9vY0lyUWd0WUcxSmtVcUFoc2pwTFFoSzB4WkNSNlVLRXptT3lkeWZUNHFfZ2xoVy1iTmRRRnBIc1FQTmhVSmdwQVdheGVRcWhJbVpHQ21UWUMtYzJ5NlBkNk52MGJGRlpVM2xPM1lZUG9zV1plcUY1Q3NSSzAySldSb2R2Z2NmUGJkSWUtSFA5RnN3YnpxYnlOVThuclRwNldId08zd2RwNEplVWZmX0szR0JRIiwiaWQiOiJmY19iaUk2YXUtOE01SFk1Tm9QOFBIdXNBZ18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWEwZ3hUVUpVZVdSSk5ubEhhM05UVHpRemVtMVdSMHBhUkRkVGJscGZaMEk0VkVjM05UZGthRTkyTmpSUlluSTVabTVxTTFaSmRrSkJkVzFuT1MwNFNVUkZiMnBhV21GU1VVZFdRblpWYzIxdU1HUkxXRWN5TkVaT1p4SVhZbWxKTm1GMUxUaE5OVWhaTlU1dlVEaFFTSFZ6UVdjYUlrRkVjM0k1WmxGVk9YRlRWWEYxWTFkRk5VaFJZWEZEVG5wWVdtOTZiamx3VDBFIiwiZmN2IjoiMyIsImVpIjoiYmlJNmF1LThNNUhZNU5vUDhQSHVzQWciLCJxYyI6IkNpbHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMElIbGxZWEp6SUdGcGNpQm1iM0pqWlJBQWZTcmxRRDgiLCJxdWVzdGlvbiI6IldoYXQgcmFuayBkbyB5b3UgZ2V0IGFmdGVyIDQgeWVhcnMgaW4gdGhlIEFpciBGb3JjZT8iLCJsayI6IkdoZDFjMkZtSUhKaGJtc2dZV1owWlhJZ05DQjVaV0Z5Y3ciLCJicyI6ImM2V1FUdzdCUUJqRll5V1psWjJhMVhlR3FqOGJHb21JQTBpc1JfdE4tNm5PeUhTcTZkNE5YTUtKbk1FeFVGR3NDT3YzZmlfdlBiWnZzUEV5RmhaV3FGQ1N6U0RVVU9vY0lyUWd0WUcxSmtVcUFoc2pwTFFoSzB4WkNSNlVLRXptT3lkeWZUNHFfZ2xoVy1iTmRRRnBIc1FQTmhVSmdwQVdheGVRcWhJbVpHQ21UWUMtYzJ5NlBkNk52MGJGRlpVM2xPM1lZUG9zV1plcUY1Q3NSSzAySldSb2R2Z2NmUGJkSWUtSFA5RnN3YnpxYnlOVThuclRwNldId08zd2RwNEplVWZmX0szR0JRIiwiaWQiOiJmY19iaUk2YXUtOE01SFk1Tm9QOFBIdXNBZ18xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Air Force Active Duty Benefits",
+      "link": "https://www.airforce.com/pay-and-benefits/air-force-benefits",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.airforce.com/pay-and-benefits/air-force-benefits&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQFnoECBgQAQ",
+      "displayed_link": "https://www.airforce.com › Pay and benefits",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEVHcEyurrOfnp-Li4upqam-vr90c3Rta2xXVVVTUFBfXV2BgIJraGpAPT5qaGiJiYpXVFVzcnN-e31fXV6cnZyHhYdHRERgX19-fX2tra5_f39BPD04NTZST1FJRkeDgYFJRkZtbGxMSUpwb29FQkNOTE1OTExHQ0RlY2R8e3tbWFqKiYqfn6D___98enyfnqCVlJZwbm9tbG1_foBMSEpdWlyztLVMSEl9enpXV04PAAAAOXRSTlMAAh40CwY7nsMovk7T91RF_LCa80lRyotXFGbr_f_mBuaS_nP929u0__6i3P8CYMz8-___w-n_wx6ywyN8AAAA60lEQVR4AdzKxYEDMRBE0RYPSxpmMzM7_8QWzZCA_7FewWeFMKFwFyWYnYwLw7xH0xL8hLbjeugOPdex0T9KR2l8a1grR57uxA-C8BbDIPDJCVkUu4mJzoTMxI1TBqeyvChjO0N_lNlxWeQZXMpEVdaCNAAaRDTLStwYNFpB1XbjDsad2G1XQatxg0haP1u3J0S_-_OyJIKbmDdw22o4Gg1V2x14DbiL8WQ8mf40GSecwUMzPF8sR6PlYo4RPEWs1Wi93qws8mw03e6W-_1yd0jpszaOUne7Wh4b8CoWGUbE4E0Z59-TpEPiAgARchH_Qrwx3AAAAABJRU5ErkJggg.png",
+      "snippet": "Eligibility to retire after 20 years of service; Thrift Savings Plan, which ... 2 YEARS. $527.52 *. 3 YEARS. $547.76 *. 4 YEARS. $574.44 *. 6 YEARS. $595.40 * ...",
+      "snippet_highlighted_words": [
+        "4 YEARS. $574.44"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Eligibility to retire after 20 years of service; Thrift Savings Plan, which ... 2 YEARS. $527.52 *. 3 YEARS. $547.76 *. 4 YEARS. $574.44 *. 6 YEARS. $595.40 * ...",
+          "source_info_link": "https://www.airforce.com/pay-and-benefits/air-force-benefits",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEVHcEyurrOfnp-Li4upqam-vr90c3Rta2xXVVVTUFBfXV2BgIJraGpAPT5qaGiJiYpXVFVzcnN-e31fXV6cnZyHhYdHRERgX19-fX2tra5_f39BPD04NTZST1FJRkeDgYFJRkZtbGxMSUpwb29FQkNOTE1OTExHQ0RlY2R8e3tbWFqKiYqfn6D___98enyfnqCVlJZwbm9tbG1_foBMSEpdWlyztLVMSEl9enpXV04PAAAAOXRSTlMAAh40CwY7nsMovk7T91RF_LCa80lRyotXFGbr_f_mBuaS_nP929u0__6i3P8CYMz8-___w-n_wx6ywyN8AAAA60lEQVR4AdzKxYEDMRBE0RYPSxpmMzM7_8QWzZCA_7FewWeFMKFwFyWYnYwLw7xH0xL8hLbjeugOPdex0T9KR2l8a1grR57uxA-C8BbDIPDJCVkUu4mJzoTMxI1TBqeyvChjO0N_lNlxWeQZXMpEVdaCNAAaRDTLStwYNFpB1XbjDsad2G1XQatxg0haP1u3J0S_-_OyJIKbmDdw22o4Gg1V2x14DbiL8WQ8mf40GSecwUMzPF8sR6PlYo4RPEWs1Wi93qws8mw03e6W-_1yd0jpszaOUne7Wh4b8CoWGUbE4E0Z59-TpEPiAgARchH_Qrwx3AAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.airforce.com/pay-and-benefits/air-force-benefits&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.airforce.com%2Fpay-and-benefits%2Fair-force-benefits",
+      "source": "Air Force",
+      "read_more_link": "https://www.airforce.com/pay-and-benefits/air-force-benefits#:~:text=01%20of%2006&text=Questions%3F%20We%20have%20answers."
+    },
+    {
+      "position": 2,
+      "title": "what benefits do i get after serving 4 years?",
+      "link": "https://www.reddit.com/r/AirForceRecruits/comments/1e93dsp/what_benefits_do_i_get_after_serving_4_years/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/AirForceRecruits/comments/1e93dsp/what_benefits_do_i_get_after_serving_4_years/&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQFnoECB0QAQ",
+      "displayed_link": "10+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "i am a 17 y/o female wanting to join the military so i can get my college degree paid for, but im not sure if this is a good idea. people say its not ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "All Benefits for a 4 year Active Duty Contract List ...",
+            "link": "https://www.reddit.com/r/AirForceRecruits/comments/188kr74/all_benefits_for_a_4_year_active_duty_contract/",
+            "answer_count": 24,
+            "date": "Dec 1, 2023"
+          },
+          {
+            "title": "Is joining the army for a 4 year gig worth it? - Reddit",
+            "link": "https://www.reddit.com/r/personalfinance/comments/r2k52o/is_joining_the_army_for_a_4_year_gig_worth_it/",
+            "answer_count": 401,
+            "date": "Nov 26, 2021"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "After 36 months of active duty you will be qualified to utilize the gi bill upon discharge.",
+          "source_info_link": "https://www.reddit.com/r/AirForceRecruits/comments/1e93dsp/what_benefits_do_i_get_after_serving_4_years/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/AirForceRecruits/comments/1e93dsp/what_benefits_do_i_get_after_serving_4_years/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FAirForceRecruits%2Fcomments%2F1e93dsp%2Fwhat_benefits_do_i_get_after_serving_4_years%2F",
+      "source": "Reddit · r/AirForceRecruits"
+    },
+    {
+      "position": 3,
+      "title": "Military Benefits When Your Service is Up",
+      "link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarybenefit.org/get-educated/military-benefits-after-separation/&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQFnoECBkQAQ",
+      "displayed_link": "https://www.militarybenefit.org › get-educated › military...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png",
+      "snippet": "An overview of the main educational, housing, medical, and other benefit programs available to veterans.",
+      "snippet_highlighted_words": [
+        "educational"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "An overview of the main educational, housing, medical, and other benefit programs available to veterans.",
+          "source_info_link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarybenefit.org/get-educated/military-benefits-after-separation/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarybenefit.org%2Fget-educated%2Fmilitary-benefits-after-separation%2F",
+      "source": "Military Benefit Association"
+    },
+    {
+      "position": 4,
+      "title": "Pay & Benefits - U.S. Air Force",
+      "link": "https://www.airforce.com/pay-and-benefits",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.airforce.com/pay-and-benefits&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQFnoECBcQAQ",
+      "displayed_link": "https://www.airforce.com › pay-and-benefits",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEVHcEyurrOfnp-Li4upqam-vr90c3Rta2xXVVVTUFBfXV2BgIJraGpAPT5qaGiJiYpXVFVzcnN-e31fXV6cnZyHhYdHRERgX19-fX2tra5_f39BPD04NTZST1FJRkeDgYFJRkZtbGxMSUpwb29FQkNOTE1OTExHQ0RlY2R8e3tbWFqKiYqfn6D___98enyfnqCVlJZwbm9tbG1_foBMSEpdWlyztLVMSEl9enpXV04PAAAAOXRSTlMAAh40CwY7nsMovk7T91RF_LCa80lRyotXFGbr_f_mBuaS_nP929u0__6i3P8CYMz8-___w-n_wx6ywyN8AAAA60lEQVR4AdzKxYEDMRBE0RYPSxpmMzM7_8QWzZCA_7FewWeFMKFwFyWYnYwLw7xH0xL8hLbjeugOPdex0T9KR2l8a1grR57uxA-C8BbDIPDJCVkUu4mJzoTMxI1TBqeyvChjO0N_lNlxWeQZXMpEVdaCNAAaRDTLStwYNFpB1XbjDsad2G1XQatxg0haP1u3J0S_-_OyJIKbmDdw22o4Gg1V2x14DbiL8WQ8mf40GSecwUMzPF8sR6PlYo4RPEWs1Wi93qws8mw03e6W-_1yd0jpszaOUne7Wh4b8CoWGUbE4E0Z59-TpEPiAgARchH_Qrwx3AAAAABJRU5ErkJggg.png",
+      "snippet": "Eligibility to retire after 20 years of service; Thrift Savings Plan, which ... 2 YEARS. $527.52 *. 3 YEARS. $547.76 *. 4 YEARS. $574.44 *. 6 YEARS. $595.40 * ...",
+      "snippet_highlighted_words": [
+        "4 YEARS. $574.44"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Eligibility to retire after 20 years of service; Thrift Savings Plan, which ... 2 YEARS. $527.52 *. 3 YEARS. $547.76 *. 4 YEARS. $574.44 *. 6 YEARS. $595.40 * ...",
+          "source_info_link": "https://www.airforce.com/pay-and-benefits",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEVHcEyurrOfnp-Li4upqam-vr90c3Rta2xXVVVTUFBfXV2BgIJraGpAPT5qaGiJiYpXVFVzcnN-e31fXV6cnZyHhYdHRERgX19-fX2tra5_f39BPD04NTZST1FJRkeDgYFJRkZtbGxMSUpwb29FQkNOTE1OTExHQ0RlY2R8e3tbWFqKiYqfn6D___98enyfnqCVlJZwbm9tbG1_foBMSEpdWlyztLVMSEl9enpXV04PAAAAOXRSTlMAAh40CwY7nsMovk7T91RF_LCa80lRyotXFGbr_f_mBuaS_nP929u0__6i3P8CYMz8-___w-n_wx6ywyN8AAAA60lEQVR4AdzKxYEDMRBE0RYPSxpmMzM7_8QWzZCA_7FewWeFMKFwFyWYnYwLw7xH0xL8hLbjeugOPdex0T9KR2l8a1grR57uxA-C8BbDIPDJCVkUu4mJzoTMxI1TBqeyvChjO0N_lNlxWeQZXMpEVdaCNAAaRDTLStwYNFpB1XbjDsad2G1XQatxg0haP1u3J0S_-_OyJIKbmDdw22o4Gg1V2x14DbiL8WQ8mf40GSecwUMzPF8sR6PlYo4RPEWs1Wi93qws8mw03e6W-_1yd0jpszaOUne7Wh4b8CoWGUbE4E0Z59-TpEPiAgARchH_Qrwx3AAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.airforce.com/pay-and-benefits&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.airforce.com%2Fpay-and-benefits",
+      "source": "Air Force",
+      "read_more_link": "https://www.airforce.com/pay-and-benefits#:~:text=01%20of%2006&text=Potential%20Bonuses"
+    },
+    {
+      "position": 5,
+      "title": "What exactly are your benefits after a 4-year (or 1 contract) ...",
+      "link": "https://www.quora.com/What-exactly-are-your-benefits-after-a-4-year-or-1-contract-active-duty-service-in-the-military",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-exactly-are-your-benefits-after-a-4-year-or-1-contract-active-duty-service-in-the-military&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQFnoECEQQAQ",
+      "displayed_link": "10+ answers · 6 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+      "snippet": "What exactly are your benefits after a 4-year (or 1 contract) active duty service in the military?",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What are the benefits awarded for being active duty in ...",
+            "link": "https://www.quora.com/What-are-the-benefits-awarded-for-being-active-duty-in-the-Air-Force-for-at-least-4-years",
+            "answer_count": 4,
+            "date": "Aug 10, 2023"
+          },
+          {
+            "title": "What military benefits do people get after 4 years ...",
+            "link": "https://www.quora.com/What-military-benefits-do-people-get-after-4-years",
+            "answer_count": 5,
+            "date": "Apr 9, 2022"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "1) Free Healthcare and Dental Care for the military member and all their immediate family members while on Active Duty. 2) Over $70K to help pay ...",
+          "source_info_link": "https://www.quora.com/What-exactly-are-your-benefits-after-a-4-year-or-1-contract-active-duty-service-in-the-military",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/What-exactly-are-your-benefits-after-a-4-year-or-1-contract-active-duty-service-in-the-military&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quora.com%2FWhat-exactly-are-your-benefits-after-a-4-year-or-1-contract-active-duty-service-in-the-military",
+      "source": "Quora"
+    },
+    {
+      "position": 6,
+      "title": "Airforce 4 years vs army 3 years for GI bill benefits?",
+      "link": "https://www.facebook.com/groups/1891225374484330/posts/4214568818816629/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1891225374484330/posts/4214568818816629/&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQFnoECEgQAQ",
+      "displayed_link": "70+ comments · 6 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "Hi guys, quick opinion: Airforce 4 years vs Army 3 years (AD) for GI bills benefit - Are there additional benefit enlisting 4 yrs instead of 3 years? ...",
+      "about_this_result": {
+        "source": {
+          "description": "Faster promotions and similar GI Bill benefits are noted in the Army's 3-year contract compared to the Air Force's 4-year contract. Aiden Austin.",
+          "source_info_link": "https://www.facebook.com/groups/1891225374484330/posts/4214568818816629/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1891225374484330/posts/4214568818816629/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1891225374484330%2Fposts%2F4214568818816629%2F",
+      "source": "Facebook · ASVAB Advantage Study Group"
+    },
+    {
+      "position": 7,
+      "title": "Post-9/11 GI Bill For Service Members",
+      "link": "https://myairforcebenefits.us.af.mil/Benefit-Library/Federal-Benefits/Post-9/11-GI-Bill?serv=24",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myairforcebenefits.us.af.mil/Benefit-Library/Federal-Benefits/Post-9/11-GI-Bill%3Fserv%3D24&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQFnoECD4QAQ",
+      "displayed_link": "https://myairforcebenefits.us.af.mil › Federal-Benefits › 1...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWOgGBw-eEhs957dWlevXmUmVs_z58-Zjxw5ovPo4SN-ht6enoTQ0LCVp06dEj577hxBQ758-cJ0_PhxLW8vr63bt263Z0hPT69SU1W709benhocHCJMyIBz587xuLq6rlRSVHqyeNFiT4awsLBiCXGJ15oamucE-AVs8Gl-8uQJY21trZaUpNRzoKX3165dp8-wefNmbWkp6SdAzT_ERMVm2NrYWm_dsgWrV06eOMFtaWW5WlBA8EeAf8DCEydO8DKkpqYyOzk6FoMEgfirvp7-nuVLl0lOmzqNH6YxMyNDauOGDVp-vn7rREVFPygpKN6dMmWKOdzkZcuWSvh4e6_k5-P_IyQo9MPI0Ohcf1-_w6IFC3k72zt4rSytcs3NzE9JSkh-EBYS_hwZEdm3dNkydrgB_f39bHPnzo3V0tS8CzTkN9A7v_V09a62trTG5-fmZSspKt4TERb5CnKlgb7B-YULFzpi-C88LFy2sbGxUlVZ5TLQFe9VlJUf1NfVFVdVVpUDwwhkwGNdHZ2zU6dMSYmLi-PHGspRUVFiwDAodHZynp2Xm5dVXFScWlJcEg8Mp1w3V9cJkyZO9ElPS-fBG8-9PX3S5WUVsZkZmXk21tbr7O3slyQmJuaVl5eFHT58WJBgMgUGnqebq9uW5KSk9piY6O7Q0NAJwUHB_UCxZWtWr7YiaMDePXtEgU73ALqgChiQ57W1tM_HxcTmpaWmmZ84fpyX6EyWm5Orl5CQ0BcTHdMG9LcqA60AAOJP2MG383GbAAAAAElFTkSuQmCC.png",
+      "snippet": "The Post-9/11 GI Bill is an education benefit program specifically for military members who served on active duty on or after September 11, 2001.",
+      "snippet_highlighted_words": [
+        "benefit",
+        "military",
+        "after"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Post-9/11 GI Bill is an education benefit program specifically for military members who served on active duty on or after September 11, 2001.",
+          "source_info_link": "https://myairforcebenefits.us.af.mil/Benefit-Library/Federal-Benefits/Post-9/11-GI-Bill?serv=24",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWOgGBw-eEhs957dWlevXmUmVs_z58-Zjxw5ovPo4SN-ht6enoTQ0LCVp06dEj577hxBQ758-cJ0_PhxLW8vr63bt263Z0hPT69SU1W709benhocHCJMyIBz587xuLq6rlRSVHqyeNFiT4awsLBiCXGJ15oamucE-AVs8Gl-8uQJY21trZaUpNRzoKX3165dp8-wefNmbWkp6SdAzT_ERMVm2NrYWm_dsgWrV06eOMFtaWW5WlBA8EeAf8DCEydO8DKkpqYyOzk6FoMEgfirvp7-nuVLl0lOmzqNH6YxMyNDauOGDVp-vn7rREVFPygpKN6dMmWKOdzkZcuWSvh4e6_k5-P_IyQo9MPI0Ohcf1-_w6IFC3k72zt4rSytcs3NzE9JSkh-EBYS_hwZEdm3dNkydrgB_f39bHPnzo3V0tS8CzTkN9A7v_V09a62trTG5-fmZSspKt4TERb5CnKlgb7B-YULFzpi-C88LFy2sbGxUlVZ5TLQFe9VlJUf1NfVFVdVVpUDwwhkwGNdHZ2zU6dMSYmLi-PHGspRUVFiwDAodHZynp2Xm5dVXFScWlJcEg8Mp1w3V9cJkyZO9ElPS-fBG8-9PX3S5WUVsZkZmXk21tbr7O3slyQmJuaVl5eFHT58WJBgMgUGnqebq9uW5KSk9piY6O7Q0NAJwUHB_UCxZWtWr7YiaMDePXtEgU73ALqgChiQ57W1tM_HxcTmpaWmmZ84fpyX6EyWm5Orl5CQ0BcTHdMG9LcqA60AAOJP2MG383GbAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myairforcebenefits.us.af.mil/Benefit-Library/Federal-Benefits/Post-9/11-GI-Bill?serv=24&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyairforcebenefits.us.af.mil%2FBenefit-Library%2FFederal-Benefits%2FPost-9%2F11-GI-Bill%3Fserv%3D24",
+      "source": "My Air Force Benefits (.mil)"
+    },
+    {
+      "position": 8,
+      "title": "Salary & Benefits",
+      "link": "https://www.afrotc.com/about/rewarding-future/benefits/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.afrotc.com/about/rewarding-future/benefits/&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQFnoECD0QAQ",
+      "displayed_link": "https://www.afrotc.com › ... › Rewarding Future",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEwAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5zn4eldAAAAD3RSTlMAc4cbpvg4VwvSvy7rYFDlybDgAAAA20lEQVQokX2SWxaDIAxEeQaEyux_t53g0VpJmw9ELgkzAef-Rq1_1oO3oQ8ckG0IcAOwW2wHvJNkp2YkYelipe4oKgZb31bIRahaYKxwAOGQhfRkCSqWIZy84h3FF5fkmEuD6r6C7tDkrOHn78nmVn-eVNE6C-W5WTIP6Q1Xx9kHUQlhaqf7fJMYFRQdlBUdbgIVqO0x5ocb7uKrii-slcpiTPWHEGKtkR_7gjvQTUDJQrte1l66SHuba81RTn4eebwIPqr9q5OfXL2n4da8y-23wwf9yVjaLmnGGxL-CbY979cpAAAAAElFTkSuQmCC.png",
+      "snippet": "For example, you and your family will receive free or low-cost medical and dental care. You'll also receive food and housing allowances. Add to that an ...",
+      "snippet_highlighted_words": [
+        "free or low-cost medical and dental care"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "For example, you and your family will receive free or low-cost medical and dental care. You'll also receive food and housing allowances. Add to that an ...",
+          "source_info_link": "https://www.afrotc.com/about/rewarding-future/benefits/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEwAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5wAU5zn4eldAAAAD3RSTlMAc4cbpvg4VwvSvy7rYFDlybDgAAAA20lEQVQokX2SWxaDIAxEeQaEyux_t53g0VpJmw9ELgkzAef-Rq1_1oO3oQ8ckG0IcAOwW2wHvJNkp2YkYelipe4oKgZb31bIRahaYKxwAOGQhfRkCSqWIZy84h3FF5fkmEuD6r6C7tDkrOHn78nmVn-eVNE6C-W5WTIP6Q1Xx9kHUQlhaqf7fJMYFRQdlBUdbgIVqO0x5ocb7uKrii-slcpiTPWHEGKtkR_7gjvQTUDJQrte1l66SHuba81RTn4eebwIPqr9q5OfXL2n4da8y-23wwf9yVjaLmnGGxL-CbY979cpAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.afrotc.com/about/rewarding-future/benefits/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.afrotc.com%2Fabout%2Frewarding-future%2Fbenefits%2F",
+      "source": "U.S. Air Force ROTC",
+      "read_more_link": "https://www.afrotc.com/about/rewarding-future/benefits/#:~:text=For%20example%2C%20you%20and%20your,Air%20Force%20or%20Space%20Force."
+    },
+    {
+      "position": 9,
+      "title": "Air Force Pay - Joining as an E-1 (4 vs 6 year contract)",
+      "link": "https://www.youtube.com/watch?v=fau8Ai8FDyE",
+      "displayed_link": "10.2K+ views · 7 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs-RTnR_MudkMsTelKOZk-zH_h8TGeg6yAdBliV4IKkkxs0D5e2DnWpg&s",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "Learn how much money you'll make in your first 4 years as an Air Force E-1. This video compares 4- vs 6-year contracts, shows the real total ...",
+      "duration": "20:40",
+      "about_this_result": {
+        "source": {
+          "description": "Learn how much money you'll make in your first 4 years as an Air Force E-1. This video compares 4- vs 6-year contracts, shows the real total ...",
+          "source_info_link": "https://www.youtube.com/watch?v=fau8Ai8FDyE",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=fau8Ai8FDyE&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dfau8Ai8FDyE",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSUtcQfCD_ghtna46tc8mw0yAMSmLM_kon_Ng",
+      "source": "YouTube · Airman Vision"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military benefits after 4 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+4+years+of+service&sa=X&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+4+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "Do you get military benefits for life after 4 years",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Do+you+get+military+benefits+for+life+after+4+years&sa=X&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Do+you+get+military+benefits+for+life+after+4+years"
+    },
+    {
+      "block_position": 1,
+      "query": "Air Force benefits after 4 years",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Air+Force+benefits+after+4+years&sa=X&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Air+Force+benefits+after+4+years"
+    },
+    {
+      "block_position": 1,
+      "query": "How much money do you get after 4 years in the military",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=How+much+money+do+you+get+after+4+years+in+the+military&sa=X&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+money+do+you+get+after+4+years+in+the+military"
+    },
+    {
+      "block_position": 1,
+      "query": "Air Force pay Chart",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Air+Force+pay+Chart&sa=X&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Air+Force+pay+Chart"
+    },
+    {
+      "block_position": 1,
+      "query": "U.S. Air Force salary per month",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=U.S.+Air+Force+salary+per+month&sa=X&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=U.S.+Air+Force+salary+per+month"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits after 2 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+2+years+of+service&sa=X&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+2+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "Air Force salary married",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Air+Force+salary+married&sa=X&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Air+Force+salary+married"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+benefits+after+4+years+air+force&sca_esv=c510ba4e6526f391&ei=biI6au-8M5HY5NoP8PHusAg&start=10&sa=N&sstk=AU9db-DMqTbkY0BwYPA74-_9vx7I_jqI3Q-ibryL0-VVe0XTUBZ7H1chpbHz9tf0VbpqFvwkWISghf6JTPLzxMa9Bzh5BFE21ly7Cw&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ8NMDegQIMhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+benefits+after+4+years+air+force&sca_esv=c510ba4e6526f391&ei=biI6au-8M5HY5NoP8PHusAg&start=10&sa=N&sstk=AU9db-DMqTbkY0BwYPA74-_9vx7I_jqI3Q-ibryL0-VVe0XTUBZ7H1chpbHz9tf0VbpqFvwkWISghf6JTPLzxMa9Bzh5BFE21ly7Cw&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ8tMDegQIMhAE",
+      "3": "https://www.google.com/search?q=military+benefits+after+4+years+air+force&sca_esv=c510ba4e6526f391&ei=biI6au-8M5HY5NoP8PHusAg&start=20&sa=N&sstk=AU9db-DMqTbkY0BwYPA74-_9vx7I_jqI3Q-ibryL0-VVe0XTUBZ7H1chpbHz9tf0VbpqFvwkWISghf6JTPLzxMa9Bzh5BFE21ly7Cw&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ8tMDegQIMhAG",
+      "4": "https://www.google.com/search?q=military+benefits+after+4+years+air+force&sca_esv=c510ba4e6526f391&ei=biI6au-8M5HY5NoP8PHusAg&start=30&sa=N&sstk=AU9db-DMqTbkY0BwYPA74-_9vx7I_jqI3Q-ibryL0-VVe0XTUBZ7H1chpbHz9tf0VbpqFvwkWISghf6JTPLzxMa9Bzh5BFE21ly7Cw&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ8tMDegQIMhAI",
+      "5": "https://www.google.com/search?q=military+benefits+after+4+years+air+force&sca_esv=c510ba4e6526f391&ei=biI6au-8M5HY5NoP8PHusAg&start=40&sa=N&sstk=AU9db-DMqTbkY0BwYPA74-_9vx7I_jqI3Q-ibryL0-VVe0XTUBZ7H1chpbHz9tf0VbpqFvwkWISghf6JTPLzxMa9Bzh5BFE21ly7Cw&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ8tMDegQIMhAK",
+      "6": "https://www.google.com/search?q=military+benefits+after+4+years+air+force&sca_esv=c510ba4e6526f391&ei=biI6au-8M5HY5NoP8PHusAg&start=50&sa=N&sstk=AU9db-DMqTbkY0BwYPA74-_9vx7I_jqI3Q-ibryL0-VVe0XTUBZ7H1chpbHz9tf0VbpqFvwkWISghf6JTPLzxMa9Bzh5BFE21ly7Cw&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ8tMDegQIMhAM",
+      "7": "https://www.google.com/search?q=military+benefits+after+4+years+air+force&sca_esv=c510ba4e6526f391&ei=biI6au-8M5HY5NoP8PHusAg&start=60&sa=N&sstk=AU9db-DMqTbkY0BwYPA74-_9vx7I_jqI3Q-ibryL0-VVe0XTUBZ7H1chpbHz9tf0VbpqFvwkWISghf6JTPLzxMa9Bzh5BFE21ly7Cw&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ8tMDegQIMhAO",
+      "8": "https://www.google.com/search?q=military+benefits+after+4+years+air+force&sca_esv=c510ba4e6526f391&ei=biI6au-8M5HY5NoP8PHusAg&start=70&sa=N&sstk=AU9db-DMqTbkY0BwYPA74-_9vx7I_jqI3Q-ibryL0-VVe0XTUBZ7H1chpbHz9tf0VbpqFvwkWISghf6JTPLzxMa9Bzh5BFE21ly7Cw&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ8tMDegQIMhAQ",
+      "9": "https://www.google.com/search?q=military+benefits+after+4+years+air+force&sca_esv=c510ba4e6526f391&ei=biI6au-8M5HY5NoP8PHusAg&start=80&sa=N&sstk=AU9db-DMqTbkY0BwYPA74-_9vx7I_jqI3Q-ibryL0-VVe0XTUBZ7H1chpbHz9tf0VbpqFvwkWISghf6JTPLzxMa9Bzh5BFE21ly7Cw&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ8tMDegQIMhAS",
+      "10": "https://www.google.com/search?q=military+benefits+after+4+years+air+force&sca_esv=c510ba4e6526f391&ei=biI6au-8M5HY5NoP8PHusAg&start=90&sa=N&sstk=AU9db-DMqTbkY0BwYPA74-_9vx7I_jqI3Q-ibryL0-VVe0XTUBZ7H1chpbHz9tf0VbpqFvwkWISghf6JTPLzxMa9Bzh5BFE21ly7Cw&ved=2ahUKEwjvq5__2JyVAxURLFkFHfC4G4YQ8tMDegQIMhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+4+years+air+force&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+4+years+air+force&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+4+years+air+force&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+4+years+air+force&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+4+years+air+force&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+4+years+air+force&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+4+years+air+force&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+4+years+air+force&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+4+years+air+force&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+4+years+air+force&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+4+years+air+force&start=90"
+    }
+  }
+}

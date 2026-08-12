@@ -1,0 +1,475 @@
+{
+  "search_metadata": {
+    "id": "6a3a17884a0898b7f95c3a12",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/n8l68ALApdRHAGKn2HSvrA/6a3a17884a0898b7f95c3a12.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/n8l68ALApdRHAGKn2HSvrA/6a3a17884a0898b7f95c3a12.json_with_pixel_position",
+    "created_at": "2026-06-23 05:20:08 UTC",
+    "processed_at": "2026-06-23 05:20:08 UTC",
+    "google_url": "https://www.google.com/search?q=ethereum+gas+fee+calculator&oq=ethereum+gas+fee+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/n8l68ALApdRHAGKn2HSvrA/6a3a17884a0898b7f95c3a12.html",
+    "total_time_taken": 1.8
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ethereum gas fee calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "ethereum gas fee calculator",
+    "total_results": 101,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How much are gas fees on Ethereum?",
+      "type": "ai_overview",
+      "page_token": "5XVio3icHdBdbpswAABg7TJ9bBwYmRopqpbwE1js1L8YXibPJCGxDbR1C-Ftd9mpdppJ-47w_f5jr535--Wz9X54Xy8W4zg-Xvr-Yk-PuncL9X7v9EIra38pbdarb6vl81lvko98u3vNt5gPg4gJoEE7NnGaILsdVQmnA6-P-iZyCSJZCbInQBxQaQCcyb6UxfHICiXmHDCQj6RDMy9TRM1TRcGgZGAZdejtJPoIZcVH7UjHwjSkonlRsfhax82VcrLTshVKJrPOotfS8aDM_MTcFCCZ3lUqRmhIjYEvYTZJ4QrKurorEz9RkXjh8nsl27je1zscfr830gK-TB3Noh8wIF3SNgN3MKgkWtGksQz4sHIeNwE64BvZEtJfMSezvlnHTYSQfcLkVjBolh6Z6OVkLITsMmFmV1VnR4wfzvpzEz78_9z8PDu_Ht76yz_pmoNv",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5XVio3icHdBdbpswAABg7TJ9bBwYmRopqpbwE1js1L8YXibPJCGxDbR1C-Ftd9mpdppJ-47w_f5jr535--Wz9X54Xy8W4zg-Xvr-Yk-PuncL9X7v9EIra38pbdarb6vl81lvko98u3vNt5gPg4gJoEE7NnGaILsdVQmnA6-P-iZyCSJZCbInQBxQaQCcyb6UxfHICiXmHDCQj6RDMy9TRM1TRcGgZGAZdejtJPoIZcVH7UjHwjSkonlRsfhax82VcrLTshVKJrPOotfS8aDM_MTcFCCZ3lUqRmhIjYEvYTZJ4QrKurorEz9RkXjh8nsl27je1zscfr830gK-TB3Noh8wIF3SNgN3MKgkWtGksQz4sHIeNwE64BvZEtJfMSezvlnHTYSQfcLkVjBolh6Z6OVkLITsMmFmV1VnR4wfzvpzEz78_9z8PDu_Ht76yz_pmoNv",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNUUkJialZhU2poUFpuSkllbGhvU3pGMmExVkRhbE01ZG5GbVRERktObHAwWmpGMk9URk9NSFJTUkRaTVJXOVpWazF4YkdabVJHMW1hbWswYzBsTGIzZEpkM1ZRTTJJd2FVNWtZemxEVnprNGJtWkJUemRuVFRoWFVSSVhhVkpqTm1GemVraEhaVTlMZDJKclVIZGpTMEkwUVVVYUlrRkVjM0k1WmxSNGQyOTVPVzVsUmpoMFZHaDJSa3MzVW1wWmVrMTRRM0J3WlhjIiwiZmN2IjoiMyIsImVpIjoiaVJjNmFzekhHZU9Ld2JrUHdjS0I0QUUiLCJxYyI6IkNodGxkR2hsY21WMWJTQm5ZWE1nWm1WbElHTmhiR04xYkdGMGIzSVFBSDBXUy00LSIsInF1ZXN0aW9uIjoiSG93IG11Y2ggYXJlIGdhcyBmZWVzIG9uIEV0aGVyZXVtPyIsImxrIjoiR2lGb2IzY2diWFZqYUNCaGNtVWdaMkZ6SUdabFpYTWdiMjRnWlhSb1pYSmxkVzAiLCJicyI6ImMtUHk1Rkx5eUM5WHlDMU56bEJJTEVwVlNFOHNWa2hMVFMxV3lNOVRjQzNKU0MxS0xjMjFOMUtXVXN6QXBTb1Zxb3JMaFVzT1pGUkp2a0p5WWs1eWFVNWlDWkpDMXhBUGU0bWxiRWJ5VXJJWk9CVUJqZUp5NDVLSG1wSllscC1aQW5jRVhKVzl4UEpFSXdVcHVReGtWYW5vcXJnU3VIVENNeXJCcnNVd1FxRTRYeUVqTXoxRG9RaElsQ2prNVpmYlM1eVFOTktWMGk2SGFzRXdEMU9MQUNNQSIsImlkIjoiZmNfaVJjNmFzekhHZU9Ld2JrUHdjS0I0QUVfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNUUkJialZhU2poUFpuSkllbGhvU3pGMmExVkRhbE01ZG5GbVRERktObHAwWmpGMk9URk9NSFJTUkRaTVJXOVpWazF4YkdabVJHMW1hbWswYzBsTGIzZEpkM1ZRTTJJd2FVNWtZemxEVnprNGJtWkJUemRuVFRoWFVSSVhhVkpqTm1GemVraEhaVTlMZDJKclVIZGpTMEkwUVVVYUlrRkVjM0k1WmxSNGQyOTVPVzVsUmpoMFZHaDJSa3MzVW1wWmVrMTRRM0J3WlhjIiwiZmN2IjoiMyIsImVpIjoiaVJjNmFzekhHZU9Ld2JrUHdjS0I0QUUiLCJxYyI6IkNodGxkR2hsY21WMWJTQm5ZWE1nWm1WbElHTmhiR04xYkdGMGIzSVFBSDBXUy00LSIsInF1ZXN0aW9uIjoiSG93IG11Y2ggYXJlIGdhcyBmZWVzIG9uIEV0aGVyZXVtPyIsImxrIjoiR2lGb2IzY2diWFZqYUNCaGNtVWdaMkZ6SUdabFpYTWdiMjRnWlhSb1pYSmxkVzAiLCJicyI6ImMtUHk1Rkx5eUM5WHlDMU56bEJJTEVwVlNFOHNWa2hMVFMxV3lNOVRjQzNKU0MxS0xjMjFOMUtXVXN6QXBTb1Zxb3JMaFVzT1pGUkp2a0p5WWs1eWFVNWlDWkpDMXhBUGU0bWxiRWJ5VXJJWk9CVUJqZUp5NDVLSG1wSllscC1aQW5jRVhKVzl4UEpFSXdVcHVReGtWYW5vcXJnU3VIVENNeXJCcnNVd1FxRTRYeUVqTXoxRG9RaElsQ2prNVpmYlM1eVFOTktWMGk2SGFzRXdEMU9MQUNNQSIsImlkIjoiZmNfaVJjNmFzekhHZU9Ld2JrUHdjS0I0QUVfMiJ9"
+    },
+    {
+      "question": "How to calculate gas fees ETH?",
+      "type": "featured_snippet",
+      "snippet": "With this knowledge. You can now estimate. And understand Ethereum transaction costs confidently. If you like this video hit that like button and don't forget to subscribe.",
+      "title": "Gwei Explained: Calculate Ethereum Gas Fees & Transaction Costs",
+      "link": "https://www.youtube.com/watch?v=XocLZ1iU3N4",
+      "displayed_link": "https://www.youtube.com · CodeLucky",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNUUkJialZhU2poUFpuSkllbGhvU3pGMmExVkRhbE01ZG5GbVRERktObHAwWmpGMk9URk9NSFJTUkRaTVJXOVpWazF4YkdabVJHMW1hbWswYzBsTGIzZEpkM1ZRTTJJd2FVNWtZemxEVnprNGJtWkJUemRuVFRoWFVSSVhhVkpqTm1GemVraEhaVTlMZDJKclVIZGpTMEkwUVVVYUlrRkVjM0k1WmxSNGQyOTVPVzVsUmpoMFZHaDJSa3MzVW1wWmVrMTRRM0J3WlhjIiwiZmN2IjoiMyIsImVpIjoiaVJjNmFzekhHZU9Ld2JrUHdjS0I0QUUiLCJxYyI6IkNodGxkR2hsY21WMWJTQm5ZWE1nWm1WbElHTmhiR04xYkdGMGIzSVFBSDBXUy00LSIsInF1ZXN0aW9uIjoiSG93IHRvIGNhbGN1bGF0ZSBnYXMgZmVlcyBFVEg/IiwibGsiOiJHaDFvYjNjZ2RHOGdZMkZzWTNWc1lYUmxJR2RoY3lCbVpXVnpJR1YwYUEiLCJicyI6ImMtUHk1Rkx5eUM5WHlDMU56bEJJTEVwVlNFOHNWa2hMVFMxV3lNOVRjQzNKU0MxS0xjMjFOMUtXVXN6QXBTb1Zxb3JMaFVzT1pGUkp2a0p5WWs1eWFVNWlDWkpDMXhBUGU0bWxiRWJ5VXJJWk9CVUJqZUp5NDVLSG1wSllscC1aQW5jRVhKVzl4UEpFSXdVcHVReGtWYW5vcXJnU3VIVENNeXJCcnNVd1FxRTRYeUVqTXoxRG9RaElsQ2prNVpmYlM1eVFOTktWMGk2SGFzRXdEMU9MQUNNQSIsImlkIjoiZmNfaVJjNmFzekhHZU9Ld2JrUHdjS0I0QUVfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNUUkJialZhU2poUFpuSkllbGhvU3pGMmExVkRhbE01ZG5GbVRERktObHAwWmpGMk9URk9NSFJTUkRaTVJXOVpWazF4YkdabVJHMW1hbWswYzBsTGIzZEpkM1ZRTTJJd2FVNWtZemxEVnprNGJtWkJUemRuVFRoWFVSSVhhVkpqTm1GemVraEhaVTlMZDJKclVIZGpTMEkwUVVVYUlrRkVjM0k1WmxSNGQyOTVPVzVsUmpoMFZHaDJSa3MzVW1wWmVrMTRRM0J3WlhjIiwiZmN2IjoiMyIsImVpIjoiaVJjNmFzekhHZU9Ld2JrUHdjS0I0QUUiLCJxYyI6IkNodGxkR2hsY21WMWJTQm5ZWE1nWm1WbElHTmhiR04xYkdGMGIzSVFBSDBXUy00LSIsInF1ZXN0aW9uIjoiSG93IHRvIGNhbGN1bGF0ZSBnYXMgZmVlcyBFVEg%2FIiwibGsiOiJHaDFvYjNjZ2RHOGdZMkZzWTNWc1lYUmxJR2RoY3lCbVpXVnpJR1YwYUEiLCJicyI6ImMtUHk1Rkx5eUM5WHlDMU56bEJJTEVwVlNFOHNWa2hMVFMxV3lNOVRjQzNKU0MxS0xjMjFOMUtXVXN6QXBTb1Zxb3JMaFVzT1pGUkp2a0p5WWs1eWFVNWlDWkpDMXhBUGU0bWxiRWJ5VXJJWk9CVUJqZUp5NDVLSG1wSllscC1aQW5jRVhKVzl4UEpFSXdVcHVReGtWYW5vcXJnU3VIVENNeXJCcnNVd1FxRTRYeUVqTXoxRG9RaElsQ2prNVpmYlM1eVFOTktWMGk2SGFzRXdEMU9MQUNNQSIsImlkIjoiZmNfaVJjNmFzekhHZU9Ld2JrUHdjS0I0QUVfMiJ9"
+    },
+    {
+      "question": "How to avoid Ethereum gas fees?",
+      "type": "featured_snippet",
+      "snippet": "Use Layer 2 Solutions for Major Savings Layer 2 solutions process transactions off the main Ethereum chain and can reduce your gas fees. Networks like Arbitrum, Optimism, and zkSync bundle multiple transactions together before submitting them to Ethereum's mainnet, which dramatically lowers the cost per transaction.",
+      "title": "How to Save Gas Fees on Ethereum? - Trust Wallet",
+      "date": "Jan 23, 2026",
+      "link": "https://trustwallet.com/blog/guides/how-to-save-gas-fees-on-ethereum#:~:text=2.-,Use%20Layer%202%20Solutions%20for%20Major%20Savings,lowers%20the%20cost%20per%20transaction.",
+      "displayed_link": "https://trustwallet.com › blog › guides › how-to-save-gas...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAIAAACp9tltAAABP0lEQVR4AWP4jwQ-fvy_c8f_nLy_dZ93Hvp389O_H8iyDBAVmzb9Dwv5z8AAQny8_6werdH9OMv624zCX-vgehhmzABKoyAJ2f_GZ4_o3txh9GCD0YvlED2z_hxmqKwESbPCEBNYqdqOW7KHLiifPKlx4SBET8nbAww1NViUSi_-wLf6hcimB3A9-XcuYVcq1v-fYepf1jnf4XoyzjzGrlS89j9D43-GdoSexD1fGBob0ZWKS_5nSP_PkPufoQShJ3U9OAQwlYpFgBBDAkxP_v-OLf8Zrl7FptQNhBh8_zMEA_WAyOM3wFFgZwtVjVBqAUUM9mCUAIstiMFMyEp1wOGgA0Qg7uEzEKVgMG8uUDVcKVAdhAQJAj2DSAPIqhlASoEIyu7qR04uCAC0CJRWYIkBlMpQUxYGWL0KZAMmAACRI42zB9_iaAAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNUUkJialZhU2poUFpuSkllbGhvU3pGMmExVkRhbE01ZG5GbVRERktObHAwWmpGMk9URk9NSFJTUkRaTVJXOVpWazF4YkdabVJHMW1hbWswYzBsTGIzZEpkM1ZRTTJJd2FVNWtZemxEVnprNGJtWkJUemRuVFRoWFVSSVhhVkpqTm1GemVraEhaVTlMZDJKclVIZGpTMEkwUVVVYUlrRkVjM0k1WmxSNGQyOTVPVzVsUmpoMFZHaDJSa3MzVW1wWmVrMTRRM0J3WlhjIiwiZmN2IjoiMyIsImVpIjoiaVJjNmFzekhHZU9Ld2JrUHdjS0I0QUUiLCJxYyI6IkNodGxkR2hsY21WMWJTQm5ZWE1nWm1WbElHTmhiR04xYkdGMGIzSVFBSDBXUy00LSIsInF1ZXN0aW9uIjoiSG93IHRvIGF2b2lkIEV0aGVyZXVtIGdhcyBmZWVzPyIsImxrIjoiR2g1b2IzY2dkRzhnWVhadmFXUWdaWFJvWlhKbGRXMGdaMkZ6SUdabFpYTSIsImJzIjoiYy1QeTVGTHl5QzlYeUMxTnpsQklMRXBWU0U4c1ZraExUUzFXeU05VGNDM0pTQzFLTGMyMU4xS1dVc3pBcFNvVnFvckxoVXNPWkZSSnZrSnlZazV5YVU1aUNaSkMxeEFQZTRtbGJFYnlVcklaT0JVQmplSnk0NUtIbXBKWWxwLVpBbmNFWEpXOXhQSkVJd1VwdVF4a1Zhbm9xcmdTdUhUQ015ckJyc1V3UXFFNFh5RWpNejFEb1FoSWxDams1WmZiUzV5UU5OS1YwaTZIYXNFd0QxT0xBQ01BIiwiaWQiOiJmY19pUmM2YXN6SEdlT0t3YmtQd2NLQjRBRV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNUUkJialZhU2poUFpuSkllbGhvU3pGMmExVkRhbE01ZG5GbVRERktObHAwWmpGMk9URk9NSFJTUkRaTVJXOVpWazF4YkdabVJHMW1hbWswYzBsTGIzZEpkM1ZRTTJJd2FVNWtZemxEVnprNGJtWkJUemRuVFRoWFVSSVhhVkpqTm1GemVraEhaVTlMZDJKclVIZGpTMEkwUVVVYUlrRkVjM0k1WmxSNGQyOTVPVzVsUmpoMFZHaDJSa3MzVW1wWmVrMTRRM0J3WlhjIiwiZmN2IjoiMyIsImVpIjoiaVJjNmFzekhHZU9Ld2JrUHdjS0I0QUUiLCJxYyI6IkNodGxkR2hsY21WMWJTQm5ZWE1nWm1WbElHTmhiR04xYkdGMGIzSVFBSDBXUy00LSIsInF1ZXN0aW9uIjoiSG93IHRvIGF2b2lkIEV0aGVyZXVtIGdhcyBmZWVzPyIsImxrIjoiR2g1b2IzY2dkRzhnWVhadmFXUWdaWFJvWlhKbGRXMGdaMkZ6SUdabFpYTSIsImJzIjoiYy1QeTVGTHl5QzlYeUMxTnpsQklMRXBWU0U4c1ZraExUUzFXeU05VGNDM0pTQzFLTGMyMU4xS1dVc3pBcFNvVnFvckxoVXNPWkZSSnZrSnlZazV5YVU1aUNaSkMxeEFQZTRtbGJFYnlVcklaT0JVQmplSnk0NUtIbXBKWWxwLVpBbmNFWEpXOXhQSkVJd1VwdVF4a1Zhbm9xcmdTdUhUQ015ckJyc1V3UXFFNFh5RWpNejFEb1FoSWxDams1WmZiUzV5UU5OS1YwaTZIYXNFd0QxT0xBQ01BIiwiaWQiOiJmY19pUmM2YXN6SEdlT0t3YmtQd2NLQjRBRV8yIn0%3D"
+    },
+    {
+      "question": "Why are Ethereum gas fees so high right now?",
+      "type": "featured_snippet",
+      "snippet": "The popularity of NFTs on Ethereum. Many spikes in gas prices can be attributed to highly anticipated NFT drops. Ethereum is the home of DeFi (decentralized finance). Many of the largest, most established dapps were built on Ethereum, and continue to be the biggest players in DeFi.",
+      "title": "Why are my gas fees so high? | MetaMask Help Center",
+      "link": "https://support.metamask.io/more-web3/learn/why-are-my-gas-fees-so-high/#:~:text=The%20popularity%20of%20NFTs%20on,the%20biggest%20players%20in%20DeFi.",
+      "displayed_link": "https://support.metamask.io › more-web3 › learn › why-...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABkElEQVR4AY2SA4weURSFb20zatSNatu2bdtBbZsx2rBmjFpr27YZ7d39Mnnza5XkJHeO5klEpOWLEe399JlXlzlHF0pToPf7d38-or2PiLSW3X1l7qaOoj-nd1bd3PNpY2E8eMmQpeBRLXSFKdnUU3Vj71XuQTg0PHjJkKUgng-AEDS3q1VyakaGPtwSAPTUzFQ4NBMGZF0KAIbwOW1VL89Xvb8JMMM5hV0LrjiT7G1_d1G9uswuYIZDc_aSlZ29ZCAC4A_vx3W0tnBurl3ADIeGx_jJckASeHC2gtz1_azw-q6qJyaoPtgCmOHQ8KjxkxW9t2kYJn28TXX_IIwWmB9stXBouAuPlwxZCs44L_XdXC8dI8Kf7ALmUSJoLlsjK1yTMdJsUHForDEyu2jGT1aqD40pYFk2WC7LI3xzFbCL0Jy9ZIWnyd7cwVL_7pwEeAceOiDLE13A6QJIWku-vNLc6AT7upjh0PAYP1nzzr85v_-0Sl2dW1ClzoBD01XSEm8tfvJNoF5kJ2cuAg15agBYDgt3mqU4-wAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNUUkJialZhU2poUFpuSkllbGhvU3pGMmExVkRhbE01ZG5GbVRERktObHAwWmpGMk9URk9NSFJTUkRaTVJXOVpWazF4YkdabVJHMW1hbWswYzBsTGIzZEpkM1ZRTTJJd2FVNWtZemxEVnprNGJtWkJUemRuVFRoWFVSSVhhVkpqTm1GemVraEhaVTlMZDJKclVIZGpTMEkwUVVVYUlrRkVjM0k1WmxSNGQyOTVPVzVsUmpoMFZHaDJSa3MzVW1wWmVrMTRRM0J3WlhjIiwiZmN2IjoiMyIsImVpIjoiaVJjNmFzekhHZU9Ld2JrUHdjS0I0QUUiLCJxYyI6IkNodGxkR2hsY21WMWJTQm5ZWE1nWm1WbElHTmhiR04xYkdGMGIzSVFBSDBXUy00LSIsInF1ZXN0aW9uIjoiV2h5IGFyZSBFdGhlcmV1bSBnYXMgZmVlcyBzbyBoaWdoIHJpZ2h0IG5vdz8iLCJsayI6IkdpdDNhSGtnWVhKbElHVjBhR1Z5WlhWdElHZGhjeUJtWldWeklITnZJR2hwWjJnZ2NtbG5hSFFnYm05MyIsImJzIjoiYy1QeTVGTHl5QzlYeUMxTnpsQklMRXBWU0U4c1ZraExUUzFXeU05VGNDM0pTQzFLTGMyMU4xS1dVc3pBcFNvVnFvckxoVXNPWkZSSnZrSnlZazV5YVU1aUNaSkMxeEFQZTRtbGJFYnlVcklaT0JVQmplSnk0NUtIbXBKWWxwLVpBbmNFWEpXOXhQSkVJd1VwdVF4a1Zhbm9xcmdTdUhUQ015ckJyc1V3UXFFNFh5RWpNejFEb1FoSWxDams1WmZiUzV5UU5OS1YwaTZIYXNFd0QxT0xBQ01BIiwiaWQiOiJmY19pUmM2YXN6SEdlT0t3YmtQd2NLQjRBRV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFNUUkJialZhU2poUFpuSkllbGhvU3pGMmExVkRhbE01ZG5GbVRERktObHAwWmpGMk9URk9NSFJTUkRaTVJXOVpWazF4YkdabVJHMW1hbWswYzBsTGIzZEpkM1ZRTTJJd2FVNWtZemxEVnprNGJtWkJUemRuVFRoWFVSSVhhVkpqTm1GemVraEhaVTlMZDJKclVIZGpTMEkwUVVVYUlrRkVjM0k1WmxSNGQyOTVPVzVsUmpoMFZHaDJSa3MzVW1wWmVrMTRRM0J3WlhjIiwiZmN2IjoiMyIsImVpIjoiaVJjNmFzekhHZU9Ld2JrUHdjS0I0QUUiLCJxYyI6IkNodGxkR2hsY21WMWJTQm5ZWE1nWm1WbElHTmhiR04xYkdGMGIzSVFBSDBXUy00LSIsInF1ZXN0aW9uIjoiV2h5IGFyZSBFdGhlcmV1bSBnYXMgZmVlcyBzbyBoaWdoIHJpZ2h0IG5vdz8iLCJsayI6IkdpdDNhSGtnWVhKbElHVjBhR1Z5WlhWdElHZGhjeUJtWldWeklITnZJR2hwWjJnZ2NtbG5hSFFnYm05MyIsImJzIjoiYy1QeTVGTHl5QzlYeUMxTnpsQklMRXBWU0U4c1ZraExUUzFXeU05VGNDM0pTQzFLTGMyMU4xS1dVc3pBcFNvVnFvckxoVXNPWkZSSnZrSnlZazV5YVU1aUNaSkMxeEFQZTRtbGJFYnlVcklaT0JVQmplSnk0NUtIbXBKWWxwLVpBbmNFWEpXOXhQSkVJd1VwdVF4a1Zhbm9xcmdTdUhUQ015ckJyc1V3UXFFNFh5RWpNejFEb1FoSWxDams1WmZiUzV5UU5OS1YwaTZIYXNFd0QxT0xBQ01BIiwiaWQiOiJmY19pUmM2YXN6SEdlT0t3YmtQd2NLQjRBRV8yIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Gas Fees Calculator",
+      "link": "https://cryptoneur.xyz/en/gas-fees-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cryptoneur.xyz/en/gas-fees-calculator&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQFnoECBcQAQ",
+      "displayed_link": "https://cryptoneur.xyz › gas-fees-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABo0lEQVR4Ac3XAWcCcRgG8Au2PkGxJoCyDgj6BgnM1AAEkAB9g4umJIDtU1T6HAWmL5A7LBLchUqePea10Wr_3urmHn6Q3t435727v6XMDdn0TA59CEc-s-U7V88Dteid1oQj1vKdltRcnHt6JZ-g5EvtPZ2VJ5oRLjST31KlQVvClWypoWmOcJiHeNT_c5Wt9DiYO3IJIfMoRb_yRtDI5_OoVqvQD8Fee8lQQNAYjUZYLBZIJpPaAVaUpe-8EDSKxSJ2ux0Y9Ho9Ta1gT8ktTTXF8Xgc4_EYkARBANu2tQNMpbeVo42muFarYT_D4RCxWEwzwEZ6WxVN80QiAdd1sR9eDpRKJc0AxN6Moynqdrs4lslkAl4ezQBNsuanFuRyOfi-j79Sr9c1A8xVA_T7fZjieR64lqoBmpq1M0S7lg5ZFcXaGaJey4p5DWXttBkMBieuoeFGlE6nsVwucU7K5bL5RmS6FRcKha_Va7fbKp1Ox_SgYs-fZGlF-CcBZQyP4zCx14GkyCOEzKVUJF_JIvFSGv5refQPJhE6mkXicBr68fwTVWYuwEfZOWcAAAAASUVORK5CYII.png",
+      "snippet": "Start calculating gas fees for the biggest networks at different transaction speeds in your own local currency. Ethereum https://ethereum.org/",
+      "snippet_highlighted_words": [
+        "Start calculating gas fees"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Start calculating gas fees for the biggest networks at different transaction speeds in your own local currency. Ethereum https://ethereum.org/",
+          "source_info_link": "https://cryptoneur.xyz/en/gas-fees-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABo0lEQVR4Ac3XAWcCcRgG8Au2PkGxJoCyDgj6BgnM1AAEkAB9g4umJIDtU1T6HAWmL5A7LBLchUqePea10Wr_3urmHn6Q3t435727v6XMDdn0TA59CEc-s-U7V88Dteid1oQj1vKdltRcnHt6JZ-g5EvtPZ2VJ5oRLjST31KlQVvClWypoWmOcJiHeNT_c5Wt9DiYO3IJIfMoRb_yRtDI5_OoVqvQD8Fee8lQQNAYjUZYLBZIJpPaAVaUpe-8EDSKxSJ2ux0Y9Ho9Ta1gT8ktTTXF8Xgc4_EYkARBANu2tQNMpbeVo42muFarYT_D4RCxWEwzwEZ6WxVN80QiAdd1sR9eDpRKJc0AxN6Moynqdrs4lslkAl4ezQBNsuanFuRyOfi-j79Sr9c1A8xVA_T7fZjieR64lqoBmpq1M0S7lg5ZFcXaGaJey4p5DWXttBkMBieuoeFGlE6nsVwucU7K5bL5RmS6FRcKha_Va7fbKp1Ox_SgYs-fZGlF-CcBZQyP4zCx14GkyCOEzKVUJF_JIvFSGv5refQPJhE6mkXicBr68fwTVWYuwEfZOWcAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cryptoneur.xyz/en/gas-fees-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcryptoneur.xyz%2Fen%2Fgas-fees-calculator",
+      "source": "Cryptoneur"
+    },
+    {
+      "position": 2,
+      "title": "Is there an Ethereum transaction/gas fee calculator?",
+      "link": "https://www.reddit.com/r/ethereum/comments/lf1tlo/is_there_an_ethereum_transactiongas_fee_calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/ethereum/comments/lf1tlo/is_there_an_ethereum_transactiongas_fee_calculator/&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQFnoECCIQAQ",
+      "displayed_link": "60+ comments · 5 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Is there a calculator out there where you can simply enter in the ethereum/$USD transaction size and it automatically calculates the cost? Your help ...",
+      "about_this_result": {
+        "source": {
+          "description": "There's a tool called Pelta Shield which allows you to see how your ETH balance is going to look like after the transaction will be confirmed.",
+          "source_info_link": "https://www.reddit.com/r/ethereum/comments/lf1tlo/is_there_an_ethereum_transactiongas_fee_calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/ethereum/comments/lf1tlo/is_there_an_ethereum_transactiongas_fee_calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2Flf1tlo%2Fis_there_an_ethereum_transactiongas_fee_calculator%2F",
+      "source": "Reddit · r/ethereum"
+    },
+    {
+      "position": 3,
+      "title": "Ethereum Gas Tracker - 0.135 Gwei - Etherscan",
+      "link": "https://etherscan.io/gastracker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://etherscan.io/gastracker&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQFnoECBkQAQ",
+      "displayed_link": "https://etherscan.io › gastracker",
+      "favicon": "https://serpapi.com/searches/6a3a17884a0898b7f95c3a12/images/BSthE17bnyPzb_fl4zSx-l3OjcHCnKwcH5uciy5tWGc.png",
+      "snippet": "Gas refers to the fee required to successfully conduct a transaction on the Ethereum blockchain. Gas fees are paid in Ether (ETH) and denominated in Gwei.",
+      "snippet_highlighted_words": [
+        "Gas fees are paid in Ether (ETH) and denominated in Gwei"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Gas refers to the fee required to successfully conduct a transaction on the Ethereum blockchain. Gas fees are paid in Ether (ETH) and denominated in Gwei.",
+          "source_info_link": "https://etherscan.io/gastracker",
+          "icon": "https://serpapi.com/searches/6a3a17884a0898b7f95c3a12/images/BSthE17bnyPzb_fl4zSx-qS7tBTl7K4pML-1bsKOGm2VSjF3mikWdd2HVGRVG_f0.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://etherscan.io/gastracker&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fetherscan.io%2Fgastracker",
+      "source": "etherscan.io",
+      "read_more_link": "https://etherscan.io/gastracker#:~:text=Gas%20refers%20to%20the%20fee,(ETH)%20and%20denominated%20in%20Gwei."
+    },
+    {
+      "position": 4,
+      "title": "How to estimate the gas fee | MetaMask Help Center",
+      "link": "https://support.metamask.io/more-web3/learn/how-to-estimate-the-gas-fee/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.metamask.io/more-web3/learn/how-to-estimate-the-gas-fee/&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQFnoECBgQAQ",
+      "displayed_link": "https://support.metamask.io › more-web3 › learn › how...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAulBMVEX____Nr6n_6eJxNy6OAAD_popWAABcEgCXIgD_XQz_xrXSw8FcAABmGACsOAv_UgD_c0Kjg35gAAD_SwD_lmuTa2X_YBf_j1__jV1RCQC0Qxn_kWGVLgj_XBaHXFfPSBBgEgDwuKXgc0XgelD3YSb_g1D_Zyr_g0v_9PHAPABmEACtNAD_dTz_2Mv_h1KvVTX_tZj_lHT_VQD_i1bMaEL3pZTKpqRFAAD_fFH_iGPw-__k7_3t6u_QxcuoO89PAAABFUlEQVR4AcSMBYLDMAwEw8wktS4GnDLD_392SgrOvaBj9kgr_QxZkf6hyIOHqulDp2vq4GWYlu18Ho5tmYZwruebQRj12UoUBqbvuV8ZJz5ZO82I1CbnJ_FX5iTJFoAIBTmS-TCWGI0ZIhuP6CpiCaPrnEw7OZ10nYYkmBmGOS9sJOxivjCM2UAuy6qeTu0GoLGn07oqlwOZIePTYtoCtHRwhplwqxaBrzfbHcBuu1lzwHb1lfsDIkB15AD8WAFDPOy_8oSsp-tkPXj6yvNlSrSsQWxYOyUuZxEb9h_8ertdeV8YilgpnV7CNLo_ns_HPUrDyzSVBH-zELbk0rCytrG1tbG20uCyFLZAjnkIZQMEMIFBCQCxWB-K_vkmxAAAAABJRU5ErkJggg.png",
+      "snippet": "If you are on Ethereum Mainnet you can check Etherscan's gas tool to estimate today's gas price. ( (base fee + priority fee) x units of gas used).",
+      "snippet_highlighted_words": [
+        "Ethereum",
+        "gas",
+        "gas price",
+        "fee",
+        "fee",
+        "gas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you are on Ethereum Mainnet you can check Etherscan's gas tool to estimate today's gas price. ( (base fee + priority fee) x units of gas used).",
+          "source_info_link": "https://support.metamask.io/more-web3/learn/how-to-estimate-the-gas-fee/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAulBMVEX____Nr6n_6eJxNy6OAAD_popWAABcEgCXIgD_XQz_xrXSw8FcAABmGACsOAv_UgD_c0Kjg35gAAD_SwD_lmuTa2X_YBf_j1__jV1RCQC0Qxn_kWGVLgj_XBaHXFfPSBBgEgDwuKXgc0XgelD3YSb_g1D_Zyr_g0v_9PHAPABmEACtNAD_dTz_2Mv_h1KvVTX_tZj_lHT_VQD_i1bMaEL3pZTKpqRFAAD_fFH_iGPw-__k7_3t6u_QxcuoO89PAAABFUlEQVR4AcSMBYLDMAwEw8wktS4GnDLD_392SgrOvaBj9kgr_QxZkf6hyIOHqulDp2vq4GWYlu18Ho5tmYZwruebQRj12UoUBqbvuV8ZJz5ZO82I1CbnJ_FX5iTJFoAIBTmS-TCWGI0ZIhuP6CpiCaPrnEw7OZ10nYYkmBmGOS9sJOxivjCM2UAuy6qeTu0GoLGn07oqlwOZIePTYtoCtHRwhplwqxaBrzfbHcBuu1lzwHb1lfsDIkB15AD8WAFDPOy_8oSsp-tkPXj6yvNlSrSsQWxYOyUuZxEb9h_8ertdeV8YilgpnV7CNLo_ns_HPUrDyzSVBH-zELbk0rCytrG1tbG20uCyFLZAjnkIZQMEMIFBCQCxWB-K_vkmxAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://support.metamask.io/more-web3/learn/how-to-estimate-the-gas-fee/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsupport.metamask.io%2Fmore-web3%2Flearn%2Fhow-to-estimate-the-gas-fee%2F",
+      "source": "MetaMask Help Center"
+    },
+    {
+      "position": 5,
+      "title": "Ethereum Gas Fee Calculator | Estimate ETH Transaction ...",
+      "link": "https://ryanoconnellfinance.com/calculators/ethereum-gas-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ryanoconnellfinance.com/calculators/ethereum-gas-calculator/&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQFnoECBYQAQ",
+      "displayed_link": "https://ryanoconnellfinance.com › Calculators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEVHcExQj_9Qjv9Qj_9Qjv9Qjv9Oi_kAAAAAAAAAAAAAAAAAAAAAAAAAAABRkP9Qjv8AAAAAAAAAAAAAAAAAAABJgekAAAAAAAAAAABSkv9CdtMAAAAAAABRkP9Qjv9Tlf_EzdxsAAAAIHRSTlMAaj8Zv_9YCTQrEk5WQ-aN_-1g48oSiXm2rF4Z-PIMzVOKfxMAAADmSURBVHgBzY9FgoRAEAQTKby7E3f4_y-XGtfzTuBEKX4Lz8c3glAifCMU8RAnqZLhSpYXJgY8sQ4Fz5QVlKSm0rQiAHKyPCDZAehJ1k3JYRR3ljGAuNFnfqgUgJlEcJYz1JI5Fi5QsIo3PEiQhTkuYHMuFFsxu8uUTHstDScH0cIcKtMsmwut2JEAREbnZi2i8kKKnp0uuJ67JRe5HKeW7nZrRTwADXlbJSYraJZYu5737e7TdmSsG-x5P8fJQNaPey4cNDHimQaKKcsZlwlWsagachlyPNMw0lk-k_arCL4SBBv-nT_7-BDgP-fRxAAAAABJRU5ErkJggg.png",
+      "snippet": "The gas fee is calculated by multiplying the gas units required by the gas price in Gwei, then converting to ETH by dividing by 1,000,000,000 (10^9).",
+      "snippet_highlighted_words": [
+        "multiplying the gas units required by the gas price in Gwei"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The gas fee is calculated by multiplying the gas units required by the gas price in Gwei, then converting to ETH by dividing by 1,000,000,000 (10^9).",
+          "source_info_link": "https://ryanoconnellfinance.com/calculators/ethereum-gas-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEVHcExQj_9Qjv9Qj_9Qjv9Qjv9Oi_kAAAAAAAAAAAAAAAAAAAAAAAAAAABRkP9Qjv8AAAAAAAAAAAAAAAAAAABJgekAAAAAAAAAAABSkv9CdtMAAAAAAABRkP9Qjv9Tlf_EzdxsAAAAIHRSTlMAaj8Zv_9YCTQrEk5WQ-aN_-1g48oSiXm2rF4Z-PIMzVOKfxMAAADmSURBVHgBzY9FgoRAEAQTKby7E3f4_y-XGtfzTuBEKX4Lz8c3glAifCMU8RAnqZLhSpYXJgY8sQ4Fz5QVlKSm0rQiAHKyPCDZAehJ1k3JYRR3ljGAuNFnfqgUgJlEcJYz1JI5Fi5QsIo3PEiQhTkuYHMuFFsxu8uUTHstDScH0cIcKtMsmwut2JEAREbnZi2i8kKKnp0uuJ67JRe5HKeW7nZrRTwADXlbJSYraJZYu5737e7TdmSsG-x5P8fJQNaPey4cNDHimQaKKcsZlwlWsagachlyPNMw0lk-k_arCL4SBBv-nT_7-BDgP-fRxAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ryanoconnellfinance.com/calculators/ethereum-gas-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fryanoconnellfinance.com%2Fcalculators%2Fethereum-gas-calculator%2F",
+      "source": "Ryan O\\'Connell, CFA"
+    },
+    {
+      "position": 6,
+      "title": "Network gas fees calculator | Price for crypto transactions & ...",
+      "link": "https://ironwallet.io/fee-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ironwallet.io/fee-calculator/&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQFnoECDAQAQ",
+      "displayed_link": "https://ironwallet.io › fee-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAjVBMVEVHcEwTkd4ea8wkTMQZfdQfZcsccNEgZcghW8olTMMZftYda84iWMcXhtkXh9keac4cbtAVidsiV8cYhNckT8UUkN0ad9MVi9smScIhXssXhdkiWMghXcoiWcgUjtwWgdsda9AWhdkXgdgVitseZ84UjdwfY80gYMwiVMcZfdYSlN8addMcb9ElScMoQcDtA9VuAAAAH3RSTlMA_BL8NCK4C_4wm3A_b5ZSi65kT8a84O_a29WdxbzfIKXFxwAAAQNJREFUKJHNkdtygjAQQFcJCWjlptWqbSeAaMLF__-87m6CaHnvNA-QyZmzV4B_dJaCv-dMzZmyVbkFCG72ew5XCA8QBxfbLv1TXKhJrHMAo6uFZ-vodnV0VZVljVljmY85kV0yFisUTy7YLijoXxDUXqybLbP7fRiUF3W_JhGDHpyILDgDpMR0v_fixqX6GAZjQjiy2HVCERuLfBsCY75CYlnXWZmUk4iqMVF0RCZVZy0lfIioIuNqUtgTRJZMw9o51uMciNXNY2ZUMDMtcQ0ctM2f5_zJXaR4O1HQNnyGIXdBt03dNO3764okMsljJVG8whChi5UsfovUz7gbIWbsD88PRGAdoZRlTTQAAAAASUVORK5CYII.png",
+      "snippet": "Get the result - our calculator will instantly show you how much you will pay the network per transaction. Ethereum Ethereum's Gas fees are a common example of ...",
+      "snippet_highlighted_words": [
+        "instantly show you how much you will pay the network per transaction"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 7402,
+            "price": 0.01,
+            "currency": "$"
+          },
+          "extensions": [
+            "5.0(7,402)",
+            "$0.01"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Get the result - our calculator will instantly show you how much you will pay the network per transaction. Ethereum Ethereum's Gas fees are a common example of ...",
+          "source_info_link": "https://ironwallet.io/fee-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAjVBMVEVHcEwTkd4ea8wkTMQZfdQfZcsccNEgZcghW8olTMMZftYda84iWMcXhtkXh9keac4cbtAVidsiV8cYhNckT8UUkN0ad9MVi9smScIhXssXhdkiWMghXcoiWcgUjtwWgdsda9AWhdkXgdgVitseZ84UjdwfY80gYMwiVMcZfdYSlN8addMcb9ElScMoQcDtA9VuAAAAH3RSTlMA_BL8NCK4C_4wm3A_b5ZSi65kT8a84O_a29WdxbzfIKXFxwAAAQNJREFUKJHNkdtygjAQQFcJCWjlptWqbSeAaMLF__-87m6CaHnvNA-QyZmzV4B_dJaCv-dMzZmyVbkFCG72ew5XCA8QBxfbLv1TXKhJrHMAo6uFZ-vodnV0VZVljVljmY85kV0yFisUTy7YLijoXxDUXqybLbP7fRiUF3W_JhGDHpyILDgDpMR0v_fixqX6GAZjQjiy2HVCERuLfBsCY75CYlnXWZmUk4iqMVF0RCZVZy0lfIioIuNqUtgTRJZMw9o51uMciNXNY2ZUMDMtcQ0ctM2f5_zJXaR4O1HQNnyGIXdBt03dNO3764okMsljJVG8whChi5UsfovUz7gbIWbsD88PRGAdoZRlTTQAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ironwallet.io/fee-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fironwallet.io%2Ffee-calculator%2F",
+      "source": "IronWallet"
+    },
+    {
+      "position": 7,
+      "title": "Ethereum Gas Fee Calculator",
+      "link": "https://www.youtube.com/watch?v=ytVb75Qzqh8",
+      "displayed_link": "31.8K+ views · 5 years ago",
+      "thumbnail": "https://serpapi.com/searches/6a3a17884a0898b7f95c3a12/images/BSthE17bnyPzb_fl4zSx-jQzp3bTJkYAj7Sojnooleg.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "Here's how you can calculate Ethereum's gas fees. Check out the website here: https://ethgasstation.info/ New to crypto?",
+      "duration": "2:53",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=ytVb75Qzqh8&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQda8R6YQZMCix6rcQTKPb2-5BV55Tv25CqLqR27bgluw&s"
+        },
+        {
+          "time": "00:28",
+          "title": "Transaction Calculator",
+          "link": "https://www.youtube.com/watch?v=ytVb75Qzqh8&t=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiE-KDuj0qPpCEEc242GnvUsAQgTMUlSgN2Kt3eSFKEA&s"
+        },
+        {
+          "time": "00:55",
+          "title": "Entering your own gas fee",
+          "link": "https://www.youtube.com/watch?v=ytVb75Qzqh8&t=55",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDFvbu69YaA6uZqFNIKmZ432lIYdrEg9SwdF3ZQVNVg&s"
+        },
+        {
+          "time": "01:11",
+          "title": "Calculating Gas Fees",
+          "link": "https://www.youtube.com/watch?v=ytVb75Qzqh8&t=71",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRirHX11pw7RBgEq0jjqcRMccg748a0xdqv2wFYyievWw&s"
+        },
+        {
+          "time": "02:03",
+          "title": "Smart Contract Fees",
+          "link": "https://www.youtube.com/watch?v=ytVb75Qzqh8&t=123",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ZLPT1bFpOyddHDgM0raXdgE25o3JRPXr-eUD-RnosQ&s"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Here's how you can calculate Ethereum's gas fees. Check out the website here: https://ethgasstation.info/ New to crypto?",
+          "source_info_link": "https://www.youtube.com/watch?v=ytVb75Qzqh8",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=ytVb75Qzqh8&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DytVb75Qzqh8",
+      "source": "YouTube · Crypto For Canadians"
+    },
+    {
+      "position": 8,
+      "title": "0.24 Gwei ⛽ ETH Gas Tracker — Live Ethereum Gas Fees ...",
+      "link": "https://chaingate.dev/gas-tracker/ethereum",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://chaingate.dev/gas-tracker/ethereum&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQFnoECC0QAQ",
+      "displayed_link": "https://chaingate.dev › gas-tracker › ethereum",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEVHcEwAerwAe7wAerwAe71fzs9gzc5gzc5gzs4Ae7wAgb1SwMtgzc4Ae7wEfr0Lg75BtMlgzs4Ae7wAerxLu8pfzc8Ae7wfkcFXxs1gzc4Ae7wzo8Vgzc4AdrsqmsM9sMgMhr4ZsKUcAAAAIXRSTlMANWhMEhJMaDT_0sz_rP___66g__-l8P__79b_1v___8dCtqq-AAAAmElEQVR4AdWRxQGEABADcXd36L_JO0hw-xOcWV_hmxIlSVYEQdV03TghyYQs24H0HVJcIM_3vIA0VFcW0c_3zNhPSNOFShmZP97ivAAs9UPQ2PdwDw6uYsWMHm1qwoY1y9kMW6ib42oHWAcQKyJEWKjroWQJeygoBwuKYy9sJfZrQDK2wiHQ9ex4DkyG8Z0HPyyDf1vZJ_UHPYcQ-uMFC0cAAAAASUVORK5CYII.png",
+      "snippet": "Ethereum Gas Fee Calculator Estimate the cost of any transaction type on Ethereum. Cost = Gas Price (Base Fee + Tip) × Gas Limit × ETH Price. Current base fee: ...",
+      "snippet_highlighted_words": [
+        "Ethereum Gas Fee Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Ethereum Gas Fee Calculator Estimate the cost of any transaction type on Ethereum. Cost = Gas Price (Base Fee + Tip) × Gas Limit × ETH Price. Current base fee: ...",
+          "source_info_link": "https://chaingate.dev/gas-tracker/ethereum",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEVHcEwAerwAe7wAerwAe71fzs9gzc5gzc5gzs4Ae7wAgb1SwMtgzc4Ae7wEfr0Lg75BtMlgzs4Ae7wAerxLu8pfzc8Ae7wfkcFXxs1gzc4Ae7wzo8Vgzc4AdrsqmsM9sMgMhr4ZsKUcAAAAIXRSTlMANWhMEhJMaDT_0sz_rP___66g__-l8P__79b_1v___8dCtqq-AAAAmElEQVR4AdWRxQGEABADcXd36L_JO0hw-xOcWV_hmxIlSVYEQdV03TghyYQs24H0HVJcIM_3vIA0VFcW0c_3zNhPSNOFShmZP97ivAAs9UPQ2PdwDw6uYsWMHm1qwoY1y9kMW6ib42oHWAcQKyJEWKjroWQJeygoBwuKYy9sJfZrQDK2wiHQ9ex4DkyG8Z0HPyyDf1vZJ_UHPYcQ-uMFC0cAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://chaingate.dev/gas-tracker/ethereum&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fchaingate.dev%2Fgas-tracker%2Fethereum",
+      "source": "ChainGate"
+    },
+    {
+      "position": 9,
+      "title": "Ethereum Fees Calculator",
+      "link": "https://www.fireblocks.com/eth-fees-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fireblocks.com/eth-fees-calculator&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQFnoECC4QAQ",
+      "displayed_link": "https://www.fireblocks.com › eth-fees-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAArUlEQVR4AWJwL_ABYylFD0D7dWwDMAgDUXQORmEJFrmNWIWWKbwMMYUlCiJBgrGQKH59L02QwRFXlCMOsivjmSuby3VbvrwYhQogQwBVQLHsAi7gLwA1KwCav2jYDSAZbxB5J8B3AG4XIMpoBxHVATL2ljYAAwBoAUhGBhCkAfATAL8akEbHG0RaCXAfAG4VIM6ON4h4PEACFybDMc_xBVyA-WECQwDsj1Pr8_wBfZOyb-CK-00AAAAASUVORK5CYII.png",
+      "snippet": "Calculation based on current gas fees. MPC vs. Multi-sig. Fireblocks MPC-CMP ... Get in touch with Fireblocks if you're ready to save on Ethereum management fees.",
+      "snippet_highlighted_words": [
+        "Fireblocks MPC-CMP"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculation based on current gas fees. MPC vs. Multi-sig. Fireblocks MPC-CMP ... Get in touch with Fireblocks if you're ready to save on Ethereum management fees.",
+          "source_info_link": "https://www.fireblocks.com/eth-fees-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAArUlEQVR4AWJwL_ABYylFD0D7dWwDMAgDUXQORmEJFrmNWIWWKbwMMYUlCiJBgrGQKH59L02QwRFXlCMOsivjmSuby3VbvrwYhQogQwBVQLHsAi7gLwA1KwCav2jYDSAZbxB5J8B3AG4XIMpoBxHVATL2ljYAAwBoAUhGBhCkAfATAL8akEbHG0RaCXAfAG4VIM6ON4h4PEACFybDMc_xBVyA-WECQwDsj1Pr8_wBfZOyb-CK-00AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fireblocks.com/eth-fees-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fireblocks.com%2Feth-fees-calculator",
+      "source": "Fireblocks",
+      "read_more_link": "https://www.fireblocks.com/eth-fees-calculator#:~:text=Calculation%20based%20on%20current%20gas,flexibility%2C%20and%20savings%20over%20multi%2Dsig.&text=Get%20in%20touch%20with%20Fireblocks,save%20on%20Ethereum%20management%20fees."
+    },
+    {
+      "position": 10,
+      "title": "Gas Fee Calculator",
+      "link": "https://www.artiffine.com/gas-fee-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.artiffine.com/gas-fee-calculator&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQFnoECC8QAQ",
+      "displayed_link": "https://www.artiffine.com › gas-fee-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEVHcExDHnVDHnZDHnZCHnVDH3xEH3ZDHnVCHnU_HXU8DnEwAGuil7i7s8pBHm7__v-Uhqza1uKLe6VJIHRvWpIz4o00AAAACXRSTlMAOIfD7__kYBa0wpt6AAAA_ElEQVR4AW3TgQqEIBAEUDU1dcuttv__1nNQb_G4IUB4jC2i5hvrNh9C3Jw1v9kbzPh9oRSVcsg5JjWr1Cw0zfafQVCemlYDI33nuBqaSITtKoWoNB_BzF7tOM-DBtXsl2kKt5Q8tVrj1C6-b77KtOrM9kW6-Tn4pmG5bjprFmYKzDKteqO7otXaBzXrGSghEPNL9LR6F2DsFPLLI28Z5jGQ4KNz4jmrm3HdpO9K9Oq-zliQhIKfSQsxP6WjxfFBy3U-RaRicXX0OHgRpFCZi1HcTUsUVBE0Kz4kGiTJkolpXJNFRtdCVJXVkBRXi-nnUg9rtF7q-Rxaf3kOH8SMGsOPqYmCAAAAAElFTkSuQmCC.png",
+      "snippet": "Every time you save any information on Ethereum or Polygon blockchain a gas fee is paid. This tool helps you figure out how much you have to pay.",
+      "snippet_highlighted_words": [
+        "how"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Every time you save any information on Ethereum or Polygon blockchain a gas fee is paid. This tool helps you figure out how much you have to pay.",
+          "source_info_link": "https://www.artiffine.com/gas-fee-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEVHcExDHnVDHnZDHnZCHnVDH3xEH3ZDHnVCHnU_HXU8DnEwAGuil7i7s8pBHm7__v-Uhqza1uKLe6VJIHRvWpIz4o00AAAACXRSTlMAOIfD7__kYBa0wpt6AAAA_ElEQVR4AW3TgQqEIBAEUDU1dcuttv__1nNQb_G4IUB4jC2i5hvrNh9C3Jw1v9kbzPh9oRSVcsg5JjWr1Cw0zfafQVCemlYDI33nuBqaSITtKoWoNB_BzF7tOM-DBtXsl2kKt5Q8tVrj1C6-b77KtOrM9kW6-Tn4pmG5bjprFmYKzDKteqO7otXaBzXrGSghEPNL9LR6F2DsFPLLI28Z5jGQ4KNz4jmrm3HdpO9K9Oq-zliQhIKfSQsxP6WjxfFBy3U-RaRicXX0OHgRpFCZi1HcTUsUVBE0Kz4kGiTJkolpXJNFRtdCVJXVkBRXi-nnUg9rtF7q-Rxaf3kOH8SMGsOPqYmCAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.artiffine.com/gas-fee-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.artiffine.com%2Fgas-fee-calculator",
+      "source": "Artiffine",
+      "read_more_link": "https://www.artiffine.com/gas-fee-calculator#:~:text=Every%20time%20you%20save%20any,pay%2C%20using%20real%2Dtime%20blockchain%20data."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Ethereum gas fee calculator usd",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Ethereum+gas+fee+calculator+usd&sa=X&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ1QJ6BAgoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ethereum+gas+fee+calculator+usd"
+    },
+    {
+      "block_position": 1,
+      "query": "Ethereum gas fees today",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Ethereum+gas+fees+today&sa=X&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ethereum+gas+fees+today"
+    },
+    {
+      "block_position": 1,
+      "query": "Ethereum gas fee calculator reddit",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Ethereum+gas+fee+calculator+reddit&sa=X&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ethereum+gas+fee+calculator+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Ethereum gas fees chart",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Ethereum+gas+fees+chart&sa=X&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ethereum+gas+fees+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Crypto gas fee calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Crypto+gas+fee+calculator&sa=X&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Crypto+gas+fee+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "MetaMask gas fee calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=MetaMask+gas+fee+calculator&sa=X&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ1QJ6BAgsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MetaMask+gas+fee+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Free ETH for gas fee",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Free+ETH+for+gas+fee&sa=X&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ1QJ6BAgqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+ETH+for+gas+fee"
+    },
+    {
+      "block_position": 1,
+      "query": "ETH Gas tracker",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=ETH+Gas+tracker&sa=X&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ1QJ6BAgpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ETH+Gas+tracker"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=ethereum+gas+fee+calculator&sca_esv=bbb7d61e8d3bb37e&ei=iRc6aszHGeOKwbkPwcKB4AE&start=10&sa=N&sstk=AU9db-C6lKuUPsbtYSVY0zQcLJvkdS8hl5mCEJesWEICApEadWzpndovsv238lqp9tCa-b38gkeci0wrM0mN4oaPcCMMXO9Ijv9AaQ&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ8NMDegQIJxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=ethereum+gas+fee+calculator&sca_esv=bbb7d61e8d3bb37e&ei=iRc6aszHGeOKwbkPwcKB4AE&start=10&sa=N&sstk=AU9db-C6lKuUPsbtYSVY0zQcLJvkdS8hl5mCEJesWEICApEadWzpndovsv238lqp9tCa-b38gkeci0wrM0mN4oaPcCMMXO9Ijv9AaQ&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ8tMDegQIJxAE",
+      "3": "https://www.google.com/search?q=ethereum+gas+fee+calculator&sca_esv=bbb7d61e8d3bb37e&ei=iRc6aszHGeOKwbkPwcKB4AE&start=20&sa=N&sstk=AU9db-C6lKuUPsbtYSVY0zQcLJvkdS8hl5mCEJesWEICApEadWzpndovsv238lqp9tCa-b38gkeci0wrM0mN4oaPcCMMXO9Ijv9AaQ&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ8tMDegQIJxAG",
+      "4": "https://www.google.com/search?q=ethereum+gas+fee+calculator&sca_esv=bbb7d61e8d3bb37e&ei=iRc6aszHGeOKwbkPwcKB4AE&start=30&sa=N&sstk=AU9db-C6lKuUPsbtYSVY0zQcLJvkdS8hl5mCEJesWEICApEadWzpndovsv238lqp9tCa-b38gkeci0wrM0mN4oaPcCMMXO9Ijv9AaQ&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ8tMDegQIJxAI",
+      "5": "https://www.google.com/search?q=ethereum+gas+fee+calculator&sca_esv=bbb7d61e8d3bb37e&ei=iRc6aszHGeOKwbkPwcKB4AE&start=40&sa=N&sstk=AU9db-C6lKuUPsbtYSVY0zQcLJvkdS8hl5mCEJesWEICApEadWzpndovsv238lqp9tCa-b38gkeci0wrM0mN4oaPcCMMXO9Ijv9AaQ&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ8tMDegQIJxAK",
+      "6": "https://www.google.com/search?q=ethereum+gas+fee+calculator&sca_esv=bbb7d61e8d3bb37e&ei=iRc6aszHGeOKwbkPwcKB4AE&start=50&sa=N&sstk=AU9db-C6lKuUPsbtYSVY0zQcLJvkdS8hl5mCEJesWEICApEadWzpndovsv238lqp9tCa-b38gkeci0wrM0mN4oaPcCMMXO9Ijv9AaQ&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ8tMDegQIJxAM",
+      "7": "https://www.google.com/search?q=ethereum+gas+fee+calculator&sca_esv=bbb7d61e8d3bb37e&ei=iRc6aszHGeOKwbkPwcKB4AE&start=60&sa=N&sstk=AU9db-C6lKuUPsbtYSVY0zQcLJvkdS8hl5mCEJesWEICApEadWzpndovsv238lqp9tCa-b38gkeci0wrM0mN4oaPcCMMXO9Ijv9AaQ&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ8tMDegQIJxAO",
+      "8": "https://www.google.com/search?q=ethereum+gas+fee+calculator&sca_esv=bbb7d61e8d3bb37e&ei=iRc6aszHGeOKwbkPwcKB4AE&start=70&sa=N&sstk=AU9db-C6lKuUPsbtYSVY0zQcLJvkdS8hl5mCEJesWEICApEadWzpndovsv238lqp9tCa-b38gkeci0wrM0mN4oaPcCMMXO9Ijv9AaQ&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ8tMDegQIJxAQ",
+      "9": "https://www.google.com/search?q=ethereum+gas+fee+calculator&sca_esv=bbb7d61e8d3bb37e&ei=iRc6aszHGeOKwbkPwcKB4AE&start=80&sa=N&sstk=AU9db-C6lKuUPsbtYSVY0zQcLJvkdS8hl5mCEJesWEICApEadWzpndovsv238lqp9tCa-b38gkeci0wrM0mN4oaPcCMMXO9Ijv9AaQ&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ8tMDegQIJxAS",
+      "10": "https://www.google.com/search?q=ethereum+gas+fee+calculator&sca_esv=bbb7d61e8d3bb37e&ei=iRc6aszHGeOKwbkPwcKB4AE&start=90&sa=N&sstk=AU9db-C6lKuUPsbtYSVY0zQcLJvkdS8hl5mCEJesWEICApEadWzpndovsv238lqp9tCa-b38gkeci0wrM0mN4oaPcCMMXO9Ijv9AaQ&ved=2ahUKEwiMsJLNzpyVAxVjRTABHUFhABwQ8tMDegQIJxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ethereum+gas+fee+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ethereum+gas+fee+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ethereum+gas+fee+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ethereum+gas+fee+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ethereum+gas+fee+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ethereum+gas+fee+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ethereum+gas+fee+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ethereum+gas+fee+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ethereum+gas+fee+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ethereum+gas+fee+calculator&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ethereum+gas+fee+calculator&start=90"
+    }
+  }
+}

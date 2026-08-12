@@ -1,0 +1,303 @@
+{
+  "search_metadata": {
+    "id": "6a6b011aa89e020433e22b54",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/isLyb21lKQyw6gS8lFkU3Q/6a6b011aa89e020433e22b54.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/isLyb21lKQyw6gS8lFkU3Q/6a6b011aa89e020433e22b54.json_with_pixel_position",
+    "created_at": "2026-07-30 07:45:30 UTC",
+    "processed_at": "2026-07-30 07:45:30 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Amilitarylifetools.com&oq=site%3Amilitarylifetools.com&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/isLyb21lKQyw6gS8lFkU3Q/6a6b011aa89e020433e22b54.html",
+    "total_time_taken": 9.87
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:militarylifetools.com",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:militarylifetools.com",
+    "total_results": 36,
+    "time_taken_displayed": 0.17,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Military ETS Countdown Timer - Free Online Tool | Military Life ...",
+      "link": "https://militarylifetools.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/&ved=2ahUKEwic07CR9PmVAxW11MMFHb8QHn0QFnoECB0QAQ",
+      "displayed_link": "https://militarylifetools.com",
+      "snippet": "ETS, or Expiration of Term of Service, is the date when your military service obligation ends. It's the official end date of your enlistment contract or ...",
+      "snippet_highlighted_words": [
+        "ETS, or Expiration of Term of Service"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ETS, or Expiration of Term of Service, is the date when your military service obligation ends. It's the official end date of your enlistment contract or ...",
+          "source_info_link": "https://militarylifetools.com/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2F",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 2,
+      "title": "Military Finance Blog | Tips, Guides & Resources",
+      "link": "https://militarylifetools.com/blog",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/blog&ved=2ahUKEwic07CR9PmVAxW11MMFHb8QHn0QFnoECBgQAQ",
+      "displayed_link": "https://militarylifetools.com › blog",
+      "snippet": "Expert financial advice for military members, veterans, and families. Learn about credit cards, SCRA/MLA benefits, BAH, TSP, and more.",
+      "snippet_highlighted_words": [
+        "Expert financial advice for military members, veterans, and families"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Expert financial advice for military members, veterans, and families. Learn about credit cards, SCRA/MLA benefits, BAH, TSP, and more.",
+          "source_info_link": "https://militarylifetools.com/blog"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/blog&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fblog",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 3,
+      "title": "BAH Calculator 2026 - Basic Allowance for Housing Rates",
+      "link": "https://militarylifetools.com/bah-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/bah-calculator&ved=2ahUKEwic07CR9PmVAxW11MMFHb8QHn0QFnoECB4QAQ",
+      "displayed_link": "https://militarylifetools.com › bah-calculator",
+      "snippet": "Basic Allowance for Housing (BAH) is a monthly tax-free allowance paid to U.S. military service members who are not assigned government-provided housing.",
+      "snippet_highlighted_words": [
+        "Basic Allowance for Housing (BAH"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Basic Allowance for Housing (BAH) is a monthly tax-free allowance paid to U.S. military service members who are not assigned government-provided housing.",
+          "source_info_link": "https://militarylifetools.com/bah-calculator"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/bah-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fbah-calculator",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 4,
+      "title": "Military Uniform Size Converter - Find Your Perfect Fit",
+      "link": "https://militarylifetools.com/uniform-size",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/uniform-size&ved=2ahUKEwic07CR9PmVAxW11MMFHb8QHn0QFnoECCoQAQ",
+      "displayed_link": "https://militarylifetools.com › uniform-size",
+      "snippet": "Military uniform sizes typically run similar to regular clothing sizes, but it's best to measure yourself and compare to the size chart.",
+      "snippet_highlighted_words": [
+        "Military uniform sizes typically run similar to regular clothing sizes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military uniform sizes typically run similar to regular clothing sizes, but it's best to measure yourself and compare to the size chart.",
+          "source_info_link": "https://militarylifetools.com/uniform-size"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/uniform-size&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Funiform-size",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 5,
+      "title": "Military Retirement Pay Calculator 2026 - Legacy & BRS",
+      "link": "https://militarylifetools.com/retirement-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/retirement-calculator&ved=2ahUKEwic07CR9PmVAxW11MMFHb8QHn0QFnoECDMQAQ",
+      "displayed_link": "https://militarylifetools.com › retirement-calculator",
+      "snippet": "Free military retirement pay calculator for 2026. Supports both Legacy (pre-2018) and Blended Retirement System (BRS). Calculates monthly pension, lump sum ...",
+      "snippet_highlighted_words": [
+        "Free military retirement pay calculator for 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Free military retirement pay calculator for 2026. Supports both Legacy (pre-2018) and Blended Retirement System (BRS). Calculates monthly pension, lump sum ...",
+          "source_info_link": "https://militarylifetools.com/retirement-calculator"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/retirement-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fretirement-calculator",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 6,
+      "title": "Military Time Converter - Standard to 24-Hour Clock",
+      "link": "https://militarylifetools.com/time-converter/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/time-converter/&ved=2ahUKEwic07CR9PmVAxW11MMFHb8QHn0QFnoECCgQAQ",
+      "displayed_link": "https://militarylifetools.com › time-converter",
+      "snippet": "Convert between standard 12-hour time and military 24-hour time instantly. Free online military time converter with real-time clock and easy-to-use ...",
+      "snippet_highlighted_words": [
+        "Convert between standard 12-hour time and military 24-hour time"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Convert between standard 12-hour time and military 24-hour time instantly. Free online military time converter with real-time clock and easy-to-use ...",
+          "source_info_link": "https://militarylifetools.com/time-converter/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/time-converter/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Ftime-converter%2F",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 7,
+      "title": "Privacy Policy | Military Life Tools",
+      "link": "https://militarylifetools.com/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/privacy-policy&ved=2ahUKEwic07CR9PmVAxW11MMFHb8QHn0QFnoECDEQAQ",
+      "displayed_link": "https://militarylifetools.com › privacy-policy",
+      "date": "Jun 23, 2026",
+      "snippet": "Learn how we collect, use, and protect your information. Free online tools for military personnel, veterans, and their families.",
+      "snippet_highlighted_words": [
+        "Free online tools for military personnel, veterans, and their families"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Learn how we collect, use, and protect your information. Free online tools for military personnel, veterans, and their families.",
+          "source_info_link": "https://militarylifetools.com/privacy-policy"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/privacy-policy&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fprivacy-policy",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 8,
+      "title": "Military Leave Calculator 2026 - Estimate Leave Balance | Military ...",
+      "link": "https://militarylifetools.com/leave-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/leave-calculator/&ved=2ahUKEwic07CR9PmVAxW11MMFHb8QHn0QFnoECCcQAQ",
+      "displayed_link": "https://militarylifetools.com › leave-calculator",
+      "snippet": "Estimate your military leave balance with our free leave calculator. Plan leave days, annual accrual, and ETS leave using simple inputs.",
+      "snippet_highlighted_words": [
+        "free leave calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Estimate your military leave balance with our free leave calculator. Plan leave days, annual accrual, and ETS leave using simple inputs.",
+          "source_info_link": "https://militarylifetools.com/leave-calculator/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/leave-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fleave-calculator%2F",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 9,
+      "title": "VA Disability Rating Calculator 2026",
+      "link": "https://militarylifetools.com/va-disability-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/va-disability-calculator&ved=2ahUKEwic07CR9PmVAxW11MMFHb8QHn0QFnoECDYQAQ",
+      "displayed_link": "https://militarylifetools.com › va-disability-calculator",
+      "snippet": "Free VA disability rating calculator. Add multiple service-connected conditions, get your official VA combined rating (0% to 100%) and 2026 monthly ...",
+      "snippet_highlighted_words": [
+        "Free VA disability rating calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Free VA disability rating calculator. Add multiple service-connected conditions, get your official VA combined rating (0% to 100%) and 2026 monthly ...",
+          "source_info_link": "https://militarylifetools.com/va-disability-calculator"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/va-disability-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fva-disability-calculator",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 10,
+      "title": "Post-9/11 GI Bill Calculator 2026 - Tuition, Housing, Books",
+      "link": "https://militarylifetools.com/gi-bill-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/gi-bill-calculator&ved=2ahUKEwic07CR9PmVAxW11MMFHb8QHn0QFnoECDIQAQ",
+      "displayed_link": "https://militarylifetools.com › gi-bill-calculator",
+      "snippet": "Free Post-9/11 GI Bill calculator. Estimate your tuition coverage, monthly housing allowance (MHA), books stipend, and total 4-year education value for ...",
+      "snippet_highlighted_words": [
+        "Free Post-9/11 GI Bill calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Free Post-9/11 GI Bill calculator. Estimate your tuition coverage, monthly housing allowance (MHA), books stipend, and total 4-year education value for ...",
+          "source_info_link": "https://militarylifetools.com/gi-bill-calculator"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/gi-bill-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fgi-bill-calculator",
+      "source": "militarylifetools.com"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:militarylifetools.com&sca_esv=2c719d755bc25006&ei=JAFrapyxErWpj94Pv6H46Ac&start=10&sa=N&sstk=AU9db-AaqJJV1hSJMjCFNH37WZHmwjhxolq6QX99U9Rgo9rbZWvyiQUAJthxBB3_4ycVJu-H_3IARV0lcNda31lq6G95-sWuD6PIlw&ved=2ahUKEwic07CR9PmVAxW11MMFHb8QHn0Q8NMDegQIIRAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:militarylifetools.com&sca_esv=2c719d755bc25006&ei=JAFrapyxErWpj94Pv6H46Ac&start=10&sa=N&sstk=AU9db-AaqJJV1hSJMjCFNH37WZHmwjhxolq6QX99U9Rgo9rbZWvyiQUAJthxBB3_4ycVJu-H_3IARV0lcNda31lq6G95-sWuD6PIlw&ved=2ahUKEwic07CR9PmVAxW11MMFHb8QHn0Q8tMDegQIIRAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=site%3Amilitarylifetools.com&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=site%3Amilitarylifetools.com&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=site%3Amilitarylifetools.com&start=10"
+    }
+  }
+}

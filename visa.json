@@ -1,0 +1,423 @@
+{
+  "search_metadata": {
+    "id": "6a3a18fa5c4bf4dd75d5797a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/j4C68-GAZtb3Ht1gkVApdg/6a3a18fa5c4bf4dd75d5797a.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/j4C68-GAZtb3Ht1gkVApdg/6a3a18fa5c4bf4dd75d5797a.json_with_pixel_position",
+    "created_at": "2026-06-23 05:26:18 UTC",
+    "processed_at": "2026-06-23 05:26:18 UTC",
+    "google_url": "https://www.google.com/search?q=visa+processing+time+calculator+country&oq=visa+processing+time+calculator+country&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/j4C68-GAZtb3Ht1gkVApdg/6a3a18fa5c4bf4dd75d5797a.html",
+    "total_time_taken": 3.95
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "visa processing time calculator country",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "visa processing time calculator country",
+    "total_results": 87,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Which country has the fastest visa processing time?",
+      "type": "ai_overview",
+      "page_token": "RwlkwnicHdBRboIwAADQ7DJ-DiripolZRCkLsygFWujPAkVBC5QIE-jf7rJT7TRL9o7wvn-qayN-n-Ky79turWnDMDwXUhbV-ZnLWku7qeEaT6sqS7lYL1-W4O3CN3Y3WDs5WH7UtmSP9QDkPmtcwCD-CnSucgLl0RmN1DHblC5AHpNHckNGIEjJ7FGc4_Lkz9kdRVCwpsShQxyu3DgE1YFHbh-IzmTQhbgecRJalFHzg9sjPe-AxwTEicIgFR7NGzTGc33itXv1mxyF-0oFAN9i_VXRyJWh47Wh7T6QkQyIVhEXq-ZoL0ZfFAGcgGSKlRyWu5DailOAIrKdDtGKIAE95-pa-N2bjpThDKxOHimMqGpjQrYgmSM9UxBker7PHROgm2fMLvyxMWb_Y5vPS92v27ss_gDgAnh-",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RwlkwnicHdBRboIwAADQ7DJ-DiripolZRCkLsygFWujPAkVBC5QIE-jf7rJT7TRL9o7wvn-qayN-n-Ky79turWnDMDwXUhbV-ZnLWku7qeEaT6sqS7lYL1-W4O3CN3Y3WDs5WH7UtmSP9QDkPmtcwCD-CnSucgLl0RmN1DHblC5AHpNHckNGIEjJ7FGc4_Lkz9kdRVCwpsShQxyu3DgE1YFHbh-IzmTQhbgecRJalFHzg9sjPe-AxwTEicIgFR7NGzTGc33itXv1mxyF-0oFAN9i_VXRyJWh47Wh7T6QkQyIVhEXq-ZoL0ZfFAGcgGSKlRyWu5DailOAIrKdDtGKIAE95-pa-N2bjpThDKxOHimMqGpjQrYgmSM9UxBker7PHROgm2fMLvyxMWb_Y5vPS92v27ss_gDgAnh-",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RqWkxVa2RDTFRkeGRUSlpkMEZTY1V4a04zVTJURE5aTmpoMWVEUlJWVmxqWm5Od2RqUlpaekl5YWtkblNHSlZlSGhzV0ZaNFNYQlhRMnRJUmxONE5uTmFMVmw1WDNSdE4xUkNiREZwV0daclZIYzNTbWxQT1ZGc1p4SVhMV2huTm1Gd1dFSk5ZVE54YlV4UlVESXRUMVV5UVUwYUlrRkVjM0k1WmxKT1RqVnllRVJ2WDBwTWQzVTFaalp4WTBSUFkxZHBiMEpIYkVFIiwiZmN2IjoiMyIsImVpIjoiLWhnNmFwWEJNYTNxbUxRUDItT1UyQU0iLCJxYyI6IkNpZDJhWE5oSUhCeWIyTmxjM05wYm1jZ2RHbHRaU0JqWVd4amRXeGhkRzl5SUdOdmRXNTBjbmtRQUgzY1l5RV8iLCJxdWVzdGlvbiI6IldoaWNoIGNvdW50cnkgaGFzIHRoZSBmYXN0ZXN0IHZpc2EgcHJvY2Vzc2luZyB0aW1lPyIsImxrIjoiR2pKM2FHbGphQ0JqYjNWdWRISjVJR2hoY3lCMGFHVWdabUZ6ZEdWemRDQjJhWE5oSUhCeWIyTmxjM05wYm1jZ2RHbHRaUSIsImJzIjoiYzYyUHNRNEJRUlJGcy0xVUNvVnM0d2xLaWtHVTJ5QWFwYWdubTltZGw3VXpNdV9aaWRfd1UzN0RwMkJFSWhxUjZPODU5MTVSaWNuT1lHNGdkMGZMX2dSR0ViRFJVQ2hpVFF3TmtvS0RkN2ttUWxzQ1k2MHpPVTFsLUJrVDUwUXMzOXRRMHgxc2RDVDN6cFlQTWlqa0YwRlFPQTlZMTFoNnhlaHM5RkxXdVk3bEtsMkVQN2pFVm94MlJqRW9fMlRuc3plamRaOVBzczZsTFh0cDkwdE1iTVJnN1VKY0V0V3hERmhWanowZVM4TjNLbVJ5bVBiTjkxd3J1UUUiLCJpZCI6ImZjXy1oZzZhcFhCTWEzcW1MUVAyLU9VMkFNXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RqWkxVa2RDTFRkeGRUSlpkMEZTY1V4a04zVTJURE5aTmpoMWVEUlJWVmxqWm5Od2RqUlpaekl5YWtkblNHSlZlSGhzV0ZaNFNYQlhRMnRJUmxONE5uTmFMVmw1WDNSdE4xUkNiREZwV0daclZIYzNTbWxQT1ZGc1p4SVhMV2huTm1Gd1dFSk5ZVE54YlV4UlVESXRUMVV5UVUwYUlrRkVjM0k1WmxKT1RqVnllRVJ2WDBwTWQzVTFaalp4WTBSUFkxZHBiMEpIYkVFIiwiZmN2IjoiMyIsImVpIjoiLWhnNmFwWEJNYTNxbUxRUDItT1UyQU0iLCJxYyI6IkNpZDJhWE5oSUhCeWIyTmxjM05wYm1jZ2RHbHRaU0JqWVd4amRXeGhkRzl5SUdOdmRXNTBjbmtRQUgzY1l5RV8iLCJxdWVzdGlvbiI6IldoaWNoIGNvdW50cnkgaGFzIHRoZSBmYXN0ZXN0IHZpc2EgcHJvY2Vzc2luZyB0aW1lPyIsImxrIjoiR2pKM2FHbGphQ0JqYjNWdWRISjVJR2hoY3lCMGFHVWdabUZ6ZEdWemRDQjJhWE5oSUhCeWIyTmxjM05wYm1jZ2RHbHRaUSIsImJzIjoiYzYyUHNRNEJRUlJGcy0xVUNvVnM0d2xLaWtHVTJ5QWFwYWdubTltZGw3VXpNdV9aaWRfd1UzN0RwMkJFSWhxUjZPODU5MTVSaWNuT1lHNGdkMGZMX2dSR0ViRFJVQ2hpVFF3TmtvS0RkN2ttUWxzQ1k2MHpPVTFsLUJrVDUwUXMzOXRRMHgxc2RDVDN6cFlQTWlqa0YwRlFPQTlZMTFoNnhlaHM5RkxXdVk3bEtsMkVQN2pFVm94MlJqRW9fMlRuc3plamRaOVBzczZsTFh0cDkwdE1iTVJnN1VKY0V0V3hERmhWanowZVM4TjNLbVJ5bVBiTjkxd3J1UUUiLCJpZCI6ImZjXy1oZzZhcFhCTWEzcW1MUVAyLU9VMkFNXzEifQ%3D%3D"
+    },
+    {
+      "question": "Which countries have the longest waiting times for immigration visas?",
+      "type": "featured_snippet",
+      "snippet": "Mexico — The Longest Family Preference Categories Backlog If you were born in Mexico, you face the longest green card wait times of any country in the family preference system. The backlog is years, and in some cases, decades long waits, longer than in almost every other country.",
+      "title": "Green Card Waiting Time by Country: 2026 Guide",
+      "date": "May 25, 2026",
+      "link": "https://alonsoandalonsolaw.com/en/green-card-waiting-time-by-country/#:~:text=Mexico%20%E2%80%94%20The%20Longest%20Family%20Preference,in%20almost%20every%20other%20country.",
+      "displayed_link": "https://alonsoandalonsolaw.com › green-card-waiting-ti...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RqWkxVa2RDTFRkeGRUSlpkMEZTY1V4a04zVTJURE5aTmpoMWVEUlJWVmxqWm5Od2RqUlpaekl5YWtkblNHSlZlSGhzV0ZaNFNYQlhRMnRJUmxONE5uTmFMVmw1WDNSdE4xUkNiREZwV0daclZIYzNTbWxQT1ZGc1p4SVhMV2huTm1Gd1dFSk5ZVE54YlV4UlVESXRUMVV5UVUwYUlrRkVjM0k1WmxKT1RqVnllRVJ2WDBwTWQzVTFaalp4WTBSUFkxZHBiMEpIYkVFIiwiZmN2IjoiMyIsImVpIjoiLWhnNmFwWEJNYTNxbUxRUDItT1UyQU0iLCJxYyI6IkNpZDJhWE5oSUhCeWIyTmxjM05wYm1jZ2RHbHRaU0JqWVd4amRXeGhkRzl5SUdOdmRXNTBjbmtRQUgzY1l5RV8iLCJxdWVzdGlvbiI6IldoaWNoIGNvdW50cmllcyBoYXZlIHRoZSBsb25nZXN0IHdhaXRpbmcgdGltZXMgZm9yIGltbWlncmF0aW9uIHZpc2FzPyIsImxrIjoiY3czSlFRN0FJQWdFd0hfMHRJX3BSNGloc2ttRlJGQ18zODUxcnZzWW02SEY4cHJVaE1sV2xDbmU4SzVaT01LaWR4VEgzMDlNY0F6MktjVndiS2JrQnciLCJicyI6ImM2MlBzUTRCUVJSRnMtMVVDb1ZzNHdsS2lrR1UyeUFhcGFnbm05bWRsN1V6TXVfWmlkX3dVMzdEcDJCRUlocVI2Tzg1OTE1Umljbk9ZRzRnZDBmTF9nUkdFYkRSVUNoaVRRd05rb0tEZDdrbVFsc0NZNjB6T1UxbC1Ca1Q1MFFzMzl0UTB4MXNkQ1QzenBZUE1pamtGMEZRT0E5WTExaDZ4ZWhzOUZMV3VZN2xLbDJFUDdqRVZveDJSakVvXzJUbnN6ZWpkWjlQc3M2bExYdHA5MHRNYk1SZzdVSmNFdFd4REZoVmp6MGVTOE4zS21SeW1QYk45MXdydVFFIiwiaWQiOiJmY18taGc2YXBYQk1hM3FtTFFQMi1PVTJBTV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RqWkxVa2RDTFRkeGRUSlpkMEZTY1V4a04zVTJURE5aTmpoMWVEUlJWVmxqWm5Od2RqUlpaekl5YWtkblNHSlZlSGhzV0ZaNFNYQlhRMnRJUmxONE5uTmFMVmw1WDNSdE4xUkNiREZwV0daclZIYzNTbWxQT1ZGc1p4SVhMV2huTm1Gd1dFSk5ZVE54YlV4UlVESXRUMVV5UVUwYUlrRkVjM0k1WmxKT1RqVnllRVJ2WDBwTWQzVTFaalp4WTBSUFkxZHBiMEpIYkVFIiwiZmN2IjoiMyIsImVpIjoiLWhnNmFwWEJNYTNxbUxRUDItT1UyQU0iLCJxYyI6IkNpZDJhWE5oSUhCeWIyTmxjM05wYm1jZ2RHbHRaU0JqWVd4amRXeGhkRzl5SUdOdmRXNTBjbmtRQUgzY1l5RV8iLCJxdWVzdGlvbiI6IldoaWNoIGNvdW50cmllcyBoYXZlIHRoZSBsb25nZXN0IHdhaXRpbmcgdGltZXMgZm9yIGltbWlncmF0aW9uIHZpc2FzPyIsImxrIjoiY3czSlFRN0FJQWdFd0hfMHRJX3BSNGloc2ttRlJGQ18zODUxcnZzWW02SEY4cHJVaE1sV2xDbmU4SzVaT01LaWR4VEgzMDlNY0F6MktjVndiS2JrQnciLCJicyI6ImM2MlBzUTRCUVJSRnMtMVVDb1ZzNHdsS2lrR1UyeUFhcGFnbm05bWRsN1V6TXVfWmlkX3dVMzdEcDJCRUlocVI2Tzg1OTE1Umljbk9ZRzRnZDBmTF9nUkdFYkRSVUNoaVRRd05rb0tEZDdrbVFsc0NZNjB6T1UxbC1Ca1Q1MFFzMzl0UTB4MXNkQ1QzenBZUE1pamtGMEZRT0E5WTExaDZ4ZWhzOUZMV3VZN2xLbDJFUDdqRVZveDJSakVvXzJUbnN6ZWpkWjlQc3M2bExYdHA5MHRNYk1SZzdVSmNFdFd4REZoVmp6MGVTOE4zS21SeW1QYk45MXdydVFFIiwiaWQiOiJmY18taGc2YXBYQk1hM3FtTFFQMi1PVTJBTV8xIn0%3D"
+    },
+    {
+      "question": "What are the 75 countries no visa processing?",
+      "type": "featured_snippet",
+      "snippet": "In alphabetical order, they are: Afghanistan, Albania, Algeria, Antigua and Barbuda, Armenia, Azerbaijan, Bahamas, Bangladesh, Barbados, Belarus, Belize, Bhutan, Bosnia and Herzegovina, Brazil, Burma, Cambodia, Cameroon, Cape Verde, Colombia, Cote d'Ivoire, Cuba, Democratic Republic of the Congo, Dominica, Egypt, ...",
+      "title": "Questions and Answers about the 75-Country Visa Ban Lawsuit - NILC",
+      "date": "Feb 12, 2026",
+      "link": "https://www.nilc.org/resources/questions-and-answers-about-the-75-country-visa-ban-lawsuit/#:~:text=In%20alphabetical%20order%2C%20they%20are,the%20Congo%2C%20Dominica%2C%20Egypt%2C",
+      "displayed_link": "https://www.nilc.org › resources › questions-and-answers...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA7klEQVR4AWKAgUfLjACd0ANoNnEAgPHvm5GW7WbFpdkKQ5hzU5xt27ZtM2uKc-bSbDyz995d9Tvf88cjBYzg_sUdOAMYhgLe_pMVOMASrqQEjtACb-xLCTRAH_bYEhMYxSnMoIhgROAUI0JncI5QuCMWrjgTE7jHOhbRj0kpe5AKLYBrCYEa_AO4FhEoxQZqoQQVzAoN_IcJPGEDDaijAMsIh5ysGaRhEhMYQQmC4AdnyP8VkEMwGpCPBGSiEcOIlBWQRwiKUIoujKIbHYiBgqxAKhYxglqkIhE5CICcrCUYwhiWCMcAVrGDyq8zeAAc9JvH0d_acAAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RqWkxVa2RDTFRkeGRUSlpkMEZTY1V4a04zVTJURE5aTmpoMWVEUlJWVmxqWm5Od2RqUlpaekl5YWtkblNHSlZlSGhzV0ZaNFNYQlhRMnRJUmxONE5uTmFMVmw1WDNSdE4xUkNiREZwV0daclZIYzNTbWxQT1ZGc1p4SVhMV2huTm1Gd1dFSk5ZVE54YlV4UlVESXRUMVV5UVUwYUlrRkVjM0k1WmxKT1RqVnllRVJ2WDBwTWQzVTFaalp4WTBSUFkxZHBiMEpIYkVFIiwiZmN2IjoiMyIsImVpIjoiLWhnNmFwWEJNYTNxbUxRUDItT1UyQU0iLCJxYyI6IkNpZDJhWE5oSUhCeWIyTmxjM05wYm1jZ2RHbHRaU0JqWVd4amRXeGhkRzl5SUdOdmRXNTBjbmtRQUgzY1l5RV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSA3NSBjb3VudHJpZXMgbm8gdmlzYSBwcm9jZXNzaW5nPyIsImxrIjoiR2g4M05TQmpiM1Z1ZEhKcFpYTWdibThnZG1sellTQndjbTlqWlhOemFXNW4iLCJicyI6ImM2MlBzUTRCUVJSRnMtMVVDb1ZzNHdsS2lrR1UyeUFhcGFnbm05bWRsN1V6TXVfWmlkX3dVMzdEcDJCRUlocVI2Tzg1OTE1Umljbk9ZRzRnZDBmTF9nUkdFYkRSVUNoaVRRd05rb0tEZDdrbVFsc0NZNjB6T1UxbC1Ca1Q1MFFzMzl0UTB4MXNkQ1QzenBZUE1pamtGMEZRT0E5WTExaDZ4ZWhzOUZMV3VZN2xLbDJFUDdqRVZveDJSakVvXzJUbnN6ZWpkWjlQc3M2bExYdHA5MHRNYk1SZzdVSmNFdFd4REZoVmp6MGVTOE4zS21SeW1QYk45MXdydVFFIiwiaWQiOiJmY18taGc2YXBYQk1hM3FtTFFQMi1PVTJBTV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RqWkxVa2RDTFRkeGRUSlpkMEZTY1V4a04zVTJURE5aTmpoMWVEUlJWVmxqWm5Od2RqUlpaekl5YWtkblNHSlZlSGhzV0ZaNFNYQlhRMnRJUmxONE5uTmFMVmw1WDNSdE4xUkNiREZwV0daclZIYzNTbWxQT1ZGc1p4SVhMV2huTm1Gd1dFSk5ZVE54YlV4UlVESXRUMVV5UVUwYUlrRkVjM0k1WmxKT1RqVnllRVJ2WDBwTWQzVTFaalp4WTBSUFkxZHBiMEpIYkVFIiwiZmN2IjoiMyIsImVpIjoiLWhnNmFwWEJNYTNxbUxRUDItT1UyQU0iLCJxYyI6IkNpZDJhWE5oSUhCeWIyTmxjM05wYm1jZ2RHbHRaU0JqWVd4amRXeGhkRzl5SUdOdmRXNTBjbmtRQUgzY1l5RV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSA3NSBjb3VudHJpZXMgbm8gdmlzYSBwcm9jZXNzaW5nPyIsImxrIjoiR2g4M05TQmpiM1Z1ZEhKcFpYTWdibThnZG1sellTQndjbTlqWlhOemFXNW4iLCJicyI6ImM2MlBzUTRCUVJSRnMtMVVDb1ZzNHdsS2lrR1UyeUFhcGFnbm05bWRsN1V6TXVfWmlkX3dVMzdEcDJCRUlocVI2Tzg1OTE1Umljbk9ZRzRnZDBmTF9nUkdFYkRSVUNoaVRRd05rb0tEZDdrbVFsc0NZNjB6T1UxbC1Ca1Q1MFFzMzl0UTB4MXNkQ1QzenBZUE1pamtGMEZRT0E5WTExaDZ4ZWhzOUZMV3VZN2xLbDJFUDdqRVZveDJSakVvXzJUbnN6ZWpkWjlQc3M2bExYdHA5MHRNYk1SZzdVSmNFdFd4REZoVmp6MGVTOE4zS21SeW1QYk45MXdydVFFIiwiaWQiOiJmY18taGc2YXBYQk1hM3FtTFFQMi1PVTJBTV8xIn0%3D"
+    },
+    {
+      "question": "How long are visas taking right now?",
+      "type": "ai_overview",
+      "page_token": "11itDHicHdBdboIwAADg7DI-Ki3TDROzhGlRNtBCf5CXpRYUbQu4VVHedpedaqdZsu8I3_ePPtbq9-FaWdt-TUejruuGh6Y56HIoGzMSX_dajqTQeiekmk6eJuBlL2eLy8p_Pa98TNuWzROHLPK1AMriOwgjVtW8LoAIGIhc1kUwHu9MYqTLxjuUoy3NsTTSkUELqQKZgPrMXJ_SZd5HuqIkYJqc4jepExijyhcE2RTqDTsVvtRxUij7XqobZNxjaxQbZryLoB4uMvzIWatTlymKCsJPBRGGgh0qJlHW3gkfZ1g_30qjer6srkIpmDso3ZpcpXVsY8frS5PA3A3dRSWtCCTcZv4WK1BFLrIEIRwdwYaR0CdJc8Q06eVJG8pRWM5jyKmHsKMxVm3HjbXJEjs5wc6aLxyKB3t5nbmD_8_Zx97YafvZHP4A7vuCkg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=11itDHicHdBdboIwAADg7DI-Ki3TDROzhGlRNtBCf5CXpRYUbQu4VVHedpedaqdZsu8I3_ePPtbq9-FaWdt-TUejruuGh6Y56HIoGzMSX_dajqTQeiekmk6eJuBlL2eLy8p_Pa98TNuWzROHLPK1AMriOwgjVtW8LoAIGIhc1kUwHu9MYqTLxjuUoy3NsTTSkUELqQKZgPrMXJ_SZd5HuqIkYJqc4jepExijyhcE2RTqDTsVvtRxUij7XqobZNxjaxQbZryLoB4uMvzIWatTlymKCsJPBRGGgh0qJlHW3gkfZ1g_30qjer6srkIpmDso3ZpcpXVsY8frS5PA3A3dRSWtCCTcZv4WK1BFLrIEIRwdwYaR0CdJc8Q06eVJG8pRWM5jyKmHsKMxVm3HjbXJEjs5wc6aLxyKB3t5nbmD_8_Zx97YafvZHP4A7vuCkg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RqWkxVa2RDTFRkeGRUSlpkMEZTY1V4a04zVTJURE5aTmpoMWVEUlJWVmxqWm5Od2RqUlpaekl5YWtkblNHSlZlSGhzV0ZaNFNYQlhRMnRJUmxONE5uTmFMVmw1WDNSdE4xUkNiREZwV0daclZIYzNTbWxQT1ZGc1p4SVhMV2huTm1Gd1dFSk5ZVE54YlV4UlVESXRUMVV5UVUwYUlrRkVjM0k1WmxKT1RqVnllRVJ2WDBwTWQzVTFaalp4WTBSUFkxZHBiMEpIYkVFIiwiZmN2IjoiMyIsImVpIjoiLWhnNmFwWEJNYTNxbUxRUDItT1UyQU0iLCJxYyI6IkNpZDJhWE5oSUhCeWIyTmxjM05wYm1jZ2RHbHRaU0JqWVd4amRXeGhkRzl5SUdOdmRXNTBjbmtRQUgzY1l5RV8iLCJxdWVzdGlvbiI6IkhvdyBsb25nIGFyZSB2aXNhcyB0YWtpbmcgcmlnaHQgbm93PyIsImxrIjoiR2lOb2IzY2diRzl1WnlCaGNtVWdkbWx6WVhNZ2RHRnJhVzVuSUhKcFoyaDBJRzV2ZHciLCJicyI6ImM2MlBzUTRCUVJSRnMtMVVDb1ZzNHdsS2lrR1UyeUFhcGFnbm05bWRsN1V6TXVfWmlkX3dVMzdEcDJCRUlocVI2Tzg1OTE1Umljbk9ZRzRnZDBmTF9nUkdFYkRSVUNoaVRRd05rb0tEZDdrbVFsc0NZNjB6T1UxbC1Ca1Q1MFFzMzl0UTB4MXNkQ1QzenBZUE1pamtGMEZRT0E5WTExaDZ4ZWhzOUZMV3VZN2xLbDJFUDdqRVZveDJSakVvXzJUbnN6ZWpkWjlQc3M2bExYdHA5MHRNYk1SZzdVSmNFdFd4REZoVmp6MGVTOE4zS21SeW1QYk45MXdydVFFIiwiaWQiOiJmY18taGc2YXBYQk1hM3FtTFFQMi1PVTJBTV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RqWkxVa2RDTFRkeGRUSlpkMEZTY1V4a04zVTJURE5aTmpoMWVEUlJWVmxqWm5Od2RqUlpaekl5YWtkblNHSlZlSGhzV0ZaNFNYQlhRMnRJUmxONE5uTmFMVmw1WDNSdE4xUkNiREZwV0daclZIYzNTbWxQT1ZGc1p4SVhMV2huTm1Gd1dFSk5ZVE54YlV4UlVESXRUMVV5UVUwYUlrRkVjM0k1WmxKT1RqVnllRVJ2WDBwTWQzVTFaalp4WTBSUFkxZHBiMEpIYkVFIiwiZmN2IjoiMyIsImVpIjoiLWhnNmFwWEJNYTNxbUxRUDItT1UyQU0iLCJxYyI6IkNpZDJhWE5oSUhCeWIyTmxjM05wYm1jZ2RHbHRaU0JqWVd4amRXeGhkRzl5SUdOdmRXNTBjbmtRQUgzY1l5RV8iLCJxdWVzdGlvbiI6IkhvdyBsb25nIGFyZSB2aXNhcyB0YWtpbmcgcmlnaHQgbm93PyIsImxrIjoiR2lOb2IzY2diRzl1WnlCaGNtVWdkbWx6WVhNZ2RHRnJhVzVuSUhKcFoyaDBJRzV2ZHciLCJicyI6ImM2MlBzUTRCUVJSRnMtMVVDb1ZzNHdsS2lrR1UyeUFhcGFnbm05bWRsN1V6TXVfWmlkX3dVMzdEcDJCRUlocVI2Tzg1OTE1Umljbk9ZRzRnZDBmTF9nUkdFYkRSVUNoaVRRd05rb0tEZDdrbVFsc0NZNjB6T1UxbC1Ca1Q1MFFzMzl0UTB4MXNkQ1QzenBZUE1pamtGMEZRT0E5WTExaDZ4ZWhzOUZMV3VZN2xLbDJFUDdqRVZveDJSakVvXzJUbnN6ZWpkWjlQc3M2bExYdHA5MHRNYk1SZzdVSmNFdFd4REZoVmp6MGVTOE4zS21SeW1QYk45MXdydVFFIiwiaWQiOiJmY18taGc2YXBYQk1hM3FtTFFQMi1PVTJBTV8xIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "_g-Eg3icxVbdcuo2EL7ve5SbBIz5JzOeM5ItwIALanCIc-PxHzZgW8SCAOeu79Kn6ov0tvIfmAMk0zPT6TK2pNVqtSvt548__vSX4fqvX_72ttsNfeK4_X5fcQlxfadikYAz6DG0uAXxaWR53yjZRZaztAXLi0jglI4fQr1kUaFacpZC2XNbxuYVKkb9PRjjaa08UWtAKSUuBN00qLNiOxxWlNM59lr_WpfYoEIrTlgRvYZ5eCGjw0Gt1Kp8tzLhjIAZgP9QEPg9aTH7yayVryzi7d0vvGA5Xvhc0IiFdy5K6kiWk0a861TMohC12EQqv0UNCCSc6AafRPF8OZzHLwT2AMA4RIRvrbkVRK4jWQvv7oiuVYkxzPaSiu7v5QuLF4xjn7MOEM8XkacMQZ4BM3FZH6YemwA2pnuxL35yTWxm4w6QV8Y3gy5Ib4Q2-6w_1vosIs52WRFWOTNiDc8tLc9KOhGNa1OcdaukN43st8NAiprPr0caoepgpyzfDrtwq2DOMpmdTwzbsXVPr35LxnyNb1a79XbnMQGFRU-ooEVUvLUUH9SHi3oPVMYVyBcgkRxGWkp5SnG59W6mh8AoO8OCiPnC5KzxMDub_JTV3AySHB2ZYrWOq0o7KTrxVXjXe96CRC5uscMgkUQiq6eVRfM4UBmeQ81E-vG-z-MsBw2M8CllVIg4PQhUHK_jFOV-rtifpmKvrg8SiDNIoMzh5GK9WwyMeYIiQPn0KYLYRlqfzFASYTytYawBuccgClH6cUjWocwbki_PDqwuRj03fkT3JsC_Eni-8HuCQF77P5RyEQJ9VTL6eviuSG1N8zfvfekwGrb24GXmgdslTwLzXzCB9f-CQs14Qs2QMLoJCvcLUGAZfcoTaQGfeSKuFZHcA4WYgeKSJ9LCPfPENSieL0FxnycKoEi9fA4KeBcU6WflGhQxT1yBwr0DipQniqC45Inw5DnOoACKn-IJ_BM8kWDESZtL0tit3PvksTq0TFR-JsMu8MFHs7pD30UCh7BT_5o8FsH2KTBs_1Ff2k-wNtwe7UedKciTY5fehY8lNR42EbEcSpeh-7BdBs6DZfjWzje2JHqwCOOo6FgK_IgIVaMBoafKZDeC0ZRfDNFrOMRKc76SrNXEaoZA0vd8vXbEuKN2p8Ec-IOe1lKp5aiNsCzqk5k2-x5t6HoxXoAhdjQ6na0pWL_0x9Frp2W0vBdV3066XWUSWn1eVHpKw3Q1shq0Q4DacEz74hbX5bknTRevqguSuKigfxxW89mLDMZMY9jUEfhSEFkCQ0PDBb9hMHeBxWAAMPtThUXCnj0rghK1DN2hH4Jpmm27xTsdu26a9bZTCtztcSM0-BINI4H_B9DCIAA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_g-Eg3icxVbdcuo2EL7ve5SbBIz5JzOeM5ItwIALanCIc-PxHzZgW8SCAOeu79Kn6ov0tvIfmAMk0zPT6TK2pNVqtSvt548__vSX4fqvX_72ttsNfeK4_X5fcQlxfadikYAz6DG0uAXxaWR53yjZRZaztAXLi0jglI4fQr1kUaFacpZC2XNbxuYVKkb9PRjjaa08UWtAKSUuBN00qLNiOxxWlNM59lr_WpfYoEIrTlgRvYZ5eCGjw0Gt1Kp8tzLhjIAZgP9QEPg9aTH7yayVryzi7d0vvGA5Xvhc0IiFdy5K6kiWk0a861TMohC12EQqv0UNCCSc6AafRPF8OZzHLwT2AMA4RIRvrbkVRK4jWQvv7oiuVYkxzPaSiu7v5QuLF4xjn7MOEM8XkacMQZ4BM3FZH6YemwA2pnuxL35yTWxm4w6QV8Y3gy5Ib4Q2-6w_1vosIs52WRFWOTNiDc8tLc9KOhGNa1OcdaukN43st8NAiprPr0caoepgpyzfDrtwq2DOMpmdTwzbsXVPr35LxnyNb1a79XbnMQGFRU-ooEVUvLUUH9SHi3oPVMYVyBcgkRxGWkp5SnG59W6mh8AoO8OCiPnC5KzxMDub_JTV3AySHB2ZYrWOq0o7KTrxVXjXe96CRC5uscMgkUQiq6eVRfM4UBmeQ81E-vG-z-MsBw2M8CllVIg4PQhUHK_jFOV-rtifpmKvrg8SiDNIoMzh5GK9WwyMeYIiQPn0KYLYRlqfzFASYTytYawBuccgClH6cUjWocwbki_PDqwuRj03fkT3JsC_Eni-8HuCQF77P5RyEQJ9VTL6eviuSG1N8zfvfekwGrb24GXmgdslTwLzXzCB9f-CQs14Qs2QMLoJCvcLUGAZfcoTaQGfeSKuFZHcA4WYgeKSJ9LCPfPENSieL0FxnycKoEi9fA4KeBcU6WflGhQxT1yBwr0DipQniqC45Inw5DnOoACKn-IJ_BM8kWDESZtL0tit3PvksTq0TFR-JsMu8MFHs7pD30UCh7BT_5o8FsH2KTBs_1Ff2k-wNtwe7UedKciTY5fehY8lNR42EbEcSpeh-7BdBs6DZfjWzje2JHqwCOOo6FgK_IgIVaMBoafKZDeC0ZRfDNFrOMRKc76SrNXEaoZA0vd8vXbEuKN2p8Ec-IOe1lKp5aiNsCzqk5k2-x5t6HoxXoAhdjQ6na0pWL_0x9Frp2W0vBdV3066XWUSWn1eVHpKw3Q1shq0Q4DacEz74hbX5bknTRevqguSuKigfxxW89mLDMZMY9jUEfhSEFkCQ0PDBb9hMHeBxWAAMPtThUXCnj0rghK1DN2hH4Jpmm27xTsdu26a9bZTCtztcSM0-BINI4H_B9DCIAA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Green Card Processing Time Calculator",
+      "link": "https://lawofficeimmigration.com/tools/green-card-processing-time.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lawofficeimmigration.com/tools/green-card-processing-time.html&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQFnoECBgQAQ",
+      "displayed_link": "https://lawofficeimmigration.com › tools › green-card-p...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAATlBMVEVHcEz____________________5-fodHR0yMjK2trbBwcHY2NkAAAA8PDzIzNJqamlzc3ONjY1QUFDr7O67w9AAN22oqKgbRnZYWFhISEgm6n9nAAAABnRSTlMAKqzw_2X5Uo38AAAAuklEQVR4AX3TBRaDMBBF0ZB8XKOF_W-0U3zoGV4FubgopTJt8JfRmaJyCOW0HsQypQEUZfWoLABoZUDVzaMalFFYK1oe1nasO1bP8BnDYZzu2RfsHUN4oKCvX8csxxCBGJBKFF1DznAg_BBWhAPwhmmU0XazjO3kZMS0iJhcZ0Xs5hYSVgNQCPgrLSJ619UM2wtT587LZ7DmN-z9sq62ZpTGUSSkQ_U40rdH07eENXs02UM9eP5Qv70OX8Q9FnsiBc7LAAAAAElFTkSuQmCC.png",
+      "snippet": "Green Card Processing Time Calculator. Estimate wait times based on current USCIS processing data. Updated March 2026. Green Card Category.",
+      "snippet_highlighted_words": [
+        "Estimate wait times based on current USCIS processing data"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Green Card Processing Time Calculator. Estimate wait times based on current USCIS processing data. Updated March 2026. Green Card Category.",
+          "source_info_link": "https://lawofficeimmigration.com/tools/green-card-processing-time.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAATlBMVEVHcEz____________________5-fodHR0yMjK2trbBwcHY2NkAAAA8PDzIzNJqamlzc3ONjY1QUFDr7O67w9AAN22oqKgbRnZYWFhISEgm6n9nAAAABnRSTlMAKqzw_2X5Uo38AAAAuklEQVR4AX3TBRaDMBBF0ZB8XKOF_W-0U3zoGV4FubgopTJt8JfRmaJyCOW0HsQypQEUZfWoLABoZUDVzaMalFFYK1oe1nasO1bP8BnDYZzu2RfsHUN4oKCvX8csxxCBGJBKFF1DznAg_BBWhAPwhmmU0XazjO3kZMS0iJhcZ0Xs5hYSVgNQCPgrLSJ619UM2wtT587LZ7DmN-z9sq62ZpTGUSSkQ_U40rdH07eENXs02UM9eP5Qv70OX8Q9FnsiBc7LAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://lawofficeimmigration.com/tools/green-card-processing-time.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Flawofficeimmigration.com%2Ftools%2Fgreen-card-processing-time.html",
+      "source": "Modern Law Group",
+      "read_more_link": "https://lawofficeimmigration.com/tools/green-card-processing-time.html#:~:text=Green%20Card%20Processing%20Time%20Calculator,Green%20Card%20Category"
+    },
+    {
+      "position": 2,
+      "title": "Global Visa Wait Times",
+      "link": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQFnoECCAQAQ",
+      "displayed_link": "https://travel.state.gov › travel › visa-information-resources",
+      "date": "5 days ago",
+      "snippet": "We calculate months in 30-day increments and half months in 15-day increments. This includes weekends and holidays when embassies close. The “ ...",
+      "snippet_highlighted_words": [
+        "months in 30-day increments"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We calculate months in 30-day increments and half months in 15-day increments. This includes weekends and holidays when embassies close. The “ ...",
+          "source_info_link": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftravel.state.gov%2Fcontent%2Ftravel%2Fen%2Fus-visas%2Fvisa-information-resources%2Fglobal-visa-wait-times.html",
+      "source": "U.S. Department of State (.gov)",
+      "read_more_link": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html#:~:text=We%20calculate%20months%20in%2030%2Dday,an%20appointment%20at%20that%20location."
+    },
+    {
+      "position": 3,
+      "title": "Visa Processing Time Calculator 2026",
+      "link": "https://www.drshrutimehta.com/visa-processing-time-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.drshrutimehta.com/visa-processing-time-calculator&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQFnoECBoQAQ",
+      "displayed_link": "https://www.drshrutimehta.com › Free Tools",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAtFBMVEVHcEwAAAAAAAAFAAAEBgUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASGBMAAACk1f-JwVOq2_-m1_-PxViYxe40RReRy1cdKglcdpFWeiMiKjAzU2o3R1iHr9Z-sUncYHR5nMGt4P9tja5MbCNsLjgrNT5rlzjK7pf4bYNehSui0v5FVyeItFjQ9ps7ka-Ru-MxPVdiX0V5kFqCmWEscorHpon_1rCOPkuTbWglAAAAE3RSTlMA1bb56E5fKacSPIi-CG3JGP2VVO644AAAAbZJREFUKJF1UoeSmzAUfFRJVDsgiWLANPfua0n-_7_yBJzjXBLNwGhmta_sLgAwl8B_z_x7ysbbjJDZF7D88aqodmh6lHpmaD-DluEOv4nOXMN6YHb6_koheH6u69Nldr7ur2-qlEPNNDWpowjaCAbyut_vPWDaupFSZsVSw_r2yCXbt8v72SZ5I2N1dl1S4nz61NexLd_PBySWMq1FVCLXGEEfP207YsV2xSORYEtXjeFTIwBnUReqqlyv-iiK-MIBFqotLc0EmiTnoSXOo8CEApjD0h7xTc7nsYxlczzmtRCrF0Q8pSTBV0su6vkx27103V2Ie5qlAJQ8wEj01e5SnoSIRL1-gDMP63PsdJpnTYmXfrHLTJ_og9ZYn96HGYus6LBjKhsKpmYpHUKGqygqr9I8wX8j1w4EBlUC2OiYlnAucAURRaIrLtqkDQxKsW1VDuxIzZMzcAd3lA5oAcnj_DSA_cogYLaHzSS9jlYzLV_0nPNkgZaRn-3m8Om4FoxmL5ej2WxzaNtvfwVjDACEWPZ3YL8EjGxa7_n5czT1qjI-yj-z_gj1_Hb7uFUW_PtYgWsz-AV3dCZ1xiX-PQAAAABJRU5ErkJggg.png",
+      "snippet": "Free Visa Processing Time Calculator - Calculate accurate visa processing times for USA, UK, Canada, Australia & more. Get instant timeline estimates for...",
+      "snippet_highlighted_words": [
+        "Free Visa Processing Time Calculator"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "reviews": 1247
+          },
+          "extensions": [
+            "4.9(1,247)",
+            "Free",
+            "Utilities/Tools"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Free Visa Processing Time Calculator - Calculate accurate visa processing times for USA, UK, Canada, Australia & more. Get instant timeline estimates for...",
+          "source_info_link": "https://www.drshrutimehta.com/visa-processing-time-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAtFBMVEVHcEwAAAAAAAAFAAAEBgUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASGBMAAACk1f-JwVOq2_-m1_-PxViYxe40RReRy1cdKglcdpFWeiMiKjAzU2o3R1iHr9Z-sUncYHR5nMGt4P9tja5MbCNsLjgrNT5rlzjK7pf4bYNehSui0v5FVyeItFjQ9ps7ka-Ru-MxPVdiX0V5kFqCmWEscorHpon_1rCOPkuTbWglAAAAE3RSTlMA1bb56E5fKacSPIi-CG3JGP2VVO644AAAAbZJREFUKJF1UoeSmzAUfFRJVDsgiWLANPfua0n-_7_yBJzjXBLNwGhmta_sLgAwl8B_z_x7ysbbjJDZF7D88aqodmh6lHpmaD-DluEOv4nOXMN6YHb6_koheH6u69Nldr7ur2-qlEPNNDWpowjaCAbyut_vPWDaupFSZsVSw_r2yCXbt8v72SZ5I2N1dl1S4nz61NexLd_PBySWMq1FVCLXGEEfP207YsV2xSORYEtXjeFTIwBnUReqqlyv-iiK-MIBFqotLc0EmiTnoSXOo8CEApjD0h7xTc7nsYxlczzmtRCrF0Q8pSTBV0su6vkx27103V2Ie5qlAJQ8wEj01e5SnoSIRL1-gDMP63PsdJpnTYmXfrHLTJ_og9ZYn96HGYus6LBjKhsKpmYpHUKGqygqr9I8wX8j1w4EBlUC2OiYlnAucAURRaIrLtqkDQxKsW1VDuxIzZMzcAd3lA5oAcnj_DSA_cogYLaHzSS9jlYzLV_0nPNkgZaRn-3m8Om4FoxmL5ej2WxzaNtvfwVjDACEWPZ3YL8EjGxa7_n5czT1qjI-yj-z_gj1_Hb7uFUW_PtYgWsz-AV3dCZ1xiX-PQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.drshrutimehta.com/visa-processing-time-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.drshrutimehta.com%2Fvisa-processing-time-calculator",
+      "source": "Dr. Shruti Mehta"
+    },
+    {
+      "position": 4,
+      "title": "The Latest Green Card Processing Times - 2026",
+      "link": "https://www.boundless.com/immigration-resources/average-green-card-wait-times",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.boundless.com/immigration-resources/average-green-card-wait-times&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQFnoECB4QAQ",
+      "displayed_link": "https://www.boundless.com › immigration-resources › a...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEX___9VWFdGSUhfYmGbnJzw8PAuMjANFRIRGBYAAAC_wL8yNjUUGhgZHx0AAgAABgDm5uY-QkGmp6egoqEADgt_gYBMT06TlZR2eHjp6eltb27LzMtKTUze398jKCb19vaRIlgIAAAAlklEQVR4AcXSRwKEIAwFUAtMkoGPvbf7n3KqO8zav1F4dEhuTJr9kxsb44P4FxJ5Rug8fAihYEDKGH1VN02TtWi7GCn__fTsnYpD66Hi2HIWI6d2mspaIHWMYPkGNCcXeKbtErUnQZwy57T0H6211SYMXlWcCa2KOXlouAkovT54MwogtXJlBLS7etmtZIf2TNJuSW7NGz-xCcjTcYtPAAAAAElFTkSuQmCC.png",
+      "date": "Apr 1, 2025",
+      "snippet": "Get accurate green card processing times based on current USCIS data, visa bulletin wait periods, and your category and country of origin.",
+      "snippet_highlighted_words": [
+        "Get accurate green card processing times"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Get accurate green card processing times based on current USCIS data, visa bulletin wait periods, and your category and country of origin.",
+          "source_info_link": "https://www.boundless.com/immigration-resources/average-green-card-wait-times",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEX___9VWFdGSUhfYmGbnJzw8PAuMjANFRIRGBYAAAC_wL8yNjUUGhgZHx0AAgAABgDm5uY-QkGmp6egoqEADgt_gYBMT06TlZR2eHjp6eltb27LzMtKTUze398jKCb19vaRIlgIAAAAlklEQVR4AcXSRwKEIAwFUAtMkoGPvbf7n3KqO8zav1F4dEhuTJr9kxsb44P4FxJ5Rug8fAihYEDKGH1VN02TtWi7GCn__fTsnYpD66Hi2HIWI6d2mspaIHWMYPkGNCcXeKbtErUnQZwy57T0H6211SYMXlWcCa2KOXlouAkovT54MwogtXJlBLS7etmtZIf2TNJuSW7NGz-xCcjTcYtPAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.boundless.com/immigration-resources/average-green-card-wait-times&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.boundless.com%2Fimmigration-resources%2Faverage-green-card-wait-times",
+      "source": "Boundless Immigration"
+    },
+    {
+      "position": 5,
+      "title": "Green Card Wait Time Estimator",
+      "link": "https://citizenpath.com/green-card-wait-time-estimator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://citizenpath.com/green-card-wait-time-estimator/&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQFnoECCEQAQ",
+      "displayed_link": "https://citizenpath.com › green-card-wait-time-estimator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX____p9-_j9OpsyZQAsFoArlUAsl6G0ab3_Pqw4MUArVAGsmDb8eTL6tim3LxKv34AsFn2-vy1zuaJstigwN_f6vQetmjS7d2qxuIAc70Adb4TeL8AcbyIttULtlyAz6FfxYuOtdoge8B0qc_L3O3t8_llnM9MkMijx94AsVjd6PPB1epuypYvuXDU5u2T1a8Aa7u1rytQAAAA4UlEQVR4AdWQRWLDMBAA12LJzBWEmfP_z5WMhdyTuSyMcOEF8LxHBmFCKePiPycVY4T4jAR_Xah8imUUJz4Z7U2zPC9KqPyk_iqjhOHevWljrXWTKZs1jTmj3daFWxpjtVn1MiRJ3WRrt1yuATbbQdZJEjbZbmk238n-0MmIUNQ8xtlF0xK0k5VfNclRm1Mn_fPcAwguPpVNq3QmGySjlU_9ZA4tZrkdJGWMEcWhI7e6-D7iemAc3fA5Go0-tUu9y075_dq9dkxp7dcU3L8S0tw67XabWJ3hP8oy_XqSB8_MB2JoEL8hDWF7AAAAAElFTkSuQmCC.png",
+      "snippet": "The Green Card Wait Time Estimator helps you predict when an immigrant visa (green card) will be available based on your priority date and visa category. We use ...",
+      "snippet_highlighted_words": [
+        "Time",
+        "visa",
+        "visa"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Green Card Wait Time Estimator helps you predict when an immigrant visa (green card) will be available based on your priority date and visa category. We use ...",
+          "source_info_link": "https://citizenpath.com/green-card-wait-time-estimator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX____p9-_j9OpsyZQAsFoArlUAsl6G0ab3_Pqw4MUArVAGsmDb8eTL6tim3LxKv34AsFn2-vy1zuaJstigwN_f6vQetmjS7d2qxuIAc70Adb4TeL8AcbyIttULtlyAz6FfxYuOtdoge8B0qc_L3O3t8_llnM9MkMijx94AsVjd6PPB1epuypYvuXDU5u2T1a8Aa7u1rytQAAAA4UlEQVR4AdWQRWLDMBAA12LJzBWEmfP_z5WMhdyTuSyMcOEF8LxHBmFCKePiPycVY4T4jAR_Xah8imUUJz4Z7U2zPC9KqPyk_iqjhOHevWljrXWTKZs1jTmj3daFWxpjtVn1MiRJ3WRrt1yuATbbQdZJEjbZbmk238n-0MmIUNQ8xtlF0xK0k5VfNclRm1Mn_fPcAwguPpVNq3QmGySjlU_9ZA4tZrkdJGWMEcWhI7e6-D7iemAc3fA5Go0-tUu9y075_dq9dkxp7dcU3L8S0tw67XabWJ3hP8oy_XqSB8_MB2JoEL8hDWF7AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://citizenpath.com/green-card-wait-time-estimator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcitizenpath.com%2Fgreen-card-wait-time-estimator%2F",
+      "source": "CitizenPath",
+      "read_more_link": "https://citizenpath.com/green-card-wait-time-estimator/#:~:text=The%20Green%20Card%20Wait%20Time,to%20provide%20a%20personalized%20estimate."
+    },
+    {
+      "position": 6,
+      "title": "Green Card Waiting Time by Country: 2026 Guide",
+      "link": "https://alonsoandalonsolaw.com/en/green-card-waiting-time-by-country/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alonsoandalonsolaw.com/en/green-card-waiting-time-by-country/&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQFnoECB0QAQ",
+      "displayed_link": "https://alonsoandalonsolaw.com › green-card-waiting-ti...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAclBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAABHAQAAAADeAgPfAAKpAgIAAADgAQLfAADdAAHlum_eAQLfAAEAAADYDgfnv1fovFfmwVTiulTowFbnwFXqwVreAgXpv1bmvFXov1Lov1Pov1TowFTnv1TrvVVZBwmSA_CCAAAAJXRSTlMAqseTJv9CCOIqmhV06f_VBHT5V1ExIgxEWoh4s5UX1PvArp5rUlvb7QAAAVVJREFUeAGt0tGygiAUheFVhloaqakChLjF8_6veBSZSqfpqs9LfwW24pcOxwhfnBCxOEm-PM_S-Tp9C2YhOF8y7CGPUxbl640rv2GniPMjY-yQ-1dceIm9lK0OQFZyXpX7RaIQ3JHwRVVhKw5BEgK-D8C8I4DSB_XnY-aYVZxvj9G0m-DsV8iATmAl5XOXdwCZDwqgVQiBFjgxL02AB1-UEMLA6xurkB_XTd6Bmw8ekFa2WLQDjeEYKRZ-UICiQWBRuMZ2u4DXKEi4Hp6icUKyDxqiEavJKVe8BRe_R01aIRilbTK2wGtQg6AOgbOOkvApwjFrckQFgo6ENafwR139FLQV1OJJ2H6Y4jmI1jGUcmhJ4qUzVlgtUsbieYGqlkNjxx7vxWi1GXXO2B-_TIomSy22jDXNoHV8l2oQyo4d9iTRNBEKZySRxge9NhLaQRjV4of-AZF1HJQkAb9CAAAAAElFTkSuQmCC.png",
+      "date": "May 25, 2026",
+      "snippet": "F3 or F4 waits are 14–17 years for most, but roughly 25 years for Mexico and 19–21 years for the Philippines. These numbers change monthly, so ...",
+      "about_this_result": {
+        "source": {
+          "description": "F3 or F4 waits are 14–17 years for most, but roughly 25 years for Mexico and 19–21 years for the Philippines. These numbers change monthly, so ...",
+          "source_info_link": "https://alonsoandalonsolaw.com/en/green-card-waiting-time-by-country/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAclBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAABHAQAAAADeAgPfAAKpAgIAAADgAQLfAADdAAHlum_eAQLfAAEAAADYDgfnv1fovFfmwVTiulTowFbnwFXqwVreAgXpv1bmvFXov1Lov1Pov1TowFTnv1TrvVVZBwmSA_CCAAAAJXRSTlMAqseTJv9CCOIqmhV06f_VBHT5V1ExIgxEWoh4s5UX1PvArp5rUlvb7QAAAVVJREFUeAGt0tGygiAUheFVhloaqakChLjF8_6veBSZSqfpqs9LfwW24pcOxwhfnBCxOEm-PM_S-Tp9C2YhOF8y7CGPUxbl640rv2GniPMjY-yQ-1dceIm9lK0OQFZyXpX7RaIQ3JHwRVVhKw5BEgK-D8C8I4DSB_XnY-aYVZxvj9G0m-DsV8iATmAl5XOXdwCZDwqgVQiBFjgxL02AB1-UEMLA6xurkB_XTd6Bmw8ekFa2WLQDjeEYKRZ-UICiQWBRuMZ2u4DXKEi4Hp6icUKyDxqiEavJKVe8BRe_R01aIRilbTK2wGtQg6AOgbOOkvApwjFrckQFgo6ENafwR139FLQV1OJJ2H6Y4jmI1jGUcmhJ4qUzVlgtUsbieYGqlkNjxx7vxWi1GXXO2B-_TIomSy22jDXNoHV8l2oQyo4d9iTRNBEKZySRxge9NhLaQRjV4of-AZF1HJQkAb9CAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://alonsoandalonsolaw.com/en/green-card-waiting-time-by-country/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Falonsoandalonsolaw.com%2Fen%2Fgreen-card-waiting-time-by-country%2F",
+      "source": "Alonso & Alonso",
+      "read_more_link": "https://alonsoandalonsolaw.com/en/green-card-waiting-time-by-country/#:~:text=F3%20or%20F4%20waits%20are,so%20review%20the%20Visa%20Bulletin."
+    },
+    {
+      "position": 7,
+      "title": "Green Card Priority Date Calculator - Estimate Your Wait Time",
+      "link": "https://www.h1btrends.com/green-card-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.h1btrends.com/green-card-calculator&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQFnoECCIQAQ",
+      "displayed_link": "https://www.h1btrends.com › green-card-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABo0lEQVR4Ac3XAWcCcRgG8Au2PkGxJoCyDgj6BgnM1AAEkAB9g4umJIDtU1T6HAWmL5A7LBLchUqePea10Wr_3urmHn6Q3t435727v6XMDdn0TA59CEc-s-U7V88Dteid1oQj1vKdltRcnHt6JZ-g5EvtPZ2VJ5oRLjST31KlQVvClWypoWmOcJiHeNT_c5Wt9DiYO3IJIfMoRb_yRtDI5_OoVqvQD8Fee8lQQNAYjUZYLBZIJpPaAVaUpe-8EDSKxSJ2ux0Y9Ho9Ta1gT8ktTTXF8Xgc4_EYkARBANu2tQNMpbeVo42muFarYT_D4RCxWEwzwEZ6WxVN80QiAdd1sR9eDpRKJc0AxN6Moynqdrs4lslkAl4ezQBNsuanFuRyOfi-j79Sr9c1A8xVA_T7fZjieR64lqoBmpq1M0S7lg5ZFcXaGaJey4p5DWXttBkMBieuoeFGlE6nsVwucU7K5bL5RmS6FRcKha_Va7fbKp1Ox_SgYs-fZGlF-CcBZQyP4zCx14GkyCOEzKVUJF_JIvFSGv5refQPJhE6mkXicBr68fwTVWYuwEfZOWcAAAAASUVORK5CYII.png",
+      "snippet": "Calculate your estimated green card wait time based on your priority date, country, and EB category. Uses 180+ months of Visa Bulletin data and official ...",
+      "snippet_highlighted_words": [
+        "Calculate your estimated green card wait time"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculate your estimated green card wait time based on your priority date, country, and EB category. Uses 180+ months of Visa Bulletin data and official ...",
+          "source_info_link": "https://www.h1btrends.com/green-card-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABo0lEQVR4Ac3XAWcCcRgG8Au2PkGxJoCyDgj6BgnM1AAEkAB9g4umJIDtU1T6HAWmL5A7LBLchUqePea10Wr_3urmHn6Q3t435727v6XMDdn0TA59CEc-s-U7V88Dteid1oQj1vKdltRcnHt6JZ-g5EvtPZ2VJ5oRLjST31KlQVvClWypoWmOcJiHeNT_c5Wt9DiYO3IJIfMoRb_yRtDI5_OoVqvQD8Fee8lQQNAYjUZYLBZIJpPaAVaUpe-8EDSKxSJ2ux0Y9Ho9Ta1gT8ktTTXF8Xgc4_EYkARBANu2tQNMpbeVo42muFarYT_D4RCxWEwzwEZ6WxVN80QiAdd1sR9eDpRKJc0AxN6Moynqdrs4lslkAl4ezQBNsuanFuRyOfi-j79Sr9c1A8xVA_T7fZjieR64lqoBmpq1M0S7lg5ZFcXaGaJey4p5DWXttBkMBieuoeFGlE6nsVwucU7K5bL5RmS6FRcKha_Va7fbKp1Ox_SgYs-fZGlF-CcBZQyP4zCx14GkyCOEzKVUJF_JIvFSGv5refQPJhE6mkXicBr68fwTVWYuwEfZOWcAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.h1btrends.com/green-card-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.h1btrends.com%2Fgreen-card-calculator",
+      "source": "h1btrends.com"
+    },
+    {
+      "position": 8,
+      "title": "Short-stay calculator - Migration and Home Affairs",
+      "link": "https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQFnoECDoQAQ",
+      "displayed_link": "https://home-affairs.ec.europa.eu › ... › Border crossing",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEVHcEy5vL-8vsC8vsC6vMC9v8C9v8G8vsC8vsC8vsC9v8C-wMG8vsC9v8G7vsBxham8vsC9v8EAPJUiUY0AQ5QARJSVoGNedn16inMARJRKZ4UOSpYTS5YUS5YERpcARJQARJRkrEzgAAAAIXRSTlMALEWeYzeG1BxrUXeQqVwHxLb___-t____o__b2tnYzoIa7OCMAAAAz0lEQVR4Ad3NhWEDMQwFUKPMMoZx_ykrldtkgvzjewLxqpEf9-emBEc_U2Ws4ID7B96aEOIXmq-_KWfQpeQY8ROTc_UDY9OlFw0GgzGyUkTqTX9odM51GJw5xlprI0IvJUVpK3dCSvRzbHe7PelBhEK_bFReqM5ho97jfhDGonNExuha19xJ_7mCESADWuTOnBPjjq5JN8KUUoghELrWeqGm3W7N_ZFRhRwwmEhjaaqGxbo_HscHIqSoaKfVACmdzpfLlXK7Xe80NhiOFK-TN0PWDoKQRj9UAAAAAElFTkSuQmCC.png",
+      "date": "Oct 27, 2025",
+      "snippet": "This short stay calculator helps you check if your short stay complies with the 90/180-day rule. If you are visiting any country in the ...",
+      "snippet_highlighted_words": [
+        "calculator",
+        "country"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This short stay calculator helps you check if your short stay complies with the 90/180-day rule. If you are visiting any country in the ...",
+          "source_info_link": "https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEVHcEy5vL-8vsC8vsC6vMC9v8C9v8G8vsC8vsC8vsC9v8C-wMG8vsC9v8G7vsBxham8vsC9v8EAPJUiUY0AQ5QARJSVoGNedn16inMARJRKZ4UOSpYTS5YUS5YERpcARJQARJRkrEzgAAAAIXRSTlMALEWeYzeG1BxrUXeQqVwHxLb___-t____o__b2tnYzoIa7OCMAAAAz0lEQVR4Ad3NhWEDMQwFUKPMMoZx_ykrldtkgvzjewLxqpEf9-emBEc_U2Ws4ID7B96aEOIXmq-_KWfQpeQY8ROTc_UDY9OlFw0GgzGyUkTqTX9odM51GJw5xlprI0IvJUVpK3dCSvRzbHe7PelBhEK_bFReqM5ho97jfhDGonNExuha19xJ_7mCESADWuTOnBPjjq5JN8KUUoghELrWeqGm3W7N_ZFRhRwwmEhjaaqGxbo_HscHIqSoaKfVACmdzpfLlXK7Xe80NhiOFK-TN0PWDoKQRj9UAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhome-affairs.ec.europa.eu%2Fpolicies%2Fschengen%2Fborder-crossing%2Fshort-stay-calculator_en",
+      "source": "Migration and Home Affairs",
+      "read_more_link": "https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en#:~:text=How%20to%20use%20the%20calculator%3F"
+    },
+    {
+      "position": 9,
+      "title": "Visa Appointment Wait Times",
+      "link": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQFnoECDgQAQ",
+      "displayed_link": "https://travel.state.gov › travel › visa-information-resources",
+      "snippet": "The estimated wait time to receive a nonimmigrant visa interview appointment at a US embassy or consulate and is based on workload and staffing and can vary ...",
+      "snippet_highlighted_words": [
+        "time",
+        "visa"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The estimated wait time to receive a nonimmigrant visa interview appointment at a US embassy or consulate and is based on workload and staffing and can vary ...",
+          "source_info_link": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftravel.state.gov%2Fcontent%2Ftravel%2Fen%2Fus-visas%2Fvisa-information-resources%2Fwait-times.html",
+      "source": "U.S. Department of State (.gov)",
+      "read_more_link": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html#:~:text=The%20estimated%20wait%20time%20to,vary%20from%20week%20to%20week."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "US visa waiting time India",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=US+visa+waiting+time+India&sa=X&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+visa+waiting+time+India"
+    },
+    {
+      "block_position": 1,
+      "query": "US visa appointment waiting time",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=US+visa+appointment+waiting+time&sa=X&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+visa+appointment+waiting+time"
+    },
+    {
+      "block_position": 1,
+      "query": "Immigrant visa wait times by country",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Immigrant+visa+wait+times+by+country&sa=X&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Immigrant+visa+wait+times+by+country"
+    },
+    {
+      "block_position": 1,
+      "query": "U.S. visa wait times by country",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=U.S.+visa+wait+times+by+country&sa=X&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=U.S.+visa+wait+times+by+country"
+    },
+    {
+      "block_position": 1,
+      "query": "Green card waiting time by country",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Green+card+waiting+time+by+country&sa=X&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Green+card+waiting+time+by+country"
+    },
+    {
+      "block_position": 1,
+      "query": "US visa appointment available dates",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=US+visa+appointment+available+dates&sa=X&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+visa+appointment+available+dates"
+    },
+    {
+      "block_position": 1,
+      "query": "U.S. visa appointment Pakistan wait time",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=U.S.+visa+appointment+Pakistan+wait+time&sa=X&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=U.S.+visa+appointment+Pakistan+wait+time"
+    },
+    {
+      "block_position": 1,
+      "query": "NVC processing times by country",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=NVC+processing+times+by+country&sa=X&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=NVC+processing+times+by+country"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=visa+processing+time+calculator+country&sca_esv=bbb7d61e8d3bb37e&ei=-hg6apXBMa3qmLQP2-OU2AM&start=10&sa=N&sstk=AU9db-CO-SzVvKum7eEOolQGOuGJDoZBDVVJ5a0f9fE7Y_QAkIGhUWkIaCFeBbXnK684QiHCHC2dzCsUz-hrmhv1UZn29dxVCs5Krg&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ8NMDegQILhAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=visa+processing+time+calculator+country&sca_esv=bbb7d61e8d3bb37e&ei=-hg6apXBMa3qmLQP2-OU2AM&start=10&sa=N&sstk=AU9db-CO-SzVvKum7eEOolQGOuGJDoZBDVVJ5a0f9fE7Y_QAkIGhUWkIaCFeBbXnK684QiHCHC2dzCsUz-hrmhv1UZn29dxVCs5Krg&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ8tMDegQILhAE",
+      "3": "https://www.google.com/search?q=visa+processing+time+calculator+country&sca_esv=bbb7d61e8d3bb37e&ei=-hg6apXBMa3qmLQP2-OU2AM&start=20&sa=N&sstk=AU9db-CO-SzVvKum7eEOolQGOuGJDoZBDVVJ5a0f9fE7Y_QAkIGhUWkIaCFeBbXnK684QiHCHC2dzCsUz-hrmhv1UZn29dxVCs5Krg&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ8tMDegQILhAG",
+      "4": "https://www.google.com/search?q=visa+processing+time+calculator+country&sca_esv=bbb7d61e8d3bb37e&ei=-hg6apXBMa3qmLQP2-OU2AM&start=30&sa=N&sstk=AU9db-CO-SzVvKum7eEOolQGOuGJDoZBDVVJ5a0f9fE7Y_QAkIGhUWkIaCFeBbXnK684QiHCHC2dzCsUz-hrmhv1UZn29dxVCs5Krg&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ8tMDegQILhAI",
+      "5": "https://www.google.com/search?q=visa+processing+time+calculator+country&sca_esv=bbb7d61e8d3bb37e&ei=-hg6apXBMa3qmLQP2-OU2AM&start=40&sa=N&sstk=AU9db-CO-SzVvKum7eEOolQGOuGJDoZBDVVJ5a0f9fE7Y_QAkIGhUWkIaCFeBbXnK684QiHCHC2dzCsUz-hrmhv1UZn29dxVCs5Krg&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ8tMDegQILhAK",
+      "6": "https://www.google.com/search?q=visa+processing+time+calculator+country&sca_esv=bbb7d61e8d3bb37e&ei=-hg6apXBMa3qmLQP2-OU2AM&start=50&sa=N&sstk=AU9db-CO-SzVvKum7eEOolQGOuGJDoZBDVVJ5a0f9fE7Y_QAkIGhUWkIaCFeBbXnK684QiHCHC2dzCsUz-hrmhv1UZn29dxVCs5Krg&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ8tMDegQILhAM",
+      "7": "https://www.google.com/search?q=visa+processing+time+calculator+country&sca_esv=bbb7d61e8d3bb37e&ei=-hg6apXBMa3qmLQP2-OU2AM&start=60&sa=N&sstk=AU9db-CO-SzVvKum7eEOolQGOuGJDoZBDVVJ5a0f9fE7Y_QAkIGhUWkIaCFeBbXnK684QiHCHC2dzCsUz-hrmhv1UZn29dxVCs5Krg&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ8tMDegQILhAO",
+      "8": "https://www.google.com/search?q=visa+processing+time+calculator+country&sca_esv=bbb7d61e8d3bb37e&ei=-hg6apXBMa3qmLQP2-OU2AM&start=70&sa=N&sstk=AU9db-CO-SzVvKum7eEOolQGOuGJDoZBDVVJ5a0f9fE7Y_QAkIGhUWkIaCFeBbXnK684QiHCHC2dzCsUz-hrmhv1UZn29dxVCs5Krg&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ8tMDegQILhAQ",
+      "9": "https://www.google.com/search?q=visa+processing+time+calculator+country&sca_esv=bbb7d61e8d3bb37e&ei=-hg6apXBMa3qmLQP2-OU2AM&start=80&sa=N&sstk=AU9db-CO-SzVvKum7eEOolQGOuGJDoZBDVVJ5a0f9fE7Y_QAkIGhUWkIaCFeBbXnK684QiHCHC2dzCsUz-hrmhv1UZn29dxVCs5Krg&ved=2ahUKEwiVpqT9z5yVAxUtNYYAHdsxBTsQ8tMDegQILhAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=visa+processing+time+calculator+country&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=visa+processing+time+calculator+country&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=visa+processing+time+calculator+country&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=visa+processing+time+calculator+country&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=visa+processing+time+calculator+country&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=visa+processing+time+calculator+country&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=visa+processing+time+calculator+country&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=visa+processing+time+calculator+country&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=visa+processing+time+calculator+country&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=visa+processing+time+calculator+country&start=80"
+    }
+  }
+}

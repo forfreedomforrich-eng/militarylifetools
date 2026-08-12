@@ -1,0 +1,469 @@
+{
+  "search_metadata": {
+    "id": "6a3a20b0e642509e55dab802",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/gySsAy1ZDq4Os0VDkjuYfQ/6a3a20b0e642509e55dab802.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/gySsAy1ZDq4Os0VDkjuYfQ/6a3a20b0e642509e55dab802.json_with_pixel_position",
+    "created_at": "2026-06-23 05:59:12 UTC",
+    "processed_at": "2026-06-23 05:59:12 UTC",
+    "google_url": "https://www.google.com/search?q=military+uniform+size+chart+converter&oq=military+uniform+size+chart+converter&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/gySsAy1ZDq4Os0VDkjuYfQ/6a3a20b0e642509e55dab802.html",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military uniform size chart converter",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military uniform size chart converter",
+    "total_results": 94,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How does military uniform sizing work?",
+      "type": "ai_overview",
+      "page_token": "nDaD3HicHdBRboJAFEDRdDN-VgaLrSamCcqgVjAMM2-AnwYGFOUh2E4L5a976aq6mpqu4J7c7x88Xarfu89S6_Z9Ph53XXd_bJojFveqqcfp-9dFjVWKmKWqmk8fp-T5oBbOx8ZeXjd2INoWVswIDWXtXdCRwd4y2UtGcFMILQt3JvaCTrI13cbiaLEBU242VlCDHZv-KR9wCGG29FbgccBLVrUuk6hDEw6-eOhz4luSlkTK3lU1_fKi3OAOxfjWzSThvpEMsCotBlXv0Zm9l_6QAMbJmcWh3EYZPPUJsF3hkhqwvXlzo4DG9KSuVe13NyvJEK-RuSUMS80vrbvjMHHKfAgMx4wjv0yd3uBrW3NKgxxtB84J8-zmFAg2qDPWQvhxVpVUEHgJ17CDAUu1ZknOUXARWwxtL-lGB_W5mIz-fy5eD7Wet2_N8Q8sxIO_",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nDaD3HicHdBRboJAFEDRdDN-VgaLrSamCcqgVjAMM2-AnwYGFOUh2E4L5a976aq6mpqu4J7c7x88Xarfu89S6_Z9Ph53XXd_bJojFveqqcfp-9dFjVWKmKWqmk8fp-T5oBbOx8ZeXjd2INoWVswIDWXtXdCRwd4y2UtGcFMILQt3JvaCTrI13cbiaLEBU242VlCDHZv-KR9wCGG29FbgccBLVrUuk6hDEw6-eOhz4luSlkTK3lU1_fKi3OAOxfjWzSThvpEMsCotBlXv0Zm9l_6QAMbJmcWh3EYZPPUJsF3hkhqwvXlzo4DG9KSuVe13NyvJEK-RuSUMS80vrbvjMHHKfAgMx4wjv0yd3uBrW3NKgxxtB84J8-zmFAg2qDPWQvhxVpVUEHgJ17CDAUu1ZknOUXARWwxtL-lGB_W5mIz-fy5eD7Wet2_N8Q8sxIO_",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEySkJVMVl6VDFOaVRTMW1XalE1Umw5MmVXNHpXVVYxYldKdGVsQTBSaTF5TVVoeVMyVnJUV2M0TjA5blpsZHBaa0pSVVdvMmF6bEtNWHB0YTNBelRFUlhOa0pDV1VaRVdWUnFTbXRoZUZBMGVGcENMVVpCZW5CT1FSSVhjME5CTm1GellXaE1kRXh3YlV4UlVIWlFSRlkyVVRBYUlrRkVjM0k1WmxGbFoxaDJUbGcxWW5kS05WQldiVFZGZWprNUxXbzRNWFk0UkdjIiwiZmN2IjoiMyIsImVpIjoic0NBNmFzYWhMdExwbUxRUHZQRFY2UTAiLCJxYyI6IkNpVnRhV3hwZEdGeWVTQjFibWxtYjNKdElITnBlbVVnWTJoaGNuUWdZMjl1ZG1WeWRHVnlFQUI5eDZRVFB3IiwicXVlc3Rpb24iOiJIb3cgZG9lcyBtaWxpdGFyeSB1bmlmb3JtIHNpemluZyB3b3JrPyIsImxrIjoiR2lWb2IzY2daRzlsY3lCdGFXeHBkR0Z5ZVNCMWJtbG1iM0p0SUhOcGVtbHVaeUIzYjNKciIsImJzIjoiYy1NSzVGTHp5QzlYU01sUExWYkl6Y3pKTEVrc3FsUW96Y3RNeXlfS1ZTak9yTXJNUzFjb3p5X0t0amRTbDFMTklFWWxseW1YUkhoR1lnbElMRlVoczFnaFVjSEVLRWlodURTenhONUlVa3E4SEYydUNDekhwYzRsNkZtc0VPRURGbFBJTDFJd01iRTNFcElTQUtxcXlFRVM1RExoRWtNeDM4SlV3Y0pBd2RMTVhtSnJqcEc0bEdnNU5ra0JSZ0EiLCJpZCI6ImZjX3NDQTZhc2FoTHRMcG1MUVB2UERWNlEwXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEySkJVMVl6VDFOaVRTMW1XalE1Umw5MmVXNHpXVVYxYldKdGVsQTBSaTF5TVVoeVMyVnJUV2M0TjA5blpsZHBaa0pSVVdvMmF6bEtNWHB0YTNBelRFUlhOa0pDV1VaRVdWUnFTbXRoZUZBMGVGcENMVVpCZW5CT1FSSVhjME5CTm1GellXaE1kRXh3YlV4UlVIWlFSRlkyVVRBYUlrRkVjM0k1WmxGbFoxaDJUbGcxWW5kS05WQldiVFZGZWprNUxXbzRNWFk0UkdjIiwiZmN2IjoiMyIsImVpIjoic0NBNmFzYWhMdExwbUxRUHZQRFY2UTAiLCJxYyI6IkNpVnRhV3hwZEdGeWVTQjFibWxtYjNKdElITnBlbVVnWTJoaGNuUWdZMjl1ZG1WeWRHVnlFQUI5eDZRVFB3IiwicXVlc3Rpb24iOiJIb3cgZG9lcyBtaWxpdGFyeSB1bmlmb3JtIHNpemluZyB3b3JrPyIsImxrIjoiR2lWb2IzY2daRzlsY3lCdGFXeHBkR0Z5ZVNCMWJtbG1iM0p0SUhOcGVtbHVaeUIzYjNKciIsImJzIjoiYy1NSzVGTHp5QzlYU01sUExWYkl6Y3pKTEVrc3FsUW96Y3RNeXlfS1ZTak9yTXJNUzFjb3p5X0t0amRTbDFMTklFWWxseW1YUkhoR1lnbElMRlVoczFnaFVjSEVLRWlodURTenhONUlVa3E4SEYydUNDekhwYzRsNkZtc0VPRURGbFBJTDFJd01iRTNFcElTQUtxcXlFRVM1RExoRWtNeDM4SlV3Y0pBd2RMTVhtSnJqcEc0bEdnNU5ra0JSZ0EiLCJpZCI6ImZjX3NDQTZhc2FoTHRMcG1MUVB2UERWNlEwXzEifQ%3D%3D"
+    },
+    {
+      "question": "What size is a 42R suit?",
+      "type": "ai_overview",
+      "page_token": "JRhoznicHdBLToNAAADQeJkuCwNSbZPGiHxaIrTAfGA2Zjr86gwfpXaEnXfxVJ5G4-rt39e3PHfi5yZrLpdh3GiaUmpZ930tyyXvW42NU8c1zqQ8MS42q7sVeKj41h2V_dQrO0bDgJ1Ehz5uiesdw0wAhtaszOQUo_VtTKz0GQY5Q_cThZTRrBmxH-jY9AbmFWYoGz-VzWsBghnCRqRdbbGW7qlrMQhkVUgBUtF8lDhIoIN0IqLPXAQYz48AzbFCYt2esqQKu35GO3llbnMkaDD-7LhX2BR4OXIigYzLW5wF8UniqpRyjpCeembkxJA23PB6uEtC7oMQYdtAbkIi6Sr_HNjJLpoOhKK83atSFC5srTMnYIYtCFNXnw5-MRMZ-RQl3aLi1625-B_bvlTtZTO89_Uv-uF5xA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JRhoznicHdBLToNAAADQeJkuCwNSbZPGiHxaIrTAfGA2Zjr86gwfpXaEnXfxVJ5G4-rt39e3PHfi5yZrLpdh3GiaUmpZ930tyyXvW42NU8c1zqQ8MS42q7sVeKj41h2V_dQrO0bDgJ1Ehz5uiesdw0wAhtaszOQUo_VtTKz0GQY5Q_cThZTRrBmxH-jY9AbmFWYoGz-VzWsBghnCRqRdbbGW7qlrMQhkVUgBUtF8lDhIoIN0IqLPXAQYz48AzbFCYt2esqQKu35GO3llbnMkaDD-7LhX2BR4OXIigYzLW5wF8UniqpRyjpCeembkxJA23PB6uEtC7oMQYdtAbkIi6Sr_HNjJLpoOhKK83atSFC5srTMnYIYtCFNXnw5-MRMZ-RQl3aLi1625-B_bvlTtZTO89_Uv-uF5xA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEySkJVMVl6VDFOaVRTMW1XalE1Umw5MmVXNHpXVVYxYldKdGVsQTBSaTF5TVVoeVMyVnJUV2M0TjA5blpsZHBaa0pSVVdvMmF6bEtNWHB0YTNBelRFUlhOa0pDV1VaRVdWUnFTbXRoZUZBMGVGcENMVVpCZW5CT1FSSVhjME5CTm1GellXaE1kRXh3YlV4UlVIWlFSRlkyVVRBYUlrRkVjM0k1WmxGbFoxaDJUbGcxWW5kS05WQldiVFZGZWprNUxXbzRNWFk0UkdjIiwiZmN2IjoiMyIsImVpIjoic0NBNmFzYWhMdExwbUxRUHZQRFY2UTAiLCJxYyI6IkNpVnRhV3hwZEdGeWVTQjFibWxtYjNKdElITnBlbVVnWTJoaGNuUWdZMjl1ZG1WeWRHVnlFQUI5eDZRVFB3IiwicXVlc3Rpb24iOiJXaGF0IHNpemUgaXMgYSA0MlIgc3VpdD8iLCJsayI6IkdoZDNhR0YwSUhOcGVtVWdhWE1nWVNBME1uSWdjM1ZwZEEiLCJicyI6ImMtTUs1Rkx6eUM5WFNNbFBMVmJJemN6SkxFa3NxbFFvemN0TXl5X0tWU2pPck1yTVMxY296eV9LdGpkU2wxTE5JRVlsbHltWFJIaEdZZ2xJTEZVaHMxZ2hVY0hFS0VpaHVEU3p4TjVJVWtxOEhGMnVDQ3pIcGM0bDZGbXNFT0VERmxQSUwxSXdNYkUzRXBJU0FLcXF5RUVTNURMaEVrTXgzOEpVd2NKQXdkTE1YbUpyanBHNGxHZzVOa2tCUmdBIiwiaWQiOiJmY19zQ0E2YXNhaEx0THBtTFFQdlBEVjZRMF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEySkJVMVl6VDFOaVRTMW1XalE1Umw5MmVXNHpXVVYxYldKdGVsQTBSaTF5TVVoeVMyVnJUV2M0TjA5blpsZHBaa0pSVVdvMmF6bEtNWHB0YTNBelRFUlhOa0pDV1VaRVdWUnFTbXRoZUZBMGVGcENMVVpCZW5CT1FSSVhjME5CTm1GellXaE1kRXh3YlV4UlVIWlFSRlkyVVRBYUlrRkVjM0k1WmxGbFoxaDJUbGcxWW5kS05WQldiVFZGZWprNUxXbzRNWFk0UkdjIiwiZmN2IjoiMyIsImVpIjoic0NBNmFzYWhMdExwbUxRUHZQRFY2UTAiLCJxYyI6IkNpVnRhV3hwZEdGeWVTQjFibWxtYjNKdElITnBlbVVnWTJoaGNuUWdZMjl1ZG1WeWRHVnlFQUI5eDZRVFB3IiwicXVlc3Rpb24iOiJXaGF0IHNpemUgaXMgYSA0MlIgc3VpdD8iLCJsayI6IkdoZDNhR0YwSUhOcGVtVWdhWE1nWVNBME1uSWdjM1ZwZEEiLCJicyI6ImMtTUs1Rkx6eUM5WFNNbFBMVmJJemN6SkxFa3NxbFFvemN0TXl5X0tWU2pPck1yTVMxY296eV9LdGpkU2wxTE5JRVlsbHltWFJIaEdZZ2xJTEZVaHMxZ2hVY0hFS0VpaHVEU3p4TjVJVWtxOEhGMnVDQ3pIcGM0bDZGbXNFT0VERmxQSUwxSXdNYkUzRXBJU0FLcXF5RUVTNURMaEVrTXgzOEpVd2NKQXdkTE1YbUpyanBHNGxHZzVOa2tCUmdBIiwiaWQiOiJmY19zQ0E2YXNhaEx0THBtTFFQdlBEVjZRMF8xIn0%3D"
+    },
+    {
+      "question": "Is XL a 42 or 44?",
+      "type": "ai_overview",
+      "page_token": "r7X1b3icHdDbToMwGADg-DK7dMAOuiWLGa4FMfwLpbQbN4Z1Y2NtoTrkdOe7-FQ-jcYn-JLv61sVpfy5213q2tyW43Hbtvfnqjqr072o9Di79aUYi0ypQybkcv4wt59ysUK31n2uWjdKjGEbYsUDu4KsvXhitnvr-LrniyHapTNwXvqDfJxuvS7gHFqhTJMl3SfFCwCbsMiqZ5SCwzHR7EosjjrJEvudI3UVSeBRrBpSsiFMmM6sFO0lcU-aFWJHgDN3CshQ5gTXGM0w9UGHhV3ABuepDlioqz7mpBEycAExO-OBDndrKxrAHPQ0xhPYRDS9CAdX1Ceh8Ow_xnUSRDgo1HpF4BIf-i1PaTSBPpJYU79qebnuQmzSWIEVsyNKub1NLFOOctGsJqP_sdVbruul-ajOv1MceDU",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=r7X1b3icHdDbToMwGADg-DK7dMAOuiWLGa4FMfwLpbQbN4Z1Y2NtoTrkdOe7-FQ-jcYn-JLv61sVpfy5213q2tyW43Hbtvfnqjqr072o9Di79aUYi0ypQybkcv4wt59ysUK31n2uWjdKjGEbYsUDu4KsvXhitnvr-LrniyHapTNwXvqDfJxuvS7gHFqhTJMl3SfFCwCbsMiqZ5SCwzHR7EosjjrJEvudI3UVSeBRrBpSsiFMmM6sFO0lcU-aFWJHgDN3CshQ5gTXGM0w9UGHhV3ABuepDlioqz7mpBEycAExO-OBDndrKxrAHPQ0xhPYRDS9CAdX1Ceh8Ow_xnUSRDgo1HpF4BIf-i1PaTSBPpJYU79qebnuQmzSWIEVsyNKub1NLFOOctGsJqP_sdVbruul-ajOv1MceDU",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEySkJVMVl6VDFOaVRTMW1XalE1Umw5MmVXNHpXVVYxYldKdGVsQTBSaTF5TVVoeVMyVnJUV2M0TjA5blpsZHBaa0pSVVdvMmF6bEtNWHB0YTNBelRFUlhOa0pDV1VaRVdWUnFTbXRoZUZBMGVGcENMVVpCZW5CT1FSSVhjME5CTm1GellXaE1kRXh3YlV4UlVIWlFSRlkyVVRBYUlrRkVjM0k1WmxGbFoxaDJUbGcxWW5kS05WQldiVFZGZWprNUxXbzRNWFk0UkdjIiwiZmN2IjoiMyIsImVpIjoic0NBNmFzYWhMdExwbUxRUHZQRFY2UTAiLCJxYyI6IkNpVnRhV3hwZEdGeWVTQjFibWxtYjNKdElITnBlbVVnWTJoaGNuUWdZMjl1ZG1WeWRHVnlFQUI5eDZRVFB3IiwicXVlc3Rpb24iOiJJcyBYTCBhIDQyIG9yIDQ0PyIsImxrIjoiR2hCcGN5QjRiQ0JoSURReUlHOXlJRFEwIiwiYnMiOiJjLU1LNUZMenlDOVhTTWxQTFZiSXpjekpMRWtzcWxRb3pjdE15eV9LVlNqT3JNck1TMWNvenlfS3RqZFNsMUxOSUVZbGx5bVhSSGhHWWdsSUxGVWhzMWdoVWNIRUtFaWh1RFN6eE41SVVrcThIRjJ1Q0N6SHBjNGw2Rm1zRU9FREZsUElMMUl3TWJFM0VwSVNBS3FxeUVFUzVETGhFa014MzhKVXdjSkF3ZExNWG1KcmpwRzRsR2c1TmtrQlJnQSIsImlkIjoiZmNfc0NBNmFzYWhMdExwbUxRUHZQRFY2UTBfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEySkJVMVl6VDFOaVRTMW1XalE1Umw5MmVXNHpXVVYxYldKdGVsQTBSaTF5TVVoeVMyVnJUV2M0TjA5blpsZHBaa0pSVVdvMmF6bEtNWHB0YTNBelRFUlhOa0pDV1VaRVdWUnFTbXRoZUZBMGVGcENMVVpCZW5CT1FSSVhjME5CTm1GellXaE1kRXh3YlV4UlVIWlFSRlkyVVRBYUlrRkVjM0k1WmxGbFoxaDJUbGcxWW5kS05WQldiVFZGZWprNUxXbzRNWFk0UkdjIiwiZmN2IjoiMyIsImVpIjoic0NBNmFzYWhMdExwbUxRUHZQRFY2UTAiLCJxYyI6IkNpVnRhV3hwZEdGeWVTQjFibWxtYjNKdElITnBlbVVnWTJoaGNuUWdZMjl1ZG1WeWRHVnlFQUI5eDZRVFB3IiwicXVlc3Rpb24iOiJJcyBYTCBhIDQyIG9yIDQ0PyIsImxrIjoiR2hCcGN5QjRiQ0JoSURReUlHOXlJRFEwIiwiYnMiOiJjLU1LNUZMenlDOVhTTWxQTFZiSXpjekpMRWtzcWxRb3pjdE15eV9LVlNqT3JNck1TMWNvenlfS3RqZFNsMUxOSUVZbGx5bVhSSGhHWWdsSUxGVWhzMWdoVWNIRUtFaWh1RFN6eE41SVVrcThIRjJ1Q0N6SHBjNGw2Rm1zRU9FREZsUElMMUl3TWJFM0VwSVNBS3FxeUVFUzVETGhFa014MzhKVXdjSkF3ZExNWG1KcmpwRzRsR2c1TmtrQlJnQSIsImlkIjoiZmNfc0NBNmFzYWhMdExwbUxRUHZQRFY2UTBfMSJ9"
+    },
+    {
+      "question": "What size is 85 80 96?",
+      "type": "featured_snippet",
+      "snippet": "Sizes:",
+      "table": [
+        [
+          "NATO Size",
+          "Inside Leg",
+          "Waist"
+        ],
+        [
+          "85/80/96",
+          "34\"",
+          "32\""
+        ],
+        [
+          "90/80/96",
+          "36\"",
+          "32\""
+        ],
+        [
+          "90/82/98",
+          "36\"",
+          "32.8\""
+        ],
+        [
+          "70/84/100",
+          "28\"",
+          "33.6\""
+        ]
+      ],
+      "formatted": [
+        {
+          "nato_size": "85/80/96",
+          "inside_leg": "34\"",
+          "waist": "32\""
+        },
+        {
+          "nato_size": "90/80/96",
+          "inside_leg": "36\"",
+          "waist": "32\""
+        },
+        {
+          "nato_size": "90/82/98",
+          "inside_leg": "36\"",
+          "waist": "32.8\""
+        },
+        {
+          "nato_size": "70/84/100",
+          "inside_leg": "28\"",
+          "waist": "33.6\""
+        }
+      ],
+      "title": "British Army PCS MTP Warm Weather Combat Trousers G1 - Military Kit",
+      "link": "https://www.militarykit.com/products/british-army-mtp-warm-weather-combat-trousers-used",
+      "displayed_link": "https://www.militarykit.com › products › british-army-mt...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAgUlEQVR4Aa3PEQzDQByF8c9lDqNxvbakDifD2uxgydGwyfFBpcl5HUrVYR3HR-f89t9mw6Vf8uRnD_30D8xUWa6dKBqJ5ONF0opL1IwX0_20SYeekUSQyG1EA8GgczKI2FiiQc_jC7lrNBjUM88PqNl0JVEElcXr3RxWX1VuaY8vL5Nmw9uvtIUYAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEySkJVMVl6VDFOaVRTMW1XalE1Umw5MmVXNHpXVVYxYldKdGVsQTBSaTF5TVVoeVMyVnJUV2M0TjA5blpsZHBaa0pSVVdvMmF6bEtNWHB0YTNBelRFUlhOa0pDV1VaRVdWUnFTbXRoZUZBMGVGcENMVVpCZW5CT1FSSVhjME5CTm1GellXaE1kRXh3YlV4UlVIWlFSRlkyVVRBYUlrRkVjM0k1WmxGbFoxaDJUbGcxWW5kS05WQldiVFZGZWprNUxXbzRNWFk0UkdjIiwiZmN2IjoiMyIsImVpIjoic0NBNmFzYWhMdExwbUxRUHZQRFY2UTAiLCJxYyI6IkNpVnRhV3hwZEdGeWVTQjFibWxtYjNKdElITnBlbVVnWTJoaGNuUWdZMjl1ZG1WeWRHVnlFQUI5eDZRVFB3IiwicXVlc3Rpb24iOiJXaGF0IHNpemUgaXMgODUgODAgOTY/IiwibGsiOiJHaFYzYUdGMElITnBlbVVnYVhNZ09EVWdPREFnT1RZIiwiYnMiOiJjLU1LNUZMenlDOVhTTWxQTFZiSXpjekpMRWtzcWxRb3pjdE15eV9LVlNqT3JNck1TMWNvenlfS3RqZFNsMUxOSUVZbGx5bVhSSGhHWWdsSUxGVWhzMWdoVWNIRUtFaWh1RFN6eE41SVVrcThIRjJ1Q0N6SHBjNGw2Rm1zRU9FREZsUElMMUl3TWJFM0VwSVNBS3FxeUVFUzVETGhFa014MzhKVXdjSkF3ZExNWG1KcmpwRzRsR2c1TmtrQlJnQSIsImlkIjoiZmNfc0NBNmFzYWhMdExwbUxRUHZQRFY2UTBfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEySkJVMVl6VDFOaVRTMW1XalE1Umw5MmVXNHpXVVYxYldKdGVsQTBSaTF5TVVoeVMyVnJUV2M0TjA5blpsZHBaa0pSVVdvMmF6bEtNWHB0YTNBelRFUlhOa0pDV1VaRVdWUnFTbXRoZUZBMGVGcENMVVpCZW5CT1FSSVhjME5CTm1GellXaE1kRXh3YlV4UlVIWlFSRlkyVVRBYUlrRkVjM0k1WmxGbFoxaDJUbGcxWW5kS05WQldiVFZGZWprNUxXbzRNWFk0UkdjIiwiZmN2IjoiMyIsImVpIjoic0NBNmFzYWhMdExwbUxRUHZQRFY2UTAiLCJxYyI6IkNpVnRhV3hwZEdGeWVTQjFibWxtYjNKdElITnBlbVVnWTJoaGNuUWdZMjl1ZG1WeWRHVnlFQUI5eDZRVFB3IiwicXVlc3Rpb24iOiJXaGF0IHNpemUgaXMgODUgODAgOTY%2FIiwibGsiOiJHaFYzYUdGMElITnBlbVVnYVhNZ09EVWdPREFnT1RZIiwiYnMiOiJjLU1LNUZMenlDOVhTTWxQTFZiSXpjekpMRWtzcWxRb3pjdE15eV9LVlNqT3JNck1TMWNvenlfS3RqZFNsMUxOSUVZbGx5bVhSSGhHWWdsSUxGVWhzMWdoVWNIRUtFaWh1RFN6eE41SVVrcThIRjJ1Q0N6SHBjNGw2Rm1zRU9FREZsUElMMUl3TWJFM0VwSVNBS3FxeUVFUzVETGhFa014MzhKVXdjSkF3ZExNWG1KcmpwRzRsR2c1TmtrQlJnQSIsImlkIjoiZmNfc0NBNmFzYWhMdExwbUxRUHZQRFY2UTBfMSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "Nj5MH3icxZZbc6pIEIDf938cXxIExKCmijo1ICheg7fEvFiIOKDAGAZFfdv_sr9q_8e-n-GmGDWpPVVbO5Zz7enpnunP9s-_HNtb__3HP1YQbPAzTYdhWIQIQccsGsildXzwDHqJHOwb1k-Mtr5h2gvBsHzkmoXDTuAKBhaYgmkLWAK8jnWrE3Q2bkd72b3UJ7zGFGIVwmyuY3NFTtivMD2jSbX-wdXJoIiLplecvxj2shk0wzEslhi2VuzTuksEwH9YZDCIW418VNKqVxLR8fAbLZoabRzmZqRcnZVuokhV40a6q1RKrZCmkUidevfLIqhr8VzzCyuGl8PXqJJBCIAYmShrt_bcMiKbQ2kr3j1Rvp6KhcX0rHpe_T1_xfwDa5HOURVI54fIXBZB5gERgaQvJhqfgFh-CaWG9MUzkZUNbMoWpd00OleUtrwJ035n2iAW0QtIgpCh5z5pWNo2LCPu-DiKTWlUY5Digfcev7XaI64rzWbcuO2pyHK80qaq0cacyDlIX5iLmTVjfsZjtsQ-MTWuUn2MoTDwiQqcp-Kd7zqAay05BRQ7RZHNIRFfhnrhcxRu4h332ukdfhIHiZa4Tu8mu-VxJiaijI50YrWOomp6mqhGT2F9PjHSdY1EVmC-Q5CIzVbHp5158airijlTk1L__N7ncerDFLS1k8tyzuLkIuT8eB0pVxvZRHhairRCB8SIEyTkVGH_Yj_MG0YuS5SAnC2fLIhk6uuTmBxbGC1PNW0KVIUgSp4PZs6nT0mQUC_vDqwuRgqMvhK8Cfh3RTw_-L0igyz2P4XyBQIVNCkpAVVXx1qzj0v747HZOyqHvuXD2yGP3Pm_yATG_wvFOM0T45SE9k0o4DdQaKr8ZZ5I7D7niShWJHQPCimF4jJPJIF7zhPXUAwvobifJ3JQJFq-hkK8C0Xys3INRZQnrqCAd6BI8kQeiss84Z00Rx7koPitPKH9Rp6IGTGT5jJpbFfwbvJohHPVeWsGCr8NRg6HfUqhjhOZwp0P8G3yWLrBs6svnMeZvXgWS63gsHickQn0bC4KH4JrO3ag-4eHrWcvke8-YPtoPhiW7gcPBvJ2ph-YfsF1fCQwemW-GkkUZw75ido7DFoawrXx067VoDx7121Vm7YyRauwI3GDoVLG4lvP-TDEUAEsqrAzYnOryjMbe9_4qJSnvmj1DRHjMe_Je4fadx1pN6cmr-6x5Cv7Y2fi8XybBNhiU15uB5UBF75N229L9UCVxgtmWwt0LbYLC92aE_BNllpCuUA8w6bAFlzfEAgLZQh6GniFwCAQAI38pdIkRL4hCYECNvSZiXeC8cQyc71s8k8lfsnVyGYYHDZCmS1gzxfYX6V6Hrw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Nj5MH3icxZZbc6pIEIDf938cXxIExKCmijo1ICheg7fEvFiIOKDAGAZFfdv_sr9q_8e-n-GmGDWpPVVbO5Zz7enpnunP9s-_HNtb__3HP1YQbPAzTYdhWIQIQccsGsildXzwDHqJHOwb1k-Mtr5h2gvBsHzkmoXDTuAKBhaYgmkLWAK8jnWrE3Q2bkd72b3UJ7zGFGIVwmyuY3NFTtivMD2jSbX-wdXJoIiLplecvxj2shk0wzEslhi2VuzTuksEwH9YZDCIW418VNKqVxLR8fAbLZoabRzmZqRcnZVuokhV40a6q1RKrZCmkUidevfLIqhr8VzzCyuGl8PXqJJBCIAYmShrt_bcMiKbQ2kr3j1Rvp6KhcX0rHpe_T1_xfwDa5HOURVI54fIXBZB5gERgaQvJhqfgFh-CaWG9MUzkZUNbMoWpd00OleUtrwJ035n2iAW0QtIgpCh5z5pWNo2LCPu-DiKTWlUY5Digfcev7XaI64rzWbcuO2pyHK80qaq0cacyDlIX5iLmTVjfsZjtsQ-MTWuUn2MoTDwiQqcp-Kd7zqAay05BRQ7RZHNIRFfhnrhcxRu4h332ukdfhIHiZa4Tu8mu-VxJiaijI50YrWOomp6mqhGT2F9PjHSdY1EVmC-Q5CIzVbHp5158airijlTk1L__N7ncerDFLS1k8tyzuLkIuT8eB0pVxvZRHhairRCB8SIEyTkVGH_Yj_MG0YuS5SAnC2fLIhk6uuTmBxbGC1PNW0KVIUgSp4PZs6nT0mQUC_vDqwuRgqMvhK8Cfh3RTw_-L0igyz2P4XyBQIVNCkpAVVXx1qzj0v747HZOyqHvuXD2yGP3Pm_yATG_wvFOM0T45SE9k0o4DdQaKr8ZZ5I7D7niShWJHQPCimF4jJPJIF7zhPXUAwvobifJ3JQJFq-hkK8C0Xys3INRZQnrqCAd6BI8kQeiss84Z00Rx7koPitPKH9Rp6IGTGT5jJpbFfwbvJohHPVeWsGCr8NRg6HfUqhjhOZwp0P8G3yWLrBs6svnMeZvXgWS63gsHickQn0bC4KH4JrO3ag-4eHrWcvke8-YPtoPhiW7gcPBvJ2ph-YfsF1fCQwemW-GkkUZw75ido7DFoawrXx067VoDx7121Vm7YyRauwI3GDoVLG4lvP-TDEUAEsqrAzYnOryjMbe9_4qJSnvmj1DRHjMe_Je4fadx1pN6cmr-6x5Cv7Y2fi8XybBNhiU15uB5UBF75N229L9UCVxgtmWwt0LbYLC92aE_BNllpCuUA8w6bAFlzfEAgLZQh6GniFwCAQAI38pdIkRL4hCYECNvSZiXeC8cQyc71s8k8lfsnVyGYYHDZCmS1gzxfYX6V6Hrw"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "US Military Sizing Charts",
+      "link": "https://www.camolots.com/pages/us-military-sizing-charts?srsltid=AfmBOor2NJS81d5pbK2J4I0OwT13XN-JpxyeFwk6PJF0_AiIEFFppFmi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.camolots.com/pages/us-military-sizing-charts%3Fsrsltid%3DAfmBOor2NJS81d5pbK2J4I0OwT13XN-JpxyeFwk6PJF0_AiIEFFppFmi&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0QFnoECBkQAQ",
+      "displayed_link": "https://www.camolots.com › pages › us-military-sizing-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAMAAABY1h8eAAAANlBMVEVHcEwLCwsHBwcYGBgmJiYJCQkTExMEBAQAAAAFBQUODg4ICAgGBgYDAwMJCQkHBwcEBAQTExNyPxn-AAAAEnRSTlMAQXgSB0spvv_ONGmr3FiP5x4GO6qWAAAA6ElEQVR4AY2RAQrDIAwAo1o9W636_8-OJjhkFNgB2BA8Dyr_4nyI_ogvm5ShnFeFcsgPlXZH6UXEZUqQjQDuOQePNA3OfddMDbd5tu2wnXTI65Vl7kRRGiDGKEt6iTJheSVhzTHN9DA7QA7JmHbT80IN-hZzDn5xosGTpJ0b2qyPJh67Y0MDue2mZpW1apZiuVi9_6boaEJpNjUWOl52eD0mX-7tiuCX9T6X11mJRE9Qq5Zk844sYozxWLsoFxxSiWsZ6B63pjnysf_tlKps9OlkJzKuoB9HsZadWYExgOzkhfPq3Tv5kw-fpguVZU5VFgAAAABJRU5ErkJggg.png",
+      "snippet": "Here you will find US Military Sizing Charts for; Shirts/Pants Flighsuits Womens pants Kids Shirts/Pants Hat Sizes Sock and Shoe Sizes US Military Sizing ...",
+      "snippet_highlighted_words": [
+        "US Military Sizing Charts"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Here you will find US Military Sizing Charts for; Shirts/Pants Flighsuits Womens pants Kids Shirts/Pants Hat Sizes Sock and Shoe Sizes US Military Sizing ...",
+          "source_info_link": "https://www.camolots.com/pages/us-military-sizing-charts?srsltid=AfmBOor2NJS81d5pbK2J4I0OwT13XN-JpxyeFwk6PJF0_AiIEFFppFmi",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAMAAABY1h8eAAAANlBMVEVHcEwLCwsHBwcYGBgmJiYJCQkTExMEBAQAAAAFBQUODg4ICAgGBgYDAwMJCQkHBwcEBAQTExNyPxn-AAAAEnRSTlMAQXgSB0spvv_ONGmr3FiP5x4GO6qWAAAA6ElEQVR4AY2RAQrDIAwAo1o9W636_8-OJjhkFNgB2BA8Dyr_4nyI_ogvm5ShnFeFcsgPlXZH6UXEZUqQjQDuOQePNA3OfddMDbd5tu2wnXTI65Vl7kRRGiDGKEt6iTJheSVhzTHN9DA7QA7JmHbT80IN-hZzDn5xosGTpJ0b2qyPJh67Y0MDue2mZpW1apZiuVi9_6boaEJpNjUWOl52eD0mX-7tiuCX9T6X11mJRE9Qq5Zk844sYozxWLsoFxxSiWsZ6B63pjnysf_tlKps9OlkJzKuoB9HsZadWYExgOzkhfPq3Tv5kw-fpguVZU5VFgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.camolots.com/pages/us-military-sizing-charts?srsltid=AfmBOor2NJS81d5pbK2J4I0OwT13XN-JpxyeFwk6PJF0_AiIEFFppFmi&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.camolots.com%2Fpages%2Fus-military-sizing-charts%3Fsrsltid%3DAfmBOor2NJS81d5pbK2J4I0OwT13XN-JpxyeFwk6PJF0_AiIEFFppFmi",
+      "source": "camoLOTS.com"
+    },
+    {
+      "position": 2,
+      "title": "Sizing Guide",
+      "link": "https://www.armyandoutdoors.com/pages/sizing-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.armyandoutdoors.com/pages/sizing-guide&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0QFnoECB4QAQ",
+      "displayed_link": "https://www.armyandoutdoors.com › pages › sizing-guide",
+      "favicon": "https://serpapi.com/searches/6a3a20b0e642509e55dab802/images/Mc6ptFT4v1DmdxDU7RLQJ6nEPC9Hnar4AyPIvSyvhYE.png",
+      "snippet": "Sizing Guide. Military sizes are more accurate than civilian sizes in general. If you measure yourself carefully, you'll get fitting clothing.",
+      "snippet_highlighted_words": [
+        "Military sizes are more accurate than civilian sizes in general"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "$15.50 delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Sizing Guide. Military sizes are more accurate than civilian sizes in general. If you measure yourself carefully, you'll get fitting clothing.",
+          "source_info_link": "https://www.armyandoutdoors.com/pages/sizing-guide",
+          "icon": "https://serpapi.com/searches/6a3a20b0e642509e55dab802/images/Mc6ptFT4v1DmdxDU7RLQJ4x6DslCZtnO-mgQf5kAzvM12hfYKnvRFLM0bKEe59tL.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.armyandoutdoors.com/pages/sizing-guide&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.armyandoutdoors.com%2Fpages%2Fsizing-guide",
+      "source": "Army & Outdoors",
+      "read_more_link": "https://www.armyandoutdoors.com/pages/sizing-guide#:~:text=Sizing%20Guide,carefully%2C%20you'll%20get%20fitting%20clothing."
+    },
+    {
+      "position": 3,
+      "title": "Cross-Reference Civilian Sizes vs. Military",
+      "link": "https://www.tad.usace.army.mil/Portals/53/docs/UDC/Admin/Clothing%20Cross%20Ref.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tad.usace.army.mil/Portals/53/docs/UDC/Admin/Clothing%2520Cross%2520Ref.pdf&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0QFnoECBoQAQ",
+      "displayed_link": "https://www.tad.usace.army.mil › UDC › Admin",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEUAAAD_Q0P_Ly__FxfDAADPAADbAAD_____Z2f_U1P_m5v_39_nv7__8_f_i4v_r6__d3f_6-v3z8_vx8f_09NlrQv6AAAAAXRSTlMAQObYZgAAAN5JREFUeAHN0sGOgyAURmG53N8jWqSM8_7POiQlqRqdbntWED5gc4fvKNht0du5XONd8iYk7tPYwITrOifEBhK66w0IE2LWqwVHDw6AzIz1lx-sFA7gSav6TxFCDi3bgVFQiA4TidkDKS-yNzBRIqa1X03YUhUOYDMkr8DTZcRlOYE8YUG01tEShTOgl-ltZ1BghqgIMxR-T2A2EJvMVwRjPnwhUQyMSUGJCHFB2oGNMgENmAKtVNn2gF5qwOgdQM651sqrtmr7A7iug_BpYD6OnCuk64I8DE380zh8Q3_OPxHfo3mwogAAAABJRU5ErkJggg.png",
+      "snippet": "Military. TROUSERS. Inseam \". Waist \". BLOUSE. Height\". Chest\". X Small/Short 26.5 - 29.5. 23 - 27. X Small/Short 59 - 62. 29 - 33. X ... Civilian Sizes vs.",
+      "snippet_highlighted_words": [
+        "Military",
+        "Sizes"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 2
+          },
+          "extensions": [
+            "2 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Military. TROUSERS. Inseam \". Waist \". BLOUSE. Height\". Chest\". X Small/Short 26.5 - 29.5. 23 - 27. X Small/Short 59 - 62. 29 - 33. X ... Civilian Sizes vs.",
+          "source_info_link": "https://www.tad.usace.army.mil/Portals/53/docs/UDC/Admin/Clothing%20Cross%20Ref.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEUAAAD_Q0P_Ly__FxfDAADPAADbAAD_____Z2f_U1P_m5v_39_nv7__8_f_i4v_r6__d3f_6-v3z8_vx8f_09NlrQv6AAAAAXRSTlMAQObYZgAAAN5JREFUeAHN0sGOgyAURmG53N8jWqSM8_7POiQlqRqdbntWED5gc4fvKNht0du5XONd8iYk7tPYwITrOifEBhK66w0IE2LWqwVHDw6AzIz1lx-sFA7gSav6TxFCDi3bgVFQiA4TidkDKS-yNzBRIqa1X03YUhUOYDMkr8DTZcRlOYE8YUG01tEShTOgl-ltZ1BghqgIMxR-T2A2EJvMVwRjPnwhUQyMSUGJCHFB2oGNMgENmAKtVNn2gF5qwOgdQM651sqrtmr7A7iug_BpYD6OnCuk64I8DE380zh8Q3_OPxHfo3mwogAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tad.usace.army.mil/Portals/53/docs/UDC/Admin/Clothing%20Cross%20Ref.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tad.usace.army.mil%2FPortals%2F53%2Fdocs%2FUDC%2FAdmin%2FClothing%2520Cross%2520Ref.pdf",
+      "source": "USACE Transatlantic Division (.mil)",
+      "read_more_link": "https://www.tad.usace.army.mil/Portals/53/docs/UDC/Admin/Clothing%20Cross%20Ref.pdf#:~:text=Military,X%20Short%2FReg&text=Civilian%20Sizes%20vs.%20Military"
+    },
+    {
+      "position": 4,
+      "title": "Online Sizing Charts - Army Surplus World Products",
+      "link": "https://www.armysurplusworld.com/sizing-charts?srsltid=AfmBOopwbfTJq7KizTfptKsLHmAq-Ptvv_ABQPZaXrv8gbkjwo8CUvBH",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.armysurplusworld.com/sizing-charts%3Fsrsltid%3DAfmBOopwbfTJq7KizTfptKsLHmAq-Ptvv_ABQPZaXrv8gbkjwo8CUvBH&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0QFnoECCAQAQ",
+      "displayed_link": "https://www.armysurplusworld.com › sizing-charts",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEVHcExoeDgwOi44QzA4QzA5RDA5RDA5RDA5RDA5RDA5RDA5RDA5RDA5RDA5RDAzPi84QzB_kz5_lD5_kz5_kz5_kz5_kz6GmkB_kz6BlT5_kz5_kz5_kz5_kz6Akz5_kz5_kz4ANnNRAAAAIXRSTlMABAo_mLnszaljFkza_YoqeG1S_-f2uQt3LJ-J2LMVN8O-_o3wAAABGklEQVR4AbXPVWLFIBAF0DtoBEuIa_e_ypLn-tce3Bn8DWL4gguplM7yAm9KY5V1XClr3X2ZzrUPTkhCqXNltcdFdVYDigPQpbdGFTirY4xNG2NHggEIErlx19W-SQtDjO3IkHgBJrjIcTY1U9XP0zL0eFfHdUt1u9TLo5mQ9EtcQXOM-_zzYKlxmONaLdUSZ3qy4TDGQxubuuvWu4HOqynOYaiGcW4etBUSzuEJqVD_ZENSKqZLMM0xrtODigAwxaUovM5BU3w0I3FWWWOsdYTjtu2oDjsAKlQweRFkQYAPYME7j5tcOUNeEQAn4UymGe6CsvL4FZjhpVWG8ChPq04yBBOszQo8IZ_ZNBtSZXLCmyIXUmeB49_9At02GKvg_xstAAAAAElFTkSuQmCC.png",
+      "snippet": "FLIGHT SUIT SIZE CHART ; CHEST, SLEEVE ; MEDIUM REGULAR, 38-40, 33-34 ; LARGE REGULAR, 42-44, 34-35 ; LARGE LONG, 42-44, 36-37 ; XLARGE REGULAR, 46-48, 35-36 ...",
+      "snippet_highlighted_words": [
+        "FLIGHT SUIT SIZE CHART"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "FLIGHT SUIT SIZE CHART ; CHEST, SLEEVE ; MEDIUM REGULAR, 38-40, 33-34 ; LARGE REGULAR, 42-44, 34-35 ; LARGE LONG, 42-44, 36-37 ; XLARGE REGULAR, 46-48, 35-36 ...",
+          "source_info_link": "https://www.armysurplusworld.com/sizing-charts?srsltid=AfmBOopwbfTJq7KizTfptKsLHmAq-Ptvv_ABQPZaXrv8gbkjwo8CUvBH",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEVHcExoeDgwOi44QzA4QzA5RDA5RDA5RDA5RDA5RDA5RDA5RDA5RDA5RDA5RDAzPi84QzB_kz5_lD5_kz5_kz5_kz5_kz6GmkB_kz6BlT5_kz5_kz5_kz5_kz6Akz5_kz5_kz4ANnNRAAAAIXRSTlMABAo_mLnszaljFkza_YoqeG1S_-f2uQt3LJ-J2LMVN8O-_o3wAAABGklEQVR4AbXPVWLFIBAF0DtoBEuIa_e_ypLn-tce3Bn8DWL4gguplM7yAm9KY5V1XClr3X2ZzrUPTkhCqXNltcdFdVYDigPQpbdGFTirY4xNG2NHggEIErlx19W-SQtDjO3IkHgBJrjIcTY1U9XP0zL0eFfHdUt1u9TLo5mQ9EtcQXOM-_zzYKlxmONaLdUSZ3qy4TDGQxubuuvWu4HOqynOYaiGcW4etBUSzuEJqVD_ZENSKqZLMM0xrtODigAwxaUovM5BU3w0I3FWWWOsdYTjtu2oDjsAKlQweRFkQYAPYME7j5tcOUNeEQAn4UymGe6CsvL4FZjhpVWG8ChPq04yBBOszQo8IZ_ZNBtSZXLCmyIXUmeB49_9At02GKvg_xstAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.armysurplusworld.com/sizing-charts?srsltid=AfmBOopwbfTJq7KizTfptKsLHmAq-Ptvv_ABQPZaXrv8gbkjwo8CUvBH&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.armysurplusworld.com%2Fsizing-charts%3Fsrsltid%3DAfmBOopwbfTJq7KizTfptKsLHmAq-Ptvv_ABQPZaXrv8gbkjwo8CUvBH",
+      "source": "Army Surplus World",
+      "read_more_link": "https://www.armysurplusworld.com/sizing-charts?srsltid=AfmBOopwbfTJq7KizTfptKsLHmAq-Ptvv_ABQPZaXrv8gbkjwo8CUvBH#:~:text=FLIGHT%20SUIT%20SIZE%20CHART&text=CHEST,SLEEVE&text=MEDIUM%20REGULAR,33%2D34&text=LARGE%20REGULAR,34%2D35&text=LARGE%20LONG,36%2D37&text=XLARGE%20REGULAR,35%2D36"
+    },
+    {
+      "position": 5,
+      "title": "CANADIAN MILITARY TOP SIZING",
+      "link": "https://www.sasonline.ca/surplus-and-camo/surplus-camo-clothing/size-charts/canadian-military-tops/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sasonline.ca/surplus-and-camo/surplus-camo-clothing/size-charts/canadian-military-tops/&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0QFnoECBgQAQ",
+      "displayed_link": "https://www.sasonline.ca › ... › SIZE CHARTS",
+      "snippet": "** The first two letters represent person's height, and the second two letters represent chest width in inches. Example: 7044 equals : height 70”, chest 44”.",
+      "about_this_result": {
+        "source": {
+          "description": "** The first two letters represent person's height, and the second two letters represent chest width in inches. Example: 7044 equals : height 70”, chest 44”.",
+          "source_info_link": "https://www.sasonline.ca/surplus-and-camo/surplus-camo-clothing/size-charts/canadian-military-tops/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sasonline.ca/surplus-and-camo/surplus-camo-clothing/size-charts/canadian-military-tops/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sasonline.ca%2Fsurplus-and-camo%2Fsurplus-camo-clothing%2Fsize-charts%2Fcanadian-military-tops%2F",
+      "source": "Smith Army Surplus",
+      "read_more_link": "https://www.sasonline.ca/surplus-and-camo/surplus-camo-clothing/size-charts/canadian-military-tops/#:~:text=**%20The%20first%20two%20letters,%3A%20height%2070%E2%80%9D%2C%20chest%2044%E2%80%9D"
+    },
+    {
+      "position": 6,
+      "title": "UK Military NATO Clothing Size Guide",
+      "link": "https://www.dropzonesupplies.co.uk/blog/military-clothing-size-chart/?srsltid=AfmBOoqUOubNjnZmYtHuSOjcuU1RRwQyhx_JCsQQg2XBg8mWsm_YQEm4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dropzonesupplies.co.uk/blog/military-clothing-size-chart/%3Fsrsltid%3DAfmBOoqUOubNjnZmYtHuSOjcuU1RRwQyhx_JCsQQg2XBg8mWsm_YQEm4&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0QFnoECD8QAQ",
+      "displayed_link": "https://www.dropzonesupplies.co.uk › blog › military-c...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAtFBMVEX____FxsmprLHa3N_7-_ylp603RFEiM0AzRFEqPE1aZHKwtLr8_P3Nz9IdM0Q3RlVqdIB3gYxjcXsfN0owQFPx8fLp6-3V2uDf4uiHkZwQMkhCUV09S1d7h4ywt7hUYGpOX2_Bxs-XpK4APF8hTWsuVHFJZ4A9XnQvTWIxQk25vcErRFZPb4h7lKVQa30-VmdpgI9wiZ1geolEVmE5UlxFYG2ZsLuClaVTa3ectL9gd40AKTtebxeLAAAAz0lEQVR4Ad2Qg5UEARBEd2zbtq384zobCex_bHfV7U4BQBD6uwIjKIbiBEnRv2sMy3K8IIiEJCufWVXTdV0zTEKkLNtyXI_wnxNB8NwTRnGSZnnuQ1RRFJ5SVnn2RBK9LKCyumnaTgQEGy_sEuy6fhjbXn17ZRiawe9AYZptCxHmZV1H8PPRbRjaLgy9yRIDcd6Ps_z6K3VmuVA6kx8E07wM2nclSi7lISKCDGlLDvzLA4P1Q6rkObb8yyLw8ilRlv8xEJAqk__XeF0Ab3fKI9DSFcbsm54pAAAAAElFTkSuQmCC.png",
+      "date": "Mar 5, 2025",
+      "snippet": "Find the right fit for your military clothing with our handy military clothing size guide, helping you to shop with confidence.",
+      "snippet_highlighted_words": [
+        "handy military clothing size guide"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Find the right fit for your military clothing with our handy military clothing size guide, helping you to shop with confidence.",
+          "source_info_link": "https://www.dropzonesupplies.co.uk/blog/military-clothing-size-chart/?srsltid=AfmBOoqUOubNjnZmYtHuSOjcuU1RRwQyhx_JCsQQg2XBg8mWsm_YQEm4",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAtFBMVEX____FxsmprLHa3N_7-_ylp603RFEiM0AzRFEqPE1aZHKwtLr8_P3Nz9IdM0Q3RlVqdIB3gYxjcXsfN0owQFPx8fLp6-3V2uDf4uiHkZwQMkhCUV09S1d7h4ywt7hUYGpOX2_Bxs-XpK4APF8hTWsuVHFJZ4A9XnQvTWIxQk25vcErRFZPb4h7lKVQa30-VmdpgI9wiZ1geolEVmE5UlxFYG2ZsLuClaVTa3ectL9gd40AKTtebxeLAAAAz0lEQVR4Ad2Qg5UEARBEd2zbtq384zobCex_bHfV7U4BQBD6uwIjKIbiBEnRv2sMy3K8IIiEJCufWVXTdV0zTEKkLNtyXI_wnxNB8NwTRnGSZnnuQ1RRFJ5SVnn2RBK9LKCyumnaTgQEGy_sEuy6fhjbXn17ZRiawe9AYZptCxHmZV1H8PPRbRjaLgy9yRIDcd6Ps_z6K3VmuVA6kx8E07wM2nclSi7lISKCDGlLDvzLA4P1Q6rkObb8yyLw8ilRlv8xEJAqk__XeF0Ab3fKI9DSFcbsm54pAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.dropzonesupplies.co.uk/blog/military-clothing-size-chart/?srsltid=AfmBOoqUOubNjnZmYtHuSOjcuU1RRwQyhx_JCsQQg2XBg8mWsm_YQEm4&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dropzonesupplies.co.uk%2Fblog%2Fmilitary-clothing-size-chart%2F%3Fsrsltid%3DAfmBOoqUOubNjnZmYtHuSOjcuU1RRwQyhx_JCsQQg2XBg8mWsm_YQEm4",
+      "source": "Drop Zone Supplies"
+    },
+    {
+      "position": 7,
+      "title": "Bundeswehr size charts",
+      "link": "https://www.militarysurplus.eu/Bundeswehr-size-charts-clinks-eng-27.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarysurplus.eu/Bundeswehr-size-charts-clinks-eng-27.html&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0QFnoECEIQAQ",
+      "displayed_link": "https://www.militarysurplus.eu › Bundeswehr-size-charts-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAilBMVEX___91ikqksYums46otI-SonTo6-na39719vXU2NbL0M_j5uV0gXtQZFsxSj-rtbCCkIpsfHVkdm6ZqHxCWE6iq6OapaBLYFZZbGOfrYTBxsK8xMG0u7mQmpWss6v29ur5-vbv8e2ImWe0vp7o6-Lu7uSOnm3GzraElmS9x6y7xahvhUHM072Uoncnpz7nAAAAq0lEQVR4ATVNAwLEQAxMbdtul_9_3il7E3MAQNMNUzdNwzB0Db6wbNtxPd92AtvCRhjFSZrlUZgWqlGWVZ01bZV02OiHcepHf_R9tTHVU5a145Ql2CjGLIyaus7rSW0Mc9VX7lyNs2JZ1gWxqg3XtrftYzZgYz_OFa4L1vPYf437uQm9Lkrux8KNrmMdIR3TO9zg-mN-mrv56Bx-ELJ4juMppIA_TlYU9Pylb_c3D5squHdWAAAAAElFTkSuQmCC.png",
+      "snippet": "Choosing a size is easy - choose the height size you fit into based on how tall you are, then measure your chest and waist circumference to find out the correct ...",
+      "snippet_highlighted_words": [
+        "choose the height size you fit into based on how tall you are"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Choosing a size is easy - choose the height size you fit into based on how tall you are, then measure your chest and waist circumference to find out the correct ...",
+          "source_info_link": "https://www.militarysurplus.eu/Bundeswehr-size-charts-clinks-eng-27.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAilBMVEX___91ikqksYums46otI-SonTo6-na39719vXU2NbL0M_j5uV0gXtQZFsxSj-rtbCCkIpsfHVkdm6ZqHxCWE6iq6OapaBLYFZZbGOfrYTBxsK8xMG0u7mQmpWss6v29ur5-vbv8e2ImWe0vp7o6-Lu7uSOnm3GzraElmS9x6y7xahvhUHM072Uoncnpz7nAAAAq0lEQVR4ATVNAwLEQAxMbdtul_9_3il7E3MAQNMNUzdNwzB0Db6wbNtxPd92AtvCRhjFSZrlUZgWqlGWVZ01bZV02OiHcepHf_R9tTHVU5a145Ql2CjGLIyaus7rSW0Mc9VX7lyNs2JZ1gWxqg3XtrftYzZgYz_OFa4L1vPYf437uQm9Lkrux8KNrmMdIR3TO9zg-mN-mrv56Bx-ELJ4juMppIA_TlYU9Pylb_c3D5squHdWAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarysurplus.eu/Bundeswehr-size-charts-clinks-eng-27.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarysurplus.eu%2FBundeswehr-size-charts-clinks-eng-27.html",
+      "source": "militarysurplus.eu",
+      "read_more_link": "https://www.militarysurplus.eu/Bundeswehr-size-charts-clinks-eng-27.html#:~:text=Choosing%20a%20size%20is%20easy,find%20out%20the%20correct%20width."
+    },
+    {
+      "position": 8,
+      "title": "Military Surplus Clothing Size Chart",
+      "link": "https://www.pinterest.com/ideas/military-surplus-clothing-size-chart/949331492473/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pinterest.com/ideas/military-surplus-clothing-size-chart/949331492473/&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0QFnoECD0QAQ",
+      "displayed_link": "https://www.pinterest.com › Explore",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png",
+      "snippet": "Discover Pinterest's best ideas and inspiration for Military surplus clothing size chart. Get inspired and try out new things. Last updated 2d.",
+      "snippet_highlighted_words": [
+        "Military surplus clothing size chart"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Discover Pinterest's best ideas and inspiration for Military surplus clothing size chart. Get inspired and try out new things. Last updated 2d.",
+          "source_info_link": "https://www.pinterest.com/ideas/military-surplus-clothing-size-chart/949331492473/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pinterest.com/ideas/military-surplus-clothing-size-chart/949331492473/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fmilitary-surplus-clothing-size-chart%2F949331492473%2F",
+      "source": "Pinterest",
+      "read_more_link": "https://www.pinterest.com/ideas/military-surplus-clothing-size-chart/949331492473/#:~:text=Discover%20Pinterest's%20best%20ideas%20and,Last%20updated%202d"
+    },
+    {
+      "position": 9,
+      "title": "Size Chart - Military Uniforms",
+      "link": "https://offbase.co/pages/size-chart-military?srsltid=AfmBOooN4BPX_1FRA2AoR0JGTVdPDzc_-9ZmsANGCr-qhdiRL7TMeSTt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://offbase.co/pages/size-chart-military%3Fsrsltid%3DAfmBOooN4BPX_1FRA2AoR0JGTVdPDzc_-9ZmsANGCr-qhdiRL7TMeSTt&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0QFnoECDwQAQ",
+      "displayed_link": "https://offbase.co › pages › size-chart-military",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNFg4PGysdHSUtKzUrLSs3MC0rNystLSsrKzcrKywxNy0rLS03LDc3KysrLisrLSstKysrKy0tKzcrN__AABEIABwAHAMBIgACEQEDEQH_xAAXAAEBAQEAAAAAAAAAAAAAAAAFAAMG_8QAJxAAAgEDAgUEAwAAAAAAAAAAAQIDAAQRMWEFEiFRcUFSgbETIjL_xAAWAQEBAQAAAAAAAAAAAAAAAAAABAH_xAAWEQEBAQAAAAAAAAAAAAAAAAABABH_2gAMAwEAAhEDEQA_ABwCzBVBJJwABkmtzaOpxJJBG3teUAj4qtyY7e4lU4cAID2B1-qT4bbwywhnsJuZcfzgBumvXFSrlkTLbyRKHYAoTgOjBlz5FZV0d1a2sTRqIZ4jKvIRjKsN9x6GucoOy1glVOdJFLRyDDAajsRuKateKyRwhTeQSYBC_k5lI6fr080BVRNk9e8cJgeKJ1Z3GMoCFUY31OtA1VUDJf_Z.jpeg",
+      "snippet": "For TOPS, choose the Chest & Height measurement that you fall into. For BOTTOMS, choose the Waist & Inseam measurement that you fall into.",
+      "snippet_highlighted_words": [
+        "For TOPS, choose the Chest & Height measurement that you fall into"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "For TOPS, choose the Chest & Height measurement that you fall into. For BOTTOMS, choose the Waist & Inseam measurement that you fall into.",
+          "source_info_link": "https://offbase.co/pages/size-chart-military?srsltid=AfmBOooN4BPX_1FRA2AoR0JGTVdPDzc_-9ZmsANGCr-qhdiRL7TMeSTt",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNFg4PGysdHSUtKzUrLSs3MC0rNystLSsrKzcrKywxNy0rLS03LDc3KysrLisrLSstKysrKy0tKzcrN__AABEIABwAHAMBIgACEQEDEQH_xAAXAAEBAQEAAAAAAAAAAAAAAAAFAAMG_8QAJxAAAgEDAgUEAwAAAAAAAAAAAQIDAAQRMWEFEiFRcUFSgbETIjL_xAAWAQEBAQAAAAAAAAAAAAAAAAAABAH_xAAWEQEBAQAAAAAAAAAAAAAAAAABABH_2gAMAwEAAhEDEQA_ABwCzBVBJJwABkmtzaOpxJJBG3teUAj4qtyY7e4lU4cAID2B1-qT4bbwywhnsJuZcfzgBumvXFSrlkTLbyRKHYAoTgOjBlz5FZV0d1a2sTRqIZ4jKvIRjKsN9x6GucoOy1glVOdJFLRyDDAajsRuKateKyRwhTeQSYBC_k5lI6fr080BVRNk9e8cJgeKJ1Z3GMoCFUY31OtA1VUDJf_Z.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://offbase.co/pages/size-chart-military?srsltid=AfmBOooN4BPX_1FRA2AoR0JGTVdPDzc_-9ZmsANGCr-qhdiRL7TMeSTt&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Foffbase.co%2Fpages%2Fsize-chart-military%3Fsrsltid%3DAfmBOooN4BPX_1FRA2AoR0JGTVdPDzc_-9ZmsANGCr-qhdiRL7TMeSTt",
+      "source": "Offbase Supply Co."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military uniform size chart converter pdf",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+uniform+size+chart+converter+pdf&sa=X&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+uniform+size+chart+converter+pdf"
+    },
+    {
+      "block_position": 1,
+      "query": "Military uniform size chart converter ww2",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+uniform+size+chart+converter+ww2&sa=X&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+uniform+size+chart+converter+ww2"
+    },
+    {
+      "block_position": 1,
+      "query": "Military uniform size chart converter women's",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+uniform+size+chart+converter+women%27s&sa=X&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+uniform+size+chart+converter+women%27s"
+    },
+    {
+      "block_position": 1,
+      "query": "Military uniform size chart converter men's",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+uniform+size+chart+converter+men%27s&sa=X&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+uniform+size+chart+converter+men%27s"
+    },
+    {
+      "block_position": 1,
+      "query": "Army Uniform Size Chart female",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Army+Uniform+Size+Chart+female&sa=X&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Army+Uniform+Size+Chart+female"
+    },
+    {
+      "block_position": 1,
+      "query": "US military clothing Size chart",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=US+military+clothing+Size+chart&sa=X&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=US+military+clothing+Size+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Army uniform size chart male",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Army+uniform+size+chart+male&sa=X&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Army+uniform+size+chart+male"
+    },
+    {
+      "block_position": 1,
+      "query": "NATO size chart",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=NATO+size+chart&sa=X&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=NATO+size+chart"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+uniform+size+chart+converter&sca_esv=c510ba4e6526f391&ei=sCA6asahLtLpmLQPvPDV6Q0&start=10&sa=N&sstk=AU9db-BvuSrFIXde6zQsxBFOE947aZAk49WHC27lh4-m6SAKBziz3_e-2UnDUa0i2h7ZLjrNAjGUCnGXzXRUQDOzSmKBFuwRXRpssQ&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q8NMDegQIMhAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+uniform+size+chart+converter&sca_esv=c510ba4e6526f391&ei=sCA6asahLtLpmLQPvPDV6Q0&start=10&sa=N&sstk=AU9db-BvuSrFIXde6zQsxBFOE947aZAk49WHC27lh4-m6SAKBziz3_e-2UnDUa0i2h7ZLjrNAjGUCnGXzXRUQDOzSmKBFuwRXRpssQ&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q8tMDegQIMhAE",
+      "3": "https://www.google.com/search?q=military+uniform+size+chart+converter&sca_esv=c510ba4e6526f391&ei=sCA6asahLtLpmLQPvPDV6Q0&start=20&sa=N&sstk=AU9db-BvuSrFIXde6zQsxBFOE947aZAk49WHC27lh4-m6SAKBziz3_e-2UnDUa0i2h7ZLjrNAjGUCnGXzXRUQDOzSmKBFuwRXRpssQ&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q8tMDegQIMhAG",
+      "4": "https://www.google.com/search?q=military+uniform+size+chart+converter&sca_esv=c510ba4e6526f391&ei=sCA6asahLtLpmLQPvPDV6Q0&start=30&sa=N&sstk=AU9db-BvuSrFIXde6zQsxBFOE947aZAk49WHC27lh4-m6SAKBziz3_e-2UnDUa0i2h7ZLjrNAjGUCnGXzXRUQDOzSmKBFuwRXRpssQ&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q8tMDegQIMhAI",
+      "5": "https://www.google.com/search?q=military+uniform+size+chart+converter&sca_esv=c510ba4e6526f391&ei=sCA6asahLtLpmLQPvPDV6Q0&start=40&sa=N&sstk=AU9db-BvuSrFIXde6zQsxBFOE947aZAk49WHC27lh4-m6SAKBziz3_e-2UnDUa0i2h7ZLjrNAjGUCnGXzXRUQDOzSmKBFuwRXRpssQ&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q8tMDegQIMhAK",
+      "6": "https://www.google.com/search?q=military+uniform+size+chart+converter&sca_esv=c510ba4e6526f391&ei=sCA6asahLtLpmLQPvPDV6Q0&start=50&sa=N&sstk=AU9db-BvuSrFIXde6zQsxBFOE947aZAk49WHC27lh4-m6SAKBziz3_e-2UnDUa0i2h7ZLjrNAjGUCnGXzXRUQDOzSmKBFuwRXRpssQ&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q8tMDegQIMhAM",
+      "7": "https://www.google.com/search?q=military+uniform+size+chart+converter&sca_esv=c510ba4e6526f391&ei=sCA6asahLtLpmLQPvPDV6Q0&start=60&sa=N&sstk=AU9db-BvuSrFIXde6zQsxBFOE947aZAk49WHC27lh4-m6SAKBziz3_e-2UnDUa0i2h7ZLjrNAjGUCnGXzXRUQDOzSmKBFuwRXRpssQ&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q8tMDegQIMhAO",
+      "8": "https://www.google.com/search?q=military+uniform+size+chart+converter&sca_esv=c510ba4e6526f391&ei=sCA6asahLtLpmLQPvPDV6Q0&start=70&sa=N&sstk=AU9db-BvuSrFIXde6zQsxBFOE947aZAk49WHC27lh4-m6SAKBziz3_e-2UnDUa0i2h7ZLjrNAjGUCnGXzXRUQDOzSmKBFuwRXRpssQ&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q8tMDegQIMhAQ",
+      "9": "https://www.google.com/search?q=military+uniform+size+chart+converter&sca_esv=c510ba4e6526f391&ei=sCA6asahLtLpmLQPvPDV6Q0&start=80&sa=N&sstk=AU9db-BvuSrFIXde6zQsxBFOE947aZAk49WHC27lh4-m6SAKBziz3_e-2UnDUa0i2h7ZLjrNAjGUCnGXzXRUQDOzSmKBFuwRXRpssQ&ved=2ahUKEwjGucSq15yVAxXSNIYAHTx4Nd0Q8tMDegQIMhAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+size+chart+converter&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+size+chart+converter&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+size+chart+converter&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+size+chart+converter&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+size+chart+converter&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+size+chart+converter&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+size+chart+converter&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+size+chart+converter&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+size+chart+converter&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+uniform+size+chart+converter&start=80"
+    }
+  }
+}

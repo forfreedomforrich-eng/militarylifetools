@@ -1,0 +1,519 @@
+{
+  "search_metadata": {
+    "id": "6a3a2235a4817cd8a78eed2d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ltzGVXxU8kMLCW-yvMIbdg/6a3a2235a4817cd8a78eed2d.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/ltzGVXxU8kMLCW-yvMIbdg/6a3a2235a4817cd8a78eed2d.json_with_pixel_position",
+    "created_at": "2026-06-23 06:05:41 UTC",
+    "processed_at": "2026-06-23 06:05:41 UTC",
+    "google_url": "https://www.google.com/search?q=military+separation+pay+calculator&oq=military+separation+pay+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ltzGVXxU8kMLCW-yvMIbdg/6a3a2235a4817cd8a78eed2d.html",
+    "total_time_taken": 1.07
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military separation pay calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military separation pay calculator",
+    "total_results": 104,
+    "time_taken_displayed": 0.13,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How to calculate military separation pay?",
+      "type": "ai_overview",
+      "page_token": "vq56tHicHdBdjqIwAADg7GV8HCmKG03MJAhFu1JSagv0ZVOKCrT8OLKCvs1d9lR7mpnsd4Tv86-pWv3vx6Mchv6-mc_HcXy7dt3VnN9U18zl_dmquZLG5FLpzernCrxf1Nb_c3B3t4NLWN9zL7ZoqyZeIy_hbk3qohW6B_xUVmeWgWiP7qoNwemFvNAufnHbuZEal3kgUAR5klNgqTRzjikORVPeQns5Eg5NYgggL3dHWXGMK7AUC3ihUFAMw4Fp8VSavLIagty-O3wRY1kjWwVozNNuyHl_lL5ZnQLxxBwZAV1cJA4V_nolLRFSwx8ycAhrCkEr4EsN93zPj2LRjVGCYr8sIsm0naVuE2pcZbr8YL4huAKh2gE3m7qKsPilatPwYOqKOo7ODZpoCr0iWRvMAPy-sU_eYcosaIlxdlGP7WL2_3P7-9IMm_6ju34Bzg6CrQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vq56tHicHdBdjqIwAADg7GV8HCmKG03MJAhFu1JSagv0ZVOKCrT8OLKCvs1d9lR7mpnsd4Tv86-pWv3vx6Mchv6-mc_HcXy7dt3VnN9U18zl_dmquZLG5FLpzernCrxf1Nb_c3B3t4NLWN9zL7ZoqyZeIy_hbk3qohW6B_xUVmeWgWiP7qoNwemFvNAufnHbuZEal3kgUAR5klNgqTRzjikORVPeQns5Eg5NYgggL3dHWXGMK7AUC3ihUFAMw4Fp8VSavLIagty-O3wRY1kjWwVozNNuyHl_lL5ZnQLxxBwZAV1cJA4V_nolLRFSwx8ycAhrCkEr4EsN93zPj2LRjVGCYr8sIsm0naVuE2pcZbr8YL4huAKh2gE3m7qKsPilatPwYOqKOo7ODZpoCr0iWRvMAPy-sU_eYcosaIlxdlGP7WL2_3P7-9IMm_6ju34Bzg6CrQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00yNDJiREZYZDFCSk4wRnFWazlWU0dodVh6aGZUbmhhY1ZGR1FYWmpUaTE2YXpGSVdURTJibGgyZUVaQmIzZHFOWEEyV1U0dGQyaExabU5zZUhCM2MxSlNRak5ZZWw5R1YzVnphemMwUkhkNWNscHdOemRrZDNad1FSSVhUbWxKTm1Gd1pqSkRZbUpJYTFCSlVEWXRUSEF0UVdNYUlrRkVjM0k1WmxKVU1WZDFiVmg2T1UxbVpERkthWGRtT0V0ekxVSlVhbVZXUkhjIiwiZmN2IjoiMyIsImVpIjoiTmlJNmFwZjJDYmJIa1BJUDYtTHAtQWMiLCJxYyI6IkNpSnRhV3hwZEdGeWVTQnpaWEJoY21GMGFXOXVJSEJoZVNCallXeGpkV3hoZEc5eUVBQjlKcXBsUHciLCJxdWVzdGlvbiI6IkhvdyB0byBjYWxjdWxhdGUgbWlsaXRhcnkgc2VwYXJhdGlvbiBwYXk/IiwibGsiOiJHaWhvYjNjZ2RHOGdZMkZzWTNWc1lYUmxJRzFwYkdsMFlYSjVJSE5sY0dGeVlYUnBiMjRnY0dGNSIsImJzIjoiYzVXUU1RdkNNQlNFY2Mza0hFVGVxTFZnRzhXMXE1TnJCNmRIR2swdzdTdHBZc21fMXl5NldLamJEZmNkSDhkcXRqM1RDSjVBb3BYQm9sZlFHbXM4dWdpRDZ0R2hOOVJCajdFU0dkX29tV1YyWmJ0YW93Y3pnTmNLeW1KZkZ1Q0NWV0M2TDlTWUp6bXBLcEh6Ykp4ZFp4ZVdKLXMyU0oySUNZZUVpa0tjS3JIbXF4UW1aUl9zOE5sckNDSUZ1Q3NQTjNJX0pwTWZ1dmI5eDVFTF9UZTJYTHdBIiwiaWQiOiJmY19OaUk2YXBmMkNiYkhrUElQNi1McC1BY180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00yNDJiREZYZDFCSk4wRnFWazlWU0dodVh6aGZUbmhhY1ZGR1FYWmpUaTE2YXpGSVdURTJibGgyZUVaQmIzZHFOWEEyV1U0dGQyaExabU5zZUhCM2MxSlNRak5ZZWw5R1YzVnphemMwUkhkNWNscHdOemRrZDNad1FSSVhUbWxKTm1Gd1pqSkRZbUpJYTFCSlVEWXRUSEF0UVdNYUlrRkVjM0k1WmxKVU1WZDFiVmg2T1UxbVpERkthWGRtT0V0ekxVSlVhbVZXUkhjIiwiZmN2IjoiMyIsImVpIjoiTmlJNmFwZjJDYmJIa1BJUDYtTHAtQWMiLCJxYyI6IkNpSnRhV3hwZEdGeWVTQnpaWEJoY21GMGFXOXVJSEJoZVNCallXeGpkV3hoZEc5eUVBQjlKcXBsUHciLCJxdWVzdGlvbiI6IkhvdyB0byBjYWxjdWxhdGUgbWlsaXRhcnkgc2VwYXJhdGlvbiBwYXk%2FIiwibGsiOiJHaWhvYjNjZ2RHOGdZMkZzWTNWc1lYUmxJRzFwYkdsMFlYSjVJSE5sY0dGeVlYUnBiMjRnY0dGNSIsImJzIjoiYzVXUU1RdkNNQlNFY2Mza0hFVGVxTFZnRzhXMXE1TnJCNmRIR2swdzdTdHBZc21fMXl5NldLamJEZmNkSDhkcXRqM1RDSjVBb3BYQm9sZlFHbXM4dWdpRDZ0R2hOOVJCajdFU0dkX29tV1YyWmJ0YW93Y3pnTmNLeW1KZkZ1Q0NWV0M2TDlTWUp6bXBLcEh6Ykp4ZFp4ZVdKLXMyU0oySUNZZUVpa0tjS3JIbXF4UW1aUl9zOE5sckNDSUZ1Q3NQTjNJX0pwTWZ1dmI5eDVFTF9UZTJYTHdBIiwiaWQiOiJmY19OaUk2YXBmMkNiYkhrUElQNi1McC1BY180In0%3D"
+    },
+    {
+      "question": "What is the 10/10 rule in military divorce?",
+      "type": "ai_overview",
+      "page_token": "tvwgfXicHZDbboIwAECzn_FRuWwumpglKEWZYIq90L4stVXqWgQFB_q2f9lX7Wtm9nySk5Pz_WOPJ_P79KXbtm6mo1HXdcOiqgq7H8qqHInmdpIjKazdCWmm49ex-3aQs_C6CubnVQBxXZNF5qAFeE-NPud-ACXmi51RMbXM24dFiwDwMVU8w2ROTGw5fokwjptNpCvuA0dG-sFcR4YgTZamxzQLoVv1aKm3KFdxAnSwQSBCHm-3RHFK4p6eapKFKlamXSdh85xSgsWdX4QFwcPNaBlT5fQ3RuplGpErobaHGPSbSLVrygUkk0ghBYUvfVpykJb1hREVQc92Kid-qNVGYOOxPCgTkx6Z0RccWpge3UTO3YD11RHi7C4_bYkpP2A7We7Qox8Qti-1kWBChadPzCl6lMcdhIOD_Jr5g_-fs49D2U7rS1X8AT57hDE",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tvwgfXicHZDbboIwAECzn_FRuWwumpglKEWZYIq90L4stVXqWgQFB_q2f9lX7Wtm9nySk5Pz_WOPJ_P79KXbtm6mo1HXdcOiqgq7H8qqHInmdpIjKazdCWmm49ex-3aQs_C6CubnVQBxXZNF5qAFeE-NPud-ACXmi51RMbXM24dFiwDwMVU8w2ROTGw5fokwjptNpCvuA0dG-sFcR4YgTZamxzQLoVv1aKm3KFdxAnSwQSBCHm-3RHFK4p6eapKFKlamXSdh85xSgsWdX4QFwcPNaBlT5fQ3RuplGpErobaHGPSbSLVrygUkk0ghBYUvfVpykJb1hREVQc92Kid-qNVGYOOxPCgTkx6Z0RccWpge3UTO3YD11RHi7C4_bYkpP2A7We7Qox8Qti-1kWBChadPzCl6lMcdhIOD_Jr5g_-fs49D2U7rS1X8AT57hDE",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00yNDJiREZYZDFCSk4wRnFWazlWU0dodVh6aGZUbmhhY1ZGR1FYWmpUaTE2YXpGSVdURTJibGgyZUVaQmIzZHFOWEEyV1U0dGQyaExabU5zZUhCM2MxSlNRak5ZZWw5R1YzVnphemMwUkhkNWNscHdOemRrZDNad1FSSVhUbWxKTm1Gd1pqSkRZbUpJYTFCSlVEWXRUSEF0UVdNYUlrRkVjM0k1WmxKVU1WZDFiVmg2T1UxbVpERkthWGRtT0V0ekxVSlVhbVZXUkhjIiwiZmN2IjoiMyIsImVpIjoiTmlJNmFwZjJDYmJIa1BJUDYtTHAtQWMiLCJxYyI6IkNpSnRhV3hwZEdGeWVTQnpaWEJoY21GMGFXOXVJSEJoZVNCallXeGpkV3hoZEc5eUVBQjlKcXBsUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDEwLzEwIHJ1bGUgaW4gbWlsaXRhcnkgZGl2b3JjZT8iLCJsayI6IkdpcDNhR0YwSUdseklIUm9aU0F4TUM4eE1DQnlkV3hsSUdsdUlHMXBiR2wwWVhKNUlHUnBkbTl5WTJVIiwiYnMiOiJjNVdRTVF2Q01CU0VjYzNrSEVUZXFMVmdHOFcxcTVOckI2ZEhHazB3N1N0cFlzbV8xeXk2V0tqYkRmY2RIOGRxdGozVENKNUFvcFhCb2xmUUdtczh1Z2lENnRHaE45UkJqN0VTR2Rfb21XVjJaYnRhb3djemdOY0t5bUpmRnVDQ1ZXQzZMOVNZSnptcEtwSHpiSnhkWnhlV0otczJTSjJJQ1llRWlrS2NLckhtcXhRbVpSX3M4TmxyQ0NJRnVDc1BOM0lfSnBNZnV2Yjl4NUVMX1RlMlhMd0EiLCJpZCI6ImZjX05pSTZhcGYyQ2JiSGtQSVA2LUxwLUFjXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00yNDJiREZYZDFCSk4wRnFWazlWU0dodVh6aGZUbmhhY1ZGR1FYWmpUaTE2YXpGSVdURTJibGgyZUVaQmIzZHFOWEEyV1U0dGQyaExabU5zZUhCM2MxSlNRak5ZZWw5R1YzVnphemMwUkhkNWNscHdOemRrZDNad1FSSVhUbWxKTm1Gd1pqSkRZbUpJYTFCSlVEWXRUSEF0UVdNYUlrRkVjM0k1WmxKVU1WZDFiVmg2T1UxbVpERkthWGRtT0V0ekxVSlVhbVZXUkhjIiwiZmN2IjoiMyIsImVpIjoiTmlJNmFwZjJDYmJIa1BJUDYtTHAtQWMiLCJxYyI6IkNpSnRhV3hwZEdGeWVTQnpaWEJoY21GMGFXOXVJSEJoZVNCallXeGpkV3hoZEc5eUVBQjlKcXBsUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDEwLzEwIHJ1bGUgaW4gbWlsaXRhcnkgZGl2b3JjZT8iLCJsayI6IkdpcDNhR0YwSUdseklIUm9aU0F4TUM4eE1DQnlkV3hsSUdsdUlHMXBiR2wwWVhKNUlHUnBkbTl5WTJVIiwiYnMiOiJjNVdRTVF2Q01CU0VjYzNrSEVUZXFMVmdHOFcxcTVOckI2ZEhHazB3N1N0cFlzbV8xeXk2V0tqYkRmY2RIOGRxdGozVENKNUFvcFhCb2xmUUdtczh1Z2lENnRHaE45UkJqN0VTR2Rfb21XVjJaYnRhb3djemdOY0t5bUpmRnVDQ1ZXQzZMOVNZSnptcEtwSHpiSnhkWnhlV0otczJTSjJJQ1llRWlrS2NLckhtcXhRbVpSX3M4TmxyQ0NJRnVDc1BOM0lfSnBNZnV2Yjl4NUVMX1RlMlhMd0EiLCJpZCI6ImZjX05pSTZhcGYyQ2JiSGtQSVA2LUxwLUFjXzQifQ%3D%3D"
+    },
+    {
+      "question": "How much is military separation pay in 2026?",
+      "type": "ai_overview",
+      "page_token": "XkxyXXicHdBfboIwHADg7DI-CpTBpolZhgJKpIbCrxVeFmxV_kodzIpvu8tOtdMs2XeE7_unKS_179O-GAbZzzVNKTU9d925OU5512p5P164xvOmOeS8ntsvtvF24gu3V86yU04EUtIV0eOWmtRrbLI07jtXVNiVV_zA8lhtRoGEntDMJuAidglq-uCPg26NPPFUBESHykPZmj8faIdCJAnbS0RYZzG_gASIExrSzWH2Fdb0tmWUEFYQ3GZlaIoAUK1TBioDa8yTwqYGlWkrs6gONsAMyFfCz9tZSkFIgtTI62AFLsbCeI093ZJxkhXcT8cIBWXsD1FM39EW7moLXuWXgUPWeNyxDKgnfGIGV9JuBtre-1gXMTHrIfNS_UixB7HhTE78tjAn_2OLj1M7zOVnd_4DHMR4Bw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XkxyXXicHdBfboIwHADg7DI-CpTBpolZhgJKpIbCrxVeFmxV_kodzIpvu8tOtdMs2XeE7_unKS_179O-GAbZzzVNKTU9d925OU5512p5P164xvOmOeS8ntsvtvF24gu3V86yU04EUtIV0eOWmtRrbLI07jtXVNiVV_zA8lhtRoGEntDMJuAidglq-uCPg26NPPFUBESHykPZmj8faIdCJAnbS0RYZzG_gASIExrSzWH2Fdb0tmWUEFYQ3GZlaIoAUK1TBioDa8yTwqYGlWkrs6gONsAMyFfCz9tZSkFIgtTI62AFLsbCeI093ZJxkhXcT8cIBWXsD1FM39EW7moLXuWXgUPWeNyxDKgnfGIGV9JuBtre-1gXMTHrIfNS_UixB7HhTE78tjAn_2OLj1M7zOVnd_4DHMR4Bw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00yNDJiREZYZDFCSk4wRnFWazlWU0dodVh6aGZUbmhhY1ZGR1FYWmpUaTE2YXpGSVdURTJibGgyZUVaQmIzZHFOWEEyV1U0dGQyaExabU5zZUhCM2MxSlNRak5ZZWw5R1YzVnphemMwUkhkNWNscHdOemRrZDNad1FSSVhUbWxKTm1Gd1pqSkRZbUpJYTFCSlVEWXRUSEF0UVdNYUlrRkVjM0k1WmxKVU1WZDFiVmg2T1UxbVpERkthWGRtT0V0ekxVSlVhbVZXUkhjIiwiZmN2IjoiMyIsImVpIjoiTmlJNmFwZjJDYmJIa1BJUDYtTHAtQWMiLCJxYyI6IkNpSnRhV3hwZEdGeWVTQnpaWEJoY21GMGFXOXVJSEJoZVNCallXeGpkV3hoZEc5eUVBQjlKcXBsUHciLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGlzIG1pbGl0YXJ5IHNlcGFyYXRpb24gcGF5IGluIDIwMjY/IiwibGsiOiJHaHd5TURJMklHMXBiR2wwWVhKNUlITmxjR0Z5WVhScGIyNGdjR0Y1IiwiYnMiOiJjNVdRTVF2Q01CU0VjYzNrSEVUZXFMVmdHOFcxcTVOckI2ZEhHazB3N1N0cFlzbV8xeXk2V0tqYkRmY2RIOGRxdGozVENKNUFvcFhCb2xmUUdtczh1Z2lENnRHaE45UkJqN0VTR2Rfb21XVjJaYnRhb3djemdOY0t5bUpmRnVDQ1ZXQzZMOVNZSnptcEtwSHpiSnhkWnhlV0otczJTSjJJQ1llRWlrS2NLckhtcXhRbVpSX3M4TmxyQ0NJRnVDc1BOM0lfSnBNZnV2Yjl4NUVMX1RlMlhMd0EiLCJpZCI6ImZjX05pSTZhcGYyQ2JiSGtQSVA2LUxwLUFjXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00yNDJiREZYZDFCSk4wRnFWazlWU0dodVh6aGZUbmhhY1ZGR1FYWmpUaTE2YXpGSVdURTJibGgyZUVaQmIzZHFOWEEyV1U0dGQyaExabU5zZUhCM2MxSlNRak5ZZWw5R1YzVnphemMwUkhkNWNscHdOemRrZDNad1FSSVhUbWxKTm1Gd1pqSkRZbUpJYTFCSlVEWXRUSEF0UVdNYUlrRkVjM0k1WmxKVU1WZDFiVmg2T1UxbVpERkthWGRtT0V0ekxVSlVhbVZXUkhjIiwiZmN2IjoiMyIsImVpIjoiTmlJNmFwZjJDYmJIa1BJUDYtTHAtQWMiLCJxYyI6IkNpSnRhV3hwZEdGeWVTQnpaWEJoY21GMGFXOXVJSEJoZVNCallXeGpkV3hoZEc5eUVBQjlKcXBsUHciLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGlzIG1pbGl0YXJ5IHNlcGFyYXRpb24gcGF5IGluIDIwMjY%2FIiwibGsiOiJHaHd5TURJMklHMXBiR2wwWVhKNUlITmxjR0Z5WVhScGIyNGdjR0Y1IiwiYnMiOiJjNVdRTVF2Q01CU0VjYzNrSEVUZXFMVmdHOFcxcTVOckI2ZEhHazB3N1N0cFlzbV8xeXk2V0tqYkRmY2RIOGRxdGozVENKNUFvcFhCb2xmUUdtczh1Z2lENnRHaE45UkJqN0VTR2Rfb21XVjJaYnRhb3djemdOY0t5bUpmRnVDQ1ZXQzZMOVNZSnptcEtwSHpiSnhkWnhlV0otczJTSjJJQ1llRWlrS2NLckhtcXhRbVpSX3M4TmxyQ0NJRnVDc1BOM0lfSnBNZnV2Yjl4NUVMX1RlMlhMd0EiLCJpZCI6ImZjX05pSTZhcGYyQ2JiSGtQSVA2LUxwLUFjXzQifQ%3D%3D"
+    },
+    {
+      "question": "How much do you get for separation pay in the army?",
+      "type": "ai_overview",
+      "page_token": "FAjzpXicHdBRbpswAIBh9TJ9bLAZnRopmkSCyZBwhME28DKBHWJiG9wEhZS3XmFn2Kl2mkY9wP89_J__TD_o_09_1TS563q1muf55TSOJ3N8EaNdNdePQaxEY0zbCL1-_fkKfnViE91EuL2IMKPOsR3xCiTmCrr3lquuhOZK4whw6_w2ckntBbfCox_SN1G-Z_sKEtuCsCc7TIpF2tyXLuPq0QSstvXc8Nk_xHLLEAZMI1UgopidYAWllWc2HeKgyCBShKWeZAS3BisKHc7o9V4zZo8W63TBUxPXmrJkkfC3ny6GSoZY6WNLwJsrziqhi5lSQy5yqR9uUuSAdAJQ2J6T8Gg9L-cobqMgzhkNOMcDLRmXg8SRkoeGaliVoU017iutLjQyGe5BKrYgrO5jn1GyiLOxbId1Re_vOQS4RmTBgwsPvEZZ6bDYqx-tFTPNnjtx2_jP3683fzo7rd1lPH0BDbyONg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FAjzpXicHdBRbpswAIBh9TJ9bLAZnRopmkSCyZBwhME28DKBHWJiG9wEhZS3XmFn2Kl2mkY9wP89_J__TD_o_09_1TS563q1muf55TSOJ3N8EaNdNdePQaxEY0zbCL1-_fkKfnViE91EuL2IMKPOsR3xCiTmCrr3lquuhOZK4whw6_w2ckntBbfCox_SN1G-Z_sKEtuCsCc7TIpF2tyXLuPq0QSstvXc8Nk_xHLLEAZMI1UgopidYAWllWc2HeKgyCBShKWeZAS3BisKHc7o9V4zZo8W63TBUxPXmrJkkfC3ny6GSoZY6WNLwJsrziqhi5lSQy5yqR9uUuSAdAJQ2J6T8Gg9L-cobqMgzhkNOMcDLRmXg8SRkoeGaliVoU017iutLjQyGe5BKrYgrO5jn1GyiLOxbId1Re_vOQS4RmTBgwsPvEZZ6bDYqx-tFTPNnjtx2_jP3683fzo7rd1lPH0BDbyONg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00yNDJiREZYZDFCSk4wRnFWazlWU0dodVh6aGZUbmhhY1ZGR1FYWmpUaTE2YXpGSVdURTJibGgyZUVaQmIzZHFOWEEyV1U0dGQyaExabU5zZUhCM2MxSlNRak5ZZWw5R1YzVnphemMwUkhkNWNscHdOemRrZDNad1FSSVhUbWxKTm1Gd1pqSkRZbUpJYTFCSlVEWXRUSEF0UVdNYUlrRkVjM0k1WmxKVU1WZDFiVmg2T1UxbVpERkthWGRtT0V0ekxVSlVhbVZXUkhjIiwiZmN2IjoiMyIsImVpIjoiTmlJNmFwZjJDYmJIa1BJUDYtTHAtQWMiLCJxYyI6IkNpSnRhV3hwZEdGeWVTQnpaWEJoY21GMGFXOXVJSEJoZVNCallXeGpkV3hoZEc5eUVBQjlKcXBsUHciLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvIHlvdSBnZXQgZm9yIHNlcGFyYXRpb24gcGF5IGluIHRoZSBhcm15PyIsImxrIjoiR2pKb2IzY2diWFZqYUNCa2J5QjViM1VnWjJWMElHWnZjaUJ6WlhCaGNtRjBhVzl1SUhCaGVTQnBiaUIwYUdVZ1lYSnRlUSIsImJzIjoiYzVXUU1RdkNNQlNFY2Mza0hFVGVxTFZnRzhXMXE1TnJCNmRIR2swdzdTdHBZc21fMXl5NldLamJEZmNkSDhkcXRqM1RDSjVBb3BYQm9sZlFHbXM4dWdpRDZ0R2hOOVJCajdFU0dkX29tV1YyWmJ0YW93Y3pnTmNLeW1KZkZ1Q0NWV0M2TDlTWUp6bXBLcEh6Ykp4ZFp4ZVdKLXMyU0oySUNZZUVpa0tjS3JIbXF4UW1aUl9zOE5sckNDSUZ1Q3NQTjNJX0pwTWZ1dmI5eDVFTF9UZTJYTHdBIiwiaWQiOiJmY19OaUk2YXBmMkNiYkhrUElQNi1McC1BY180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS00yNDJiREZYZDFCSk4wRnFWazlWU0dodVh6aGZUbmhhY1ZGR1FYWmpUaTE2YXpGSVdURTJibGgyZUVaQmIzZHFOWEEyV1U0dGQyaExabU5zZUhCM2MxSlNRak5ZZWw5R1YzVnphemMwUkhkNWNscHdOemRrZDNad1FSSVhUbWxKTm1Gd1pqSkRZbUpJYTFCSlVEWXRUSEF0UVdNYUlrRkVjM0k1WmxKVU1WZDFiVmg2T1UxbVpERkthWGRtT0V0ekxVSlVhbVZXUkhjIiwiZmN2IjoiMyIsImVpIjoiTmlJNmFwZjJDYmJIa1BJUDYtTHAtQWMiLCJxYyI6IkNpSnRhV3hwZEdGeWVTQnpaWEJoY21GMGFXOXVJSEJoZVNCallXeGpkV3hoZEc5eUVBQjlKcXBsUHciLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvIHlvdSBnZXQgZm9yIHNlcGFyYXRpb24gcGF5IGluIHRoZSBhcm15PyIsImxrIjoiR2pKb2IzY2diWFZqYUNCa2J5QjViM1VnWjJWMElHWnZjaUJ6WlhCaGNtRjBhVzl1SUhCaGVTQnBiaUIwYUdVZ1lYSnRlUSIsImJzIjoiYzVXUU1RdkNNQlNFY2Mza0hFVGVxTFZnRzhXMXE1TnJCNmRIR2swdzdTdHBZc21fMXl5NldLamJEZmNkSDhkcXRqM1RDSjVBb3BYQm9sZlFHbXM4dWdpRDZ0R2hOOVJCajdFU0dkX29tV1YyWmJ0YW93Y3pnTmNLeW1KZkZ1Q0NWV0M2TDlTWUp6bXBLcEh6Ykp4ZFp4ZVdKLXMyU0oySUNZZUVpa0tjS3JIbXF4UW1aUl9zOE5sckNDSUZ1Q3NQTjNJX0pwTWZ1dmI5eDVFTF9UZTJYTHdBIiwiaWQiOiJmY19OaUk2YXBmMkNiYkhrUElQNi1McC1BY180In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Military severance pay is a one-time lump-sum payment calculated using the formula: Years of Active Service × 2 × Monthly Basic Pay. The minimum creditable service used in this equation is 3 years, while the maximum is capped at 19 years. Defense Finance Accounting Service (DFAS) (.mil)",
+        "snippet_links": [
+          {
+            "link": "https://www.dfas.mil/retiredmilitary/plan/separation-payments/disability-severance-pay/"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "Years of Active Service × 2 × Monthly Basic Pay"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Required Variables"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "To calculate your exact severance pay, you will need:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Years of Active Service: Total years of service including inactive duty points for reserves."
+          },
+          {
+            "snippet": "Monthly Basic Pay: Your current monthly base pay corresponding to your rank and time in service. Defense Finance Accounting Service (DFAS) (.mil)",
+            "snippet_links": [
+              {
+                "link": "https://www.dfas.mil/retiredmilitary/plan/separation-payments/disability-severance-pay/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Official Military Calculators"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Access the official DoD calculators to determine your specific separation or disability severance pay:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Disability Separations: Use the Medical Final Pay Calculator provided by MyArmyBenefits for public or CAC-authorized estimates.",
+            "snippet_links": [
+              {
+                "text": "Medical Final Pay Calculator",
+                "link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Retirement-Calculator/Medical-Calculator/Medical-Final-Pay-Calculator"
+              }
+            ]
+          },
+          {
+            "snippet": "Involuntary Separation Pay (Non-Disability): View full eligibility rules and calculation formulas on the Involuntary Separation Pay page maintained by the Defense Department.",
+            "snippet_links": [
+              {
+                "text": "Involuntary Separation Pay",
+                "link": "https://militarypay.defense.gov/Benefits/Separation-Pay/"
+              }
+            ]
+          },
+          {
+            "snippet": "General Compensation: Check your base pay figures on the Military Pay Calculator hosted by Military.com to ensure accurate inputs. MyArmyBenefits (.mil) +2",
+            "snippet_links": [
+              {
+                "text": "Military Pay Calculator",
+                "link": "https://www.military.com/benefits/military-pay/calculator"
+              },
+              {
+                "link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Retirement-Calculator/Medical-Calculator/Medical-Final-Pay-Calculator"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "Medical Final Pay | The Official Army Benefits Website - MyArmyBenefits",
+        "link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Retirement-Calculator/Medical-Calculator/Medical-Final-Pay-Calculator",
+        "snippet": "Estimate pay for a medical separation or retirement benefits based on DoD disability percentage or years of service to assist in m...",
+        "source": "MyArmyBenefits (.mil)",
+        "index": 0
+      },
+      {
+        "title": "Involuntary Separation Pay (Non-Disability)",
+        "link": "https://militarypay.defense.gov/Benefits/Separation-Pay/",
+        "snippet": "Half ISP is 50% of the calculated amount of full separation pay. Full ISP Eligibility: Full payment of non-disability ISP is autho...",
+        "source": "U.S. Department of War (.gov)",
+        "index": 1
+      },
+      {
+        "title": "Disability Severance Pay - DFAS",
+        "link": "https://www.dfas.mil/retiredmilitary/plan/separation-payments/disability-severance-pay/",
+        "snippet": "Calculation and Payment Disability severance pay is a one-time lump sum payment. The amount equals 2 months of basic pay for each ...",
+        "source": "Defense Finance Accounting Service (DFAS) (.mil)",
+        "index": 2
+      },
+      {
+        "title": "Military Pay Calculator | Military.com",
+        "link": "https://www.military.com/benefits/military-pay/calculator",
+        "snippet": "Use the Military.com Military Pay Calculator to easily find your military pay. + See More. 2026 Military Pay. The Military Pay Cal...",
+        "source": "Military.com",
+        "index": 3
+      },
+      {
+        "title": "2026 Military Pay Calculator",
+        "link": "https://veteran.com/military-pay-calculator/",
+        "snippet": "Years of service and rank determine military pay. Basic pay is calculated on a monthly basis and divided into two paychecks, which you'll receive twice a month. So...",
+        "source": "Veteran.com",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM9kiGxSR-HR224PHdosm9T_KE2EhZHgIH8lOHHUqTVM2cv9QUGh8dK3ZDplnLHRUkdbNCwtqBpNR32Eg",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://veteran.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 4
+      },
+      {
+        "title": "Buy Back Military Time for Retirement",
+        "link": "https://myfedbenefitshelp.com/benefits/military-time/",
+        "snippet": "Q: What is meant by \\\"Military Basic Pay\\\"? A: \\\"Basic pay\\\" simply refers to the base salary or wage that was received during your service. Basic pay is based on the ...",
+        "source": "MyFEDBenefits",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNr4ofPY6GV5a2dbF3iqv0CRFp9sd_ZgPVjp72xnqDDg9Mw8nsXJMAG0nfk8WTT6_8Q9orWd5eqUkdTtk",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://myfedbenefitshelp.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "Calculators - Military Compensation and Financial Readiness",
+        "link": "https://militarypay.defense.gov/calculators/",
+        "snippet": "Medical BRS Calculator: This calculator estimates medical separation or retirement benefits based on DoD disability percentage or years of service under the Blende...",
+        "source": "U.S. Department of War (.gov)",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSX6SUGIUvT-fVc8Qpe8aWIxbxueIL7js7QIhv1KLV12UOHwrXFVNBrGFW49ipFAUkRCSHcmcIJxt408W8",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://militarypay.defense.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "Military Involuntary Separation Pay Rules & Eligibility",
+        "link": "https://themilitarywallet.com/involuntary-separation-pay/",
+        "snippet": "Military Separation Pay Eligibility (Non-Disability) Military separation pay is comparable to the severance pay you might find in the civilian world. However, not ...",
+        "source": "The Military Wallet",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4rgqhSJbvcm2_QOoFBW8-epQnc5-U6ZZZ_pGtiRls1jfT_dv93tSRgGHNv2vi0DZ5hci3gCJjUhZFAMs",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://themilitarywallet.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Final Pay Calculator",
+      "link": "https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8QFnoECCQQAQ",
+      "displayed_link": "https://militarypay.defense.gov › Calculators › Final-Pay-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "This calculator is designed to assist Service members in projecting their pension under the Final Pay retirement plan. I am in the. Active Component. Reserve ...",
+      "snippet_highlighted_words": [
+        "calculator",
+        "Pay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator is designed to assist Service members in projecting their pension under the Final Pay retirement plan. I am in the. Active Component. Reserve ...",
+          "source_info_link": "https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2FCalculators%2FFinal-Pay-Calculator%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/#:~:text=This%20calculator%20is%20designed%20to,Reserve%20Component"
+    },
+    {
+      "position": 2,
+      "title": "Involuntary Military Separation Pay: How It Works",
+      "link": "https://www.hillandponton.com/what-is-military-separation-pay/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hillandponton.com/what-is-military-separation-pay/&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8QFnoECDEQAQ",
+      "displayed_link": "https://www.hillandponton.com › what-is-military-separ...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAB8ElEQVR4Ae2WAUQDYRTHDwApxjBhBNMwoCEw0EJhE1IAAzATWCsJJmULrWQwKKnQQixKRBuFEGkzDCQ2hMwY7fX9z423b7vbXSZk-GHPu-93773vu2-KPzL3pwyF_0CozCa9Ao_AxXBrcYeWiLwxLeZmOXaBU4p5AOJ6woAgKyBGXRDmD2mLhwTvLG9L8NbxrD_5JMWQH-5qKSQsKaDXElTChRAwWawzNzHN1i13CPlbIdFAaDcrBBgLy0__TujbIRVvfL2PUF67zoNlU0JlxBZJXBHI5Yu3QvLSVziTyLdzLAuJKHhdKJHi2qST3HOrWKmSMhXvV2GtPcdeQuAxEO6pkvE12j26r1Y-PiFEi_Vm6GPrhnsL0Sa0oQfOhdRrq0WEKtFS_J5fOSawnbnbl2RhJssiJgv5-Qp1MRpdzFw8Xh6cFwjS7xadKRMbD3gGLwBpj_OcZh3TFXr15vfVaKrzm1w6hFSdI9oLoWKLriLPCEubpt5olkB7Zsux05u2FLsWx2SgQrQQAuRAiIowR8RQsRmh5YMPKdqKOUKGnYpdi92K-RLR2MAqBDj5qM4RTKkVYeeixcBqhWY_3m6dbylIm7kPQ_x64p8p3AxM5NBiNcPrCTGjF2aXp1MCcbt0AbulHMQcUswFhn-ihsKB8QMkF_kacfPgfQAAAABJRU5ErkJggg.png",
+      "snippet": "How to Calculate Involuntary Separation Pay · Multiply 10% by your years of active service. · Multiply the result by 12. · Multiply that number by your most recent ...",
+      "snippet_highlighted_words": [
+        "Multiply 10% by your years of active service"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Types of Military Separation Pay",
+            "link": "https://www.hillandponton.com/what-is-military-separation-pay/#section_2"
+          },
+          {
+            "title": "How to Calculate Involuntary...",
+            "link": "https://www.hillandponton.com/what-is-military-separation-pay/#section_4"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "How to Calculate Involuntary Separation Pay · Multiply 10% by your years of active service. · Multiply the result by 12. · Multiply that number by your most recent ...",
+          "source_info_link": "https://www.hillandponton.com/what-is-military-separation-pay/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAB8ElEQVR4Ae2WAUQDYRTHDwApxjBhBNMwoCEw0EJhE1IAAzATWCsJJmULrWQwKKnQQixKRBuFEGkzDCQ2hMwY7fX9z423b7vbXSZk-GHPu-93773vu2-KPzL3pwyF_0CozCa9Ao_AxXBrcYeWiLwxLeZmOXaBU4p5AOJ6woAgKyBGXRDmD2mLhwTvLG9L8NbxrD_5JMWQH-5qKSQsKaDXElTChRAwWawzNzHN1i13CPlbIdFAaDcrBBgLy0__TujbIRVvfL2PUF67zoNlU0JlxBZJXBHI5Yu3QvLSVziTyLdzLAuJKHhdKJHi2qST3HOrWKmSMhXvV2GtPcdeQuAxEO6pkvE12j26r1Y-PiFEi_Vm6GPrhnsL0Sa0oQfOhdRrq0WEKtFS_J5fOSawnbnbl2RhJssiJgv5-Qp1MRpdzFw8Xh6cFwjS7xadKRMbD3gGLwBpj_OcZh3TFXr15vfVaKrzm1w6hFSdI9oLoWKLriLPCEubpt5olkB7Zsux05u2FLsWx2SgQrQQAuRAiIowR8RQsRmh5YMPKdqKOUKGnYpdi92K-RLR2MAqBDj5qM4RTKkVYeeixcBqhWY_3m6dbylIm7kPQ_x64p8p3AxM5NBiNcPrCTGjF2aXp1MCcbt0AbulHMQcUswFhn-ihsKB8QMkF_kacfPgfQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.hillandponton.com/what-is-military-separation-pay/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.hillandponton.com%2Fwhat-is-military-separation-pay%2F",
+      "source": "Hill & Ponton",
+      "read_more_link": "https://www.hillandponton.com/what-is-military-separation-pay/#:~:text=How%20to%20Calculate%20Involuntary%20Separation,Pay&text=Multiply%2010%25%20by%20your%20years,of%20active%20service.&text=Multiply%20the%20result%20by%2012.&text=Multiply%20that%20number%20by%20your,most%20recent%20monthly%20basic%20pay."
+    },
+    {
+      "position": 3,
+      "title": "Medical Final Pay - Retirement Calculator",
+      "link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Retirement-Calculator/Medical-Calculator/Medical-Final-Pay-Calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Retirement-Calculator/Medical-Calculator/Medical-Final-Pay-Calculator&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8QFnoECCcQAQ",
+      "displayed_link": "https://myarmybenefits.us.army.mil › Medical-Final-Pa...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png",
+      "snippet": "Estimate pay for a medical separation or retirement benefits based on DoD disability percentage or years of service.",
+      "snippet_highlighted_words": [
+        "Estimate pay for a medical separation or retirement benefits"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Estimate pay for a medical separation or retirement benefits based on DoD disability percentage or years of service.",
+          "source_info_link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Retirement-Calculator/Medical-Calculator/Medical-Final-Pay-Calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Retirement-Calculator/Medical-Calculator/Medical-Final-Pay-Calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyarmybenefits.us.army.mil%2FNEW-Benefit-Calculators%2FRetirement-Calculator%2FMedical-Calculator%2FMedical-Final-Pay-Calculator",
+      "source": "MyArmyBenefits (.mil)",
+      "read_more_link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Retirement-Calculator/Medical-Calculator/Medical-Final-Pay-Calculator#:~:text=Estimate%20pay%20for%20a%20medical,if%20eligible%2C%20a%20longevity%20retirement."
+    },
+    {
+      "position": 4,
+      "title": "Calculators",
+      "link": "https://militarypay.defense.gov/calculators/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/calculators/&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8QFnoECCYQAQ",
+      "displayed_link": "https://militarypay.defense.gov › calculators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "Medical Final Pay Calculator: This calculator estimates medical separation or retirement benefits based on DoD disability percentage or years of service ...",
+      "snippet_highlighted_words": [
+        "Medical Final Pay Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Medical Final Pay Calculator: This calculator estimates medical separation or retirement benefits based on DoD disability percentage or years of service ...",
+          "source_info_link": "https://militarypay.defense.gov/calculators/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/calculators/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2Fcalculators%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/calculators/#:~:text=Medical%20Final%20Pay%20Calculator%3A%20This,prior%20to%20September%208%2C%201980."
+    },
+    {
+      "position": 5,
+      "title": "Military Pay Calculator",
+      "link": "https://www.military.com/benefits/military-pay/calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/benefits/military-pay/calculator&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8QFnoECCUQAQ",
+      "displayed_link": "https://www.military.com › benefits › calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "snippet": "2026 Military Pay. The Military Pay Calculator is the perfect tool to help you figure out how much you make as a U.S. military service member.",
+      "snippet_highlighted_words": [
+        "The Military Pay Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "2026 Military Pay. The Military Pay Calculator is the perfect tool to help you figure out how much you make as a U.S. military service member.",
+          "source_info_link": "https://www.military.com/benefits/military-pay/calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/benefits/military-pay/calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fbenefits%2Fmilitary-pay%2Fcalculator",
+      "source": "Military.com",
+      "read_more_link": "https://www.military.com/benefits/military-pay/calculator#:~:text=2026%20Military%20Pay,a%20U.S.%20military%20service%20member."
+    },
+    {
+      "position": 6,
+      "title": "Military Retirement Calculator, Pay, Pension",
+      "link": "https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8QFnoECDwQAQ",
+      "displayed_link": "https://www.militaryonesource.mil › personal-finance",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png",
+      "date": "Mar 26, 2026",
+      "snippet": "You can get a solid estimate in less than five minutes using free retirement pension calculators for the High-36 and Final Pay legacy retirement systems.",
+      "snippet_highlighted_words": [
+        "free retirement pension calculators"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You can get a solid estimate in less than five minutes using free retirement pension calculators for the High-36 and Final Pay legacy retirement systems.",
+          "source_info_link": "https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militaryonesource.mil%2Ffinancial-legal%2Fpersonal-finance%2Fmilitary-retirement-calculators%2F",
+      "source": "Military OneSource (.mil)",
+      "read_more_link": "https://www.militaryonesource.mil/financial-legal/personal-finance/military-retirement-calculators/#:~:text=You%20can%20get%20a%20solid,offered%20by%20the%20War%20Department."
+    },
+    {
+      "position": 7,
+      "title": "Medical Calculator | An Official Air Force Benefits Website",
+      "link": "https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Retirement-Calculator/Medical-Calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Retirement-Calculator/Medical-Calculator&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8QFnoECDYQAQ",
+      "displayed_link": "https://myairforcebenefits.us.af.mil › Retirement-Calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWOgGBw-eEhs957dWlevXmUmVs_z58-Zjxw5ovPo4SN-ht6enoTQ0LCVp06dEj577hxBQ758-cJ0_PhxLW8vr63bt263Z0hPT69SU1W709benhocHCJMyIBz587xuLq6rlRSVHqyeNFiT4awsLBiCXGJ15oamucE-AVs8Gl-8uQJY21trZaUpNRzoKX3165dp8-wefNmbWkp6SdAzT_ERMVm2NrYWm_dsgWrV06eOMFtaWW5WlBA8EeAf8DCEydO8DKkpqYyOzk6FoMEgfirvp7-nuVLl0lOmzqNH6YxMyNDauOGDVp-vn7rREVFPygpKN6dMmWKOdzkZcuWSvh4e6_k5-P_IyQo9MPI0Ohcf1-_w6IFC3k72zt4rSytcs3NzE9JSkh-EBYS_hwZEdm3dNkydrgB_f39bHPnzo3V0tS8CzTkN9A7v_V09a62trTG5-fmZSspKt4TERb5CnKlgb7B-YULFzpi-C88LFy2sbGxUlVZ5TLQFe9VlJUf1NfVFVdVVpUDwwhkwGNdHZ2zU6dMSYmLi-PHGspRUVFiwDAodHZynp2Xm5dVXFScWlJcEg8Mp1w3V9cJkyZO9ElPS-fBG8-9PX3S5WUVsZkZmXk21tbr7O3slyQmJuaVl5eFHT58WJBgMgUGnqebq9uW5KSk9piY6O7Q0NAJwUHB_UCxZWtWr7YiaMDePXtEgU73ALqgChiQ57W1tM_HxcTmpaWmmZ84fpyX6EyWm5Orl5CQ0BcTHdMG9LcqA60AAOJP2MG383GbAAAAAElFTkSuQmCC.png",
+      "snippet": "Estimate pay for a medical separation or retirement benefits based on DoD disability percentage or years of service to assist in making an informed decision on ...",
+      "snippet_highlighted_words": [
+        "Estimate pay for a medical separation or retirement benefits"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Estimate pay for a medical separation or retirement benefits based on DoD disability percentage or years of service to assist in making an informed decision on ...",
+          "source_info_link": "https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Retirement-Calculator/Medical-Calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWOgGBw-eEhs957dWlevXmUmVs_z58-Zjxw5ovPo4SN-ht6enoTQ0LCVp06dEj577hxBQ758-cJ0_PhxLW8vr63bt263Z0hPT69SU1W709benhocHCJMyIBz587xuLq6rlRSVHqyeNFiT4awsLBiCXGJ15oamucE-AVs8Gl-8uQJY21trZaUpNRzoKX3165dp8-wefNmbWkp6SdAzT_ERMVm2NrYWm_dsgWrV06eOMFtaWW5WlBA8EeAf8DCEydO8DKkpqYyOzk6FoMEgfirvp7-nuVLl0lOmzqNH6YxMyNDauOGDVp-vn7rREVFPygpKN6dMmWKOdzkZcuWSvh4e6_k5-P_IyQo9MPI0Ohcf1-_w6IFC3k72zt4rSytcs3NzE9JSkh-EBYS_hwZEdm3dNkydrgB_f39bHPnzo3V0tS8CzTkN9A7v_V09a62trTG5-fmZSspKt4TERb5CnKlgb7B-YULFzpi-C88LFy2sbGxUlVZ5TLQFe9VlJUf1NfVFVdVVpUDwwhkwGNdHZ2zU6dMSYmLi-PHGspRUVFiwDAodHZynp2Xm5dVXFScWlJcEg8Mp1w3V9cJkyZO9ElPS-fBG8-9PX3S5WUVsZkZmXk21tbr7O3slyQmJuaVl5eFHT58WJBgMgUGnqebq9uW5KSk9piY6O7Q0NAJwUHB_UCxZWtWr7YiaMDePXtEgU73ALqgChiQ57W1tM_HxcTmpaWmmZ84fpyX6EyWm5Orl5CQ0BcTHdMG9LcqA60AAOJP2MG383GbAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Retirement-Calculator/Medical-Calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyairforcebenefits.us.af.mil%2FNEW-Benefit-Calculators%2FRetirement-Calculator%2FMedical-Calculator",
+      "source": "My Air Force Benefits (.mil)",
+      "read_more_link": "https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Retirement-Calculator/Medical-Calculator#:~:text=Estimate%20pay%20for%20a%20medical,if%20eligible%2C%20a%20longevity%20retirement."
+    },
+    {
+      "position": 8,
+      "title": "Separation Payments",
+      "link": "https://www.dfas.mil/retiredmilitary/plan/separation-payments/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dfas.mil/retiredmilitary/plan/separation-payments/&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8QFnoECDsQAQ",
+      "displayed_link": "https://www.dfas.mil › retiredmilitary › plan › separatio...",
+      "favicon": "https://serpapi.com/searches/6a3a2235a4817cd8a78eed2d/images/lZCsa5ONAKZlliNd9U0Egr2ebRhHIbedKiHQRsUSnNo.png",
+      "date": "Jun 26, 2024",
+      "snippet": "Separation Payments. Members who separate from the military before they are eligible for retirement may receive separation or severance pay.",
+      "snippet_highlighted_words": [
+        "Separation Payments",
+        "military",
+        "severance pay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Separation Payments. Members who separate from the military before they are eligible for retirement may receive separation or severance pay.",
+          "source_info_link": "https://www.dfas.mil/retiredmilitary/plan/separation-payments/",
+          "icon": "https://serpapi.com/searches/6a3a2235a4817cd8a78eed2d/images/lZCsa5ONAKZlliNd9U0Egs2_qBb3CITjzsNaAJ8Yw5_f8SEzAlZydGNPiMl8B-6v.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.dfas.mil/retiredmilitary/plan/separation-payments/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dfas.mil%2Fretiredmilitary%2Fplan%2Fseparation-payments%2F",
+      "source": "Defense Finance Accounting Service (DFAS) (.mil)",
+      "read_more_link": "https://www.dfas.mil/retiredmilitary/plan/separation-payments/#:~:text=Separation%20Payments,receive%20separation%20or%20severance%20pay."
+    },
+    {
+      "position": 9,
+      "title": "Federal Severance Pay Calculator",
+      "link": "https://unitedbenefits.com/federal-severance-pay-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://unitedbenefits.com/federal-severance-pay-calculator/&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8QFnoECDUQAQ",
+      "displayed_link": "https://unitedbenefits.com › federal-severance-pay-calc...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEUeH18CAlIVFFufHBv___-GhqBPT3nw8PRZHkp-HTTMzNU4OGxwcJHe3uWhoLW4uMZ0MrGXAAAA4UlEQVQokYVSgZaEIAiEWcA7Ff3_vz2027LX1s4rScdwGKHXL93g50WT5AuwkyVfoPgnYXJB4z3t45mljCdSbGBeSXNxGwsunayJ8qpWt_kWuUs91BJiESPWEWMMPTcktzn7RDJvP34iW1V3vSGVEbL67ZnELmUhbe59b-K8ksRJiAGe9YPEl7RhoItabTmcMk0ZtJLEplqHy-EtTt4-XbalC_bLJpML2fCQdlHLxvOFAaUgwiEIUR61VEv3ajlb9X6YMGvvYmFb2JH4bIJFIqMCi04yG8WeTMDedHh_fmnNPyN_CvC3yrDUAAAAAElFTkSuQmCC.png",
+      "snippet": "To estimate your potential severance pay, simply enter your annual basic pay, years of service, and date of birth in the calculator below. The tool will ...",
+      "snippet_highlighted_words": [
+        "enter your annual basic pay, years of service, and date of birth in the calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "To estimate your potential severance pay, simply enter your annual basic pay, years of service, and date of birth in the calculator below. The tool will ...",
+          "source_info_link": "https://unitedbenefits.com/federal-severance-pay-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEUeH18CAlIVFFufHBv___-GhqBPT3nw8PRZHkp-HTTMzNU4OGxwcJHe3uWhoLW4uMZ0MrGXAAAA4UlEQVQokYVSgZaEIAiEWcA7Ff3_vz2027LX1s4rScdwGKHXL93g50WT5AuwkyVfoPgnYXJB4z3t45mljCdSbGBeSXNxGwsunayJ8qpWt_kWuUs91BJiESPWEWMMPTcktzn7RDJvP34iW1V3vSGVEbL67ZnELmUhbe59b-K8ksRJiAGe9YPEl7RhoItabTmcMk0ZtJLEplqHy-EtTt4-XbalC_bLJpML2fCQdlHLxvOFAaUgwiEIUR61VEv3ajlb9X6YMGvvYmFb2JH4bIJFIqMCi04yG8WeTMDedHh_fmnNPyN_CvC3yrDUAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://unitedbenefits.com/federal-severance-pay-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Funitedbenefits.com%2Ffederal-severance-pay-calculator%2F",
+      "source": "United Benefits",
+      "read_more_link": "https://unitedbenefits.com/federal-severance-pay-calculator/#:~:text=The%20Federal%20Severance%20Pay%20Calculator,calculator%20below.%20The%20tool%20will"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+separation+pay+calculator&sca_esv=c510ba4e6526f391&ei=NiI6apf2CbbHkPIP6-Lp-Ac&start=10&sa=N&sstk=AU9db-DM4lBWPXS1THnzOILdFjg34aekUNZxAOfQNJE7qa3Pquh0tcw179mZpdPPV6QcCGuJTvPk4JjzfmDnE-EH4NTUuF1v4-rhBg&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8Q8NMDegQINBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+separation+pay+calculator&sca_esv=c510ba4e6526f391&ei=NiI6apf2CbbHkPIP6-Lp-Ac&start=10&sa=N&sstk=AU9db-DM4lBWPXS1THnzOILdFjg34aekUNZxAOfQNJE7qa3Pquh0tcw179mZpdPPV6QcCGuJTvPk4JjzfmDnE-EH4NTUuF1v4-rhBg&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8Q8tMDegQINBAE",
+      "3": "https://www.google.com/search?q=military+separation+pay+calculator&sca_esv=c510ba4e6526f391&ei=NiI6apf2CbbHkPIP6-Lp-Ac&start=20&sa=N&sstk=AU9db-DM4lBWPXS1THnzOILdFjg34aekUNZxAOfQNJE7qa3Pquh0tcw179mZpdPPV6QcCGuJTvPk4JjzfmDnE-EH4NTUuF1v4-rhBg&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8Q8tMDegQINBAG",
+      "4": "https://www.google.com/search?q=military+separation+pay+calculator&sca_esv=c510ba4e6526f391&ei=NiI6apf2CbbHkPIP6-Lp-Ac&start=30&sa=N&sstk=AU9db-DM4lBWPXS1THnzOILdFjg34aekUNZxAOfQNJE7qa3Pquh0tcw179mZpdPPV6QcCGuJTvPk4JjzfmDnE-EH4NTUuF1v4-rhBg&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8Q8tMDegQINBAI",
+      "5": "https://www.google.com/search?q=military+separation+pay+calculator&sca_esv=c510ba4e6526f391&ei=NiI6apf2CbbHkPIP6-Lp-Ac&start=40&sa=N&sstk=AU9db-DM4lBWPXS1THnzOILdFjg34aekUNZxAOfQNJE7qa3Pquh0tcw179mZpdPPV6QcCGuJTvPk4JjzfmDnE-EH4NTUuF1v4-rhBg&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8Q8tMDegQINBAK",
+      "6": "https://www.google.com/search?q=military+separation+pay+calculator&sca_esv=c510ba4e6526f391&ei=NiI6apf2CbbHkPIP6-Lp-Ac&start=50&sa=N&sstk=AU9db-DM4lBWPXS1THnzOILdFjg34aekUNZxAOfQNJE7qa3Pquh0tcw179mZpdPPV6QcCGuJTvPk4JjzfmDnE-EH4NTUuF1v4-rhBg&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8Q8tMDegQINBAM",
+      "7": "https://www.google.com/search?q=military+separation+pay+calculator&sca_esv=c510ba4e6526f391&ei=NiI6apf2CbbHkPIP6-Lp-Ac&start=60&sa=N&sstk=AU9db-DM4lBWPXS1THnzOILdFjg34aekUNZxAOfQNJE7qa3Pquh0tcw179mZpdPPV6QcCGuJTvPk4JjzfmDnE-EH4NTUuF1v4-rhBg&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8Q8tMDegQINBAO",
+      "8": "https://www.google.com/search?q=military+separation+pay+calculator&sca_esv=c510ba4e6526f391&ei=NiI6apf2CbbHkPIP6-Lp-Ac&start=70&sa=N&sstk=AU9db-DM4lBWPXS1THnzOILdFjg34aekUNZxAOfQNJE7qa3Pquh0tcw179mZpdPPV6QcCGuJTvPk4JjzfmDnE-EH4NTUuF1v4-rhBg&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8Q8tMDegQINBAQ",
+      "9": "https://www.google.com/search?q=military+separation+pay+calculator&sca_esv=c510ba4e6526f391&ei=NiI6apf2CbbHkPIP6-Lp-Ac&start=80&sa=N&sstk=AU9db-DM4lBWPXS1THnzOILdFjg34aekUNZxAOfQNJE7qa3Pquh0tcw179mZpdPPV6QcCGuJTvPk4JjzfmDnE-EH4NTUuF1v4-rhBg&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8Q8tMDegQINBAS",
+      "10": "https://www.google.com/search?q=military+separation+pay+calculator&sca_esv=c510ba4e6526f391&ei=NiI6apf2CbbHkPIP6-Lp-Ac&start=90&sa=N&sstk=AU9db-DM4lBWPXS1THnzOILdFjg34aekUNZxAOfQNJE7qa3Pquh0tcw179mZpdPPV6QcCGuJTvPk4JjzfmDnE-EH4NTUuF1v4-rhBg&ved=2ahUKEwiX6Zvk2JyVAxW2I0QIHWtxGn8Q8tMDegQINBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+separation+pay+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+separation+pay+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+separation+pay+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+separation+pay+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+separation+pay+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+separation+pay+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+separation+pay+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+separation+pay+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+separation+pay+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+separation+pay+calculator&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+separation+pay+calculator&start=90"
+    }
+  }
+}

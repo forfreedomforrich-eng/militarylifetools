@@ -1,0 +1,409 @@
+{
+  "search_metadata": {
+    "id": "6a3a183612eb14a171825942",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/SP9hjT5mosp27rljpem3xg/6a3a183612eb14a171825942.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/SP9hjT5mosp27rljpem3xg/6a3a183612eb14a171825942.json_with_pixel_position",
+    "created_at": "2026-06-23 05:23:02 UTC",
+    "processed_at": "2026-06-23 05:23:02 UTC",
+    "google_url": "https://www.google.com/search?q=cosplay+fabric+yardage+calculator&oq=cosplay+fabric+yardage+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/SP9hjT5mosp27rljpem3xg/6a3a183612eb14a171825942.html",
+    "total_time_taken": 0.78
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "cosplay fabric yardage calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "cosplay fabric yardage calculator",
+    "total_results": 108,
+    "time_taken_displayed": 0.17,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How much does 10 yards of fabric cover?",
+      "type": "ai_overview",
+      "page_token": "11jGtXicHdBdUqMwAADg2cv4aJMgXduZjjO0EIsbkEAC4cWhCT8uCWClBXnzLp7K0zjjd4Tv80u_du33n2szjsP7drWapum27vtal7eyN6vi_aOTK1lofSpku13_XcOHSu7cy9HZvx2diA0DP1AQW4PD3JlJr0ZJqmJhfKjSeSw4rwjnpEC2KIC-ks7bixjYDIx7YmyX6yEkuL_L8fws06AiYLJjsHkMWniNuTeyFNiJdUQcUVwyAWjinBmjTbJwnQD2QbHnpK0KI6DP0qI8d303PDRvAhLEELfjxRMyJaPKxHLKalSY8VwayimDGXPvbZLqp5y1UBkq6EHNcRZZqvMst1FhiSUSmX88AR9EqIWJ2URlF1wCvHFS2r9GjC7yvzYc-0vAmizfw4FAjzArh4V2QmH0-oRhz_H8T003lbzurJvfz91LZcbtcO7rHzmxgH8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=11jGtXicHdBdUqMwAADg2cv4aJMgXduZjjO0EIsbkEAC4cWhCT8uCWClBXnzLp7K0zjjd4Tv80u_du33n2szjsP7drWapum27vtal7eyN6vi_aOTK1lofSpku13_XcOHSu7cy9HZvx2diA0DP1AQW4PD3JlJr0ZJqmJhfKjSeSw4rwjnpEC2KIC-ks7bixjYDIx7YmyX6yEkuL_L8fws06AiYLJjsHkMWniNuTeyFNiJdUQcUVwyAWjinBmjTbJwnQD2QbHnpK0KI6DP0qI8d303PDRvAhLEELfjxRMyJaPKxHLKalSY8VwayimDGXPvbZLqp5y1UBkq6EHNcRZZqvMst1FhiSUSmX88AR9EqIWJ2URlF1wCvHFS2r9GjC7yvzYc-0vAmizfw4FAjzArh4V2QmH0-oRhz_H8T003lbzurJvfz91LZcbtcO7rHzmxgH8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFqTXdlbXhxU1dzeGExVkJOM1poVUhBdFpXMUJWMnhzTTFoRlMyRlVZblJKWjFWUmNqaFRRMmRqZDBwaE0xTXRiakp2Ym1odFRGOXRTRE0xVW1aR1lUUmpka1JxZDBNMU0yOUhZVVJvVFVKRGMwaHNiRlJGTFdaUlVSSVhUbmhuTm1GeVNHOUNkRU5wTlU1dlVIcHpialJ2UVZrYUlrRkVjM0k1WmxOS2FESnhXbUpQWWtVelQwRnBUMjA0Tkhnd1QyMXVRa1l3V0djIiwiZmN2IjoiMyIsImVpIjoiTnhnNmFySG9CdENpNU5vUHpzbjRvQVkiLCJxYyI6IkNpRmpiM053YkdGNUlHWmhZbkpwWXlCNVlYSmtZV2RsSUdOaGJHTjFiR0YwYjNJUUFIMWNaX0EtIiwicXVlc3Rpb24iOiJIb3cgbXVjaCBkb2VzIDEwIHlhcmRzIG9mIGZhYnJpYyBjb3Zlcj8iLCJsayI6IkdpWm9iM2NnYlhWamFDQmtiMlZ6SURFd0lIbGhjbVJ6SUc5bUlHWmhZbkpwWXlCamIzWmxjZyIsImJzIjoiYzQyUHZRckNNQlJHY2IyVG8yUzY0TDh1TlQ1QVZqUG80dXB5VFc1Sm9EWWxiWlUta2E4cHJTSklCN3VmODNFLU9NUHlFQjU0cTQxREc3akVYWUlOUlZ0aVNER2xhX1FHVGJoelZISWxGbTRRQ2g3MjdhZ05xTkZRWnVxTUtzWk9wcnpwU1JwelpxdWtGRW5MVkdHSTVEc0pMckQ1OWxOay1wUjFlT19DNUhtU1c3RjJRd1U0d2t5WFdEbU9qSlFqRmNWdjNSdFdjaTZtX2o4M0hyMEEiLCJpZCI6ImZjX054ZzZhckhvQnRDaTVOb1B6c240b0FZXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFqTXdlbXhxU1dzeGExVkJOM1poVUhBdFpXMUJWMnhzTTFoRlMyRlVZblJKWjFWUmNqaFRRMmRqZDBwaE0xTXRiakp2Ym1odFRGOXRTRE0xVW1aR1lUUmpka1JxZDBNMU0yOUhZVVJvVFVKRGMwaHNiRlJGTFdaUlVSSVhUbmhuTm1GeVNHOUNkRU5wTlU1dlVIcHpialJ2UVZrYUlrRkVjM0k1WmxOS2FESnhXbUpQWWtVelQwRnBUMjA0Tkhnd1QyMXVRa1l3V0djIiwiZmN2IjoiMyIsImVpIjoiTnhnNmFySG9CdENpNU5vUHpzbjRvQVkiLCJxYyI6IkNpRmpiM053YkdGNUlHWmhZbkpwWXlCNVlYSmtZV2RsSUdOaGJHTjFiR0YwYjNJUUFIMWNaX0EtIiwicXVlc3Rpb24iOiJIb3cgbXVjaCBkb2VzIDEwIHlhcmRzIG9mIGZhYnJpYyBjb3Zlcj8iLCJsayI6IkdpWm9iM2NnYlhWamFDQmtiMlZ6SURFd0lIbGhjbVJ6SUc5bUlHWmhZbkpwWXlCamIzWmxjZyIsImJzIjoiYzQyUHZRckNNQlJHY2IyVG8yUzY0TDh1TlQ1QVZqUG80dXB5VFc1Sm9EWWxiWlUta2E4cHJTSklCN3VmODNFLU9NUHlFQjU0cTQxREc3akVYWUlOUlZ0aVNER2xhX1FHVGJoelZISWxGbTRRQ2g3MjdhZ05xTkZRWnVxTUtzWk9wcnpwU1JwelpxdWtGRW5MVkdHSTVEc0pMckQ1OWxOay1wUjFlT19DNUhtU1c3RjJRd1U0d2t5WFdEbU9qSlFqRmNWdjNSdFdjaTZtX2o4M0hyMEEiLCJpZCI6ImZjX054ZzZhckhvQnRDaTVOb1B6c240b0FZXzQifQ%3D%3D"
+    },
+    {
+      "question": "How do I calculate how many yards of fabric I need?",
+      "type": "ai_overview",
+      "page_token": "EbrrCHicHdBNspowAADg6WXe8pkEtYMzTmesCWAlNiE_kk0HEhQkCE9R33PXK_QMPVVP005X3_77-ds35_bPp1_1OA7XxWTyeDxej31_9NWr7btJcf0424ktvC8L2y7mn-fwy8Eu8d2uvl7sislhUGsOss4YAyR0AZ_m0uzsmn7wJ_luZaglrmfszEaJ4TTzCqXyPS5i_k1otXV7teOajSUZ8ookMNvXiGK1yk50V3pVp-Q40riWTCWBEgnKtOs1rhsj3d3hDSgCkgvv3oSmSYnVOkWEp2g2dxGYGjA7OE0vWUxiLfDo2iGgARcC-bfCc1B1KUoFAfJkYIpp88-tAdcnjfzNwE3MpL9lnYVVa_YuotwgeGPIE1y7XRVZlO83SQk2gKEWii5k1ZneaBSuNO8bJvnTnnynIgq0ok_b8cA14KFlWFP5zoy-BrkPx62sPWMvB3tfBi__r5c_Dt24GC798S_zZ4oH",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EbrrCHicHdBNspowAADg6WXe8pkEtYMzTmesCWAlNiE_kk0HEhQkCE9R33PXK_QMPVVP005X3_77-ds35_bPp1_1OA7XxWTyeDxej31_9NWr7btJcf0424ktvC8L2y7mn-fwy8Eu8d2uvl7sislhUGsOss4YAyR0AZ_m0uzsmn7wJ_luZaglrmfszEaJ4TTzCqXyPS5i_k1otXV7teOajSUZ8ookMNvXiGK1yk50V3pVp-Q40riWTCWBEgnKtOs1rhsj3d3hDSgCkgvv3oSmSYnVOkWEp2g2dxGYGjA7OE0vWUxiLfDo2iGgARcC-bfCc1B1KUoFAfJkYIpp88-tAdcnjfzNwE3MpL9lnYVVa_YuotwgeGPIE1y7XRVZlO83SQk2gKEWii5k1ZneaBSuNO8bJvnTnnynIgq0ok_b8cA14KFlWFP5zoy-BrkPx62sPWMvB3tfBi__r5c_Dt24GC798S_zZ4oH",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFqTXdlbXhxU1dzeGExVkJOM1poVUhBdFpXMUJWMnhzTTFoRlMyRlVZblJKWjFWUmNqaFRRMmRqZDBwaE0xTXRiakp2Ym1odFRGOXRTRE0xVW1aR1lUUmpka1JxZDBNMU0yOUhZVVJvVFVKRGMwaHNiRlJGTFdaUlVSSVhUbmhuTm1GeVNHOUNkRU5wTlU1dlVIcHpialJ2UVZrYUlrRkVjM0k1WmxOS2FESnhXbUpQWWtVelQwRnBUMjA0Tkhnd1QyMXVRa1l3V0djIiwiZmN2IjoiMyIsImVpIjoiTnhnNmFySG9CdENpNU5vUHpzbjRvQVkiLCJxYyI6IkNpRmpiM053YkdGNUlHWmhZbkpwWXlCNVlYSmtZV2RsSUdOaGJHTjFiR0YwYjNJUUFIMWNaX0EtIiwicXVlc3Rpb24iOiJIb3cgZG8gSSBjYWxjdWxhdGUgaG93IG1hbnkgeWFyZHMgb2YgZmFicmljIEkgbmVlZD8iLCJsayI6IkdqQm9iM2NnZEc4Z1kyRnNZM1ZzWVhSbElHaHZkeUJ0WVc1NUlIbGhjbVJ6SUc5bUlHWmhZbkpwWXlCcElHNWxaV1EiLCJicyI6ImM0MlB2UXJDTUJSR2NiMlRvMlM2NEw4dU5UNUFWalBvNHVweVRXNUpvRFlsYlpVLWthOHByU0pJQjd1ZjgzRS1PTVB5RUI1NHE0MURHN2pFWFlJTlJWdGlTREdsYV9RR1RiaHpWSElsRm00UUNoNzI3YWdOcU5GUVp1cU1Lc1pPcHJ6cFNScHpacXVrRkVuTFZHR0k1RHNKTHJENTlsTmstcFIxZU9fQzVIbVNXN0YyUXdVNHdreVhXRG1PakpRakZjVnYzUnRXY2k2bV9qODNIcjBBIiwiaWQiOiJmY19OeGc2YXJIb0J0Q2k1Tm9QenNuNG9BWV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFqTXdlbXhxU1dzeGExVkJOM1poVUhBdFpXMUJWMnhzTTFoRlMyRlVZblJKWjFWUmNqaFRRMmRqZDBwaE0xTXRiakp2Ym1odFRGOXRTRE0xVW1aR1lUUmpka1JxZDBNMU0yOUhZVVJvVFVKRGMwaHNiRlJGTFdaUlVSSVhUbmhuTm1GeVNHOUNkRU5wTlU1dlVIcHpialJ2UVZrYUlrRkVjM0k1WmxOS2FESnhXbUpQWWtVelQwRnBUMjA0Tkhnd1QyMXVRa1l3V0djIiwiZmN2IjoiMyIsImVpIjoiTnhnNmFySG9CdENpNU5vUHpzbjRvQVkiLCJxYyI6IkNpRmpiM053YkdGNUlHWmhZbkpwWXlCNVlYSmtZV2RsSUdOaGJHTjFiR0YwYjNJUUFIMWNaX0EtIiwicXVlc3Rpb24iOiJIb3cgZG8gSSBjYWxjdWxhdGUgaG93IG1hbnkgeWFyZHMgb2YgZmFicmljIEkgbmVlZD8iLCJsayI6IkdqQm9iM2NnZEc4Z1kyRnNZM1ZzWVhSbElHaHZkeUJ0WVc1NUlIbGhjbVJ6SUc5bUlHWmhZbkpwWXlCcElHNWxaV1EiLCJicyI6ImM0MlB2UXJDTUJSR2NiMlRvMlM2NEw4dU5UNUFWalBvNHVweVRXNUpvRFlsYlpVLWthOHByU0pJQjd1ZjgzRS1PTVB5RUI1NHE0MURHN2pFWFlJTlJWdGlTREdsYV9RR1RiaHpWSElsRm00UUNoNzI3YWdOcU5GUVp1cU1Lc1pPcHJ6cFNScHpacXVrRkVuTFZHR0k1RHNKTHJENTlsTmstcFIxZU9fQzVIbVNXN0YyUXdVNHdreVhXRG1PakpRakZjVnYzUnRXY2k2bV9qODNIcjBBIiwiaWQiOiJmY19OeGc2YXJIb0J0Q2k1Tm9QenNuNG9BWV80In0%3D"
+    },
+    {
+      "question": "How much area does 1 yard of fabric cover?",
+      "type": "featured_snippet",
+      "snippet": "How Much Area Does One Yard Cover? Here's a little math to help visualize it. Let's say you're buying a fabric that's 60 inches wide: 1 yard (36 inches) x 60 inches = 2,160 square inches.",
+      "title": "How Big is a Yard of Fabric? 2025 Guide",
+      "date": "Jul 25, 2025",
+      "link": "https://icefabrics.com/blogs/news/how-big-is-a-yard-of-fabric#:~:text=How%20Much%20Area%20Does%20One,60%20inches%20%3D%202%2C160%20square%20inches",
+      "displayed_link": "https://icefabrics.com › blogs › news › how-big-is-a-yard...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAsUlEQVR4AWP4TyIYARr-wQBCA7Lcnz9_gAy49I9fP4EILghkAEmEBmTV3379BKInL5_PWTA_Jj7-zbt3cNtQbHj9-vWzZ88g0idPn2JgYEjLSG9saoyIjIAbxwB3yefPn4FyQCQqKgpSDQMbNmxwcHCoqakBqgGaBdIAUd3W1gY0D6h04sSJhQUFNUjg2tWrQKk7d-4g2YAPIILh989fDCC_gwEyAygBQUAumESAQZg0AJ3LysAWhXhHAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFqTXdlbXhxU1dzeGExVkJOM1poVUhBdFpXMUJWMnhzTTFoRlMyRlVZblJKWjFWUmNqaFRRMmRqZDBwaE0xTXRiakp2Ym1odFRGOXRTRE0xVW1aR1lUUmpka1JxZDBNMU0yOUhZVVJvVFVKRGMwaHNiRlJGTFdaUlVSSVhUbmhuTm1GeVNHOUNkRU5wTlU1dlVIcHpialJ2UVZrYUlrRkVjM0k1WmxOS2FESnhXbUpQWWtVelQwRnBUMjA0Tkhnd1QyMXVRa1l3V0djIiwiZmN2IjoiMyIsImVpIjoiTnhnNmFySG9CdENpNU5vUHpzbjRvQVkiLCJxYyI6IkNpRmpiM053YkdGNUlHWmhZbkpwWXlCNVlYSmtZV2RsSUdOaGJHTjFiR0YwYjNJUUFIMWNaX0EtIiwicXVlc3Rpb24iOiJIb3cgbXVjaCBhcmVhIGRvZXMgMSB5YXJkIG9mIGZhYnJpYyBjb3Zlcj8iLCJsayI6IkdpbG9iM2NnYlhWamFDQmhjbVZoSUdSdlpYTWdNU0I1WVhKa0lHOW1JR1poWW5KcFl5QmpiM1psY2ciLCJicyI6ImM0MlB2UXJDTUJSR2NiMlRvMlM2NEw4dU5UNUFWalBvNHVweVRXNUpvRFlsYlpVLWthOHByU0pJQjd1ZjgzRS1PTVB5RUI1NHE0MURHN2pFWFlJTlJWdGlTREdsYV9RR1RiaHpWSElsRm00UUNoNzI3YWdOcU5GUVp1cU1Lc1pPcHJ6cFNScHpacXVrRkVuTFZHR0k1RHNKTHJENTlsTmstcFIxZU9fQzVIbVNXN0YyUXdVNHdreVhXRG1PakpRakZjVnYzUnRXY2k2bV9qODNIcjBBIiwiaWQiOiJmY19OeGc2YXJIb0J0Q2k1Tm9QenNuNG9BWV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFqTXdlbXhxU1dzeGExVkJOM1poVUhBdFpXMUJWMnhzTTFoRlMyRlVZblJKWjFWUmNqaFRRMmRqZDBwaE0xTXRiakp2Ym1odFRGOXRTRE0xVW1aR1lUUmpka1JxZDBNMU0yOUhZVVJvVFVKRGMwaHNiRlJGTFdaUlVSSVhUbmhuTm1GeVNHOUNkRU5wTlU1dlVIcHpialJ2UVZrYUlrRkVjM0k1WmxOS2FESnhXbUpQWWtVelQwRnBUMjA0Tkhnd1QyMXVRa1l3V0djIiwiZmN2IjoiMyIsImVpIjoiTnhnNmFySG9CdENpNU5vUHpzbjRvQVkiLCJxYyI6IkNpRmpiM053YkdGNUlHWmhZbkpwWXlCNVlYSmtZV2RsSUdOaGJHTjFiR0YwYjNJUUFIMWNaX0EtIiwicXVlc3Rpb24iOiJIb3cgbXVjaCBhcmVhIGRvZXMgMSB5YXJkIG9mIGZhYnJpYyBjb3Zlcj8iLCJsayI6IkdpbG9iM2NnYlhWamFDQmhjbVZoSUdSdlpYTWdNU0I1WVhKa0lHOW1JR1poWW5KcFl5QmpiM1psY2ciLCJicyI6ImM0MlB2UXJDTUJSR2NiMlRvMlM2NEw4dU5UNUFWalBvNHVweVRXNUpvRFlsYlpVLWthOHByU0pJQjd1ZjgzRS1PTVB5RUI1NHE0MURHN2pFWFlJTlJWdGlTREdsYV9RR1RiaHpWSElsRm00UUNoNzI3YWdOcU5GUVp1cU1Lc1pPcHJ6cFNScHpacXVrRkVuTFZHR0k1RHNKTHJENTlsTmstcFIxZU9fQzVIbVNXN0YyUXdVNHdreVhXRG1PakpRakZjVnYzUnRXY2k2bV9qODNIcjBBIiwiaWQiOiJmY19OeGc2YXJIb0J0Q2k1Tm9QenNuNG9BWV80In0%3D"
+    },
+    {
+      "question": "Is there an app to calculate fabric?",
+      "type": "ai_overview",
+      "page_token": "CMf83HicHdBdToMwAADgeBkfHXT-sWQxYVBcN6rt2jL6YqCwFVp-nAx0b97FU3kaE78jfN8_tmrN79Woh6H_WMxm0zTdHLvuaMsb1TWz7OOrVTOVWZtnyizuH-7dp4Nahue1v3pf-4T3vQiow8IUpLW9ZNxtCghTxb2RuNhnbTiVrU8KgL5o2HNcS7NrpNnyPmKGjtvk8Y7PaUWhHDnvQNyKT5HAk2rwKAHa5JZuchDPM-s5wtgLAzaSfHhRsF_JkL4WDO0lcCG33vOWYZKD3sSJF_BII95yJ4frKTNDUz7TC26lzmtaZ46-lVyCPBRoZ1EqAvgq9jolTngbB7ISQs9DXbyUkQLpHq1zBzkEGJc1HilbfMaR5ye0qwinF1XbhguJEqa3ShQIA2-zWzmfZRK7NMCnFGiWJbAi5PqgxuX8-v9z-XZohkV_6o5_3SeB1Q",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=CMf83HicHdBdToMwAADgeBkfHXT-sWQxYVBcN6rt2jL6YqCwFVp-nAx0b97FU3kaE78jfN8_tmrN79Woh6H_WMxm0zTdHLvuaMsb1TWz7OOrVTOVWZtnyizuH-7dp4Nahue1v3pf-4T3vQiow8IUpLW9ZNxtCghTxb2RuNhnbTiVrU8KgL5o2HNcS7NrpNnyPmKGjtvk8Y7PaUWhHDnvQNyKT5HAk2rwKAHa5JZuchDPM-s5wtgLAzaSfHhRsF_JkL4WDO0lcCG33vOWYZKD3sSJF_BII95yJ4frKTNDUz7TC26lzmtaZ46-lVyCPBRoZ1EqAvgq9jolTngbB7ISQs9DXbyUkQLpHq1zBzkEGJc1HilbfMaR5ye0qwinF1XbhguJEqa3ShQIA2-zWzmfZRK7NMCnFGiWJbAi5PqgxuX8-v9z-XZohkV_6o5_3SeB1Q",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFqTXdlbXhxU1dzeGExVkJOM1poVUhBdFpXMUJWMnhzTTFoRlMyRlVZblJKWjFWUmNqaFRRMmRqZDBwaE0xTXRiakp2Ym1odFRGOXRTRE0xVW1aR1lUUmpka1JxZDBNMU0yOUhZVVJvVFVKRGMwaHNiRlJGTFdaUlVSSVhUbmhuTm1GeVNHOUNkRU5wTlU1dlVIcHpialJ2UVZrYUlrRkVjM0k1WmxOS2FESnhXbUpQWWtVelQwRnBUMjA0Tkhnd1QyMXVRa1l3V0djIiwiZmN2IjoiMyIsImVpIjoiTnhnNmFySG9CdENpNU5vUHpzbjRvQVkiLCJxYyI6IkNpRmpiM053YkdGNUlHWmhZbkpwWXlCNVlYSmtZV2RsSUdOaGJHTjFiR0YwYjNJUUFIMWNaX0EtIiwicXVlc3Rpb24iOiJJcyB0aGVyZSBhbiBhcHAgdG8gY2FsY3VsYXRlIGZhYnJpYz8iLCJsayI6IkdpTnBjeUIwYUdWeVpTQmhiaUJoY0hBZ2RHOGdZMkZzWTNWc1lYUmxJR1poWW5KcFl3IiwiYnMiOiJjNDJQdlFyQ01CUkdjYjJUbzJTNjRMOHVOVDVBVmpQbzR1cHlUVzVKb0RZbGJaVS1rYThwclNKSUI3dWY4M0UtT01QeUVCNTRxNDFERzdqRVhZSU5SVnRpU0RHbGFfUUdUYmh6VkhJbEZtNFFDaDcyN2FnTnFORlFadXFNS3NaT3ByenBTUnB6WnF1a0ZFbkxWR0dJNURzSkxyRDU5bE5rLXBSMWVPX0M1SG1TVzdGMlF3VTR3a3lYV0RtT2pKUWpGY1Z2M1J0V2NpNm1fajgzSHIwQSIsImlkIjoiZmNfTnhnNmFySG9CdENpNU5vUHpzbjRvQVlfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFqTXdlbXhxU1dzeGExVkJOM1poVUhBdFpXMUJWMnhzTTFoRlMyRlVZblJKWjFWUmNqaFRRMmRqZDBwaE0xTXRiakp2Ym1odFRGOXRTRE0xVW1aR1lUUmpka1JxZDBNMU0yOUhZVVJvVFVKRGMwaHNiRlJGTFdaUlVSSVhUbmhuTm1GeVNHOUNkRU5wTlU1dlVIcHpialJ2UVZrYUlrRkVjM0k1WmxOS2FESnhXbUpQWWtVelQwRnBUMjA0Tkhnd1QyMXVRa1l3V0djIiwiZmN2IjoiMyIsImVpIjoiTnhnNmFySG9CdENpNU5vUHpzbjRvQVkiLCJxYyI6IkNpRmpiM053YkdGNUlHWmhZbkpwWXlCNVlYSmtZV2RsSUdOaGJHTjFiR0YwYjNJUUFIMWNaX0EtIiwicXVlc3Rpb24iOiJJcyB0aGVyZSBhbiBhcHAgdG8gY2FsY3VsYXRlIGZhYnJpYz8iLCJsayI6IkdpTnBjeUIwYUdWeVpTQmhiaUJoY0hBZ2RHOGdZMkZzWTNWc1lYUmxJR1poWW5KcFl3IiwiYnMiOiJjNDJQdlFyQ01CUkdjYjJUbzJTNjRMOHVOVDVBVmpQbzR1cHlUVzVKb0RZbGJaVS1rYThwclNKSUI3dWY4M0UtT01QeUVCNTRxNDFERzdqRVhZSU5SVnRpU0RHbGFfUUdUYmh6VkhJbEZtNFFDaDcyN2FnTnFORlFadXFNS3NaT3ByenBTUnB6WnF1a0ZFbkxWR0dJNURzSkxyRDU5bE5rLXBSMWVPX0M1SG1TVzdGMlF3VTR3a3lYV0RtT2pKUWpGY1Z2M1J0V2NpNm1fajgzSHIwQSIsImlkIjoiZmNfTnhnNmFySG9CdENpNU5vUHpzbjRvQVlfNCJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "1RHdh3icxVbrkqo4EP6_73H4M6PIiLepok4liIq3EfEy-sfiNkEB4xAUnX_7LvtU-xj7BCcgKI46U3uqtrYtSNLpdPr20f75l7tcO3__8Y8dBBvyzLJhGOYRxsi18gb2WI0c1gb7hl3iG_ZPgre-YS1NwbB97FnMYScUGYMIBcZaCv09Kmt-C8NAXJb6ePBB1jwGMyZWISx0jVgresN-RdgFS1_Oj2KdLvIkb63zos3r-wnu7Pfj_FOBq-VfWM2jAuA_JAkM41GhP5mO8pVEdD36RosiRwfVDEfMvFPqHRXJcjyId5WKiRXiLBKp5-Y-D0FdiXmtL6xQL5fT6CWBEAAYmSgpt87cMiLl4WSEd2-UrlmxMEzuqmfV3_MXZhOsRDpHVSCeE5G6DEHqARVBdA6PGksA8oNQbIpfpInubFBLsnPKTaMz1OhImzCZd2dNahFrIlqEBVb36cCxS8M24olPotoUR7UCbgx8c75v1f2S-nogvlRobXvL-X67DnoKa-hUzsWaaZkLe1H4Ga-5J65UqBUr1ccYFAY5oYJkUTEv91xQbL8VGyDfzUMuA4k4GMdSSl2Kyg3eca-TxDBDp-qMY620j7FJcwfGqRjEKToSxsqJqmp2YlSjVNifb4wMuYZESig7oZCIzZbHp5NZ8Wgqw7OpCdU_5_u8TnyYgY5yclnKWHwMhJRdO5FyuZkywtNWpBW5IIY4hYSUKHy5OI-yhtFgQRFI6fbJgkim7pzEpNjCaHumKDMgNyhEafpQ6nySSgoJ-TJ2YHWxaqDoEdFNgH9H8BSsuySBtPY_lfIFBNqB29TFQaucE2tzv2Kqnp8zu3DKb5TbJY89_V90AuP_BcU46RPjBAmdm6BA34BCkaUv-8SxgM99IqoVEd8DhZiA4rJPHAv33CeuQaFeguJ-n8iA4qjla1DAu6CQwG1QRN-aK1CgO6A49oksKC77xPqkOfIgA4rf6hPKb_SJGCPWcbhsGtsVuts8JFRorlwLg32w4ZtBx_HkqbJ3Bt50Db5tHm9e8Oxppvu4WJrP8KkdHMzHBWXgZ8tk3gUDk42rHR7eNN1fGg8HzTc1ZD0YmmtsXS3APuO5PhYKWmVp2StVrfTFsdvjNx-8OuHhjINg0iL4VRo-8YjMhqFKpGqYs_Wq-fH-WnPK5aLIhdXN1Fvx8mFYW1sTtw2crlKZ1Ide31G7mkb08XTB9xu4UDLF3RZ1gtHORKM-dHuT0DxYVUudT4NRsOjmAq3Hy-469_LOhbFhRKjs7PJo0bXDD4ehbhFL4BjPNwRa-7wD-gqYImBQBACF_p9SREyfkOafIYa2sMhO0HW9YpY5q2oWdb1YsRgPBYeNwHMMWfsC9wsUqyD9",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1RHdh3icxVbrkqo4EP6_73H4M6PIiLepok4liIq3EfEy-sfiNkEB4xAUnX_7LvtU-xj7BCcgKI46U3uqtrYtSNLpdPr20f75l7tcO3__8Y8dBBvyzLJhGOYRxsi18gb2WI0c1gb7hl3iG_ZPgre-YS1NwbB97FnMYScUGYMIBcZaCv09Kmt-C8NAXJb6ePBB1jwGMyZWISx0jVgresN-RdgFS1_Oj2KdLvIkb63zos3r-wnu7Pfj_FOBq-VfWM2jAuA_JAkM41GhP5mO8pVEdD36RosiRwfVDEfMvFPqHRXJcjyId5WKiRXiLBKp5-Y-D0FdiXmtL6xQL5fT6CWBEAAYmSgpt87cMiLl4WSEd2-UrlmxMEzuqmfV3_MXZhOsRDpHVSCeE5G6DEHqARVBdA6PGksA8oNQbIpfpInubFBLsnPKTaMz1OhImzCZd2dNahFrIlqEBVb36cCxS8M24olPotoUR7UCbgx8c75v1f2S-nogvlRobXvL-X67DnoKa-hUzsWaaZkLe1H4Ga-5J65UqBUr1ccYFAY5oYJkUTEv91xQbL8VGyDfzUMuA4k4GMdSSl2Kyg3eca-TxDBDp-qMY620j7FJcwfGqRjEKToSxsqJqmp2YlSjVNifb4wMuYZESig7oZCIzZbHp5NZ8Wgqw7OpCdU_5_u8TnyYgY5yclnKWHwMhJRdO5FyuZkywtNWpBW5IIY4hYSUKHy5OI-yhtFgQRFI6fbJgkim7pzEpNjCaHumKDMgNyhEafpQ6nySSgoJ-TJ2YHWxaqDoEdFNgH9H8BSsuySBtPY_lfIFBNqB29TFQaucE2tzv2Kqnp8zu3DKb5TbJY89_V90AuP_BcU46RPjBAmdm6BA34BCkaUv-8SxgM99IqoVEd8DhZiA4rJPHAv33CeuQaFeguJ-n8iA4qjla1DAu6CQwG1QRN-aK1CgO6A49oksKC77xPqkOfIgA4rf6hPKb_SJGCPWcbhsGtsVuts8JFRorlwLg32w4ZtBx_HkqbJ3Bt50Db5tHm9e8Oxppvu4WJrP8KkdHMzHBWXgZ8tk3gUDk42rHR7eNN1fGg8HzTc1ZD0YmmtsXS3APuO5PhYKWmVp2StVrfTFsdvjNx-8OuHhjINg0iL4VRo-8YjMhqFKpGqYs_Wq-fH-WnPK5aLIhdXN1Fvx8mFYW1sTtw2crlKZ1Ide31G7mkb08XTB9xu4UDLF3RZ1gtHORKM-dHuT0DxYVUudT4NRsOjmAq3Hy-469_LOhbFhRKjs7PJo0bXDD4ehbhFL4BjPNwRa-7wD-gqYImBQBACF_p9SREyfkOafIYa2sMhO0HW9YpY5q2oWdb1YsRgPBYeNwHMMWfsC9wsUqyD9"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Fabric Yardage Calculator for Cosplay, Sewing, and Costume ...",
+      "link": "https://www.costumecalc.com/fabric-yardage-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.costumecalc.com/fabric-yardage-calculator/&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQFnoECBsQAQ",
+      "displayed_link": "https://www.costumecalc.com › fabric-yardage-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEVHcEz0Pl6LW_Y7gvb______________vz________7vyP9OkyAWP__xAAXe_3-6ujz8f_1JUuBS_X8uwAehv8tfPa_qPr4nKiUtvr7vhX81IDq4_2OYPb-57rN3f63zft3Qf_92pN5pPj8a20TAAAACnRSTlMA____kI__-8JET6vDcAAAAL1JREFUKJGt010XgiAMBuBZBpg6LaLSTKv__yOb4MdI8ar3Dp7DOOwMAEiUFItIlQAlXopLTOdCJkQCKowKVu6b7gW2eFyz9FawDZilOe-yNDpFsw_YC4WQQi4ZlpZGJC6W2Gzh30--MpfUxUOZD8GLDZb8ndXRJse9jfGaUFcczd1DqTkOVafePvWM2P02vtYjjkUZird2iJMxpMpVjsa0Yg2FrDV-Srbhj0nR8pXcHrDN0QwP9aEf-fB3-AL4Shc0W_vZDAAAAABJRU5ErkJggg.png",
+      "snippet": "Estimate fabric yardage for dresses, robes, skirts, cloaks, and cosplay builds. Adjust for width, fullness, nap, lining, and cutting buffer.",
+      "snippet_highlighted_words": [
+        "Estimate fabric yardage for dresses, robes, skirts, cloaks, and cosplay builds"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Estimate fabric yardage for dresses, robes, skirts, cloaks, and cosplay builds. Adjust for width, fullness, nap, lining, and cutting buffer.",
+          "source_info_link": "https://www.costumecalc.com/fabric-yardage-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEVHcEz0Pl6LW_Y7gvb______________vz________7vyP9OkyAWP__xAAXe_3-6ujz8f_1JUuBS_X8uwAehv8tfPa_qPr4nKiUtvr7vhX81IDq4_2OYPb-57rN3f63zft3Qf_92pN5pPj8a20TAAAACnRSTlMA____kI__-8JET6vDcAAAAL1JREFUKJGt010XgiAMBuBZBpg6LaLSTKv__yOb4MdI8ar3Dp7DOOwMAEiUFItIlQAlXopLTOdCJkQCKowKVu6b7gW2eFyz9FawDZilOe-yNDpFsw_YC4WQQi4ZlpZGJC6W2Gzh30--MpfUxUOZD8GLDZb8ndXRJse9jfGaUFcczd1DqTkOVafePvWM2P02vtYjjkUZird2iJMxpMpVjsa0Yg2FrDV-Srbhj0nR8pXcHrDN0QwP9aEf-fB3-AL4Shc0W_vZDAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.costumecalc.com/fabric-yardage-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.costumecalc.com%2Ffabric-yardage-calculator%2F",
+      "source": "costumecalc.com"
+    },
+    {
+      "position": 2,
+      "title": "Fabric Calculator by Sailrite",
+      "link": "https://www.fabric-calculator.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fabric-calculator.com/&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQFnoECBwQAQ",
+      "displayed_link": "https://www.fabric-calculator.com",
+      "favicon": "https://serpapi.com/searches/6a3a183612eb14a171825942/images/y89nY6tMsX3NgvY2wT5Q-DuunDxI7waLF6bOUPQ5nYY.png",
+      "snippet": "Select your project and the Sailrite Fabric Calculator will estimate how many yards of fabric you need to make a cushion, throw pillow, rectangular tarp, ...",
+      "snippet_highlighted_words": [
+        "Sailrite Fabric Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Select your project and the Sailrite Fabric Calculator will estimate how many yards of fabric you need to make a cushion, throw pillow, rectangular tarp, ...",
+          "source_info_link": "https://www.fabric-calculator.com/",
+          "icon": "https://serpapi.com/searches/6a3a183612eb14a171825942/images/y89nY6tMsX3NgvY2wT5Q-Jbc-5D1tnAv4X0mGBy68oPKmu2tpWT-BZIYCgLhb-pG.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fabric-calculator.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fabric-calculator.com%2F",
+      "source": "Fabric Calculator"
+    },
+    {
+      "position": 3,
+      "title": "Fabric Calculator",
+      "link": "https://fabricville.com/pages/fabric-calculators?srsltid=AfmBOoq2FVLlq_A4oARc58E1Ox6kwIUkzdz3Do6R55cf--QdV55k5rY5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fabricville.com/pages/fabric-calculators%3Fsrsltid%3DAfmBOoq2FVLlq_A4oARc58E1Ox6kwIUkzdz3Do6R55cf--QdV55k5rY5&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQFnoECB8QAQ",
+      "displayed_link": "https://fabricville.com › pages › fabric-calculators",
+      "favicon": "https://serpapi.com/searches/6a3a183612eb14a171825942/images/y89nY6tMsX3NgvY2wT5Q-EnOVXVUZhQzJ_aLsVcqhYk.jpeg",
+      "snippet": "Yardage Calculator - Cushion Cover. Please enter all measurements in inches: inches. Enter the total width of your cusion form in inches, from one edge to the ...",
+      "snippet_highlighted_words": [
+        "Enter the total width of your cusion form in inches"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Yardage Calculator - Cushion Cover. Please enter all measurements in inches: inches. Enter the total width of your cusion form in inches, from one edge to the ...",
+          "source_info_link": "https://fabricville.com/pages/fabric-calculators?srsltid=AfmBOoq2FVLlq_A4oARc58E1Ox6kwIUkzdz3Do6R55cf--QdV55k5rY5",
+          "icon": "https://serpapi.com/searches/6a3a183612eb14a171825942/images/y89nY6tMsX3NgvY2wT5Q-JDiDVIm3QwfoFgy71K6XTe-HFxNrNyFz73HPtYyzcKy.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://fabricville.com/pages/fabric-calculators?srsltid=AfmBOoq2FVLlq_A4oARc58E1Ox6kwIUkzdz3Do6R55cf--QdV55k5rY5&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ffabricville.com%2Fpages%2Ffabric-calculators%3Fsrsltid%3DAfmBOoq2FVLlq_A4oARc58E1Ox6kwIUkzdz3Do6R55cf--QdV55k5rY5",
+      "source": "Fabricville",
+      "read_more_link": "https://fabricville.com/pages/fabric-calculators?srsltid=AfmBOoq2FVLlq_A4oARc58E1Ox6kwIUkzdz3Do6R55cf--QdV55k5rY5#:~:text=Customer%20Service"
+    },
+    {
+      "position": 4,
+      "title": "Fabric Calculator",
+      "link": "https://fabrics-fabrics.com/pages/fabric-calculator?srsltid=AfmBOor1MrxuY_VWG9p1w4ZT2SsIh2h3aaBJkvrjsrKkscGZ0AWg1N3h",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fabrics-fabrics.com/pages/fabric-calculator%3Fsrsltid%3DAfmBOor1MrxuY_VWG9p1w4ZT2SsIh2h3aaBJkvrjsrKkscGZ0AWg1N3h&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQFnoECBcQAQ",
+      "displayed_link": "https://fabrics-fabrics.com › pages › fabric-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAcklEQVR4Aa3IoRGEMBAF0N8BzaDwZ2PXoKLWRGQmErE-6lQaQKBSwRVFB__2bmDwDE8-3DIsUQIQJC4DfhJda3QJh5WlcMWJzsMdkWRnztwl4bTRjBsub6qy4s9CNplG4DVGU1Hk-ulV4zxP1nsrDQ_4AmxyNeTvw5v4AAAAAElFTkSuQmCC.png",
+      "snippet": "Use this tool to estimate how much fabric you may need for your project. Choose a garment, your size, and the fabric width. The estimate is based on standard ...",
+      "snippet_highlighted_words": [
+        "Use this tool to estimate how much fabric you may need for your project"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this tool to estimate how much fabric you may need for your project. Choose a garment, your size, and the fabric width. The estimate is based on standard ...",
+          "source_info_link": "https://fabrics-fabrics.com/pages/fabric-calculator?srsltid=AfmBOor1MrxuY_VWG9p1w4ZT2SsIh2h3aaBJkvrjsrKkscGZ0AWg1N3h",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAcklEQVR4Aa3IoRGEMBAF0N8BzaDwZ2PXoKLWRGQmErE-6lQaQKBSwRVFB__2bmDwDE8-3DIsUQIQJC4DfhJda3QJh5WlcMWJzsMdkWRnztwl4bTRjBsub6qy4s9CNplG4DVGU1Hk-ulV4zxP1nsrDQ_4AmxyNeTvw5v4AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://fabrics-fabrics.com/pages/fabric-calculator?srsltid=AfmBOor1MrxuY_VWG9p1w4ZT2SsIh2h3aaBJkvrjsrKkscGZ0AWg1N3h&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ffabrics-fabrics.com%2Fpages%2Ffabric-calculator%3Fsrsltid%3DAfmBOor1MrxuY_VWG9p1w4ZT2SsIh2h3aaBJkvrjsrKkscGZ0AWg1N3h",
+      "source": "Fabrics & Fabrics",
+      "read_more_link": "https://fabrics-fabrics.com/pages/fabric-calculator?srsltid=AfmBOor1MrxuY_VWG9p1w4ZT2SsIh2h3aaBJkvrjsrKkscGZ0AWg1N3h#:~:text=Use%20this%20tool%20to%20estimate,you%20a%20helpful%20starting%20point."
+    },
+    {
+      "position": 5,
+      "title": "CostumeCalc | Fabric, Foam, Fit, and Budget Calculators",
+      "link": "https://www.costumecalc.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.costumecalc.com/&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQFnoECBgQAQ",
+      "displayed_link": "https://www.costumecalc.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEVHcEz0Pl6LW_Y7gvb______________vz________7vyP9OkyAWP__xAAXe_3-6ujz8f_1JUuBS_X8uwAehv8tfPa_qPr4nKiUtvr7vhX81IDq4_2OYPb-57rN3f63zft3Qf_92pN5pPj8a20TAAAACnRSTlMA____kI__-8JET6vDcAAAAL1JREFUKJGt010XgiAMBuBZBpg6LaLSTKv__yOb4MdI8ar3Dp7DOOwMAEiUFItIlQAlXopLTOdCJkQCKowKVu6b7gW2eFyz9FawDZilOe-yNDpFsw_YC4WQQi4ZlpZGJC6W2Gzh30--MpfUxUOZD8GLDZb8ndXRJse9jfGaUFcczd1DqTkOVafePvWM2P02vtYjjkUZird2iJMxpMpVjsa0Yg2FrDV-Srbhj0nR8pXcHrDN0QwP9aEf-fB3-AL4Shc0W_vZDAAAAABJRU5ErkJggg.png",
+      "snippet": "Fabric Yardage. Free. Estimate fabric for dresses, robes, skirts, cloaks, and other costume builds with width and complexity adjustments.",
+      "snippet_highlighted_words": [
+        "Fabric Yardage"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Fabric Yardage. Free. Estimate fabric for dresses, robes, skirts, cloaks, and other costume builds with width and complexity adjustments.",
+          "source_info_link": "https://www.costumecalc.com/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEVHcEz0Pl6LW_Y7gvb______________vz________7vyP9OkyAWP__xAAXe_3-6ujz8f_1JUuBS_X8uwAehv8tfPa_qPr4nKiUtvr7vhX81IDq4_2OYPb-57rN3f63zft3Qf_92pN5pPj8a20TAAAACnRSTlMA____kI__-8JET6vDcAAAAL1JREFUKJGt010XgiAMBuBZBpg6LaLSTKv__yOb4MdI8ar3Dp7DOOwMAEiUFItIlQAlXopLTOdCJkQCKowKVu6b7gW2eFyz9FawDZilOe-yNDpFsw_YC4WQQi4ZlpZGJC6W2Gzh30--MpfUxUOZD8GLDZb8ndXRJse9jfGaUFcczd1DqTkOVafePvWM2P02vtYjjkUZird2iJMxpMpVjsa0Yg2FrDV-Srbhj0nR8pXcHrDN0QwP9aEf-fB3-AL4Shc0W_vZDAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.costumecalc.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.costumecalc.com%2F",
+      "source": "costumecalc.com",
+      "read_more_link": "https://www.costumecalc.com/#:~:text=Fabric%20Yardage,with%20width%20and%20complexity%20adjustments."
+    },
+    {
+      "position": 6,
+      "title": "Fabric Yardage Calculator: How Much Fabric Do I Need?",
+      "link": "https://www.canvasetc.com/fabric-yardage-calculator/?srsltid=AfmBOopOvhSETPkuXWOaI4x0Dpkhhe8BrCEK4lZyIVBvfGktTNasovl_",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.canvasetc.com/fabric-yardage-calculator/%3Fsrsltid%3DAfmBOopOvhSETPkuXWOaI4x0Dpkhhe8BrCEK4lZyIVBvfGktTNasovl_&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQFnoECEIQAQ",
+      "displayed_link": "https://www.canvasetc.com › Blog",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEXQ2c729vb8_fz-__79__38_vz8_vv-__79_v38_fv8_fz____0-PTn7eb-__6tvahuimbZ4dZ9l3cqWBySp425x7X-_v79_v0ZTwbO2Mv7_PtZeVBIbT43YSvw9O_9__1WUSNhAAAAIHRSTlMDDUaUy-z_5Lx6KP_-_8P_________pWX__zT____WsyqTT1oAAAGnSURBVHgBXZIHdsQgDETZJhehUAReWCB7_1tmSE_G3f-NBsk2XzqdL9cb0bJuu_mn07YwMVuxRPRy_sP2K5HzQaImliz2OP2wuyV2pSRfvNRSItPy-GYENU3SS7BNNTOR_aQ7EIehFYdULQ4MwR9ruVrAT2BdGQIIXSbcLEFhDAlaAiBNfRQ-LfARy1CXVHtX_XTSYcyZKCVh6ToUwikKQ0S33VyIRtHW8NbXVlwdpWeR3AOfzSsxnkvRrgHNJnaqBfuovJkbVZGcXZUWa9OeAbtvSWYofC0wlLvCPw-YmMXRakh8KT16hcEFrykPhGePWRxmoeD8gAXviGdwe7e3gLJPZFmEVrSfIhrJOnx0wRLdzRZGmZ3Z-NkmOCJDz2hlt7l99jmRazqG915LXjDbK1nXBt63HLXZBIhIjXZOHvNjkoqlyNCE6iNjBYFpN9BBwNKHIL3apt4yRHegj-9C0rRaP_-EEmnqaT70uBEB-PfRptIE7Hr69fPN6QdRdTJKZnp-MeiEXOcr5tslOHtD3m89jhtBIsTLZf9xfdU-b8d6HPfzz_s3e6MospfMoVEAAAAASUVORK5CYII.png",
+      "snippet": "Use this fabric yardage calculator to estimate how many linear yards of fabric you need for sewing, canvas work, upholstery, curtains, drapes, awnings, ...",
+      "snippet_highlighted_words": [
+        "Use this fabric yardage calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this fabric yardage calculator to estimate how many linear yards of fabric you need for sewing, canvas work, upholstery, curtains, drapes, awnings, ...",
+          "source_info_link": "https://www.canvasetc.com/fabric-yardage-calculator/?srsltid=AfmBOopOvhSETPkuXWOaI4x0Dpkhhe8BrCEK4lZyIVBvfGktTNasovl_",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEXQ2c729vb8_fz-__79__38_vz8_vv-__79_v38_fv8_fz____0-PTn7eb-__6tvahuimbZ4dZ9l3cqWBySp425x7X-_v79_v0ZTwbO2Mv7_PtZeVBIbT43YSvw9O_9__1WUSNhAAAAIHRSTlMDDUaUy-z_5Lx6KP_-_8P_________pWX__zT____WsyqTT1oAAAGnSURBVHgBXZIHdsQgDETZJhehUAReWCB7_1tmSE_G3f-NBsk2XzqdL9cb0bJuu_mn07YwMVuxRPRy_sP2K5HzQaImliz2OP2wuyV2pSRfvNRSItPy-GYENU3SS7BNNTOR_aQ7EIehFYdULQ4MwR9ruVrAT2BdGQIIXSbcLEFhDAlaAiBNfRQ-LfARy1CXVHtX_XTSYcyZKCVh6ToUwikKQ0S33VyIRtHW8NbXVlwdpWeR3AOfzSsxnkvRrgHNJnaqBfuovJkbVZGcXZUWa9OeAbtvSWYofC0wlLvCPw-YmMXRakh8KT16hcEFrykPhGePWRxmoeD8gAXviGdwe7e3gLJPZFmEVrSfIhrJOnx0wRLdzRZGmZ3Z-NkmOCJDz2hlt7l99jmRazqG915LXjDbK1nXBt63HLXZBIhIjXZOHvNjkoqlyNCE6iNjBYFpN9BBwNKHIL3apt4yRHegj-9C0rRaP_-EEmnqaT70uBEB-PfRptIE7Hr69fPN6QdRdTJKZnp-MeiEXOcr5tslOHtD3m89jhtBIsTLZf9xfdU-b8d6HPfzz_s3e6MospfMoVEAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.canvasetc.com/fabric-yardage-calculator/?srsltid=AfmBOopOvhSETPkuXWOaI4x0Dpkhhe8BrCEK4lZyIVBvfGktTNasovl_&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.canvasetc.com%2Ffabric-yardage-calculator%2F%3Fsrsltid%3DAfmBOopOvhSETPkuXWOaI4x0Dpkhhe8BrCEK4lZyIVBvfGktTNasovl_",
+      "source": "Canvas ETC",
+      "read_more_link": "https://www.canvasetc.com/fabric-yardage-calculator/?srsltid=AfmBOopOvhSETPkuXWOaI4x0Dpkhhe8BrCEK4lZyIVBvfGktTNasovl_#:~:text=Use%20this%20fabric%20yardage%20calculator,table%20covers%2C%20and%20cut%2Dand%2Dsew%20projects."
+    },
+    {
+      "position": 7,
+      "title": "Free Width of Fabric Yardage Conversion Calculator",
+      "link": "https://www.quiltersparadiseesc.com/Calculators/WOF%20Yardage%20Conversion%20Calculator.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quiltersparadiseesc.com/Calculators/WOF%2520Yardage%2520Conversion%2520Calculator.php&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQFnoECDoQAQ",
+      "displayed_link": "https://www.quiltersparadiseesc.com › Calculators › WO...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEVHcEwAkvUAkvUAkvUAkvUAkvUAkvUAkvUAkvUAkfcAjvoAh_9Lpdar0Yi42Hp7urcCkvLp8yzg70D0-gwAkvX__wDT6FMAkvWcypYemOiMwakAjP1nsMbI4mcAkvUg9b5gAAAAH3RSTlMARIq-5fQMmv_______________9j__3n_______84x4rgtgAAAYJJREFUeAFtUukagyAM85a24I1TkL3_Yw7sjuq3_PFIaNOSTCAvyqquq7LIsz9oWiXQNne-UDcU1-NV_AWIKBRVI_hEkzZdTyAkzYUfxqnvxxn-KZbE254QaZ1IdmH-EV9p3BIDu9VwdcoNsJ_5JM0bqluT9izgkAWr8Zd9RMHp0O7Agsmgkoj7TQJt397I9ldBfq4QjyRg5QC3hZbp_2G5M4Xg3ztFFpbZwtMdqTLq5AX80Bvjds-rqNj8TIheW-ej4xA07M66pKhZoPw090dnHUUbK2izee-shiRY2B252XZDPIMrxY4OQZ8DVdEkA2kaEZTvdoBkBY-zQvlLCqAdCbDzCt1MisJE55hPpnmWlXSPiCGQ7-ZzuTGeisFTrv1BfRhHszrOzjWNOAQbTLdbTR6_lyVKKKAUnD7tlfENjGizUTeSYjy-kRNFkOZPJpbsjVoqvLMHnQ7qX-yFAjezGbNh5L-xv3ZBRO-R6wsIp9KfRHEN0j88H-VSVUv5eIqfLxueJCs51MMeAAAAAElFTkSuQmCC.png",
+      "snippet": "Enter the yardage for fabric 1 and its width of fabric, then enter the width of fabric for fabric 2. Click on the Calculate button and the yardage for ...",
+      "snippet_highlighted_words": [
+        "Enter the yardage for fabric 1 and its width of fabric"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Enter the yardage for fabric 1 and its width of fabric, then enter the width of fabric for fabric 2. Click on the Calculate button and the yardage for ...",
+          "source_info_link": "https://www.quiltersparadiseesc.com/Calculators/WOF%20Yardage%20Conversion%20Calculator.php",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEVHcEwAkvUAkvUAkvUAkvUAkvUAkvUAkvUAkvUAkfcAjvoAh_9Lpdar0Yi42Hp7urcCkvLp8yzg70D0-gwAkvX__wDT6FMAkvWcypYemOiMwakAjP1nsMbI4mcAkvUg9b5gAAAAH3RSTlMARIq-5fQMmv_______________9j__3n_______84x4rgtgAAAYJJREFUeAFtUukagyAM85a24I1TkL3_Yw7sjuq3_PFIaNOSTCAvyqquq7LIsz9oWiXQNne-UDcU1-NV_AWIKBRVI_hEkzZdTyAkzYUfxqnvxxn-KZbE254QaZ1IdmH-EV9p3BIDu9VwdcoNsJ_5JM0bqluT9izgkAWr8Zd9RMHp0O7Agsmgkoj7TQJt397I9ldBfq4QjyRg5QC3hZbp_2G5M4Xg3ztFFpbZwtMdqTLq5AX80Bvjds-rqNj8TIheW-ej4xA07M66pKhZoPw090dnHUUbK2izee-shiRY2B252XZDPIMrxY4OQZ8DVdEkA2kaEZTvdoBkBY-zQvlLCqAdCbDzCt1MisJE55hPpnmWlXSPiCGQ7-ZzuTGeisFTrv1BfRhHszrOzjWNOAQbTLdbTR6_lyVKKKAUnD7tlfENjGizUTeSYjy-kRNFkOZPJpbsjVoqvLMHnQ7qX-yFAjezGbNh5L-xv3ZBRO-R6wsIp9KfRHEN0j88H-VSVUv5eIqfLxueJCs51MMeAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quiltersparadiseesc.com/Calculators/WOF%20Yardage%20Conversion%20Calculator.php&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quiltersparadiseesc.com%2FCalculators%2FWOF%2520Yardage%2520Conversion%2520Calculator.php",
+      "source": "Quilter's Paradise",
+      "read_more_link": "https://www.quiltersparadiseesc.com/Calculators/WOF%20Yardage%20Conversion%20Calculator.php#:~:text=Enter%20the%20yardage%20for%20fabric,will%20be%20calculated%20and%20displayed."
+    },
+    {
+      "position": 8,
+      "title": "Fabric Yardage Estimator for Clothing & Activewear",
+      "link": "https://spandexbyyard.com/pages/fabric-yardage-calculator?srsltid=AfmBOoqsidQgt4-CnYdgN8m1aqbEMWXONWIGw80q0J1Jjv-PgEQidfgv",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://spandexbyyard.com/pages/fabric-yardage-calculator%3Fsrsltid%3DAfmBOoqsidQgt4-CnYdgN8m1aqbEMWXONWIGw80q0J1Jjv-PgEQidfgv&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQFnoECDwQAQ",
+      "displayed_link": "https://spandexbyyard.com › fabric-yardage-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUAAAAAAgEAAAIAAAUAAAM5BQdsCQ2LCwynCg6xCQugDw99EhRfERY1CA1JCAqcChLHDBDgBwvkBgjRCw-FCgpcCgspBAQiAAAfBwnfBgDaCAeVEBe-DQ9TCQzXBABFRUSampqIiIgcHBwvAwW2trb____S0tJdXV1jCQ02DRKrq6sOCgz6-vorKyvDw8Ps7OxsbGxUVFTOzs4xMTHPN61bAAAA3UlEQVR4AbzONXJEMRBF0dfSMH9mZob9L84qJ0Ny6ludHUHjHyJiYjhETAz7QGy2u_3heDyczpcr4a3b_aGo2lE3tqZl2S83Cbej4rhHwwaxzQYvtOEbT3FUP-CEz4jTXQnVOyci9qU8cF3nCE6Q5Tmhe5UTSFdDDYjiJP1Gbj5ULWNAXpTVF9LWVw7EIbTIJfvWB69hoKIoWnzGGLebDuiFfiPYhgNDIRogbxQ2QV5ciOa_7okvEyklQoqpkkiV_1KMl6JqqeYkLwtRP37-tsTtuK5jHs8_M2YYeAAAvCsS_m5JYeYAAAAASUVORK5CYII.png",
+      "snippet": "Use our fabric estimator to calculate how many yards of fabric you need for common garments like t-shirts, swimwear, dresses, leggings, and more. Perfect for ...",
+      "snippet_highlighted_words": [
+        "Use our fabric estimator to calculate how many yards of fabric you need"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our fabric estimator to calculate how many yards of fabric you need for common garments like t-shirts, swimwear, dresses, leggings, and more. Perfect for ...",
+          "source_info_link": "https://spandexbyyard.com/pages/fabric-yardage-calculator?srsltid=AfmBOoqsidQgt4-CnYdgN8m1aqbEMWXONWIGw80q0J1Jjv-PgEQidfgv",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAnFBMVEUAAAAAAgEAAAIAAAUAAAM5BQdsCQ2LCwynCg6xCQugDw99EhRfERY1CA1JCAqcChLHDBDgBwvkBgjRCw-FCgpcCgspBAQiAAAfBwnfBgDaCAeVEBe-DQ9TCQzXBABFRUSampqIiIgcHBwvAwW2trb____S0tJdXV1jCQ02DRKrq6sOCgz6-vorKyvDw8Ps7OxsbGxUVFTOzs4xMTHPN61bAAAA3UlEQVR4AbzONXJEMRBF0dfSMH9mZob9L84qJ0Ny6ludHUHjHyJiYjhETAz7QGy2u_3heDyczpcr4a3b_aGo2lE3tqZl2S83Cbej4rhHwwaxzQYvtOEbT3FUP-CEz4jTXQnVOyci9qU8cF3nCE6Q5Tmhe5UTSFdDDYjiJP1Gbj5ULWNAXpTVF9LWVw7EIbTIJfvWB69hoKIoWnzGGLebDuiFfiPYhgNDIRogbxQ2QV5ciOa_7okvEyklQoqpkkiV_1KMl6JqqeYkLwtRP37-tsTtuK5jHs8_M2YYeAAAvCsS_m5JYeYAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://spandexbyyard.com/pages/fabric-yardage-calculator?srsltid=AfmBOoqsidQgt4-CnYdgN8m1aqbEMWXONWIGw80q0J1Jjv-PgEQidfgv&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fspandexbyyard.com%2Fpages%2Ffabric-yardage-calculator%3Fsrsltid%3DAfmBOoqsidQgt4-CnYdgN8m1aqbEMWXONWIGw80q0J1Jjv-PgEQidfgv",
+      "source": "Spandexbyyard",
+      "read_more_link": "https://spandexbyyard.com/pages/fabric-yardage-calculator?srsltid=AfmBOoqsidQgt4-CnYdgN8m1aqbEMWXONWIGw80q0J1Jjv-PgEQidfgv#:~:text=Use%20our%20fabric%20estimator%20to,stretch%20fabrics%2C%20and%20performance%20materials."
+    },
+    {
+      "position": 9,
+      "title": "Fabric Calculator",
+      "link": "https://www.omnicalculator.com/everyday-life/fabric",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.omnicalculator.com/everyday-life/fabric&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQFnoECEAQAQ",
+      "displayed_link": "https://www.omnicalculator.com › everyday-life › fabric",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz8YXX8SWD8RV78RV38TmT8QFn8U2lCbfo-avpEbvpKc_o7aPpAbPo_a_r8R1_LvM1BbPpIcvpAbPo9avr8RFxFb_pPd_pjhvlIcfr8dIb60Cz6zh76zh36zRf6zA_6zA7510r6zh360Cn61DzYpcloAAAAJXRSTlMAFWuqzkr_Lonjczn_v86KBKZPtPjjXiUNRQgvbaDP__8LjkkVqtFInQAAAPBJREFUeAFt0QWWhEAMRdGPywRacNf9r3Eq5HQYqXsEeUgJlON6vu-7sAj8UET4y-GkMU5S3KLwBnwRUWZtHpCRkUM4n-A_XBd40uUl0ZfkORC51DeMQFoAVRArYVTaVEas_ozmAcVKGRMeIXuCNWktJymxFr5MgMX8pwZGS6yTX7owOmIJWEJGCte0qofxokujQ4qBZ8_JHpXts8AwToN9QMC8rOtinwq2xVh3-yI854Ud1uXDsUq1LvxzlnpCvBPdMuNcLgNQp-mrJPGCGHhIM0_llgNaV34xIZXhdu4Hz1yl-Etj3OK_Os_zIu6gvgFLyRf2XteplQAAAABJRU5ErkJggg.png",
+      "snippet": "This fabric calculator is designed to help you to calculate the total amount of fabric you will need for your project.",
+      "snippet_highlighted_words": [
+        "fabric calculator",
+        "fabric"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This fabric calculator is designed to help you to calculate the total amount of fabric you will need for your project.",
+          "source_info_link": "https://www.omnicalculator.com/everyday-life/fabric",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz8YXX8SWD8RV78RV38TmT8QFn8U2lCbfo-avpEbvpKc_o7aPpAbPo_a_r8R1_LvM1BbPpIcvpAbPo9avr8RFxFb_pPd_pjhvlIcfr8dIb60Cz6zh76zh36zRf6zA_6zA7510r6zh360Cn61DzYpcloAAAAJXRSTlMAFWuqzkr_Lonjczn_v86KBKZPtPjjXiUNRQgvbaDP__8LjkkVqtFInQAAAPBJREFUeAFt0QWWhEAMRdGPywRacNf9r3Eq5HQYqXsEeUgJlON6vu-7sAj8UET4y-GkMU5S3KLwBnwRUWZtHpCRkUM4n-A_XBd40uUl0ZfkORC51DeMQFoAVRArYVTaVEas_ozmAcVKGRMeIXuCNWktJymxFr5MgMX8pwZGS6yTX7owOmIJWEJGCte0qofxokujQ4qBZ8_JHpXts8AwToN9QMC8rOtinwq2xVh3-yI854Ud1uXDsUq1LvxzlnpCvBPdMuNcLgNQp-mrJPGCGHhIM0_llgNaV34xIZXhdu4Hz1yl-Etj3OK_Os_zIu6gvgFLyRf2XteplQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.omnicalculator.com/everyday-life/fabric&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.omnicalculator.com%2Feveryday-life%2Ffabric",
+      "source": "Omni Calculator"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Cosplay fabric yardage calculator free",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Cosplay+fabric+yardage+calculator+free&sa=X&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cosplay+fabric+yardage+calculator+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Cosplay fabric yardage calculator app",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Cosplay+fabric+yardage+calculator+app&sa=X&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cosplay+fabric+yardage+calculator+app"
+    },
+    {
+      "block_position": 1,
+      "query": "Free fabric Calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Free+fabric+Calculator&sa=X&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+fabric+Calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Free Fabric Calculator upholstery",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Free+Fabric+Calculator+upholstery&sa=X&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+Fabric+Calculator+upholstery"
+    },
+    {
+      "block_position": 1,
+      "query": "Fabric calculator chart",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Fabric+calculator+chart&sa=X&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fabric+calculator+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Fabric yardage calculator for clothing",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Fabric+yardage+calculator+for+clothing&sa=X&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fabric+yardage+calculator+for+clothing"
+    },
+    {
+      "block_position": 1,
+      "query": "Free fabric Calculator for cushions",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Free+fabric+Calculator+for+cushions&sa=X&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+fabric+Calculator+for+cushions"
+    },
+    {
+      "block_position": 1,
+      "query": "Sailrite Fabric Calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Sailrite+Fabric+Calculator&sa=X&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sailrite+Fabric+Calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=cosplay+fabric+yardage+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Nxg6arHoBtCi5NoPzsn4oAY&start=10&sa=N&sstk=AU9db-A3qokOwrgElSEgoJFXM8U1c7LjBDF7XgJ0OX651eFne6vK-5zZN6AljGXAYflpp9EI8baLJQErClvLOJzRcSrRXlluC7rhdA&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ8NMDegQIMBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=cosplay+fabric+yardage+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Nxg6arHoBtCi5NoPzsn4oAY&start=10&sa=N&sstk=AU9db-A3qokOwrgElSEgoJFXM8U1c7LjBDF7XgJ0OX651eFne6vK-5zZN6AljGXAYflpp9EI8baLJQErClvLOJzRcSrRXlluC7rhdA&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ8tMDegQIMBAE",
+      "3": "https://www.google.com/search?q=cosplay+fabric+yardage+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Nxg6arHoBtCi5NoPzsn4oAY&start=20&sa=N&sstk=AU9db-A3qokOwrgElSEgoJFXM8U1c7LjBDF7XgJ0OX651eFne6vK-5zZN6AljGXAYflpp9EI8baLJQErClvLOJzRcSrRXlluC7rhdA&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ8tMDegQIMBAG",
+      "4": "https://www.google.com/search?q=cosplay+fabric+yardage+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Nxg6arHoBtCi5NoPzsn4oAY&start=30&sa=N&sstk=AU9db-A3qokOwrgElSEgoJFXM8U1c7LjBDF7XgJ0OX651eFne6vK-5zZN6AljGXAYflpp9EI8baLJQErClvLOJzRcSrRXlluC7rhdA&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ8tMDegQIMBAI",
+      "5": "https://www.google.com/search?q=cosplay+fabric+yardage+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Nxg6arHoBtCi5NoPzsn4oAY&start=40&sa=N&sstk=AU9db-A3qokOwrgElSEgoJFXM8U1c7LjBDF7XgJ0OX651eFne6vK-5zZN6AljGXAYflpp9EI8baLJQErClvLOJzRcSrRXlluC7rhdA&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ8tMDegQIMBAK",
+      "6": "https://www.google.com/search?q=cosplay+fabric+yardage+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Nxg6arHoBtCi5NoPzsn4oAY&start=50&sa=N&sstk=AU9db-A3qokOwrgElSEgoJFXM8U1c7LjBDF7XgJ0OX651eFne6vK-5zZN6AljGXAYflpp9EI8baLJQErClvLOJzRcSrRXlluC7rhdA&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ8tMDegQIMBAM",
+      "7": "https://www.google.com/search?q=cosplay+fabric+yardage+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Nxg6arHoBtCi5NoPzsn4oAY&start=60&sa=N&sstk=AU9db-A3qokOwrgElSEgoJFXM8U1c7LjBDF7XgJ0OX651eFne6vK-5zZN6AljGXAYflpp9EI8baLJQErClvLOJzRcSrRXlluC7rhdA&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ8tMDegQIMBAO",
+      "8": "https://www.google.com/search?q=cosplay+fabric+yardage+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Nxg6arHoBtCi5NoPzsn4oAY&start=70&sa=N&sstk=AU9db-A3qokOwrgElSEgoJFXM8U1c7LjBDF7XgJ0OX651eFne6vK-5zZN6AljGXAYflpp9EI8baLJQErClvLOJzRcSrRXlluC7rhdA&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ8tMDegQIMBAQ",
+      "9": "https://www.google.com/search?q=cosplay+fabric+yardage+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Nxg6arHoBtCi5NoPzsn4oAY&start=80&sa=N&sstk=AU9db-A3qokOwrgElSEgoJFXM8U1c7LjBDF7XgJ0OX651eFne6vK-5zZN6AljGXAYflpp9EI8baLJQErClvLOJzRcSrRXlluC7rhdA&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ8tMDegQIMBAS",
+      "10": "https://www.google.com/search?q=cosplay+fabric+yardage+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Nxg6arHoBtCi5NoPzsn4oAY&start=90&sa=N&sstk=AU9db-A3qokOwrgElSEgoJFXM8U1c7LjBDF7XgJ0OX651eFne6vK-5zZN6AljGXAYflpp9EI8baLJQErClvLOJzRcSrRXlluC7rhdA&ved=2ahUKEwjx3_ufz5yVAxVQEVkFHc4kHmQQ8tMDegQIMBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cosplay+fabric+yardage+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cosplay+fabric+yardage+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cosplay+fabric+yardage+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cosplay+fabric+yardage+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cosplay+fabric+yardage+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cosplay+fabric+yardage+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cosplay+fabric+yardage+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cosplay+fabric+yardage+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cosplay+fabric+yardage+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cosplay+fabric+yardage+calculator&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cosplay+fabric+yardage+calculator&start=90"
+    }
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "search_metadata": {
+    "id": "6a3a2175d08cfee2d8376e9d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Q4svbwKUdNHCqfR9n5icgw/6a3a2175d08cfee2d8376e9d.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Q4svbwKUdNHCqfR9n5icgw/6a3a2175d08cfee2d8376e9d.json_with_pixel_position",
+    "created_at": "2026-06-23 06:02:29 UTC",
+    "processed_at": "2026-06-23 06:02:29 UTC",
+    "google_url": "https://www.google.com/search?q=military+deployment+length+average+days&oq=military+deployment+length+average+days&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Q4svbwKUdNHCqfR9n5icgw/6a3a2175d08cfee2d8376e9d.html",
+    "total_time_taken": 1.0
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military deployment length average days",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military deployment length average days",
+    "total_results": 145,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How long do military deployments usually last?",
+      "type": "ai_overview",
+      "page_token": "x40oA3icHdDRbqJAFIDh9GV6WcEpbmJimlJRSwoNA-fMMDcbGFTYmWHGFUW967v0qfZp1vQF_uT7v75116t_D-d2GNxxPpmM4_i0t3avt0_Smkl1vPZyIiut60qq-ezXzH_ZyUV0eg_fDu9hBs7hkno5NESo-MYg8JM-nnFPWCzUkBh9AuJy8IYTFq_PFYYBM_RQoV7SW2qpiSsw4pqwS1j78TknGEA0zOpNdM2XcVeqIULW8A8IWGMEzyNHUhavE9-5nDTT3Dh3b-pcXZJUXRRbUitZ0yNfHUteetsCNzhtHBahSJk_pNqO4NtnQYTmXnOodenRqSTFRtDMiA5I29XrC4naRoEH05KjRgw_U5OOzWqVJRBkwJF-hrbLgN7kH22AU1-SluE6WKFxUaZws4X2cDepuwdlH35A9riT5wV5_Pm5-L0zw9z9tfv_rFeDww",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=x40oA3icHdDRbqJAFIDh9GV6WcEpbmJimlJRSwoNA-fMMDcbGFTYmWHGFUW967v0qfZp1vQF_uT7v75116t_D-d2GNxxPpmM4_i0t3avt0_Smkl1vPZyIiut60qq-ezXzH_ZyUV0eg_fDu9hBs7hkno5NESo-MYg8JM-nnFPWCzUkBh9AuJy8IYTFq_PFYYBM_RQoV7SW2qpiSsw4pqwS1j78TknGEA0zOpNdM2XcVeqIULW8A8IWGMEzyNHUhavE9-5nDTT3Dh3b-pcXZJUXRRbUitZ0yNfHUteetsCNzhtHBahSJk_pNqO4NtnQYTmXnOodenRqSTFRtDMiA5I29XrC4naRoEH05KjRgw_U5OOzWqVJRBkwJF-hrbLgN7kH22AU1-SluE6WKFxUaZws4X2cDepuwdlH35A9riT5wV5_Pm5-L0zw9z9tfv_rFeDww",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsRlZNVEZRU25vMlJXTTNlRTltVFhWTk9IVlpPVGt3WVRoblpGVXdjblpvVm5OeVgzcHhZVkE1TVRSQ00zWm1hamh1TjFkR1kxOTVjMHB2ZG1aUVUzQTFSMWt6VUVwZk1sVjJkbk4yUjBZeVoyeDVNR05JWnkxSlFSSVhaRk5GTm1GMVpWVlFUalpqY0hSUlVERk9VRkYxVVRnYUlrRkVjM0k1WmxSS1ZuUTJOakoyVFc1cFJqazBkelF3VDJsdFRrTmlOVE5HTkdjIiwiZmN2IjoiMyIsImVpIjoiZFNFNmF1ZVVQTjZjcHRRUDFOUFF1UTgiLCJxYyI6IkNpZHRhV3hwZEdGeWVTQmtaWEJzYjNsdFpXNTBJR3hsYm1kMGFDQmhkbVZ5WVdkbElHUmhlWE1RQUgzcmJnY18iLCJxdWVzdGlvbiI6IkhvdyBsb25nIGRvIG1pbGl0YXJ5IGRlcGxveW1lbnRzIHVzdWFsbHkgbGFzdD8iLCJsayI6IkdpMW9iM2NnYkc5dVp5QmtieUJ0YVd4cGRHRnllU0JrWlhCc2IzbHRaVzUwY3lCMWMzVmhiR3g1SUd4aGMzUSIsImJzIjoiYzVXT3ZRckNNQlJHRVp6dTVDUWxDbjZDcXdvVlZ5dUk0QnQwdnRyYnBwQW0wcVNVUHA4dnBpSklCeFdjel9sLWlHbDFjaTJNc3dVeWg2bzBaZUM2UXlaWDQ3cEtiUEJvZk1QR2RERHNReEt2MVZMX2s2QTlMVkxOQVZ3TGdoWnM0UU1YNHVIeVhpaUpJelgtak9oSVNMVjd0eGJ5bUhoaHlaQ1g5ZlBXWE0zYTN3N3RhSEpnMnl2R1diQkI1V3pRUG9sdXczaXExT1dyTVJyY0FRIiwiaWQiOiJmY19kU0U2YXVlVVBONmNwdFFQMU5QUXVROF8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsRlZNVEZRU25vMlJXTTNlRTltVFhWTk9IVlpPVGt3WVRoblpGVXdjblpvVm5OeVgzcHhZVkE1TVRSQ00zWm1hamh1TjFkR1kxOTVjMHB2ZG1aUVUzQTFSMWt6VUVwZk1sVjJkbk4yUjBZeVoyeDVNR05JWnkxSlFSSVhaRk5GTm1GMVpWVlFUalpqY0hSUlVERk9VRkYxVVRnYUlrRkVjM0k1WmxSS1ZuUTJOakoyVFc1cFJqazBkelF3VDJsdFRrTmlOVE5HTkdjIiwiZmN2IjoiMyIsImVpIjoiZFNFNmF1ZVVQTjZjcHRRUDFOUFF1UTgiLCJxYyI6IkNpZHRhV3hwZEdGeWVTQmtaWEJzYjNsdFpXNTBJR3hsYm1kMGFDQmhkbVZ5WVdkbElHUmhlWE1RQUgzcmJnY18iLCJxdWVzdGlvbiI6IkhvdyBsb25nIGRvIG1pbGl0YXJ5IGRlcGxveW1lbnRzIHVzdWFsbHkgbGFzdD8iLCJsayI6IkdpMW9iM2NnYkc5dVp5QmtieUJ0YVd4cGRHRnllU0JrWlhCc2IzbHRaVzUwY3lCMWMzVmhiR3g1SUd4aGMzUSIsImJzIjoiYzVXT3ZRckNNQlJHRVp6dTVDUWxDbjZDcXdvVlZ5dUk0QnQwdnRyYnBwQW0wcVNVUHA4dnBpSklCeFdjel9sLWlHbDFjaTJNc3dVeWg2bzBaZUM2UXlaWDQ3cEtiUEJvZk1QR2RERHNReEt2MVZMX2s2QTlMVkxOQVZ3TGdoWnM0UU1YNHVIeVhpaUpJelgtak9oSVNMVjd0eGJ5bUhoaHlaQ1g5ZlBXWE0zYTN3N3RhSEpnMnl2R1diQkI1V3pRUG9sdXczaXExT1dyTVJyY0FRIiwiaWQiOiJmY19kU0U2YXVlVVBONmNwdFFQMU5QUXVROF8yIn0%3D"
+    },
+    {
+      "question": "What are the 5 stages of deployment?",
+      "type": "ai_overview",
+      "page_token": "G_F273icHdDbboIwAIDh7GW8HIjDRROzDC0oSeto6QFuFmxVDkWqMkHu9i57qj3NzB7g_y7-7x9dnKrfp1vetuY6t6yu656PTXPU-2fZ1FZ2vZ-kJTOtd5ms5tPX6fjtIBfga-MtzxsvosawFbZJtbnzki2Tk89TnZ4YCwsoFIBgZqAzvuwqk-1jVKQi7UmskHRMA_WMylU4FbYaKNMTHsyuSIcRCvp0zxVOYtAi6pJHc1Wrh89fnJQ_7KAbeOULyWULuS6IZm4M4BDbvSuBX9JiXBFtPoSDY1mH68xpaQxwTyha74JQp3UuUKlcWIUDKt9b4aCWTNAmE2a6Fx7G45kHclVRmzqJYJoxb4tq1CnfjyB1IyoY3npNEVE8yFLXDPQhYogkQ2KnAp2jWh8wUzkUeUkCTBO7P9NodJC3xWT0_3Pxeajbubk0xz8TwYRT",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=G_F273icHdDbboIwAIDh7GW8HIjDRROzDC0oSeto6QFuFmxVDkWqMkHu9i57qj3NzB7g_y7-7x9dnKrfp1vetuY6t6yu656PTXPU-2fZ1FZ2vZ-kJTOtd5ms5tPX6fjtIBfga-MtzxsvosawFbZJtbnzki2Tk89TnZ4YCwsoFIBgZqAzvuwqk-1jVKQi7UmskHRMA_WMylU4FbYaKNMTHsyuSIcRCvp0zxVOYtAi6pJHc1Wrh89fnJQ_7KAbeOULyWULuS6IZm4M4BDbvSuBX9JiXBFtPoSDY1mH68xpaQxwTyha74JQp3UuUKlcWIUDKt9b4aCWTNAmE2a6Fx7G45kHclVRmzqJYJoxb4tq1CnfjyB1IyoY3npNEVE8yFLXDPQhYogkQ2KnAp2jWh8wUzkUeUkCTBO7P9NodJC3xWT0_3Pxeajbubk0xz8TwYRT",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsRlZNVEZRU25vMlJXTTNlRTltVFhWTk9IVlpPVGt3WVRoblpGVXdjblpvVm5OeVgzcHhZVkE1TVRSQ00zWm1hamh1TjFkR1kxOTVjMHB2ZG1aUVUzQTFSMWt6VUVwZk1sVjJkbk4yUjBZeVoyeDVNR05JWnkxSlFSSVhaRk5GTm1GMVpWVlFUalpqY0hSUlVERk9VRkYxVVRnYUlrRkVjM0k1WmxSS1ZuUTJOakoyVFc1cFJqazBkelF3VDJsdFRrTmlOVE5HTkdjIiwiZmN2IjoiMyIsImVpIjoiZFNFNmF1ZVVQTjZjcHRRUDFOUFF1UTgiLCJxYyI6IkNpZHRhV3hwZEdGeWVTQmtaWEJzYjNsdFpXNTBJR3hsYm1kMGFDQmhkbVZ5WVdkbElHUmhlWE1RQUgzcmJnY18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSA1IHN0YWdlcyBvZiBkZXBsb3ltZW50PyIsImxrIjoiR2hZMUlITjBZV2RsY3lCdlppQmtaWEJzYjNsdFpXNTAiLCJicyI6ImM1V092UXJDTUJSR0VaenU1Q1FsQ242Q3F3b1ZWeXVJNEJ0MHZ0cmJwcEFtMHFTVVBwOHZwaUpJQnhXY3pfbC1pR2wxY2kyTXN3VXloNm8wWmVDNlF5Wlg0N3BLYlBCb2ZNUEdkRERzUXhLdjFWTF9rNkE5TFZMTkFWd0xnaFpzNFFNWDR1SHlYaWlKSXpYLWpPaElTTFY3dHhieW1IaGh5WkNYOWZQV1hNM2Ezdzd0YUhKZzJ5dkdXYkJCNVd6UVBvbHV3M2lxMU9Xck1ScmNBUSIsImlkIjoiZmNfZFNFNmF1ZVVQTjZjcHRRUDFOUFF1UThfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsRlZNVEZRU25vMlJXTTNlRTltVFhWTk9IVlpPVGt3WVRoblpGVXdjblpvVm5OeVgzcHhZVkE1TVRSQ00zWm1hamh1TjFkR1kxOTVjMHB2ZG1aUVUzQTFSMWt6VUVwZk1sVjJkbk4yUjBZeVoyeDVNR05JWnkxSlFSSVhaRk5GTm1GMVpWVlFUalpqY0hSUlVERk9VRkYxVVRnYUlrRkVjM0k1WmxSS1ZuUTJOakoyVFc1cFJqazBkelF3VDJsdFRrTmlOVE5HTkdjIiwiZmN2IjoiMyIsImVpIjoiZFNFNmF1ZVVQTjZjcHRRUDFOUFF1UTgiLCJxYyI6IkNpZHRhV3hwZEdGeWVTQmtaWEJzYjNsdFpXNTBJR3hsYm1kMGFDQmhkbVZ5WVdkbElHUmhlWE1RQUgzcmJnY18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSA1IHN0YWdlcyBvZiBkZXBsb3ltZW50PyIsImxrIjoiR2hZMUlITjBZV2RsY3lCdlppQmtaWEJzYjNsdFpXNTAiLCJicyI6ImM1V092UXJDTUJSR0VaenU1Q1FsQ242Q3F3b1ZWeXVJNEJ0MHZ0cmJwcEFtMHFTVVBwOHZwaUpJQnhXY3pfbC1pR2wxY2kyTXN3VXloNm8wWmVDNlF5Wlg0N3BLYlBCb2ZNUEdkRERzUXhLdjFWTF9rNkE5TFZMTkFWd0xnaFpzNFFNWDR1SHlYaWlKSXpYLWpPaElTTFY3dHhieW1IaGh5WkNYOWZQV1hNM2Ezdzd0YUhKZzJ5dkdXYkJCNVd6UVBvbHV3M2lxMU9Xck1ScmNBUSIsImlkIjoiZmNfZFNFNmF1ZVVQTjZjcHRRUDFOUFF1UThfMiJ9"
+    },
+    {
+      "question": "Who usually gets deployed first?",
+      "type": "ai_overview",
+      "page_token": "RhB4TXicHZDBbuIwFEXVn-myxKFhNEioaoaYoipGNnmO7c0osYEQvzShpLh013-Zr5qvGTTbuznn3O8_eHzzf-8uzTgO5_lkEkJ4OPT9AXcPtu8m1fn6Zie2Qqwr6-ezHzPytLeL7GOd_jqtUw7DIJci2iqebL_8lbX0qGKacOBXszQfZSs7h_5TR-zEima6eZEvrBxPeTf4aoqlpHQEhaTyrNkSlwn6cyZilgukmoHJNZpWLjGRGVEcHLWxGGp5IxaO25J2Gp9H4RHANxe2cvGOQsgRPjURqqZGFBQJrM5R3aaKxSSw4jlU0WOyK_VjTfOgI0yNz8iW9olRnkAmNetYmjXOQwSxVhKlTDe3LThKeQ63NCXFJu2PHMSXbbG7-b26Ql_rVkdiJV5BuXVdJqmJx7zyQzAFLYHf7-1lMb3__-fi974b58N7f_gHCfWCkA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RhB4TXicHZDBbuIwFEXVn-myxKFhNEioaoaYoipGNnmO7c0osYEQvzShpLh013-Zr5qvGTTbuznn3O8_eHzzf-8uzTgO5_lkEkJ4OPT9AXcPtu8m1fn6Zie2Qqwr6-ezHzPytLeL7GOd_jqtUw7DIJci2iqebL_8lbX0qGKacOBXszQfZSs7h_5TR-zEima6eZEvrBxPeTf4aoqlpHQEhaTyrNkSlwn6cyZilgukmoHJNZpWLjGRGVEcHLWxGGp5IxaO25J2Gp9H4RHANxe2cvGOQsgRPjURqqZGFBQJrM5R3aaKxSSw4jlU0WOyK_VjTfOgI0yNz8iW9olRnkAmNetYmjXOQwSxVhKlTDe3LThKeQ63NCXFJu2PHMSXbbG7-b26Ql_rVkdiJV5BuXVdJqmJx7zyQzAFLYHf7-1lMb3__-fi974b58N7f_gHCfWCkA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsRlZNVEZRU25vMlJXTTNlRTltVFhWTk9IVlpPVGt3WVRoblpGVXdjblpvVm5OeVgzcHhZVkE1TVRSQ00zWm1hamh1TjFkR1kxOTVjMHB2ZG1aUVUzQTFSMWt6VUVwZk1sVjJkbk4yUjBZeVoyeDVNR05JWnkxSlFSSVhaRk5GTm1GMVpWVlFUalpqY0hSUlVERk9VRkYxVVRnYUlrRkVjM0k1WmxSS1ZuUTJOakoyVFc1cFJqazBkelF3VDJsdFRrTmlOVE5HTkdjIiwiZmN2IjoiMyIsImVpIjoiZFNFNmF1ZVVQTjZjcHRRUDFOUFF1UTgiLCJxYyI6IkNpZHRhV3hwZEdGeWVTQmtaWEJzYjNsdFpXNTBJR3hsYm1kMGFDQmhkbVZ5WVdkbElHUmhlWE1RQUgzcmJnY18iLCJxdWVzdGlvbiI6IldobyB1c3VhbGx5IGdldHMgZGVwbG95ZWQgZmlyc3Q/IiwibGsiOiJHaDkzYUc4Z2RYTjFZV3hzZVNCblpYUnpJR1JsY0d4dmVXVmtJR1pwY25OMCIsImJzIjoiYzVXT3ZRckNNQlJHRVp6dTVDUWxDbjZDcXdvVlZ5dUk0QnQwdnRyYnBwQW0wcVNVUHA4dnBpSklCeFdjel9sLWlHbDFjaTJNc3dVeWg2bzBaZUM2UXlaWDQ3cEtiUEJvZk1QR2RERHNReEt2MVZMX2s2QTlMVkxOQVZ3TGdoWnM0UU1YNHVIeVhpaUpJelgtak9oSVNMVjd0eGJ5bUhoaHlaQ1g5ZlBXWE0zYTN3N3RhSEpnMnl2R1diQkI1V3pRUG9sdXczaXExT1dyTVJyY0FRIiwiaWQiOiJmY19kU0U2YXVlVVBONmNwdFFQMU5QUXVROF8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsRlZNVEZRU25vMlJXTTNlRTltVFhWTk9IVlpPVGt3WVRoblpGVXdjblpvVm5OeVgzcHhZVkE1TVRSQ00zWm1hamh1TjFkR1kxOTVjMHB2ZG1aUVUzQTFSMWt6VUVwZk1sVjJkbk4yUjBZeVoyeDVNR05JWnkxSlFSSVhaRk5GTm1GMVpWVlFUalpqY0hSUlVERk9VRkYxVVRnYUlrRkVjM0k1WmxSS1ZuUTJOakoyVFc1cFJqazBkelF3VDJsdFRrTmlOVE5HTkdjIiwiZmN2IjoiMyIsImVpIjoiZFNFNmF1ZVVQTjZjcHRRUDFOUFF1UTgiLCJxYyI6IkNpZHRhV3hwZEdGeWVTQmtaWEJzYjNsdFpXNTBJR3hsYm1kMGFDQmhkbVZ5WVdkbElHUmhlWE1RQUgzcmJnY18iLCJxdWVzdGlvbiI6IldobyB1c3VhbGx5IGdldHMgZGVwbG95ZWQgZmlyc3Q%2FIiwibGsiOiJHaDkzYUc4Z2RYTjFZV3hzZVNCblpYUnpJR1JsY0d4dmVXVmtJR1pwY25OMCIsImJzIjoiYzVXT3ZRckNNQlJHRVp6dTVDUWxDbjZDcXdvVlZ5dUk0QnQwdnRyYnBwQW0wcVNVUHA4dnBpSklCeFdjel9sLWlHbDFjaTJNc3dVeWg2bzBaZUM2UXlaWDQ3cEtiUEJvZk1QR2RERHNReEt2MVZMX2s2QTlMVkxOQVZ3TGdoWnM0UU1YNHVIeVhpaUpJelgtak9oSVNMVjd0eGJ5bUhoaHlaQ1g5ZlBXWE0zYTN3N3RhSEpnMnl2R1diQkI1V3pRUG9sdXczaXExT1dyTVJyY0FRIiwiaWQiOiJmY19kU0U2YXVlVVBONmNwdFFQMU5QUXVROF8yIn0%3D"
+    },
+    {
+      "question": "Can deployment be 3 months?",
+      "type": "featured_snippet",
+      "snippet": "Deployment lengths in the Army can vary between 90 days and 15 months, however, many deployments are typically between six and 12 months.",
+      "title": "Q&A: How Long Is a Deployment in the Army? | Indeed.com",
+      "date": "Dec 11, 2025",
+      "link": "https://www.indeed.com/career-advice/starting-new-job/how-long-is-deployment-in-army#:~:text=Deployment%20lengths%20in%20the%20Army,between%20six%20and%2012%20months.",
+      "displayed_link": "https://www.indeed.com › ... › Starting a new job",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAflBMVEUAAAD_______________________________________________-_zuZvkMZQd7pAa7Sgtdnv8_gAOptgg8AgUqcgU6evweCAnc0QRqF_nc3v8vhwkMcwXq3f5vLP2uz____f5_JfhMB_nM0wX66AnM1PeLqPqdOftdrv8_mN6_jEAAAAIXRSTlMAEGCfz-__XyCQj98w_________________________6AQ1BAWAAABD0lEQVR4AYWThRZCIQxAR-11h939_z-oHECHGNd4sbvR8IJxIRWikiJiEBInCl-IGHxYim-kfnqGARkpkj_jRVnVVdMaIw_yi7qr-7IaxolXg7n4dDZfGHEojGFG4_q3XK3RsSE9jV3-SqevC6ToRrbmdjc84m3ddeOOCAkAQ8Oo6--7BzURFANuB3DQ_8dOgwTuWjjpAnjW8YEKAqS5KU0dLVyoIEGZYdnOr8veH4YCN-5vWGGBVtxc68IXFFLqrus8QYH8LUjY_hYE8N9CBEz9FBhA8ksQZLmpQJeblAiFxNtyoZCxYNMvu252CzY-2fa3fVU84_nfg0NgyXs8YeATb0lUJTGEML61x5-T7DuGyRy8BcS3-wAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsRlZNVEZRU25vMlJXTTNlRTltVFhWTk9IVlpPVGt3WVRoblpGVXdjblpvVm5OeVgzcHhZVkE1TVRSQ00zWm1hamh1TjFkR1kxOTVjMHB2ZG1aUVUzQTFSMWt6VUVwZk1sVjJkbk4yUjBZeVoyeDVNR05JWnkxSlFSSVhaRk5GTm1GMVpWVlFUalpqY0hSUlVERk9VRkYxVVRnYUlrRkVjM0k1WmxSS1ZuUTJOakoyVFc1cFJqazBkelF3VDJsdFRrTmlOVE5HTkdjIiwiZmN2IjoiMyIsImVpIjoiZFNFNmF1ZVVQTjZjcHRRUDFOUFF1UTgiLCJxYyI6IkNpZHRhV3hwZEdGeWVTQmtaWEJzYjNsdFpXNTBJR3hsYm1kMGFDQmhkbVZ5WVdkbElHUmhlWE1RQUgzcmJnY18iLCJxdWVzdGlvbiI6IkNhbiBkZXBsb3ltZW50IGJlIDMgbW9udGhzPyIsImxrIjoiR2hwallXNGdaR1Z3Ykc5NWJXVnVkQ0JpWlNBeklHMXZiblJvY3ciLCJicyI6ImM1V092UXJDTUJSR0VaenU1Q1FsQ242Q3F3b1ZWeXVJNEJ0MHZ0cmJwcEFtMHFTVVBwOHZwaUpJQnhXY3pfbC1pR2wxY2kyTXN3VXloNm8wWmVDNlF5Wlg0N3BLYlBCb2ZNUEdkRERzUXhLdjFWTF9rNkE5TFZMTkFWd0xnaFpzNFFNWDR1SHlYaWlKSXpYLWpPaElTTFY3dHhieW1IaGh5WkNYOWZQV1hNM2Ezdzd0YUhKZzJ5dkdXYkJCNVd6UVBvbHV3M2lxMU9Xck1ScmNBUSIsImlkIjoiZmNfZFNFNmF1ZVVQTjZjcHRRUDFOUFF1UThfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1FsRlZNVEZRU25vMlJXTTNlRTltVFhWTk9IVlpPVGt3WVRoblpGVXdjblpvVm5OeVgzcHhZVkE1TVRSQ00zWm1hamh1TjFkR1kxOTVjMHB2ZG1aUVUzQTFSMWt6VUVwZk1sVjJkbk4yUjBZeVoyeDVNR05JWnkxSlFSSVhaRk5GTm1GMVpWVlFUalpqY0hSUlVERk9VRkYxVVRnYUlrRkVjM0k1WmxSS1ZuUTJOakoyVFc1cFJqazBkelF3VDJsdFRrTmlOVE5HTkdjIiwiZmN2IjoiMyIsImVpIjoiZFNFNmF1ZVVQTjZjcHRRUDFOUFF1UTgiLCJxYyI6IkNpZHRhV3hwZEdGeWVTQmtaWEJzYjNsdFpXNTBJR3hsYm1kMGFDQmhkbVZ5WVdkbElHUmhlWE1RQUgzcmJnY18iLCJxdWVzdGlvbiI6IkNhbiBkZXBsb3ltZW50IGJlIDMgbW9udGhzPyIsImxrIjoiR2hwallXNGdaR1Z3Ykc5NWJXVnVkQ0JpWlNBeklHMXZiblJvY3ciLCJicyI6ImM1V092UXJDTUJSR0VaenU1Q1FsQ242Q3F3b1ZWeXVJNEJ0MHZ0cmJwcEFtMHFTVVBwOHZwaUpJQnhXY3pfbC1pR2wxY2kyTXN3VXloNm8wWmVDNlF5Wlg0N3BLYlBCb2ZNUEdkRERzUXhLdjFWTF9rNkE5TFZMTkFWd0xnaFpzNFFNWDR1SHlYaWlKSXpYLWpPaElTTFY3dHhieW1IaGh5WkNYOWZQV1hNM2Ezdzd0YUhKZzJ5dkdXYkJCNVd6UVBvbHV3M2lxMU9Xck1ScmNBUSIsImlkIjoiZmNfZFNFNmF1ZVVQTjZjcHRRUDFOUFF1UThfMiJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "P928JHicxVbbcqpIFH2f_zi-JBFBYkyqqFPd2BritU2MwReLmw3KLYASfJt_ma-al_mV0yAoRk1qTtXUtCV9YffqvXvv5fLPv2zLXf39xz9mFPnhA8PEcVwlnkdso6p5DqOEiasxC88OA838mWyEekULhVrFsAT9GTWUtTEZDRqaH-EROxjhNW5Wsi3CXFVCY0kRP5YhM2foY_Wj3qKTalg13Ko60qzFY_QYT0iVq7H31SGjONQA_IcNgXHWY_qRaC-dWKTHk29QsJRufN7PIRCzXjyy6u-AJCnrxIugYu6FKKcmrZtZwEPQwtna4xdePB9Pp-kDgTh1h7qI8Lk955wo1ry8hxdPRKdLmTHMz2qV4S_FC8sJxinmSxOIh0QUIUNQREBNCB3DHeItgPwoFjviF2kiAPnmIzJv8FmnS63dRX6cj3tyh3rE6IQWYY1RA9qxjKWZWjYIwrQ2xZf7mteJIz4a2_N6j5u4H-3GduZLjzo_9PtbzGgqtbM9RTf0uTmv_czmLMfecbeNBn-dkUIL96wIy6yYNfo2qD8t6m1Q7VUhW6JEdhnSUcxpucEL4XXzO_xkDnYoKd5TfjfFLU8KM-gV7MgXlqu0quT9QjNNhfn5xBTrlBJFI-UBpUTmtjTZ7yybp0MJHlzNW-tzvg_zPAYZdPE-ZFTyeIdWuioIVim41CkW4v2rFJXYIKM4pQTKAYdH-0nZMXpZUASoeL33ILVprfZmKPMwfS1jLAOpTSlK00eK4PNUUkpIx3cHlkezNkm_IjlL8O8aPCT8UkOgqP1PpVymAHoiTStacr7UrasJf4Ne-2CbfPiIH5LzJe856r9QAu3_JcUk14lJzoTuWVKQb0iBJfSlTuz8PuhEWiuid4kUYl7GxzqxK9yDTpyS4vmYFHudkD7rRIkUO5SvSQEvkmL3s3JKilQnTkhBLpBipxNlUhzrhLtHTiMokeK3dAL_hk5kHDF23bForJfkonigF6X7KsuDzsZnrYQfr0d37n0TrgYbDnwrHgsnenAU3b6eW_oD5J6iRL-e0wXvwdAr74Jj2VakBMmVbvi2lziGG13Zhksi80rZGIFCjCtdScKKYweeUFMaETTew9mm7yaSA1-nrhlDroPqYlsdeyp5G7fuxhMkL6YTXn2G4jvYsM7sDa-bnS4IFkNPnfrDOjdf9yO8HnbNN5SM_JUFXGc7Gb6vV0ZfM-tRc7rF91KwuXsTmyvAzV6bPTLvbbG8cafiUh_UuNkT2Fq6J4HMr1BoTeUXjo83XdSsOIEmUBbwBAwwmBKg0fIHmP6ZwqJHvzFNfiXUlLkRbgTtlq2pCm80brnGon7PVhwSJb7As5XQDQT2F4bbGEo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=P928JHicxVbbcqpIFH2f_zi-JBFBYkyqqFPd2BritU2MwReLmw3KLYASfJt_ma-al_mV0yAoRk1qTtXUtCV9YffqvXvv5fLPv2zLXf39xz9mFPnhA8PEcVwlnkdso6p5DqOEiasxC88OA838mWyEekULhVrFsAT9GTWUtTEZDRqaH-EROxjhNW5Wsi3CXFVCY0kRP5YhM2foY_Wj3qKTalg13Ko60qzFY_QYT0iVq7H31SGjONQA_IcNgXHWY_qRaC-dWKTHk29QsJRufN7PIRCzXjyy6u-AJCnrxIugYu6FKKcmrZtZwEPQwtna4xdePB9Pp-kDgTh1h7qI8Lk955wo1ry8hxdPRKdLmTHMz2qV4S_FC8sJxinmSxOIh0QUIUNQREBNCB3DHeItgPwoFjviF2kiAPnmIzJv8FmnS63dRX6cj3tyh3rE6IQWYY1RA9qxjKWZWjYIwrQ2xZf7mteJIz4a2_N6j5u4H-3GduZLjzo_9PtbzGgqtbM9RTf0uTmv_czmLMfecbeNBn-dkUIL96wIy6yYNfo2qD8t6m1Q7VUhW6JEdhnSUcxpucEL4XXzO_xkDnYoKd5TfjfFLU8KM-gV7MgXlqu0quT9QjNNhfn5xBTrlBJFI-UBpUTmtjTZ7yybp0MJHlzNW-tzvg_zPAYZdPE-ZFTyeIdWuioIVim41CkW4v2rFJXYIKM4pQTKAYdH-0nZMXpZUASoeL33ILVprfZmKPMwfS1jLAOpTSlK00eK4PNUUkpIx3cHlkezNkm_IjlL8O8aPCT8UkOgqP1PpVymAHoiTStacr7UrasJf4Ne-2CbfPiIH5LzJe856r9QAu3_JcUk14lJzoTuWVKQb0iBJfSlTuz8PuhEWiuid4kUYl7GxzqxK9yDTpyS4vmYFHudkD7rRIkUO5SvSQEvkmL3s3JKilQnTkhBLpBipxNlUhzrhLtHTiMokeK3dAL_hk5kHDF23bForJfkonigF6X7KsuDzsZnrYQfr0d37n0TrgYbDnwrHgsnenAU3b6eW_oD5J6iRL-e0wXvwdAr74Jj2VakBMmVbvi2lziGG13Zhksi80rZGIFCjCtdScKKYweeUFMaETTew9mm7yaSA1-nrhlDroPqYlsdeyp5G7fuxhMkL6YTXn2G4jvYsM7sDa-bnS4IFkNPnfrDOjdf9yO8HnbNN5SM_JUFXGc7Gb6vV0ZfM-tRc7rF91KwuXsTmyvAzV6bPTLvbbG8cafiUh_UuNkT2Fq6J4HMr1BoTeUXjo83XdSsOIEmUBbwBAwwmBKg0fIHmP6ZwqJHvzFNfiXUlLkRbgTtlq2pCm80brnGon7PVhwSJb7As5XQDQT2F4bbGEo"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Why is six months the common length of deployment for ...",
+      "link": "https://www.reddit.com/r/WarCollege/comments/15mu5sa/why_is_six_months_the_common_length_of_deployment/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/WarCollege/comments/15mu5sa/why_is_six_months_the_common_length_of_deployment/&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQFnoECCUQAQ",
+      "displayed_link": "9 comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "I know for many countries during NATO's Afghanistan war, they had deployments of six months. United Kingdom, France, Canada, Denmark, Norway, Germany ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Why Does the Army do 9-Month Deployments ...",
+            "link": "https://www.reddit.com/r/army/comments/1b1mekt/why_does_the_army_do_9month_deploymentsrotations/",
+            "answer_count": 98,
+            "date": "Feb 27, 2024"
+          },
+          {
+            "title": "Army deployment lengths : r/army - Reddit",
+            "link": "https://www.reddit.com/r/army/comments/1hn5xzj/army_deployment_lengths/",
+            "answer_count": 34,
+            "date": "Dec 27, 2024"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "I know the Marines deploy for seven months and the US Army did twelve month deployments during that time. Why did six seem to be the popular ...",
+          "source_info_link": "https://www.reddit.com/r/WarCollege/comments/15mu5sa/why_is_six_months_the_common_length_of_deployment/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/WarCollege/comments/15mu5sa/why_is_six_months_the_common_length_of_deployment/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FWarCollege%2Fcomments%2F15mu5sa%2Fwhy_is_six_months_the_common_length_of_deployment%2F",
+      "source": "Reddit · r/WarCollege"
+    },
+    {
+      "position": 2,
+      "title": "Deployment",
+      "link": "https://www.goarmy.com/army-life/intro-to-army-life/deployment",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goarmy.com/army-life/intro-to-army-life/deployment&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQFnoECB0QAQ",
+      "displayed_link": "https://www.goarmy.com › army-life › intro-to-army-life",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEUiHyAhHiArJh8sKB0XFiFpVxcPEiCvjg4dGyHhtQX3xwAXFyH-zQAbGiA-NR3asAlzXhbwwwTsvgUyKx43Lx3_0QD_zwBLPxunhw_OpQxlUxnHoQpANhucfhBdTRhWSBcFDSGNchK8lwy0kw4eHCCAaRWVeRJGOxsoIx-gEP57AAABH0lEQVR4AWIgHgD6pAoDhkEgGMeJPhHivv-CdW_pReBdbfuPzHHNUs_3PaNhgFBgMsUuIS42eqXU5NdmiHPEfvsVMuQ8lOLdAl8RRHGSxFFwI68eUpldgQAhhW6ETC_CvCivSHjk8-RGFPm1LZVWwE9QpJZEnW-gdOXYF6nIGgpx01adZXVV28TAm0zcs8Z9RyAZHM-2PWdIFOl68dq4eqS8SDFOC06n-qOJLBthch3HnWDMmPWOWWq61EVRL1TL-UMoqpismnM9kLgSH32dVxUnQE55xWr9WIjZ1aBA5_nlSN_9eh2FZLAYs4YEaPc-t76B0mcng5n5Jaz9-9ZptLFrv9iG9FvQOVuce79s4SzZ_Gq5W0_ydN3td79myoAjxgQV8rX2KR8AAAAASUVORK5CYII.png",
+      "snippet": "The length of deployment varies. Deployment lengths can vary depending on certain factors like the Army's needs, the mission itself, or other world events.",
+      "snippet_highlighted_words": [
+        "length",
+        "deployment",
+        "Deployment lengths",
+        "Army's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The length of deployment varies. Deployment lengths can vary depending on certain factors like the Army's needs, the mission itself, or other world events.",
+          "source_info_link": "https://www.goarmy.com/army-life/intro-to-army-life/deployment",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEUiHyAhHiArJh8sKB0XFiFpVxcPEiCvjg4dGyHhtQX3xwAXFyH-zQAbGiA-NR3asAlzXhbwwwTsvgUyKx43Lx3_0QD_zwBLPxunhw_OpQxlUxnHoQpANhucfhBdTRhWSBcFDSGNchK8lwy0kw4eHCCAaRWVeRJGOxsoIx-gEP57AAABH0lEQVR4AWIgHgD6pAoDhkEgGMeJPhHivv-CdW_pReBdbfuPzHHNUs_3PaNhgFBgMsUuIS42eqXU5NdmiHPEfvsVMuQ8lOLdAl8RRHGSxFFwI68eUpldgQAhhW6ETC_CvCivSHjk8-RGFPm1LZVWwE9QpJZEnW-gdOXYF6nIGgpx01adZXVV28TAm0zcs8Z9RyAZHM-2PWdIFOl68dq4eqS8SDFOC06n-qOJLBthch3HnWDMmPWOWWq61EVRL1TL-UMoqpismnM9kLgSH32dVxUnQE55xWr9WIjZ1aBA5_nlSN_9eh2FZLAYs4YEaPc-t76B0mcng5n5Jaz9-9ZptLFrv9iG9FvQOVuce79s4SzZ_Gq5W0_ydN3td79myoAjxgQV8rX2KR8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.goarmy.com/army-life/intro-to-army-life/deployment&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.goarmy.com%2Farmy-life%2Fintro-to-army-life%2Fdeployment",
+      "source": "GoArmy.com",
+      "read_more_link": "https://www.goarmy.com/army-life/intro-to-army-life/deployment#:~:text=The%20length%20of%20deployment%20varies.,itself%2C%20or%20other%20world%20events."
+    },
+    {
+      "position": 3,
+      "title": "How Long is a Military Deployment?",
+      "link": "https://www.uso.org/stories/2871-how-long-is-a-military-deployment",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uso.org/stories/2871-how-long-is-a-military-deployment&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQFnoECB8QAQ",
+      "displayed_link": "https://www.uso.org › stories › 2871-how-long-is-a-mil...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAMAAAAocOYLAAAAbFBMVEVHcEy7Ez64ADC2ACG1AB2wAALXiZfsztTAK03lpa9seosAAzkAAC4AAB3M1drFN1Zyf48dMlOFjJutsrvl5OcvP1z9_v6do65EUmrs7O6Ql6PCxcrIy9G3u8NZY3gCHUbM0NXb0Na5ACgAJEk7u3q6AAAAJHRSTlMALKmgoT7____________6________________________zitcYjFYAAAAwUlEQVR4AeyOCw7CIBAF_X_6drVAWWi1W73_JQVRQ5MewZdkEjLZCav_1pvt4nbb4veH4_JOH39ukEagBMpgyu_L9etbGFhHnTedBMReHGAq3zS9H24sfrhDeHQQ2N5U99Hh7YNjoTGwQF3dJ1N8K1ODMZBM834rpU9BlLKHlanu23KvqsJvr3bWj8WHkeXTj_O-Ge4sJvvyv2HW9zp5kQsSHqQJiFrfEwHMnEAMykj8-UP3XFp_Kn79mhIuoDyauAG3nxqOGTlehwAAAABJRU5ErkJggg.png",
+      "date": "Mar 23, 2022",
+      "snippet": "The average military deployment is typically between six and 12 months long. However, deployment lengths vary greatly from branch to branch, are situational ...",
+      "snippet_highlighted_words": [
+        "between six and 12 months long"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The average military deployment is typically between six and 12 months long. However, deployment lengths vary greatly from branch to branch, are situational ...",
+          "source_info_link": "https://www.uso.org/stories/2871-how-long-is-a-military-deployment",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAMAAAAocOYLAAAAbFBMVEVHcEy7Ez64ADC2ACG1AB2wAALXiZfsztTAK03lpa9seosAAzkAAC4AAB3M1drFN1Zyf48dMlOFjJutsrvl5OcvP1z9_v6do65EUmrs7O6Ql6PCxcrIy9G3u8NZY3gCHUbM0NXb0Na5ACgAJEk7u3q6AAAAJHRSTlMALKmgoT7____________6________________________zitcYjFYAAAAwUlEQVR4AeyOCw7CIBAF_X_6drVAWWi1W73_JQVRQ5MewZdkEjLZCav_1pvt4nbb4veH4_JOH39ukEagBMpgyu_L9etbGFhHnTedBMReHGAq3zS9H24sfrhDeHQQ2N5U99Hh7YNjoTGwQF3dJ1N8K1ODMZBM834rpU9BlLKHlanu23KvqsJvr3bWj8WHkeXTj_O-Ge4sJvvyv2HW9zp5kQsSHqQJiFrfEwHMnEAMykj8-UP3XFp_Kn79mhIuoDyauAG3nxqOGTlehwAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.uso.org/stories/2871-how-long-is-a-military-deployment&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.uso.org%2Fstories%2F2871-how-long-is-a-military-deployment",
+      "source": "United Service Organizations",
+      "read_more_link": "https://www.uso.org/stories/2871-how-long-is-a-military-deployment#:~:text=The%20average%20military%20deployment%20is,to%20each%20individual%20service%20member."
+    },
+    {
+      "position": 4,
+      "title": "How long can a soldier be deployed and how many times ...",
+      "link": "https://www.quora.com/How-long-can-a-soldier-be-deployed-and-how-many-times-before-they-are-sent-home",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/How-long-can-a-soldier-be-deployed-and-how-many-times-before-they-are-sent-home&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQFnoECC4QAQ",
+      "displayed_link": "10+ answers · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+      "snippet": "How long can a soldier be deployed and how many times before they are sent home?",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What is the average length of a military deployment ...",
+            "link": "https://www.quora.com/What-is-the-average-length-of-a-military-deployment-Is-there-a-standard-amount-of-time-spent-at-home-between-deployments",
+            "answer_count": 1,
+            "date": "Jan 31, 2024"
+          },
+          {
+            "title": "What is the typical length of deployment for officers ...",
+            "link": "https://www.quora.com/What-is-the-typical-length-of-deployment-for-officers-and-enlisted-members-in-the-US-Army",
+            "answer_count": 5,
+            "date": "Jan 11, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Units are usually deployed for six months, but may be extended once if there exists a military need. But eventually, the families of those ...",
+          "source_info_link": "https://www.quora.com/How-long-can-a-soldier-be-deployed-and-how-many-times-before-they-are-sent-home",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/How-long-can-a-soldier-be-deployed-and-how-many-times-before-they-are-sent-home&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quora.com%2FHow-long-can-a-soldier-be-deployed-and-how-many-times-before-they-are-sent-home",
+      "source": "Quora"
+    },
+    {
+      "position": 5,
+      "title": "Military Pre-Deployments to Reintegration",
+      "link": "https://www.militaryonesource.mil/deployment/pre-deployment/deployment-101-predeployment-to-reintegration/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militaryonesource.mil/deployment/pre-deployment/deployment-101-predeployment-to-reintegration/&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQFnoECB4QAQ",
+      "displayed_link": "https://www.militaryonesource.mil › pre-deployment",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png",
+      "date": "May 20, 2025",
+      "snippet": "An average deployment cycle will include months of training at their home base and at these specialized courses. Soldiers with specific ...",
+      "snippet_highlighted_words": [
+        "average deployment"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "An average deployment cycle will include months of training at their home base and at these specialized courses. Soldiers with specific ...",
+          "source_info_link": "https://www.militaryonesource.mil/deployment/pre-deployment/deployment-101-predeployment-to-reintegration/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militaryonesource.mil/deployment/pre-deployment/deployment-101-predeployment-to-reintegration/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militaryonesource.mil%2Fdeployment%2Fpre-deployment%2Fdeployment-101-predeployment-to-reintegration%2F",
+      "source": "Military OneSource (.mil)",
+      "read_more_link": "https://www.militaryonesource.mil/deployment/pre-deployment/deployment-101-predeployment-to-reintegration/#:~:text=Marine%20Corps"
+    },
+    {
+      "position": 6,
+      "title": "Q&A: How Long Is a Deployment in the Army?",
+      "link": "https://www.indeed.com/career-advice/starting-new-job/how-long-is-deployment-in-army",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.indeed.com/career-advice/starting-new-job/how-long-is-deployment-in-army&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQFnoECEsQAQ",
+      "displayed_link": "https://www.indeed.com › ... › Starting a new job",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAflBMVEUAAAD_______________________________________________-_zuZvkMZQd7pAa7Sgtdnv8_gAOptgg8AgUqcgU6evweCAnc0QRqF_nc3v8vhwkMcwXq3f5vLP2uz____f5_JfhMB_nM0wX66AnM1PeLqPqdOftdrv8_mN6_jEAAAAIXRSTlMAEGCfz-__XyCQj98w_________________________6AQ1BAWAAABD0lEQVR4AYWThRZCIQxAR-11h939_z-oHECHGNd4sbvR8IJxIRWikiJiEBInCl-IGHxYim-kfnqGARkpkj_jRVnVVdMaIw_yi7qr-7IaxolXg7n4dDZfGHEojGFG4_q3XK3RsSE9jV3-SqevC6ToRrbmdjc84m3ddeOOCAkAQ8Oo6--7BzURFANuB3DQ_8dOgwTuWjjpAnjW8YEKAqS5KU0dLVyoIEGZYdnOr8veH4YCN-5vWGGBVtxc68IXFFLqrus8QYH8LUjY_hYE8N9CBEz9FBhA8ksQZLmpQJeblAiFxNtyoZCxYNMvu252CzY-2fa3fVU84_nfg0NgyXs8YeATb0lUJTGEML61x5-T7DuGyRy8BcS3-wAAAABJRU5ErkJggg.png",
+      "date": "7 days ago",
+      "snippet": "Deployment lengths in the Army can vary between 90 days and 15 months, however, many deployments are typically between six and 12 months.",
+      "snippet_highlighted_words": [
+        "90 days and 15 months"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What is an Army deployment?",
+            "link": "https://www.indeed.com/career-advice/starting-new-job/how-long-is-deployment-in-army#toc-what-is-an-army-deployment"
+          },
+          {
+            "title": "Who is eligible for deployment?",
+            "link": "https://www.indeed.com/career-advice/starting-new-job/how-long-is-deployment-in-army#toc-who-is-eligible-for-deployment"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Deployment lengths in the Army can vary between 90 days and 15 months, however, many deployments are typically between six and 12 months.",
+          "source_info_link": "https://www.indeed.com/career-advice/starting-new-job/how-long-is-deployment-in-army",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAflBMVEUAAAD_______________________________________________-_zuZvkMZQd7pAa7Sgtdnv8_gAOptgg8AgUqcgU6evweCAnc0QRqF_nc3v8vhwkMcwXq3f5vLP2uz____f5_JfhMB_nM0wX66AnM1PeLqPqdOftdrv8_mN6_jEAAAAIXRSTlMAEGCfz-__XyCQj98w_________________________6AQ1BAWAAABD0lEQVR4AYWThRZCIQxAR-11h939_z-oHECHGNd4sbvR8IJxIRWikiJiEBInCl-IGHxYim-kfnqGARkpkj_jRVnVVdMaIw_yi7qr-7IaxolXg7n4dDZfGHEojGFG4_q3XK3RsSE9jV3-SqevC6ToRrbmdjc84m3ddeOOCAkAQ8Oo6--7BzURFANuB3DQ_8dOgwTuWjjpAnjW8YEKAqS5KU0dLVyoIEGZYdnOr8veH4YCN-5vWGGBVtxc68IXFFLqrus8QYH8LUjY_hYE8N9CBEz9FBhA8ksQZLmpQJeblAiFxNtyoZCxYNMvu252CzY-2fa3fVU84_nfg0NgyXs8YeATb0lUJTGEML61x5-T7DuGyRy8BcS3-wAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.indeed.com/career-advice/starting-new-job/how-long-is-deployment-in-army&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.indeed.com%2Fcareer-advice%2Fstarting-new-job%2Fhow-long-is-deployment-in-army",
+      "source": "Indeed",
+      "read_more_link": "https://www.indeed.com/career-advice/starting-new-job/how-long-is-deployment-in-army#:~:text=Deployment%20lengths%20in%20the%20Army,between%20six%20and%2012%20months."
+    },
+    {
+      "position": 7,
+      "title": "CHARACTERISTICS OF THE DEPLOYED - NCBI - NIH",
+      "link": "https://www.ncbi.nlm.nih.gov/books/NBK206861/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncbi.nlm.nih.gov/books/NBK206861/&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQFnoECEgQAQ",
+      "displayed_link": "https://www.ncbi.nlm.nih.gov › books › NBK206861",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACZElEQVR4AWMYBUxMTCy2do5NsfHJLxKS0v6Tgj08fZbADeKVkGIImvyJIWjKfzD273_CYJY0iYFbRAivA4CWt4AMIxcrKavYwQ3TDysCWY6Cnco34XUA0OfPKHFAaHjUJVZWVhawYSwcbAze7VcwHKFk64PTASBDKMWmZhYFcAMVLB0wHODbfYeBjYeDZg4AhuIHAQFBCbih9kXLMBxhFFVDGwcgEuQimJmMAjJSjLAEicBfGPhl5GjjAESCtIE7wiC0BCMU7ItX0MYBiAR5ATlBMmJJkKA0QhsHIBJkHtxweUsnDAd4NF8COo6FZg7ATJDFKzAcoRuUQxsHIBLkArgF_DIyQEtRE6R__ztgCSlCKwcgEiSihCzDCAXrrBkYDqBlgmTybruG5og_DJI6RmAH0AobGZvC45pJwcIFIxTc6g_R1AFa2rph8HJBzTUKS7mwimYOCAgM3cMEBGDbOQX4QNUzmgO-MQgpKNDKAb8kpGR14InQJK4DS91QR7NE6Ojs3ge3XERVA2jhD7Ta8R6wduSiVUH0gouLWwAc70zMTAwu1TswfK_iGESzgkjPwCQBbriSbQCG5S7VuxiYWJho4oDgsOhjsIQHCmJQUKM54BcwSrRoVRn9kZWVN4Hne6PIOnTfM5ol9dCsOnZ185wBz_PA7AXKZmjl_zNQdqRVk-wNLy-fCNxQp7J1GHGv5hpHsyaZsZllFlIbwA1LkXsEmvAwQXR88gMKK51zzKxsyM1y7JUOLgBqwVCx2i3BSHiWaX2EumZMwCDMiY5LeUBh1wylJczo3_8I7CAmFhZ89o8CANLzo8kQBHupAAAAAElFTkSuQmCC.png",
+      "snippet": "The average length of deployments was 7.7 months—from an average of 4.5 months in the Air Force to an average of 9.4 months in the Army. The average cumulative ...",
+      "snippet_highlighted_words": [
+        "7.7 months"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "DEMOGRAPHICS",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK206861/#_sec_0048_"
+          },
+          {
+            "title": "DEPLOYMENT",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK206861/#_sec_0055_"
+          },
+          {
+            "title": "SUMMARY",
+            "link": "https://www.ncbi.nlm.nih.gov/books/NBK206861/#_sec_0059_"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The average length of deployments was 7.7 months—from an average of 4.5 months in the Air Force to an average of 9.4 months in the Army. The average cumulative ...",
+          "source_info_link": "https://www.ncbi.nlm.nih.gov/books/NBK206861/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACZElEQVR4AWMYBUxMTCy2do5NsfHJLxKS0v6Tgj08fZbADeKVkGIImvyJIWjKfzD273_CYJY0iYFbRAivA4CWt4AMIxcrKavYwQ3TDysCWY6Cnco34XUA0OfPKHFAaHjUJVZWVhawYSwcbAze7VcwHKFk64PTASBDKMWmZhYFcAMVLB0wHODbfYeBjYeDZg4AhuIHAQFBCbih9kXLMBxhFFVDGwcgEuQimJmMAjJSjLAEicBfGPhl5GjjAESCtIE7wiC0BCMU7ItX0MYBiAR5ATlBMmJJkKA0QhsHIBJkHtxweUsnDAd4NF8COo6FZg7ATJDFKzAcoRuUQxsHIBLkArgF_DIyQEtRE6R__ztgCSlCKwcgEiSihCzDCAXrrBkYDqBlgmTybruG5og_DJI6RmAH0AobGZvC45pJwcIFIxTc6g_R1AFa2rph8HJBzTUKS7mwimYOCAgM3cMEBGDbOQX4QNUzmgO-MQgpKNDKAb8kpGR14InQJK4DS91QR7NE6Ojs3ge3XERVA2jhD7Ta8R6wduSiVUH0gouLWwAc70zMTAwu1TswfK_iGESzgkjPwCQBbriSbQCG5S7VuxiYWJho4oDgsOhjsIQHCmJQUKM54BcwSrRoVRn9kZWVN4Hne6PIOnTfM5ol9dCsOnZ185wBz_PA7AXKZmjl_zNQdqRVk-wNLy-fCNxQp7J1GHGv5hpHsyaZsZllFlIbwA1LkXsEmvAwQXR88gMKK51zzKxsyM1y7JUOLgBqwVCx2i3BSHiWaX2EumZMwCDMiY5LeUBh1wylJczo3_8I7CAmFhZ89o8CANLzo8kQBHupAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ncbi.nlm.nih.gov/books/NBK206861/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fbooks%2FNBK206861%2F",
+      "source": "National Institutes of Health (.gov)",
+      "read_more_link": "https://www.ncbi.nlm.nih.gov/books/NBK206861/#:~:text=The%20average%20length%20of%20deployments,multiple%20deployers%20was%2016.9%20months."
+    },
+    {
+      "position": 8,
+      "title": "How long is most deployments period ? Months or years ?",
+      "link": "https://www.facebook.com/groups/1891225374484330/posts/3736184893321693/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1891225374484330/posts/3736184893321693/&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQFnoECFEQAQ",
+      "displayed_link": "10+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "How long is most deployments period ? Months or years ?",
+      "about_this_result": {
+        "source": {
+          "description": "Here's what you need to know: ✓ Deployment Length: Most Air Force deployments last 4 to 6 months, with some extending to 9-12 months depending ...",
+          "source_info_link": "https://www.facebook.com/groups/1891225374484330/posts/3736184893321693/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1891225374484330/posts/3736184893321693/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1891225374484330%2Fposts%2F3736184893321693%2F",
+      "source": "Facebook · ASVAB Advantage Study Group"
+    },
+    {
+      "position": 9,
+      "title": "DoD Tracks Military Deployments",
+      "link": "https://www.dvidshub.net/news/529927/dod-tracks-military-deployments",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dvidshub.net/news/529927/dod-tracks-military-deployments&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQFnoECE8QAQ",
+      "displayed_link": "https://www.dvidshub.net › news › dod-tracks-military-d...",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OisBCgoKDQ0NEw0PFzcdHxk3LSstKystKzcrKzcrNysrNysrKysrKys3KystKysrKysrKysrKysrKysrKysrKysrK__AABEIACAAIAMBIgACEQEDEQH_xAAXAAADAQAAAAAAAAAAAAAAAAADBAUG_8QAMBAAAQMDAQUFCAMAAAAAAAAAAQIDBAUGEQASEzFBkSFEUYGzByMlYXGEobEUFSL_xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf_EABURAQEAAAAAAAAAAAAAAAAAAABB_9oADAMBAAIRAxEAPwAVPorD0OO4phBK20qJxxyNPtW7FPGM301SYl06jW7Al1SQllCo7eyMEqUdkcAO06Ta9oVsp5TT9srVGFvmL_XVlpmON0gxwopT2DOTpO30KkVEtukrSIz68HxS2og9RqjfVXg1-tNSqYHdymOGzvWyg7W0Tz-ug2q38VcyO4S_QXqwAq8t6py0F1RLcdhphlHJCUtpB6qydaD2eWcxdVQlNzJDrEeK2lSgzgKWVEgDJBwP8n8aRq1PjxJEV1iVHeZlxWXPdupUWnN2kLQoA5ByM9vj8tUbYr0m2pjsqnqjOb5sIcaeXhKgDkHI4EZPXVgHfFrxLcr6IMB19xpUZLpLygTkqUOQHhpags7uorOO4zPQXqpctaRcNRiVF7csuqhIS62lwEJWFryP0fMaVhOR2pZUX2QP4kpOdscSysAeZ7NIP__Z.jpeg",
+      "date": "Jul 4, 2025",
+      "snippet": "Rudy de Leon, defense undersecretary for personnel and readiness, said DoD's goal is for service members to deploy no more than 120 days per ...",
+      "snippet_highlighted_words": [
+        "deploy",
+        "days"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Rudy de Leon, defense undersecretary for personnel and readiness, said DoD's goal is for service members to deploy no more than 120 days per ...",
+          "source_info_link": "https://www.dvidshub.net/news/529927/dod-tracks-military-deployments",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OisBCgoKDQ0NEw0PFzcdHxk3LSstKystKzcrKzcrNysrNysrKysrKys3KystKysrKysrKysrKysrKysrKysrKysrK__AABEIACAAIAMBIgACEQEDEQH_xAAXAAADAQAAAAAAAAAAAAAAAAADBAUG_8QAMBAAAQMDAQUFCAMAAAAAAAAAAQIDBAUGEQASEzFBkSFEUYGzByMlYXGEobEUFSL_xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf_EABURAQEAAAAAAAAAAAAAAAAAAABB_9oADAMBAAIRAxEAPwAVPorD0OO4phBK20qJxxyNPtW7FPGM301SYl06jW7Al1SQllCo7eyMEqUdkcAO06Ta9oVsp5TT9srVGFvmL_XVlpmON0gxwopT2DOTpO30KkVEtukrSIz68HxS2og9RqjfVXg1-tNSqYHdymOGzvWyg7W0Tz-ug2q38VcyO4S_QXqwAq8t6py0F1RLcdhphlHJCUtpB6qydaD2eWcxdVQlNzJDrEeK2lSgzgKWVEgDJBwP8n8aRq1PjxJEV1iVHeZlxWXPdupUWnN2kLQoA5ByM9vj8tUbYr0m2pjsqnqjOb5sIcaeXhKgDkHI4EZPXVgHfFrxLcr6IMB19xpUZLpLygTkqUOQHhpags7uorOO4zPQXqpctaRcNRiVF7csuqhIS62lwEJWFryP0fMaVhOR2pZUX2QP4kpOdscSysAeZ7NIP__Z.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.dvidshub.net/news/529927/dod-tracks-military-deployments&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dvidshub.net%2Fnews%2F529927%2Fdod-tracks-military-deployments",
+      "source": "DVIDS",
+      "read_more_link": "https://www.dvidshub.net/news/529927/dod-tracks-military-deployments#:~:text=Rudy%20de%20Leon%2C%20defense%20undersecretary,than%20120%20days%20per%20year."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "How long is deployment in the Air Force",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=How+long+is+deployment+in+the+Air+Force&sa=X&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+long+is+deployment+in+the+Air+Force"
+    },
+    {
+      "block_position": 1,
+      "query": "How long is deployment in the Army National Guard",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=How+long+is+deployment+in+the+Army+National+Guard&sa=X&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+long+is+deployment+in+the+Army+National+Guard"
+    },
+    {
+      "block_position": 1,
+      "query": "How does deployment work in the Army",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=How+does+deployment+work+in+the+Army&sa=X&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+does+deployment+work+in+the+Army"
+    },
+    {
+      "block_position": 1,
+      "query": "Army deployment Schedule 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Army+deployment+Schedule+2026&sa=X&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Army+deployment+Schedule+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "How often do you get deployed in the army",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=How+often+do+you+get+deployed+in+the+army&sa=X&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+often+do+you+get+deployed+in+the+army"
+    },
+    {
+      "block_position": 1,
+      "query": "Military deployed in U.S. today",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+deployed+in+U.S.+today&sa=X&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+deployed+in+U.S.+today"
+    },
+    {
+      "block_position": 1,
+      "query": "Upcoming Army deployments",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Upcoming+Army+deployments&sa=X&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Upcoming+Army+deployments"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+deployment+length+average+days&sca_esv=c510ba4e6526f391&ei=dSE6aueUPN6cptQP1NPQuQ8&start=10&sa=N&sstk=AU9db-C5QUTqDdkSU1QZJlRJpgDEj6Fw3L59Px049-spvelVI-Rz0vfEBU2HO8NhdjP9LNpkGFhiDXMqfTT0XmKAgIJrhXPnWVueWA&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQ8NMDegQIOhAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+deployment+length+average+days&sca_esv=c510ba4e6526f391&ei=dSE6aueUPN6cptQP1NPQuQ8&start=10&sa=N&sstk=AU9db-C5QUTqDdkSU1QZJlRJpgDEj6Fw3L59Px049-spvelVI-Rz0vfEBU2HO8NhdjP9LNpkGFhiDXMqfTT0XmKAgIJrhXPnWVueWA&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQ8tMDegQIOhAE",
+      "3": "https://www.google.com/search?q=military+deployment+length+average+days&sca_esv=c510ba4e6526f391&ei=dSE6aueUPN6cptQP1NPQuQ8&start=20&sa=N&sstk=AU9db-C5QUTqDdkSU1QZJlRJpgDEj6Fw3L59Px049-spvelVI-Rz0vfEBU2HO8NhdjP9LNpkGFhiDXMqfTT0XmKAgIJrhXPnWVueWA&ved=2ahUKEwino8qI2JyVAxVejokEHdQpNPcQ8tMDegQIOhAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+deployment+length+average+days&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+deployment+length+average+days&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+deployment+length+average+days&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+deployment+length+average+days&start=20"
+    }
+  }
+}

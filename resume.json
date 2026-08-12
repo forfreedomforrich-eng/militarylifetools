@@ -1,0 +1,423 @@
+{
+  "search_metadata": {
+    "id": "6a3a21c8d08cfee04d88a2aa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/KphvCxs3fpVy_C-LVQxA2Q/6a3a21c8d08cfee04d88a2aa.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/KphvCxs3fpVy_C-LVQxA2Q/6a3a21c8d08cfee04d88a2aa.json_with_pixel_position",
+    "created_at": "2026-06-23 06:03:52 UTC",
+    "processed_at": "2026-06-23 06:03:52 UTC",
+    "google_url": "https://www.google.com/search?q=military+experience+resume+builder&oq=military+experience+resume+builder&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/KphvCxs3fpVy_C-LVQxA2Q/6a3a21c8d08cfee04d88a2aa.html",
+    "total_time_taken": 2.65
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military experience resume builder",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military experience resume builder",
+    "total_results": 135,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "RrPr6HicxZbdcqpIEIDv9z3Wm0QRUKOpok4NiIGQGIka19xQOMCAAmMARbw777JPtW-xb7DDn2LUpPZUbe1YMj_09HRP92f780_X8Vd__fa3HUXr8J6i4jhuIIyRazYg9ig9THxIWdgNA2j_CPEmgKZjcNAOsGfWki3H1mDINWumwyWO2NHx0-jl0VfbQzzy9DEtqLVMA6ct9NBckgN2y5DSKPJY_c72yaQRNky_sRhBx5IiKZ6iBtOke40XSveIAPgPmwhes14lH5n08plEejz6RosqpxvHlRWh8izbc65IlrNOuKpUKKwQ5qlIv_4etHjQV7M16QsrxqfTWfoQQQwAn5ooqpf2XDKiXMNFz189UTxfyoT54qx-Vf01f_lqgNVU56QLhGMgSpd5UHpARBAZ87nGNuBbo1h4EL4IE3mzRpJo19WLRlfaQBHXcTF-mj8QiygDkSRsUouAdDTlQBtmgyBMc1OY9Jp44IP3YWdjKxP2WdA0dqr4MrZdn1l3VQouiJyLdcM0NFtr_sjmNEO3mz32rnubQQHDAxVhlYr3zrML2EeLHYDGU4OnK0hklyGf-JymG3_FPaW4w0_iINeSPYu7KW95WorxuKSjWFiu0qyaHxa6aSjszyemus6RKBuqDggSmdny9LCzKp4OZb5iat76n-N9nBc-zIGiHlwWKxbnFyFW56tUufxQLsSHV6lW5IIMcYKEWCh8OdmPqoaRy-IFIJavDxakMv3VQUzMLExfz1V1DuQBQZSED5XOF6EkSMindweWJ7MBSr8Cugj4d40_BvxaE0GZ-59S-QSBO_zGDKJ6X56q0kvI7PZ7abgfJC92gC6nPPYW_6ISwP8XimlRJ6YFCcpFKNA3UKiy-GWdyO0-1ok0VwR8DQqhgOK0TuSJe6wT51CMT6G4XicqUORavoaCvwpF_rNyDkVaJ86gQFegyOtEFYrTOuEfNKceVKD4pTqh_kKdyBgx8-60aGyW6GrxeIgXsvuHFA06m2jismFQH9T3b2I9fPoA3xYPy4vuPd1wbzXHuOeZxygxbjWygO9No_bBeY7rRHqQ3Ji7tRk4pg_Nm8AMN555s9g4rmEGNc8NMNfU27phmdHH2OsG8I218ZqBBpwqM62pTqx1b5tYH5CeKTO4mmwYiZk6w7vnkfPqIB88tlZo9GZGy8RauTge7OvSustr-1jqie_tXRBZ21bw-HQHVGO5eUZdZq4nXc3VWWOu7JRkvqWVvr1xYsYV8RDt1NZHuxdndoXcONDH1lh43UrTGnErNDm65gWQIyC0EBiqYIYAJAQAlfyfUgVMvjGJfy2EumaGWw626eZCb5mdNtOx2B7ZjKJkzbXoWugHHP0Pmtcgkg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RrPr6HicxZbdcqpIEIDv9z3Wm0QRUKOpok4NiIGQGIka19xQOMCAAmMARbw777JPtW-xb7DDn2LUpPZUbe1YMj_09HRP92f780_X8Vd__fa3HUXr8J6i4jhuIIyRazYg9ig9THxIWdgNA2j_CPEmgKZjcNAOsGfWki3H1mDINWumwyWO2NHx0-jl0VfbQzzy9DEtqLVMA6ct9NBckgN2y5DSKPJY_c72yaQRNky_sRhBx5IiKZ6iBtOke40XSveIAPgPmwhes14lH5n08plEejz6RosqpxvHlRWh8izbc65IlrNOuKpUKKwQ5qlIv_4etHjQV7M16QsrxqfTWfoQQQwAn5ooqpf2XDKiXMNFz189UTxfyoT54qx-Vf01f_lqgNVU56QLhGMgSpd5UHpARBAZ87nGNuBbo1h4EL4IE3mzRpJo19WLRlfaQBHXcTF-mj8QiygDkSRsUouAdDTlQBtmgyBMc1OY9Jp44IP3YWdjKxP2WdA0dqr4MrZdn1l3VQouiJyLdcM0NFtr_sjmNEO3mz32rnubQQHDAxVhlYr3zrML2EeLHYDGU4OnK0hklyGf-JymG3_FPaW4w0_iINeSPYu7KW95WorxuKSjWFiu0qyaHxa6aSjszyemus6RKBuqDggSmdny9LCzKp4OZb5iat76n-N9nBc-zIGiHlwWKxbnFyFW56tUufxQLsSHV6lW5IIMcYKEWCh8OdmPqoaRy-IFIJavDxakMv3VQUzMLExfz1V1DuQBQZSED5XOF6EkSMindweWJ7MBSr8Cugj4d40_BvxaE0GZ-59S-QSBO_zGDKJ6X56q0kvI7PZ7abgfJC92gC6nPPYW_6ISwP8XimlRJ6YFCcpFKNA3UKiy-GWdyO0-1ok0VwR8DQqhgOK0TuSJe6wT51CMT6G4XicqUORavoaCvwpF_rNyDkVaJ86gQFegyOtEFYrTOuEfNKceVKD4pTqh_kKdyBgx8-60aGyW6GrxeIgXsvuHFA06m2jismFQH9T3b2I9fPoA3xYPy4vuPd1wbzXHuOeZxygxbjWygO9No_bBeY7rRHqQ3Ji7tRk4pg_Nm8AMN555s9g4rmEGNc8NMNfU27phmdHH2OsG8I218ZqBBpwqM62pTqx1b5tYH5CeKTO4mmwYiZk6w7vnkfPqIB88tlZo9GZGy8RauTge7OvSustr-1jqie_tXRBZ21bw-HQHVGO5eUZdZq4nXc3VWWOu7JRkvqWVvr1xYsYV8RDt1NZHuxdndoXcONDH1lh43UrTGnErNDm65gWQIyC0EBiqYIYAJAQAlfyfUgVMvjGJfy2EumaGWw626eZCb5mdNtOx2B7ZjKJkzbXoWugHHP0Pmtcgkg"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Digital Tools",
+      "link": "https://www.hiringourheroes.org/digital-tools/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hiringourheroes.org/digital-tools/&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQFnoECBsQAQ",
+      "displayed_link": "https://www.hiringourheroes.org › digital-tools",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwNIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz97y1jBAAAAEXRSTlMATpbO97umF_9kiQzg7Cp3QLIj6gkAAADxSURBVHgBfdNRcoAgEAPQAChRFLn_aVsHIMDYvi9l1LCLi4Gxzm-7d9bgQ9j5Ogxfe8DiZBHBwmIULxYO2FjcAV1gcwAHm4QqsovTXUBxkUoAHJtb-6seoGVop4ESlKiFnd0FzBncAfiuJAAHfQfkjH9kA0uLP520cOQVsFB_He7SwA-Gvzz48htmqg4sfMIk3SxwD12Uh5WH06XoNQc79F1OrRqd_iCxMoASRBkqpyYcx5Sx67hzK34bM0J_2Kt4n0qGPnvVy2dsidUvh1gSNnYuIrWAGojMSYYfCw_nyYU9A0aWC_s1vLIOr8afXMb_B8u6EYmWwVhgAAAAAElFTkSuQmCC.png",
+      "snippet": "Resume translator and builder for veterans and transitioning service members. Translate your military experience into a powerful resume civilian employers can ...",
+      "snippet_highlighted_words": [
+        "Resume translator and builder for veterans and transitioning service members"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Resume translator and builder for veterans and transitioning service members. Translate your military experience into a powerful resume civilian employers can ...",
+          "source_info_link": "https://www.hiringourheroes.org/digital-tools/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwNIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz97y1jBAAAAEXRSTlMATpbO97umF_9kiQzg7Cp3QLIj6gkAAADxSURBVHgBfdNRcoAgEAPQAChRFLn_aVsHIMDYvi9l1LCLi4Gxzm-7d9bgQ9j5Ogxfe8DiZBHBwmIULxYO2FjcAV1gcwAHm4QqsovTXUBxkUoAHJtb-6seoGVop4ESlKiFnd0FzBncAfiuJAAHfQfkjH9kA0uLP520cOQVsFB_He7SwA-Gvzz48htmqg4sfMIk3SxwD12Uh5WH06XoNQc79F1OrRqd_iCxMoASRBkqpyYcx5Sx67hzK34bM0J_2Kt4n0qGPnvVy2dsidUvh1gSNnYuIrWAGojMSYYfCw_nyYU9A0aWC_s1vLIOr8afXMb_B8u6EYmWwVhgAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.hiringourheroes.org/digital-tools/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.hiringourheroes.org%2Fdigital-tools%2F",
+      "source": "Hiring Our Heroes",
+      "read_more_link": "https://www.hiringourheroes.org/digital-tools/#:~:text=Resume%20translator%20and%20builder%20for,resume%20civilian%20employers%20can%20understand."
+    },
+    {
+      "position": 2,
+      "title": "How to Use the SpouseWorks Resume Builder Tool",
+      "link": "https://spouseworks.militaryonesource.mil/portal/article/how-to-use-the-resume-builder-tool",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://spouseworks.militaryonesource.mil/portal/article/how-to-use-the-resume-builder-tool&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQFnoECBcQAQ",
+      "displayed_link": "https://spouseworks.militaryonesource.mil › portal › article",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAyklEQVR4AWNwL_AZUDw4HCBjlioCxA-g-BIBPAGm-aKWvgwQH4HibTjwahzYD9kBykD8n0i8GMkBBkD8n0xcOtAOGHVA4rAIAduBDgEZaJaaiyu74ciaRyjKhrQoiCyGjAMQJSEiGhbrOvDgwjR1ACgeKUuElDvAdqAd4DeUHeA3aBww6gAwRs67oBYSDqwMopH1gCokAtgWHUMdLgN3wGijFBpUq2E1GwHcRSQuxYsRUYBITHTGfgPtANtB54BRB3zGh2nlgNGCCAC8bWD_trWVxQAAAABJRU5ErkJggg.png",
+      "snippet": "The SpouseWorks Resume Builder helps you to craft and tailor a resume that highlights your skills, assets and experience. Learn how to use the tool.",
+      "snippet_highlighted_words": [
+        "craft and tailor a resume that highlights your skills, assets and experience"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The SpouseWorks Resume Builder helps you to craft and tailor a resume that highlights your skills, assets and experience. Learn how to use the tool.",
+          "source_info_link": "https://spouseworks.militaryonesource.mil/portal/article/how-to-use-the-resume-builder-tool",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAyklEQVR4AWNwL_AZUDw4HCBjlioCxA-g-BIBPAGm-aKWvgwQH4HibTjwahzYD9kBykD8n0i8GMkBBkD8n0xcOtAOGHVA4rAIAduBDgEZaJaaiyu74ciaRyjKhrQoiCyGjAMQJSEiGhbrOvDgwjR1ACgeKUuElDvAdqAd4DeUHeA3aBww6gAwRs67oBYSDqwMopH1gCokAtgWHUMdLgN3wGijFBpUq2E1GwHcRSQuxYsRUYBITHTGfgPtANtB54BRB3zGh2nlgNGCCAC8bWD_trWVxQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://spouseworks.militaryonesource.mil/portal/article/how-to-use-the-resume-builder-tool&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fspouseworks.militaryonesource.mil%2Fportal%2Farticle%2Fhow-to-use-the-resume-builder-tool",
+      "source": "Military OneSource (.mil)"
+    },
+    {
+      "position": 3,
+      "title": "Best Military Resume: Free Military Resume Builder for Veterans",
+      "link": "https://bestmilitaryresume.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bestmilitaryresume.com/&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQFnoECBoQAQ",
+      "displayed_link": "https://bestmilitaryresume.com",
+      "favicon": "https://serpapi.com/searches/6a3a21c8d08cfee04d88a2aa/images/HDAFkln83hx7P39RT5l3L8RhX4k3_0qRBPgWNBFuOVM.png",
+      "snippet": "Built by a Navy veteran and former federal hiring manager. AI translates your MOS into a resume that gets interviews — federal, private sector, or defense.",
+      "snippet_highlighted_words": [
+        "AI translates your MOS into a resume that gets interviews"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Built by a Navy veteran and former federal hiring manager. AI translates your MOS into a resume that gets interviews — federal, private sector, or defense.",
+          "source_info_link": "https://bestmilitaryresume.com/",
+          "icon": "https://serpapi.com/searches/6a3a21c8d08cfee04d88a2aa/images/HDAFkln83hx7P39RT5l3L6HAlei4oZC4DIRDkv8Pmf47xOwMHE1RDb5mEVOpe5P5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bestmilitaryresume.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbestmilitaryresume.com%2F",
+      "source": "Best Military Resume"
+    },
+    {
+      "position": 4,
+      "title": "Military Resume Builder : r/Veterans",
+      "link": "https://www.reddit.com/r/Veterans/comments/1gr3aae/military_resume_builder/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Veterans/comments/1gr3aae/military_resume_builder/&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQFnoECB0QAQ",
+      "displayed_link": "10+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "www.onetonline.org has a veteran section that will let you put in your branch and occupational specialty and give you civilian careers that fit with your ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Free Resume Generator Tool for Veterans - Translates ...",
+            "link": "https://www.reddit.com/r/VAClaims/comments/1psruuh/free_resume_generator_tool_for_veterans/",
+            "answer_count": 2,
+            "date": "Dec 22, 2025"
+          },
+          {
+            "title": "Looking for some help making a resume from active ...",
+            "link": "https://www.reddit.com/r/resumes/comments/1qorsl0/looking_for_some_help_making_a_resume_from_active/",
+            "answer_count": 11,
+            "date": "Jan 27, 2026"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "www.onetonline.org has a veteran section that will let you put in your branch and occupational specialty and give you civilian careers that fit with your ...",
+          "source_info_link": "https://www.reddit.com/r/Veterans/comments/1gr3aae/military_resume_builder/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/Veterans/comments/1gr3aae/military_resume_builder/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FVeterans%2Fcomments%2F1gr3aae%2Fmilitary_resume_builder%2F",
+      "source": "Reddit · r/Veterans",
+      "read_more_link": "https://www.reddit.com/r/Veterans/comments/1gr3aae/military_resume_builder/#:~:text=www.onetonline.org%20has%20a%20veteran%20section,fit%20with%20your%20military%20experience."
+    },
+    {
+      "position": 5,
+      "title": "Resume Engine: Home",
+      "link": "http://resumeengine.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://resumeengine.org/&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQFnoECBgQAQ",
+      "displayed_link": "http://resumeengine.org",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAKlBMVEVHcEwIc6sIc6sIc6sIc6sIc6sIc6sIc6sIc6sIc6sIc6sIc6sIc6sIc6uquQ_KAAAADnRSTlMAhP_zJpvFVBg54wtprOMoHkYAAAC7SURBVHgBY8AGhExQuEqqCDarGruSWofSBCi3SAkMFKBcJwh3AZTLrqRc4aikDNPLCJKYpLQBwuNJVnJwC2BVWuYA5m4CqjNS5FRSSoBzlRBcViOlhlkJjEpWUIsZQeKbYEYxcCqpObAjLGqCOCMBuyPZtPYoac1UOgBTPQHkwRZk76sAiRzkEODJ0ToFtgtme5ZSA5KsZsNlBwQ3yEB3kjaC26pdLQSyCx4mslpIJrOqKl9yQLbKEDM6AIA4Ju2fQWV1AAAAAElFTkSuQmCC.png",
+      "snippet": "Military service is hard, but writing your resume doesn't have to be. Resume Engine helps you craft a custom resume in minutes - no writing required.",
+      "snippet_highlighted_words": [
+        "Resume Engine helps you craft a custom resume in minutes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military service is hard, but writing your resume doesn't have to be. Resume Engine helps you craft a custom resume in minutes - no writing required.",
+          "source_info_link": "http://resumeengine.org/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAKlBMVEVHcEwIc6sIc6sIc6sIc6sIc6sIc6sIc6sIc6sIc6sIc6sIc6sIc6sIc6uquQ_KAAAADnRSTlMAhP_zJpvFVBg54wtprOMoHkYAAAC7SURBVHgBY8AGhExQuEqqCDarGruSWofSBCi3SAkMFKBcJwh3AZTLrqRc4aikDNPLCJKYpLQBwuNJVnJwC2BVWuYA5m4CqjNS5FRSSoBzlRBcViOlhlkJjEpWUIsZQeKbYEYxcCqpObAjLGqCOCMBuyPZtPYoac1UOgBTPQHkwRZk76sAiRzkEODJ0ToFtgtme5ZSA5KsZsNlBwQ3yEB3kjaC26pdLQSyCx4mslpIJrOqKl9yQLbKEDM6AIA4Ju2fQWV1AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+http://resumeengine.org/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+http%3A%2F%2Fresumeengine.org%2F",
+      "source": "Resume Engine"
+    },
+    {
+      "position": 6,
+      "title": "Military-to-Civilian Resume Builder - Career Launchpad",
+      "link": "https://careerlaunchpad.arcadia.edu/resources/military-to-civilian-resume-builder/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://careerlaunchpad.arcadia.edu/resources/military-to-civilian-resume-builder/&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQFnoECBwQAQ",
+      "displayed_link": "https://careerlaunchpad.arcadia.edu › resources › military...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEWxCDa0GEPuy9Xz3uT04ufy2eDdm63IVnb____rxM7WgZm-NFq4IUvqwMzVg5rw0Nn--_zajKG0Ej7IU3Pkrbz47PDTd5DCQmX69ffNYn_ho7TPa4flssDScozBPWHemKu7KlLck6fFSm0bdXc0AAAAxklEQVR4AdWQA4LEQAAEJ-7Ydv7_yMtyeF5WMOgaktui6YZpWrYyc5yDgAPuoe35hCUIEfFCnKQZkxtApOVRgQOlXdVZDBRUOARmAoayAdBeBR1KPEGIO6918tzp08GUBWsMCIOflpzQjPKddIwQ1of_NM6Dq-thkbbLoe1RYc-XtQSDNWb7CELxGgiYG2HoIJO0NO-holmuwnBdOt25Xik9WoQzw6F1FegmN6XQZPRSEpUQEoqhEubvhPU5QtLsQC1Q3lD4AMRDF9SD-DD-AAAAAElFTkSuQmCC.png",
+      "snippet": "The Personal Branding Resume Engine™ will translate your military record into a strong resume that civilian employers can understand. Once you complete your ...",
+      "snippet_highlighted_words": [
+        "translate your military record into a strong resume"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Personal Branding Resume Engine™ will translate your military record into a strong resume that civilian employers can understand. Once you complete your ...",
+          "source_info_link": "https://careerlaunchpad.arcadia.edu/resources/military-to-civilian-resume-builder/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEWxCDa0GEPuy9Xz3uT04ufy2eDdm63IVnb____rxM7WgZm-NFq4IUvqwMzVg5rw0Nn--_zajKG0Ej7IU3Pkrbz47PDTd5DCQmX69ffNYn_ho7TPa4flssDScozBPWHemKu7KlLck6fFSm0bdXc0AAAAxklEQVR4AdWQA4LEQAAEJ-7Ydv7_yMtyeF5WMOgaktui6YZpWrYyc5yDgAPuoe35hCUIEfFCnKQZkxtApOVRgQOlXdVZDBRUOARmAoayAdBeBR1KPEGIO6918tzp08GUBWsMCIOflpzQjPKddIwQ1of_NM6Dq-thkbbLoe1RYc-XtQSDNWb7CELxGgiYG2HoIJO0NO-holmuwnBdOt25Xik9WoQzw6F1FegmN6XQZPRSEpUQEoqhEubvhPU5QtLsQC1Q3lD4AMRDF9SD-DD-AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://careerlaunchpad.arcadia.edu/resources/military-to-civilian-resume-builder/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcareerlaunchpad.arcadia.edu%2Fresources%2Fmilitary-to-civilian-resume-builder%2F",
+      "source": "Arcadia University",
+      "read_more_link": "https://careerlaunchpad.arcadia.edu/resources/military-to-civilian-resume-builder/#:~:text=The%20Personal%20Branding%20Resume%20Engine%E2%84%A2,look%20for%20qualified%20job%20candidates."
+    },
+    {
+      "position": 7,
+      "title": "Civilian Career Support & Resources | Military OneSource",
+      "link": "https://www.militaryonesource.mil/resources/millife-guides/employment/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militaryonesource.mil/resources/millife-guides/employment/&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQFnoECB4QAQ",
+      "displayed_link": "https://www.militaryonesource.mil › employment",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png",
+      "snippet": "You'll find information on credentialing your military experience and building your resume, networking, identifying federal employment benefits and more.",
+      "snippet_highlighted_words": [
+        "military experience",
+        "resume"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You'll find information on credentialing your military experience and building your resume, networking, identifying federal employment benefits and more.",
+          "source_info_link": "https://www.militaryonesource.mil/resources/millife-guides/employment/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militaryonesource.mil/resources/millife-guides/employment/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militaryonesource.mil%2Fresources%2Fmillife-guides%2Femployment%2F",
+      "source": "Military OneSource (.mil)",
+      "read_more_link": "https://www.militaryonesource.mil/resources/millife-guides/employment/#:~:text=You'll%20find%20information%20on%20credentialing,federal%20employment%20benefits%20and%20more."
+    },
+    {
+      "position": 8,
+      "title": "Military Resume Examples & Templates (2026)",
+      "link": "https://resume.io/resume-examples/military",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://resume.io/resume-examples/military&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQFnoECBkQAQ",
+      "displayed_link": "https://resume.io › Resume examples",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEwtjOsvjesliuug1vqj2vuHvPN-svGg1vrD5fz____v-P7AWeTrAAAAB3RSTlMAc___SkSbQnackQAAAFFJREFUeAFjAAJGJTigL9cYBCBcFxeXsHIQgHA7Ojo6V4FAMQ5uBxp3Fyp3Fiq3G5XbgcbtQuKCDUPldu6CcaFgZqIgEMC5HQEg3yC4DlTmAgD5J3hwQq4p2QAAAABJRU5ErkJggg.png",
+      "date": "4 days ago",
+      "snippet": "Military Resume example ✓ Complete guide ✓ Create a Perfect Resume in 5 minutes using our Resume Examples & Templates.",
+      "snippet_highlighted_words": [
+        "Create a Perfect Resume in 5 minutes"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How to write a military resume",
+            "link": "https://resume.io/resume-examples/military#how-to-write-a-military-resume"
+          },
+          {
+            "title": "Choosing the best resume...",
+            "link": "https://resume.io/resume-examples/military#choosing-the-best-resume-format-for-military-personnel"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.4,
+            "reviews": 63
+          },
+          "extensions": [
+            "4.4(63)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Military Resume example ✓ Complete guide ✓ Create a Perfect Resume in 5 minutes using our Resume Examples & Templates.",
+          "source_info_link": "https://resume.io/resume-examples/military",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEwtjOsvjesliuug1vqj2vuHvPN-svGg1vrD5fz____v-P7AWeTrAAAAB3RSTlMAc___SkSbQnackQAAAFFJREFUeAFjAAJGJTigL9cYBCBcFxeXsHIQgHA7Ojo6V4FAMQ5uBxp3Fyp3Fiq3G5XbgcbtQuKCDUPldu6CcaFgZqIgEMC5HQEg3yC4DlTmAgD5J3hwQq4p2QAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://resume.io/resume-examples/military&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fresume.io%2Fresume-examples%2Fmilitary",
+      "source": "Resume.io"
+    },
+    {
+      "position": 9,
+      "title": "Translate Military Experience into a Job-Winning Resume",
+      "link": "https://www.careerservices.txst.edu/students-alumni/resources-services/career-guides/military-resume-guide.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.careerservices.txst.edu/students-alumni/resources-services/career-guides/military-resume-guide.html&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQFnoECD0QAQ",
+      "displayed_link": "https://www.careerservices.txst.edu › career-guides › mi...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX____7-PDCpXPIrHv48eSWcU3r2rdhLiDLr34_AABkMyideVOwkWtnNibawIxdJhvo2r7FqXm9oHNBAADky5RpOS7o2LiRa0YyAACGX0iAWEM7AACgf15DAADy59BSEhFYIR2VclVLAAx1SzqpiGXawZN9UzpOCRCJZUxzRjCqiF-3mXHSt4ZgKyPv4sjn06uriVg2Ob7_AAAAyUlEQVR4AcRRQwIEQQwc27bt_39u7cZ1c01SJP4-JIlZUjR6x7Asg1xyPM8hl4IoCUhUWVSQuJwqajqAa1A0bZqmZduOa9HXoYzX0vMDOwyjyI2dRBRjOw187_2aUXlRmo6WapVYK01OZV_RtF2c9kNZKpoTje1vUNxU1XNZhkoxcTCtixA4kjjCclhWpxC1JU1bcEdOyZDmuTXHE1jNNibxqLV8OYwbsGztWN4JYmcruwVR-7u5jKoA3Ox4miPbAwifOQ-ZOYAAAMpUD5KOibczAAAAAElFTkSuQmCC.png",
+      "snippet": "Translate Military Experience into a Job-Winning Resume · Step 1: De-Militarize Your Document · Step 2: Give the Full Picture of Your Experience · Step 3: ...",
+      "snippet_highlighted_words": [
+        "Step 1: De-Militarize Your Document"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Key Skill Areas To Highlight",
+            "link": "https://www.careerservices.txst.edu/students-alumni/resources-services/career-guides/military-resume-guide.html#:~:text=Key%20Skill%20Areas%20to%20Highlight"
+          },
+          {
+            "title": "Step 3: Translating The...",
+            "link": "https://www.careerservices.txst.edu/students-alumni/resources-services/career-guides/military-resume-guide.html#:~:text=Step%203%3A%20Translating%20the%20Details"
+          },
+          {
+            "title": "Job Titles",
+            "link": "https://www.careerservices.txst.edu/students-alumni/resources-services/career-guides/military-resume-guide.html#:~:text=Job%20Titles"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Translate Military Experience into a Job-Winning Resume · Step 1: De-Militarize Your Document · Step 2: Give the Full Picture of Your Experience · Step 3: ...",
+          "source_info_link": "https://www.careerservices.txst.edu/students-alumni/resources-services/career-guides/military-resume-guide.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX____7-PDCpXPIrHv48eSWcU3r2rdhLiDLr34_AABkMyideVOwkWtnNibawIxdJhvo2r7FqXm9oHNBAADky5RpOS7o2LiRa0YyAACGX0iAWEM7AACgf15DAADy59BSEhFYIR2VclVLAAx1SzqpiGXawZN9UzpOCRCJZUxzRjCqiF-3mXHSt4ZgKyPv4sjn06uriVg2Ob7_AAAAyUlEQVR4AcRRQwIEQQwc27bt_39u7cZ1c01SJP4-JIlZUjR6x7Asg1xyPM8hl4IoCUhUWVSQuJwqajqAa1A0bZqmZduOa9HXoYzX0vMDOwyjyI2dRBRjOw187_2aUXlRmo6WapVYK01OZV_RtF2c9kNZKpoTje1vUNxU1XNZhkoxcTCtixA4kjjCclhWpxC1JU1bcEdOyZDmuTXHE1jNNibxqLV8OYwbsGztWN4JYmcruwVR-7u5jKoA3Ox4miPbAwifOQ-ZOYAAAMpUD5KOibczAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.careerservices.txst.edu/students-alumni/resources-services/career-guides/military-resume-guide.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.careerservices.txst.edu%2Fstudents-alumni%2Fresources-services%2Fcareer-guides%2Fmilitary-resume-guide.html",
+      "source": "Texas State University",
+      "read_more_link": "https://www.careerservices.txst.edu/students-alumni/resources-services/career-guides/military-resume-guide.html#:~:text=Translate%20Military%20Experience%20into%20a,Job%2DWinning%20Resume&text=Step%201%3A%20De%2DMilitarize%20Your%20Document&text=Step%202%3A%20Give%20the%20Full,Picture%20of%20Your%20Experience&text=Step%203%3A%20Translating%20the%20Details"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military experience resume builder free",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+experience+resume+builder+free&sa=X&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+experience+resume+builder+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Military experience resume builder reddit",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+experience+resume+builder+reddit&sa=X&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+experience+resume+builder+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Military experience resume builder pdf",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+experience+resume+builder+pdf&sa=X&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+experience+resume+builder+pdf"
+    },
+    {
+      "block_position": 1,
+      "query": "Best military experience resume builder",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Best+military+experience+resume+builder&sa=X&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+military+experience+resume+builder"
+    },
+    {
+      "block_position": 1,
+      "query": "Free military resume builder",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Free+military+resume+builder&sa=X&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+military+resume+builder"
+    },
+    {
+      "block_position": 1,
+      "query": "Military OneSource Resume Builder",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+OneSource+Resume+Builder&sa=X&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+OneSource+Resume+Builder"
+    },
+    {
+      "block_position": 1,
+      "query": "Hiring Our Heroes resume builder",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Hiring+Our+Heroes+resume+builder&sa=X&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hiring+Our+Heroes+resume+builder"
+    },
+    {
+      "block_position": 1,
+      "query": "Military to civilian resume examples",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+to+civilian+resume+examples&sa=X&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+to+civilian+resume+examples"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+experience+resume+builder&sca_esv=c510ba4e6526f391&ei=yiE6aoLPOJnQ5NoPmaS1CQ&start=10&sa=N&sstk=AU9db-Avhv61mKXMBiTcARjzznHt-pAGNoBXoVNM1TlXnHNj2m_yaeXY1TD6AuBn1NpC8E50FeBoUqZnzhpWpz8LMpQxE6XgFsU-6Q&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ8NMDegQIMxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+experience+resume+builder&sca_esv=c510ba4e6526f391&ei=yiE6aoLPOJnQ5NoPmaS1CQ&start=10&sa=N&sstk=AU9db-Avhv61mKXMBiTcARjzznHt-pAGNoBXoVNM1TlXnHNj2m_yaeXY1TD6AuBn1NpC8E50FeBoUqZnzhpWpz8LMpQxE6XgFsU-6Q&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ8tMDegQIMxAE",
+      "3": "https://www.google.com/search?q=military+experience+resume+builder&sca_esv=c510ba4e6526f391&ei=yiE6aoLPOJnQ5NoPmaS1CQ&start=20&sa=N&sstk=AU9db-Avhv61mKXMBiTcARjzznHt-pAGNoBXoVNM1TlXnHNj2m_yaeXY1TD6AuBn1NpC8E50FeBoUqZnzhpWpz8LMpQxE6XgFsU-6Q&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ8tMDegQIMxAG",
+      "4": "https://www.google.com/search?q=military+experience+resume+builder&sca_esv=c510ba4e6526f391&ei=yiE6aoLPOJnQ5NoPmaS1CQ&start=30&sa=N&sstk=AU9db-Avhv61mKXMBiTcARjzznHt-pAGNoBXoVNM1TlXnHNj2m_yaeXY1TD6AuBn1NpC8E50FeBoUqZnzhpWpz8LMpQxE6XgFsU-6Q&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ8tMDegQIMxAI",
+      "5": "https://www.google.com/search?q=military+experience+resume+builder&sca_esv=c510ba4e6526f391&ei=yiE6aoLPOJnQ5NoPmaS1CQ&start=40&sa=N&sstk=AU9db-Avhv61mKXMBiTcARjzznHt-pAGNoBXoVNM1TlXnHNj2m_yaeXY1TD6AuBn1NpC8E50FeBoUqZnzhpWpz8LMpQxE6XgFsU-6Q&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ8tMDegQIMxAK",
+      "6": "https://www.google.com/search?q=military+experience+resume+builder&sca_esv=c510ba4e6526f391&ei=yiE6aoLPOJnQ5NoPmaS1CQ&start=50&sa=N&sstk=AU9db-Avhv61mKXMBiTcARjzznHt-pAGNoBXoVNM1TlXnHNj2m_yaeXY1TD6AuBn1NpC8E50FeBoUqZnzhpWpz8LMpQxE6XgFsU-6Q&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ8tMDegQIMxAM",
+      "7": "https://www.google.com/search?q=military+experience+resume+builder&sca_esv=c510ba4e6526f391&ei=yiE6aoLPOJnQ5NoPmaS1CQ&start=60&sa=N&sstk=AU9db-Avhv61mKXMBiTcARjzznHt-pAGNoBXoVNM1TlXnHNj2m_yaeXY1TD6AuBn1NpC8E50FeBoUqZnzhpWpz8LMpQxE6XgFsU-6Q&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ8tMDegQIMxAO",
+      "8": "https://www.google.com/search?q=military+experience+resume+builder&sca_esv=c510ba4e6526f391&ei=yiE6aoLPOJnQ5NoPmaS1CQ&start=70&sa=N&sstk=AU9db-Avhv61mKXMBiTcARjzznHt-pAGNoBXoVNM1TlXnHNj2m_yaeXY1TD6AuBn1NpC8E50FeBoUqZnzhpWpz8LMpQxE6XgFsU-6Q&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ8tMDegQIMxAQ",
+      "9": "https://www.google.com/search?q=military+experience+resume+builder&sca_esv=c510ba4e6526f391&ei=yiE6aoLPOJnQ5NoPmaS1CQ&start=80&sa=N&sstk=AU9db-Avhv61mKXMBiTcARjzznHt-pAGNoBXoVNM1TlXnHNj2m_yaeXY1TD6AuBn1NpC8E50FeBoUqZnzhpWpz8LMpQxE6XgFsU-6Q&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ8tMDegQIMxAS",
+      "10": "https://www.google.com/search?q=military+experience+resume+builder&sca_esv=c510ba4e6526f391&ei=yiE6aoLPOJnQ5NoPmaS1CQ&start=90&sa=N&sstk=AU9db-Avhv61mKXMBiTcARjzznHt-pAGNoBXoVNM1TlXnHNj2m_yaeXY1TD6AuBn1NpC8E50FeBoUqZnzhpWpz8LMpQxE6XgFsU-6Q&ved=2ahUKEwiC3Iqx2JyVAxUZKFkFHRlSLQEQ8tMDegQIMxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+experience+resume+builder&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+experience+resume+builder&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+experience+resume+builder&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+experience+resume+builder&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+experience+resume+builder&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+experience+resume+builder&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+experience+resume+builder&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+experience+resume+builder&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+experience+resume+builder&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+experience+resume+builder&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+experience+resume+builder&start=90"
+    }
+  }
+}

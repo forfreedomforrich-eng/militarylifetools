@@ -1,0 +1,395 @@
+{
+  "search_metadata": {
+    "id": "6a3a18ee31a601c793aaeebf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bRbS3HxJKtC2BDwkzbe-tg/6a3a18ee31a601c793aaeebf.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/bRbS3HxJKtC2BDwkzbe-tg/6a3a18ee31a601c793aaeebf.json_with_pixel_position",
+    "created_at": "2026-06-23 05:26:06 UTC",
+    "processed_at": "2026-06-23 05:26:06 UTC",
+    "google_url": "https://www.google.com/search?q=pet+age+calculator+cat+years&oq=pet+age+calculator+cat+years&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/bRbS3HxJKtC2BDwkzbe-tg/6a3a18ee31a601c793aaeebf.html",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "pet age calculator cat years",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "pet age calculator cat years",
+    "total_results": 97,
+    "time_taken_displayed": 0.17,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "zhQs53icxVbdkqo4EL7f91hvZhTxZ9Spok6FgIp_yKjjeEVBwICAMARlnLt9l32qvdwn2YCo-HtqT9XWxoKkm-TrTqe_tH_86dpr56_f_raiKCCvDBPHcQn7PnbNEvI9RiO7NWKWvktCZP0g_iZEpm1wyAp9zyzstly1gAjHFkyba1j4RQtXS7nVwEGzNq7oXtNTSCGF4FRdI-aKWvhaEUZl6Mv5vSpQoURK5ro0nk1Znm30PxRUqpTZVklmNI9OAP9hE4GEk16iPzGVLxtPvyuAjx-iQAAB6OCcCufeWRMSMwBAmHbAv4fWS72AIi8qiX112GrSbj9dwPdWATA5F-epZ4A6ztOBkoJdtVtwB93BQf6OvduupGZmmVDLfbgKbaqg0QA5z_oUtgYQAG-ZQs56mDeHsQiEg74by0NeFt8enRDdfGcIms4YSg9mJd5LYdzOxvFoQY0yBqY5WGb0kHYsYyMLpYOQJKkJp62y30YsAtb2u_qlK95Welk7ejA2wqoTWDGDdDrP9TXDNFRLLf9IZbbC1sutaqP5nHICkSMpSJ4UeLgYxJuYlYpiaVDi2Rwj0phJZ2dAIwn46wQ-xBVcnCQ8DKSjAK9WJGsqyYQTLj_dJdZHWWLFyRHNwFVck28HRswTb3HeWSk_gFnmwvZpY2dIkpSaF89y6IqSJ_gsoRagrxy3LFLxzLk8GA-c9A7oHBQn7AQVu-kFkTBCzADls_U471hykyiYP1pW8t7Vc4sw4JOIx0JirQd8KKZrpXSJlAWhn3iX527nkkkEgC7BNw7-wV1xbHdvoRzMIfcvUjlPAXE8nDWND_C2CLZfgsruWlNbbq-DplXFt1Pe9_R_UQjQ_0uKQ5noZ2WifZMUyk9IIUIe3iQFPtk8lYnJXv68R4qedKtM7G_cU5m4JsXknBT3y0SOFHuUx6Tg75ACZ3u7QYrZDVI4N0kB-5eksGrKWZnYGzuWiQMpfqlMbH-lTKQUMffdec3YrPDd2tFpfszaqzZ2VCJVl36xJXuDSO6vA6Gr_LR2LL3o1dMM91m1jVe-0ot2xrNKFf6raRQ-ucCMnjRsPiHNRRtXi_yQDqOnnamFpOC5oc-VtTpc9kZ8r4LsSvfjJdLipaV0lFFvM6yv-rjWCITJdLS1P0GlPndhrwPnNWmiyisrmNaUd3nFth08LE60-Tdpa8NWZbso7prKi9-yvIifK1HDHi2_3z9HQ3MmtMuB9Ya6k7EvvFddZ9IynTAuhpE5aLjz9UiwBRukfhEu0AfGGFuO7PkFL0QcTYkaBiMFzDH9dwAXQIGYPj59YpoYBYI01SRbTtf1hvHCmk2jquvVhlnwcLQLuBpbIOuQY_8BvNMbIA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zhQs53icxVbdkqo4EL7f91hvZhTxZ9Spok6FgIp_yKjjeEVBwICAMARlnLt9l32qvdwn2YCo-HtqT9XWxoKkm-TrTqe_tH_86dpr56_f_raiKCCvDBPHcQn7PnbNEvI9RiO7NWKWvktCZP0g_iZEpm1wyAp9zyzstly1gAjHFkyba1j4RQtXS7nVwEGzNq7oXtNTSCGF4FRdI-aKWvhaEUZl6Mv5vSpQoURK5ro0nk1Znm30PxRUqpTZVklmNI9OAP9hE4GEk16iPzGVLxtPvyuAjx-iQAAB6OCcCufeWRMSMwBAmHbAv4fWS72AIi8qiX112GrSbj9dwPdWATA5F-epZ4A6ztOBkoJdtVtwB93BQf6OvduupGZmmVDLfbgKbaqg0QA5z_oUtgYQAG-ZQs56mDeHsQiEg74by0NeFt8enRDdfGcIms4YSg9mJd5LYdzOxvFoQY0yBqY5WGb0kHYsYyMLpYOQJKkJp62y30YsAtb2u_qlK95Welk7ejA2wqoTWDGDdDrP9TXDNFRLLf9IZbbC1sutaqP5nHICkSMpSJ4UeLgYxJuYlYpiaVDi2Rwj0phJZ2dAIwn46wQ-xBVcnCQ8DKSjAK9WJGsqyYQTLj_dJdZHWWLFyRHNwFVck28HRswTb3HeWSk_gFnmwvZpY2dIkpSaF89y6IqSJ_gsoRagrxy3LFLxzLk8GA-c9A7oHBQn7AQVu-kFkTBCzADls_U471hykyiYP1pW8t7Vc4sw4JOIx0JirQd8KKZrpXSJlAWhn3iX527nkkkEgC7BNw7-wV1xbHdvoRzMIfcvUjlPAXE8nDWND_C2CLZfgsruWlNbbq-DplXFt1Pe9_R_UQjQ_0uKQ5noZ2WifZMUyk9IIUIe3iQFPtk8lYnJXv68R4qedKtM7G_cU5m4JsXknBT3y0SOFHuUx6Tg75ACZ3u7QYrZDVI4N0kB-5eksGrKWZnYGzuWiQMpfqlMbH-lTKQUMffdec3YrPDd2tFpfszaqzZ2VCJVl36xJXuDSO6vA6Gr_LR2LL3o1dMM91m1jVe-0ot2xrNKFf6raRQ-ucCMnjRsPiHNRRtXi_yQDqOnnamFpOC5oc-VtTpc9kZ8r4LsSvfjJdLipaV0lFFvM6yv-rjWCITJdLS1P0GlPndhrwPnNWmiyisrmNaUd3nFth08LE60-Tdpa8NWZbso7prKi9-yvIifK1HDHi2_3z9HQ3MmtMuB9Ya6k7EvvFddZ9IynTAuhpE5aLjz9UiwBRukfhEu0AfGGFuO7PkFL0QcTYkaBiMFzDH9dwAXQIGYPj59YpoYBYI01SRbTtf1hvHCmk2jquvVhlnwcLQLuBpbIOuQY_8BvNMbIA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Cat Age Calculator: How Old is My Cat in Human Years?",
+      "link": "https://www.almanac.com/cat-age-calculator-cat-years-human-years",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.almanac.com/cat-age-calculator-cat-years-human-years&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQFnoECBgQAQ",
+      "displayed_link": "https://www.almanac.com › ... › Pets & Farm Animals",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3MTc3Nzc3Ny03Nzc3ODctNTc3ODc3MTc3NzcxN__AABEIABwAHAMBEQACEQEDEQH_xAAYAAADAQEAAAAAAAAAAAAAAAAABAUHA__EACYQAAIBAwQBAwUAAAAAAAAAAAECAwAEEQUSMYEhExRRIjJhcfD_xAAZAQACAwEAAAAAAAAAAAAAAAAAAwECBQT_xAAkEQABBAEDAwUAAAAAAAAAAAABAAIDESEEMUEFEoETFFFxkf_aAAwDAQACEQMRAD8A26WVYl3OcCoJpWa0uNBJTarGJY1t43uEb75Il3KnHOP2ePiqGQDZObpzRLjX2mLe8huXdYW3bDhj8GpbI1xwlvicwAuTFXS1N1l98S2rRkpPIsbPg4UE-Tx13S5Dil06cUe-9rKViGtWnuVkaw9uMLahQwK5YD6vwAa5pHzxhxxWK8mspx9tJ213Xz-cI043cGpyrdGN5JVBb0-Bz_d1m6abUx610ctEkA48qZhG-EFmw-VbHkVvBZ643kL3EJiVgqnkkZPVVe0uFJkbww2lL6GWa39GQBpGGA4PjsVma-GSaL0iMnlOhe1ru4bI0zT2snYkhtw8sKp03prtG4k5vlTqJxKFSrZXIihCKKQihCKEL__Z.jpeg",
+      "snippet": "How old is your cat in human years? Use our Cat Age Calculator and conversion chart to quickly estimate your cat's true age and life expectancy.",
+      "snippet_highlighted_words": [
+        "Use our Cat Age Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "How old is your cat in human years? Use our Cat Age Calculator and conversion chart to quickly estimate your cat's true age and life expectancy.",
+          "source_info_link": "https://www.almanac.com/cat-age-calculator-cat-years-human-years",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3MTc3Nzc3Ny03Nzc3ODctNTc3ODc3MTc3NzcxN__AABEIABwAHAMBEQACEQEDEQH_xAAYAAADAQEAAAAAAAAAAAAAAAAABAUHA__EACYQAAIBAwQBAwUAAAAAAAAAAAECAwAEEQUSMYEhExRRIjJhcfD_xAAZAQACAwEAAAAAAAAAAAAAAAAAAwECBQT_xAAkEQABBAEDAwUAAAAAAAAAAAABAAIDESEEMUEFEoETFFFxkf_aAAwDAQACEQMRAD8A26WVYl3OcCoJpWa0uNBJTarGJY1t43uEb75Il3KnHOP2ePiqGQDZObpzRLjX2mLe8huXdYW3bDhj8GpbI1xwlvicwAuTFXS1N1l98S2rRkpPIsbPg4UE-Tx13S5Dil06cUe-9rKViGtWnuVkaw9uMLahQwK5YD6vwAa5pHzxhxxWK8mspx9tJ213Xz-cI043cGpyrdGN5JVBb0-Bz_d1m6abUx610ctEkA48qZhG-EFmw-VbHkVvBZ643kL3EJiVgqnkkZPVVe0uFJkbww2lL6GWa39GQBpGGA4PjsVma-GSaL0iMnlOhe1ru4bI0zT2snYkhtw8sKp03prtG4k5vlTqJxKFSrZXIihCKKQihCKEL__Z.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.almanac.com/cat-age-calculator-cat-years-human-years&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.almanac.com%2Fcat-age-calculator-cat-years-human-years",
+      "source": "The Old Farmer’s Almanac"
+    },
+    {
+      "position": 2,
+      "title": "Cat Age Calculator",
+      "link": "https://www.omnicalculator.com/biology/cat-age",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.omnicalculator.com/biology/cat-age&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQFnoECB8QAQ",
+      "displayed_link": "https://www.omnicalculator.com › biology › cat-age",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz8YXX8SWD8RV78RV38TmT8QFn8U2lCbfo-avpEbvpKc_o7aPpAbPo_a_r8R1_LvM1BbPpIcvpAbPo9avr8RFxFb_pPd_pjhvlIcfr8dIb60Cz6zh76zh36zRf6zA_6zA7510r6zh360Cn61DzYpcloAAAAJXRSTlMAFWuqzkr_Lonjczn_v86KBKZPtPjjXiUNRQgvbaDP__8LjkkVqtFInQAAAPBJREFUeAFt0QWWhEAMRdGPywRacNf9r3Eq5HQYqXsEeUgJlON6vu-7sAj8UET4y-GkMU5S3KLwBnwRUWZtHpCRkUM4n-A_XBd40uUl0ZfkORC51DeMQFoAVRArYVTaVEas_ozmAcVKGRMeIXuCNWktJymxFr5MgMX8pwZGS6yTX7owOmIJWEJGCte0qofxokujQ4qBZ8_JHpXts8AwToN9QMC8rOtinwq2xVh3-yI854Ud1uXDsUq1LvxzlnpCvBPdMuNcLgNQp-mrJPGCGHhIM0_llgNaV34xIZXhdu4Hz1yl-Etj3OK_Os_zIu6gvgFLyRf2XteplQAAAABJRU5ErkJggg.png",
+      "snippet": "How do I calculate my age in cat years? · Subtract 16 from your age in years. · Divide the result by 4 to get your age in kitten years.",
+      "snippet_highlighted_words": [
+        "Subtract 16 from your age in years"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "How do I calculate my age in cat years? · Subtract 16 from your age in years. · Divide the result by 4 to get your age in kitten years.",
+          "source_info_link": "https://www.omnicalculator.com/biology/cat-age",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz8YXX8SWD8RV78RV38TmT8QFn8U2lCbfo-avpEbvpKc_o7aPpAbPo_a_r8R1_LvM1BbPpIcvpAbPo9avr8RFxFb_pPd_pjhvlIcfr8dIb60Cz6zh76zh36zRf6zA_6zA7510r6zh360Cn61DzYpcloAAAAJXRSTlMAFWuqzkr_Lonjczn_v86KBKZPtPjjXiUNRQgvbaDP__8LjkkVqtFInQAAAPBJREFUeAFt0QWWhEAMRdGPywRacNf9r3Eq5HQYqXsEeUgJlON6vu-7sAj8UET4y-GkMU5S3KLwBnwRUWZtHpCRkUM4n-A_XBd40uUl0ZfkORC51DeMQFoAVRArYVTaVEas_ozmAcVKGRMeIXuCNWktJymxFr5MgMX8pwZGS6yTX7owOmIJWEJGCte0qofxokujQ4qBZ8_JHpXts8AwToN9QMC8rOtinwq2xVh3-yI854Ud1uXDsUq1LvxzlnpCvBPdMuNcLgNQp-mrJPGCGHhIM0_llgNaV34xIZXhdu4Hz1yl-Etj3OK_Os_zIu6gvgFLyRf2XteplQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.omnicalculator.com/biology/cat-age&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.omnicalculator.com%2Fbiology%2Fcat-age",
+      "source": "Omni Calculator",
+      "read_more_link": "https://www.omnicalculator.com/biology/cat-age#:~:text=How%20do%20I%20calculate%20my,age%20in%20cat%20years%3F&text=Subtract%2016%20from%20your%20age,in%20years.&text=Divide%20the%20result%20by%204,your%20age%20in%20kitten%20years."
+    },
+    {
+      "position": 3,
+      "title": "Cat Years Calculator: How Old is my Cat in Human Years?",
+      "link": "https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQFnoECCIQAQ",
+      "displayed_link": "https://www.purina.co.uk › ... › Senior Cat Care",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAR0lEQVR4AWN4IyVJEgJp-E80QGh4q6H-VlEBiIAMuDSaOKoGBXmIjUAGXDWaOMkaKHMSLkU4PY3LGZRqIOykERMPhBMfSQgAlIr8HM0NuFAAAAAASUVORK5CYII.png",
+      "date": "Mar 24, 2025",
+      "snippet": "The first year of your cat's life is considered the equivalent of 15 human years. The second year adds nine more human years, so 2 cat years are approximately ...",
+      "snippet_highlighted_words": [
+        "The first year of your cat's life is considered the equivalent of 15 human years"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The first year of your cat's life is considered the equivalent of 15 human years. The second year adds nine more human years, so 2 cat years are approximately ...",
+          "source_info_link": "https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAR0lEQVR4AWN4IyVJEgJp-E80QGh4q6H-VlEBiIAMuDSaOKoGBXmIjUAGXDWaOMkaKHMSLkU4PY3LGZRqIOykERMPhBMfSQgAlIr8HM0NuFAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.purina.co.uk%2Farticles%2Fcats%2Fsenior%2Fcare%2Fcats-age-in-human-years",
+      "source": "Purina UK",
+      "read_more_link": "https://www.purina.co.uk/articles/cats/senior/care/cats-age-in-human-years#:~:text=The%20first%20year%20of%20your,are%20approximately%2024%20human%20years."
+    },
+    {
+      "position": 4,
+      "title": "Cat & Dog Age Calculator: Your Pet's Age in Human Years",
+      "link": "https://www.petsplusus.com/pet-information/health/age-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.petsplusus.com/pet-information/health/age-calculator&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQFnoECCAQAQ",
+      "displayed_link": "https://www.petsplusus.com › pet-information › health",
+      "favicon": "https://serpapi.com/searches/6a3a18ee31a601c793aaeebf/images/_JQlfMlYSkcSJAdwXrHiyY2kJrycuECmAT6IzNoJBcU.png",
+      "snippet": "For cats, one human year is roughly equal to 6 - 7 cat years. For dogs, it's slightly more complicated, as size and weight also have ...",
+      "snippet_highlighted_words": [
+        "one human year is roughly equal to 6 - 7 cat years"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "For cats, one human year is roughly equal to 6 - 7 cat years. For dogs, it's slightly more complicated, as size and weight also have ...",
+          "source_info_link": "https://www.petsplusus.com/pet-information/health/age-calculator",
+          "icon": "https://serpapi.com/searches/6a3a18ee31a601c793aaeebf/images/_JQlfMlYSkcSJAdwXrHiyUE3A2ARndMhWfT026_JvloRJjdAayv3zZ8i9DmxP2pR.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.petsplusus.com/pet-information/health/age-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.petsplusus.com%2Fpet-information%2Fhealth%2Fage-calculator",
+      "source": "Pets Plus Us",
+      "read_more_link": "https://www.petsplusus.com/pet-information/health/age-calculator#:~:text=For%20cats%2C%20one%20human%20year,weight%20also%20have%20an%20impact."
+    },
+    {
+      "position": 5,
+      "title": "Cat Age Calculator: Cat Years to Human Years",
+      "link": "https://lapetitelabs.com/pages/cat-age-calculator?srsltid=AfmBOoqvG0ZM2J4BC8AN1J_W0-vjW05twPlNJFM7syqNGs6bsss_LDiH",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lapetitelabs.com/pages/cat-age-calculator%3Fsrsltid%3DAfmBOoqvG0ZM2J4BC8AN1J_W0-vjW05twPlNJFM7syqNGs6bsss_LDiH&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQFnoECB4QAQ",
+      "displayed_link": "https://lapetitelabs.com › pages › cat-age-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEXr6Nvr6Nvq59rs6dve3M_KybvX1sjw7N9jbFtVX02usKKdoZI_Szl8gnL18eTBwrNLVUOWmot2fW2MkYFFoAR7AAAAAnRSTlMMquwlyMIAAAEHSURBVHgBfZOBjoQgDER3B6Ctdiun__-vNxxLskb3XhJqeRnRWB-PJxI6LOnEk45qNDhJgLavuZB6zgFIXUpRM1sEb2hou-xFVvcXZMB-Hk8JxNb8RzKpNUNCMCVtlyteZqbamq45gHMyirlFyou5L8POJGXe3SRJ1J1WgBsJRGmuWe5lEl5scS8Rh7dFvsr_krtr_ZKMauxwlSFJWPfM4EWWsq1qR3eXZDvIUpJwcyTxkUTOEOFGkdszSdTPV1ndjykZ3KxNCdmM6EtdD1NVa6bztkjIncokKslkfk9aIVHUPYcM3k8LjFHLh1k7BIMxYH-ig9I5j-Yc6r6cKv5GfrSXnwLPxy_sKxQmWodDXgAAAABJRU5ErkJggg.png",
+      "date": "3 days ago",
+      "snippet": "Convert your cat's age to human years instantly. Enter an age to see the life stage, adult, mature, or senior, and how feline aging shifts ...",
+      "snippet_highlighted_words": [
+        "Convert your cat's age to human years instantly"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Convert your cat's age to human years instantly. Enter an age to see the life stage, adult, mature, or senior, and how feline aging shifts ...",
+          "source_info_link": "https://lapetitelabs.com/pages/cat-age-calculator?srsltid=AfmBOoqvG0ZM2J4BC8AN1J_W0-vjW05twPlNJFM7syqNGs6bsss_LDiH",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEXr6Nvr6Nvq59rs6dve3M_KybvX1sjw7N9jbFtVX02usKKdoZI_Szl8gnL18eTBwrNLVUOWmot2fW2MkYFFoAR7AAAAAnRSTlMMquwlyMIAAAEHSURBVHgBfZOBjoQgDER3B6Ctdiun__-vNxxLskb3XhJqeRnRWB-PJxI6LOnEk45qNDhJgLavuZB6zgFIXUpRM1sEb2hou-xFVvcXZMB-Hk8JxNb8RzKpNUNCMCVtlyteZqbamq45gHMyirlFyou5L8POJGXe3SRJ1J1WgBsJRGmuWe5lEl5scS8Rh7dFvsr_krtr_ZKMauxwlSFJWPfM4EWWsq1qR3eXZDvIUpJwcyTxkUTOEOFGkdszSdTPV1ndjykZ3KxNCdmM6EtdD1NVa6bztkjIncokKslkfk9aIVHUPYcM3k8LjFHLh1k7BIMxYH-ig9I5j-Yc6r6cKv5GfrSXnwLPxy_sKxQmWodDXgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://lapetitelabs.com/pages/cat-age-calculator?srsltid=AfmBOoqvG0ZM2J4BC8AN1J_W0-vjW05twPlNJFM7syqNGs6bsss_LDiH&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Flapetitelabs.com%2Fpages%2Fcat-age-calculator%3Fsrsltid%3DAfmBOoqvG0ZM2J4BC8AN1J_W0-vjW05twPlNJFM7syqNGs6bsss_LDiH",
+      "source": "La Petite Labs"
+    },
+    {
+      "position": 6,
+      "title": "Cat Age Calculator: How Old Is My Cat in Human Years?",
+      "link": "https://www.litter-robot.com/blog/how-to-convert-your-cats-age-to-human-years/?srsltid=AfmBOoq-j8vqCsFoXODFvq2PCpSd8ceAW5SGLuRBkriaTqFhGbs2nPaw",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.litter-robot.com/blog/how-to-convert-your-cats-age-to-human-years/%3Fsrsltid%3DAfmBOoq-j8vqCsFoXODFvq2PCpSd8ceAW5SGLuRBkriaTqFhGbs2nPaw&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQFnoECB0QAQ",
+      "displayed_link": "https://www.litter-robot.com › blog › how-to-convert-y...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEwlIiIlIiIlIiIlIiIlIiIlIiIlIiIlIiIlIiIlIiIlIiIlIiIlIiKVPN6jAAAADnRSTlMAC1xrGDE6jydEe1CmyR14tHcAAAD5SURBVCiRdZNZcgMhDES1r-T-1408LnvAiftjBtUD0UgA8BY-Bf8IlXy5r-r4w4I4lIlIkvtjdbCJmY5MpfnM6SIZ1wLRRqsdliK9cwkB5Z4U9kxq6HfEIdvUiaHlDibTrkbRrzACv0M9ockOadbee9jhdiDfRRrn7VM66u75LpHtKLDG_CPRNT8D1u6hPNFMHooOrNqPzcgdU3mzVFFO2ts2jpI6Q6bsPaT2punsIZbMxKYDdj-Azx41k12DA449_3mr6IQOxVxrLZ8_wydMwUzVNAyN854Uzjmfd8gU8ugu9BHW0QbAY5cFp9rd69IM7AO-HsPxIn4BGpcG-3KDRbIAAAAASUVORK5CYII.png",
+      "date": "Nov 18, 2025",
+      "snippet": "How do you find your cat's age in human years? Convert cat years to human years with our cat age calculator and chart to support your cat as ...",
+      "snippet_highlighted_words": [
+        "Convert cat years to human years"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "How do you find your cat's age in human years? Convert cat years to human years with our cat age calculator and chart to support your cat as ...",
+          "source_info_link": "https://www.litter-robot.com/blog/how-to-convert-your-cats-age-to-human-years/?srsltid=AfmBOoq-j8vqCsFoXODFvq2PCpSd8ceAW5SGLuRBkriaTqFhGbs2nPaw",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEwlIiIlIiIlIiIlIiIlIiIlIiIlIiIlIiIlIiIlIiIlIiIlIiIlIiKVPN6jAAAADnRSTlMAC1xrGDE6jydEe1CmyR14tHcAAAD5SURBVCiRdZNZcgMhDES1r-T-1408LnvAiftjBtUD0UgA8BY-Bf8IlXy5r-r4w4I4lIlIkvtjdbCJmY5MpfnM6SIZ1wLRRqsdliK9cwkB5Z4U9kxq6HfEIdvUiaHlDibTrkbRrzACv0M9ockOadbee9jhdiDfRRrn7VM66u75LpHtKLDG_CPRNT8D1u6hPNFMHooOrNqPzcgdU3mzVFFO2ts2jpI6Q6bsPaT2punsIZbMxKYDdj-Azx41k12DA449_3mr6IQOxVxrLZ8_wydMwUzVNAyN854Uzjmfd8gU8ugu9BHW0QbAY5cFp9rd69IM7AO-HsPxIn4BGpcG-3KDRbIAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.litter-robot.com/blog/how-to-convert-your-cats-age-to-human-years/?srsltid=AfmBOoq-j8vqCsFoXODFvq2PCpSd8ceAW5SGLuRBkriaTqFhGbs2nPaw&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.litter-robot.com%2Fblog%2Fhow-to-convert-your-cats-age-to-human-years%2F%3Fsrsltid%3DAfmBOoq-j8vqCsFoXODFvq2PCpSd8ceAW5SGLuRBkriaTqFhGbs2nPaw",
+      "source": "Litter-Robot"
+    },
+    {
+      "position": 7,
+      "title": "Pet Age Calculator",
+      "link": "https://stokevets.co.nz/pet-advice/pet-age-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stokevets.co.nz/pet-advice/pet-age-calculator/&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQFnoECBsQAQ",
+      "displayed_link": "https://stokevets.co.nz › pet-advice › pet-age-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAqFBMVEVHcEzxmSrykTHwiDXyki_xkjHxjjPxkTHwiDbwhjfyli7wizTwhTfxjzLwhjbvgDjvgTjwjTLzly7wiDXwhzXufDrwkDDufDrykzD2qCLyjzL1nynzmS3whzbwhjYXXKP0ninyli_xjzP2qSGQc27wiDbxijT1oSj2piP2qCHvgjj1oSj2pCX1oSfxjTT2piP2qCPzmS34rxz1pCX4sBr1pCX1pSX1pCUlJXFGAAAAOHRSTlMABshtFv_Xob2tWyBijfbEtA_zQlH8C5C_PjfH_y3nD36p5nADnICFjLrG7qEr9svo3NtM8GPb9Xs11o0AAAEISURBVHgBdM7FkcMAEATANjMzMzPnn9k9z5LK_V2YERLjt3jCT8lU2k-JTDqbS_76mi8US-VKpVoTVS-g0Sy22kQjgUpHVL6LRK5cFdbr6-aRyxZEDIb1IYzGmISH0_Zs3sa4HxkuBijNl6zWwjZbiK9JVC2XAra7fD2uP6e5JzQ7HAenesE5GR1eLjUMC-YjiZxv7esRyduMc8Eq4dt9i8dwSu28NB4Fu2BzOKGfVhgvfXmeOF6WsF5JVAWGMY8rkG7IFn1ZPpd2L1A7t40LwcukywM042rlGJb_ZXuOU1AqKZQFhoud3ht080ZjAbHn4vHJQ7dUS54bAnqXy-AF-XRfNudvxAAAGAQU9nDFLrMAAAAASUVORK5CYII.png",
+      "snippet": "How old is my pet in human years? Our Pet Age Calculator will tell you. Turns out it's not as simple as just multiplying a cat or dog's age by 7!",
+      "snippet_highlighted_words": [
+        "multiplying a cat or dog's age by 7"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "How old is my pet in human years? Our Pet Age Calculator will tell you. Turns out it's not as simple as just multiplying a cat or dog's age by 7!",
+          "source_info_link": "https://stokevets.co.nz/pet-advice/pet-age-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAqFBMVEVHcEzxmSrykTHwiDXyki_xkjHxjjPxkTHwiDbwhjfyli7wizTwhTfxjzLwhjbvgDjvgTjwjTLzly7wiDXwhzXufDrwkDDufDrykzD2qCLyjzL1nynzmS3whzbwhjYXXKP0ninyli_xjzP2qSGQc27wiDbxijT1oSj2piP2qCHvgjj1oSj2pCX1oSfxjTT2piP2qCPzmS34rxz1pCX4sBr1pCX1pSX1pCUlJXFGAAAAOHRSTlMABshtFv_Xob2tWyBijfbEtA_zQlH8C5C_PjfH_y3nD36p5nADnICFjLrG7qEr9svo3NtM8GPb9Xs11o0AAAEISURBVHgBdM7FkcMAEATANjMzMzPnn9k9z5LK_V2YERLjt3jCT8lU2k-JTDqbS_76mi8US-VKpVoTVS-g0Sy22kQjgUpHVL6LRK5cFdbr6-aRyxZEDIb1IYzGmISH0_Zs3sa4HxkuBijNl6zWwjZbiK9JVC2XAra7fD2uP6e5JzQ7HAenesE5GR1eLjUMC-YjiZxv7esRyduMc8Eq4dt9i8dwSu28NB4Fu2BzOKGfVhgvfXmeOF6WsF5JVAWGMY8rkG7IFn1ZPpd2L1A7t40LwcukywM042rlGJb_ZXuOU1AqKZQFhoud3ht080ZjAbHn4vHJQ7dUS54bAnqXy-AF-XRfNudvxAAAGAQU9nDFLrMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://stokevets.co.nz/pet-advice/pet-age-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fstokevets.co.nz%2Fpet-advice%2Fpet-age-calculator%2F",
+      "source": "Stoke Veterinary Hospital",
+      "read_more_link": "https://stokevets.co.nz/pet-advice/pet-age-calculator/#:~:text=How%20old%20is%20my%20pet,or%20dog's%20age%20by%207!"
+    },
+    {
+      "position": 8,
+      "title": "Cat Years Calculator & Chart: Your Cat's Age in Human ...",
+      "link": "https://www.purina.com/articles/cat/behavior/understanding-cats/cat-years-to-human-years",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.purina.com/articles/cat/behavior/understanding-cats/cat-years-to-human-years&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQFnoECCUQAQ",
+      "displayed_link": "https://www.purina.com › cat › cat-years-to-human-years",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEX____yeX3vVFruVVnwYmf97O3uTlP3t7n71tj6z9HuSk7tMDfqHyfoCRX3srT71NXpDhrqAAz85OXuWl7sKjLrHyfqAA_oAADrGSL3sLL0k5fygoXziIvzjpD6x8n95ebxbHD_-fmXj5nYAAAAmklEQVR4Ab3SAxLEUBBF0Y5tO9n_Jqc1RnFyiq9u6QN-M0xLmew2bQfA9fyPghCj6UcxSVJgWc6zKCuKWd2guNUYJBy7f0cc32JftKgbNHYt0eh7YpzYnPJKHYsjiKXLUeuCeIlJg3rr1Fj0KHefY7CyxWbGKiRmfft8CQnPh-s7_8nIl9i3359sLcWmdPouxt19_9OM4vEVXABGxCBXy1aacwAAAABJRU5ErkJggg.png",
+      "date": "Mar 31, 2026",
+      "snippet": "The first two years of a cat's life are roughly equal to the first 25 of a human. After this, add four \"cat years\" for every human year.",
+      "snippet_highlighted_words": [
+        "add four \"cat years\" for every human year"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How Old Is My Cat In Human...",
+            "link": "https://www.purina.com/articles/cat/behavior/understanding-cats/cat-years-to-human-years#:~:text=How%20Old%20is%20My%20Cat%20in%20Human%20Years%3F,-The%20first%20two%20years%20of"
+          },
+          {
+            "title": "How Many Cat Years Are In A...",
+            "link": "https://www.purina.com/articles/cat/behavior/understanding-cats/cat-years-to-human-years#:~:text=How%20Many%20Cat%20Years%20Are%20in%20a%20Human%20Year%3F"
+          },
+          {
+            "title": "Cat Age Chart",
+            "link": "https://www.purina.com/articles/cat/behavior/understanding-cats/cat-years-to-human-years#:~:text=Cat%20Age%20Chart,-Comparing%20human%20years%20to%20cat"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The first two years of a cat's life are roughly equal to the first 25 of a human. After this, add four \"cat years\" for every human year.",
+          "source_info_link": "https://www.purina.com/articles/cat/behavior/understanding-cats/cat-years-to-human-years",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEX____yeX3vVFruVVnwYmf97O3uTlP3t7n71tj6z9HuSk7tMDfqHyfoCRX3srT71NXpDhrqAAz85OXuWl7sKjLrHyfqAA_oAADrGSL3sLL0k5fygoXziIvzjpD6x8n95ebxbHD_-fmXj5nYAAAAmklEQVR4Ab3SAxLEUBBF0Y5tO9n_Jqc1RnFyiq9u6QN-M0xLmew2bQfA9fyPghCj6UcxSVJgWc6zKCuKWd2guNUYJBy7f0cc32JftKgbNHYt0eh7YpzYnPJKHYsjiKXLUeuCeIlJg3rr1Fj0KHefY7CyxWbGKiRmfft8CQnPh-s7_8nIl9i3359sLcWmdPouxt19_9OM4vEVXABGxCBXy1aacwAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.purina.com/articles/cat/behavior/understanding-cats/cat-years-to-human-years&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.purina.com%2Farticles%2Fcat%2Fbehavior%2Funderstanding-cats%2Fcat-years-to-human-years",
+      "source": "Purina US",
+      "read_more_link": "https://www.purina.com/articles/cat/behavior/understanding-cats/cat-years-to-human-years#:~:text=The%20first%20two%20years%20of,years%20will%20be%20around%2041."
+    },
+    {
+      "position": 9,
+      "title": "Cat Age Calculator — Cat Years to Human Years",
+      "link": "https://www.ajdesigner.com/cat-age/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ajdesigner.com/cat-age/&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQFnoECBwQAQ",
+      "displayed_link": "https://www.ajdesigner.com › Everyday Tools",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEX___-1tbXT09P5-fnx8fH29vbExMTc3Nzv9_99fX2Dg4OJiYnm5uWXl5fNzc3r9f-jo6OGhoaqqqq8vLvr8_uPj4_Gxsbj8f_e7v93d3empaPNzMudnJvs7O7L1ePO2-3N09q_1vacu-W4yuamw-iAreSMsuFpouSGsOL__vt0UnSjAAAAnUlEQVR4AeyOwwHAQAAEczZjo_8eg1dYQua7TH6uAAARwgRRwAjndw0KqSDRBBtprHN30QclI8EJMUGm2T2JhMqDYXvth2jlLoaC2UOk5b3WhIMoRVS76KqrhuuQ-1zmUcoQ8schZBuqNWiKtul8iu-1ZT-MKOv1mA0T65Err-K8bFNWUVVTV1JWU1LV0NDgQXWtJggwAzGEMbISBwDpggvbVYYyRgAAAABJRU5ErkJggg.png",
+      "snippet": "Cats age very quickly in the first two years, then add about 4 human years per calendar year until age 14 and about 2 human years per year after that. Cat Age ...",
+      "snippet_highlighted_words": [
+        "Cats age",
+        "years",
+        "years",
+        "age",
+        "years",
+        "Cat Age"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Cats age very quickly in the first two years, then add about 4 human years per calendar year until age 14 and about 2 human years per year after that. Cat Age ...",
+          "source_info_link": "https://www.ajdesigner.com/cat-age/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEX___-1tbXT09P5-fnx8fH29vbExMTc3Nzv9_99fX2Dg4OJiYnm5uWXl5fNzc3r9f-jo6OGhoaqqqq8vLvr8_uPj4_Gxsbj8f_e7v93d3empaPNzMudnJvs7O7L1ePO2-3N09q_1vacu-W4yuamw-iAreSMsuFpouSGsOL__vt0UnSjAAAAnUlEQVR4AeyOwwHAQAAEczZjo_8eg1dYQua7TH6uAAARwgRRwAjndw0KqSDRBBtprHN30QclI8EJMUGm2T2JhMqDYXvth2jlLoaC2UOk5b3WhIMoRVS76KqrhuuQ-1zmUcoQ8schZBuqNWiKtul8iu-1ZT-MKOv1mA0T65Err-K8bFNWUVVTV1JWU1LV0NDgQXWtJggwAzGEMbISBwDpggvbVYYyRgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ajdesigner.com/cat-age/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ajdesigner.com%2Fcat-age%2F",
+      "source": "AJ Designer",
+      "read_more_link": "https://www.ajdesigner.com/cat-age/#:~:text=Cats%20age%20very%20quickly%20in,to%20Human%20Years%20(LeBeau%20Method)"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Cat years calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Cat+years+calculator&sa=X&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ1QJ6BAgkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cat+years+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Human years to cat years calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Human+years+to+cat+years+calculator&sa=X&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Human+years+to+cat+years+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "How old is a 20 year-old cat in human years",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+old+is+a+20+year-old+cat+in+human+years&sa=X&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+old+is+a+20+year-old+cat+in+human+years"
+    },
+    {
+      "block_position": 1,
+      "query": "How old is 1 in cat years",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+old+is+1+in+cat+years&sa=X&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+old+is+1+in+cat+years"
+    },
+    {
+      "block_position": 1,
+      "query": "Pet age calculator cat years by breed",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Pet+age+calculator+cat+years+by+breed&sa=X&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pet+age+calculator+cat+years+by+breed"
+    },
+    {
+      "block_position": 1,
+      "query": "12 cat years to human years",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=12+cat+years+to+human+years&sa=X&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=12+cat+years+to+human+years"
+    },
+    {
+      "block_position": 1,
+      "query": "10 cat years to human years",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=10+cat+years+to+human+years&sa=X&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=10+cat+years+to+human+years"
+    },
+    {
+      "block_position": 1,
+      "query": "Cat age calculator weeks",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Cat+age+calculator+weeks&sa=X&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ1QJ6BAgnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cat+age+calculator+weeks"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pet+age+calculator+cat+years&sca_esv=bbb7d61e8d3bb37e&ei=7hg6arjfO97gp84P2bm8mQs&start=10&sa=N&sstk=AU9db-AFNMKBLWBd4bVfYG5oIY9kVaacOjruq_C_AvwqgLXvT6U2lplEatIltecBoBYkqcRPJ9g_qvHGkuDUhO1ra9M896MH1iGNHA&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ8NMDegQIOxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pet+age+calculator+cat+years&sca_esv=bbb7d61e8d3bb37e&ei=7hg6arjfO97gp84P2bm8mQs&start=10&sa=N&sstk=AU9db-AFNMKBLWBd4bVfYG5oIY9kVaacOjruq_C_AvwqgLXvT6U2lplEatIltecBoBYkqcRPJ9g_qvHGkuDUhO1ra9M896MH1iGNHA&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ8tMDegQIOxAE",
+      "3": "https://www.google.com/search?q=pet+age+calculator+cat+years&sca_esv=bbb7d61e8d3bb37e&ei=7hg6arjfO97gp84P2bm8mQs&start=20&sa=N&sstk=AU9db-AFNMKBLWBd4bVfYG5oIY9kVaacOjruq_C_AvwqgLXvT6U2lplEatIltecBoBYkqcRPJ9g_qvHGkuDUhO1ra9M896MH1iGNHA&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ8tMDegQIOxAG",
+      "4": "https://www.google.com/search?q=pet+age+calculator+cat+years&sca_esv=bbb7d61e8d3bb37e&ei=7hg6arjfO97gp84P2bm8mQs&start=30&sa=N&sstk=AU9db-AFNMKBLWBd4bVfYG5oIY9kVaacOjruq_C_AvwqgLXvT6U2lplEatIltecBoBYkqcRPJ9g_qvHGkuDUhO1ra9M896MH1iGNHA&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ8tMDegQIOxAI",
+      "5": "https://www.google.com/search?q=pet+age+calculator+cat+years&sca_esv=bbb7d61e8d3bb37e&ei=7hg6arjfO97gp84P2bm8mQs&start=40&sa=N&sstk=AU9db-AFNMKBLWBd4bVfYG5oIY9kVaacOjruq_C_AvwqgLXvT6U2lplEatIltecBoBYkqcRPJ9g_qvHGkuDUhO1ra9M896MH1iGNHA&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ8tMDegQIOxAK",
+      "6": "https://www.google.com/search?q=pet+age+calculator+cat+years&sca_esv=bbb7d61e8d3bb37e&ei=7hg6arjfO97gp84P2bm8mQs&start=50&sa=N&sstk=AU9db-AFNMKBLWBd4bVfYG5oIY9kVaacOjruq_C_AvwqgLXvT6U2lplEatIltecBoBYkqcRPJ9g_qvHGkuDUhO1ra9M896MH1iGNHA&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ8tMDegQIOxAM",
+      "7": "https://www.google.com/search?q=pet+age+calculator+cat+years&sca_esv=bbb7d61e8d3bb37e&ei=7hg6arjfO97gp84P2bm8mQs&start=60&sa=N&sstk=AU9db-AFNMKBLWBd4bVfYG5oIY9kVaacOjruq_C_AvwqgLXvT6U2lplEatIltecBoBYkqcRPJ9g_qvHGkuDUhO1ra9M896MH1iGNHA&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ8tMDegQIOxAO",
+      "8": "https://www.google.com/search?q=pet+age+calculator+cat+years&sca_esv=bbb7d61e8d3bb37e&ei=7hg6arjfO97gp84P2bm8mQs&start=70&sa=N&sstk=AU9db-AFNMKBLWBd4bVfYG5oIY9kVaacOjruq_C_AvwqgLXvT6U2lplEatIltecBoBYkqcRPJ9g_qvHGkuDUhO1ra9M896MH1iGNHA&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ8tMDegQIOxAQ",
+      "9": "https://www.google.com/search?q=pet+age+calculator+cat+years&sca_esv=bbb7d61e8d3bb37e&ei=7hg6arjfO97gp84P2bm8mQs&start=80&sa=N&sstk=AU9db-AFNMKBLWBd4bVfYG5oIY9kVaacOjruq_C_AvwqgLXvT6U2lplEatIltecBoBYkqcRPJ9g_qvHGkuDUhO1ra9M896MH1iGNHA&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ8tMDegQIOxAS",
+      "10": "https://www.google.com/search?q=pet+age+calculator+cat+years&sca_esv=bbb7d61e8d3bb37e&ei=7hg6arjfO97gp84P2bm8mQs&start=90&sa=N&sstk=AU9db-AFNMKBLWBd4bVfYG5oIY9kVaacOjruq_C_AvwqgLXvT6U2lplEatIltecBoBYkqcRPJ9g_qvHGkuDUhO1ra9M896MH1iGNHA&ved=2ahUKEwi4jtL3z5yVAxVe8MkDHdkcL7MQ8tMDegQIOxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pet+age+calculator+cat+years&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pet+age+calculator+cat+years&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pet+age+calculator+cat+years&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pet+age+calculator+cat+years&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pet+age+calculator+cat+years&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pet+age+calculator+cat+years&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pet+age+calculator+cat+years&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pet+age+calculator+cat+years&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pet+age+calculator+cat+years&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pet+age+calculator+cat+years&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pet+age+calculator+cat+years&start=90"
+    }
+  }
+}

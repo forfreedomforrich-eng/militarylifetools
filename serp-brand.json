@@ -1,0 +1,295 @@
+{
+  "search_metadata": {
+    "id": "6a6b0174d08cfe59e14e7fb0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/uI0iPFFfoiGdlXo36xlMxw/6a6b0174d08cfe59e14e7fb0.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/uI0iPFFfoiGdlXo36xlMxw/6a6b0174d08cfe59e14e7fb0.json_with_pixel_position",
+    "created_at": "2026-07-30 07:47:00 UTC",
+    "processed_at": "2026-07-30 07:47:00 UTC",
+    "google_url": "https://www.google.com/search?q=militarylifetools.com&oq=militarylifetools.com&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/uI0iPFFfoiGdlXo36xlMxw/6a6b0174d08cfe59e14e7fb0.html",
+    "total_time_taken": 1.6
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "militarylifetools.com",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "militarylifetools.com",
+    "total_results": 651,
+    "time_taken_displayed": 0.38,
+    "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+    "spelling_fix": "military lifetools"
+  },
+  "ai_overview": {
+    "page_token": "2Y3UXXiczVbLcrJIFN7NZp5jWOUXMFE0VdRf3VwMXtOaRMyGQsAGBElsIupu3mWeap5mmvaGRJOafzE1XQU05_S59Onz8fHnX1GwmP_9-29-mr6Re57PsqyCkwRHXsVJYt4mm4XDz5KILB3_52Yl33IOkQXOC2QX6Uv7fTzVHM-r9ZPHeechaQGOWcjW1CZeSB2uQ8JbPL3N_7hV6UuFVLxFZSDoj3gdPoMtrlQFsVkZ8HZMF4D_YGgIwPxGZ_RCn_S9S8LzgXB-fy2KsLKfwJNswiJACJguuepOYTYGMCCgjhutWdzKALB3OgCyLzJRivEA6O4y6AG2Bw1qF43wJ8lhXef6ktO4VB2WhXK0Uov2V6qptEouENAsFtk4T4rOlKNRLoY77wMEPDUDfoY74PpQEqDGCBqo6PDSeE5Gi8M8xRO6Jd7FtCcFfrqkD5EPHN9hkyXJW1V5agrJA0jD1YtpNcRVXRwOyYel4tpAkkR3lPHOlK6LEtv1XMu3hJ_sXayKNaF5KzVuGEYccgQJOQPJa-_dD8L2cowq3QoUCwg51NM4zx8ZRlm0q5jGlsKyHO_rsVdoGp3AeaEeezlQDQyKp9j5gVj0vSG8A2ADjHKX5s7bRcERIcWorFWhvk9JP1qeNyAstHlB4ZRCnu3xVAoED7kpLNxhjkoWWAvo-1FyWso-GCBhOO7kNqwW6oIpTkM7K3G-W03LPxXwPLdd2AJClLypjfygRlQHDZ0uGbL89w2r7WsPRyVcaqWW7lEnSoa-7vMrQ_9-CQIHKJQ6u4gIfbN4mmhP6dR-bPaVoGfBuSPOVVXKWugyApJ4-i94wvl_YGTHIjlGtPzlEkbQNxhBOHf-BYvsjCcHjDDd-3WMQAg-s4i33-CRRS5hRAHDIkaOLKJ8YpECRvLo32AEf4ERBK5gJGeRCxhBlzFyYJECRuYlFjmkv2ORI0Z-gUX0X2MRBhlv9zinlI8QX6eW2MT4dbj2YCq-reK5GIldxTTTNA3Qt9Qyi9P72HajGytw72G1nW7cG4sKknvP5d7lOIiC1F5uomDmpQn9u8t_9rg4WiayYNcfvNBfP6wXtZGgmiszHK8nT6NmfeOqnbX5Vtfjtv7yQUZ-FNWEbaP-EM50IVIjxTbDekMaRf2J2iZb33ndeMYiM6Z3prRIBprzLLphGG2J3-yM2xPTIQ1L7W6Hjf7Q1Ibuy8r08VhQJSOpT_znqlK1O_7qI85YXkT-IXUfu3XSn71gju6EeLLIxUtHpqd6h0EfgTGGDlAmANEOQvTAkJLRqw6QBjni2JZHVnLVkcSmK9VqU6daE4Q6F-N08yY3BY4slrL4Dx0BIN0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2Y3UXXiczVbLcrJIFN7NZp5jWOUXMFE0VdRf3VwMXtOaRMyGQsAGBElsIupu3mWeap5mmvaGRJOafzE1XQU05_S59Onz8fHnX1GwmP_9-29-mr6Re57PsqyCkwRHXsVJYt4mm4XDz5KILB3_52Yl33IOkQXOC2QX6Uv7fTzVHM-r9ZPHeechaQGOWcjW1CZeSB2uQ8JbPL3N_7hV6UuFVLxFZSDoj3gdPoMtrlQFsVkZ8HZMF4D_YGgIwPxGZ_RCn_S9S8LzgXB-fy2KsLKfwJNswiJACJguuepOYTYGMCCgjhutWdzKALB3OgCyLzJRivEA6O4y6AG2Bw1qF43wJ8lhXef6ktO4VB2WhXK0Uov2V6qptEouENAsFtk4T4rOlKNRLoY77wMEPDUDfoY74PpQEqDGCBqo6PDSeE5Gi8M8xRO6Jd7FtCcFfrqkD5EPHN9hkyXJW1V5agrJA0jD1YtpNcRVXRwOyYel4tpAkkR3lPHOlK6LEtv1XMu3hJ_sXayKNaF5KzVuGEYccgQJOQPJa-_dD8L2cowq3QoUCwg51NM4zx8ZRlm0q5jGlsKyHO_rsVdoGp3AeaEeezlQDQyKp9j5gVj0vSG8A2ADjHKX5s7bRcERIcWorFWhvk9JP1qeNyAstHlB4ZRCnu3xVAoED7kpLNxhjkoWWAvo-1FyWso-GCBhOO7kNqwW6oIpTkM7K3G-W03LPxXwPLdd2AJClLypjfygRlQHDZ0uGbL89w2r7WsPRyVcaqWW7lEnSoa-7vMrQ_9-CQIHKJQ6u4gIfbN4mmhP6dR-bPaVoGfBuSPOVVXKWugyApJ4-i94wvl_YGTHIjlGtPzlEkbQNxhBOHf-BYvsjCcHjDDd-3WMQAg-s4i33-CRRS5hRAHDIkaOLKJ8YpECRvLo32AEf4ERBK5gJGeRCxhBlzFyYJECRuYlFjmkv2ORI0Z-gUX0X2MRBhlv9zinlI8QX6eW2MT4dbj2YCq-reK5GIldxTTTNA3Qt9Qyi9P72HajGytw72G1nW7cG4sKknvP5d7lOIiC1F5uomDmpQn9u8t_9rg4WiayYNcfvNBfP6wXtZGgmiszHK8nT6NmfeOqnbX5Vtfjtv7yQUZ-FNWEbaP-EM50IVIjxTbDekMaRf2J2iZb33ndeMYiM6Z3prRIBprzLLphGG2J3-yM2xPTIQ1L7W6Hjf7Q1Ibuy8r08VhQJSOpT_znqlK1O_7qI85YXkT-IXUfu3XSn71gju6EeLLIxUtHpqd6h0EfgTGGDlAmANEOQvTAkJLRqw6QBjni2JZHVnLVkcSmK9VqU6daE4Q6F-N08yY3BY4slrL4Dx0BIN0"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Contact Us | Military Life Tools",
+      "link": "https://militarylifetools.com/contact/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/contact/&ved=2ahUKEwjlqf-39PmVAxVHD1kFHZAQGgMQFnoECB8QAQ",
+      "displayed_link": "https://militarylifetools.com › contact",
+      "snippet": "Pay Calculator - Calculate your total military compensation. Military Life Tools. Free online tools for military personnel, veterans, and their families. Tools.",
+      "snippet_highlighted_words": [
+        "Free online tools for military personnel, veterans, and their families"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Pay Calculator - Calculate your total military compensation. Military Life Tools. Free online tools for military personnel, veterans, and their families. Tools.",
+          "source_info_link": "https://militarylifetools.com/contact/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/contact/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fcontact%2F",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 2,
+      "title": "Privacy Policy | Military Life Tools",
+      "link": "https://militarylifetools.com/privacy-policy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/privacy-policy&ved=2ahUKEwjlqf-39PmVAxVHD1kFHZAQGgMQFnoECBoQAQ",
+      "displayed_link": "https://militarylifetools.com › privacy-policy",
+      "date": "Jun 23, 2026",
+      "snippet": "Free online tools for military personnel, veterans, and their families. Tools. ETS Countdown · Time Converter · Uniform Size · BAH Calculator ...",
+      "snippet_highlighted_words": [
+        "Free online tools for military personnel, veterans, and their families"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Free online tools for military personnel, veterans, and their families. Tools. ETS Countdown · Time Converter · Uniform Size · BAH Calculator ...",
+          "source_info_link": "https://militarylifetools.com/privacy-policy"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/privacy-policy&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fprivacy-policy",
+      "source": "militarylifetools.com",
+      "read_more_link": "https://militarylifetools.com/privacy-policy#:~:text=Free%20online%20tools%20for%20military,BAH%20Calculator"
+    },
+    {
+      "position": 3,
+      "title": "Military ETS Countdown Timer - Free Online Tool | Military Life ...",
+      "link": "https://militarylifetools.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/&ved=2ahUKEwjlqf-39PmVAxVHD1kFHZAQGgMQFnoECCMQAQ",
+      "displayed_link": "https://militarylifetools.com",
+      "snippet": "Free military ETS countdown timer. Track your separation date with milestones. Calculate days until discharge. personnel, veterans, and their families.",
+      "snippet_highlighted_words": [
+        "Free military ETS countdown timer"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Free military ETS countdown timer. Track your separation date with milestones. Calculate days until discharge. personnel, veterans, and their families.",
+          "source_info_link": "https://militarylifetools.com/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2F",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 4,
+      "title": "BAH Calculator 2026 - Basic Allowance for Housing Rates",
+      "link": "https://militarylifetools.com/bah-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/bah-calculator&ved=2ahUKEwjlqf-39PmVAxVHD1kFHZAQGgMQFnoECBsQAQ",
+      "displayed_link": "https://militarylifetools.com › bah-calculator",
+      "snippet": "Calculate your 2026 Basic Allowance for Housing (BAH) rate instantly. Look up BAH by ZIP code, pay grade, and dependency status. Free online calculator.",
+      "snippet_highlighted_words": [
+        "Calculate your 2026 Basic Allowance for Housing (BAH) rate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculate your 2026 Basic Allowance for Housing (BAH) rate instantly. Look up BAH by ZIP code, pay grade, and dependency status. Free online calculator.",
+          "source_info_link": "https://militarylifetools.com/bah-calculator"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/bah-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fbah-calculator",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 5,
+      "title": "Military Finance Blog | Tips, Guides & Resources",
+      "link": "https://militarylifetools.com/blog",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/blog&ved=2ahUKEwjlqf-39PmVAxVHD1kFHZAQGgMQFnoECB0QAQ",
+      "displayed_link": "https://militarylifetools.com › blog",
+      "snippet": "Military Life Tools is dedicated to helping service members, veterans, and their families make informed financial decisions. Our blog provides in-depth ...",
+      "snippet_highlighted_words": [
+        "Military Life Tools"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military Life Tools is dedicated to helping service members, veterans, and their families make informed financial decisions. Our blog provides in-depth ...",
+          "source_info_link": "https://militarylifetools.com/blog"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/blog&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fblog",
+      "source": "militarylifetools.com",
+      "read_more_link": "https://militarylifetools.com/blog#:~:text=Military%20Life%20Tools%20is%20dedicated,banking%2C%20investments%2C%20and%20military%2Dspecific%20benefits."
+    },
+    {
+      "position": 6,
+      "title": "Military Time Converter - Standard to 24-Hour Clock",
+      "link": "https://militarylifetools.com/time-converter/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/time-converter/&ved=2ahUKEwjlqf-39PmVAxVHD1kFHZAQGgMQFnoECCsQAQ",
+      "displayed_link": "https://militarylifetools.com › time-converter",
+      "snippet": "Convert between standard 12-hour time and military 24-hour time instantly. Free online military time converter with real-time clock and easy-to-use ...",
+      "snippet_highlighted_words": [
+        "Free online military time converter"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Convert between standard 12-hour time and military 24-hour time instantly. Free online military time converter with real-time clock and easy-to-use ...",
+          "source_info_link": "https://militarylifetools.com/time-converter/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/time-converter/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Ftime-converter%2F",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 7,
+      "title": "Military Retirement Planning Guide: Legacy, BRS, and TSP",
+      "link": "https://militarylifetools.com/blog/retirement-planning-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarylifetools.com/blog/retirement-planning-guide/&ved=2ahUKEwjlqf-39PmVAxVHD1kFHZAQGgMQFnoECCoQAQ",
+      "displayed_link": "https://militarylifetools.com › blog › retirement-planning...",
+      "snippet": "Get a simple overview of military retirement systems, BRS vs Legacy, TSP, and how a retirement calculator can help with planning.",
+      "snippet_highlighted_words": [
+        "Get a simple overview of military retirement systems"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Get a simple overview of military retirement systems, BRS vs Legacy, TSP, and how a retirement calculator can help with planning.",
+          "source_info_link": "https://militarylifetools.com/blog/retirement-planning-guide/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarylifetools.com/blog/retirement-planning-guide/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarylifetools.com%2Fblog%2Fretirement-planning-guide%2F",
+      "source": "militarylifetools.com"
+    },
+    {
+      "position": 8,
+      "title": "Military Bridge (@MilitaryBridge)",
+      "link": "https://www.facebook.com/MilitaryBridge/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/MilitaryBridge/&ved=2ahUKEwjlqf-39PmVAxVHD1kFHZAQGgMQFnoECDMQAQ",
+      "displayed_link": "21K+ followers",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "MilitaryBridge Connects active military, veterans & their families to best businesses, services, military discounts, local events, jobs & resources.",
+      "snippet_highlighted_words": [
+        "Connects active military, veterans & their families"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "MilitaryBridge Connects active military, veterans & their families to best businesses, services, military discounts, local events, jobs & resources.",
+          "source_info_link": "https://www.facebook.com/MilitaryBridge/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/MilitaryBridge/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FMilitaryBridge%2F",
+      "source": "Facebook · Military Bridge",
+      "read_more_link": "https://www.facebook.com/MilitaryBridge/#:~:text=MilitaryBridge%20Connects%20active%20military%2C%20veterans,local%20events%2C%20jobs%20%26%20resources."
+    },
+    {
+      "position": 9,
+      "title": "Military life doesn't come with a manual, but you don't have ...",
+      "link": "https://www.instagram.com/p/DWHUVnEGPrB/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DWHUVnEGPrB/&ved=2ahUKEwjlqf-39PmVAxVHD1kFHZAQGgMQFnoECCwQAQ",
+      "displayed_link": "10+ likes · 4 months ago",
+      "favicon": "https://serpapi.com/searches/6a6b0174d08cfe59e14e7fb0/images/zzI2-ZCzZtcPRZcRopUDZ3Mg27pLWx_JV0FmmapMGf0.png",
+      "snippet": "Tools and techniques to help manage stress, anxiety or overwhelm - Free wellbeing resources you can use straight away. For more information or ...",
+      "snippet_highlighted_words": [
+        "Tools and techniques to help manage stress, anxiety or overwhelm"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tools and techniques to help manage stress, anxiety or overwhelm - Free wellbeing resources you can use straight away. For more information or ...",
+          "source_info_link": "https://www.instagram.com/p/DWHUVnEGPrB/",
+          "icon": "https://serpapi.com/searches/6a6b0174d08cfe59e14e7fb0/images/zzI2-ZCzZtcPRZcRopUDZ0D4XsUuerMhK861yIAwfNjHO_x2sud5jG6n4waFtOoz.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DWHUVnEGPrB/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDWHUVnEGPrB%2F",
+      "source": "Instagram · solentmind"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=militarylifetools.com&sca_esv=2c719d755bc25006&ei=dQFraqWbEcee5NoPkKHoGA&start=10&sa=N&sstk=AU9db-C0rVkIunanyYD3UPAQIXalQBcu9K0ulAuck3b7FEHVhoo_VMpWJo6HW7GOsbTF8oVWoWF9QYxEpVZ1rvZ3As1PtssaqizGaQ&ved=2ahUKEwjlqf-39PmVAxVHD1kFHZAQGgMQ8NMDegQIKRAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=militarylifetools.com&sca_esv=2c719d755bc25006&ei=dQFraqWbEcee5NoPkKHoGA&start=10&sa=N&sstk=AU9db-C0rVkIunanyYD3UPAQIXalQBcu9K0ulAuck3b7FEHVhoo_VMpWJo6HW7GOsbTF8oVWoWF9QYxEpVZ1rvZ3As1PtssaqizGaQ&ved=2ahUKEwjlqf-39PmVAxVHD1kFHZAQGgMQ8tMDegQIKRAE",
+      "3": "https://www.google.com/search?q=militarylifetools.com&sca_esv=2c719d755bc25006&ei=dQFraqWbEcee5NoPkKHoGA&start=20&sa=N&sstk=AU9db-C0rVkIunanyYD3UPAQIXalQBcu9K0ulAuck3b7FEHVhoo_VMpWJo6HW7GOsbTF8oVWoWF9QYxEpVZ1rvZ3As1PtssaqizGaQ&ved=2ahUKEwjlqf-39PmVAxVHD1kFHZAQGgMQ8tMDegQIKRAG",
+      "4": "https://www.google.com/search?q=militarylifetools.com&sca_esv=2c719d755bc25006&ei=dQFraqWbEcee5NoPkKHoGA&start=30&sa=N&sstk=AU9db-C0rVkIunanyYD3UPAQIXalQBcu9K0ulAuck3b7FEHVhoo_VMpWJo6HW7GOsbTF8oVWoWF9QYxEpVZ1rvZ3As1PtssaqizGaQ&ved=2ahUKEwjlqf-39PmVAxVHD1kFHZAQGgMQ8tMDegQIKRAI",
+      "5": "https://www.google.com/search?q=militarylifetools.com&sca_esv=2c719d755bc25006&ei=dQFraqWbEcee5NoPkKHoGA&start=40&sa=N&sstk=AU9db-C0rVkIunanyYD3UPAQIXalQBcu9K0ulAuck3b7FEHVhoo_VMpWJo6HW7GOsbTF8oVWoWF9QYxEpVZ1rvZ3As1PtssaqizGaQ&ved=2ahUKEwjlqf-39PmVAxVHD1kFHZAQGgMQ8tMDegQIKRAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=militarylifetools.com&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=militarylifetools.com&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=militarylifetools.com&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=militarylifetools.com&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=militarylifetools.com&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=militarylifetools.com&start=40"
+    }
+  }
+}

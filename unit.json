@@ -1,0 +1,454 @@
+{
+  "search_metadata": {
+    "id": "6a3a21a9b463f31b7afba2fe",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Sz_9lI9Sy2vK0UupJ4IllA/6a3a21a9b463f31b7afba2fe.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Sz_9lI9Sy2vK0UupJ4IllA/6a3a21a9b463f31b7afba2fe.json_with_pixel_position",
+    "created_at": "2026-06-23 06:03:21 UTC",
+    "processed_at": "2026-06-23 06:03:21 UTC",
+    "google_url": "https://www.google.com/search?q=military+unit+conversion+chart&oq=military+unit+conversion+chart&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Sz_9lI9Sy2vK0UupJ4IllA/6a3a21a9b463f31b7afba2fe.html",
+    "total_time_taken": 0.7
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military unit conversion chart",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military unit conversion chart",
+    "total_results": 94,
+    "time_taken_displayed": 0.2,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What are the basic unit conversions?",
+      "type": "ai_overview",
+      "page_token": "dBx_K3icHdDLToNAFADQ-DMu7UCrpk0aE5ThoUxl4F4YNgYG6RSGh4otZee_-FV-jcbdWZ-vb33omp-LoxrH4WOzWJxOp6t93-_165Xs20X-ce7kQuZaF7lsNje3N8ZdJbf2p2fdv3lWCMOAD5zElEXMFSOkwTkEPMfAUk5VU2jl8_TPBrZcY8fIuooctStMo0ZjfQjjzMk67gGZ6mwu3wHFiLNfMeK7MqE0J8Zn4PpPgQNG0hrqtcEVNqrNY_9YkGsz1DQqEzBzpBk45TN3hrHQa8IeqCeaKU0apZD4KwH-GexxFLEgUdeYT8jqdIlDbvOdpP5jjuo5c9iKO-weZ6uzVTkBAVOkwuRQPuLMptJl4Y5aYVBnlpj6Qwh8lrVugehQJKWKYkoi8ExpDAF3uYnOui1itGPbnrPTZSWP2-Xl_-f2pWrHzfDe738Bjk2B-Q",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dBx_K3icHdDLToNAFADQ-DMu7UCrpk0aE5ThoUxl4F4YNgYG6RSGh4otZee_-FV-jcbdWZ-vb33omp-LoxrH4WOzWJxOp6t93-_165Xs20X-ce7kQuZaF7lsNje3N8ZdJbf2p2fdv3lWCMOAD5zElEXMFSOkwTkEPMfAUk5VU2jl8_TPBrZcY8fIuooctStMo0ZjfQjjzMk67gGZ6mwu3wHFiLNfMeK7MqE0J8Zn4PpPgQNG0hrqtcEVNqrNY_9YkGsz1DQqEzBzpBk45TN3hrHQa8IeqCeaKU0apZD4KwH-GexxFLEgUdeYT8jqdIlDbvOdpP5jjuo5c9iKO-weZ6uzVTkBAVOkwuRQPuLMptJl4Y5aYVBnlpj6Qwh8lrVugehQJKWKYkoi8ExpDAF3uYnOui1itGPbnrPTZSWP2-Xl_-f2pWrHzfDe738Bjk2B-Q",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJtWlNlRE14YlhwdlkwRllWbTVCV21ScldYQTVNMm8wVkZGak5IVXhUMmM0VmtSM1RtVlZjeTB5Tmt4eVlYbDZlRVJKVjNNM1VXaE1ORU5HTVdka1RsVXphVWQ0TW01a05FTjVZMFppYm5kbU1EbDNhM1p6U25wSFFSSVhjVk5GTm1GMk5rVkhTbGN6Y1hSelVEaFFVREkyUVdNYUlrRkVjM0k1WmxKUGFIbHNNRzkxVUhSRVNHSnlZbXBzYVVaellsOXNPRWg0ZVZFIiwiZmN2IjoiMyIsImVpIjoicVNFNmF2NkVHSlczcXRzUDhQUDI2QWMiLCJxYyI6IkNoNXRhV3hwZEdGeWVTQjFibWwwSUdOdmJuWmxjbk5wYjI0Z1kyaGhjblFRQUgwV2NCTV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiYXNpYyB1bml0IGNvbnZlcnNpb25zPyIsImxrIjoiR2lOM2FHRjBJR0Z5WlNCMGFHVWdZbUZ6YVdNZ2RXNXBkQ0JqYjI1MlpYSnphVzl1Y3ciLCJicyI6ImM0M09QUXNDTVF5QVlWd3pPWGVLSDZkckRlNDNpb09EazNNOUNoZXdMYlRSb3JfZTloeEVsN3N1Z2ZEa3BYQ0M5YVUzZ2laYWxON2kxU1R1OE81WnNBdi1ZV1BpNEZOTGpWcmxjUWNIV1B6a0hOOVlUSHgtWk9LWExhMmx3anlDNEF5Ylk4SWRHWWZzdjBMWVdhUzkxaGdpNnZKYTJxcUdwOGlhSFA1V2RkMUxRS0l5XzYtR1pKNGk1N00zIiwiaWQiOiJmY19xU0U2YXY2RUdKVzNxdHNQOFBQMjZBY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJtWlNlRE14YlhwdlkwRllWbTVCV21ScldYQTVNMm8wVkZGak5IVXhUMmM0VmtSM1RtVlZjeTB5Tmt4eVlYbDZlRVJKVjNNM1VXaE1ORU5HTVdka1RsVXphVWQ0TW01a05FTjVZMFppYm5kbU1EbDNhM1p6U25wSFFSSVhjVk5GTm1GMk5rVkhTbGN6Y1hSelVEaFFVREkyUVdNYUlrRkVjM0k1WmxKUGFIbHNNRzkxVUhSRVNHSnlZbXBzYVVaellsOXNPRWg0ZVZFIiwiZmN2IjoiMyIsImVpIjoicVNFNmF2NkVHSlczcXRzUDhQUDI2QWMiLCJxYyI6IkNoNXRhV3hwZEdGeWVTQjFibWwwSUdOdmJuWmxjbk5wYjI0Z1kyaGhjblFRQUgwV2NCTV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiYXNpYyB1bml0IGNvbnZlcnNpb25zPyIsImxrIjoiR2lOM2FHRjBJR0Z5WlNCMGFHVWdZbUZ6YVdNZ2RXNXBkQ0JqYjI1MlpYSnphVzl1Y3ciLCJicyI6ImM0M09QUXNDTVF5QVlWd3pPWGVLSDZkckRlNDNpb09EazNNOUNoZXdMYlRSb3JfZTloeEVsN3N1Z2ZEa3BYQ0M5YVUzZ2laYWxON2kxU1R1OE81WnNBdi1ZV1BpNEZOTGpWcmxjUWNIV1B6a0hOOVlUSHgtWk9LWExhMmx3anlDNEF5Ylk4SWRHWWZzdjBMWVdhUzkxaGdpNnZKYTJxcUdwOGlhSFA1V2RkMUxRS0l5XzYtR1pKNGk1N00zIiwiaWQiOiJmY19xU0U2YXY2RUdKVzNxdHNQOFBQMjZBY18xIn0%3D"
+    },
+    {
+      "question": "What are the military unit sizes?",
+      "type": "ai_overview",
+      "page_token": "e_Z-dnicHdDPboIwAIDx7GU8KoXppolZwqh_mGAotIVeltKqCIUyRane9i57qj3NzK7f7ft9_6hjU_0-XYuua8-z0ajv--FB64PaDYWuR_x8a8RIcKVyLqrZ5GUC3vZiDi9r9_1r7Ua4bYmHrJi0VkSwkSt3jYnah1ZHKQQoq9hqR0PCIdPxHdrcqaxHO1FPQlmrlqRIbxIXEqA7rsg2WPlJTs2Fg6mX2mMeYj8US9XR2OrlEpiohEYAZjPyeoup1Fkjg5iScVbKC7EXUbBwu9hqe1SPn8UCdrSWNFkqJhzUcKfY8GqaEBuUsjbprmQggNJL71KzysQ5BQx5xVaqAsFCGmxhO0szG2H5Qe7h4y2Mtgs3CkrmZkYfI4zuolQ1bsLxrvJ9kbBoQ82EUZU8vPpMiVuOUZ-D0Gf9YC-uc2fw7zn_3NfdrD3pwx-foYTc",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=e_Z-dnicHdDPboIwAIDx7GU8KoXppolZwqh_mGAotIVeltKqCIUyRane9i57qj3NzK7f7ft9_6hjU_0-XYuua8-z0ajv--FB64PaDYWuR_x8a8RIcKVyLqrZ5GUC3vZiDi9r9_1r7Ua4bYmHrJi0VkSwkSt3jYnah1ZHKQQoq9hqR0PCIdPxHdrcqaxHO1FPQlmrlqRIbxIXEqA7rsg2WPlJTs2Fg6mX2mMeYj8US9XR2OrlEpiohEYAZjPyeoup1Fkjg5iScVbKC7EXUbBwu9hqe1SPn8UCdrSWNFkqJhzUcKfY8GqaEBuUsjbprmQggNJL71KzysQ5BQx5xVaqAsFCGmxhO0szG2H5Qe7h4y2Mtgs3CkrmZkYfI4zuolQ1bsLxrvJ9kbBoQ82EUZU8vPpMiVuOUZ-D0Gf9YC-uc2fw7zn_3NfdrD3pwx-foYTc",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJtWlNlRE14YlhwdlkwRllWbTVCV21ScldYQTVNMm8wVkZGak5IVXhUMmM0VmtSM1RtVlZjeTB5Tmt4eVlYbDZlRVJKVjNNM1VXaE1ORU5HTVdka1RsVXphVWQ0TW01a05FTjVZMFppYm5kbU1EbDNhM1p6U25wSFFSSVhjVk5GTm1GMk5rVkhTbGN6Y1hSelVEaFFVREkyUVdNYUlrRkVjM0k1WmxKUGFIbHNNRzkxVUhSRVNHSnlZbXBzYVVaellsOXNPRWg0ZVZFIiwiZmN2IjoiMyIsImVpIjoicVNFNmF2NkVHSlczcXRzUDhQUDI2QWMiLCJxYyI6IkNoNXRhV3hwZEdGeWVTQjFibWwwSUdOdmJuWmxjbk5wYjI0Z1kyaGhjblFRQUgwV2NCTV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBtaWxpdGFyeSB1bml0IHNpemVzPyIsImxrIjoiR2lCM2FHRjBJR0Z5WlNCMGFHVWdiV2xzYVhSaGNua2dkVzVwZENCemFYcGxjdyIsImJzIjoiYzQzT1BRc0NNUXlBWVZ3ek9YZUtINmRyRGU0M2lvT0RrM005Q2hld0xiVFJvcl9lOWh4RWw3c3VnZkRrcFhDQzlhVTNnaVphbE43aTFTVHU4TzVac0F2LVlXUGk0Rk5MalZybGNRY0hXUHprSE45WVRIeC1aT0tYTGEybHdqeUM0QXliWThJZEdZZnN2MExZV2FTOTFoZ2k2dkphMnFxR3A4aWFIUDVXZGQxTFFLSXlfNi1HWko0aTU3TTMiLCJpZCI6ImZjX3FTRTZhdjZFR0pXM3F0c1A4UFAyNkFjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJtWlNlRE14YlhwdlkwRllWbTVCV21ScldYQTVNMm8wVkZGak5IVXhUMmM0VmtSM1RtVlZjeTB5Tmt4eVlYbDZlRVJKVjNNM1VXaE1ORU5HTVdka1RsVXphVWQ0TW01a05FTjVZMFppYm5kbU1EbDNhM1p6U25wSFFSSVhjVk5GTm1GMk5rVkhTbGN6Y1hSelVEaFFVREkyUVdNYUlrRkVjM0k1WmxKUGFIbHNNRzkxVUhSRVNHSnlZbXBzYVVaellsOXNPRWg0ZVZFIiwiZmN2IjoiMyIsImVpIjoicVNFNmF2NkVHSlczcXRzUDhQUDI2QWMiLCJxYyI6IkNoNXRhV3hwZEdGeWVTQjFibWwwSUdOdmJuWmxjbk5wYjI0Z1kyaGhjblFRQUgwV2NCTV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBtaWxpdGFyeSB1bml0IHNpemVzPyIsImxrIjoiR2lCM2FHRjBJR0Z5WlNCMGFHVWdiV2xzYVhSaGNua2dkVzVwZENCemFYcGxjdyIsImJzIjoiYzQzT1BRc0NNUXlBWVZ3ek9YZUtINmRyRGU0M2lvT0RrM005Q2hld0xiVFJvcl9lOWh4RWw3c3VnZkRrcFhDQzlhVTNnaVphbE43aTFTVHU4TzVac0F2LVlXUGk0Rk5MalZybGNRY0hXUHprSE45WVRIeC1aT0tYTGEybHdqeUM0QXliWThJZEdZZnN2MExZV2FTOTFoZ2k2dkphMnFxR3A4aWFIUDVXZGQxTFFLSXlfNi1HWko0aTU3TTMiLCJpZCI6ImZjX3FTRTZhdjZFR0pXM3F0c1A4UFAyNkFjXzEifQ%3D%3D"
+    },
+    {
+      "question": "Is 12am in military time 2400 or 0000?",
+      "type": "ai_overview",
+      "page_token": "ZN81XnicHdDbboIwGADg7GW8VA7OZSZmSYWKB3AU-gu9WaBVEVrBwSxyt3fZU-1plux7hO_7R16u1e_Tvei6pp1PJlrr8bmuz_I45rWaZO3jyic8kzLPeDWfvczMtxNfuF9rtLytUUibBhxixBiVgMmGYfLwXf0sTFjRUuzBE6fM3FzyhDnkgM1Q8p6r3g4S1ua4mHJKlgFU01S9OpAEDava6d5liFlmnFcmI9C0QoloB4GOADOSiFt40Nqn1cBs4scDJmKA99hDJFDdIXPJlllNnVOjixzs0ZJrcIqDb0GRx3gbVZuEA_L4SltCSRWtiu7orTVNgsE38C6xmZ_bArmF6KlBrTRJLULFFoagF14Q7jEK_ZKhtK8vISUDL6WiVA6pIXtmg6SSm9ythxCKlfCKGyiTscrtmB6d-H1hj_4_Fx8n1c2bz_r8B5FHhKw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZN81XnicHdDbboIwGADg7GW8VA7OZSZmSYWKB3AU-gu9WaBVEVrBwSxyt3fZU-1plux7hO_7R16u1e_Tvei6pp1PJlrr8bmuz_I45rWaZO3jyic8kzLPeDWfvczMtxNfuF9rtLytUUibBhxixBiVgMmGYfLwXf0sTFjRUuzBE6fM3FzyhDnkgM1Q8p6r3g4S1ua4mHJKlgFU01S9OpAEDava6d5liFlmnFcmI9C0QoloB4GOADOSiFt40Nqn1cBs4scDJmKA99hDJFDdIXPJlllNnVOjixzs0ZJrcIqDb0GRx3gbVZuEA_L4SltCSRWtiu7orTVNgsE38C6xmZ_bArmF6KlBrTRJLULFFoagF14Q7jEK_ZKhtK8vISUDL6WiVA6pIXtmg6SSm9ythxCKlfCKGyiTscrtmB6d-H1hj_4_Fx8n1c2bz_r8B5FHhKw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJtWlNlRE14YlhwdlkwRllWbTVCV21ScldYQTVNMm8wVkZGak5IVXhUMmM0VmtSM1RtVlZjeTB5Tmt4eVlYbDZlRVJKVjNNM1VXaE1ORU5HTVdka1RsVXphVWQ0TW01a05FTjVZMFppYm5kbU1EbDNhM1p6U25wSFFSSVhjVk5GTm1GMk5rVkhTbGN6Y1hSelVEaFFVREkyUVdNYUlrRkVjM0k1WmxKUGFIbHNNRzkxVUhSRVNHSnlZbXBzYVVaellsOXNPRWg0ZVZFIiwiZmN2IjoiMyIsImVpIjoicVNFNmF2NkVHSlczcXRzUDhQUDI2QWMiLCJxYyI6IkNoNXRhV3hwZEdGeWVTQjFibWwwSUdOdmJuWmxjbk5wYjI0Z1kyaGhjblFRQUgwV2NCTV8iLCJxdWVzdGlvbiI6IklzIDEyYW0gaW4gbWlsaXRhcnkgdGltZSAyNDAwIG9yIDAwMDA/IiwibGsiOiJHaVZwY3lBeE1tRnRJR2x1SUcxcGJHbDBZWEo1SUhScGJXVWdNalF3TUNCdmNpQXdNREF3IiwiYnMiOiJjNDNPUFFzQ01ReUFZVnd6T1hlS0g2ZHJEZTQzaW9PRGszTTlDaGV3TGJUUm9yX2U5aHhFbDdzdWdmRGtwWENDOWFVM2dpWmFsTjdpMVNUdThPNVpzQXYtWVdQaTRGTkxqVnJsY1FjSFdQemtITjlZVEh4LVpPS1hMYTJsd2p5QzRBeWJZOElkR1lmc3YwTFlXYVM5MWhnaTZ2SmEycXFHcDhpYUhQNVdkZDFMUUtJeV82LUdaSjRpNTdNMyIsImlkIjoiZmNfcVNFNmF2NkVHSlczcXRzUDhQUDI2QWNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJtWlNlRE14YlhwdlkwRllWbTVCV21ScldYQTVNMm8wVkZGak5IVXhUMmM0VmtSM1RtVlZjeTB5Tmt4eVlYbDZlRVJKVjNNM1VXaE1ORU5HTVdka1RsVXphVWQ0TW01a05FTjVZMFppYm5kbU1EbDNhM1p6U25wSFFSSVhjVk5GTm1GMk5rVkhTbGN6Y1hSelVEaFFVREkyUVdNYUlrRkVjM0k1WmxKUGFIbHNNRzkxVUhSRVNHSnlZbXBzYVVaellsOXNPRWg0ZVZFIiwiZmN2IjoiMyIsImVpIjoicVNFNmF2NkVHSlczcXRzUDhQUDI2QWMiLCJxYyI6IkNoNXRhV3hwZEdGeWVTQjFibWwwSUdOdmJuWmxjbk5wYjI0Z1kyaGhjblFRQUgwV2NCTV8iLCJxdWVzdGlvbiI6IklzIDEyYW0gaW4gbWlsaXRhcnkgdGltZSAyNDAwIG9yIDAwMDA%2FIiwibGsiOiJHaVZwY3lBeE1tRnRJR2x1SUcxcGJHbDBZWEo1SUhScGJXVWdNalF3TUNCdmNpQXdNREF3IiwiYnMiOiJjNDNPUFFzQ01ReUFZVnd6T1hlS0g2ZHJEZTQzaW9PRGszTTlDaGV3TGJUUm9yX2U5aHhFbDdzdWdmRGtwWENDOWFVM2dpWmFsTjdpMVNUdThPNVpzQXYtWVdQaTRGTkxqVnJsY1FjSFdQemtITjlZVEh4LVpPS1hMYTJsd2p5QzRBeWJZOElkR1lmc3YwTFlXYVM5MWhnaTZ2SmEycXFHcDhpYUhQNVdkZDFMUUtJeV82LUdaSjRpNTdNMyIsImlkIjoiZmNfcVNFNmF2NkVHSlczcXRzUDhQUDI2QWNfMSJ9"
+    },
+    {
+      "question": "What is 1400 to 2200 in military time?",
+      "type": "ai_overview",
+      "page_token": "VLjSPHicHdBRbpswGABg7TJ9bAyITESKJhEMSxtIcPBv4GUCOyEJv4E2biG87S47VU9Tad8Rvr__8Nq1Xz8-L8YM99ViMY7jc9P3DZ6eZa8X1f3RyYWsEOtKtqvlz6X16yzX9GPrb962fsqHAQJGjsILoWtcFRmMW4bcwQPPMIG5JVyXh5KjW2ni7gSWp5vqZRdudhzKet466dWKJI1HFpRLyNiHCGIjuYcpKfcicg_7CB91HrKUuAeRv4zHzk9k3hOWvYSCJsfMAai6ZgLbqmqHmmRjgaCegFzlILxRkeEugsLdcSsBRBrr7cj0YKmr9aZaN1LBBU-Re4QZhaBqSgjz6UVNnHC7yAubcfUKczKp30m6D_00vpV-MfXXlLNZ3lADNUsIPVM_iFVrsDPNLQF-KPGSZ7ZhxU3pcnw6y8-18_T_c_3nrM1qeO-bb6zEgrs",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VLjSPHicHdBRbpswGABg7TJ9bAyITESKJhEMSxtIcPBv4GUCOyEJv4E2biG87S47VU9Tad8Rvr__8Nq1Xz8-L8YM99ViMY7jc9P3DZ6eZa8X1f3RyYWsEOtKtqvlz6X16yzX9GPrb962fsqHAQJGjsILoWtcFRmMW4bcwQPPMIG5JVyXh5KjW2ni7gSWp5vqZRdudhzKet466dWKJI1HFpRLyNiHCGIjuYcpKfcicg_7CB91HrKUuAeRv4zHzk9k3hOWvYSCJsfMAai6ZgLbqmqHmmRjgaCegFzlILxRkeEugsLdcSsBRBrr7cj0YKmr9aZaN1LBBU-Re4QZhaBqSgjz6UVNnHC7yAubcfUKczKp30m6D_00vpV-MfXXlLNZ3lADNUsIPVM_iFVrsDPNLQF-KPGSZ7ZhxU3pcnw6y8-18_T_c_3nrM1qeO-bb6zEgrs",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJtWlNlRE14YlhwdlkwRllWbTVCV21ScldYQTVNMm8wVkZGak5IVXhUMmM0VmtSM1RtVlZjeTB5Tmt4eVlYbDZlRVJKVjNNM1VXaE1ORU5HTVdka1RsVXphVWQ0TW01a05FTjVZMFppYm5kbU1EbDNhM1p6U25wSFFSSVhjVk5GTm1GMk5rVkhTbGN6Y1hSelVEaFFVREkyUVdNYUlrRkVjM0k1WmxKUGFIbHNNRzkxVUhSRVNHSnlZbXBzYVVaellsOXNPRWg0ZVZFIiwiZmN2IjoiMyIsImVpIjoicVNFNmF2NkVHSlczcXRzUDhQUDI2QWMiLCJxYyI6IkNoNXRhV3hwZEdGeWVTQjFibWwwSUdOdmJuWmxjbk5wYjI0Z1kyaGhjblFRQUgwV2NCTV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgMTQwMCB0byAyMjAwIGluIG1pbGl0YXJ5IHRpbWU/IiwibGsiOiJHaVYzYUdGMElHbHpJREUwTURBZ2RHOGdNakl3TUNCcGJpQnRhV3hwZEdGeWVTQjBhVzFsIiwiYnMiOiJjNDNPUFFzQ01ReUFZVnd6T1hlS0g2ZHJEZTQzaW9PRGszTTlDaGV3TGJUUm9yX2U5aHhFbDdzdWdmRGtwWENDOWFVM2dpWmFsTjdpMVNUdThPNVpzQXYtWVdQaTRGTkxqVnJsY1FjSFdQemtITjlZVEh4LVpPS1hMYTJsd2p5QzRBeWJZOElkR1lmc3YwTFlXYVM5MWhnaTZ2SmEycXFHcDhpYUhQNVdkZDFMUUtJeV82LUdaSjRpNTdNMyIsImlkIjoiZmNfcVNFNmF2NkVHSlczcXRzUDhQUDI2QWNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJtWlNlRE14YlhwdlkwRllWbTVCV21ScldYQTVNMm8wVkZGak5IVXhUMmM0VmtSM1RtVlZjeTB5Tmt4eVlYbDZlRVJKVjNNM1VXaE1ORU5HTVdka1RsVXphVWQ0TW01a05FTjVZMFppYm5kbU1EbDNhM1p6U25wSFFSSVhjVk5GTm1GMk5rVkhTbGN6Y1hSelVEaFFVREkyUVdNYUlrRkVjM0k1WmxKUGFIbHNNRzkxVUhSRVNHSnlZbXBzYVVaellsOXNPRWg0ZVZFIiwiZmN2IjoiMyIsImVpIjoicVNFNmF2NkVHSlczcXRzUDhQUDI2QWMiLCJxYyI6IkNoNXRhV3hwZEdGeWVTQjFibWwwSUdOdmJuWmxjbk5wYjI0Z1kyaGhjblFRQUgwV2NCTV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgMTQwMCB0byAyMjAwIGluIG1pbGl0YXJ5IHRpbWU%2FIiwibGsiOiJHaVYzYUdGMElHbHpJREUwTURBZ2RHOGdNakl3TUNCcGJpQnRhV3hwZEdGeWVTQjBhVzFsIiwiYnMiOiJjNDNPUFFzQ01ReUFZVnd6T1hlS0g2ZHJEZTQzaW9PRGszTTlDaGV3TGJUUm9yX2U5aHhFbDdzdWdmRGtwWENDOWFVM2dpWmFsTjdpMVNUdThPNVpzQXYtWVdQaTRGTkxqVnJsY1FjSFdQemtITjlZVEh4LVpPS1hMYTJsd2p5QzRBeWJZOElkR1lmc3YwTFlXYVM5MWhnaTZ2SmEycXFHcDhpYUhQNVdkZDFMUUtJeV82LUdaSjRpNTdNMyIsImlkIjoiZmNfcVNFNmF2NkVHSlczcXRzUDhQUDI2QWNfMSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "8SQLxXicxVbdkqo4EL7f9zjezCji38hUUadCQAf_ENFRzw2FAQMqMhKU0bvzLvtUe70PsiHiiKPOqT1VWxsLkjTprzud_tL-_HPlrZd__fG3G0Vv5Jnj4jgu4CDAK6eAAp-zyH6NuHmwIiFyv5NgGyLHs0XkhoHv5PY7sZxDRORzjiduDKVm7WpKszUubyLSr_f7pRpAOQYhmjOLOAtq4X1BOJOjr-W3skwnBVJw1oUV0GUc-ppiqIVSkRcKGmf5dAH4D5sCVJz0Kv0pbP65SfS7DqT4SxQIIABNnBHhzDttcmIGAAhZB4J7aC3mBVQkRU_sm12hTrvjchnf0wLAuJyOmWeAOi7Rgc7ArtotuJPs5KB0x95tV5iZUTqpZD5chZYJaDRAxrM2ha0ABMAgFWhpD7PmMFaAfJK_xFpX0pTBVydEN9_sgvqyD9UvViXeq2HcSMdxb0qNcjamOVjkZiHteM5DLmKDkCSpCYdCMWjMK5N5_ZAXlEm-MR7LvbBpT9QxhEJF59CMrlsFlu3YpmsWv7M5X-KrRaH8VH9knEDkgxQkSwrcnXbibcyreaXQKUh8hhEsZurFGdBIAuk6gU9xBZ9OEp4GLCkZFLzSSHRKyYIzrjTcJ9Z7aWLFyRGNwFVck28nRowTb3HWWTU7gGnmwsZ5YxdIqsrMKxc5dEXJM3yaUFPQ1j-2rNDphXNZMAks2R3QPAnO2AkqXrELImGEkgJqF_o461hyk-hY-rCsZ72rZpQwkJKIx3JirQUCqDBdlamoaRDaiXdZ7jY_M4kA8ELwjYP_4q74aHdvoQzMKfc_pXKWAopmR0ZP3gyXM2tgDO131_O3hJ8Plp5-O-UDf_YvCgH6f0lxKhPttEw0bpJC_wUpFCjBm6TAZ5vnMmEc55t7pGipt8rE8cY9l4lrUhiXpLhfJjKkOKJ8TQrpDilwurcbpBjdIMXyJilg-zMp3Ip-USaOxj7KxIkUv1Umdr9TJhhFnGN3WTO2C3y3dryYZmMwfuXlvLvQNvKmLPHVpd_T14Ic_7J2zP3o2bfs1aPp2c9SqRXt7UeTCoJnx85tRN9beZEV7h-2ay96QMF654TEC9YPyLXCKOevwkAsWjVUEybSFsVCO_9-qLn5VtM7-E1_OzT30bKz0MaN_rzEl9WKptdf33ZFfHgxzBgHtTXo7AYHg7yiXuMwby-mc7dvV7tNq1-u7CZIGY30_H7oP3WgqbfjZfjUyRflrd8yFtWa0J06c7-bf52QjtbqbRfvzadD6ORXOvOLiCMcwf0PiDcGyfkhEmlSVDDo6WCM6f8DOAU6xPQJ6BPT1MgRZJkO2YmoyhdnVsWpVUu1eVngcz6O9m9ihc-RdSjy_wAZcxwF",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8SQLxXicxVbdkqo4EL7f9zjezCji38hUUadCQAf_ENFRzw2FAQMqMhKU0bvzLvtUe70PsiHiiKPOqT1VWxsLkjTprzud_tL-_HPlrZd__fG3G0Vv5Jnj4jgu4CDAK6eAAp-zyH6NuHmwIiFyv5NgGyLHs0XkhoHv5PY7sZxDRORzjiduDKVm7WpKszUubyLSr_f7pRpAOQYhmjOLOAtq4X1BOJOjr-W3skwnBVJw1oUV0GUc-ppiqIVSkRcKGmf5dAH4D5sCVJz0Kv0pbP65SfS7DqT4SxQIIABNnBHhzDttcmIGAAhZB4J7aC3mBVQkRU_sm12hTrvjchnf0wLAuJyOmWeAOi7Rgc7ArtotuJPs5KB0x95tV5iZUTqpZD5chZYJaDRAxrM2ha0ABMAgFWhpD7PmMFaAfJK_xFpX0pTBVydEN9_sgvqyD9UvViXeq2HcSMdxb0qNcjamOVjkZiHteM5DLmKDkCSpCYdCMWjMK5N5_ZAXlEm-MR7LvbBpT9QxhEJF59CMrlsFlu3YpmsWv7M5X-KrRaH8VH9knEDkgxQkSwrcnXbibcyreaXQKUh8hhEsZurFGdBIAuk6gU9xBZ9OEp4GLCkZFLzSSHRKyYIzrjTcJ9Z7aWLFyRGNwFVck28nRowTb3HWWTU7gGnmwsZ5YxdIqsrMKxc5dEXJM3yaUFPQ1j-2rNDphXNZMAks2R3QPAnO2AkqXrELImGEkgJqF_o461hyk-hY-rCsZ72rZpQwkJKIx3JirQUCqDBdlamoaRDaiXdZ7jY_M4kA8ELwjYP_4q74aHdvoQzMKfc_pXKWAopmR0ZP3gyXM2tgDO131_O3hJ8Plp5-O-UDf_YvCgH6f0lxKhPttEw0bpJC_wUpFCjBm6TAZ5vnMmEc55t7pGipt8rE8cY9l4lrUhiXpLhfJjKkOKJ8TQrpDilwurcbpBjdIMXyJilg-zMp3Ip-USaOxj7KxIkUv1Umdr9TJhhFnGN3WTO2C3y3dryYZmMwfuXlvLvQNvKmLPHVpd_T14Ic_7J2zP3o2bfs1aPp2c9SqRXt7UeTCoJnx85tRN9beZEV7h-2ay96QMF654TEC9YPyLXCKOevwkAsWjVUEybSFsVCO_9-qLn5VtM7-E1_OzT30bKz0MaN_rzEl9WKptdf33ZFfHgxzBgHtTXo7AYHg7yiXuMwby-mc7dvV7tNq1-u7CZIGY30_H7oP3WgqbfjZfjUyRflrd8yFtWa0J06c7-bf52QjtbqbRfvzadD6ORXOvOLiCMcwf0PiDcGyfkhEmlSVDDo6WCM6f8DOAU6xPQJ6BPT1MgRZJkO2YmoyhdnVsWpVUu1eVngcz6O9m9ihc-RdSjy_wAZcxwF"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Standard Minutes Military Conversion",
+      "link": "https://www.gavilan.edu/cont-ed/docs/Standard-Military-Time-Chart.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gavilan.edu/cont-ed/docs/Standard-Military-Time-Chart.pdf&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0QFnoECCwQAQ",
+      "displayed_link": "https://www.gavilan.edu › cont-ed › docs › Stan...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX___9tepbHzdf29_mIkqjc3-aeprjj5-yYoLLj5eoAAFKPmK22vcsADVjU2OBZaYoAAEsAI2A-U3wALmXv8vYAAEYAH14ALGRDWoEAGlykrb4AA1YYO20NNmobPW4AMGdxgZ0AAFQROGtPYoYAKWMcPm4wSXW4vswzTnlabI1kdJLAxdAAFFp9iqNhbowAElh2V2tyAAABMklEQVR4AayRVWLEIBBAJ-5uhA5DNra-e__blXob-evDeTjwT2jvuQ6Gaa2caQM4YLqeHyxVCFEMkDipnuWwpCgrA5zabli7XNQwfP4CXM1CwWABL1tqQQslkgxX0mXY6FoniWpnKa0Dw37g40SUwUrOPdF4FEi4PutJH4mwD0fqzyvpCoZEorv0_QVWzJIUIx_FhiwvQkmcTTnAmpyhsjJoLlez6zr3j7zeSCHMQhRCyPqlLv-cqVWyf1-9YLoXG3_m6g0RnpTL7rCEI5Kyap69MLFZF_TBqY_hA8dx4jBI2rafiFCojMR5hg_KR3Vo6-x8OeXYF_dnT4SMvvc09GtoTkMwZHl5LHlGJO8u6xL-Nd2Bu88-_ljLehFptlV6sEGYXCy9mTUbdtDvsM_rICEHADUSHjT756vVAAAAAElFTkSuQmCC.png",
+      "snippet": "The above conversions show standard minutes as a percentage of a military hour. For Example, an employee that worked 8 hours and 51 minutes would be paid for 8 ...",
+      "snippet_highlighted_words": [
+        "conversions",
+        "military"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "page": 1
+          },
+          "extensions": [
+            "1 page"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The above conversions show standard minutes as a percentage of a military hour. For Example, an employee that worked 8 hours and 51 minutes would be paid for 8 ...",
+          "source_info_link": "https://www.gavilan.edu/cont-ed/docs/Standard-Military-Time-Chart.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX___9tepbHzdf29_mIkqjc3-aeprjj5-yYoLLj5eoAAFKPmK22vcsADVjU2OBZaYoAAEsAI2A-U3wALmXv8vYAAEYAH14ALGRDWoEAGlykrb4AA1YYO20NNmobPW4AMGdxgZ0AAFQROGtPYoYAKWMcPm4wSXW4vswzTnlabI1kdJLAxdAAFFp9iqNhbowAElh2V2tyAAABMklEQVR4AayRVWLEIBBAJ-5uhA5DNra-e__blXob-evDeTjwT2jvuQ6Gaa2caQM4YLqeHyxVCFEMkDipnuWwpCgrA5zabli7XNQwfP4CXM1CwWABL1tqQQslkgxX0mXY6FoniWpnKa0Dw37g40SUwUrOPdF4FEi4PutJH4mwD0fqzyvpCoZEorv0_QVWzJIUIx_FhiwvQkmcTTnAmpyhsjJoLlez6zr3j7zeSCHMQhRCyPqlLv-cqVWyf1-9YLoXG3_m6g0RnpTL7rCEI5Kyap69MLFZF_TBqY_hA8dx4jBI2rafiFCojMR5hg_KR3Vo6-x8OeXYF_dnT4SMvvc09GtoTkMwZHl5LHlGJO8u6xL-Nd2Bu88-_ljLehFptlV6sEGYXCy9mTUbdtDvsM_rICEHADUSHjT756vVAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.gavilan.edu/cont-ed/docs/Standard-Military-Time-Chart.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gavilan.edu%2Fcont-ed%2Fdocs%2FStandard-Military-Time-Chart.pdf",
+      "source": "Gavilan College"
+    },
+    {
+      "position": 2,
+      "title": "Clock Conversion Chart Standard 12-hour Time to 24-hour ...",
+      "link": "https://emscimprovement.center/documents/3153/Military-Clock-Conversion-Chart-FINAL.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://emscimprovement.center/documents/3153/Military-Clock-Conversion-Chart-FINAL.pdf&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0QFnoECCQQAQ",
+      "displayed_link": "https://emscimprovement.center › documents",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAAGwALoMAOIcAPIkAK4IAQItsi7O6yNrM1-UANYaEnr_f5u-WqscpX5oAQowBTZHT3OgAPIkbWJZCbaL___-muM94lLkAKYFWe6qQqMYGrBoqAAAAEXRSTlMAEGGYqj_R____u________Ttk3WUAAAEjSURBVHgBrVIHtsMgDOsMUIZsg6H0_gf9pIP391Z25Cl78x_Y7vaHw363fYc6Lsa6AWuW42vu5ENMGEgx-NNLjjgKBDljPCLT89gUCsSwDrARlEDPYnJBDnpHyCg8Ix99RLLm4WlsQvSPqpYgqFKSeO_bORWpkLDc-zMRrZJ6IkiMXlEbornVtLNJQkUHDZhw6VKDJLu7knsHqNIN4plIFXD7K3lwyKp9eFkRV0Lvqhnu8IwcXqmZ1pIQPcgZNhMVdz5zIkoz7K0g1ja-lYNaoCnPgtZWjAZBcJfIDAlqZiurCOMHw-hAB-v6vTyTL3MnlFoLqHO-yzeFx6pAyW08MIWfIyMi620fjzmy58MensnQ82E_XxMRyFyTzxfs89X8A54AgnUZfmWL9IkAAAAASUVORK5CYII.png",
+      "snippet": "Page 1. Clock Conversion Chart. Standard 12-hour Time to 24-hour Military Time.",
+      "snippet_highlighted_words": [
+        "Clock Conversion Chart"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "page": 1
+          },
+          "extensions": [
+            "1 page"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Page 1. Clock Conversion Chart. Standard 12-hour Time to 24-hour Military Time.",
+          "source_info_link": "https://emscimprovement.center/documents/3153/Military-Clock-Conversion-Chart-FINAL.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEwAAGwALoMAOIcAPIkAK4IAQItsi7O6yNrM1-UANYaEnr_f5u-WqscpX5oAQowBTZHT3OgAPIkbWJZCbaL___-muM94lLkAKYFWe6qQqMYGrBoqAAAAEXRSTlMAEGGYqj_R____u________Ttk3WUAAAEjSURBVHgBrVIHtsMgDOsMUIZsg6H0_gf9pIP391Z25Cl78x_Y7vaHw363fYc6Lsa6AWuW42vu5ENMGEgx-NNLjjgKBDljPCLT89gUCsSwDrARlEDPYnJBDnpHyCg8Ix99RLLm4WlsQvSPqpYgqFKSeO_bORWpkLDc-zMRrZJ6IkiMXlEbornVtLNJQkUHDZhw6VKDJLu7knsHqNIN4plIFXD7K3lwyKp9eFkRV0Lvqhnu8IwcXqmZ1pIQPcgZNhMVdz5zIkoz7K0g1ja-lYNaoCnPgtZWjAZBcJfIDAlqZiurCOMHw-hAB-v6vTyTL3MnlFoLqHO-yzeFx6pAyW08MIWfIyMi620fjzmy58MensnQ82E_XxMRyFyTzxfs89X8A54AgnUZfmWL9IkAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://emscimprovement.center/documents/3153/Military-Clock-Conversion-Chart-FINAL.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Femscimprovement.center%2Fdocuments%2F3153%2FMilitary-Clock-Conversion-Chart-FINAL.pdf",
+      "source": "emscimprovement.center",
+      "read_more_link": "https://emscimprovement.center/documents/3153/Military-Clock-Conversion-Chart-FINAL.pdf#:~:text=Page%201,Time%20to%2024%2Dhour%20Military%20Time"
+    },
+    {
+      "position": 3,
+      "title": "Military Unit Conversion Tables | PDF | Foot (Unit) | Metre",
+      "link": "https://www.scribd.com/document/12871101/Army-Units-of-Measure-and-Converstion-Factors",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scribd.com/document/12871101/Army-Units-of-Measure-and-Converstion-Factors&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0QFnoECCIQAQ",
+      "displayed_link": "https://www.scribd.com › document › Army-Units-of-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUJhkcIhkcIhkYAh0dRo3aJwKKOwaWMwaRKonMAhUXt9_L4_Prz-_h-vp0AhEP____T6t_M5tlqtI7p9e83k18di1AojlVcroSz2sbb7-Wm1L0okVqezLR4tpWp0LtnrYaZya9AnGpyr4uJuZxZpXoellzB4NC8384AjU-x2cTZS5WPAAABBUlEQVR4AYWSBQLDIAxFG6ildEnddb77X3DMhcmvIA-JWf8EQgu-jEFq3eHLGMB2XNfz8cbQ91zXseGEhXQCpcIFXfcCLUKlAkeKM3QVR3GCunt-KYkjVu4dplluCaSzQFh5lj7DggTmZVXXjZ2joOIVIradYq3AyxHfIMk-5Lgbak5HpHeYd1z7RGPIU27sLBquZ6J8uVobEMFjrqtkI4mEAXHeanNUsC0lmDspT3apNjjspQklktz7XcDbzLC27ac1aD5pow2YxRxpa9udbt4hWp7ieOi2iqfcgNg2ik-qZjN82v7yUNe7pAXQO7-kjN5T9pJsfEn2jzL5UWA_SvN3Uf_WEWKkGjSp2MmkAAAAAElFTkSuQmCC.png",
+      "snippet": "This appendix provides conversion tables and factors for units of measure used in military operations. It includes conversions between English and metric units ...",
+      "snippet_highlighted_words": [
+        "conversion tables and factors for units of measure used in military operations"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This appendix provides conversion tables and factors for units of measure used in military operations. It includes conversions between English and metric units ...",
+          "source_info_link": "https://www.scribd.com/document/12871101/Army-Units-of-Measure-and-Converstion-Factors",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUJhkcIhkcIhkYAh0dRo3aJwKKOwaWMwaRKonMAhUXt9_L4_Prz-_h-vp0AhEP____T6t_M5tlqtI7p9e83k18di1AojlVcroSz2sbb7-Wm1L0okVqezLR4tpWp0LtnrYaZya9AnGpyr4uJuZxZpXoellzB4NC8384AjU-x2cTZS5WPAAABBUlEQVR4AYWSBQLDIAxFG6ildEnddb77X3DMhcmvIA-JWf8EQgu-jEFq3eHLGMB2XNfz8cbQ91zXseGEhXQCpcIFXfcCLUKlAkeKM3QVR3GCunt-KYkjVu4dplluCaSzQFh5lj7DggTmZVXXjZ2joOIVIradYq3AyxHfIMk-5Lgbak5HpHeYd1z7RGPIU27sLBquZ6J8uVobEMFjrqtkI4mEAXHeanNUsC0lmDspT3apNjjspQklktz7XcDbzLC27ac1aD5pow2YxRxpa9udbt4hWp7ieOi2iqfcgNg2ik-qZjN82v7yUNe7pAXQO7-kjN5T9pJsfEn2jzL5UWA_SvN3Uf_WEWKkGjSp2MmkAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.scribd.com/document/12871101/Army-Units-of-Measure-and-Converstion-Factors&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.scribd.com%2Fdocument%2F12871101%2FArmy-Units-of-Measure-and-Converstion-Factors",
+      "source": "Scribd",
+      "read_more_link": "https://www.scribd.com/document/12871101/Army-Units-of-Measure-and-Converstion-Factors#:~:text=This%20appendix%20provides%20conversion%20tables,between%20English%20and%20metric%20units"
+    },
+    {
+      "position": 4,
+      "title": "UNITS CONVERSION TABLES",
+      "link": "https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0QFnoECCUQAQ",
+      "displayed_link": "https://www.isa.org › CCST-Conversions-document",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACG0lEQVR4AWIgFmw6elkBhNN6lgN6LUPYiGEYio6DqRxs0TgIJwtH4Sh4qHQsHBQPHRkv10C4BspROQpn3p_kSpYVZ9H1dic96a6Xxi924jaCCqhBARn44YkHAgdQADGXz6_vX4kEdkAGG4hnAk9gBdQgHeNYpHZECnDXrLoCUlQgV3VITGDtSFQQR4MnQEbwbm05G9QhjaycDIIabkn4P0oSe7u8GsFnPf6ERG3uCbnTFetw5HGJMpr6CqZrBFgiDO0HXn33uJ2QyFafOIJ7I7hM01mJYkj4X4HcFODz_vL0TEzm3xlUQAJ_BMP3WVyfxX6gBouV_v2YUAqABKhBEON3cX0TWViam9E6dobAKn47MIEIHI_1gBROdMuqJSwBNyCQj8nF2AUQj9tkGVjiMiLAaRsuQQGTSv_MMroMfkRgsQTEJtuVxKLSP4Osy8AS218C0RJQ14M4DYUlyGBRfaEr4HolYByzHwLi-w4KU49rVnfUx5BkcC3AkEatPuqeoHuFfEfgRjQskFQTqiALgaru9fJ-WYb4_hEeX9-cbsXl4Q4fBPZgB04_jModgs-AwNp6HO__GDiADRATmi8k_xS4ABJczFcy_DmBFSQwnajxwnUmRdXz6lJ4dcPGk80gGESQWbwCMqjAj6yAzW9KBWl8p94-uOe5HVgZ3908N8rEqmvOJS2j5UhXihQQbnmcIptvnTQXLp8bnfcHC2S3uEiwwqQAAAAASUVORK5CYII.png",
+      "snippet": "These conversion tables are provided for your reference. Units Conversion Tables. Table 1. Multiples and Submultiples of SI Units. Table 2. Length Units.",
+      "snippet_highlighted_words": [
+        "Units Conversion Tables"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 5
+          },
+          "extensions": [
+            "5 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "These conversion tables are provided for your reference. Units Conversion Tables. Table 1. Multiples and Submultiples of SI Units. Table 2. Length Units.",
+          "source_info_link": "https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACG0lEQVR4AWIgFmw6elkBhNN6lgN6LUPYiGEYio6DqRxs0TgIJwtH4Sh4qHQsHBQPHRkv10C4BspROQpn3p_kSpYVZ9H1dic96a6Xxi924jaCCqhBARn44YkHAgdQADGXz6_vX4kEdkAGG4hnAk9gBdQgHeNYpHZECnDXrLoCUlQgV3VITGDtSFQQR4MnQEbwbm05G9QhjaycDIIabkn4P0oSe7u8GsFnPf6ERG3uCbnTFetw5HGJMpr6CqZrBFgiDO0HXn33uJ2QyFafOIJ7I7hM01mJYkj4X4HcFODz_vL0TEzm3xlUQAJ_BMP3WVyfxX6gBouV_v2YUAqABKhBEON3cX0TWViam9E6dobAKn47MIEIHI_1gBROdMuqJSwBNyCQj8nF2AUQj9tkGVjiMiLAaRsuQQGTSv_MMroMfkRgsQTEJtuVxKLSP4Osy8AS218C0RJQ14M4DYUlyGBRfaEr4HolYByzHwLi-w4KU49rVnfUx5BkcC3AkEatPuqeoHuFfEfgRjQskFQTqiALgaru9fJ-WYb4_hEeX9-cbsXl4Q4fBPZgB04_jModgs-AwNp6HO__GDiADRATmi8k_xS4ABJczFcy_DmBFSQwnajxwnUmRdXz6lJ4dcPGk80gGESQWbwCMqjAj6yAzW9KBWl8p94-uOe5HVgZ3908N8rEqmvOJS2j5UhXihQQbnmcIptvnTQXLp8bnfcHC2S3uEiwwqQAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.isa.org%2Fgetmedia%2F5be3daca-5c44-4d9e-bf1c-a4aa55cfb759%2FCCST-Conversions-document.pdf",
+      "source": "isa.org",
+      "read_more_link": "https://www.isa.org/getmedia/5be3daca-5c44-4d9e-bf1c-a4aa55cfb759/CCST-Conversions-document.pdf#:~:text=These%20conversion%20tables%20are%20provided,Length%20Units"
+    },
+    {
+      "position": 5,
+      "title": "Military Time Conversion Chart Pdf",
+      "link": "https://www.pinterest.com/ideas/military-time-conversion-chart-pdf/930285920462/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pinterest.com/ideas/military-time-conversion-chart-pdf/930285920462/&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0QFnoECEEQAQ",
+      "displayed_link": "https://www.pinterest.com › ... › Teaching Materials",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png",
+      "snippet": "Military time conversion chart pdf. Conversion chart printable | 12 hour clock, Printable military time chart,",
+      "snippet_highlighted_words": [
+        "Military time conversion chart pdf"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military time conversion chart pdf. Conversion chart printable | 12 hour clock, Printable military time chart,",
+          "source_info_link": "https://www.pinterest.com/ideas/military-time-conversion-chart-pdf/930285920462/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pinterest.com/ideas/military-time-conversion-chart-pdf/930285920462/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fmilitary-time-conversion-chart-pdf%2F930285920462%2F",
+      "source": "Pinterest"
+    },
+    {
+      "position": 6,
+      "title": "Military-Time-Conversion-Chart.pdf",
+      "link": "https://www.medicalsolutions.com/wp-content/uploads/2020/05/Military-Time-Conversion-Chart.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.medicalsolutions.com/wp-content/uploads/2020/05/Military-Time-Conversion-Chart.pdf&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0QFnoECEIQAQ",
+      "displayed_link": "https://www.medicalsolutions.com › 2020/05",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX____d3-Gsr7XLzdHT1dkAAC0OIT0AETNob3yZnaUACjB_hI4mM0nw8fIkMUggLkZXX26MkZoZKUIhL0YDHToAFDVETl8uOk_c3uD29vcbKkNQWGihpaxvdYFIUWKFipO0t7wAGTg2QVW-wcUAACelprLY6sirz4ry-erm8N1JnABYogDe69JWogC31J6EuFS6aCtGAAAAzElEQVR4Ac3MhRXDMAwE0AsZFeaUmdv9pyujmwFilPT1hI4uy3Y-ifudALbHuHgl0mNKfyEnIv5s9xURedbbfE4BhdEjiRNKKXM-mAdFSby6xXVGTS_9wTTqJ83gFvdZKOLkF4fgxH0ATZBXIwML6CQZAWN2D020OE1qTNNs1oIQIes7k6BEG7p5UEYhs1sRwzQIAwYT52wKYDYhSqSJtVzYt79MSdUmYrla3z5HeX2YuNnudo8RPv5wv90d8LV0pj6I42n_jbbWFbq4LvM0Dz-__GGOAAAAAElFTkSuQmCC.png",
+      "snippet": "Military Time Conversion Chart Page 1 MILITARY TIME 0100 1:00. REGULAR TIME MILITARY TIME REGULAR TIME MILITARY TIME CONVERSION CHART",
+      "snippet_highlighted_words": [
+        "Military Time Conversion Chart"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "page": 1
+          },
+          "extensions": [
+            "1 page"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Military Time Conversion Chart Page 1 MILITARY TIME 0100 1:00. REGULAR TIME MILITARY TIME REGULAR TIME MILITARY TIME CONVERSION CHART",
+          "source_info_link": "https://www.medicalsolutions.com/wp-content/uploads/2020/05/Military-Time-Conversion-Chart.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX____d3-Gsr7XLzdHT1dkAAC0OIT0AETNob3yZnaUACjB_hI4mM0nw8fIkMUggLkZXX26MkZoZKUIhL0YDHToAFDVETl8uOk_c3uD29vcbKkNQWGihpaxvdYFIUWKFipO0t7wAGTg2QVW-wcUAACelprLY6sirz4ry-erm8N1JnABYogDe69JWogC31J6EuFS6aCtGAAAAzElEQVR4Ac3MhRXDMAwE0AsZFeaUmdv9pyujmwFilPT1hI4uy3Y-ifudALbHuHgl0mNKfyEnIv5s9xURedbbfE4BhdEjiRNKKXM-mAdFSby6xXVGTS_9wTTqJ83gFvdZKOLkF4fgxH0ATZBXIwML6CQZAWN2D020OE1qTNNs1oIQIes7k6BEG7p5UEYhs1sRwzQIAwYT52wKYDYhSqSJtVzYt79MSdUmYrla3z5HeX2YuNnudo8RPv5wv90d8LV0pj6I42n_jbbWFbq4LvM0Dz-__GGOAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.medicalsolutions.com/wp-content/uploads/2020/05/Military-Time-Conversion-Chart.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.medicalsolutions.com%2Fwp-content%2Fuploads%2F2020%2F05%2FMilitary-Time-Conversion-Chart.pdf",
+      "source": "Medical Solutions"
+    },
+    {
+      "position": 7,
+      "title": "US Customary System Conversions - The ANSI Blog",
+      "link": "https://blog.ansi.org/ansi/us-customary-system-conversions-to-metric/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.ansi.org/ansi/us-customary-system-conversions-to-metric/&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0QFnoECEcQAQ",
+      "displayed_link": "https://blog.ansi.org › ansi › us-customary-system-conv...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEwNb64FdLsGdLkEdb0GdbwDdsAEdL4Bdb8HdbkBdsACdbsXh5cKcrQhIB4Fdb4jHyEiICEgICAhHyAjICEiHyAjHiAgHx8jICAjHyEhHyAkHyEjHyEiISGjjRFdAAAAHnRSTlMAI1WJpbrL3-82__8BExB1_2zmNeW6mRSijE381URa7B57AAAA5klEQVR4AX2PBxLDMAgET10ivff_fzPCMImIZ7LurGmY43yIKZdaCywtFOosFkS1GOlij3Vy8G75k5RZ1dAwY5Wpk8SsFXUbVnEFYatggisWB2VnZOku4MN-lDy9_7oDx48qY99rHPHE8bPIZvNw4fDpKrIQRQzcOHyf0qdEjMgo0jPooGaPk_6SiFaDk5S7ykJ1dAeJruWRKeN3j6v880CiZPcQRG5M5s1KZ3purUQmZ_fYnm-3p0pHwezx6DGcVCLQUt1ry9wA9MwOOjlB5Y65cP0JMHmDL8slLNHjD_6vXbUlZrwB0qsTsIg_RAQAAAAASUVORK5CYII.png",
+      "date": "Jun 19, 2018",
+      "snippet": "US Customary and Imperial System units and conversions to SI (metric) for length, area, weight (mass), volume, pressure, energy, power.",
+      "snippet_highlighted_words": [
+        "US Customary and Imperial System units"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "US Customary and Imperial System units and conversions to SI (metric) for length, area, weight (mass), volume, pressure, energy, power.",
+          "source_info_link": "https://blog.ansi.org/ansi/us-customary-system-conversions-to-metric/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEwNb64FdLsGdLkEdb0GdbwDdsAEdL4Bdb8HdbkBdsACdbsXh5cKcrQhIB4Fdb4jHyEiICEgICAhHyAjICEiHyAjHiAgHx8jICAjHyEhHyAkHyEjHyEiISGjjRFdAAAAHnRSTlMAI1WJpbrL3-82__8BExB1_2zmNeW6mRSijE381URa7B57AAAA5klEQVR4AX2PBxLDMAgET10ivff_fzPCMImIZ7LurGmY43yIKZdaCywtFOosFkS1GOlij3Vy8G75k5RZ1dAwY5Wpk8SsFXUbVnEFYatggisWB2VnZOku4MN-lDy9_7oDx48qY99rHPHE8bPIZvNw4fDpKrIQRQzcOHyf0qdEjMgo0jPooGaPk_6SiFaDk5S7ykJ1dAeJruWRKeN3j6v880CiZPcQRG5M5s1KZ3purUQmZ_fYnm-3p0pHwezx6DGcVCLQUt1ry9wA9MwOOjlB5Y65cP0JMHmDL8slLNHjD_6vXbUlZrwB0qsTsIg_RAQAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://blog.ansi.org/ansi/us-customary-system-conversions-to-metric/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fblog.ansi.org%2Fansi%2Fus-customary-system-conversions-to-metric%2F",
+      "source": "American National Standards Institute - ANSI"
+    },
+    {
+      "position": 8,
+      "title": "COMMON ENGINEERING UNIT CONVERSIONS",
+      "link": "https://www.primatics.com/wp-content/uploads/2020/01/primatics_unit_conversions.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.primatics.com/wp-content/uploads/2020/01/primatics_unit_conversions.pdf&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0QFnoECEkQAQ",
+      "displayed_link": "https://www.primatics.com › uploads › 2020/01",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJFBMVEVHcExUId1VId1VIt1UId1TIN1VIt1UId1VIt1UId1VId1VIt32DFbrAAAAC3RSTlMAPoHdYBG_Le6NqH27Jj4AAAC_SURBVDiNlZPbDsQgCAXrFS3__79rAVG34mbPQ21kNExKr-vvpNDiD0DFJweA6hjNemQgmEBgAMGoO6ljNoDcAUzbeuLTz6NuAXK8wTaV_oJlGsWwr6_oSbrJGY7ay9t0dJ-2pvPu1pQd-X2YJtcCkyNtOCi934GKW8SRoGrPBMmZGSBTcitjXQAyLYxmuWkByMkTqo5Q_Uh12n2eHL9z64XGnMFitUufM3PWZVKLVRdTPPxvfvt1lytaDMdf-QAI0w3ROPZcHAAAAABJRU5ErkJggg.png",
+      "snippet": "To convert from units of A to units of B, find the value at the intersection of A and B, then multiply your number by this value.",
+      "snippet_highlighted_words": [
+        "convert",
+        "units",
+        "units"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 4
+          },
+          "extensions": [
+            "4 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "To convert from units of A to units of B, find the value at the intersection of A and B, then multiply your number by this value.",
+          "source_info_link": "https://www.primatics.com/wp-content/uploads/2020/01/primatics_unit_conversions.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJFBMVEVHcExUId1VId1VIt1UId1TIN1VIt1UId1VIt1UId1VId1VIt32DFbrAAAAC3RSTlMAPoHdYBG_Le6NqH27Jj4AAAC_SURBVDiNlZPbDsQgCAXrFS3__79rAVG34mbPQ21kNExKr-vvpNDiD0DFJweA6hjNemQgmEBgAMGoO6ljNoDcAUzbeuLTz6NuAXK8wTaV_oJlGsWwr6_oSbrJGY7ay9t0dJ-2pvPu1pQd-X2YJtcCkyNtOCi934GKW8SRoGrPBMmZGSBTcitjXQAyLYxmuWkByMkTqo5Q_Uh12n2eHL9z64XGnMFitUufM3PWZVKLVRdTPPxvfvt1lytaDMdf-QAI0w3ROPZcHAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.primatics.com/wp-content/uploads/2020/01/primatics_unit_conversions.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.primatics.com%2Fwp-content%2Fuploads%2F2020%2F01%2Fprimatics_unit_conversions.pdf",
+      "source": "Primatics"
+    },
+    {
+      "position": 9,
+      "title": "Metric Conversion Chart",
+      "link": "https://www.math-salamanders.com/metric-conversion-chart.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.math-salamanders.com/metric-conversion-chart.html&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0QFnoECEYQAQ",
+      "displayed_link": "https://www.math-salamanders.com › metric-conversion-...",
+      "favicon": "https://serpapi.com/searches/6a3a21a9b463f31b7afba2fe/images/UZcmAVB-hSLhR4-4iJZOI-YG3u5j28bf20b6HZj1u08.png",
+      "snippet": "Welcome to our Metric Conversion Charts. Here you will find a range of different metric measurement charts to help you to understand how metric units work.",
+      "snippet_highlighted_words": [
+        "metric measurement charts"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Welcome to our Metric Conversion Charts. Here you will find a range of different metric measurement charts to help you to understand how metric units work.",
+          "source_info_link": "https://www.math-salamanders.com/metric-conversion-chart.html",
+          "icon": "https://serpapi.com/searches/6a3a21a9b463f31b7afba2fe/images/UZcmAVB-hSLhR4-4iJZOI8JA7a5wMo8V_cCHknUAs0FNEwrv5PDdLUBO4IYA48c1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.math-salamanders.com/metric-conversion-chart.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.math-salamanders.com%2Fmetric-conversion-chart.html",
+      "source": "Math Salamanders",
+      "read_more_link": "https://www.math-salamanders.com/metric-conversion-chart.html#:~:text=Welcome%20to%20our%20Metric%20Conversion,understand%20how%20metric%20units%20work."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military unit conversion chart pdf",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+unit+conversion+chart+pdf&sa=X&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+unit+conversion+chart+pdf"
+    },
+    {
+      "block_position": 1,
+      "query": "Military Time Chart Minutes",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+Time+Chart+Minutes&sa=X&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+Time+Chart+Minutes"
+    },
+    {
+      "block_position": 1,
+      "query": "Military conversion chart",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+conversion+chart&sa=X&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+conversion+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Military minutes conversion chart pdf",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+minutes+conversion+chart+pdf&sa=X&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+minutes+conversion+chart+pdf"
+    },
+    {
+      "block_position": 1,
+      "query": "Military Time Conversion Chart Printable",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+Time+Conversion+Chart+Printable&sa=X&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+Time+Conversion+Chart+Printable"
+    },
+    {
+      "block_position": 1,
+      "query": "Military Time Conversion Chart Minutes printable",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+Time+Conversion+Chart+Minutes+printable&sa=X&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+Time+Conversion+Chart+Minutes+printable"
+    },
+    {
+      "block_position": 1,
+      "query": "Free Military time Chart",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Free+Military+time+Chart&sa=X&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+Military+time+Chart"
+    },
+    {
+      "block_position": 1,
+      "query": "45 minutes in military time",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=45+minutes+in+military+time&sa=X&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=45+minutes+in+military+time"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+unit+conversion+chart&sca_esv=c510ba4e6526f391&ei=qSE6av6EGJW3qtsP8PP26Ac&start=10&sa=N&sstk=AU9db-Ab5FjxNgE1-evHc8pXnPN-rcM1rm5BGbwm88PPVSDCRVBRGJTaZhbiSA0tStn3tZ5BeRK-i3mOczr3j0yDI4FAF336vN_fkg&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q8NMDegQIMRAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+unit+conversion+chart&sca_esv=c510ba4e6526f391&ei=qSE6av6EGJW3qtsP8PP26Ac&start=10&sa=N&sstk=AU9db-Ab5FjxNgE1-evHc8pXnPN-rcM1rm5BGbwm88PPVSDCRVBRGJTaZhbiSA0tStn3tZ5BeRK-i3mOczr3j0yDI4FAF336vN_fkg&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q8tMDegQIMRAE",
+      "3": "https://www.google.com/search?q=military+unit+conversion+chart&sca_esv=c510ba4e6526f391&ei=qSE6av6EGJW3qtsP8PP26Ac&start=20&sa=N&sstk=AU9db-Ab5FjxNgE1-evHc8pXnPN-rcM1rm5BGbwm88PPVSDCRVBRGJTaZhbiSA0tStn3tZ5BeRK-i3mOczr3j0yDI4FAF336vN_fkg&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q8tMDegQIMRAG",
+      "4": "https://www.google.com/search?q=military+unit+conversion+chart&sca_esv=c510ba4e6526f391&ei=qSE6av6EGJW3qtsP8PP26Ac&start=30&sa=N&sstk=AU9db-Ab5FjxNgE1-evHc8pXnPN-rcM1rm5BGbwm88PPVSDCRVBRGJTaZhbiSA0tStn3tZ5BeRK-i3mOczr3j0yDI4FAF336vN_fkg&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q8tMDegQIMRAI",
+      "5": "https://www.google.com/search?q=military+unit+conversion+chart&sca_esv=c510ba4e6526f391&ei=qSE6av6EGJW3qtsP8PP26Ac&start=40&sa=N&sstk=AU9db-Ab5FjxNgE1-evHc8pXnPN-rcM1rm5BGbwm88PPVSDCRVBRGJTaZhbiSA0tStn3tZ5BeRK-i3mOczr3j0yDI4FAF336vN_fkg&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q8tMDegQIMRAK",
+      "6": "https://www.google.com/search?q=military+unit+conversion+chart&sca_esv=c510ba4e6526f391&ei=qSE6av6EGJW3qtsP8PP26Ac&start=50&sa=N&sstk=AU9db-Ab5FjxNgE1-evHc8pXnPN-rcM1rm5BGbwm88PPVSDCRVBRGJTaZhbiSA0tStn3tZ5BeRK-i3mOczr3j0yDI4FAF336vN_fkg&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q8tMDegQIMRAM",
+      "7": "https://www.google.com/search?q=military+unit+conversion+chart&sca_esv=c510ba4e6526f391&ei=qSE6av6EGJW3qtsP8PP26Ac&start=60&sa=N&sstk=AU9db-Ab5FjxNgE1-evHc8pXnPN-rcM1rm5BGbwm88PPVSDCRVBRGJTaZhbiSA0tStn3tZ5BeRK-i3mOczr3j0yDI4FAF336vN_fkg&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q8tMDegQIMRAO",
+      "8": "https://www.google.com/search?q=military+unit+conversion+chart&sca_esv=c510ba4e6526f391&ei=qSE6av6EGJW3qtsP8PP26Ac&start=70&sa=N&sstk=AU9db-Ab5FjxNgE1-evHc8pXnPN-rcM1rm5BGbwm88PPVSDCRVBRGJTaZhbiSA0tStn3tZ5BeRK-i3mOczr3j0yDI4FAF336vN_fkg&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q8tMDegQIMRAQ",
+      "9": "https://www.google.com/search?q=military+unit+conversion+chart&sca_esv=c510ba4e6526f391&ei=qSE6av6EGJW3qtsP8PP26Ac&start=80&sa=N&sstk=AU9db-Ab5FjxNgE1-evHc8pXnPN-rcM1rm5BGbwm88PPVSDCRVBRGJTaZhbiSA0tStn3tZ5BeRK-i3mOczr3j0yDI4FAF336vN_fkg&ved=2ahUKEwi-_Yuh2JyVAxWVm2oFHfC5HX0Q8tMDegQIMRAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+unit+conversion+chart&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+unit+conversion+chart&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+unit+conversion+chart&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+unit+conversion+chart&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+unit+conversion+chart&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+unit+conversion+chart&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+unit+conversion+chart&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+unit+conversion+chart&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+unit+conversion+chart&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+unit+conversion+chart&start=80"
+    }
+  }
+}

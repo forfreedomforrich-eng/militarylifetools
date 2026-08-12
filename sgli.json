@@ -1,0 +1,419 @@
+{
+  "search_metadata": {
+    "id": "6a3a20647dcfbe5bcd17285d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/TsNxpUPg-SmTcTNFXgjBXw/6a3a20647dcfbe5bcd17285d.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/TsNxpUPg-SmTcTNFXgjBXw/6a3a20647dcfbe5bcd17285d.json_with_pixel_position",
+    "created_at": "2026-06-23 05:57:56 UTC",
+    "processed_at": "2026-06-23 05:57:56 UTC",
+    "google_url": "https://www.google.com/search?q=SGLI+life+insurance+calculator+military&oq=SGLI+life+insurance+calculator+military&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/TsNxpUPg-SmTcTNFXgjBXw/6a3a20647dcfbe5bcd17285d.html",
+    "total_time_taken": 0.69
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "SGLI life insurance calculator military",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "SGLI life insurance calculator military",
+    "total_results": 109,
+    "time_taken_displayed": 0.17,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How much is the SGLI payout for the military?",
+      "type": "featured_snippet",
+      "snippet": "Servicemembers' Group Life Insurance (SGLI) provides low-cost group term life insurance for active-duty servicemembers. On March 1, 2023 SGLI coverage increased to $500,000 for all active-duty servicemembers, including those who previously declined or reduced their coverage.",
+      "title": "How the SGLI Payout for Death Has Changed in 2023 - AAFMAA.com",
+      "link": "https://www.aafmaa.com/resource-center/how-the-sgli-payout-for-death-has-changed-in-2023#:~:text=Servicemembers'%20Group%20Life%20Insurance%20(SGLI,declined%20or%20reduced%20their%20coverage.",
+      "displayed_link": "https://www.aafmaa.com › resource-center › how-the-sgl...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAY1BMVEX____59PSYAAC7cnPZtbaQAADXsbHlzMzVrKy-eXr69vamNTe1YWLy4eGxSUjm19jSpqfhxsahkZx3jqLZ3uOrR0izXF3h4uaptsLEhofGi4zAf4Dev8C2Zmbz5-ibAACdBgtYo0jYAAAAU0lEQVR4AWzItQHAMAwAMJc5zPj_l11DGgVjUxvz0tQ6b3sVx3FuVxn3834Il0Eo4wIKUmmjy6B2XqHkfNhiGUmpdJSxn0uGiiQYav8UBPF7EAEAeDgDBVD2W4EAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRtVnJjeTFFVmxOc00yTm1UMGN4VUVsblR6WkdTVFJaUjNWelEzTlZRbWhmUWpWYVNXUkJOMnhaVEZocWJUTllZM0pRT0RaUldXdHphalowTkVsbmFuVnBiM3BzU0RaWGN6TlRNbkJuWkU1SFNFOURaMEY2VlhkMmR4SVhXbE5CTm1GemFrTkZTV3BhY1hSelVGOU5ibEEyVVVrYUlrRkVjM0k1WmxSM09HODBWRnBrTlZWMk5rMTNaRUZZYTAweFVITkxaMmx5WjFFIiwiZmN2IjoiMyIsImVpIjoiWlNBNmFzakNFSWpacXRzUF9NblA2UUkiLCJxYyI6IkNpZHpaMnhwSUd4cFptVWdhVzV6ZFhKaGJtTmxJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtRQUgxUTBXb18iLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGlzIHRoZSBTR0xJIHBheW91dCBmb3IgdGhlIG1pbGl0YXJ5PyIsImxrIjoiR2hSeloyeHBJRzFwYkdsMFlYSjVJSEJoZVc5MWRBIiwiYnMiOiJjNVhNUFFyQ1FCQUZZR3kzc2hDUlZJUFJNZ3E1UUFvRl8yTGxDWVoxa2d4c2RzUC1FSE1YRDZ0UnNSQVJiTl83M2hON2tXeE5DM1dRRmJBRFh4R2NOdmtPR3V4TThGQVktOGhxVnV6UmR0bmtla3JIMGNpVml0X2hDNHVEaU5lR0hPUjB3Y1lhd0tJZzZVRnhRY0RhQll0YVVwYk9vdW01Wi1vWEUwY3hXNkdHSFpUMDJVSEx2Z0lWbXVDeWRCN0Y4dTc0dHhNb0Z2MGRRa1BXR2Yyc3psU1Q5b3hmdGxtNmpCTDV6Mkk0dUFFIiwiaWQiOiJmY19aU0E2YXNqQ0VJalpxdHNQX01uUDZRSV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRtVnJjeTFFVmxOc00yTm1UMGN4VUVsblR6WkdTVFJaUjNWelEzTlZRbWhmUWpWYVNXUkJOMnhaVEZocWJUTllZM0pRT0RaUldXdHphalowTkVsbmFuVnBiM3BzU0RaWGN6TlRNbkJuWkU1SFNFOURaMEY2VlhkMmR4SVhXbE5CTm1GemFrTkZTV3BhY1hSelVGOU5ibEEyVVVrYUlrRkVjM0k1WmxSM09HODBWRnBrTlZWMk5rMTNaRUZZYTAweFVITkxaMmx5WjFFIiwiZmN2IjoiMyIsImVpIjoiWlNBNmFzakNFSWpacXRzUF9NblA2UUkiLCJxYyI6IkNpZHpaMnhwSUd4cFptVWdhVzV6ZFhKaGJtTmxJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtRQUgxUTBXb18iLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGlzIHRoZSBTR0xJIHBheW91dCBmb3IgdGhlIG1pbGl0YXJ5PyIsImxrIjoiR2hSeloyeHBJRzFwYkdsMFlYSjVJSEJoZVc5MWRBIiwiYnMiOiJjNVhNUFFyQ1FCQUZZR3kzc2hDUlZJUFJNZ3E1UUFvRl8yTGxDWVoxa2d4c2RzUC1FSE1YRDZ0UnNSQVJiTl83M2hON2tXeE5DM1dRRmJBRFh4R2NOdmtPR3V4TThGQVktOGhxVnV6UmR0bmtla3JIMGNpVml0X2hDNHVEaU5lR0hPUjB3Y1lhd0tJZzZVRnhRY0RhQll0YVVwYk9vdW01Wi1vWEUwY3hXNkdHSFpUMDJVSEx2Z0lWbXVDeWRCN0Y4dTc0dHhNb0Z2MGRRa1BXR2Yyc3psU1Q5b3hmdGxtNmpCTDV6Mkk0dUFFIiwiaWQiOiJmY19aU0E2YXNqQ0VJalpxdHNQX01uUDZRSV80In0%3D"
+    },
+    {
+      "question": "Does Lexapro affect life insurance?",
+      "type": "ai_overview",
+      "page_token": "SrFGS3icHdDRbqowGADg7GV2OQGd20zMSdhadAld-tOW2puT2goVKuBkgtztXfZUe5qTnO8Rvu8ff2zq37ur6_vusprNhmF4KNu29IcH055m-nJrzMxo7_fa1Kvl0zL8U5g1-trGr-dtTHnXiTcIsjocRPJy5hJz4l8mltgbQWmkMR11pRIZgTIbmACFFyVIn4UmIDgNDqi_isZVey7ilJEMfPnII8gPLH7NuY1M4za5F62Jhp5Obik87iF6HvNkfLfM00ymAzvBCPPtPItomCIR76QICCKZruzCYidSTooPJopcopvij45WgC1fLPIGNoZbUJ7kWgr9ITvG6rChFW6Qs5oHKNpJcqaBeNe-G-2GUBmEX_xNQQbtkXKYTOVPnLudkbjWkyv2tQr3jQfFcKx8OUKejirpjna4L8x1Pb___7n-W5z6VffZlv8AEayEMg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SrFGS3icHdDRbqowGADg7GV2OQGd20zMSdhadAld-tOW2puT2goVKuBkgtztXfZUe5qTnO8Rvu8ff2zq37ur6_vusprNhmF4KNu29IcH055m-nJrzMxo7_fa1Kvl0zL8U5g1-trGr-dtTHnXiTcIsjocRPJy5hJz4l8mltgbQWmkMR11pRIZgTIbmACFFyVIn4UmIDgNDqi_isZVey7ilJEMfPnII8gPLH7NuY1M4za5F62Jhp5Obik87iF6HvNkfLfM00ymAzvBCPPtPItomCIR76QICCKZruzCYidSTooPJopcopvij45WgC1fLPIGNoZbUJ7kWgr9ITvG6rChFW6Qs5oHKNpJcqaBeNe-G-2GUBmEX_xNQQbtkXKYTOVPnLudkbjWkyv2tQr3jQfFcKx8OUKejirpjna4L8x1Pb___7n-W5z6VffZlv8AEayEMg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRtVnJjeTFFVmxOc00yTm1UMGN4VUVsblR6WkdTVFJaUjNWelEzTlZRbWhmUWpWYVNXUkJOMnhaVEZocWJUTllZM0pRT0RaUldXdHphalowTkVsbmFuVnBiM3BzU0RaWGN6TlRNbkJuWkU1SFNFOURaMEY2VlhkMmR4SVhXbE5CTm1GemFrTkZTV3BhY1hSelVGOU5ibEEyVVVrYUlrRkVjM0k1WmxSM09HODBWRnBrTlZWMk5rMTNaRUZZYTAweFVITkxaMmx5WjFFIiwiZmN2IjoiMyIsImVpIjoiWlNBNmFzakNFSWpacXRzUF9NblA2UUkiLCJxYyI6IkNpZHpaMnhwSUd4cFptVWdhVzV6ZFhKaGJtTmxJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtRQUgxUTBXb18iLCJxdWVzdGlvbiI6IkRvZXMgTGV4YXBybyBhZmZlY3QgbGlmZSBpbnN1cmFuY2U/IiwibGsiOiJHaUprYjJWeklHeGxlR0Z3Y204Z1lXWm1aV04wSUd4cFptVWdhVzV6ZFhKaGJtTmwiLCJicyI6ImM1WE1QUXJDUUJBRllHeTNzaENSVklQUk1ncTVRQW9GXzJMbENZWjFrZ3hzZHNQLUVITVhENnRSc1JBUmJOXzczaE43a1d4TkMzV1FGYkFEWHhHY052a09HdXhNOEZBWS04aHFWdXpSZHRua2VrckgwY2lWaXRfaEM0dURpTmVHSE9SMHdjWWF3S0lnNlVGeFFjRGFCWXRhVXBiT291bTVaLW9YRTBjeFc2R0dIWlQwMlVITHZnSVZtdUN5ZEI3Rjh1NzR0eE1vRnYwZFFrUFdHZjJzemxTVDlveGZ0bG02akJMNXoySTR1QUUiLCJpZCI6ImZjX1pTQTZhc2pDRUlqWnF0c1BfTW5QNlFJXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRtVnJjeTFFVmxOc00yTm1UMGN4VUVsblR6WkdTVFJaUjNWelEzTlZRbWhmUWpWYVNXUkJOMnhaVEZocWJUTllZM0pRT0RaUldXdHphalowTkVsbmFuVnBiM3BzU0RaWGN6TlRNbkJuWkU1SFNFOURaMEY2VlhkMmR4SVhXbE5CTm1GemFrTkZTV3BhY1hSelVGOU5ibEEyVVVrYUlrRkVjM0k1WmxSM09HODBWRnBrTlZWMk5rMTNaRUZZYTAweFVITkxaMmx5WjFFIiwiZmN2IjoiMyIsImVpIjoiWlNBNmFzakNFSWpacXRzUF9NblA2UUkiLCJxYyI6IkNpZHpaMnhwSUd4cFptVWdhVzV6ZFhKaGJtTmxJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtRQUgxUTBXb18iLCJxdWVzdGlvbiI6IkRvZXMgTGV4YXBybyBhZmZlY3QgbGlmZSBpbnN1cmFuY2U%2FIiwibGsiOiJHaUprYjJWeklHeGxlR0Z3Y204Z1lXWm1aV04wSUd4cFptVWdhVzV6ZFhKaGJtTmwiLCJicyI6ImM1WE1QUXJDUUJBRllHeTNzaENSVklQUk1ncTVRQW9GXzJMbENZWjFrZ3hzZHNQLUVITVhENnRSc1JBUmJOXzczaE43a1d4TkMzV1FGYkFEWHhHY052a09HdXhNOEZBWS04aHFWdXpSZHRua2VrckgwY2lWaXRfaEM0dURpTmVHSE9SMHdjWWF3S0lnNlVGeFFjRGFCWXRhVXBiT291bTVaLW9YRTBjeFc2R0dIWlQwMlVITHZnSVZtdUN5ZEI3Rjh1NzR0eE1vRnYwZFFrUFdHZjJzemxTVDlveGZ0bG02akJMNXoySTR1QUUiLCJpZCI6ImZjX1pTQTZhc2pDRUlqWnF0c1BfTW5QNlFJXzQifQ%3D%3D"
+    },
+    {
+      "question": "Can I get life insurance with lupus?",
+      "type": "ai_overview",
+      "page_token": "oDYRY3icHdBRbpswGABg7TJ9bGzoWhEpmsqCS9PiyAabxC-TsUlI_BOcFRLC2-7SU_U0lfYd4fv3CYeT-_pxafref8xns-v1er_vuj3U96ZrZ_rjdjIzowEqbdz88ekR_9qZRTK8xr_PrzET3sslR8WLLApHiUD9W11uA1U2DxZFIwXK2NGCfGlwDQC8VUvumjMP8EDTlZIhtKawQZXAOksbXOAEVQITA_xWgw3fN_5AUVTWLuKCxLogzZALIrMjCVUwumqSmDmSiaKhmRhji7Y_2el5sqnK63K8ZNDkVEbeEHk0CGgWZA-6JZOc4C0vfStOq43FvK_b8VZBPGgHSxrIMGmsFigJtht6ZkiuNPjRppRtEB7EUvGcdwcm-GSO0IpJ7Ri2aisArPPBmiheEws6Ac1c5Nfpitjr3c5cFuHd_8_Fn13bz_3fbv8NQX-EQg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oDYRY3icHdBRbpswGABg7TJ9bGzoWhEpmsqCS9PiyAabxC-TsUlI_BOcFRLC2-7SU_U0lfYd4fv3CYeT-_pxafref8xns-v1er_vuj3U96ZrZ_rjdjIzowEqbdz88ekR_9qZRTK8xr_PrzET3sslR8WLLApHiUD9W11uA1U2DxZFIwXK2NGCfGlwDQC8VUvumjMP8EDTlZIhtKawQZXAOksbXOAEVQITA_xWgw3fN_5AUVTWLuKCxLogzZALIrMjCVUwumqSmDmSiaKhmRhji7Y_2el5sqnK63K8ZNDkVEbeEHk0CGgWZA-6JZOc4C0vfStOq43FvK_b8VZBPGgHSxrIMGmsFigJtht6ZkiuNPjRppRtEB7EUvGcdwcm-GSO0IpJ7Ri2aisArPPBmiheEws6Ac1c5Nfpitjr3c5cFuHd_8_Fn13bz_3fbv8NQX-EQg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRtVnJjeTFFVmxOc00yTm1UMGN4VUVsblR6WkdTVFJaUjNWelEzTlZRbWhmUWpWYVNXUkJOMnhaVEZocWJUTllZM0pRT0RaUldXdHphalowTkVsbmFuVnBiM3BzU0RaWGN6TlRNbkJuWkU1SFNFOURaMEY2VlhkMmR4SVhXbE5CTm1GemFrTkZTV3BhY1hSelVGOU5ibEEyVVVrYUlrRkVjM0k1WmxSM09HODBWRnBrTlZWMk5rMTNaRUZZYTAweFVITkxaMmx5WjFFIiwiZmN2IjoiMyIsImVpIjoiWlNBNmFzakNFSWpacXRzUF9NblA2UUkiLCJxYyI6IkNpZHpaMnhwSUd4cFptVWdhVzV6ZFhKaGJtTmxJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtRQUgxUTBXb18iLCJxdWVzdGlvbiI6IkNhbiBJIGdldCBsaWZlIGluc3VyYW5jZSB3aXRoIGx1cHVzPyIsImxrIjoiR2lOallXNGdhU0JuWlhRZ2JHbG1aU0JwYm5OMWNtRnVZMlVnZDJsMGFDQnNkWEIxY3ciLCJicyI6ImM1WE1QUXJDUUJBRllHeTNzaENSVklQUk1ncTVRQW9GXzJMbENZWjFrZ3hzZHNQLUVITVhENnRSc1JBUmJOXzczaE43a1d4TkMzV1FGYkFEWHhHY052a09HdXhNOEZBWS04aHFWdXpSZHRua2VrckgwY2lWaXRfaEM0dURpTmVHSE9SMHdjWWF3S0lnNlVGeFFjRGFCWXRhVXBiT291bTVaLW9YRTBjeFc2R0dIWlQwMlVITHZnSVZtdUN5ZEI3Rjh1NzR0eE1vRnYwZFFrUFdHZjJzemxTVDlveGZ0bG02akJMNXoySTR1QUUiLCJpZCI6ImZjX1pTQTZhc2pDRUlqWnF0c1BfTW5QNlFJXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRtVnJjeTFFVmxOc00yTm1UMGN4VUVsblR6WkdTVFJaUjNWelEzTlZRbWhmUWpWYVNXUkJOMnhaVEZocWJUTllZM0pRT0RaUldXdHphalowTkVsbmFuVnBiM3BzU0RaWGN6TlRNbkJuWkU1SFNFOURaMEY2VlhkMmR4SVhXbE5CTm1GemFrTkZTV3BhY1hSelVGOU5ibEEyVVVrYUlrRkVjM0k1WmxSM09HODBWRnBrTlZWMk5rMTNaRUZZYTAweFVITkxaMmx5WjFFIiwiZmN2IjoiMyIsImVpIjoiWlNBNmFzakNFSWpacXRzUF9NblA2UUkiLCJxYyI6IkNpZHpaMnhwSUd4cFptVWdhVzV6ZFhKaGJtTmxJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtRQUgxUTBXb18iLCJxdWVzdGlvbiI6IkNhbiBJIGdldCBsaWZlIGluc3VyYW5jZSB3aXRoIGx1cHVzPyIsImxrIjoiR2lOallXNGdhU0JuWlhRZ2JHbG1aU0JwYm5OMWNtRnVZMlVnZDJsMGFDQnNkWEIxY3ciLCJicyI6ImM1WE1QUXJDUUJBRllHeTNzaENSVklQUk1ncTVRQW9GXzJMbENZWjFrZ3hzZHNQLUVITVhENnRSc1JBUmJOXzczaE43a1d4TkMzV1FGYkFEWHhHY052a09HdXhNOEZBWS04aHFWdXpSZHRua2VrckgwY2lWaXRfaEM0dURpTmVHSE9SMHdjWWF3S0lnNlVGeFFjRGFCWXRhVXBiT291bTVaLW9YRTBjeFc2R0dIWlQwMlVITHZnSVZtdUN5ZEI3Rjh1NzR0eE1vRnYwZFFrUFdHZjJzemxTVDlveGZ0bG02akJMNXoySTR1QUUiLCJpZCI6ImZjX1pTQTZhc2pDRUlqWnF0c1BfTW5QNlFJXzQifQ%3D%3D"
+    },
+    {
+      "question": "Can a person with dementia get life insurance?",
+      "type": "ai_overview",
+      "page_token": "rz0QRHicHdDbTsIwGADg-DJeSjtEIwkxgR2EbCPt-v873JjRCWXr1oKTwe58F5_KpzHxe4Tv-0cfu-b37qL63n7OJ5NhGB4Oxhz0x4M07aT8vHVyIkutd6Vs5k_PT_R1Lxfe13q5Oq2XDKxFlxMRMEdovEHtm2RULhfVbUc3XUTyR9b6EcflGAsgqJezwtFxiFhA2gexU223K3JljT2LkQ-sM9cc1EoAp9Ebd3YBD3My81OvCgVgnXp8LV0Mtyl_RF-1SedfEiiijKisaFUCtFDo8FPcDo4gPADqnyGzJvLtNa5jljv0DA0qJEA4maWpu5nuBIqPThsIeosj7gGrzlNVCcRz8iw-MYKbUttr9RazjNAvcAuecHNkwEdZ6xbd4iI9zRIvHxK_WufkBcNsM3L6ArIujrxRlLH7vbwspvf_n4v3fdvP7dkc_gB3eIJd",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rz0QRHicHdDbTsIwGADg-DJeSjtEIwkxgR2EbCPt-v873JjRCWXr1oKTwe58F5_KpzHxe4Tv-0cfu-b37qL63n7OJ5NhGB4Oxhz0x4M07aT8vHVyIkutd6Vs5k_PT_R1Lxfe13q5Oq2XDKxFlxMRMEdovEHtm2RULhfVbUc3XUTyR9b6EcflGAsgqJezwtFxiFhA2gexU223K3JljT2LkQ-sM9cc1EoAp9Ebd3YBD3My81OvCgVgnXp8LV0Mtyl_RF-1SedfEiiijKisaFUCtFDo8FPcDo4gPADqnyGzJvLtNa5jljv0DA0qJEA4maWpu5nuBIqPThsIeosj7gGrzlNVCcRz8iw-MYKbUttr9RazjNAvcAuecHNkwEdZ6xbd4iI9zRIvHxK_WufkBcNsM3L6ArIujrxRlLH7vbwspvf_n4v3fdvP7dkc_gB3eIJd",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRtVnJjeTFFVmxOc00yTm1UMGN4VUVsblR6WkdTVFJaUjNWelEzTlZRbWhmUWpWYVNXUkJOMnhaVEZocWJUTllZM0pRT0RaUldXdHphalowTkVsbmFuVnBiM3BzU0RaWGN6TlRNbkJuWkU1SFNFOURaMEY2VlhkMmR4SVhXbE5CTm1GemFrTkZTV3BhY1hSelVGOU5ibEEyVVVrYUlrRkVjM0k1WmxSM09HODBWRnBrTlZWMk5rMTNaRUZZYTAweFVITkxaMmx5WjFFIiwiZmN2IjoiMyIsImVpIjoiWlNBNmFzakNFSWpacXRzUF9NblA2UUkiLCJxYyI6IkNpZHpaMnhwSUd4cFptVWdhVzV6ZFhKaGJtTmxJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtRQUgxUTBXb18iLCJxdWVzdGlvbiI6IkNhbiBhIHBlcnNvbiB3aXRoIGRlbWVudGlhIGdldCBsaWZlIGluc3VyYW5jZT8iLCJsayI6IkdpMWpZVzRnWVNCd1pYSnpiMjRnZDJsMGFDQmtaVzFsYm5ScFlTQm5aWFFnYkdsbVpTQnBibk4xY21GdVkyVSIsImJzIjoiYzVYTVBRckNRQkFGWUd5M3NoQ1JWSVBSTWdxNVFBb0ZfMkxsQ1laMWtneHNkc1AtRUhNWEQ2dFJzUkFSYk5fNzNoTjdrV3hOQzNXUUZiQURYeEdjTnZrT0d1eE04RkFZLThocVZ1elJkdG5rZWtySDBjaVZpdF9oQzR1RGlOZUdIT1Iwd2NZYXdLSWc2VUZ4UWNEYUJZdGFVcGJPb3VtNVotb1hFMGN4VzZHR0haVDAyVUhMdmdJVm11Q3lkQjdGOHU3NHR4TW9GdjBkUWtQV0dmMnN6bFNUOW94ZnRsbTZqQkw1ejJJNHVBRSIsImlkIjoiZmNfWlNBNmFzakNFSWpacXRzUF9NblA2UUlfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRtVnJjeTFFVmxOc00yTm1UMGN4VUVsblR6WkdTVFJaUjNWelEzTlZRbWhmUWpWYVNXUkJOMnhaVEZocWJUTllZM0pRT0RaUldXdHphalowTkVsbmFuVnBiM3BzU0RaWGN6TlRNbkJuWkU1SFNFOURaMEY2VlhkMmR4SVhXbE5CTm1GemFrTkZTV3BhY1hSelVGOU5ibEEyVVVrYUlrRkVjM0k1WmxSM09HODBWRnBrTlZWMk5rMTNaRUZZYTAweFVITkxaMmx5WjFFIiwiZmN2IjoiMyIsImVpIjoiWlNBNmFzakNFSWpacXRzUF9NblA2UUkiLCJxYyI6IkNpZHpaMnhwSUd4cFptVWdhVzV6ZFhKaGJtTmxJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtRQUgxUTBXb18iLCJxdWVzdGlvbiI6IkNhbiBhIHBlcnNvbiB3aXRoIGRlbWVudGlhIGdldCBsaWZlIGluc3VyYW5jZT8iLCJsayI6IkdpMWpZVzRnWVNCd1pYSnpiMjRnZDJsMGFDQmtaVzFsYm5ScFlTQm5aWFFnYkdsbVpTQnBibk4xY21GdVkyVSIsImJzIjoiYzVYTVBRckNRQkFGWUd5M3NoQ1JWSVBSTWdxNVFBb0ZfMkxsQ1laMWtneHNkc1AtRUhNWEQ2dFJzUkFSYk5fNzNoTjdrV3hOQzNXUUZiQURYeEdjTnZrT0d1eE04RkFZLThocVZ1elJkdG5rZWtySDBjaVZpdF9oQzR1RGlOZUdIT1Iwd2NZYXdLSWc2VUZ4UWNEYUJZdGFVcGJPb3VtNVotb1hFMGN4VzZHR0haVDAyVUhMdmdJVm11Q3lkQjdGOHU3NHR4TW9GdjBkUWtQV0dmMnN6bFNUOW94ZnRsbTZqQkw1ejJJNHVBRSIsImlkIjoiZmNfWlNBNmFzakNFSWpacXRzUF9NblA2UUlfNCJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "6Zl7FXicxVbdcqJIFL7f9xhvEgVUNKaKmmpaVOIPEjXRuaEQsOVPDI0S527fZZ9q7_c9pkHQ1mBSO1Vb2xbdnOb89_n6-Odfnr1x__7jn3UUbfEjw8RxXEFBgDyrYgQ-o-PDxmBWgYdDY_39sBdqJQMLbMmyhR8T0NCxAyXZ-fEW4bE23IwbqlxKRQRtqWPLIRrfHcxoDJncb7U2ISq4Ym0qHlDbKPQVaSJXqizXqiiM7hMG8B8OCcgoWWXyk1L6eojku_qVFgggmRG1hag5G-3EDAAQpgsIbmkTUy8gEKXErqgNWw9kObK30S0pACaX5GvqGYgThSQEqTCIInX5Xu6geMNesSupmVlG1KkPH1ObDJINOr19orYODACesw0l56PNISSBdr7fi5WhqEjPnx0SCb47BA_uGMqfcCXey2Hcyd7j0YIYZUxEapBlliFZOMY21kb6EuKkNOG0xQa9Qb9WUwMHNhsth5-s-PfOtuX3LBMpiDGWhM8LdNMytbXGfk9prsrxbKvWfLhPMWHgEygwDQo0XAziXczJZakyqIgchYg0WvniDEgmSc0Ux9VP54uThPmLfCLgB4lEppownPWK00NifZhnKTmiGfiQ18RWASIom2fjWeXCzjmwS01yZp6OToyvLJ4NZKWwAH31FLJEyAvnaGUicNM7oJtvnHUnWpGXXhAJIqRMoXIhj2jHkptEReLJskp7x1NCCIhpxp0DmZ5AAPNbKBGRsyT0E-_o2u5eIwkTVzC6cfBfjZu3EOVnXvtXpUxDoDu2FXdcPjgLFxnKaGSy7gtsKd6rOYmLSz7wl_-iERj_LyjyNtHPDqhTCAr1C1BIUPy0TRzZ2ydQpPTbLVCIclGbON645zbxERSTS1DcbhMUKFAWFa31GhTiDVCgLLYCUMwKQOEWgiJrExQo1nX1ok0cjZ3aRA6K32oT-99pEylErONy2TN2DrrdO_RI2pdVlldVzxW3VVtiw_m7qPQ4HnzZO1Z-9Ojrpnev2eajWH2KDua9RjaCR8ssvQmT7kC-8-yVdWdv8C7UN4Z1Z-iesfP0KAjvfNuzIz08lHwvDARWb_qwWfcaWnk3rgUsbPb8Gewtdk_u8261Vn6-bIeN5ZRzygd3PqtynfKytV3NsLxZaA1v1Rmokh6ObWeMFqzchnv8ZHW3tVrc9_Bk7zaas3aPC_xwOJ82Z_25_DCcvDR5NZZB51V9WQbSgndGW42f10F1HkU_BxuU-oWFnhtMeSw-TXf1EokNWwJX8kNDIBVRR2CkgldE_jDABVAhIk9AnpjUSgkbumbhvWDwHLvU61aDrzZWtRYRRtFhK9S5Et6EAvcLP5oXbA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6Zl7FXicxVbdcqJIFL7f9xhvEgVUNKaKmmpaVOIPEjXRuaEQsOVPDI0S527fZZ9q7_c9pkHQ1mBSO1Vb2xbdnOb89_n6-Odfnr1x__7jn3UUbfEjw8RxXEFBgDyrYgQ-o-PDxmBWgYdDY_39sBdqJQMLbMmyhR8T0NCxAyXZ-fEW4bE23IwbqlxKRQRtqWPLIRrfHcxoDJncb7U2ISq4Ym0qHlDbKPQVaSJXqizXqiiM7hMG8B8OCcgoWWXyk1L6eojku_qVFgggmRG1hag5G-3EDAAQpgsIbmkTUy8gEKXErqgNWw9kObK30S0pACaX5GvqGYgThSQEqTCIInX5Xu6geMNesSupmVlG1KkPH1ObDJINOr19orYODACesw0l56PNISSBdr7fi5WhqEjPnx0SCb47BA_uGMqfcCXey2Hcyd7j0YIYZUxEapBlliFZOMY21kb6EuKkNOG0xQa9Qb9WUwMHNhsth5-s-PfOtuX3LBMpiDGWhM8LdNMytbXGfk9prsrxbKvWfLhPMWHgEygwDQo0XAziXczJZakyqIgchYg0WvniDEgmSc0Ux9VP54uThPmLfCLgB4lEppownPWK00NifZhnKTmiGfiQ18RWASIom2fjWeXCzjmwS01yZp6OToyvLJ4NZKWwAH31FLJEyAvnaGUicNM7oJtvnHUnWpGXXhAJIqRMoXIhj2jHkptEReLJskp7x1NCCIhpxp0DmZ5AAPNbKBGRsyT0E-_o2u5eIwkTVzC6cfBfjZu3EOVnXvtXpUxDoDu2FXdcPjgLFxnKaGSy7gtsKd6rOYmLSz7wl_-iERj_LyjyNtHPDqhTCAr1C1BIUPy0TRzZ2ydQpPTbLVCIclGbON645zbxERSTS1DcbhMUKFAWFa31GhTiDVCgLLYCUMwKQOEWgiJrExQo1nX1ok0cjZ3aRA6K32oT-99pEylErONy2TN2DrrdO_RI2pdVlldVzxW3VVtiw_m7qPQ4HnzZO1Z-9Ojrpnev2eajWH2KDua9RjaCR8ssvQmT7kC-8-yVdWdv8C7UN4Z1Z-iesfP0KAjvfNuzIz08lHwvDARWb_qwWfcaWnk3rgUsbPb8Gewtdk_u8261Vn6-bIeN5ZRzygd3PqtynfKytV3NsLxZaA1v1Rmokh6ObWeMFqzchnv8ZHW3tVrc9_Bk7zaas3aPC_xwOJ82Z_25_DCcvDR5NZZB51V9WQbSgndGW42f10F1HkU_BxuU-oWFnhtMeSw-TXf1EokNWwJX8kNDIBVRR2CkgldE_jDABVAhIk9AnpjUSgkbumbhvWDwHLvU61aDrzZWtRYRRtFhK9S5Et6EAvcLP5oXbA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Servicemembers' Group Life Insurance (SGLI)",
+      "link": "https://www.va.gov/life-insurance/options-eligibility/sgli/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.va.gov/life-insurance/options-eligibility/sgli/&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0QFnoECBoQAQ",
+      "displayed_link": "https://www.va.gov › life-insurance › options-eligibility",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUWHEwFD0YAC0UIEUcRGEoUGksMFEhvcox2eZFgZIEyNl56fZVTVnUAAEHT1Nv____7-_yanK09QWQ4PGIAAECIip5YW3jZ2uDGx9AAADV_gpYnLVkjKFb39_nv7_IAADrj5OikprcAADglKlbo6e61t8SipLMcIlCRk6ZITG4AAD2-v8lTV3VeVWWWAAABGklEQVR4Ac2RhRXDMAwFA7YbvjLbKfP-81Uqj9Afkt45wugPFSdJ-jBMkiTWipu4N3OdLMtjZUWZlUUsbla9ad1At1ajJ0Z_0AWa-gWHI2CcCpzAdDZHtTBPaJZAr45c30M5m0KAMnlCq3EnbZSU4PsmsFrDtLaC3rkWZjiFZtMRkIOPXtANgLLe7mA0W2sKD1L_U8kK9puxRq3FrDTv_l1vfYAwk1fTVrAbHE_yTt5xz9rgBEabk1ghBODsXvWmOzgFiXppeOvwibuHiUYdeLiu1-ud-G8Yj1GN2gz84jKc9X6GZI8BJGo7ff6R3vToZ75TdErboF3K4Yv_Gb47l7KndJtl5UCjpeMs63yX-tiwLlqY0iSJo__THWPcGFaQjPxnAAAAAElFTkSuQmCC.png",
+      "date": "Sep 19, 2025",
+      "snippet": "The current basic SGLI premium rate is 5 cents per $1,000 of insurance coverage. The premium includes an additional $1 per month for Traumatic ...",
+      "snippet_highlighted_words": [
+        "per"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The current basic SGLI premium rate is 5 cents per $1,000 of insurance coverage. The premium includes an additional $1 per month for Traumatic ...",
+          "source_info_link": "https://www.va.gov/life-insurance/options-eligibility/sgli/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUWHEwFD0YAC0UIEUcRGEoUGksMFEhvcox2eZFgZIEyNl56fZVTVnUAAEHT1Nv____7-_yanK09QWQ4PGIAAECIip5YW3jZ2uDGx9AAADV_gpYnLVkjKFb39_nv7_IAADrj5OikprcAADglKlbo6e61t8SipLMcIlCRk6ZITG4AAD2-v8lTV3VeVWWWAAABGklEQVR4Ac2RhRXDMAwFA7YbvjLbKfP-81Uqj9Afkt45wugPFSdJ-jBMkiTWipu4N3OdLMtjZUWZlUUsbla9ad1At1ajJ0Z_0AWa-gWHI2CcCpzAdDZHtTBPaJZAr45c30M5m0KAMnlCq3EnbZSU4PsmsFrDtLaC3rkWZjiFZtMRkIOPXtANgLLe7mA0W2sKD1L_U8kK9puxRq3FrDTv_l1vfYAwk1fTVrAbHE_yTt5xz9rgBEabk1ghBODsXvWmOzgFiXppeOvwibuHiUYdeLiu1-ud-G8Yj1GN2gz84jKc9X6GZI8BJGo7ff6R3vToZ75TdErboF3K4Yv_Gb47l7KndJtl5UCjpeMs63yX-tiwLlqY0iSJo__THWPcGFaQjPxnAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.va.gov/life-insurance/options-eligibility/sgli/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.va.gov%2Flife-insurance%2Foptions-eligibility%2Fsgli%2F",
+      "source": "VA.gov Home | Veterans Affairs",
+      "read_more_link": "https://www.va.gov/life-insurance/options-eligibility/sgli/#:~:text=The%20current%20basic%20SGLI%20premium,Traumatic%20Injury%20Protection%20coverage%20(TSGLI)."
+    },
+    {
+      "position": 2,
+      "title": "Servicemembers Group Life Insurance",
+      "link": "https://militarypay.defense.gov/Benefits/Servicemembers-Group-Life-Insurance/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/Benefits/Servicemembers-Group-Life-Insurance/&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0QFnoECCAQAQ",
+      "displayed_link": "https://militarypay.defense.gov › Benefits › Servicemem...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "Servicemembers' Group Life Insurance. SGLI offers low-cost term life insurance coverage to eligible Service members. · Family Servicemembers' Group Life ...",
+      "snippet_highlighted_words": [
+        "SGLI offers low-cost term life insurance coverage"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Servicemembers' Group Life Insurance. SGLI offers low-cost term life insurance coverage to eligible Service members. · Family Servicemembers' Group Life ...",
+          "source_info_link": "https://militarypay.defense.gov/Benefits/Servicemembers-Group-Life-Insurance/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/Benefits/Servicemembers-Group-Life-Insurance/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2FBenefits%2FServicemembers-Group-Life-Insurance%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/Benefits/Servicemembers-Group-Life-Insurance/#:~:text=Servicemembers'%20Group%20Life%20Insurance&text=Family%20Servicemembers'%20Group%20Life%20Insurance,(FSGLI)"
+    },
+    {
+      "position": 3,
+      "title": "Life insurance premiums discounted for service members, ...",
+      "link": "https://myairforcebenefits.us.af.mil/Life-insurance-premiums-discounted-for-service-members-spouses-and-Veterans",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myairforcebenefits.us.af.mil/Life-insurance-premiums-discounted-for-service-members-spouses-and-Veterans&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0QFnoECBgQAQ",
+      "displayed_link": "https://myairforcebenefits.us.af.mil › Life-insurance-pre...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWOgGBw-eEhs957dWlevXmUmVs_z58-Zjxw5ovPo4SN-ht6enoTQ0LCVp06dEj577hxBQ758-cJ0_PhxLW8vr63bt263Z0hPT69SU1W709benhocHCJMyIBz587xuLq6rlRSVHqyeNFiT4awsLBiCXGJ15oamucE-AVs8Gl-8uQJY21trZaUpNRzoKX3165dp8-wefNmbWkp6SdAzT_ERMVm2NrYWm_dsgWrV06eOMFtaWW5WlBA8EeAf8DCEydO8DKkpqYyOzk6FoMEgfirvp7-nuVLl0lOmzqNH6YxMyNDauOGDVp-vn7rREVFPygpKN6dMmWKOdzkZcuWSvh4e6_k5-P_IyQo9MPI0Ohcf1-_w6IFC3k72zt4rSytcs3NzE9JSkh-EBYS_hwZEdm3dNkydrgB_f39bHPnzo3V0tS8CzTkN9A7v_V09a62trTG5-fmZSspKt4TERb5CnKlgb7B-YULFzpi-C88LFy2sbGxUlVZ5TLQFe9VlJUf1NfVFVdVVpUDwwhkwGNdHZ2zU6dMSYmLi-PHGspRUVFiwDAodHZynp2Xm5dVXFScWlJcEg8Mp1w3V9cJkyZO9ElPS-fBG8-9PX3S5WUVsZkZmXk21tbr7O3slyQmJuaVl5eFHT58WJBgMgUGnqebq9uW5KSk9piY6O7Q0NAJwUHB_UCxZWtWr7YiaMDePXtEgU73ALqgChiQ57W1tM_HxcTmpaWmmZ84fpyX6EyWm5Orl5CQ0BcTHdMG9LcqA60AAOJP2MG383GbAAAAAElFTkSuQmCC.png",
+      "date": "Jun 18, 2025",
+      "snippet": "Premium rate discounts will vary by age, ranging from 11% to 22%, with an average discount of approximately 13%. No action is required—new rates ...",
+      "snippet_highlighted_words": [
+        "rates"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Premium rate discounts will vary by age, ranging from 11% to 22%, with an average discount of approximately 13%. No action is required—new rates ...",
+          "source_info_link": "https://myairforcebenefits.us.af.mil/Life-insurance-premiums-discounted-for-service-members-spouses-and-Veterans",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWOgGBw-eEhs957dWlevXmUmVs_z58-Zjxw5ovPo4SN-ht6enoTQ0LCVp06dEj577hxBQ758-cJ0_PhxLW8vr63bt263Z0hPT69SU1W709benhocHCJMyIBz587xuLq6rlRSVHqyeNFiT4awsLBiCXGJ15oamucE-AVs8Gl-8uQJY21trZaUpNRzoKX3165dp8-wefNmbWkp6SdAzT_ERMVm2NrYWm_dsgWrV06eOMFtaWW5WlBA8EeAf8DCEydO8DKkpqYyOzk6FoMEgfirvp7-nuVLl0lOmzqNH6YxMyNDauOGDVp-vn7rREVFPygpKN6dMmWKOdzkZcuWSvh4e6_k5-P_IyQo9MPI0Ohcf1-_w6IFC3k72zt4rSytcs3NzE9JSkh-EBYS_hwZEdm3dNkydrgB_f39bHPnzo3V0tS8CzTkN9A7v_V09a62trTG5-fmZSspKt4TERb5CnKlgb7B-YULFzpi-C88LFy2sbGxUlVZ5TLQFe9VlJUf1NfVFVdVVpUDwwhkwGNdHZ2zU6dMSYmLi-PHGspRUVFiwDAodHZynp2Xm5dVXFScWlJcEg8Mp1w3V9cJkyZO9ElPS-fBG8-9PX3S5WUVsZkZmXk21tbr7O3slyQmJuaVl5eFHT58WJBgMgUGnqebq9uW5KSk9piY6O7Q0NAJwUHB_UCxZWtWr7YiaMDePXtEgU73ALqgChiQ57W1tM_HxcTmpaWmmZ84fpyX6EyWm5Orl5CQ0BcTHdMG9LcqA60AAOJP2MG383GbAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myairforcebenefits.us.af.mil/Life-insurance-premiums-discounted-for-service-members-spouses-and-Veterans&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyairforcebenefits.us.af.mil%2FLife-insurance-premiums-discounted-for-service-members-spouses-and-Veterans",
+      "source": "My Air Force Benefits (.mil)",
+      "read_more_link": "https://myairforcebenefits.us.af.mil/Life-insurance-premiums-discounted-for-service-members-spouses-and-Veterans#:~:text=Premium%20rate%20discounts%20will%20vary,required%E2%80%94new%20rates%20take%20effect%20automatically."
+    },
+    {
+      "position": 4,
+      "title": "2025 SGLI & VGLI Rates",
+      "link": "https://www.firstcommand.com/coaching-center/financial-resources/military-life-insurance/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.firstcommand.com/coaching-center/financial-resources/military-life-insurance/&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0QFnoECBkQAQ",
+      "displayed_link": "https://www.firstcommand.com › military-life-insurance",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX____rrbDdanLdZW3ZUVvxw8ZUd6pcfa1ti7XaWWHPABHQAB3PAADb4uwANIgAR48AP4x8lbvREybUKTf55-mqudENTJK3xNkAN4no7fTRFyjppqron6MUUZX33N3SIC_hf4XQABrvvL8AQo3fcnnPAAoAOooyYJ3L1OOWqcfjhozWPkn-9_jyy87lkZbuubwiutkFAAAAzUlEQVR4AWIYogBA5VjgMAzAQGwMZWZm7v9_t1xHaUSWrMh3PJ0vV8DtTvfYuacgSpuTFVVVNX33JximtZGtOY6jubtH8fmhh0rS87kUgnMYHUGxg-MuEdJAFDIi3yOlPnZJMU3TvCBykSxtLiuDZI1FekmykblMtwO12KNxZ9WkjArYIHnjsshJihjbQZY9lwOSQkLUI6l1XI4BPkE3JD3uJiSDJ1BDsuVy3pIRkYykZ3O5SHmeSzORrWiaohOwzxU3Yazruv5rgzfNAQAO-xOc8Ujf6QAAAABJRU5ErkJggg.png",
+      "date": "Jun 20, 2025",
+      "snippet": "Military members are eligible for affordable term life insurance known as Servicemembers' Group Life Insurance (SGLI). Through June 2025, ...",
+      "snippet_highlighted_words": [
+        "term"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military members are eligible for affordable term life insurance known as Servicemembers' Group Life Insurance (SGLI). Through June 2025, ...",
+          "source_info_link": "https://www.firstcommand.com/coaching-center/financial-resources/military-life-insurance/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX____rrbDdanLdZW3ZUVvxw8ZUd6pcfa1ti7XaWWHPABHQAB3PAADb4uwANIgAR48AP4x8lbvREybUKTf55-mqudENTJK3xNkAN4no7fTRFyjppqron6MUUZX33N3SIC_hf4XQABrvvL8AQo3fcnnPAAoAOooyYJ3L1OOWqcfjhozWPkn-9_jyy87lkZbuubwiutkFAAAAzUlEQVR4AWIYogBA5VjgMAzAQGwMZWZm7v9_t1xHaUSWrMh3PJ0vV8DtTvfYuacgSpuTFVVVNX33JximtZGtOY6jubtH8fmhh0rS87kUgnMYHUGxg-MuEdJAFDIi3yOlPnZJMU3TvCBykSxtLiuDZI1FekmykblMtwO12KNxZ9WkjArYIHnjsshJihjbQZY9lwOSQkLUI6l1XI4BPkE3JD3uJiSDJ1BDsuVy3pIRkYykZ3O5SHmeSzORrWiaohOwzxU3Yazruv5rgzfNAQAO-xOc8Ujf6QAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.firstcommand.com/coaching-center/financial-resources/military-life-insurance/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.firstcommand.com%2Fcoaching-center%2Ffinancial-resources%2Fmilitary-life-insurance%2F",
+      "source": "First Command",
+      "read_more_link": "https://www.firstcommand.com/coaching-center/financial-resources/military-life-insurance/#:~:text=Military%20members%20are%20eligible%20for,Insurance%20(SGLI).%20Through%20June%202025%2C"
+    },
+    {
+      "position": 5,
+      "title": "Veterans Group Life Insurance (VGLI)",
+      "link": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Veterans-Group-Life-Insurance-(VGLI)?serv=128",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Veterans-Group-Life-Insurance-(VGLI)%3Fserv%3D128&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0QFnoECB8QAQ",
+      "displayed_link": "https://myarmybenefits.us.army.mil › Federal-Benefits",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png",
+      "date": "Oct 7, 2025",
+      "snippet": "Service members can get between $10,000 and $500,000 in term life insurance benefits. The amount you will get is based on how much SGLI coverage ...",
+      "snippet_highlighted_words": [
+        "life insurance",
+        "SGLI"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Service members can get between $10,000 and $500,000 in term life insurance benefits. The amount you will get is based on how much SGLI coverage ...",
+          "source_info_link": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Veterans-Group-Life-Insurance-(VGLI)?serv=128",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Veterans-Group-Life-Insurance-(VGLI)?serv=128&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyarmybenefits.us.army.mil%2FBenefit-Library%2FFederal-Benefits%2FVeterans-Group-Life-Insurance-%28VGLI%29%3Fserv%3D128",
+      "source": "MyArmyBenefits (.mil)",
+      "read_more_link": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Veterans-Group-Life-Insurance-(VGLI)?serv=128#:~:text=Service%20members%20can%20get%20between,when%20you%20left%20the%20military."
+    },
+    {
+      "position": 6,
+      "title": "Get a Military Life Insurance Quote",
+      "link": "https://www.navymutual.org/get-a-military-life-insurance-quote/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.navymutual.org/get-a-military-life-insurance-quote/&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0QFnoECDsQAQ",
+      "displayed_link": "https://www.navymutual.org › get-a-military-life-insura...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEX____c3d9ET1r__P3--PnCxMcAABXy1NfCAADFAAnTWGO2ur0zQE1PWWIqOEahpqrNNETIGC3JHDDGABIVKTni4-TmqK3GABnjoKXw8fIAHjEKIzTIEinLKTp-hIrS1NYADibcf4fMLj_wzM8xfgguAAAAX0lEQVR4Ae3LtQGAABAEsMPd3W3_GXF4GrQmffDMj8EFFhPuiMdKEDGSZIXIKiaabpgmq1uwHZd469R80zQChJFLohiLJPWzALznkLzAyiirukJTtMTpsKgqIBDwwW8AkKAH42SyXRUAAAAASUVORK5CYII.png",
+      "snippet": "Supplement your SGLI or VGLI with military life insurance by Navy Mutual. Our quote tool can show you what your rates could be for term life insurance coverage.",
+      "snippet_highlighted_words": [
+        "SGLI",
+        "military life insurance",
+        "rates",
+        "life insurance"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Supplement your SGLI or VGLI with military life insurance by Navy Mutual. Our quote tool can show you what your rates could be for term life insurance coverage.",
+          "source_info_link": "https://www.navymutual.org/get-a-military-life-insurance-quote/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEX____c3d9ET1r__P3--PnCxMcAABXy1NfCAADFAAnTWGO2ur0zQE1PWWIqOEahpqrNNETIGC3JHDDGABIVKTni4-TmqK3GABnjoKXw8fIAHjEKIzTIEinLKTp-hIrS1NYADibcf4fMLj_wzM8xfgguAAAAX0lEQVR4Ae3LtQGAABAEsMPd3W3_GXF4GrQmffDMj8EFFhPuiMdKEDGSZIXIKiaabpgmq1uwHZd469R80zQChJFLohiLJPWzALznkLzAyiirukJTtMTpsKgqIBDwwW8AkKAH42SyXRUAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.navymutual.org/get-a-military-life-insurance-quote/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.navymutual.org%2Fget-a-military-life-insurance-quote%2F",
+      "source": "Navy Mutual",
+      "read_more_link": "https://www.navymutual.org/get-a-military-life-insurance-quote/#:~:text=Supplement%20your%20SGLI%20or%20VGLI,for%20term%20life%20insurance%20coverage."
+    },
+    {
+      "position": 7,
+      "title": "How Much Life Insurance Do I Need?",
+      "link": "https://www.militarybenefit.org/get-educated/how-much-life-insurance-do-i-need/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarybenefit.org/get-educated/how-much-life-insurance-do-i-need/&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0QFnoECD8QAQ",
+      "displayed_link": "https://www.militarybenefit.org › get-educated › how-m...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png",
+      "snippet": "For veterans and active duty: simple rules-of-thumb for determining how much life insurance you need, plus an online calculator with cost estimates.",
+      "snippet_highlighted_words": [
+        "life insurance",
+        "calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "For veterans and active duty: simple rules-of-thumb for determining how much life insurance you need, plus an online calculator with cost estimates.",
+          "source_info_link": "https://www.militarybenefit.org/get-educated/how-much-life-insurance-do-i-need/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarybenefit.org/get-educated/how-much-life-insurance-do-i-need/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarybenefit.org%2Fget-educated%2Fhow-much-life-insurance-do-i-need%2F",
+      "source": "Military Benefit Association"
+    },
+    {
+      "position": 8,
+      "title": "Veterans Affairs Insurance Needs Calculator",
+      "link": "https://insurance.va.gov/NeedsCalculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://insurance.va.gov/NeedsCalculator&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0QFnoECEAQAQ",
+      "displayed_link": "https://insurance.va.gov › NeedsCalculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUBI1hQaIz-_v_O1eC_x9Vwg6FgdZcRMWLe4-qvucufrMAhPm0xTHdAWoLu8PWPnrZb9tf9AAAAX0lEQVR4AWPAA4QMGJwEgtQYGIrU2ZUYLDQZGDjVGDXZNY0KGNi0uNTYVBcJMHBrcKhz6QgtYGAwujSBT8XoAQND0KSES0_8dBgYDikVfArg0mdg4NBkaDrAqMFABAAAdWkQmYKBiOwAAAAASUVORK5CYII.png",
+      "snippet": "Enter the information in the form below to calculate your life insurance needs. Click on the \"More Info\" button next to each entry to view details.",
+      "snippet_highlighted_words": [
+        "Enter the information in the form below to calculate your life insurance needs"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Enter the information in the form below to calculate your life insurance needs. Click on the \"More Info\" button next to each entry to view details.",
+          "source_info_link": "https://insurance.va.gov/NeedsCalculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUBI1hQaIz-_v_O1eC_x9Vwg6FgdZcRMWLe4-qvucufrMAhPm0xTHdAWoLu8PWPnrZb9tf9AAAAX0lEQVR4AWPAA4QMGJwEgtQYGIrU2ZUYLDQZGDjVGDXZNY0KGNi0uNTYVBcJMHBrcKhz6QgtYGAwujSBT8XoAQND0KSES0_8dBgYDikVfArg0mdg4NBkaDrAqMFABAAAdWkQmYKBiOwAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://insurance.va.gov/NeedsCalculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Finsurance.va.gov%2FNeedsCalculator",
+      "source": "VA.gov Home | Veterans Affairs",
+      "read_more_link": "https://insurance.va.gov/NeedsCalculator#:~:text=Enter%20the%20information%20in%20the,explaining%20what%20information%20is%20needed."
+    },
+    {
+      "position": 9,
+      "title": "Your Guide to Military Life Insurance: SGLI, VGLI and ...",
+      "link": "https://www.navyfederal.org/makingcents/military-life/military-life-insurance-guide.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.navyfederal.org/makingcents/military-life/military-life-insurance-guide.html&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0QFnoECD0QAQ",
+      "displayed_link": "https://www.navyfederal.org › ... › Military Life",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA4ElEQVR4AWJAB8oJSwCdUwENxCAMnAQkTMJLQAISkDAJczAJSHgJSKgEJCCBb5NrcuGfZPskF9rrtZQCWfFWDEVXNNjG5VnPiUFRKbHDL-QPcOErmQQJu0YkH7AbYr5B4AIVOD3RePdhF7PBien5zNxyA9yWmSd93nw4iou62X90sJsW9uXDNkcgTF7A1rkAx0yLWNuoreIk1pN5joGrXkB42vAjwDzHDsQEHTw-QkZM_h1i4SHyNcqNaxTSR35IcuMhvWiYdfUP8uIpd9j0H559prFKngslDLZzMXBx1n8AuU1izRJUOrMAAAAASUVORK5CYII.png",
+      "date": "Dec 23, 2024",
+      "snippet": "Servicemembers' Group Life Insurance (SGLI) provides up to $500,000 in coverage while you're on Active Duty, offering automatic enrollment ...",
+      "snippet_highlighted_words": [
+        "provides up to $500,000 in coverage"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Servicemembers' Group Life Insurance (SGLI) provides up to $500,000 in coverage while you're on Active Duty, offering automatic enrollment ...",
+          "source_info_link": "https://www.navyfederal.org/makingcents/military-life/military-life-insurance-guide.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA4ElEQVR4AWJAB8oJSwCdUwENxCAMnAQkTMJLQAISkDAJczAJSHgJSKgEJCCBb5NrcuGfZPskF9rrtZQCWfFWDEVXNNjG5VnPiUFRKbHDL-QPcOErmQQJu0YkH7AbYr5B4AIVOD3RePdhF7PBien5zNxyA9yWmSd93nw4iou62X90sJsW9uXDNkcgTF7A1rkAx0yLWNuoreIk1pN5joGrXkB42vAjwDzHDsQEHTw-QkZM_h1i4SHyNcqNaxTSR35IcuMhvWiYdfUP8uIpd9j0H559prFKngslDLZzMXBx1n8AuU1izRJUOrMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.navyfederal.org/makingcents/military-life/military-life-insurance-guide.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.navyfederal.org%2Fmakingcents%2Fmilitary-life%2Fmilitary-life-insurance-guide.html",
+      "source": "Navy Federal Credit Union",
+      "read_more_link": "https://www.navyfederal.org/makingcents/military-life/military-life-insurance-guide.html#:~:text=Servicemembers'%20Group%20Life%20Insurance%20(SGLI),when%20you%20join%20the%20military."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "SGLI payout for death",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=SGLI+payout+for+death&sa=X&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SGLI+payout+for+death"
+    },
+    {
+      "block_position": 1,
+      "query": "Military life insurance death benefits",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+life+insurance+death+benefits&sa=X&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+life+insurance+death+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "SGLI military",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=SGLI+military&sa=X&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SGLI+military"
+    },
+    {
+      "block_position": 1,
+      "query": "How much does military life insurance pay for suicidal death",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=How+much+does+military+life+insurance+pay+for+suicidal+death&sa=X&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+much+does+military+life+insurance+pay+for+suicidal+death"
+    },
+    {
+      "block_position": 1,
+      "query": "VGLI",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=VGLI&sa=X&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=VGLI"
+    },
+    {
+      "block_position": 1,
+      "query": "Military life insurance after retirement",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+life+insurance+after+retirement&sa=X&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+life+insurance+after+retirement"
+    },
+    {
+      "block_position": 1,
+      "query": "Is SGLI whole life insurance",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Is+SGLI+whole+life+insurance&sa=X&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Is+SGLI+whole+life+insurance"
+    },
+    {
+      "block_position": 1,
+      "query": "VGLI Life Insurance",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=VGLI+Life+Insurance&sa=X&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=VGLI+Life+Insurance"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=SGLI+life+insurance+calculator+military&sca_esv=c510ba4e6526f391&ei=ZSA6asjCEIjZqtsP_MnP6QI&start=10&sa=N&sstk=AU9db-Axk3TqZQGAJjdOUy0gvBg5RPR63UYZUulWV_dW8uJK1zsrWY0KHdXa2mQB478ODvQebc_FDn8lezxZlFQTJp_y97ExuGpiEA&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q8NMDegQIMRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=SGLI+life+insurance+calculator+military&sca_esv=c510ba4e6526f391&ei=ZSA6asjCEIjZqtsP_MnP6QI&start=10&sa=N&sstk=AU9db-Axk3TqZQGAJjdOUy0gvBg5RPR63UYZUulWV_dW8uJK1zsrWY0KHdXa2mQB478ODvQebc_FDn8lezxZlFQTJp_y97ExuGpiEA&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q8tMDegQIMRAE",
+      "3": "https://www.google.com/search?q=SGLI+life+insurance+calculator+military&sca_esv=c510ba4e6526f391&ei=ZSA6asjCEIjZqtsP_MnP6QI&start=20&sa=N&sstk=AU9db-Axk3TqZQGAJjdOUy0gvBg5RPR63UYZUulWV_dW8uJK1zsrWY0KHdXa2mQB478ODvQebc_FDn8lezxZlFQTJp_y97ExuGpiEA&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q8tMDegQIMRAG",
+      "4": "https://www.google.com/search?q=SGLI+life+insurance+calculator+military&sca_esv=c510ba4e6526f391&ei=ZSA6asjCEIjZqtsP_MnP6QI&start=30&sa=N&sstk=AU9db-Axk3TqZQGAJjdOUy0gvBg5RPR63UYZUulWV_dW8uJK1zsrWY0KHdXa2mQB478ODvQebc_FDn8lezxZlFQTJp_y97ExuGpiEA&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q8tMDegQIMRAI",
+      "5": "https://www.google.com/search?q=SGLI+life+insurance+calculator+military&sca_esv=c510ba4e6526f391&ei=ZSA6asjCEIjZqtsP_MnP6QI&start=40&sa=N&sstk=AU9db-Axk3TqZQGAJjdOUy0gvBg5RPR63UYZUulWV_dW8uJK1zsrWY0KHdXa2mQB478ODvQebc_FDn8lezxZlFQTJp_y97ExuGpiEA&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q8tMDegQIMRAK",
+      "6": "https://www.google.com/search?q=SGLI+life+insurance+calculator+military&sca_esv=c510ba4e6526f391&ei=ZSA6asjCEIjZqtsP_MnP6QI&start=50&sa=N&sstk=AU9db-Axk3TqZQGAJjdOUy0gvBg5RPR63UYZUulWV_dW8uJK1zsrWY0KHdXa2mQB478ODvQebc_FDn8lezxZlFQTJp_y97ExuGpiEA&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q8tMDegQIMRAM",
+      "7": "https://www.google.com/search?q=SGLI+life+insurance+calculator+military&sca_esv=c510ba4e6526f391&ei=ZSA6asjCEIjZqtsP_MnP6QI&start=60&sa=N&sstk=AU9db-Axk3TqZQGAJjdOUy0gvBg5RPR63UYZUulWV_dW8uJK1zsrWY0KHdXa2mQB478ODvQebc_FDn8lezxZlFQTJp_y97ExuGpiEA&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q8tMDegQIMRAO",
+      "8": "https://www.google.com/search?q=SGLI+life+insurance+calculator+military&sca_esv=c510ba4e6526f391&ei=ZSA6asjCEIjZqtsP_MnP6QI&start=70&sa=N&sstk=AU9db-Axk3TqZQGAJjdOUy0gvBg5RPR63UYZUulWV_dW8uJK1zsrWY0KHdXa2mQB478ODvQebc_FDn8lezxZlFQTJp_y97ExuGpiEA&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q8tMDegQIMRAQ",
+      "9": "https://www.google.com/search?q=SGLI+life+insurance+calculator+military&sca_esv=c510ba4e6526f391&ei=ZSA6asjCEIjZqtsP_MnP6QI&start=80&sa=N&sstk=AU9db-Axk3TqZQGAJjdOUy0gvBg5RPR63UYZUulWV_dW8uJK1zsrWY0KHdXa2mQB478ODvQebc_FDn8lezxZlFQTJp_y97ExuGpiEA&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q8tMDegQIMRAS",
+      "10": "https://www.google.com/search?q=SGLI+life+insurance+calculator+military&sca_esv=c510ba4e6526f391&ei=ZSA6asjCEIjZqtsP_MnP6QI&start=90&sa=N&sstk=AU9db-Axk3TqZQGAJjdOUy0gvBg5RPR63UYZUulWV_dW8uJK1zsrWY0KHdXa2mQB478ODvQebc_FDn8lezxZlFQTJp_y97ExuGpiEA&ved=2ahUKEwiIicWG15yVAxWIrGoFHfzkMy0Q8tMDegQIMRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SGLI+life+insurance+calculator+military&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SGLI+life+insurance+calculator+military&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SGLI+life+insurance+calculator+military&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SGLI+life+insurance+calculator+military&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SGLI+life+insurance+calculator+military&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SGLI+life+insurance+calculator+military&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SGLI+life+insurance+calculator+military&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SGLI+life+insurance+calculator+military&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SGLI+life+insurance+calculator+military&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SGLI+life+insurance+calculator+military&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SGLI+life+insurance+calculator+military&start=90"
+    }
+  }
+}

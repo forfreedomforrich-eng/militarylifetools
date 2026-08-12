@@ -1,0 +1,416 @@
+{
+  "search_metadata": {
+    "id": "6a3a21c0f05275a1664caf8b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/TYW3fkf0PoSZqF47Xe-fhQ/6a3a21c0f05275a1664caf8b.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/TYW3fkf0PoSZqF47Xe-fhQ/6a3a21c0f05275a1664caf8b.json_with_pixel_position",
+    "created_at": "2026-06-23 06:03:44 UTC",
+    "processed_at": "2026-06-23 06:03:44 UTC",
+    "google_url": "https://www.google.com/search?q=military+gpa+converter+civilian&oq=military+gpa+converter+civilian&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/TYW3fkf0PoSZqF47Xe-fhQ/6a3a21c0f05275a1664caf8b.html",
+    "total_time_taken": 0.88
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military gpa converter civilian",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military gpa converter civilian",
+    "total_results": 67000,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What military grade is a GS-13 equivalent to?",
+      "type": "ai_overview",
+      "page_token": "yN80WXicHdBdaoMwAABgdpk-zj_qoFAGTqOVGjGa-PMyNNraJhqnabW-7S471U6zshN88H3_8EvPfl_urZTDtFOUeZ5fz0KcefNKRaeU06OnCi05r0rKduabqb2f6N65HayPr4MV4WEgNlJjtu0Jg1nlyqDEvkUSqDd2JOMuULG6bBuvdaEd6IkNwoYAgq_QzdlyP2aDKEjRxkzMgTdMDbFkpssBAd-JVH4LPBBiTtdSw5I42nhMQRgYLUocAqFGJWXaCD1g5h3KK80yj8QHMauLYM0l5GikhmXS1I8TApOSwQF5yEqzQMsz7kZdMWar70KHzUnqY9QTAnkdZgYwnLY2IhXreZbrDeNXmoCl9mBEOyQrgyO6iEuE0UqvvMMPTdT6Ip6eW_XEISoXT1-lzJ_izi-hW6jFvDnR-97Y_H_uP0-d3A2jOP8BMIuD8g",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yN80WXicHdBdaoMwAABgdpk-zj_qoFAGTqOVGjGa-PMyNNraJhqnabW-7S471U6zshN88H3_8EvPfl_urZTDtFOUeZ5fz0KcefNKRaeU06OnCi05r0rKduabqb2f6N65HayPr4MV4WEgNlJjtu0Jg1nlyqDEvkUSqDd2JOMuULG6bBuvdaEd6IkNwoYAgq_QzdlyP2aDKEjRxkzMgTdMDbFkpssBAd-JVH4LPBBiTtdSw5I42nhMQRgYLUocAqFGJWXaCD1g5h3KK80yj8QHMauLYM0l5GikhmXS1I8TApOSwQF5yEqzQMsz7kZdMWar70KHzUnqY9QTAnkdZgYwnLY2IhXreZbrDeNXmoCl9mBEOyQrgyO6iEuE0UqvvMMPTdT6Ip6eW_XEISoXT1-lzJ_izi-hW6jFvDnR-97Y_H_uP0-d3A2jOP8BMIuD8g",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUk5iRGRNUjJWM2NYRlhORGh4U25WemF6TTJhazh5YkV4MlZtRm9iVWR3YVhaYVYzQkVVbFk1Y2xWbFZsODVPRzlJTlhsR04wMTJXaTFSTWw4MmVqRXpia3BzY0ZsRlQxUlVUV1k0UWs4dFYzUXRha0ZEV1Y5TWR4SVhkME5GTm1GMk5ucEpZM0V4Y1hSelVISmtiVzk1VVhNYUlrRkVjM0k1WmxKSFJYWkNYM051TkRSa1JIZExjRWRQU1hGdGFWUlhUV1pPYzNjIiwiZmN2IjoiMyIsImVpIjoid0NFNmF2NnpJY3ExcXRzUHJkbW95UXMiLCJxYyI6IkNoOXRhV3hwZEdGeWVTQm5jR0VnWTI5dWRtVnlkR1Z5SUdOcGRtbHNhV0Z1RUFCOTNpd01QdyIsInF1ZXN0aW9uIjoiV2hhdCBtaWxpdGFyeSBncmFkZSBpcyBhIEdTLTEzIGVxdWl2YWxlbnQgdG8/IiwibGsiOiJHaXgzYUdGMElHMXBiR2wwWVhKNUlHZHlZV1JsSUdseklHRWdaM01nTVRNZ1pYRjFhWFpoYkdWdWRDQjBidyIsImJzIjoiYy1PSzU5SU56MGdzVWNqTnpNa3NTU3lxVkVndlNreEpWY2dzVmtoVWNBX1dOVFJXU0Mwc3pTeEx6RW5OSzFFb3liYzMwcFBTS2NlbEliMVlBVjBEVnphWE1kaUM1TXd5b0k3RVBJUjZGSFVJODRvUzg3THRqVXlrak1wSjFzWmx4Q1VMdGd6cWZBVnpkTmNMU3ZFREhZa3N6SlhJcFllc1I5ZlFCTTJLekR5RmtveFV1RTMyUnZwU3V1VndIU0FfRTlBaHdBZ0EiLCJpZCI6ImZjX3dDRTZhdjZ6SWNxMXF0c1ByZG1veVFzXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUk5iRGRNUjJWM2NYRlhORGh4U25WemF6TTJhazh5YkV4MlZtRm9iVWR3YVhaYVYzQkVVbFk1Y2xWbFZsODVPRzlJTlhsR04wMTJXaTFSTWw4MmVqRXpia3BzY0ZsRlQxUlVUV1k0UWs4dFYzUXRha0ZEV1Y5TWR4SVhkME5GTm1GMk5ucEpZM0V4Y1hSelVISmtiVzk1VVhNYUlrRkVjM0k1WmxKSFJYWkNYM051TkRSa1JIZExjRWRQU1hGdGFWUlhUV1pPYzNjIiwiZmN2IjoiMyIsImVpIjoid0NFNmF2NnpJY3ExcXRzUHJkbW95UXMiLCJxYyI6IkNoOXRhV3hwZEdGeWVTQm5jR0VnWTI5dWRtVnlkR1Z5SUdOcGRtbHNhV0Z1RUFCOTNpd01QdyIsInF1ZXN0aW9uIjoiV2hhdCBtaWxpdGFyeSBncmFkZSBpcyBhIEdTLTEzIGVxdWl2YWxlbnQgdG8%2FIiwibGsiOiJHaXgzYUdGMElHMXBiR2wwWVhKNUlHZHlZV1JsSUdseklHRWdaM01nTVRNZ1pYRjFhWFpoYkdWdWRDQjBidyIsImJzIjoiYy1PSzU5SU56MGdzVWNqTnpNa3NTU3lxVkVndlNreEpWY2dzVmtoVWNBX1dOVFJXU0Mwc3pTeEx6RW5OSzFFb3liYzMwcFBTS2NlbEliMVlBVjBEVnphWE1kaUM1TXd5b0k3RVBJUjZGSFVJODRvUzg3THRqVXlrak1wSjFzWmx4Q1VMdGd6cWZBVnpkTmNMU3ZFREhZa3N6SlhJcFllc1I5ZlFCTTJLekR5RmtveFV1RTMyUnZwU3V1VndIU0FfRTlBaHdBZ0EiLCJpZCI6ImZjX3dDRTZhdjZ6SWNxMXF0c1ByZG1veVFzXzIifQ%3D%3D"
+    },
+    {
+      "question": "What civilian grade is equivalent to military rank?",
+      "type": "ai_overview",
+      "page_token": "dyuvk3icHdDbboIwAIDh7GW8VA7qoolZghYRZx21B9qbBQuK0kJVFORu77Kn2tNs2e2f7-r_-lansvh5eeR1bW7TwaBpmv6xqo4q68tKD5Lbs5QDmSi1T2QxHb-O7beDnIH7yptfVl5EjKELZGHfKMjaOY4V3gJBEMtDGoiWFWq9CSjLtELYsYaQAjfVBjKGrjJIO1aEjDurjix8ipaT0w6AESekgX-Kd2LJ9WidUFHxWJmICYFcL9_QcIjsyto59S0rTYdiYUTg5xs9abD24w1GlwwAixdQ_fX3LUYhI01NsXB3ZGSEL55cmxha8EoWx5o6MEZWaxixq9RWCpa-B_LUjSzi8Jg7WaHOEvttGsBIalTvXYVkW50igjp5VproUULA5IMSO5dneM30ZMsC7ooyvGN9s9HS2CTqHeRj5vb-f84-D7qemmt1_AWfs4QI",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dyuvk3icHdDbboIwAIDh7GW8VA7qoolZghYRZx21B9qbBQuK0kJVFORu77Kn2tNs2e2f7-r_-lansvh5eeR1bW7TwaBpmv6xqo4q68tKD5Lbs5QDmSi1T2QxHb-O7beDnIH7yptfVl5EjKELZGHfKMjaOY4V3gJBEMtDGoiWFWq9CSjLtELYsYaQAjfVBjKGrjJIO1aEjDurjix8ipaT0w6AESekgX-Kd2LJ9WidUFHxWJmICYFcL9_QcIjsyto59S0rTYdiYUTg5xs9abD24w1GlwwAixdQ_fX3LUYhI01NsXB3ZGSEL55cmxha8EoWx5o6MEZWaxixq9RWCpa-B_LUjSzi8Jg7WaHOEvttGsBIalTvXYVkW50igjp5VproUULA5IMSO5dneM30ZMsC7ooyvGN9s9HS2CTqHeRj5vb-f84-D7qemmt1_AWfs4QI",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUk5iRGRNUjJWM2NYRlhORGh4U25WemF6TTJhazh5YkV4MlZtRm9iVWR3YVhaYVYzQkVVbFk1Y2xWbFZsODVPRzlJTlhsR04wMTJXaTFSTWw4MmVqRXpia3BzY0ZsRlQxUlVUV1k0UWs4dFYzUXRha0ZEV1Y5TWR4SVhkME5GTm1GMk5ucEpZM0V4Y1hSelVISmtiVzk1VVhNYUlrRkVjM0k1WmxKSFJYWkNYM051TkRSa1JIZExjRWRQU1hGdGFWUlhUV1pPYzNjIiwiZmN2IjoiMyIsImVpIjoid0NFNmF2NnpJY3ExcXRzUHJkbW95UXMiLCJxYyI6IkNoOXRhV3hwZEdGeWVTQm5jR0VnWTI5dWRtVnlkR1Z5SUdOcGRtbHNhV0Z1RUFCOTNpd01QdyIsInF1ZXN0aW9uIjoiV2hhdCBjaXZpbGlhbiBncmFkZSBpcyBlcXVpdmFsZW50IHRvIG1pbGl0YXJ5IHJhbms/IiwibGsiOiJHakozYUdGMElHTnBkbWxzYVdGdUlHZHlZV1JsSUdseklHVnhkV2wyWVd4bGJuUWdkRzhnYldsc2FYUmhjbmtnY21GdWF3IiwiYnMiOiJjLU9LNTlJTnowZ3NVY2pOek1rc1NTeXFWRWd2U2t4SlZjZ3NWa2hVY0FfV05UUldTQzBzelN4THpFbk5LMUVveWJjMzBwUFNLY2VsSWIxWUFWMERWemFYTWRpQzVNd3lvSTdFUElSNkZIVUk4NG9TODdMdGpVeWtqTXBKMXNabHhDVUx0Z3pxZkFWemROY0xTdkVESFlrc3pKWElwWWVzUjlmUUJNMkt6RHlGa294VXVFMzJSdnBTdXVWd0hTQV9FOUFod0FnQSIsImlkIjoiZmNfd0NFNmF2NnpJY3ExcXRzUHJkbW95UXNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUk5iRGRNUjJWM2NYRlhORGh4U25WemF6TTJhazh5YkV4MlZtRm9iVWR3YVhaYVYzQkVVbFk1Y2xWbFZsODVPRzlJTlhsR04wMTJXaTFSTWw4MmVqRXpia3BzY0ZsRlQxUlVUV1k0UWs4dFYzUXRha0ZEV1Y5TWR4SVhkME5GTm1GMk5ucEpZM0V4Y1hSelVISmtiVzk1VVhNYUlrRkVjM0k1WmxKSFJYWkNYM051TkRSa1JIZExjRWRQU1hGdGFWUlhUV1pPYzNjIiwiZmN2IjoiMyIsImVpIjoid0NFNmF2NnpJY3ExcXRzUHJkbW95UXMiLCJxYyI6IkNoOXRhV3hwZEdGeWVTQm5jR0VnWTI5dWRtVnlkR1Z5SUdOcGRtbHNhV0Z1RUFCOTNpd01QdyIsInF1ZXN0aW9uIjoiV2hhdCBjaXZpbGlhbiBncmFkZSBpcyBlcXVpdmFsZW50IHRvIG1pbGl0YXJ5IHJhbms%2FIiwibGsiOiJHakozYUdGMElHTnBkbWxzYVdGdUlHZHlZV1JsSUdseklHVnhkV2wyWVd4bGJuUWdkRzhnYldsc2FYUmhjbmtnY21GdWF3IiwiYnMiOiJjLU9LNTlJTnowZ3NVY2pOek1rc1NTeXFWRWd2U2t4SlZjZ3NWa2hVY0FfV05UUldTQzBzelN4THpFbk5LMUVveWJjMzBwUFNLY2VsSWIxWUFWMERWemFYTWRpQzVNd3lvSTdFUElSNkZIVUk4NG9TODdMdGpVeWtqTXBKMXNabHhDVUx0Z3pxZkFWemROY0xTdkVESFlrc3pKWElwWWVzUjlmUUJNMkt6RHlGa294VXVFMzJSdnBTdXVWd0hTQV9FOUFod0FnQSIsImlkIjoiZmNfd0NFNmF2NnpJY3ExcXRzUHJkbW95UXNfMiJ9"
+    },
+    {
+      "question": "What is a GS 7 equivalent to?",
+      "type": "ai_overview",
+      "page_token": "r7_VwXicHdBbToNAFADQuJl-FgYaTJs0Rgq0okzDPC51fgzMlFIYHgqRwp97cVWuRuMKTnK-vvW1qX7uTsUwdP3GMMZxXF7a9qLPS9nWRtpPjTRkqnWWymrj3DvoIZdbvx_dXTu6Me868IhJTTURpB2sIVBzNMCM57TRDVj-SGwVCY0ZP6gprvCBWiE6AobE0zGzQyGsgJFS-XR-HHDp5hKtX6i_no8AK1IWq2SHQspRD35vQ0O8jAk78YuZga4lh6fI04mogMW16NN6sMH2RwA1Axc9Z3w4-uodI1HJRuXKc2lWhjeS9DSwlUeYKFQpHJrgW3QKTIncSezR5xmCeX8NXXLA0zERjOvuObbWadxoQq3ulFlB8iekPHg1aU1oikizyOXn1l78j23f8nrYdB_t5Re8xnlS",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=r7_VwXicHdBbToNAFADQuJl-FgYaTJs0Rgq0okzDPC51fgzMlFIYHgqRwp97cVWuRuMKTnK-vvW1qX7uTsUwdP3GMMZxXF7a9qLPS9nWRtpPjTRkqnWWymrj3DvoIZdbvx_dXTu6Me868IhJTTURpB2sIVBzNMCM57TRDVj-SGwVCY0ZP6gprvCBWiE6AobE0zGzQyGsgJFS-XR-HHDp5hKtX6i_no8AK1IWq2SHQspRD35vQ0O8jAk78YuZga4lh6fI04mogMW16NN6sMH2RwA1Axc9Z3w4-uodI1HJRuXKc2lWhjeS9DSwlUeYKFQpHJrgW3QKTIncSezR5xmCeX8NXXLA0zERjOvuObbWadxoQq3ulFlB8iekPHg1aU1oikizyOXn1l78j23f8nrYdB_t5Re8xnlS",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUk5iRGRNUjJWM2NYRlhORGh4U25WemF6TTJhazh5YkV4MlZtRm9iVWR3YVhaYVYzQkVVbFk1Y2xWbFZsODVPRzlJTlhsR04wMTJXaTFSTWw4MmVqRXpia3BzY0ZsRlQxUlVUV1k0UWs4dFYzUXRha0ZEV1Y5TWR4SVhkME5GTm1GMk5ucEpZM0V4Y1hSelVISmtiVzk1VVhNYUlrRkVjM0k1WmxKSFJYWkNYM051TkRSa1JIZExjRWRQU1hGdGFWUlhUV1pPYzNjIiwiZmN2IjoiMyIsImVpIjoid0NFNmF2NnpJY3ExcXRzUHJkbW95UXMiLCJxYyI6IkNoOXRhV3hwZEdGeWVTQm5jR0VnWTI5dWRtVnlkR1Z5SUdOcGRtbHNhV0Z1RUFCOTNpd01QdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIEdTIDcgZXF1aXZhbGVudCB0bz8iLCJsayI6IkdnOW5jeUEzSUdWeGRXbDJZV3hsYm5RIiwiYnMiOiJjLU9LNTlJTnowZ3NVY2pOek1rc1NTeXFWRWd2U2t4SlZjZ3NWa2hVY0FfV05UUldTQzBzelN4THpFbk5LMUVveWJjMzBwUFNLY2VsSWIxWUFWMERWemFYTWRpQzVNd3lvSTdFUElSNkZIVUk4NG9TODdMdGpVeWtqTXBKMXNabHhDVUx0Z3pxZkFWemROY0xTdkVESFlrc3pKWElwWWVzUjlmUUJNMkt6RHlGa294VXVFMzJSdnBTdXVWd0hTQV9FOUFod0FnQSIsImlkIjoiZmNfd0NFNmF2NnpJY3ExcXRzUHJkbW95UXNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUk5iRGRNUjJWM2NYRlhORGh4U25WemF6TTJhazh5YkV4MlZtRm9iVWR3YVhaYVYzQkVVbFk1Y2xWbFZsODVPRzlJTlhsR04wMTJXaTFSTWw4MmVqRXpia3BzY0ZsRlQxUlVUV1k0UWs4dFYzUXRha0ZEV1Y5TWR4SVhkME5GTm1GMk5ucEpZM0V4Y1hSelVISmtiVzk1VVhNYUlrRkVjM0k1WmxKSFJYWkNYM051TkRSa1JIZExjRWRQU1hGdGFWUlhUV1pPYzNjIiwiZmN2IjoiMyIsImVpIjoid0NFNmF2NnpJY3ExcXRzUHJkbW95UXMiLCJxYyI6IkNoOXRhV3hwZEdGeWVTQm5jR0VnWTI5dWRtVnlkR1Z5SUdOcGRtbHNhV0Z1RUFCOTNpd01QdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIEdTIDcgZXF1aXZhbGVudCB0bz8iLCJsayI6IkdnOW5jeUEzSUdWeGRXbDJZV3hsYm5RIiwiYnMiOiJjLU9LNTlJTnowZ3NVY2pOek1rc1NTeXFWRWd2U2t4SlZjZ3NWa2hVY0FfV05UUldTQzBzelN4THpFbk5LMUVveWJjMzBwUFNLY2VsSWIxWUFWMERWemFYTWRpQzVNd3lvSTdFUElSNkZIVUk4NG9TODdMdGpVeWtqTXBKMXNabHhDVUx0Z3pxZkFWemROY0xTdkVESFlrc3pKWElwWWVzUjlmUUJNMkt6RHlGa294VXVFMzJSdnBTdXVWd0hTQV9FOUFod0FnQSIsImlkIjoiZmNfd0NFNmF2NnpJY3ExcXRzUHJkbW95UXNfMiJ9"
+    },
+    {
+      "question": "What is a GS-14 equivalent to in the military?",
+      "type": "ai_overview",
+      "page_token": "i9ijo3icHdBRbpswAABQ9TL9bDCkmRYpmkRqJ6HBrQ02iX8msCEG2-C2tCT87S471U6zaSd40vv127a9-XP3pcfRf6wXi2maHi7DcLH1gxzcovy49XIhS2urUpr16tsK_GjkBn4e4u3bISbMe_5Eg8woUAL8XBY0xu4xzSJ9w_Ca8N34_AJVxh1ZVlAnVaeLiidp4WRQFYdZbYEWUayzDncitG39lDi1N9Mxj9Oq569FToKy0-HxpNP8dA4FMDcWeU4i31BoMzqnYdWrt7PFB-GETlvgKUridMZNCvlwnsnt5eTRsRiNmFHIEQZspgJzFDOItwXkjwL5uYa8rXeKlgED2IwUahWRgIXnf2ZtbCdzdFV7TKSjYxVZKq9DSxidZWcd3ycoL8adiuSS7dASAxHj8PuxDNFKnihhRvdium_k1ya6__-5-dm4ce3fh8tfL2KC-g",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=i9ijo3icHdBRbpswAABQ9TL9bDCkmRYpmkRqJ6HBrQ02iX8msCEG2-C2tCT87S471U6zaSd40vv127a9-XP3pcfRf6wXi2maHi7DcLH1gxzcovy49XIhS2urUpr16tsK_GjkBn4e4u3bISbMe_5Eg8woUAL8XBY0xu4xzSJ9w_Ca8N34_AJVxh1ZVlAnVaeLiidp4WRQFYdZbYEWUayzDncitG39lDi1N9Mxj9Oq569FToKy0-HxpNP8dA4FMDcWeU4i31BoMzqnYdWrt7PFB-GETlvgKUridMZNCvlwnsnt5eTRsRiNmFHIEQZspgJzFDOItwXkjwL5uYa8rXeKlgED2IwUahWRgIXnf2ZtbCdzdFV7TKSjYxVZKq9DSxidZWcd3ycoL8adiuSS7dASAxHj8PuxDNFKnihhRvdium_k1ya6__-5-dm4ce3fh8tfL2KC-g",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUk5iRGRNUjJWM2NYRlhORGh4U25WemF6TTJhazh5YkV4MlZtRm9iVWR3YVhaYVYzQkVVbFk1Y2xWbFZsODVPRzlJTlhsR04wMTJXaTFSTWw4MmVqRXpia3BzY0ZsRlQxUlVUV1k0UWs4dFYzUXRha0ZEV1Y5TWR4SVhkME5GTm1GMk5ucEpZM0V4Y1hSelVISmtiVzk1VVhNYUlrRkVjM0k1WmxKSFJYWkNYM051TkRSa1JIZExjRWRQU1hGdGFWUlhUV1pPYzNjIiwiZmN2IjoiMyIsImVpIjoid0NFNmF2NnpJY3ExcXRzUHJkbW95UXMiLCJxYyI6IkNoOXRhV3hwZEdGeWVTQm5jR0VnWTI5dWRtVnlkR1Z5SUdOcGRtbHNhV0Z1RUFCOTNpd01QdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIEdTLTE0IGVxdWl2YWxlbnQgdG8gaW4gdGhlIG1pbGl0YXJ5PyIsImxrIjoiR2kxM2FHRjBJR2x6SUdFZ1ozTWdNVFFnWlhGMWFYWmhiR1Z1ZENCMGJ5QnBiaUIwYUdVZ2JXbHNhWFJoY25rIiwiYnMiOiJjLU9LNTlJTnowZ3NVY2pOek1rc1NTeXFWRWd2U2t4SlZjZ3NWa2hVY0FfV05UUldTQzBzelN4THpFbk5LMUVveWJjMzBwUFNLY2VsSWIxWUFWMERWemFYTWRpQzVNd3lvSTdFUElSNkZIVUk4NG9TODdMdGpVeWtqTXBKMXNabHhDVUx0Z3pxZkFWemROY0xTdkVESFlrc3pKWElwWWVzUjlmUUJNMkt6RHlGa294VXVFMzJSdnBTdXVWd0hTQV9FOUFod0FnQSIsImlkIjoiZmNfd0NFNmF2NnpJY3ExcXRzUHJkbW95UXNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTExXUk5iRGRNUjJWM2NYRlhORGh4U25WemF6TTJhazh5YkV4MlZtRm9iVWR3YVhaYVYzQkVVbFk1Y2xWbFZsODVPRzlJTlhsR04wMTJXaTFSTWw4MmVqRXpia3BzY0ZsRlQxUlVUV1k0UWs4dFYzUXRha0ZEV1Y5TWR4SVhkME5GTm1GMk5ucEpZM0V4Y1hSelVISmtiVzk1VVhNYUlrRkVjM0k1WmxKSFJYWkNYM051TkRSa1JIZExjRWRQU1hGdGFWUlhUV1pPYzNjIiwiZmN2IjoiMyIsImVpIjoid0NFNmF2NnpJY3ExcXRzUHJkbW95UXMiLCJxYyI6IkNoOXRhV3hwZEdGeWVTQm5jR0VnWTI5dWRtVnlkR1Z5SUdOcGRtbHNhV0Z1RUFCOTNpd01QdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIEdTLTE0IGVxdWl2YWxlbnQgdG8gaW4gdGhlIG1pbGl0YXJ5PyIsImxrIjoiR2kxM2FHRjBJR2x6SUdFZ1ozTWdNVFFnWlhGMWFYWmhiR1Z1ZENCMGJ5QnBiaUIwYUdVZ2JXbHNhWFJoY25rIiwiYnMiOiJjLU9LNTlJTnowZ3NVY2pOek1rc1NTeXFWRWd2U2t4SlZjZ3NWa2hVY0FfV05UUldTQzBzelN4THpFbk5LMUVveWJjMzBwUFNLY2VsSWIxWUFWMERWemFYTWRpQzVNd3lvSTdFUElSNkZIVUk4NG9TODdMdGpVeWtqTXBKMXNabHhDVUx0Z3pxZkFWemROY0xTdkVESFlrc3pKWElwWWVzUjlmUUJNMkt6RHlGa294VXVFMzJSdnBTdXVWd0hTQV9FOUFod0FnQSIsImlkIjoiZmNfd0NFNmF2NnpJY3ExcXRzUHJkbW95UXNfMiJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "Ap3fgXicxVZbc7I4GL7f_7HetBXwhHSG-SZEVDxT69faGwYBo5yihEr1bv_L_qq92N-yAUHRYjv7zexsHBIS8h7zPnn840937Tt__fb3Kgw35JFhoigqI4yRa5UN7DE62fsGs8QuCYzVj_1OrJYMIrIlay1GUG7ou8ZBMbbcNiSTwPTwXiWlRETUFjqxbKrxwyaMxtDO-b3aopMyKVt-2QVqCwXeWJ4q5QrLCeUxo3t0A_gPmwwUFI8K_cnJ_LpJ9Lv6nRYIIO1Rbgnl-rS1YjMAQJgMAN_SJiVeQCDJsV1JGwpNOhy3t9AtKQCml9OXxDMQxQppCHJhEEXqsrXMQemGvWJXEjOzdFLLffic2rjRbOTT26dqa8AA4CldGGf78uYQkkErW-9G46E0lp--OiQafGcIms4EKl_sir1XgqidvkejOTXKmIjWIMssAjpwzNpYGclLQOLShM8Ci7uDfrWqYhvyDcGuT5f1j_ZG8LqWicaIMRZ0n4t10zK1lcb-SOZchauzQpVv3ieYMMgJFCQPCjScD6L3iFMe5PKgLHE5RCTRKhdnQDNJa6Y4rn7SX5wkzF6SokxUwU8SsUwl3nDWKz3vY-vDLEvxEc2kT3mNbRUgImfzbDytXNg-B3apSUnN56OToiuLZwNpKcxBXz2FLNPphXN5ZRJwkjugky2cdcdakZtcEDEi5FTh-EIe5R2LbxIVSSfLat67ek4IASnJuL2nXQ9gmN1CsYiSJqEfe5ev7c41kgh1haAbB_9du3kL5fzMav-qlPMQ6Dhv0Nn6JvvmWz_hvI2s-ZJyxdNLsALFJY-9xb8gAuP_BUVGE_30gNqFoFC_AYUMpS9p4ri9dQJFMt_eAoWkFNHE8cY908RnUEwvQXGbJnKgQGlUea3XoJBugAKlsRWAYlYACqcQFClN5ECxqqkXNHE0dqKJDBS_RBO7X6GJBCLWcbjkjHcb3eSOzsLEB4_bSm_vvDGo-cOeTLb26Cd6CKNvuWPphY-ebrr32tp8lCq9cG_ea3QBP1pmaSt6a3cd6sH-Dm30OwP7OysIreDOWO_oB90veW6ARVbnSc1fTF-nIy10tOcNFJqO3fsYNVahvOX2aMK7_a7VrPKvm6BqDpRO0wmJj1cb6AgR4mvN9aAqHQ5C3YYyCQ5ht-UpmoE19almhjOtAyY633FM1jb4Dx4HywlPnr2KPRlr6uv21VlW7Ye1676rlR422y3lrRIljhFx1ZoqvTrNoz8r0aCIJXIlLzBEWgo1BEYqeEH0nwKcAxUi-mD6RLRISsTQNYvsRKPOsQu9ZjXqlcayKlBhFO43osCWiB-I3D_fJxlo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ap3fgXicxVZbc7I4GL7f_7HetBXwhHSG-SZEVDxT69faGwYBo5yihEr1bv_L_qq92N-yAUHRYjv7zexsHBIS8h7zPnn840937Tt__fb3Kgw35JFhoigqI4yRa5UN7DE62fsGs8QuCYzVj_1OrJYMIrIlay1GUG7ou8ZBMbbcNiSTwPTwXiWlRETUFjqxbKrxwyaMxtDO-b3aopMyKVt-2QVqCwXeWJ4q5QrLCeUxo3t0A_gPmwwUFI8K_cnJ_LpJ9Lv6nRYIIO1Rbgnl-rS1YjMAQJgMAN_SJiVeQCDJsV1JGwpNOhy3t9AtKQCml9OXxDMQxQppCHJhEEXqsrXMQemGvWJXEjOzdFLLffic2rjRbOTT26dqa8AA4CldGGf78uYQkkErW-9G46E0lp--OiQafGcIms4EKl_sir1XgqidvkejOTXKmIjWIMssAjpwzNpYGclLQOLShM8Ci7uDfrWqYhvyDcGuT5f1j_ZG8LqWicaIMRZ0n4t10zK1lcb-SOZchauzQpVv3ieYMMgJFCQPCjScD6L3iFMe5PKgLHE5RCTRKhdnQDNJa6Y4rn7SX5wkzF6SokxUwU8SsUwl3nDWKz3vY-vDLEvxEc2kT3mNbRUgImfzbDytXNg-B3apSUnN56OToiuLZwNpKcxBXz2FLNPphXN5ZRJwkjugky2cdcdakZtcEDEi5FTh-EIe5R2LbxIVSSfLat67ek4IASnJuL2nXQ9gmN1CsYiSJqEfe5ev7c41kgh1haAbB_9du3kL5fzMav-qlPMQ6Dhv0Nn6JvvmWz_hvI2s-ZJyxdNLsALFJY-9xb8gAuP_BUVGE_30gNqFoFC_AYUMpS9p4ri9dQJFMt_eAoWkFNHE8cY908RnUEwvQXGbJnKgQGlUea3XoJBugAKlsRWAYlYACqcQFClN5ECxqqkXNHE0dqKJDBS_RBO7X6GJBCLWcbjkjHcb3eSOzsLEB4_bSm_vvDGo-cOeTLb26Cd6CKNvuWPphY-ebrr32tp8lCq9cG_ea3QBP1pmaSt6a3cd6sH-Dm30OwP7OysIreDOWO_oB90veW6ARVbnSc1fTF-nIy10tOcNFJqO3fsYNVahvOX2aMK7_a7VrPKvm6BqDpRO0wmJj1cb6AgR4mvN9aAqHQ5C3YYyCQ5ht-UpmoE19almhjOtAyY633FM1jb4Dx4HywlPnr2KPRlr6uv21VlW7Ye1676rlR422y3lrRIljhFx1ZoqvTrNoz8r0aCIJXIlLzBEWgo1BEYqeEH0nwKcAxUi-mD6RLRISsTQNYvsRKPOsQu9ZjXqlcayKlBhFO43osCWiB-I3D_fJxlo"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Regular Military Compensation (RMC) Calculator",
+      "link": "https://militarypay.defense.gov/calculators/rmc-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/calculators/rmc-calculator/&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQFnoECCIQAQ",
+      "displayed_link": "https://militarypay.defense.gov › calculators › rmc-calcul...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "This calculator will compute your regular military compensation based on your inputs. Regular military compensation is the approximate amount of an equivalent ...",
+      "snippet_highlighted_words": [
+        "compute your regular military compensation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator will compute your regular military compensation based on your inputs. Regular military compensation is the approximate amount of an equivalent ...",
+          "source_info_link": "https://militarypay.defense.gov/calculators/rmc-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/calculators/rmc-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2Fcalculators%2Frmc-calculator%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/calculators/rmc-calculator/#:~:text=This%20calculator%20will%20compute%20your,of%20an%20equivalent%20civilian%20salary."
+    },
+    {
+      "position": 2,
+      "title": "Civilian vs. Military Pay Calculator",
+      "link": "https://www.schwabmoneywise.com/civilian-vs-military-pay-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.schwabmoneywise.com/civilian-vs-military-pay-calculator&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQFnoECCcQAQ",
+      "displayed_link": "https://www.schwabmoneywise.com › civilian-vs-milita...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAmVBMVEUAnt0AndwAnd0Ant4AndsAmtcAldQAnN4AntwAnd4Am94tp-QAl-D____e8PsAmdyCxexftuUAltthturS5_cAld4Aj9i32vMAouQAn9uh1POn1vKw2vTJ5vm83_Lw9fuTx-cAot4Al-c_sO54vOWx1fNqw-2Cxuvb6foWo9k7reVMsuZ1vetevO5KteT9-PfP3vMAjeGcxu5l7v-QAAABmElEQVR4AT2SBWKEMBBFh-CBnzWKy7r7_Q_XmULzkMibeIgcRymXIeUwnsX3Awq5hogdRZETefJYS6GSpkRKcca2tVI5iomVaMskJyeIttb5bxmH8WhHprajjMOJMUasBPjEWW6okyTUWrMNNSkmdsnxpKUbxylMypL1bI6F5h5ctuRG5OrlClmq05_lcpkXWApl6RJRFZV106JLVj2GoljDhB1gSoY2m3gY-g41-DUGa2SNpPM_Wc2x3QF7DAeuzHxuDprjOMoTGJY4wwz9BWhxBBZjt-7imt4Wt3l6r3-ul0t921xZMC7L8nG8NvXd6BZNc3v2ybFNHvWjLGPaRA-gQzvHLcMRxUv6TFogLUMe847hYfQKt-NmOZzfWGD4bDlAa265BzOfozHdA683zgaZmeQmapqmz7Ksy7K2_s6L4iSFvY5j7rZSswmtx3TJ6NhVVFURWcbLNB09l_hGWUtsBLZ8HZXD0vMih5liJK-UIiWH7fmex-VRi7HwHfJFRoJ11lLAMooqnpfgWaSlyMoiUWOcXNvwF5gAJOMPelSIAAAAAElFTkSuQmCC.png",
+      "snippet": "This calculator can help you better understand how much you'll need to earn as a civilian to realize the same take-home pay you had in the military.",
+      "snippet_highlighted_words": [
+        "how much you'll need to earn as a civilian"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator can help you better understand how much you'll need to earn as a civilian to realize the same take-home pay you had in the military.",
+          "source_info_link": "https://www.schwabmoneywise.com/civilian-vs-military-pay-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAmVBMVEUAnt0AndwAnd0Ant4AndsAmtcAldQAnN4AntwAnd4Am94tp-QAl-D____e8PsAmdyCxexftuUAltthturS5_cAld4Aj9i32vMAouQAn9uh1POn1vKw2vTJ5vm83_Lw9fuTx-cAot4Al-c_sO54vOWx1fNqw-2Cxuvb6foWo9k7reVMsuZ1vetevO5KteT9-PfP3vMAjeGcxu5l7v-QAAABmElEQVR4AT2SBWKEMBBFh-CBnzWKy7r7_Q_XmULzkMibeIgcRymXIeUwnsX3Awq5hogdRZETefJYS6GSpkRKcca2tVI5iomVaMskJyeIttb5bxmH8WhHprajjMOJMUasBPjEWW6okyTUWrMNNSkmdsnxpKUbxylMypL1bI6F5h5ctuRG5OrlClmq05_lcpkXWApl6RJRFZV106JLVj2GoljDhB1gSoY2m3gY-g41-DUGa2SNpPM_Wc2x3QF7DAeuzHxuDprjOMoTGJY4wwz9BWhxBBZjt-7imt4Wt3l6r3-ul0t921xZMC7L8nG8NvXd6BZNc3v2ybFNHvWjLGPaRA-gQzvHLcMRxUv6TFogLUMe847hYfQKt-NmOZzfWGD4bDlAa265BzOfozHdA683zgaZmeQmapqmz7Ksy7K2_s6L4iSFvY5j7rZSswmtx3TJ6NhVVFURWcbLNB09l_hGWUtsBLZ8HZXD0vMih5liJK-UIiWH7fmex-VRi7HwHfJFRoJ11lLAMooqnpfgWaSlyMoiUWOcXNvwF5gAJOMPelSIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.schwabmoneywise.com/civilian-vs-military-pay-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.schwabmoneywise.com%2Fcivilian-vs-military-pay-calculator",
+      "source": "Schwab Moneywise",
+      "read_more_link": "https://www.schwabmoneywise.com/civilian-vs-military-pay-calculator#:~:text=If%20you're%20a%20retiring%20or,you%20had%20in%20the%20military."
+    },
+    {
+      "position": 3,
+      "title": "Military Pay Grade, Position, and Degree Equivalency",
+      "link": "https://www.apsu.edu/human-resources/hiring-veterans/rank-and-position-guide.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apsu.edu/human-resources/hiring-veterans/rank-and-position-guide.php&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQFnoECCEQAQ",
+      "displayed_link": "https://www.apsu.edu › ... › Hiring Veterans",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAbCAMAAAAqGX2oAAAAJFBMVEVHcEy7HTq7Hjq7HTq7Hjq7HTq7Hjq7HTq7HTq7HTq7HTq7HjrLtNuVAAAAC3RSTlMAYb6OeEwYM9Gn6ybs1NgAAACoSURBVCiRrZLRFsQQDEQTBOH__3c1SqNkX3bnhSO3IyYF-KMwNCFQmMKo66lecuCrEikgn4D6eGA9AvQyGIBj5nJt0stgAHh_wtOgbAC1Jcx6qBvQ9k-HsWyAl2uG5DBrIDodkhgUXIAlZDkjXHvQBnIB2AD3yEwg9YIN8B2pBQwDE8hjJgZAEqD3LhnAGKP5ig6U-L0HnugBiBj6fxWpKUG6lnUUv-kDiM8Oovp2y9cAAAAASUVORK5CYII.png",
+      "snippet": "Translate your military experience to civilian roles at APSU. Complete guide to military pay-grade-to-degree equivalency, position comparisons, ...",
+      "snippet_highlighted_words": [
+        "military pay-grade-to-degree equivalency"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Translate your military experience to civilian roles at APSU. Complete guide to military pay-grade-to-degree equivalency, position comparisons, ...",
+          "source_info_link": "https://www.apsu.edu/human-resources/hiring-veterans/rank-and-position-guide.php",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAbCAMAAAAqGX2oAAAAJFBMVEVHcEy7HTq7Hjq7HTq7Hjq7HTq7Hjq7HTq7HTq7HTq7HTq7HjrLtNuVAAAAC3RSTlMAYb6OeEwYM9Gn6ybs1NgAAACoSURBVCiRrZLRFsQQDEQTBOH__3c1SqNkX3bnhSO3IyYF-KMwNCFQmMKo66lecuCrEikgn4D6eGA9AvQyGIBj5nJt0stgAHh_wtOgbAC1Jcx6qBvQ9k-HsWyAl2uG5DBrIDodkhgUXIAlZDkjXHvQBnIB2AD3yEwg9YIN8B2pBQwDE8hjJgZAEqD3LhnAGKP5ig6U-L0HnugBiBj6fxWpKUG6lnUUv-kDiM8Oovp2y9cAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.apsu.edu/human-resources/hiring-veterans/rank-and-position-guide.php&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.apsu.edu%2Fhuman-resources%2Fhiring-veterans%2Frank-and-position-guide.php",
+      "source": "Austin Peay State University"
+    },
+    {
+      "position": 4,
+      "title": "What is the civilian salary equivalent of military pay?",
+      "link": "https://www.facebook.com/groups/1503561779729687/posts/25947802384878953/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1503561779729687/posts/25947802384878953/&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQFnoECCkQAQ",
+      "displayed_link": "10+ comments · 4 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "Military-to-Civilian Pay Converter. An E-7 with 10 years \"only\" makes $3,600/month base pay. But add BAH, BAS, tax-free allowances, TRICARE, ...",
+      "snippet_highlighted_words": [
+        "Military",
+        "Civilian",
+        "Converter"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military-to-Civilian Pay Converter. An E-7 with 10 years \"only\" makes $3,600/month base pay. But add BAH, BAS, tax-free allowances, TRICARE, ...",
+          "source_info_link": "https://www.facebook.com/groups/1503561779729687/posts/25947802384878953/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1503561779729687/posts/25947802384878953/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1503561779729687%2Fposts%2F25947802384878953%2F",
+      "source": "Facebook · Veterans Benefits"
+    },
+    {
+      "position": 5,
+      "title": "Schwab Civilian vs. Military Pay Calculator : r/MilitaryFinance",
+      "link": "https://www.reddit.com/r/MilitaryFinance/comments/1dxvpcw/schwab_civilian_vs_military_pay_calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/MilitaryFinance/comments/1dxvpcw/schwab_civilian_vs_military_pay_calculator/&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQFnoECCUQAQ",
+      "displayed_link": "30+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Schwab civ vs mil pay calculator. It generates an even higher civilian salary equivalent than the RMC calculator does. makes the civilian ...",
+      "snippet_highlighted_words": [
+        "Schwab civ vs mil pay calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Schwab civ vs mil pay calculator. It generates an even higher civilian salary equivalent than the RMC calculator does. makes the civilian ...",
+          "source_info_link": "https://www.reddit.com/r/MilitaryFinance/comments/1dxvpcw/schwab_civilian_vs_military_pay_calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/MilitaryFinance/comments/1dxvpcw/schwab_civilian_vs_military_pay_calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FMilitaryFinance%2Fcomments%2F1dxvpcw%2Fschwab_civilian_vs_military_pay_calculator%2F",
+      "source": "Reddit · r/MilitaryFinance"
+    },
+    {
+      "position": 6,
+      "title": "Military to Civilian Occupation Translator",
+      "link": "https://jobs.dvnf.org/military-to-civilian-occupation-translator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jobs.dvnf.org/military-to-civilian-occupation-translator/&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQFnoECDsQAQ",
+      "displayed_link": "https://jobs.dvnf.org › military-to-civilian-occupation-tr...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA21BMVEX____Z2-WSlrKGjbDt7fPx8fYAAFXFxtPAQE-8ABXFITnKRVb--fqFia8AAG329_sxOnMYJmfqzc-pAA6wHDGsABXt1djKydoADm9GVY1iZ4sAGF54eZjiwMKtIDT56-4pN3oIJnMIGluzLECkAB6kABHNhY2LjasAHGyusMgAAFAACGMbLXA8P20AG2YsLWFbXYgUJmm9vMsAD1zmqKgaMGz2xse2AADYkZQ8TYmmpLfLPUTUbm_IWl_cgIOjAAC5Zm-ZAACTABHju72bHC3Wqa_MbHaoJS-UAAD4UnADAAABBklEQVR4AbXMA3IEARQA0V4bw7VtG4Pw_hcKCrvDYvLKH81_CgSxCYV5ikRjAPFEMpUGMtkcFnkhB6Iky4oKhWIJq3KlCjWlXpca0GxlsAq2f8LpTrfXh0FrOMIqMBYqERB_o5PpJIe92xZm_IrMp_MgdrmFUBkALFfTPE7hsRANwDoqbMI4bFmPd7tweCVsAuk9docj1faudNptzlyu2N0OIvnpbicsuUt3ZzbRJbBpNuc59aBssVM1RSezWp2pdzUVB0UxaiyXbLVeB6ej1jUbERpaz3jBpdMzX9PUe4aOW1ozjbd3qfeBF1XrdpWu1sDT28_WEPER7xl9_KifRhpfjQZ_4xuhVxy_e-1XtAAAAABJRU5ErkJggg.png",
+      "snippet": "This tool will help you find the civilian job titles best for your skills. It covers the Marines, Army, Air Force, Coast Guard, and Navy.",
+      "snippet_highlighted_words": [
+        "civilian"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This tool will help you find the civilian job titles best for your skills. It covers the Marines, Army, Air Force, Coast Guard, and Navy.",
+          "source_info_link": "https://jobs.dvnf.org/military-to-civilian-occupation-translator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA21BMVEX____Z2-WSlrKGjbDt7fPx8fYAAFXFxtPAQE-8ABXFITnKRVb--fqFia8AAG329_sxOnMYJmfqzc-pAA6wHDGsABXt1djKydoADm9GVY1iZ4sAGF54eZjiwMKtIDT56-4pN3oIJnMIGluzLECkAB6kABHNhY2LjasAHGyusMgAAFAACGMbLXA8P20AG2YsLWFbXYgUJmm9vMsAD1zmqKgaMGz2xse2AADYkZQ8TYmmpLfLPUTUbm_IWl_cgIOjAAC5Zm-ZAACTABHju72bHC3Wqa_MbHaoJS-UAAD4UnADAAABBklEQVR4AbXMA3IEARQA0V4bw7VtG4Pw_hcKCrvDYvLKH81_CgSxCYV5ikRjAPFEMpUGMtkcFnkhB6Iky4oKhWIJq3KlCjWlXpca0GxlsAq2f8LpTrfXh0FrOMIqMBYqERB_o5PpJIe92xZm_IrMp_MgdrmFUBkALFfTPE7hsRANwDoqbMI4bFmPd7tweCVsAuk9docj1faudNptzlyu2N0OIvnpbicsuUt3ZzbRJbBpNuc59aBssVM1RSezWp2pdzUVB0UxaiyXbLVeB6ej1jUbERpaz3jBpdMzX9PUe4aOW1ozjbd3qfeBF1XrdpWu1sDT28_WEPER7xl9_KifRhpfjQZ_4xuhVxy_e-1XtAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://jobs.dvnf.org/military-to-civilian-occupation-translator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fjobs.dvnf.org%2Fmilitary-to-civilian-occupation-translator%2F",
+      "source": "DVNF National Job Board",
+      "read_more_link": "https://jobs.dvnf.org/military-to-civilian-occupation-translator/#:~:text=This%20tool%20will%20help%20you,Force%2C%20Coast%20Guard%2C%20and%20Navy."
+    },
+    {
+      "position": 7,
+      "title": "Civilian Pay to Equal Military Take Home Pay",
+      "link": "https://www.dinkytown.net/java/MilitaryPay.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dinkytown.net/java/MilitaryPay.html&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQFnoECEYQAQ",
+      "displayed_link": "https://www.dinkytown.net › java › MilitaryPay",
+      "favicon": "https://serpapi.com/searches/6a3a21c0f05275a1664caf8b/images/stS2L6CNqktvn80oqrOkR9HtHHyg8OomKwk_hp0SXxk.png",
+      "snippet": "This calculator was built to help retiring or separating members better understand what civilian salary they'll have to earn to realize the same take-home pay",
+      "snippet_highlighted_words": [
+        "calculator",
+        "civilian"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator was built to help retiring or separating members better understand what civilian salary they'll have to earn to realize the same take-home pay",
+          "source_info_link": "https://www.dinkytown.net/java/MilitaryPay.html",
+          "icon": "https://serpapi.com/searches/6a3a21c0f05275a1664caf8b/images/stS2L6CNqktvn80oqrOkR453zGe2wDJQMBLMVx6xK8mdJT6zPQxm9-BMR0MmaDyT.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.dinkytown.net/java/MilitaryPay.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dinkytown.net%2Fjava%2FMilitaryPay.html",
+      "source": "Dinkytown.net Financial Calculators"
+    },
+    {
+      "position": 8,
+      "title": "How does a military rank correspond to a civilian job title or ...",
+      "link": "https://www.quora.com/How-does-a-military-rank-correspond-to-a-civilian-job-title-or-pay-scale",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/How-does-a-military-rank-correspond-to-a-civilian-job-title-or-pay-scale&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQFnoECEIQAQ",
+      "displayed_link": "2 answers · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+      "snippet": "How does a military rank correspond to a civilian job title or pay scale?",
+      "about_this_result": {
+        "source": {
+          "description": "Military rank does not correspond to a job description. A MOS or military occupational specialty can at times correspond to a civilian job description.",
+          "source_info_link": "https://www.quora.com/How-does-a-military-rank-correspond-to-a-civilian-job-title-or-pay-scale",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/How-does-a-military-rank-correspond-to-a-civilian-job-title-or-pay-scale&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quora.com%2FHow-does-a-military-rank-correspond-to-a-civilian-job-title-or-pay-scale",
+      "source": "Quora"
+    },
+    {
+      "position": 9,
+      "title": "Military Pay to Civilian Salary Conversion Guide",
+      "link": "https://bestmilitaryresume.com/blog/career-transition/military-pay-to-civilian-salary-conversion-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bestmilitaryresume.com/blog/career-transition/military-pay-to-civilian-salary-conversion-guide&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQFnoECD4QAQ",
+      "displayed_link": "https://bestmilitaryresume.com › Blog › Career Transition",
+      "favicon": "https://serpapi.com/searches/6a3a21c0f05275a1664caf8b/images/stS2L6CNqktvn80oqrOkR__fByVpIjOphjGJDqkKbDA.png",
+      "date": "Mar 21, 2026",
+      "snippet": "This guide breaks down exactly how to calculate your true military compensation, what civilian salary you actually need to match it, and how to ...",
+      "snippet_highlighted_words": [
+        "how to calculate your true military compensation"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "reviews": 182
+          },
+          "extensions": [
+            "4.9(182)",
+            "Free",
+            "Business/Productivity"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "This guide breaks down exactly how to calculate your true military compensation, what civilian salary you actually need to match it, and how to ...",
+          "source_info_link": "https://bestmilitaryresume.com/blog/career-transition/military-pay-to-civilian-salary-conversion-guide",
+          "icon": "https://serpapi.com/searches/6a3a21c0f05275a1664caf8b/images/stS2L6CNqktvn80oqrOkRzwqOz1KjEV5nKDxcCD6W6FEdLXvriRbFn3Ok_d5ml7S.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bestmilitaryresume.com/blog/career-transition/military-pay-to-civilian-salary-conversion-guide&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbestmilitaryresume.com%2Fblog%2Fcareer-transition%2Fmilitary-pay-to-civilian-salary-conversion-guide",
+      "source": "Best Military Resume",
+      "read_more_link": "https://bestmilitaryresume.com/blog/career-transition/military-pay-to-civilian-salary-conversion-guide#:~:text=This%20guide%20breaks%20down%20exactly,numbers%20when%20you're%20negotiating%20offers."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military gpa converter civilian army",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+gpa+converter+civilian+army&sa=X&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+gpa+converter+civilian+army"
+    },
+    {
+      "block_position": 1,
+      "query": "Military pay calculator 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+pay+calculator+2026&sa=X&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+pay+calculator+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Military pay calculator monthly",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+pay+calculator+monthly&sa=X&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+pay+calculator+monthly"
+    },
+    {
+      "block_position": 1,
+      "query": "Military vs civilian pay calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+vs+civilian+pay+calculator&sa=X&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+vs+civilian+pay+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Military net pay calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+net+pay+calculator&sa=X&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+net+pay+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Military pay calculator with taxes",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+pay+calculator+with+taxes&sa=X&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+pay+calculator+with+taxes"
+    },
+    {
+      "block_position": 1,
+      "query": "Regular Military Compensation (RMC) calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Regular+Military+Compensation+(RMC)+calculator&sa=X&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Regular+Military+Compensation+%28RMC%29+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "2026 military pay chart calculator with BAH",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=2026+military+pay+chart+calculator+with+BAH&sa=X&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=2026+military+pay+chart+calculator+with+BAH"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+gpa+converter+civilian&sca_esv=c510ba4e6526f391&ei=wCE6av6zIcq1qtsPrdmoyQs&start=10&sa=N&sstk=AU9db-BA1Po0NFaGtZzEpDvgC5TWWrR-UQ1J-IVqT6pXQv9q9wXsinWFFpw6f4sN4LvuucPXe5ZuonsId9eYEkXBk5ESiCQ45pTGPg&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ8NMDegQIMRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+gpa+converter+civilian&sca_esv=c510ba4e6526f391&ei=wCE6av6zIcq1qtsPrdmoyQs&start=10&sa=N&sstk=AU9db-BA1Po0NFaGtZzEpDvgC5TWWrR-UQ1J-IVqT6pXQv9q9wXsinWFFpw6f4sN4LvuucPXe5ZuonsId9eYEkXBk5ESiCQ45pTGPg&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ8tMDegQIMRAE",
+      "3": "https://www.google.com/search?q=military+gpa+converter+civilian&sca_esv=c510ba4e6526f391&ei=wCE6av6zIcq1qtsPrdmoyQs&start=20&sa=N&sstk=AU9db-BA1Po0NFaGtZzEpDvgC5TWWrR-UQ1J-IVqT6pXQv9q9wXsinWFFpw6f4sN4LvuucPXe5ZuonsId9eYEkXBk5ESiCQ45pTGPg&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ8tMDegQIMRAG",
+      "4": "https://www.google.com/search?q=military+gpa+converter+civilian&sca_esv=c510ba4e6526f391&ei=wCE6av6zIcq1qtsPrdmoyQs&start=30&sa=N&sstk=AU9db-BA1Po0NFaGtZzEpDvgC5TWWrR-UQ1J-IVqT6pXQv9q9wXsinWFFpw6f4sN4LvuucPXe5ZuonsId9eYEkXBk5ESiCQ45pTGPg&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ8tMDegQIMRAI",
+      "5": "https://www.google.com/search?q=military+gpa+converter+civilian&sca_esv=c510ba4e6526f391&ei=wCE6av6zIcq1qtsPrdmoyQs&start=40&sa=N&sstk=AU9db-BA1Po0NFaGtZzEpDvgC5TWWrR-UQ1J-IVqT6pXQv9q9wXsinWFFpw6f4sN4LvuucPXe5ZuonsId9eYEkXBk5ESiCQ45pTGPg&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ8tMDegQIMRAK",
+      "6": "https://www.google.com/search?q=military+gpa+converter+civilian&sca_esv=c510ba4e6526f391&ei=wCE6av6zIcq1qtsPrdmoyQs&start=50&sa=N&sstk=AU9db-BA1Po0NFaGtZzEpDvgC5TWWrR-UQ1J-IVqT6pXQv9q9wXsinWFFpw6f4sN4LvuucPXe5ZuonsId9eYEkXBk5ESiCQ45pTGPg&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ8tMDegQIMRAM",
+      "7": "https://www.google.com/search?q=military+gpa+converter+civilian&sca_esv=c510ba4e6526f391&ei=wCE6av6zIcq1qtsPrdmoyQs&start=60&sa=N&sstk=AU9db-BA1Po0NFaGtZzEpDvgC5TWWrR-UQ1J-IVqT6pXQv9q9wXsinWFFpw6f4sN4LvuucPXe5ZuonsId9eYEkXBk5ESiCQ45pTGPg&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ8tMDegQIMRAO",
+      "8": "https://www.google.com/search?q=military+gpa+converter+civilian&sca_esv=c510ba4e6526f391&ei=wCE6av6zIcq1qtsPrdmoyQs&start=70&sa=N&sstk=AU9db-BA1Po0NFaGtZzEpDvgC5TWWrR-UQ1J-IVqT6pXQv9q9wXsinWFFpw6f4sN4LvuucPXe5ZuonsId9eYEkXBk5ESiCQ45pTGPg&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ8tMDegQIMRAQ",
+      "9": "https://www.google.com/search?q=military+gpa+converter+civilian&sca_esv=c510ba4e6526f391&ei=wCE6av6zIcq1qtsPrdmoyQs&start=80&sa=N&sstk=AU9db-BA1Po0NFaGtZzEpDvgC5TWWrR-UQ1J-IVqT6pXQv9q9wXsinWFFpw6f4sN4LvuucPXe5ZuonsId9eYEkXBk5ESiCQ45pTGPg&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ8tMDegQIMRAS",
+      "10": "https://www.google.com/search?q=military+gpa+converter+civilian&sca_esv=c510ba4e6526f391&ei=wCE6av6zIcq1qtsPrdmoyQs&start=90&sa=N&sstk=AU9db-BA1Po0NFaGtZzEpDvgC5TWWrR-UQ1J-IVqT6pXQv9q9wXsinWFFpw6f4sN4LvuucPXe5ZuonsId9eYEkXBk5ESiCQ45pTGPg&ved=2ahUKEwj-k5Gs2JyVAxXKmmoFHa0sKrkQ8tMDegQIMRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+gpa+converter+civilian&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+gpa+converter+civilian&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+gpa+converter+civilian&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+gpa+converter+civilian&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+gpa+converter+civilian&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+gpa+converter+civilian&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+gpa+converter+civilian&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+gpa+converter+civilian&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+gpa+converter+civilian&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+gpa+converter+civilian&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+gpa+converter+civilian&start=90"
+    }
+  }
+}

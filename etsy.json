@@ -1,0 +1,448 @@
+{
+  "search_metadata": {
+    "id": "6a3a185fb463f32531e96199",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0kjgEsqc7cBEKG0JzOPv3Q/6a3a185fb463f32531e96199.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/0kjgEsqc7cBEKG0JzOPv3Q/6a3a185fb463f32531e96199.json_with_pixel_position",
+    "created_at": "2026-06-23 05:23:43 UTC",
+    "processed_at": "2026-06-23 05:23:43 UTC",
+    "google_url": "https://www.google.com/search?q=Etsy+profit+calculator+fees&oq=Etsy+profit+calculator+fees&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0kjgEsqc7cBEKG0JzOPv3Q/6a3a185fb463f32531e96199.html",
+    "total_time_taken": 8.03
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Etsy profit calculator fees",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Etsy profit calculator fees",
+    "total_results": 120,
+    "time_taken_displayed": 0.34,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "How to Use Erank's Etsy Profit Calculator",
+      "link": "https://www.youtube.com/watch?v=bu1Xm1NwLzc",
+      "thumbnail": "https://serpapi.com/searches/6a3a185fb463f32531e96199/images/0PtrVzvjgkYcRH7KryFCT5QGAUrnMLIragS7qJZbzEw.jpeg",
+      "channel": "eRank",
+      "duration": "7:58",
+      "platform": "YouTube",
+      "date": "3 weeks ago",
+      "snippet": "Use the E-Rank profit calculator to estimate costs like labor, materials, shipping, and ad spend to ensure profitable Etsy listings."
+    },
+    {
+      "position": 2,
+      "title": "How to Calculate ETSY FEES & PROFIT (Easy & Fast)",
+      "link": "https://www.youtube.com/watch?v=PRS0V7PKtyc",
+      "thumbnail": "https://serpapi.com/searches/6a3a185fb463f32531e96199/images/0WkCAKCLLPC9njauIIyX_aCZ_6B22ptN25oHz1j_B5Y.jpeg",
+      "channel": "Hannah Gardner",
+      "duration": "15:38",
+      "platform": "YouTube",
+      "date": "Apr 23, 2024",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Problem",
+          "link": "https://www.youtube.com/watch?v=PRS0V7PKtyc&t=0"
+        },
+        {
+          "time": "01:12",
+          "title": "Solution - ProfitTree",
+          "link": "https://www.youtube.com/watch?v=PRS0V7PKtyc&t=72"
+        },
+        {
+          "time": "02:52",
+          "title": "Features of ProfitTree",
+          "link": "https://www.youtube.com/watch?v=PRS0V7PKtyc&t=172"
+        },
+        {
+          "time": "10:00",
+          "title": "Importance of SKU system",
+          "link": "https://www.youtube.com/watch?v=PRS0V7PKtyc&t=600"
+        },
+        {
+          "time": "15:02",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=PRS0V7PKtyc&t=902"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "How to Calculate Etsy Fees & Price for Profit | Etsy Calculator ...",
+      "link": "https://www.youtube.com/watch?v=iVbWg7Yu_20",
+      "thumbnail": "https://serpapi.com/searches/6a3a185fb463f32531e96199/images/1y7EzddVI6NptGfA4vUBKwMSuKKXtLvRfhkrozK2Cak.jpeg",
+      "channel": "Self Publishing Empire",
+      "duration": "5:18",
+      "platform": "YouTube",
+      "date": "May 9, 2024",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRbej3UYeVIln2R72ac3YpeP6vfQFMG7wV1Pg"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Etsy Fee Calculator",
+      "link": "https://everbee.io/etsy-fee-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://everbee.io/etsy-fee-calculator/&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQFnoECA4QAQ",
+      "displayed_link": "https://everbee.io › etsy-fee-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAaCAMAAACTisy7AAAAdVBMVEX____9_Pr0qYn51sf78ezqf0XveT389vPxuZ_3yrj66uLyk2rwfUL63tH2spb12MrxkGPxwqzwnXnwk2bwlm_uYAD54tbwjFzwoHjziVvwm3T85t32wKj40L_xqInvcCzztpfwhlP0r5HvaBbwg0_xvqntcTPjLeCPAAABAElEQVR4AYzRA5ZDQRBA0ddI6ttWJtz_Dkexc4_aXeBzShuesrM5gPCQclw8P7A8FEZxkmbq4VZeJCWPVbWA2_BQKwBdzyWUVQAz_gwjF-K8042fZ9PC9Ap8j7M0C7v8y3piq3JaDtGKM2lNIiAKkhhv2Tpy8ehwnNUDSIepI3WKf2IvyXTrmxysSU5Pz_bnihEQvVaEdjUu94v0y15JuFy5gxHoLBC2cceenbpstYhMPPiaqAIwkS-cVBF_wo3j8mcZhZyYtiuyEex831HjW07iTCk7bEKKlQZwM84kAVCFntjWg1tMXEosgLdTILGxXKJfWlS6ER7q_WW95WdUAgCc-g3-UZZvNQAAAABJRU5ErkJggg.png",
+      "snippet": "Calculate Etsy fees and profits you can make as an Etsy seller with our Etsy fee calculator. Get our free Chrome extension!",
+      "snippet_highlighted_words": [
+        "Etsy fee calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculate Etsy fees and profits you can make as an Etsy seller with our Etsy fee calculator. Get our free Chrome extension!",
+          "source_info_link": "https://everbee.io/etsy-fee-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAaCAMAAACTisy7AAAAdVBMVEX____9_Pr0qYn51sf78ezqf0XveT389vPxuZ_3yrj66uLyk2rwfUL63tH2spb12MrxkGPxwqzwnXnwk2bwlm_uYAD54tbwjFzwoHjziVvwm3T85t32wKj40L_xqInvcCzztpfwhlP0r5HvaBbwg0_xvqntcTPjLeCPAAABAElEQVR4AYzRA5ZDQRBA0ddI6ttWJtz_Dkexc4_aXeBzShuesrM5gPCQclw8P7A8FEZxkmbq4VZeJCWPVbWA2_BQKwBdzyWUVQAz_gwjF-K8042fZ9PC9Ap8j7M0C7v8y3piq3JaDtGKM2lNIiAKkhhv2Tpy8ehwnNUDSIepI3WKf2IvyXTrmxysSU5Pz_bnihEQvVaEdjUu94v0y15JuFy5gxHoLBC2cceenbpstYhMPPiaqAIwkS-cVBF_wo3j8mcZhZyYtiuyEex831HjW07iTCk7bEKKlQZwM84kAVCFntjWg1tMXEosgLdTILGxXKJfWlS6ER7q_WW95WdUAgCc-g3-UZZvNQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://everbee.io/etsy-fee-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Feverbee.io%2Fetsy-fee-calculator%2F",
+      "source": "EverBee"
+    },
+    {
+      "position": 2,
+      "title": "Etsy Fee Calculator",
+      "link": "https://www.alura.io/resources/etsy-fee-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.alura.io/resources/etsy-fee-calculator&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQFnoECA0QAQ",
+      "displayed_link": "https://www.alura.io › resources › etsy-fee-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEVHcEw8YeI8YeI8YeI8YeI8YeI8YeI8YeI8YeI8YeI8YeIvWeFxiOkfUODu8fyLnez___-4wvNXdOXZ3viotPDLHPOUAAAAC3RSTlMAMofD5f_CYPEWPwhUNmEAAADQSURBVHgBjZMFFoAgEEQBO2juf1VjEcbWsf2PLXZZFhdFWVVlLTg7q2mrrLY5oK6sDio7sL66qL9hw5l2YOOI92gZ_qRSEn4pTtjUxmgYXmNuAc0iwJYxDmZXaEE5E_ndGRK8ClbnaDyxgJVFjnUY08IR8SINYlpapJPgEIh56XbpJLODITnyPCSzRTRqt4XjLqiaiX0ayXpKhR_TcJuFWATWUlGJyfWVoh6pfCj8IIf4WJUKn-I9q8RmX9WhTf40Edh7a343NcahXseh2I3DDDHnE2IseE0VAAAAAElFTkSuQmCC.png",
+      "snippet": "This easy calculator will help you determine selling prices for your Etsy products in order to save money and increase profits.",
+      "snippet_highlighted_words": [
+        "easy calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This easy calculator will help you determine selling prices for your Etsy products in order to save money and increase profits.",
+          "source_info_link": "https://www.alura.io/resources/etsy-fee-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEVHcEw8YeI8YeI8YeI8YeI8YeI8YeI8YeI8YeI8YeI8YeIvWeFxiOkfUODu8fyLnez___-4wvNXdOXZ3viotPDLHPOUAAAAC3RSTlMAMofD5f_CYPEWPwhUNmEAAADQSURBVHgBjZMFFoAgEEQBO2juf1VjEcbWsf2PLXZZFhdFWVVlLTg7q2mrrLY5oK6sDio7sL66qL9hw5l2YOOI92gZ_qRSEn4pTtjUxmgYXmNuAc0iwJYxDmZXaEE5E_ndGRK8ClbnaDyxgJVFjnUY08IR8SINYlpapJPgEIh56XbpJLODITnyPCSzRTRqt4XjLqiaiX0ayXpKhR_TcJuFWATWUlGJyfWVoh6pfCj8IIf4WJUKn-I9q8RmX9WhTf40Edh7a343NcahXseh2I3DDDHnE2IseE0VAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.alura.io/resources/etsy-fee-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.alura.io%2Fresources%2Fetsy-fee-calculator",
+      "source": "Alura Etsy tool"
+    },
+    {
+      "position": 3,
+      "title": "Etsy Fee Calculator | Profit, Fees, And Margin Tool",
+      "link": "https://www.yotpo.com/tools/etsy-fee-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yotpo.com/tools/etsy-fee-calculator/&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQFnoECA8QAQ",
+      "displayed_link": "https://www.yotpo.com › tools › etsy-fee-calculator",
+      "snippet": "Calculate Etsy fees, transaction costs, ads, and profit. Estimate margins, total expenses, and net earnings to price your products accurately.",
+      "snippet_highlighted_words": [
+        "Calculate Etsy fees, transaction costs, ads, and profit"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculate Etsy fees, transaction costs, ads, and profit. Estimate margins, total expenses, and net earnings to price your products accurately.",
+          "source_info_link": "https://www.yotpo.com/tools/etsy-fee-calculator/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.yotpo.com/tools/etsy-fee-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.yotpo.com%2Ftools%2Fetsy-fee-calculator%2F",
+      "source": "Yotpo"
+    },
+    {
+      "position": 4,
+      "title": "Calculate Etsy Seller Fees and Profit",
+      "link": "https://www.omniprofitcalculator.com/etsy-fee-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.omniprofitcalculator.com/etsy-fee-calculator&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQFnoECCIQAQ",
+      "displayed_link": "https://www.omniprofitcalculator.com › etsy-fee-calcula...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEVHcEyJzqGL0KSJzqKK0KOJzaGKz6OL0KOM0qSM0qWJz6KL0KOJzaGS2ayIzKC-9BOxAAAADnRSTlMA6UTWWPmUbBorrYDEB1u7eD8AAAC9SURBVCiRfZMJDsUgCERR3G25_3F_xaW4_E7SRPuigWEE6NIOLZFFp2GVJyE_oaBokoov07RJf7BBw4kRBYZ4hliYObNas_oHFUDcftpHvIiQV1arLKsMaYVpwOtQq-tQ7fXgOEkvzKmz28FdYb_WALh2TlEK9do0WKEoG79aKw_z5ZtMydUEwy7yIESBkXemOawnZnmaZrjvZGMcFn2eDLYoHKcW4HV51VeIRHi3aAaQ8lb0MIe6PodrfQ4_DAQcTw_P-bMAAAAASUVORK5CYII.png",
+      "snippet": "Etsy charges a flat $0.20 per listing plus 6.5% of the total payment collected including the shipping price charged to the customer. If the transaction is ...",
+      "snippet_highlighted_words": [
+        "Etsy charges a flat $0.20 per listing plus 6.5% of the total payment collected"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Etsy charges a flat $0.20 per listing plus 6.5% of the total payment collected including the shipping price charged to the customer. If the transaction is ...",
+          "source_info_link": "https://www.omniprofitcalculator.com/etsy-fee-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEVHcEyJzqGL0KSJzqKK0KOJzaGKz6OL0KOM0qSM0qWJz6KL0KOJzaGS2ayIzKC-9BOxAAAADnRSTlMA6UTWWPmUbBorrYDEB1u7eD8AAAC9SURBVCiRfZMJDsUgCERR3G25_3F_xaW4_E7SRPuigWEE6NIOLZFFp2GVJyE_oaBokoov07RJf7BBw4kRBYZ4hliYObNas_oHFUDcftpHvIiQV1arLKsMaYVpwOtQq-tQ7fXgOEkvzKmz28FdYb_WALh2TlEK9do0WKEoG79aKw_z5ZtMydUEwy7yIESBkXemOawnZnmaZrjvZGMcFn2eDLYoHKcW4HV51VeIRHi3aAaQ8lb0MIe6PodrfQ4_DAQcTw_P-bMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.omniprofitcalculator.com/etsy-fee-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.omniprofitcalculator.com%2Fetsy-fee-calculator",
+      "source": "Omni Profit",
+      "read_more_link": "https://www.omniprofitcalculator.com/etsy-fee-calculator#:~:text=Etsy%20charges%20a%20flat%20%240.20,3%25%20plus%20a%20%240.25%20fee."
+    },
+    {
+      "position": 5,
+      "title": "Etsy Cost/profit Calculator US Version, Etsy Fees ...",
+      "link": "https://www.etsy.com/listing/936998055/etsy-costprofit-calculator-us-version",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.etsy.com/listing/936998055/etsy-costprofit-calculator-us-version&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQFnoECCEQAQ",
+      "displayed_link": "https://www.etsy.com › ... › Templates",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEXzZAP1ZAD1YgD1XgD3gz32fDL2dij2cSP4kFT1bSL____83M31XQD0VgD2eyz-6-L4kVv2agD2bAD80br80sP1WgD3i1f7zbr5qHz6sY76tZD7ybP-7uf7vp74lWP2dzT4nXD5r4b--PT5pnr2f0P2gkz1aBW6vmIYAAAAyElEQVR4AaXSRQKDQAxA0ZKgaabuuN7_hrhb7W8fjG_Wkxb7CKEf4gA3sqJqdaqi69BDMGjQlvt_gtjtiQ7HotOZLtfhgsSF6IbljOoEryVW3-3vY7zXCICPJ84jv56IpfXRrOYUlp0vdQYdTXU98ufR2lsBUYiz6LlR7C_9mc-JwnoNsb9aDB2UcGmfmJt3x6UTkq5787qErJPPPYSr2BK9RJli0QE7hOQcUFGQR3ky9NH2H2Hdw_dfSQ8lYMY2ZobV1_cvrpYBWw4RxEG5YpkAAAAASUVORK5CYII.png",
+      "snippet": "Etsy Cost/Profit Calculator US Version, Etsy fees calculator Excel Template, Profit calculator template for Etsy sellers.",
+      "snippet_highlighted_words": [
+        "Etsy fees calculator Excel Template"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 1.65,
+            "currency": "$",
+            "rating": 5.0,
+            "reviews": 2
+          },
+          "extensions": [
+            "$1.65",
+            "Old price $3",
+            "$3",
+            "In stock",
+            "5.0(2)",
+            "Free delivery"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Etsy Cost/Profit Calculator US Version, Etsy fees calculator Excel Template, Profit calculator template for Etsy sellers.",
+          "source_info_link": "https://www.etsy.com/listing/936998055/etsy-costprofit-calculator-us-version",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEXzZAP1ZAD1YgD1XgD3gz32fDL2dij2cSP4kFT1bSL____83M31XQD0VgD2eyz-6-L4kVv2agD2bAD80br80sP1WgD3i1f7zbr5qHz6sY76tZD7ybP-7uf7vp74lWP2dzT4nXD5r4b--PT5pnr2f0P2gkz1aBW6vmIYAAAAyElEQVR4AaXSRQKDQAxA0ZKgaabuuN7_hrhb7W8fjG_Wkxb7CKEf4gA3sqJqdaqi69BDMGjQlvt_gtjtiQ7HotOZLtfhgsSF6IbljOoEryVW3-3vY7zXCICPJ84jv56IpfXRrOYUlp0vdQYdTXU98ufR2lsBUYiz6LlR7C_9mc-JwnoNsb9aDB2UcGmfmJt3x6UTkq5787qErJPPPYSr2BK9RJli0QE7hOQcUFGQR3ky9NH2H2Hdw_dfSQ8lYMY2ZobV1_cvrpYBWw4RxEG5YpkAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.etsy.com/listing/936998055/etsy-costprofit-calculator-us-version&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.etsy.com%2Flisting%2F936998055%2Fetsy-costprofit-calculator-us-version",
+      "source": "Etsy",
+      "read_more_link": "https://www.etsy.com/listing/936998055/etsy-costprofit-calculator-us-version#:~:text=Etsy%20Cost%2FProfit%20Calculator%20US%20Version%2C,calculator%20template%20for%20Etsy%20sellers"
+    },
+    {
+      "position": 6,
+      "title": "Free Etsy Seller Fee Calculator 2026",
+      "link": "https://craftybase.com/etsy/fee-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://craftybase.com/etsy/fee-calculator&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQFnoECAwQAQ",
+      "displayed_link": "https://craftybase.com › etsy › fee-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEwAAAAAAAAAAAABAQEBAQEBAQECAgICAgICAgIBAQECAgIBAQEBAQEBAQEBAQECAgIBAQECAgIBAQGRXgAeAAAAFHRSTlMACRBMzzyj9v8pi993wVS2Z1zrHDTPBKMAAADESURBVHgBfdPbFoQgCAXQShPxmvb__zrGFMVMet5yL1YGNInM89TLorRWyyvNqwFrwawv1ei8pXiHv2VBW44OolhFsI9AVExomPTFBr-WLoKMk2JOhNv56It4-3YiUG11K9_7gdrp85o7nYQnxh1dJY7l6FCS2PqTScG1bywSj5sUT7XLP1JcO8s9RBjgSpgwdRFjDl3cqhVNqOHGmBswUuM1XgjAjb9HZpBQjoyHXcNOKIfNg4oO5JqMF2y8muOl7v8OH94TDwWpiXpgAAAAAElFTkSuQmCC.png",
+      "snippet": "To calculate true profit after Etsy fees: start with your sale price, subtract the listing fee ($0.20), subtract the transaction fee (6.5% of sale + shipping), ...",
+      "snippet_highlighted_words": [
+        "profit",
+        "Etsy fees",
+        "fee",
+        "fee"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "To calculate true profit after Etsy fees: start with your sale price, subtract the listing fee ($0.20), subtract the transaction fee (6.5% of sale + shipping), ...",
+          "source_info_link": "https://craftybase.com/etsy/fee-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEwAAAAAAAAAAAABAQEBAQEBAQECAgICAgICAgIBAQECAgIBAQEBAQEBAQEBAQECAgIBAQECAgIBAQGRXgAeAAAAFHRSTlMACRBMzzyj9v8pi993wVS2Z1zrHDTPBKMAAADESURBVHgBfdPbFoQgCAXQShPxmvb__zrGFMVMet5yL1YGNInM89TLorRWyyvNqwFrwawv1ei8pXiHv2VBW44OolhFsI9AVExomPTFBr-WLoKMk2JOhNv56It4-3YiUG11K9_7gdrp85o7nYQnxh1dJY7l6FCS2PqTScG1bywSj5sUT7XLP1JcO8s9RBjgSpgwdRFjDl3cqhVNqOHGmBswUuM1XgjAjb9HZpBQjoyHXcNOKIfNg4oO5JqMF2y8muOl7v8OH94TDwWpiXpgAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://craftybase.com/etsy/fee-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcraftybase.com%2Fetsy%2Ffee-calculator",
+      "source": "Craftybase",
+      "read_more_link": "https://craftybase.com/etsy/fee-calculator#:~:text=What%20does%20Etsy%20charge%20me"
+    },
+    {
+      "position": 7,
+      "title": "Etsy Fee & Profit Calculator",
+      "link": "https://salecalc.com/etsy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://salecalc.com/etsy&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQFnoECEgQAQ",
+      "displayed_link": "https://salecalc.com › etsy",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEVVqv9ps_9UqP-Nw_____9_vP9FpP9Co_90t_84oP9gr__H4P-01v-Fv__V6P_J4f_3-__d7f_m8v-Yx_-kzv_x9_-52f9RpP9Pof9Mnf8xlv9Fkv_b6f9Kmf9Hlv-71f-BtP-qyv-Yv_9Djv-00P9Ai_8-h_9po_8KgP9YnP92qP87g_-Brv85gP82fP80eP_pUTIdAAABCklEQVR4AczPVWIEIRAE0F5S6-7j7nb_46VhPPadN0LhQP_FgmbEB8SQl1ip8GPDAut55wbblejyjjONVss99oej6l1zPp13Y98ZuAB7OV5cIY1rHrl9vV5s5Lgb9rsVHcfjHXBfdfGB01aW03twr-pePbERNLM6AXip4cC0T0jb-xPgOUJ2juitaPryhov-3vIQ7d0jraMbN_CYE66G1iNdMphpwdb1N3CWVU1nZNu24-K03z_hOpw9AFfrcuJsk-M4pn99AlYQOsy0I9796pmcyWRhnKTIQrMV58hiVaFQiQskbeKcomwTxUpSIYlbapU2UdIKi2QQO12gslOX31H9B2r-QJ_TxwMAJp0yGDMQyo8AAAAASUVORK5CYII.png",
+      "snippet": "An Etsy fee calculator to see the fees charged and potential profit from selling on Etsy so you can smartly price your items. Last updated March 27, 2022.",
+      "snippet_highlighted_words": [
+        "An Etsy fee calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "An Etsy fee calculator to see the fees charged and potential profit from selling on Etsy so you can smartly price your items. Last updated March 27, 2022.",
+          "source_info_link": "https://salecalc.com/etsy",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEVVqv9ps_9UqP-Nw_____9_vP9FpP9Co_90t_84oP9gr__H4P-01v-Fv__V6P_J4f_3-__d7f_m8v-Yx_-kzv_x9_-52f9RpP9Pof9Mnf8xlv9Fkv_b6f9Kmf9Hlv-71f-BtP-qyv-Yv_9Djv-00P9Ai_8-h_9po_8KgP9YnP92qP87g_-Brv85gP82fP80eP_pUTIdAAABCklEQVR4AczPVWIEIRAE0F5S6-7j7nb_46VhPPadN0LhQP_FgmbEB8SQl1ip8GPDAut55wbblejyjjONVss99oej6l1zPp13Y98ZuAB7OV5cIY1rHrl9vV5s5Lgb9rsVHcfjHXBfdfGB01aW03twr-pePbERNLM6AXip4cC0T0jb-xPgOUJ2juitaPryhov-3vIQ7d0jraMbN_CYE66G1iNdMphpwdb1N3CWVU1nZNu24-K03z_hOpw9AFfrcuJsk-M4pn99AlYQOsy0I9796pmcyWRhnKTIQrMV58hiVaFQiQskbeKcomwTxUpSIYlbapU2UdIKi2QQO12gslOX31H9B2r-QJ_TxwMAJp0yGDMQyo8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://salecalc.com/etsy&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsalecalc.com%2Fetsy",
+      "source": "Salecalc.com"
+    },
+    {
+      "position": 8,
+      "title": "Free Etsy Fee Calculator 2026 - Nano Banana 2",
+      "link": "https://plykit.ai/tools/profit-calculator/etsy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://plykit.ai/tools/profit-calculator/etsy&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQFnoECEwQAQ",
+      "displayed_link": "https://plykit.ai › tools › profit-calculator › etsy",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEX1uAD6vAD7vADQnACedwCieQAAAACcdQD_wAAMCQCmfQBhSQCXcQCSbgDLmACZIqJEAAAAV0lEQVR4AWOgDDAqKSJzhV2dBZC4KmnpCkhc1bQUvNxUAVRuoyAQCMC4YABUA-VmgrlZAthls8PLgeAwjJvepAQEijCjciDilHNV0nIFULzvJ4AROJQDAKsBHlWY3PE9AAAAAElFTkSuQmCC.png",
+      "snippet": "Calculate your Etsy shop profit margins including $0.20 listing fee, 6.5% transaction fee, payment processing, and 12-15% Offsite Ads for high-volume sellers.",
+      "snippet_highlighted_words": [
+        "Etsy",
+        "profit",
+        "fee",
+        "fee"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculate your Etsy shop profit margins including $0.20 listing fee, 6.5% transaction fee, payment processing, and 12-15% Offsite Ads for high-volume sellers.",
+          "source_info_link": "https://plykit.ai/tools/profit-calculator/etsy",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEX1uAD6vAD7vADQnACedwCieQAAAACcdQD_wAAMCQCmfQBhSQCXcQCSbgDLmACZIqJEAAAAV0lEQVR4AWOgDDAqKSJzhV2dBZC4KmnpCkhc1bQUvNxUAVRuoyAQCMC4YABUA-VmgrlZAthls8PLgeAwjJvepAQEijCjciDilHNV0nIFULzvJ4AROJQDAKsBHlWY3PE9AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://plykit.ai/tools/profit-calculator/etsy&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fplykit.ai%2Ftools%2Fprofit-calculator%2Fetsy",
+      "source": "plykit.ai",
+      "read_more_link": "https://plykit.ai/tools/profit-calculator/etsy#:~:text=Calculate%20your%20Etsy%20shop%20profit,Offsite%20Ads%20for%20high%2Dvolume%20sellers."
+    },
+    {
+      "position": 9,
+      "title": "Etsy calculator – Know your profits and fees",
+      "link": "https://printify.com/etsy-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://printify.com/etsy-calculator/&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQFnoECEsQAQ",
+      "displayed_link": "https://printify.com › etsy-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEyu_26u_26u_26u_26u_26u_26v_2-o9mmu_m2y_3EhCwBEVB6HwFCu_24qIgMvLQssKAg6QhUkFQBrkzyS0lmh6WNRaCghVTUjAAAAD3RSTlMAQbrv_7C___________nySVUrAAAA1ElEQVR4Aa2TVRYCMQwAVwJZUvf7nxQtLy0uO7-ZSmw4Mk4zPGCexuHMBp4ycfwJ2-P9cAZbgBnrBbi07Ij4isv_SHRIRfUaPeiLYGyLE3KpBgs9xr8RbIj0WrAGO0EE5iKLhI0AO4bi2QiKWGAQ6ZWARCn6-kRGFmoQU7Siftd5glYgWlQxgZMRqhNQlRCcZUQk6NM0lnHBKoJnlTQhFEUET4RTlLt9L_gERAjwTHCFo88EeCkYFla8oR9aeSvo69jnCt5uzu3iwA3j-9V7v7xv1v8AsYIgOyIonyQAAAAASUVORK5CYII.png",
+      "snippet": "Etsy charges a $0.20 listing fee per item, a 6.5% transaction fee on the sale price (including shipping), and a payment processing fee of around 3% plus $0.25.",
+      "snippet_highlighted_words": [
+        "Etsy charges a $0.20 listing fee per item"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Etsy charges a $0.20 listing fee per item, a 6.5% transaction fee on the sale price (including shipping), and a payment processing fee of around 3% plus $0.25.",
+          "source_info_link": "https://printify.com/etsy-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEyu_26u_26u_26u_26u_26u_26v_2-o9mmu_m2y_3EhCwBEVB6HwFCu_24qIgMvLQssKAg6QhUkFQBrkzyS0lmh6WNRaCghVTUjAAAAD3RSTlMAQbrv_7C___________nySVUrAAAA1ElEQVR4Aa2TVRYCMQwAVwJZUvf7nxQtLy0uO7-ZSmw4Mk4zPGCexuHMBp4ycfwJ2-P9cAZbgBnrBbi07Ij4isv_SHRIRfUaPeiLYGyLE3KpBgs9xr8RbIj0WrAGO0EE5iKLhI0AO4bi2QiKWGAQ6ZWARCn6-kRGFmoQU7Siftd5glYgWlQxgZMRqhNQlRCcZUQk6NM0lnHBKoJnlTQhFEUET4RTlLt9L_gERAjwTHCFo88EeCkYFla8oR9aeSvo69jnCt5uzu3iwA3j-9V7v7xv1v8AsYIgOyIonyQAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://printify.com/etsy-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fprintify.com%2Fetsy-calculator%2F",
+      "source": "Printify",
+      "read_more_link": "https://printify.com/etsy-calculator/#:~:text=Start%20selling%20on%20Etsy%20with"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Free etsy profit calculator fees",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Free+etsy+profit+calculator+fees&sa=X&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+etsy+profit+calculator+fees"
+    },
+    {
+      "block_position": 1,
+      "query": "Etsy fee calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Etsy+fee+calculator&sa=X&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+fee+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Etsy fee calculator excel",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Etsy+fee+calculator+excel&sa=X&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+fee+calculator+excel"
+    },
+    {
+      "block_position": 1,
+      "query": "Etsy fee calculator 2026",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Etsy+fee+calculator+2026&sa=X&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+fee+calculator+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Etsy fee calculator for digital products",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Etsy+fee+calculator+for+digital+products&sa=X&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+fee+calculator+for+digital+products"
+    },
+    {
+      "block_position": 1,
+      "query": "Etsy fee calculator euro",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Etsy+fee+calculator+euro&sa=X&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+fee+calculator+euro"
+    },
+    {
+      "block_position": 1,
+      "query": "Etsy fee calculator Excel free download",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Etsy+fee+calculator+Excel+free+download&sa=X&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+fee+calculator+Excel+free+download"
+    },
+    {
+      "block_position": 1,
+      "query": "Best Etsy calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Best+Etsy+calculator&sa=X&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+Etsy+calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Etsy+profit+calculator+fees&sca_esv=bbb7d61e8d3bb37e&ei=Zxg6arHBFveiqtsPuMv-sAs&start=10&sa=N&sstk=AU9db-DJirH9Z-8idiitt8k9Vt3Z-GUep5_D6y47UfgkW3ulrqKYOD4_dYsy1FaKNa8viLfX9BazKVDEh5go7lJW3BrjCUCh2CCnMQ&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ8NMDegQIPhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Etsy+profit+calculator+fees&sca_esv=bbb7d61e8d3bb37e&ei=Zxg6arHBFveiqtsPuMv-sAs&start=10&sa=N&sstk=AU9db-DJirH9Z-8idiitt8k9Vt3Z-GUep5_D6y47UfgkW3ulrqKYOD4_dYsy1FaKNa8viLfX9BazKVDEh5go7lJW3BrjCUCh2CCnMQ&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ8tMDegQIPhAE",
+      "3": "https://www.google.com/search?q=Etsy+profit+calculator+fees&sca_esv=bbb7d61e8d3bb37e&ei=Zxg6arHBFveiqtsPuMv-sAs&start=20&sa=N&sstk=AU9db-DJirH9Z-8idiitt8k9Vt3Z-GUep5_D6y47UfgkW3ulrqKYOD4_dYsy1FaKNa8viLfX9BazKVDEh5go7lJW3BrjCUCh2CCnMQ&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ8tMDegQIPhAG",
+      "4": "https://www.google.com/search?q=Etsy+profit+calculator+fees&sca_esv=bbb7d61e8d3bb37e&ei=Zxg6arHBFveiqtsPuMv-sAs&start=30&sa=N&sstk=AU9db-DJirH9Z-8idiitt8k9Vt3Z-GUep5_D6y47UfgkW3ulrqKYOD4_dYsy1FaKNa8viLfX9BazKVDEh5go7lJW3BrjCUCh2CCnMQ&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ8tMDegQIPhAI",
+      "5": "https://www.google.com/search?q=Etsy+profit+calculator+fees&sca_esv=bbb7d61e8d3bb37e&ei=Zxg6arHBFveiqtsPuMv-sAs&start=40&sa=N&sstk=AU9db-DJirH9Z-8idiitt8k9Vt3Z-GUep5_D6y47UfgkW3ulrqKYOD4_dYsy1FaKNa8viLfX9BazKVDEh5go7lJW3BrjCUCh2CCnMQ&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ8tMDegQIPhAK",
+      "6": "https://www.google.com/search?q=Etsy+profit+calculator+fees&sca_esv=bbb7d61e8d3bb37e&ei=Zxg6arHBFveiqtsPuMv-sAs&start=50&sa=N&sstk=AU9db-DJirH9Z-8idiitt8k9Vt3Z-GUep5_D6y47UfgkW3ulrqKYOD4_dYsy1FaKNa8viLfX9BazKVDEh5go7lJW3BrjCUCh2CCnMQ&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ8tMDegQIPhAM",
+      "7": "https://www.google.com/search?q=Etsy+profit+calculator+fees&sca_esv=bbb7d61e8d3bb37e&ei=Zxg6arHBFveiqtsPuMv-sAs&start=60&sa=N&sstk=AU9db-DJirH9Z-8idiitt8k9Vt3Z-GUep5_D6y47UfgkW3ulrqKYOD4_dYsy1FaKNa8viLfX9BazKVDEh5go7lJW3BrjCUCh2CCnMQ&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ8tMDegQIPhAO",
+      "8": "https://www.google.com/search?q=Etsy+profit+calculator+fees&sca_esv=bbb7d61e8d3bb37e&ei=Zxg6arHBFveiqtsPuMv-sAs&start=70&sa=N&sstk=AU9db-DJirH9Z-8idiitt8k9Vt3Z-GUep5_D6y47UfgkW3ulrqKYOD4_dYsy1FaKNa8viLfX9BazKVDEh5go7lJW3BrjCUCh2CCnMQ&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ8tMDegQIPhAQ",
+      "9": "https://www.google.com/search?q=Etsy+profit+calculator+fees&sca_esv=bbb7d61e8d3bb37e&ei=Zxg6arHBFveiqtsPuMv-sAs&start=80&sa=N&sstk=AU9db-DJirH9Z-8idiitt8k9Vt3Z-GUep5_D6y47UfgkW3ulrqKYOD4_dYsy1FaKNa8viLfX9BazKVDEh5go7lJW3BrjCUCh2CCnMQ&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ8tMDegQIPhAS",
+      "10": "https://www.google.com/search?q=Etsy+profit+calculator+fees&sca_esv=bbb7d61e8d3bb37e&ei=Zxg6arHBFveiqtsPuMv-sAs&start=90&sa=N&sstk=AU9db-DJirH9Z-8idiitt8k9Vt3Z-GUep5_D6y47UfgkW3ulrqKYOD4_dYsy1FaKNa8viLfX9BazKVDEh5go7lJW3BrjCUCh2CCnMQ&ved=2ahUKEwjxkP22z5yVAxV3kWoFHbilH7YQ8tMDegQIPhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+profit+calculator+fees&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+profit+calculator+fees&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+profit+calculator+fees&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+profit+calculator+fees&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+profit+calculator+fees&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+profit+calculator+fees&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+profit+calculator+fees&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+profit+calculator+fees&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+profit+calculator+fees&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+profit+calculator+fees&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Etsy+profit+calculator+fees&start=90"
+    }
+  }
+}

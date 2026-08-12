@@ -1,0 +1,420 @@
+{
+  "search_metadata": {
+    "id": "6a3a21e05abea590288f31ea",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0NnCp19tSS-GHtwCRi9g-w/6a3a21e05abea590288f31ea.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/0NnCp19tSS-GHtwCRi9g-w/6a3a21e05abea590288f31ea.json_with_pixel_position",
+    "created_at": "2026-06-23 06:04:16 UTC",
+    "processed_at": "2026-06-23 06:04:16 UTC",
+    "google_url": "https://www.google.com/search?q=military+benefits+comparison+civilian+calculator&oq=military+benefits+comparison+civilian+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0NnCp19tSS-GHtwCRi9g-w/6a3a21e05abea590288f31ea.html",
+    "total_time_taken": 2.69
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military benefits comparison civilian calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military benefits comparison civilian calculator",
+    "total_results": 108,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Regular Military Compensation (RMC) Calculator",
+      "link": "https://militarypay.defense.gov/calculators/rmc-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/calculators/rmc-calculator/&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQFnoECA0QAQ",
+      "displayed_link": "https://militarypay.defense.gov › calculators › rmc-calcul...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "This calculator will compute your regular military compensation based on your inputs. Regular military compensation is the approximate amount of an equivalent ...",
+      "snippet_highlighted_words": [
+        "compute your regular military compensation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator will compute your regular military compensation based on your inputs. Regular military compensation is the approximate amount of an equivalent ...",
+          "source_info_link": "https://militarypay.defense.gov/calculators/rmc-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/calculators/rmc-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2Fcalculators%2Frmc-calculator%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/calculators/rmc-calculator/#:~:text=This%20calculator%20will%20compute%20your,of%20an%20equivalent%20civilian%20salary."
+    },
+    {
+      "position": 2,
+      "title": "Civilian vs. Military Pay Calculator",
+      "link": "https://www.schwabmoneywise.com/civilian-vs-military-pay-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.schwabmoneywise.com/civilian-vs-military-pay-calculator&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQFnoECBMQAQ",
+      "displayed_link": "https://www.schwabmoneywise.com › civilian-vs-milita...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAmVBMVEUAnt0AndwAnd0Ant4AndsAmtcAldQAnN4AntwAnd4Am94tp-QAl-D____e8PsAmdyCxexftuUAltthturS5_cAld4Aj9i32vMAouQAn9uh1POn1vKw2vTJ5vm83_Lw9fuTx-cAot4Al-c_sO54vOWx1fNqw-2Cxuvb6foWo9k7reVMsuZ1vetevO5KteT9-PfP3vMAjeGcxu5l7v-QAAABmElEQVR4AT2SBWKEMBBFh-CBnzWKy7r7_Q_XmULzkMibeIgcRymXIeUwnsX3Awq5hogdRZETefJYS6GSpkRKcca2tVI5iomVaMskJyeIttb5bxmH8WhHprajjMOJMUasBPjEWW6okyTUWrMNNSkmdsnxpKUbxylMypL1bI6F5h5ctuRG5OrlClmq05_lcpkXWApl6RJRFZV106JLVj2GoljDhB1gSoY2m3gY-g41-DUGa2SNpPM_Wc2x3QF7DAeuzHxuDprjOMoTGJY4wwz9BWhxBBZjt-7imt4Wt3l6r3-ul0t921xZMC7L8nG8NvXd6BZNc3v2ybFNHvWjLGPaRA-gQzvHLcMRxUv6TFogLUMe847hYfQKt-NmOZzfWGD4bDlAa265BzOfozHdA683zgaZmeQmapqmz7Ksy7K2_s6L4iSFvY5j7rZSswmtx3TJ6NhVVFURWcbLNB09l_hGWUtsBLZ8HZXD0vMih5liJK-UIiWH7fmex-VRi7HwHfJFRoJ11lLAMooqnpfgWaSlyMoiUWOcXNvwF5gAJOMPelSIAAAAAElFTkSuQmCC.png",
+      "snippet": "This calculator can help you better understand how much you'll need to earn as a civilian to realize the same take-home pay you had in the military.",
+      "snippet_highlighted_words": [
+        "how much you'll need to earn as a civilian"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator can help you better understand how much you'll need to earn as a civilian to realize the same take-home pay you had in the military.",
+          "source_info_link": "https://www.schwabmoneywise.com/civilian-vs-military-pay-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAmVBMVEUAnt0AndwAnd0Ant4AndsAmtcAldQAnN4AntwAnd4Am94tp-QAl-D____e8PsAmdyCxexftuUAltthturS5_cAld4Aj9i32vMAouQAn9uh1POn1vKw2vTJ5vm83_Lw9fuTx-cAot4Al-c_sO54vOWx1fNqw-2Cxuvb6foWo9k7reVMsuZ1vetevO5KteT9-PfP3vMAjeGcxu5l7v-QAAABmElEQVR4AT2SBWKEMBBFh-CBnzWKy7r7_Q_XmULzkMibeIgcRymXIeUwnsX3Awq5hogdRZETefJYS6GSpkRKcca2tVI5iomVaMskJyeIttb5bxmH8WhHprajjMOJMUasBPjEWW6okyTUWrMNNSkmdsnxpKUbxylMypL1bI6F5h5ctuRG5OrlClmq05_lcpkXWApl6RJRFZV106JLVj2GoljDhB1gSoY2m3gY-g41-DUGa2SNpPM_Wc2x3QF7DAeuzHxuDprjOMoTGJY4wwz9BWhxBBZjt-7imt4Wt3l6r3-ul0t921xZMC7L8nG8NvXd6BZNc3v2ybFNHvWjLGPaRA-gQzvHLcMRxUv6TFogLUMe847hYfQKt-NmOZzfWGD4bDlAa265BzOfozHdA683zgaZmeQmapqmz7Ksy7K2_s6L4iSFvY5j7rZSswmtx3TJ6NhVVFURWcbLNB09l_hGWUtsBLZ8HZXD0vMih5liJK-UIiWH7fmex-VRi7HwHfJFRoJ11lLAMooqnpfgWaSlyMoiUWOcXNvwF5gAJOMPelSIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.schwabmoneywise.com/civilian-vs-military-pay-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.schwabmoneywise.com%2Fcivilian-vs-military-pay-calculator",
+      "source": "Schwab Moneywise",
+      "read_more_link": "https://www.schwabmoneywise.com/civilian-vs-military-pay-calculator#:~:text=If%20you're%20a%20retiring%20or,you%20had%20in%20the%20military."
+    },
+    {
+      "position": 3,
+      "title": "Military Pay Calculator",
+      "link": "https://mil-cents.com/calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mil-cents.com/calculator&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQFnoECBEQAQ",
+      "displayed_link": "https://mil-cents.com › calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwjBgUiGwsiGgQhIyUVX6IUbLsjCgAePV4XccMORngAOm8NY659eXLX1tWUkY7____n5-jGxsako6G0tbaJhoE-NihlYl0XdssbMkoTWJYQKD9NRjp1cWldWE6FZaNnAAAACHRSTlMAEqS49___IOj_CCIAAADSSURBVHgBlZKLCsIwDACd2rjUrp3ds4nu_z_TMAe2mSge0AOO9AE9_KY6ngqOVRbPBgrM-d0uNdprhsW6yqJrfEbjyhjajKDj7RZ9G2Usxn30oevavu-H3sfwz7bjlDFCEWdEQBDEssxlTIKdkZix5lpFkEFEtLEBbllFXJmJk0xaHdfjcGV3prnfHT_4paQiDYNjzxQaEasI1gJZ2qQjERgyIhSpSNPkuGN6rNrFxXHgTSqiMeiMg5c-XehKm_55ihlHl5YkAl6SxO9f8_en_sITrT8Z8U7hmb4AAAAASUVORK5CYII.png",
+      "snippet": "Enter your details and click Calculate to view your estimated compensation. Preferences Saved to Profile.",
+      "snippet_highlighted_words": [
+        "Enter your details and click Calculate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Enter your details and click Calculate to view your estimated compensation. Preferences Saved to Profile.",
+          "source_info_link": "https://mil-cents.com/calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwjBgUiGwsiGgQhIyUVX6IUbLsjCgAePV4XccMORngAOm8NY659eXLX1tWUkY7____n5-jGxsako6G0tbaJhoE-NihlYl0XdssbMkoTWJYQKD9NRjp1cWldWE6FZaNnAAAACHRSTlMAEqS49___IOj_CCIAAADSSURBVHgBlZKLCsIwDACd2rjUrp3ds4nu_z_TMAe2mSge0AOO9AE9_KY6ngqOVRbPBgrM-d0uNdprhsW6yqJrfEbjyhjajKDj7RZ9G2Usxn30oevavu-H3sfwz7bjlDFCEWdEQBDEssxlTIKdkZix5lpFkEFEtLEBbllFXJmJk0xaHdfjcGV3prnfHT_4paQiDYNjzxQaEasI1gJZ2qQjERgyIhSpSNPkuGN6rNrFxXHgTSqiMeiMg5c-XehKm_55ihlHl5YkAl6SxO9f8_en_sITrT8Z8U7hmb4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://mil-cents.com/calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmil-cents.com%2Fcalculator",
+      "source": "Mil-Cents",
+      "read_more_link": "https://mil-cents.com/calculator#:~:text=Enter%20your%20details%20and%20click,to%20view%20your%20estimated%20compensation."
+    },
+    {
+      "position": 4,
+      "title": "Schwab Civilian vs. Military Pay Calculator : r/MilitaryFinance",
+      "link": "https://www.reddit.com/r/MilitaryFinance/comments/1dxvpcw/schwab_civilian_vs_military_pay_calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/MilitaryFinance/comments/1dxvpcw/schwab_civilian_vs_military_pay_calculator/&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQFnoECBwQAQ",
+      "displayed_link": "30+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "I've used the regular military compensation (RMC) calculator before to get an idea of what the civilian equivalent to my military pay is, but ...",
+      "snippet_highlighted_words": [
+        "military",
+        "calculator",
+        "civilian",
+        "military pay"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Civilian salary to be the equivalent of the military ...",
+            "link": "https://www.reddit.com/r/MilitaryFinance/comments/1fqv09r/civilian_salary_to_be_the_equivalent_of_the/",
+            "answer_count": 38,
+            "date": "Sep 27, 2024"
+          },
+          {
+            "title": "How accurate is the RMC military compensation calculator?",
+            "link": "https://www.reddit.com/r/MilitaryFinance/comments/1s7dpib/how_accurate_is_the_rmc_military_compensation/",
+            "answer_count": 22,
+            "date": "Mar 30, 2026"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "I've used the regular military compensation (RMC) calculator before to get an idea of what the civilian equivalent to my military pay is, but ...",
+          "source_info_link": "https://www.reddit.com/r/MilitaryFinance/comments/1dxvpcw/schwab_civilian_vs_military_pay_calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/MilitaryFinance/comments/1dxvpcw/schwab_civilian_vs_military_pay_calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FMilitaryFinance%2Fcomments%2F1dxvpcw%2Fschwab_civilian_vs_military_pay_calculator%2F",
+      "source": "Reddit · r/MilitaryFinance",
+      "read_more_link": "https://www.reddit.com/r/MilitaryFinance/comments/1dxvpcw/schwab_civilian_vs_military_pay_calculator/#:~:text=I've%20used%20the%20regular%20military,civ%20vs%20mil%20pay%20calculator."
+    },
+    {
+      "position": 5,
+      "title": "Military Pay Calculator",
+      "link": "https://www.military.com/benefits/military-pay/calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/benefits/military-pay/calculator&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQFnoECAwQAQ",
+      "displayed_link": "https://www.military.com › benefits › calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "snippet": "2026 Military Pay. The Military Pay Calculator is the perfect tool to help you figure out how much you make as a U.S. military service member.",
+      "snippet_highlighted_words": [
+        "The Military Pay Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "2026 Military Pay. The Military Pay Calculator is the perfect tool to help you figure out how much you make as a U.S. military service member.",
+          "source_info_link": "https://www.military.com/benefits/military-pay/calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/benefits/military-pay/calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fbenefits%2Fmilitary-pay%2Fcalculator",
+      "source": "Military.com",
+      "read_more_link": "https://www.military.com/benefits/military-pay/calculator#:~:text=2026%20Military%20Pay,a%20U.S.%20military%20service%20member."
+    },
+    {
+      "position": 6,
+      "title": "Military Salary Calculator 2026 — vs a Civilian Offer",
+      "link": "https://www.garrisonledger.com/dashboard/tools/salary-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.garrisonledger.com/dashboard/tools/salary-calculator&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQFnoECBIQAQ",
+      "displayed_link": "https://www.garrisonledger.com › ... › Financial Tools",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX____-_v7c3-Pr7vG5v8aUnKaEj5vy8_TN0taMlqJ3g5KzucGcpbCLlaCrsbpWZnp-i5lKXXJod4ZhcYJTYnT39_gAKEs3SF3Cx835-vq6wcddbH6jq7U_UGcAHERve4oAETkAIEPh4-YFJkRqeYsWMU1vfo0lOVUADTssQVobOFYbNVIiPFTT1toxSGIAFz-qGjE4AAABXElEQVR4Aa1S12KDIBQ9uEXcWiFuJJid__-71tA93nrY3D3wHyDE7H-RLOuD_PG7LdtxPc91fPPctvc9CKkbMRaFNA7eZeyEgCBKaeRkeVHmmRPRKgIBSWzUTw0XcHasbTsf8LuyZNyB4P3gQ4zTXMhuDt99sbwlkeMwKQHwfD9ptfobxTb7qtVh33MAQdEelV7t7ZtFhkjbY1s8iKe-8dRqEwHkChCwz5Q2-SkASM3WedQvxF1R7C_jyCFXWs5nt9584DTN6FmidvfLcu4E5JnqNOMP767NnIaLA4JxefJA4CxhO9-uJj_XounuGWDlYVbZQHZPbm0AA8Eu7JgGCBwgsRBUl-62WTSQcUi1J40emSkdexbeUctAdVQ-gqRMBdL_UkzCvKS4AtciiV1B8AXE9zJedV2-8zz_nfZB7spA62vJfu0T8DKJSv5Hg8F2XRvkL6rZ_mxOgn_BMxgzGXdMDpRdAAAAAElFTkSuQmCC.png",
+      "snippet": "Free military salary calculator. Total comp—base, BAH, BAS, Tricare, pension—often runs 25–40% over base pay. Compare to a civilian offer, any state.",
+      "snippet_highlighted_words": [
+        "Free military salary calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Free military salary calculator. Total comp—base, BAH, BAS, Tricare, pension—often runs 25–40% over base pay. Compare to a civilian offer, any state.",
+          "source_info_link": "https://www.garrisonledger.com/dashboard/tools/salary-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX____-_v7c3-Pr7vG5v8aUnKaEj5vy8_TN0taMlqJ3g5KzucGcpbCLlaCrsbpWZnp-i5lKXXJod4ZhcYJTYnT39_gAKEs3SF3Cx835-vq6wcddbH6jq7U_UGcAHERve4oAETkAIEPh4-YFJkRqeYsWMU1vfo0lOVUADTssQVobOFYbNVIiPFTT1toxSGIAFz-qGjE4AAABXElEQVR4Aa1S12KDIBQ9uEXcWiFuJJid__-71tA93nrY3D3wHyDE7H-RLOuD_PG7LdtxPc91fPPctvc9CKkbMRaFNA7eZeyEgCBKaeRkeVHmmRPRKgIBSWzUTw0XcHasbTsf8LuyZNyB4P3gQ4zTXMhuDt99sbwlkeMwKQHwfD9ptfobxTb7qtVh33MAQdEelV7t7ZtFhkjbY1s8iKe-8dRqEwHkChCwz5Q2-SkASM3WedQvxF1R7C_jyCFXWs5nt9584DTN6FmidvfLcu4E5JnqNOMP767NnIaLA4JxefJA4CxhO9-uJj_XounuGWDlYVbZQHZPbm0AA8Eu7JgGCBwgsRBUl-62WTSQcUi1J40emSkdexbeUctAdVQ-gqRMBdL_UkzCvKS4AtciiV1B8AXE9zJedV2-8zz_nfZB7spA62vJfu0T8DKJSv5Hg8F2XRvkL6rZ_mxOgn_BMxgzGXdMDpRdAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.garrisonledger.com/dashboard/tools/salary-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.garrisonledger.com%2Fdashboard%2Ftools%2Fsalary-calculator",
+      "source": "Garrison Ledger"
+    },
+    {
+      "position": 7,
+      "title": "Civilian Pay to Equal Military Take Home Pay",
+      "link": "https://www.dinkytown.net/java/MilitaryPay.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dinkytown.net/java/MilitaryPay.html&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQFnoECA8QAQ",
+      "displayed_link": "https://www.dinkytown.net › java › MilitaryPay",
+      "favicon": "https://serpapi.com/searches/6a3a21e05abea590288f31ea/images/5s1s-gu5xRIosWBoP3RlJ_NKEWVqhx7KiyQ531AZ2FU.png",
+      "snippet": "This calculator was built to help retiring or separating members better understand what civilian salary they'll have to earn to realize the same take-home pay ...",
+      "snippet_highlighted_words": [
+        "calculator",
+        "civilian",
+        "pay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator was built to help retiring or separating members better understand what civilian salary they'll have to earn to realize the same take-home pay ...",
+          "source_info_link": "https://www.dinkytown.net/java/MilitaryPay.html",
+          "icon": "https://serpapi.com/searches/6a3a21e05abea590288f31ea/images/5s1s-gu5xRIosWBoP3RlJ7sXkoT4PzP6UYvJcxts6Uq2F7xjWmrIGc6FZNZ-FOnm.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.dinkytown.net/java/MilitaryPay.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dinkytown.net%2Fjava%2FMilitaryPay.html",
+      "source": "Dinkytown.net Financial Calculators",
+      "read_more_link": "https://www.dinkytown.net/java/MilitaryPay.html#:~:text=This%20calculator%20was%20built%20to,they%20had%20in%20the%20military."
+    },
+    {
+      "position": 8,
+      "title": "Operation Tax Planning: Civilian Career",
+      "link": "https://finred.usalearning.gov/Money/OperationTaxPlanning",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://finred.usalearning.gov/Money/OperationTaxPlanning&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQFnoECBUQAQ",
+      "displayed_link": "https://finred.usalearning.gov › Money › OperationTax...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA5FBMVEX____z9PXS2dvN1dft7_L_-On77NH_-_IAADQAJkpgbn6Um6RqeIUAL1CzusP_37H3kwD4mQD1nRb979m_yMyCj5plbXV2g5AyTmb3nx_4tVv5xoMYO1iqrLCcpK1Zanv61KP437dre4qjsbmQl6H2pDH35ML_3bIAHUS6vcSDjJUDMU70qD3xuXIAADoiP1n1vWzc4uXy9-rQ28LU3sbj6N3KztPa489olxpxnDF-pEm2yZm_0aaovYjCwsdfZ3B6gol3oD3M1rOetnmEqFG3zZmOrWPg68-80LTM2rTC1Kra29yDcy-SAAABQElEQVR4AcTQBZLCMABA0eIS3C3BJcGpu-Bw__ssUkn3AvyZjL0486si0WjsVTQaTyTdUj5G05ksALl8ulAsld9VytUA87V6ttGstQrFcrvSrnSYbjLAHswj0Kr339iulAfDdpXG0RhO3viC6WA2L4Wwnm2CyQu7xe6sy4RwgQkApLAsFFepwaz4D1u1bB_3F4XimhkwQ2ZI42axnKDt4vWU6aAz2A12FMYLGBdeA--rc7fgEw4sx3HsK34vfKvFfRQlWVZUTZdYwzQtCCzT3Aco27ZzdHT9hRAZCE5CeDqrl6tyYw0LIcEgsEHhyVHvl-vlwRoQ18BEMCYUaifReWj3E2sAhBHBkFD4sO-aqioyZ1iQCNjC9LaXh647tv1CE8AaxMSkULqcVVuWP09pAKtBP-XAu0XiT7e_MQ5UkgUAIo454cWE6a8AAAAASUVORK5CYII.png",
+      "snippet": "Use this calculator to determine how your civilian pay compares to your military take-home pay before you accept a job offer.",
+      "snippet_highlighted_words": [
+        "calculator",
+        "civilian pay",
+        "military",
+        "pay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this calculator to determine how your civilian pay compares to your military take-home pay before you accept a job offer.",
+          "source_info_link": "https://finred.usalearning.gov/Money/OperationTaxPlanning",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA5FBMVEX____z9PXS2dvN1dft7_L_-On77NH_-_IAADQAJkpgbn6Um6RqeIUAL1CzusP_37H3kwD4mQD1nRb979m_yMyCj5plbXV2g5AyTmb3nx_4tVv5xoMYO1iqrLCcpK1Zanv61KP437dre4qjsbmQl6H2pDH35ML_3bIAHUS6vcSDjJUDMU70qD3xuXIAADoiP1n1vWzc4uXy9-rQ28LU3sbj6N3KztPa489olxpxnDF-pEm2yZm_0aaovYjCwsdfZ3B6gol3oD3M1rOetnmEqFG3zZmOrWPg68-80LTM2rTC1Kra29yDcy-SAAABQElEQVR4AcTQBZLCMABA0eIS3C3BJcGpu-Bw__ssUkn3AvyZjL0486si0WjsVTQaTyTdUj5G05ksALl8ulAsld9VytUA87V6ttGstQrFcrvSrnSYbjLAHswj0Kr339iulAfDdpXG0RhO3viC6WA2L4Wwnm2CyQu7xe6sy4RwgQkApLAsFFepwaz4D1u1bB_3F4XimhkwQ2ZI42axnKDt4vWU6aAz2A12FMYLGBdeA--rc7fgEw4sx3HsK34vfKvFfRQlWVZUTZdYwzQtCCzT3Aco27ZzdHT9hRAZCE5CeDqrl6tyYw0LIcEgsEHhyVHvl-vlwRoQ18BEMCYUaifReWj3E2sAhBHBkFD4sO-aqioyZ1iQCNjC9LaXh647tv1CE8AaxMSkULqcVVuWP09pAKtBP-XAu0XiT7e_MQ5UkgUAIo454cWE6a8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://finred.usalearning.gov/Money/OperationTaxPlanning&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ffinred.usalearning.gov%2FMoney%2FOperationTaxPlanning",
+      "source": "FINRED (.gov)",
+      "read_more_link": "https://finred.usalearning.gov/Money/OperationTaxPlanning#:~:text=Use%20this%20calculator%20to%20determine,prepared%20for%20any%20budgeting%20changes."
+    },
+    {
+      "position": 9,
+      "title": "Comparing A Military Salary VS. Civilian Salary",
+      "link": "https://www.hrblock.com/tax-center/income/wages/military-vs-civilian-pay/?srsltid=AfmBOoodTDtnAlxT4cU_pXryce8DU2GpJmrt9TvMREOQgicHKtX1Ke84",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hrblock.com/tax-center/income/wages/military-vs-civilian-pay/%3Fsrsltid%3DAfmBOoodTDtnAlxT4cU_pXryce8DU2GpJmrt9TvMREOQgicHKtX1Ke84&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQFnoECBAQAQ",
+      "displayed_link": "https://www.hrblock.com › tax-center › income › wages",
+      "favicon": "https://serpapi.com/searches/6a3a21e05abea590288f31ea/images/5s1s-gu5xRIosWBoP3RlJw7qFsPK-DOzSKJQj66JoII.png",
+      "snippet": "Military compensation is complicated - learn how to estimate comparable civilian pay with this military to civilian pay calculation from H&R Block.",
+      "snippet_highlighted_words": [
+        "military to civilian pay calculation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military compensation is complicated - learn how to estimate comparable civilian pay with this military to civilian pay calculation from H&R Block.",
+          "source_info_link": "https://www.hrblock.com/tax-center/income/wages/military-vs-civilian-pay/?srsltid=AfmBOoodTDtnAlxT4cU_pXryce8DU2GpJmrt9TvMREOQgicHKtX1Ke84",
+          "icon": "https://serpapi.com/searches/6a3a21e05abea590288f31ea/images/5s1s-gu5xRIosWBoP3RlJ8EmhTW8QNt3StIi0Svr0TPSzaLDuFW_tKjUJ1D6PyzA.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.hrblock.com/tax-center/income/wages/military-vs-civilian-pay/?srsltid=AfmBOoodTDtnAlxT4cU_pXryce8DU2GpJmrt9TvMREOQgicHKtX1Ke84&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.hrblock.com%2Ftax-center%2Fincome%2Fwages%2Fmilitary-vs-civilian-pay%2F%3Fsrsltid%3DAfmBOoodTDtnAlxT4cU_pXryce8DU2GpJmrt9TvMREOQgicHKtX1Ke84",
+      "source": "H&R Block"
+    },
+    {
+      "position": 10,
+      "title": "Gary Halstead Jr - Civilian vs. Military Pay Calculator",
+      "link": "https://www.linkedin.com/posts/garyshalsteadjr_civilian-vs-military-pay-calculator-activity-7282554550509608960-KZMc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/garyshalsteadjr_civilian-vs-military-pay-calculator-activity-7282554550509608960-KZMc&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQFnoECBQQAQ",
+      "displayed_link": "20+ reactions · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png",
+      "snippet": "Military Pay Calculator can help you understand the value of your military benefits and what you'll need to earn in the civilian world to match ...",
+      "snippet_highlighted_words": [
+        "Military Pay Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military Pay Calculator can help you understand the value of your military benefits and what you'll need to earn in the civilian world to match ...",
+          "source_info_link": "https://www.linkedin.com/posts/garyshalsteadjr_civilian-vs-military-pay-calculator-activity-7282554550509608960-KZMc",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/garyshalsteadjr_civilian-vs-military-pay-calculator-activity-7282554550509608960-KZMc&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fgaryshalsteadjr_civilian-vs-military-pay-calculator-activity-7282554550509608960-KZMc",
+      "source": "LinkedIn · Gary Halstead Jr",
+      "read_more_link": "https://www.linkedin.com/posts/garyshalsteadjr_civilian-vs-military-pay-calculator-activity-7282554550509608960-KZMc#:~:text=Military%20Pay%20Calculator%20can%20help,civilian%20world%20to%20match%20them."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military benefits comparison civilian calculator reddit",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Military+benefits+comparison+civilian+calculator+reddit&sa=X&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Military+benefits+comparison+civilian+calculator+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits comparison civilian calculator army",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Military+benefits+comparison+civilian+calculator+army&sa=X&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Military+benefits+comparison+civilian+calculator+army"
+    },
+    {
+      "block_position": 1,
+      "query": "Military vs civilian pay calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Military+vs+civilian+pay+calculator&sa=X&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Military+vs+civilian+pay+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Military pay calculator monthly",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Military+pay+calculator+monthly&sa=X&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Military+pay+calculator+monthly"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits comparison civilian calculator california",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Military+benefits+comparison+civilian+calculator+california&sa=X&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Military+benefits+comparison+civilian+calculator+california"
+    },
+    {
+      "block_position": 1,
+      "query": "Military pay calculator 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Military+pay+calculator+2026&sa=X&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Military+pay+calculator+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Military pay calculator after taxes",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Military+pay+calculator+after+taxes&sa=X&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Military+pay+calculator+after+taxes"
+    },
+    {
+      "block_position": 1,
+      "query": "Regular Military Compensation (RMC) calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&gl=us&hl=en&q=Regular+Military+Compensation+(RMC)+calculator&sa=X&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Regular+Military+Compensation+%28RMC%29+calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+benefits+comparison+civilian+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=4SE6ar_ZMeeB9u8P4MbXuAU&start=10&sa=N&sstk=AU9db-DzttpNTuNVqblfE4tnaim5MvfUoSr04sN1j5j5-Vb3x9LSPcn35mg8VRxG_WI8O109W1GkRjS23KMvVnHZ5p9cJl53rKsW_g&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ8NMDegQINRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+benefits+comparison+civilian+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=4SE6ar_ZMeeB9u8P4MbXuAU&start=10&sa=N&sstk=AU9db-DzttpNTuNVqblfE4tnaim5MvfUoSr04sN1j5j5-Vb3x9LSPcn35mg8VRxG_WI8O109W1GkRjS23KMvVnHZ5p9cJl53rKsW_g&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ8tMDegQINRAE",
+      "3": "https://www.google.com/search?q=military+benefits+comparison+civilian+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=4SE6ar_ZMeeB9u8P4MbXuAU&start=20&sa=N&sstk=AU9db-DzttpNTuNVqblfE4tnaim5MvfUoSr04sN1j5j5-Vb3x9LSPcn35mg8VRxG_WI8O109W1GkRjS23KMvVnHZ5p9cJl53rKsW_g&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ8tMDegQINRAG",
+      "4": "https://www.google.com/search?q=military+benefits+comparison+civilian+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=4SE6ar_ZMeeB9u8P4MbXuAU&start=30&sa=N&sstk=AU9db-DzttpNTuNVqblfE4tnaim5MvfUoSr04sN1j5j5-Vb3x9LSPcn35mg8VRxG_WI8O109W1GkRjS23KMvVnHZ5p9cJl53rKsW_g&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ8tMDegQINRAI",
+      "5": "https://www.google.com/search?q=military+benefits+comparison+civilian+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=4SE6ar_ZMeeB9u8P4MbXuAU&start=40&sa=N&sstk=AU9db-DzttpNTuNVqblfE4tnaim5MvfUoSr04sN1j5j5-Vb3x9LSPcn35mg8VRxG_WI8O109W1GkRjS23KMvVnHZ5p9cJl53rKsW_g&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ8tMDegQINRAK",
+      "6": "https://www.google.com/search?q=military+benefits+comparison+civilian+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=4SE6ar_ZMeeB9u8P4MbXuAU&start=50&sa=N&sstk=AU9db-DzttpNTuNVqblfE4tnaim5MvfUoSr04sN1j5j5-Vb3x9LSPcn35mg8VRxG_WI8O109W1GkRjS23KMvVnHZ5p9cJl53rKsW_g&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ8tMDegQINRAM",
+      "7": "https://www.google.com/search?q=military+benefits+comparison+civilian+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=4SE6ar_ZMeeB9u8P4MbXuAU&start=60&sa=N&sstk=AU9db-DzttpNTuNVqblfE4tnaim5MvfUoSr04sN1j5j5-Vb3x9LSPcn35mg8VRxG_WI8O109W1GkRjS23KMvVnHZ5p9cJl53rKsW_g&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ8tMDegQINRAO",
+      "8": "https://www.google.com/search?q=military+benefits+comparison+civilian+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=4SE6ar_ZMeeB9u8P4MbXuAU&start=70&sa=N&sstk=AU9db-DzttpNTuNVqblfE4tnaim5MvfUoSr04sN1j5j5-Vb3x9LSPcn35mg8VRxG_WI8O109W1GkRjS23KMvVnHZ5p9cJl53rKsW_g&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ8tMDegQINRAQ",
+      "9": "https://www.google.com/search?q=military+benefits+comparison+civilian+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=4SE6ar_ZMeeB9u8P4MbXuAU&start=80&sa=N&sstk=AU9db-DzttpNTuNVqblfE4tnaim5MvfUoSr04sN1j5j5-Vb3x9LSPcn35mg8VRxG_WI8O109W1GkRjS23KMvVnHZ5p9cJl53rKsW_g&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ8tMDegQINRAS",
+      "10": "https://www.google.com/search?q=military+benefits+comparison+civilian+calculator&sca_esv=c510ba4e6526f391&gl=us&hl=en&ei=4SE6ar_ZMeeB9u8P4MbXuAU&start=90&sa=N&sstk=AU9db-DzttpNTuNVqblfE4tnaim5MvfUoSr04sN1j5j5-Vb3x9LSPcn35mg8VRxG_WI8O109W1GkRjS23KMvVnHZ5p9cJl53rKsW_g&ved=2ahUKEwj_zf-72JyVAxXngP0HHWDjFVcQ8tMDegQINRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+comparison+civilian+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+comparison+civilian+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+comparison+civilian+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+comparison+civilian+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+comparison+civilian+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+comparison+civilian+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+comparison+civilian+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+comparison+civilian+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+comparison+civilian+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+comparison+civilian+calculator&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=military+benefits+comparison+civilian+calculator&start=90"
+    }
+  }
+}

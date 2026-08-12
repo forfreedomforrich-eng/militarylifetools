@@ -1,0 +1,391 @@
+{
+  "search_metadata": {
+    "id": "6a3a207d8da5ea1185e7656a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0U-WreSPn0CIxeeLwcPGwA/6a3a207d8da5ea1185e7656a.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/0U-WreSPn0CIxeeLwcPGwA/6a3a207d8da5ea1185e7656a.json_with_pixel_position",
+    "created_at": "2026-06-23 05:58:21 UTC",
+    "processed_at": "2026-06-23 05:58:21 UTC",
+    "google_url": "https://www.google.com/search?q=veteran+disability+calculator+rating&oq=veteran+disability+calculator+rating&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0U-WreSPn0CIxeeLwcPGwA/6a3a207d8da5ea1185e7656a.html",
+    "total_time_taken": 2.01
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "veteran disability calculator rating",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "veteran disability calculator rating",
+    "total_results": 104,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "6ElvD3icxZbbkqJIEEDf9z_Wl24FxWtHEBNVCIr32tbpwRcDEAsUwaZQ1Lf5l_2qfdwv2eKm0Gp37ERsbBlSt6wkszKP6c8_bcvZ_PXb36bv78gLwwRBUMKui22jpLtbRiUnR2dWrk083fx2OvBcQSc8WzAsfmWBuko0uTfv49rInbTmp_UJsYXoCL_QVGKsqcbjmjALhj42v3NtOimRkuGUtIlurbp-N5jhUoUtt0pjRt1SAfAfNhH8EfWIfmTayzcS4evxF1qQHB58zawImWfahrEiWY464aFSIbFCUEKRdnHuVSFoo2it-4kVr_npW_gQQQAADE0U0b0z94xI19ykhw_fKN4uRcIweVc7q_6RvzAbYBTqnDaBcA1E6jIEqQdUBNMxjDXWAKxOAqEjfBImurPDXdEsortGZ5rUF3dBMh4oHWoRs8Q0CVlG82hXZizd1KOBR8LcFKYt1pUcMB_V92Z_yg2FxYKb9R3ZNW2nsmsiRteonO2qS2O5MBfst2herpRrbItrNJ8jKHRyoYJkqZjXhzbgeitOAqVBCZYzSESXIed8DtMNPnCvn9zhB3EQa4meyd2ktzxLxaCb0pEsrDdhVimXhWYYCvPjG0Ndt0ikDWcHFInIbHl2OZkVD4cyzJgat_bHeF_niQ8K6KOLy2LG4vgixOx8EyqXO-lCcNkKtWIbRIhTJMRE4Th3HmcNo5cFBSCm2xcLQpn25iImRhaG2wpCCpAliigNH06dT0JJkZDzdwfWuZmEw6-A7wL-VYPXgD9qIkhz_0Mq5xBouN8rkl9syzPUHZPK8Xzujs7SaWx6-H7Ku1vtX1QC_f-FYpbUiVlCQv8uFPgLKJAsflonYruvdSLMFcF9BIWQQJGvE3HiXuvELRSveSge14kMFLGWz6GAD6GIf1ZuoQjrxA0U-AEUcZ3IQpGvE85Fc-hBBopfqhPoF-pExIgRd_misV_jh8WjE2iy_aPrS_W9P7U54hWl4vm7WCSDd_Bl8Vht_ZeturSfF9byBVZ6_mn5vKAL7ouxLLzzB8M3PNV5WlpE1Szb8k9Pumrre1v1Xe_JU33LwYWt7bk8qzbmR2PTr5k9ztqfGn4VQVcTvf5-3BCd9pzUhpOGyHLOlCPB2XDg69uPwGxKiqYXdweIm4JEM5ttBS3xOAzGq9GqiJRKb6aMOxNO8UZVjNCeFOeatTq3ZK4z8KDC7caC2FqAc9uAnux1pTM-1IZc-f1YViOrCK-vBmNFtdrFGipQt4jBlwtbT-cpCFUMRgi8YaBTAgCi_6eQ4NJvQONfILq6MMiB12tlVlOrRr1Wqa-4Fj2M_dOOr7QKxPH48j_lHhdT",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6ElvD3icxZbbkqJIEEDf9z_Wl24FxWtHEBNVCIr32tbpwRcDEAsUwaZQ1Lf5l_2qfdwv2eKm0Gp37ERsbBlSt6wkszKP6c8_bcvZ_PXb36bv78gLwwRBUMKui22jpLtbRiUnR2dWrk083fx2OvBcQSc8WzAsfmWBuko0uTfv49rInbTmp_UJsYXoCL_QVGKsqcbjmjALhj42v3NtOimRkuGUtIlurbp-N5jhUoUtt0pjRt1SAfAfNhH8EfWIfmTayzcS4evxF1qQHB58zawImWfahrEiWY464aFSIbFCUEKRdnHuVSFoo2it-4kVr_npW_gQQQAADE0U0b0z94xI19ykhw_fKN4uRcIweVc7q_6RvzAbYBTqnDaBcA1E6jIEqQdUBNMxjDXWAKxOAqEjfBImurPDXdEsortGZ5rUF3dBMh4oHWoRs8Q0CVlG82hXZizd1KOBR8LcFKYt1pUcMB_V92Z_yg2FxYKb9R3ZNW2nsmsiRteonO2qS2O5MBfst2herpRrbItrNJ8jKHRyoYJkqZjXhzbgeitOAqVBCZYzSESXIed8DtMNPnCvn9zhB3EQa4meyd2ktzxLxaCb0pEsrDdhVimXhWYYCvPjG0Ndt0ikDWcHFInIbHl2OZkVD4cyzJgat_bHeF_niQ8K6KOLy2LG4vgixOx8EyqXO-lCcNkKtWIbRIhTJMRE4Th3HmcNo5cFBSCm2xcLQpn25iImRhaG2wpCCpAliigNH06dT0JJkZDzdwfWuZmEw6-A7wL-VYPXgD9qIkhz_0Mq5xBouN8rkl9syzPUHZPK8Xzujs7SaWx6-H7Ku1vtX1QC_f-FYpbUiVlCQv8uFPgLKJAsflonYruvdSLMFcF9BIWQQJGvE3HiXuvELRSveSge14kMFLGWz6GAD6GIf1ZuoQjrxA0U-AEUcZ3IQpGvE85Fc-hBBopfqhPoF-pExIgRd_misV_jh8WjE2iy_aPrS_W9P7U54hWl4vm7WCSDd_Bl8Vht_ZeturSfF9byBVZ6_mn5vKAL7ouxLLzzB8M3PNV5WlpE1Szb8k9Pumrre1v1Xe_JU33LwYWt7bk8qzbmR2PTr5k9ztqfGn4VQVcTvf5-3BCd9pzUhpOGyHLOlCPB2XDg69uPwGxKiqYXdweIm4JEM5ttBS3xOAzGq9GqiJRKb6aMOxNO8UZVjNCeFOeatTq3ZK4z8KDC7caC2FqAc9uAnux1pTM-1IZc-f1YViOrCK-vBmNFtdrFGipQt4jBlwtbT-cpCFUMRgi8YaBTAgCi_6eQ4NJvQONfILq6MMiB12tlVlOrRr1Wqa-4Fj2M_dOOr7QKxPH48j_lHhdT"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "About Disability Ratings | Veterans Affairs",
+      "link": "https://www.va.gov/disability/about-disability-ratings/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.va.gov/disability/about-disability-ratings/&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQFnoECBgQAQ",
+      "displayed_link": "https://www.va.gov › disability › about-disability-ratings",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUWHEwFD0YAC0UIEUcRGEoUGksMFEhvcox2eZFgZIEyNl56fZVTVnUAAEHT1Nv____7-_yanK09QWQ4PGIAAECIip5YW3jZ2uDGx9AAADV_gpYnLVkjKFb39_nv7_IAADrj5OikprcAADglKlbo6e61t8SipLMcIlCRk6ZITG4AAD2-v8lTV3VeVWWWAAABGklEQVR4Ac2RhRXDMAwFA7YbvjLbKfP-81Uqj9Afkt45wugPFSdJ-jBMkiTWipu4N3OdLMtjZUWZlUUsbla9ad1At1ajJ0Z_0AWa-gWHI2CcCpzAdDZHtTBPaJZAr45c30M5m0KAMnlCq3EnbZSU4PsmsFrDtLaC3rkWZjiFZtMRkIOPXtANgLLe7mA0W2sKD1L_U8kK9puxRq3FrDTv_l1vfYAwk1fTVrAbHE_yTt5xz9rgBEabk1ghBODsXvWmOzgFiXppeOvwibuHiUYdeLiu1-ud-G8Yj1GN2gz84jKc9X6GZI8BJGo7ff6R3vToZ75TdErboF3K4Yv_Gb47l7KndJtl5UCjpeMs63yX-tiwLlqY0iSJo__THWPcGFaQjPxnAAAAAElFTkSuQmCC.png",
+      "date": "Nov 5, 2024",
+      "snippet": "If you have multiple disability ratings, we use the table below to calculate your combined VA disability rating. Calculating your combined ...",
+      "snippet_highlighted_words": [
+        "disability ratings",
+        "calculate",
+        "VA disability rating",
+        "Calculating"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you have multiple disability ratings, we use the table below to calculate your combined VA disability rating. Calculating your combined ...",
+          "source_info_link": "https://www.va.gov/disability/about-disability-ratings/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUWHEwFD0YAC0UIEUcRGEoUGksMFEhvcox2eZFgZIEyNl56fZVTVnUAAEHT1Nv____7-_yanK09QWQ4PGIAAECIip5YW3jZ2uDGx9AAADV_gpYnLVkjKFb39_nv7_IAADrj5OikprcAADglKlbo6e61t8SipLMcIlCRk6ZITG4AAD2-v8lTV3VeVWWWAAABGklEQVR4Ac2RhRXDMAwFA7YbvjLbKfP-81Uqj9Afkt45wugPFSdJ-jBMkiTWipu4N3OdLMtjZUWZlUUsbla9ad1At1ajJ0Z_0AWa-gWHI2CcCpzAdDZHtTBPaJZAr45c30M5m0KAMnlCq3EnbZSU4PsmsFrDtLaC3rkWZjiFZtMRkIOPXtANgLLe7mA0W2sKD1L_U8kK9puxRq3FrDTv_l1vfYAwk1fTVrAbHE_yTt5xz9rgBEabk1ghBODsXvWmOzgFiXppeOvwibuHiUYdeLiu1-ud-G8Yj1GN2gz84jKc9X6GZI8BJGo7ff6R3vToZ75TdErboF3K4Yv_Gb47l7KndJtl5UCjpeMs63yX-tiwLlqY0iSJo__THWPcGFaQjPxnAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.va.gov/disability/about-disability-ratings/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.va.gov%2Fdisability%2Fabout-disability-ratings%2F",
+      "source": "VA.gov Home | Veterans Affairs",
+      "read_more_link": "https://www.va.gov/disability/about-disability-ratings/#:~:text=If%20you%20have%20multiple%20disability,adding%20up%20your%20individual%20ratings."
+    },
+    {
+      "position": 2,
+      "title": "2026 VA Disability Ratings Calculator",
+      "link": "https://www.hillandponton.com/va-disability-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hillandponton.com/va-disability-calculator/&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQFnoECBsQAQ",
+      "displayed_link": "https://www.hillandponton.com › va-disability-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAB8ElEQVR4Ae2WAUQDYRTHDwApxjBhBNMwoCEw0EJhE1IAAzATWCsJJmULrWQwKKnQQixKRBuFEGkzDCQ2hMwY7fX9z423b7vbXSZk-GHPu-93773vu2-KPzL3pwyF_0CozCa9Ao_AxXBrcYeWiLwxLeZmOXaBU4p5AOJ6woAgKyBGXRDmD2mLhwTvLG9L8NbxrD_5JMWQH-5qKSQsKaDXElTChRAwWawzNzHN1i13CPlbIdFAaDcrBBgLy0__TujbIRVvfL2PUF67zoNlU0JlxBZJXBHI5Yu3QvLSVziTyLdzLAuJKHhdKJHi2qST3HOrWKmSMhXvV2GtPcdeQuAxEO6pkvE12j26r1Y-PiFEi_Vm6GPrhnsL0Sa0oQfOhdRrq0WEKtFS_J5fOSawnbnbl2RhJssiJgv5-Qp1MRpdzFw8Xh6cFwjS7xadKRMbD3gGLwBpj_OcZh3TFXr15vfVaKrzm1w6hFSdI9oLoWKLriLPCEubpt5olkB7Zsux05u2FLsWx2SgQrQQAuRAiIowR8RQsRmh5YMPKdqKOUKGnYpdi92K-RLR2MAqBDj5qM4RTKkVYeeixcBqhWY_3m6dbylIm7kPQ_x64p8p3AxM5NBiNcPrCTGjF2aXp1MCcbt0AbulHMQcUswFhn-ihsKB8QMkF_kacfPgfQAAAABJRU5ErkJggg.png",
+      "snippet": "Questioning how the VA determined your combined rating? Use our 2026 VA Disability Calculator to calculate your monthly compensation rate.",
+      "snippet_highlighted_words": [
+        "Use our 2026 VA Disability Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Questioning how the VA determined your combined rating? Use our 2026 VA Disability Calculator to calculate your monthly compensation rate.",
+          "source_info_link": "https://www.hillandponton.com/va-disability-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAB8ElEQVR4Ae2WAUQDYRTHDwApxjBhBNMwoCEw0EJhE1IAAzATWCsJJmULrWQwKKnQQixKRBuFEGkzDCQ2hMwY7fX9z423b7vbXSZk-GHPu-93773vu2-KPzL3pwyF_0CozCa9Ao_AxXBrcYeWiLwxLeZmOXaBU4p5AOJ6woAgKyBGXRDmD2mLhwTvLG9L8NbxrD_5JMWQH-5qKSQsKaDXElTChRAwWawzNzHN1i13CPlbIdFAaDcrBBgLy0__TujbIRVvfL2PUF67zoNlU0JlxBZJXBHI5Yu3QvLSVziTyLdzLAuJKHhdKJHi2qST3HOrWKmSMhXvV2GtPcdeQuAxEO6pkvE12j26r1Y-PiFEi_Vm6GPrhnsL0Sa0oQfOhdRrq0WEKtFS_J5fOSawnbnbl2RhJssiJgv5-Qp1MRpdzFw8Xh6cFwjS7xadKRMbD3gGLwBpj_OcZh3TFXr15vfVaKrzm1w6hFSdI9oLoWKLriLPCEubpt5olkB7Zsux05u2FLsWx2SgQrQQAuRAiIowR8RQsRmh5YMPKdqKOUKGnYpdi92K-RLR2MAqBDj5qM4RTKkVYeeixcBqhWY_3m6dbylIm7kPQ_x64p8p3AxM5NBiNcPrCTGjF2aXp1MCcbt0AbulHMQcUswFhn-ihsKB8QMkF_kacfPgfQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.hillandponton.com/va-disability-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.hillandponton.com%2Fva-disability-calculator%2F",
+      "source": "Hill & Ponton"
+    },
+    {
+      "position": 3,
+      "title": "VA Disability Calculator",
+      "link": "https://www.dav.org/disability-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dav.org/disability-calculator/&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQFnoECBYQAQ",
+      "displayed_link": "https://www.dav.org › disability-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcExdXFpdXFpdXFpcW1pbWlpbWlq1vzW0vzS4wzK1vzRdXFpdXFq1vzS0vjW0vjW4wzJdXFpZWFu0vjWxujdWVFxdXFq0vjVLSmJdXFoAAPrkyNr_AAAAG3RSTlMA4OqUp8VM5ngXnP_Ttf_0ivpUUj0QbCwJNwJYsTzkAAAAlklEQVR4Ae3QBQLCMBAEwI3LNnX__0O54PAFuDY6cfwDgFLaWKUMAKe91j6EEIEUQvYgaVzN0JCetKVtO6Bv2wIMd-R4T1PbtjO6B1pU9JKWlRwF8ybZ9IW7oOsrSMIXHo1k8w3LN46SeAaR3M53XJ8zrWR7rEdqIUEO9nqV474nlyQY48cjHFrpfZVsQQmh4D3OEz8bFzDcCwLgN5qyAAAAAElFTkSuQmCC.png",
+      "snippet": "Use our VA Disability Calculator to determine your veteran's benefits. Get the support you need with DAV's range of services.",
+      "snippet_highlighted_words": [
+        "Use our VA Disability Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our VA Disability Calculator to determine your veteran's benefits. Get the support you need with DAV's range of services.",
+          "source_info_link": "https://www.dav.org/disability-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcExdXFpdXFpdXFpcW1pbWlpbWlq1vzW0vzS4wzK1vzRdXFpdXFq1vzS0vjW0vjW4wzJdXFpZWFu0vjWxujdWVFxdXFq0vjVLSmJdXFoAAPrkyNr_AAAAG3RSTlMA4OqUp8VM5ngXnP_Ttf_0ivpUUj0QbCwJNwJYsTzkAAAAlklEQVR4Ae3QBQLCMBAEwI3LNnX__0O54PAFuDY6cfwDgFLaWKUMAKe91j6EEIEUQvYgaVzN0JCetKVtO6Bv2wIMd-R4T1PbtjO6B1pU9JKWlRwF8ybZ9IW7oOsrSMIXHo1k8w3LN46SeAaR3M53XJ8zrWR7rEdqIUEO9nqV474nlyQY48cjHFrpfZVsQQmh4D3OEz8bFzDcCwLgN5qyAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.dav.org/disability-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.dav.org%2Fdisability-calculator%2F",
+      "source": "DAV : Disabled American Veterans"
+    },
+    {
+      "position": 4,
+      "title": "2026 VA Disability Calculator",
+      "link": "https://veteransguide.org/va-disability-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://veteransguide.org/va-disability-calculator/&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQFnoECBkQAQ",
+      "displayed_link": "https://veteransguide.org › va-disability-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAgVBMVEVHcEz____________7-_z________________JzNWHjaJDT3QwP2qcobIaLF19g5vP0dqVmq3___-_ws4JIFeussBcZYT98vT5tbpmbor84eTuBRnx6-7zc371jZb1jpf6wsbwPE70fIfwP1D819rk5usACEvZ2-PwQVL2kZn2kJl8_-dlAAAAE3RSTlMATZTN-v_OGaX____________oAbC63QAAAbxJREFUeAFtk4W2ozAARJHcCpLgTr2wu___gUty0HferZchMpmxdtiOK0CcHNv6hfOFq-cHE7535XL-ed0hlCoSACJSMsY53p6kWc6OPEuT8-46qsBQVlWJoVCct-t1DGXTQNO2-r0pIa5XRaJioGt74HYH-rYDYpXM60sLgMfzVWIoX--HmSV1zARIgeYD39zz8g4-GKSZ5BLmlN0D6IohU7E_1CXw6Ery8DIJkHpt7w_RkGUFjNPHyOetVyuZ_L0qaPoX3XQhC5l0UmYlr74BdbUtx4vMwvAzLx89GLWgxiw48hzr5As0YwppNox4k0AOHRrhu5YItEfwhVQZQ1SWSW28disQFgFU7Y09fpbF3NoKAmbBnXBkRWjBfRYsU-RDVrNQDNsU7rzI7yCHkJlwXeRp22aRSclMWmzbtK_eYpQcvmg6vl9jFN7VXqx-aquHFM0o4PNcrLYucU7ZmMPyv6uAR1OSxxdz3BmGDwuH49aBqQEef7bA_HkA1Kmzj1xjIvf3n4lcs0XOTFL8FtpiH2tV_4x9rTgfiiOPxZFLcRYcYukt1fOO1dvKq_zAn57qUN5D_U8ChHuo_39atypIR1xk3wAAAABJRU5ErkJggg.png",
+      "snippet": "The calculator allows veterans to enter their disabilities and ratings, then provides a combined disability rating as well as what the 2026 VA monthly payment ...",
+      "snippet_highlighted_words": [
+        "calculator",
+        "veterans",
+        "ratings",
+        "disability rating",
+        "VA"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The calculator allows veterans to enter their disabilities and ratings, then provides a combined disability rating as well as what the 2026 VA monthly payment ...",
+          "source_info_link": "https://veteransguide.org/va-disability-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAgVBMVEVHcEz____________7-_z________________JzNWHjaJDT3QwP2qcobIaLF19g5vP0dqVmq3___-_ws4JIFeussBcZYT98vT5tbpmbor84eTuBRnx6-7zc371jZb1jpf6wsbwPE70fIfwP1D819rk5usACEvZ2-PwQVL2kZn2kJl8_-dlAAAAE3RSTlMATZTN-v_OGaX____________oAbC63QAAAbxJREFUeAFtk4W2ozAARJHcCpLgTr2wu___gUty0HferZchMpmxdtiOK0CcHNv6hfOFq-cHE7535XL-ed0hlCoSACJSMsY53p6kWc6OPEuT8-46qsBQVlWJoVCct-t1DGXTQNO2-r0pIa5XRaJioGt74HYH-rYDYpXM60sLgMfzVWIoX--HmSV1zARIgeYD39zz8g4-GKSZ5BLmlN0D6IohU7E_1CXw6Ery8DIJkHpt7w_RkGUFjNPHyOetVyuZ_L0qaPoX3XQhC5l0UmYlr74BdbUtx4vMwvAzLx89GLWgxiw48hzr5As0YwppNox4k0AOHRrhu5YItEfwhVQZQ1SWSW28disQFgFU7Y09fpbF3NoKAmbBnXBkRWjBfRYsU-RDVrNQDNsU7rzI7yCHkJlwXeRp22aRSclMWmzbtK_eYpQcvmg6vl9jFN7VXqx-aquHFM0o4PNcrLYucU7ZmMPyv6uAR1OSxxdz3BmGDwuH49aBqQEef7bA_HkA1Kmzj1xjIvf3n4lcs0XOTFL8FtpiH2tV_4x9rTgfiiOPxZFLcRYcYukt1fOO1dvKq_zAn57qUN5D_U8ChHuo_39atypIR1xk3wAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://veteransguide.org/va-disability-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fveteransguide.org%2Fva-disability-calculator%2F",
+      "source": "Veterans Guide",
+      "read_more_link": "https://veteransguide.org/va-disability-calculator/#:~:text=The%20calculator%20allows%20veterans%20to,VA%20monthly%20payment%20should%20be"
+    },
+    {
+      "position": 5,
+      "title": "2026 VA Disability Calculator - Berry Law",
+      "link": "https://ptsdlawyers.com/veterans-disability-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ptsdlawyers.com/veterans-disability-calculator/&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQFnoECBoQAQ",
+      "displayed_link": "https://ptsdlawyers.com › veterans-disability-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEVHcEwtS1opSVYfQ1EkRlQnR1YPOkkzUV4rSlhZb3lzho4pSVYYQE8fRFJJY26Gl57J0tUsS1j-___v8_Xc4-U4VmK3wsYOO0oAMkOptbppfoeaqK4aCG9sAAAAEnRSTlMAE2faRy5rDez___--_____6_CMRUiAAABI0lEQVR4AW3SB4KDMAwEQGqKZWFn3eH__zxxSg9LZ8C967q-O4y-HsZJH-fTOA767jxcBsWrodHakRfniehib3aUq-LJIETvYwDApHlH7IAXpnfM5QNrbPxCtBSBEMApcUmxfRQLV5tzHry25uDLJ-J6zQCY6-oD0xc6-VewGOT8jXHDUjPKipCc4U_MHkHUiPGyfaLmWsQEmA4wV2x1hwP01WS4QprpPvAPc6jtqbPOVPq3KAYuG4zqWeeOw25FDESiK4uNnWb0ANIGwK-FiwtJ8CbwaFGWD2I03qxUro61PXt6jlrrUuQgYtZSNUMK0PZqfdrWl8YdXTaNX518ZOJNMEB7cZm_Vqld_GOZ3M7dd6ZxyUFIV_EvWyKrdJS-_3j8A_1JHu7qdLF-AAAAAElFTkSuQmCC.png",
+      "snippet": "Review Real-Time Results: As you input your data, the tool applies “VA math” to show your potential combined rating and the updated 2026 monthly payment amount.",
+      "snippet_highlighted_words": [
+        "Review",
+        "VA",
+        "rating"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Review Real-Time Results: As you input your data, the tool applies “VA math” to show your potential combined rating and the updated 2026 monthly payment amount.",
+          "source_info_link": "https://ptsdlawyers.com/veterans-disability-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEVHcEwtS1opSVYfQ1EkRlQnR1YPOkkzUV4rSlhZb3lzho4pSVYYQE8fRFJJY26Gl57J0tUsS1j-___v8_Xc4-U4VmK3wsYOO0oAMkOptbppfoeaqK4aCG9sAAAAEnRSTlMAE2faRy5rDez___--_____6_CMRUiAAABI0lEQVR4AW3SB4KDMAwEQGqKZWFn3eH__zxxSg9LZ8C967q-O4y-HsZJH-fTOA767jxcBsWrodHakRfniehib3aUq-LJIETvYwDApHlH7IAXpnfM5QNrbPxCtBSBEMApcUmxfRQLV5tzHry25uDLJ-J6zQCY6-oD0xc6-VewGOT8jXHDUjPKipCc4U_MHkHUiPGyfaLmWsQEmA4wV2x1hwP01WS4QprpPvAPc6jtqbPOVPq3KAYuG4zqWeeOw25FDESiK4uNnWb0ANIGwK-FiwtJ8CbwaFGWD2I03qxUro61PXt6jlrrUuQgYtZSNUMK0PZqfdrWl8YdXTaNX518ZOJNMEB7cZm_Vqld_GOZ3M7dd6ZxyUFIV_EvWyKrdJS-_3j8A_1JHu7qdLF-AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ptsdlawyers.com/veterans-disability-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fptsdlawyers.com%2Fveterans-disability-calculator%2F",
+      "source": "ptsdlawyers.com",
+      "read_more_link": "https://ptsdlawyers.com/veterans-disability-calculator/#:~:text=Review%20Real%2DTime%20Results%3A%20As%20you,updated%202026%20monthly%20payment%20amount."
+    },
+    {
+      "position": 6,
+      "title": "2026 VA Disability Calculator With Rates and Pay Charts",
+      "link": "https://www.veteransunited.com/network/military-disability-compensation-rate-tables/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.veteransunited.com/network/military-disability-compensation-rate-tables/&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQFnoECB0QAQ",
+      "displayed_link": "https://www.veteransunited.com › network › military-di...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABPUlEQVR4AWJwL_ChKx61EAPzuKQBaCtbGAZhIAp7MYOdRODmEfMavKzApz6hXtTgXe28Yl7gM4nHzbMTb8vLpSFH0okvGQf0u7-MRthA8zchZEHYFaGoEKKrsLKIwb0rPw8udqGuykbAOxuuo1nIVZ1kMQtJNtABOekGMq09nq8WXYSFD4A8CSvFAuBYwrMsXfQcc1Uxke7PiCWKJcRmikXEmOEn5KoYal0DKH4Yy88d1X63MFKbdEv5tzlGksAOmqFqSQFMWwrhjKx64U7QAhUR2sHseySWiIjEmtN_ba_6VgsdaIW66NcCEie8hf2Ap-CF9iBRJ3QW4aQFJvJJThahh9ShjRWoce1R4W5gLLY0asYj4XSrGcthHjhcV6WXZjTO68Ftx7sVJToJ3rw0hTAtjUP2JXCfjbZLaY4BRRj23tmJ2XwAAAAASUVORK5CYII.png",
+      "snippet": "If you're unsure what your VA disability rating might be, our calculator can also help you estimate your combined VA disability percentage based on your service ...",
+      "snippet_highlighted_words": [
+        "our calculator can also help you estimate your combined VA disability percentage"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you're unsure what your VA disability rating might be, our calculator can also help you estimate your combined VA disability percentage based on your service ...",
+          "source_info_link": "https://www.veteransunited.com/network/military-disability-compensation-rate-tables/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABPUlEQVR4AWJwL_ChKx61EAPzuKQBaCtbGAZhIAp7MYOdRODmEfMavKzApz6hXtTgXe28Yl7gM4nHzbMTb8vLpSFH0okvGQf0u7-MRthA8zchZEHYFaGoEKKrsLKIwb0rPw8udqGuykbAOxuuo1nIVZ1kMQtJNtABOekGMq09nq8WXYSFD4A8CSvFAuBYwrMsXfQcc1Uxke7PiCWKJcRmikXEmOEn5KoYal0DKH4Yy88d1X63MFKbdEv5tzlGksAOmqFqSQFMWwrhjKx64U7QAhUR2sHseySWiIjEmtN_ba_6VgsdaIW66NcCEie8hf2Ap-CF9iBRJ3QW4aQFJvJJThahh9ShjRWoce1R4W5gLLY0asYj4XSrGcthHjhcV6WXZjTO68Ftx7sVJToJ3rw0hTAtjUP2JXCfjbZLaY4BRRj23tmJ2XwAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.veteransunited.com/network/military-disability-compensation-rate-tables/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.veteransunited.com%2Fnetwork%2Fmilitary-disability-compensation-rate-tables%2F",
+      "source": "Veterans United Home Loans",
+      "read_more_link": "https://www.veteransunited.com/network/military-disability-compensation-rate-tables/#:~:text=If%20you're%20unsure%20what%20your,based%20on%20your%20service%2Dconnected%20conditions."
+    },
+    {
+      "position": 7,
+      "title": "VA Disability Rating Calculator",
+      "link": "https://qrflegal.com/va-disability-rating-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://qrflegal.com/va-disability-rating-calculator/&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQFnoECB4QAQ",
+      "displayed_link": "https://qrflegal.com › va-disability-rating-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEX____96O3xqbqofYv3ytWJU2X61N3____88_YABmnniJ7qaImOl7djcp-LRVu9lKHu6fDuna48TYnwvMnXn620bYHNWHfsVXp3gqmiWm7GADX33OTJp7Lh5O1IV47__P7OyMu2PV3P1OGtkbC5D0XbPWWFVN73AAAAAXRSTlP5hIeS3gAAAHxJREFUKJHtz8cOg0AMBFC2eFlvpfcUIPn_X0SIBA6JEBK3KHN9M5IdhDsJ_ngM5dDyVn7FyiKO5aNpiuxObnN3xciiQbT10wHkdRxTyjdMrsZUCXYMAFyvtVI0FfKFl6UWpZ3SZZG7jHnP-Lz-uFYSIbgg7-W5P38f9zIBPW8XQmSuYQsAAAAASUVORK5CYII.png",
+      "snippet": "This calculator is meant to provide estimates of a potential combined rating award and is not an exact calculation or a guarantee of compensation.",
+      "snippet_highlighted_words": [
+        "calculator",
+        "rating"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator is meant to provide estimates of a potential combined rating award and is not an exact calculation or a guarantee of compensation.",
+          "source_info_link": "https://qrflegal.com/va-disability-rating-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEX____96O3xqbqofYv3ytWJU2X61N3____88_YABmnniJ7qaImOl7djcp-LRVu9lKHu6fDuna48TYnwvMnXn620bYHNWHfsVXp3gqmiWm7GADX33OTJp7Lh5O1IV47__P7OyMu2PV3P1OGtkbC5D0XbPWWFVN73AAAAAXRSTlP5hIeS3gAAAHxJREFUKJHtz8cOg0AMBFC2eFlvpfcUIPn_X0SIBA6JEBK3KHN9M5IdhDsJ_ngM5dDyVn7FyiKO5aNpiuxObnN3xciiQbT10wHkdRxTyjdMrsZUCXYMAFyvtVI0FfKFl6UWpZ3SZZG7jHnP-Lz-uFYSIbgg7-W5P38f9zIBPW8XQmSuYQsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://qrflegal.com/va-disability-rating-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fqrflegal.com%2Fva-disability-rating-calculator%2F",
+      "source": "QRF Legal Services",
+      "read_more_link": "https://qrflegal.com/va-disability-rating-calculator/#:~:text=Disclaimer%3A%20This%20calculator%20is%20meant,of%20compensation%2C%20you%20will%20receive."
+    },
+    {
+      "position": 8,
+      "title": "VA Disability Rating Calculator",
+      "link": "https://www.microhealthllc.com/veterans-calculators/va-disability-rating-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.microhealthllc.com/veterans-calculators/va-disability-rating-calculator/&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQFnoECBwQAQ",
+      "displayed_link": "https://www.microhealthllc.com › Veterans",
+      "snippet": "Calculate your VA disability rating accurately with our free tool. Easy-to-use VA Disability Rating Calculator for veterans.",
+      "snippet_highlighted_words": [
+        "Calculate your VA disability rating accurately with our free tool"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculate your VA disability rating accurately with our free tool. Easy-to-use VA Disability Rating Calculator for veterans.",
+          "source_info_link": "https://www.microhealthllc.com/veterans-calculators/va-disability-rating-calculator/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.microhealthllc.com/veterans-calculators/va-disability-rating-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.microhealthllc.com%2Fveterans-calculators%2Fva-disability-rating-calculator%2F",
+      "source": "MicroHealth, LLC"
+    },
+    {
+      "position": 9,
+      "title": "VA Ratings Calculator 2026 - Updated Disability Benefits",
+      "link": "https://roblevine.com/va-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://roblevine.com/va-calculator/&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQFnoECDoQAQ",
+      "displayed_link": "https://roblevine.com › va-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEWCACN5AAB8AADw4uX37O56AADz8vUAADsAI0v08vUAD0EVLE8WLVAAIEgHJUsAD0A-TmmEjJuPlqNtdokAFkMAHUd_iJf____O0deSmaW-wsmgprEKJkxMWXGaoKwAC0AAADalqrV2f5BTX3ZYY3knOloAE0IAADAxQmAAACTZ3OBhbIDm6Ouyt8A0RWL28vS_1LELAAAA_UlEQVR4AXXQBRKDMBBA0dRlF5etG-73v12DW_gDYy_O2Goxxtab7UKbHVvvD0dhh_2arU9nEHauERGOUpsMWKc0CKqmaXqdAeYY0bKJLvqVdyO6n8f4eBK93hLv8yX6HcfoEN0t4Mku0c2cI8Lj4aEjRv6T7t_FywYXolDnE984xw9HfurfBxcwiokceQEPCdFeATG-DylR9h6hXD5ChXJ5ZsOEHgEzovRRIloJn6t50GOohvyrEOX3I1fzHhEevHONKP0eMFi2zud4OB5Nb_x8VVAe1Pj97vSy5vi7v15f3l2FGaJsNQH2qKCwc4n7wBcWlFgstmZstVtoxf5_HDI6b-f5iQAAAABJRU5ErkJggg.png",
+      "date": "May 1, 2026",
+      "snippet": "Our tool will automatically calculate your VA combined disability rating and monthly pay for you based on the disabilities and dependent factors you've entered.",
+      "snippet_highlighted_words": [
+        "automatically calculate your VA combined disability rating"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "reviews": 4429
+          },
+          "extensions": [
+            "4.7(4,429)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Our tool will automatically calculate your VA combined disability rating and monthly pay for you based on the disabilities and dependent factors you've entered.",
+          "source_info_link": "https://roblevine.com/va-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEWCACN5AAB8AADw4uX37O56AADz8vUAADsAI0v08vUAD0EVLE8WLVAAIEgHJUsAD0A-TmmEjJuPlqNtdokAFkMAHUd_iJf____O0deSmaW-wsmgprEKJkxMWXGaoKwAC0AAADalqrV2f5BTX3ZYY3knOloAE0IAADAxQmAAACTZ3OBhbIDm6Ouyt8A0RWL28vS_1LELAAAA_UlEQVR4AXXQBRKDMBBA0dRlF5etG-73v12DW_gDYy_O2Goxxtab7UKbHVvvD0dhh_2arU9nEHauERGOUpsMWKc0CKqmaXqdAeYY0bKJLvqVdyO6n8f4eBK93hLv8yX6HcfoEN0t4Mku0c2cI8Lj4aEjRv6T7t_FywYXolDnE984xw9HfurfBxcwiokceQEPCdFeATG-DylR9h6hXD5ChXJ5ZsOEHgEzovRRIloJn6t50GOohvyrEOX3I1fzHhEevHONKP0eMFi2zud4OB5Nb_x8VVAe1Pj97vSy5vi7v15f3l2FGaJsNQH2qKCwc4n7wBcWlFgstmZstVtoxf5_HDI6b-f5iQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://roblevine.com/va-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Froblevine.com%2Fva-calculator%2F",
+      "source": "Rob Levine Law",
+      "read_more_link": "https://roblevine.com/va-calculator/#:~:text=Our%20tool%20will%20automatically%20calculate,and%20dependent%20factors%20you've%20entered."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "VA combined rating calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=VA+combined+rating+calculator&sa=X&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=VA+combined+rating+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Best VA disability calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Best+VA+disability+calculator&sa=X&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+VA+disability+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "VA disability percentages for conditions",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=VA+disability+percentages+for+conditions&sa=X&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=VA+disability+percentages+for+conditions"
+    },
+    {
+      "block_position": 1,
+      "query": "VA disability rates",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=VA+disability+rates&sa=X&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=VA+disability+rates"
+    },
+    {
+      "block_position": 1,
+      "query": "VA disability calculator 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=VA+disability+calculator+2026&sa=X&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=VA+disability+calculator+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "VA disability calculator app",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=VA+disability+calculator+app&sa=X&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=VA+disability+calculator+app"
+    },
+    {
+      "block_position": 1,
+      "query": "VA disability pay chart 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=VA+disability+pay+chart+2026&sa=X&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=VA+disability+pay+chart+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "VA combined rating calculator 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=VA+combined+rating+calculator+2026&sa=X&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=VA+combined+rating+calculator+2026"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=veteran+disability+calculator+rating&sca_esv=c510ba4e6526f391&ei=fiA6asbIJZKg5NoP9ZyjyQ0&start=10&sa=N&sstk=AU9db-B8RPlVX0i0HjJgCn-a4ZNQMCeh7PhiaKegsk2vpra0L3Rtzdy2ky4EFUARwmoy483wxCfeYC8SyqvTWkFSTtPb5CJUeEzH6g&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ8NMDegQIMBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=veteran+disability+calculator+rating&sca_esv=c510ba4e6526f391&ei=fiA6asbIJZKg5NoP9ZyjyQ0&start=10&sa=N&sstk=AU9db-B8RPlVX0i0HjJgCn-a4ZNQMCeh7PhiaKegsk2vpra0L3Rtzdy2ky4EFUARwmoy483wxCfeYC8SyqvTWkFSTtPb5CJUeEzH6g&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ8tMDegQIMBAE",
+      "3": "https://www.google.com/search?q=veteran+disability+calculator+rating&sca_esv=c510ba4e6526f391&ei=fiA6asbIJZKg5NoP9ZyjyQ0&start=20&sa=N&sstk=AU9db-B8RPlVX0i0HjJgCn-a4ZNQMCeh7PhiaKegsk2vpra0L3Rtzdy2ky4EFUARwmoy483wxCfeYC8SyqvTWkFSTtPb5CJUeEzH6g&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ8tMDegQIMBAG",
+      "4": "https://www.google.com/search?q=veteran+disability+calculator+rating&sca_esv=c510ba4e6526f391&ei=fiA6asbIJZKg5NoP9ZyjyQ0&start=30&sa=N&sstk=AU9db-B8RPlVX0i0HjJgCn-a4ZNQMCeh7PhiaKegsk2vpra0L3Rtzdy2ky4EFUARwmoy483wxCfeYC8SyqvTWkFSTtPb5CJUeEzH6g&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ8tMDegQIMBAI",
+      "5": "https://www.google.com/search?q=veteran+disability+calculator+rating&sca_esv=c510ba4e6526f391&ei=fiA6asbIJZKg5NoP9ZyjyQ0&start=40&sa=N&sstk=AU9db-B8RPlVX0i0HjJgCn-a4ZNQMCeh7PhiaKegsk2vpra0L3Rtzdy2ky4EFUARwmoy483wxCfeYC8SyqvTWkFSTtPb5CJUeEzH6g&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ8tMDegQIMBAK",
+      "6": "https://www.google.com/search?q=veteran+disability+calculator+rating&sca_esv=c510ba4e6526f391&ei=fiA6asbIJZKg5NoP9ZyjyQ0&start=50&sa=N&sstk=AU9db-B8RPlVX0i0HjJgCn-a4ZNQMCeh7PhiaKegsk2vpra0L3Rtzdy2ky4EFUARwmoy483wxCfeYC8SyqvTWkFSTtPb5CJUeEzH6g&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ8tMDegQIMBAM",
+      "7": "https://www.google.com/search?q=veteran+disability+calculator+rating&sca_esv=c510ba4e6526f391&ei=fiA6asbIJZKg5NoP9ZyjyQ0&start=60&sa=N&sstk=AU9db-B8RPlVX0i0HjJgCn-a4ZNQMCeh7PhiaKegsk2vpra0L3Rtzdy2ky4EFUARwmoy483wxCfeYC8SyqvTWkFSTtPb5CJUeEzH6g&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ8tMDegQIMBAO",
+      "8": "https://www.google.com/search?q=veteran+disability+calculator+rating&sca_esv=c510ba4e6526f391&ei=fiA6asbIJZKg5NoP9ZyjyQ0&start=70&sa=N&sstk=AU9db-B8RPlVX0i0HjJgCn-a4ZNQMCeh7PhiaKegsk2vpra0L3Rtzdy2ky4EFUARwmoy483wxCfeYC8SyqvTWkFSTtPb5CJUeEzH6g&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ8tMDegQIMBAQ",
+      "9": "https://www.google.com/search?q=veteran+disability+calculator+rating&sca_esv=c510ba4e6526f391&ei=fiA6asbIJZKg5NoP9ZyjyQ0&start=80&sa=N&sstk=AU9db-B8RPlVX0i0HjJgCn-a4ZNQMCeh7PhiaKegsk2vpra0L3Rtzdy2ky4EFUARwmoy483wxCfeYC8SyqvTWkFSTtPb5CJUeEzH6g&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ8tMDegQIMBAS",
+      "10": "https://www.google.com/search?q=veteran+disability+calculator+rating&sca_esv=c510ba4e6526f391&ei=fiA6asbIJZKg5NoP9ZyjyQ0&start=90&sa=N&sstk=AU9db-B8RPlVX0i0HjJgCn-a4ZNQMCeh7PhiaKegsk2vpra0L3Rtzdy2ky4EFUARwmoy483wxCfeYC8SyqvTWkFSTtPb5CJUeEzH6g&ved=2ahUKEwjG_8-S15yVAxUSEFkFHXXOKNkQ8tMDegQIMBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=veteran+disability+calculator+rating&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=veteran+disability+calculator+rating&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=veteran+disability+calculator+rating&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=veteran+disability+calculator+rating&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=veteran+disability+calculator+rating&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=veteran+disability+calculator+rating&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=veteran+disability+calculator+rating&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=veteran+disability+calculator+rating&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=veteran+disability+calculator+rating&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=veteran+disability+calculator+rating&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=veteran+disability+calculator+rating&start=90"
+    }
+  }
+}

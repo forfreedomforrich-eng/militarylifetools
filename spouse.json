@@ -1,0 +1,415 @@
+{
+  "search_metadata": {
+    "id": "6a3a212df9c5e95b9c57e1c5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-L3dwR_qG5Ykg-KWVIaMCQ/6a3a212df9c5e95b9c57e1c5.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/-L3dwR_qG5Ykg-KWVIaMCQ/6a3a212df9c5e95b9c57e1c5.json_with_pixel_position",
+    "created_at": "2026-06-23 06:01:17 UTC",
+    "processed_at": "2026-06-23 06:01:17 UTC",
+    "google_url": "https://www.google.com/search?q=military+wife+spouse+career+calculator&oq=military+wife+spouse+career+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/-L3dwR_qG5Ykg-KWVIaMCQ/6a3a212df9c5e95b9c57e1c5.html",
+    "total_time_taken": 5.77
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military wife spouse career calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military wife spouse career calculator",
+    "total_results": 55800000,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is the 20 20 rule for military spouses?",
+      "type": "ai_overview",
+      "page_token": "J1uitnicHdDbboIwAIDh7GW81AHqoolZphw8jdnSFuRmgRat0BbUzgp3e5c91Z5mZg_w50v-7x9xUtXv041r3Vyng4Expn-s66Mo-rSWg-zaKjqgmRB5Rqvp-GVsvR7ozPtazRfn1RzgpiEufI4qcqZL0KFAG5aIC_KatpBsSeNQAcFq5OyHsUtKavOMobRjjkiwtNYoNjqy0_M2Ee-FyyUo-fXDJTqS6YVUEBUq9Kk3mUcuNaDia6BShVtrsS_JHnThELnpLV6u7EKsd5RwFJZwTLo3Gz_63BO6kPcRtXxEyvQQl_6VyDuP_GbLlNc-rA7hykSY3RDhmxyzIK98ydDc8TgLM4ztfQJ1jic29oRhvg-YCndpLCCC9Qlg2NFSSKzWFU4IzCyB4gDa2BVtoRoZB1oWbrjBwahMTe9AbzOn9_9z9nmQetpc6uMfr1GICg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=J1uitnicHdDbboIwAIDh7GW81AHqoolZphw8jdnSFuRmgRat0BbUzgp3e5c91Z5mZg_w50v-7x9xUtXv041r3Vyng4Expn-s66Mo-rSWg-zaKjqgmRB5Rqvp-GVsvR7ozPtazRfn1RzgpiEufI4qcqZL0KFAG5aIC_KatpBsSeNQAcFq5OyHsUtKavOMobRjjkiwtNYoNjqy0_M2Ee-FyyUo-fXDJTqS6YVUEBUq9Kk3mUcuNaDia6BShVtrsS_JHnThELnpLV6u7EKsd5RwFJZwTLo3Gz_63BO6kPcRtXxEyvQQl_6VyDuP_GbLlNc-rA7hykSY3RDhmxyzIK98ydDc8TgLM4ztfQJ1jic29oRhvg-YCndpLCCC9Qlg2NFSSKzWFU4IzCyB4gDa2BVtoRoZB1oWbrjBwahMTe9AbzOn9_9z9nmQetpc6uMfr1GICg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGIwTTFSSE4yTm05RGR6VjZUek55TFUxeWJXOVNTbmRuUWxwTGJFTk9jR3h4VmtwVFozWllUMjFpV2xoa1F6VndVSFprVVZweFR6QlBMV1ZQYldFMU1Fd3RjbmhCU1hBeGR6UlpOMmRaTkdsUmVreHlSVmRJU1hZNGR4SVhUV2xGTm1GMGJXMVBkbEJKY0hSUlVIWnpUMlZwVVUwYUlrRkVjM0k1WmxSSlJucERUSHAyVG5rd1lrdHpiREZQVTA5TkxWSlJOSEV3UlVFIiwiZmN2IjoiMyIsImVpIjoiTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU0iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjNhV1psSUhOd2IzVnpaU0JqWVhKbFpYSWdZMkZzWTNWc1lYUnZjaEFBZlNhcVpUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgMjAgMjAgcnVsZSBmb3IgbWlsaXRhcnkgc3BvdXNlcz8iLCJsayI6ImM1T1N5czNNeVN4SkxLcFVLQzdJTHkxT1ZUQXlBS0dpMHB4VUFBIiwiYnMiOiJjLVB5NGRJSnowZ3NVY2dzVmlqSlNGVXdNZ0Nob3RLY1ZJVzBfQ0tGM015Y3pKTEVva3FGNG9MODB1TFVZbnNqR1NrcE5FRWtQVnpoWEpySXBpV2xGcGNvWk9VbmdjMUtSSmhXbnBtV2FtLWtKYVZSVHFSaUxqUm5HaHFBRUduT1JPZ0JPek16Sndkc0ZGeFpSbXBPZ1VJdXhENkY5TlFTb0J1QXJvRTRrMGpGQW93QSIsImlkIjoiZmNfTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU1fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGIwTTFSSE4yTm05RGR6VjZUek55TFUxeWJXOVNTbmRuUWxwTGJFTk9jR3h4VmtwVFozWllUMjFpV2xoa1F6VndVSFprVVZweFR6QlBMV1ZQYldFMU1Fd3RjbmhCU1hBeGR6UlpOMmRaTkdsUmVreHlSVmRJU1hZNGR4SVhUV2xGTm1GMGJXMVBkbEJKY0hSUlVIWnpUMlZwVVUwYUlrRkVjM0k1WmxSSlJucERUSHAyVG5rd1lrdHpiREZQVTA5TkxWSlJOSEV3UlVFIiwiZmN2IjoiMyIsImVpIjoiTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU0iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjNhV1psSUhOd2IzVnpaU0JqWVhKbFpYSWdZMkZzWTNWc1lYUnZjaEFBZlNhcVpUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgMjAgMjAgcnVsZSBmb3IgbWlsaXRhcnkgc3BvdXNlcz8iLCJsayI6ImM1T1N5czNNeVN4SkxLcFVLQzdJTHkxT1ZUQXlBS0dpMHB4VUFBIiwiYnMiOiJjLVB5NGRJSnowZ3NVY2dzVmlqSlNGVXdNZ0Nob3RLY1ZJVzBfQ0tGM015Y3pKTEVva3FGNG9MODB1TFVZbnNqR1NrcE5FRWtQVnpoWEpySXBpV2xGcGNvWk9VbmdjMUtSSmhXbnBtV2FtLWtKYVZSVHFSaUxqUm5HaHFBRUduT1JPZ0JPek16Sndkc0ZGeFpSbXBPZ1VJdXhENkY5TlFTb0J1QXJvRTRrMGpGQW93QSIsImlkIjoiZmNfTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU1fNSJ9"
+    },
+    {
+      "question": "What is the best job for a military wife?",
+      "type": "ai_overview",
+      "page_token": "QjFu9nicHdBdboIwAADg7DI-TizMRROzBC2KG9UW2kJfllJUfsqPykB42112qp1myb4jfN8_OquK36cubdvmvpxO-75_vtT1RZ-eVV1O5X2o1FRJrWOpiuX8dT57O6sV_HLt9dW1MW0atiFG4LjgVDzsYNsgaiaPeEMwYoso4G0abMT1gyKP8d5iwHnHrNn6YTMPmA1IiAwZXkZZJkBwh4iNDb1A-2rLSlp4gwf32YGjnEHDUjOCPDPqg0oP_g62siTugdemgrMjYiz3x8hIoGXGgI4HJqwkJKlfCBNzncWwLeQOG54DR7Hbd3G45xiIs6KW4e3c0eOLIjGZ4ed6wCUzYZogSSmIQtLGdAEo1H3iODip0FFwTQJSZ5iSUeW6ZE49YkPffKDXqEpfRCU6OTrrE49aH5D7SdsHiidn1a3Myf_n6vNctsvmVl_-ADfGgrA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QjFu9nicHdBdboIwAADg7DI-TizMRROzBC2KG9UW2kJfllJUfsqPykB42112qp1myb4jfN8_OquK36cubdvmvpxO-75_vtT1RZ-eVV1O5X2o1FRJrWOpiuX8dT57O6sV_HLt9dW1MW0atiFG4LjgVDzsYNsgaiaPeEMwYoso4G0abMT1gyKP8d5iwHnHrNn6YTMPmA1IiAwZXkZZJkBwh4iNDb1A-2rLSlp4gwf32YGjnEHDUjOCPDPqg0oP_g62siTugdemgrMjYiz3x8hIoGXGgI4HJqwkJKlfCBNzncWwLeQOG54DR7Hbd3G45xiIs6KW4e3c0eOLIjGZ4ed6wCUzYZogSSmIQtLGdAEo1H3iODip0FFwTQJSZ5iSUeW6ZE49YkPffKDXqEpfRCU6OTrrE49aH5D7SdsHiidn1a3Myf_n6vNctsvmVl_-ADfGgrA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGIwTTFSSE4yTm05RGR6VjZUek55TFUxeWJXOVNTbmRuUWxwTGJFTk9jR3h4VmtwVFozWllUMjFpV2xoa1F6VndVSFprVVZweFR6QlBMV1ZQYldFMU1Fd3RjbmhCU1hBeGR6UlpOMmRaTkdsUmVreHlSVmRJU1hZNGR4SVhUV2xGTm1GMGJXMVBkbEJKY0hSUlVIWnpUMlZwVVUwYUlrRkVjM0k1WmxSSlJucERUSHAyVG5rd1lrdHpiREZQVTA5TkxWSlJOSEV3UlVFIiwiZmN2IjoiMyIsImVpIjoiTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU0iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjNhV1psSUhOd2IzVnpaU0JqWVhKbFpYSWdZMkZzWTNWc1lYUnZjaEFBZlNhcVpUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBqb2IgZm9yIGEgbWlsaXRhcnkgd2lmZT8iLCJsayI6IkdpaDNhR0YwSUdseklIUm9aU0JpWlhOMElHcHZZaUJtYjNJZ1lTQnRhV3hwZEdGeWVTQjNhV1psIiwiYnMiOiJjLVB5NGRJSnowZ3NVY2dzVmlqSlNGVXdNZ0Nob3RLY1ZJVzBfQ0tGM015Y3pKTEVva3FGNG9MODB1TFVZbnNqR1NrcE5FRWtQVnpoWEpySXBpV2xGcGNvWk9VbmdjMUtSSmhXbnBtV2FtLWtKYVZSVHFSaUxqUm5HaHFBRUduT1JPZ0JPek16Sndkc0ZGeFpSbXBPZ1VJdXhENkY5TlFTb0J1QXJvRTRrMGpGQW93QSIsImlkIjoiZmNfTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU1fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGIwTTFSSE4yTm05RGR6VjZUek55TFUxeWJXOVNTbmRuUWxwTGJFTk9jR3h4VmtwVFozWllUMjFpV2xoa1F6VndVSFprVVZweFR6QlBMV1ZQYldFMU1Fd3RjbmhCU1hBeGR6UlpOMmRaTkdsUmVreHlSVmRJU1hZNGR4SVhUV2xGTm1GMGJXMVBkbEJKY0hSUlVIWnpUMlZwVVUwYUlrRkVjM0k1WmxSSlJucERUSHAyVG5rd1lrdHpiREZQVTA5TkxWSlJOSEV3UlVFIiwiZmN2IjoiMyIsImVpIjoiTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU0iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjNhV1psSUhOd2IzVnpaU0JqWVhKbFpYSWdZMkZzWTNWc1lYUnZjaEFBZlNhcVpUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBqb2IgZm9yIGEgbWlsaXRhcnkgd2lmZT8iLCJsayI6IkdpaDNhR0YwSUdseklIUm9aU0JpWlhOMElHcHZZaUJtYjNJZ1lTQnRhV3hwZEdGeWVTQjNhV1psIiwiYnMiOiJjLVB5NGRJSnowZ3NVY2dzVmlqSlNGVXdNZ0Nob3RLY1ZJVzBfQ0tGM015Y3pKTEVva3FGNG9MODB1TFVZbnNqR1NrcE5FRWtQVnpoWEpySXBpV2xGcGNvWk9VbmdjMUtSSmhXbnBtV2FtLWtKYVZSVHFSaUxqUm5HaHFBRUduT1JPZ0JPek16Sndkc0ZGeFpSbXBPZ1VJdXhENkY5TlFTb0J1QXJvRTRrMGpGQW93QSIsImlkIjoiZmNfTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU1fNSJ9"
+    },
+    {
+      "question": "What is the 10 10 rule for military spouses?",
+      "type": "ai_overview",
+      "page_token": "KAVKaHicHdBRToMwGADgeBkfHdBt6pLFBGkdOOootEBfDKVubPyUzqFke_MunsrTaLzBl-_rG_am_bn6bIbBnhaTyTiON7u-38HbTd13k-p0NvWkrgBUVbeL-e3cfdjWS_wR-o_H0E-4tSJgTnp2zikhTmWaIQ6ij7Rt4sREIc_d99JEzktB_YrD_C2Tj9Rx3SqLvHwVhQWCEz1EMXWGY-GQA-tsUiA20wXLygwM88AqIEHaylJ14iULfE91biENPOuLbzgIk5FmI9xmwwBIDpan3VBWWYhi4x8V1qu1uJuqzh6pEVyRcBTtbK_xCdUrSWkrziJvchZERCE7pZjSvNAIN5pWnHtlwQbF7z2OYdSEJNrQjcyBZazfJ5xd6gN0nGMksZxK788CDRfYXcunyI_RbljnswvjhOvxelt_LtH1_-fyddsNC_ve734B3QiCzA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KAVKaHicHdBRToMwGADgeBkfHdBt6pLFBGkdOOootEBfDKVubPyUzqFke_MunsrTaLzBl-_rG_am_bn6bIbBnhaTyTiON7u-38HbTd13k-p0NvWkrgBUVbeL-e3cfdjWS_wR-o_H0E-4tSJgTnp2zikhTmWaIQ6ij7Rt4sREIc_d99JEzktB_YrD_C2Tj9Rx3SqLvHwVhQWCEz1EMXWGY-GQA-tsUiA20wXLygwM88AqIEHaylJ14iULfE91biENPOuLbzgIk5FmI9xmwwBIDpan3VBWWYhi4x8V1qu1uJuqzh6pEVyRcBTtbK_xCdUrSWkrziJvchZERCE7pZjSvNAIN5pWnHtlwQbF7z2OYdSEJNrQjcyBZazfJ5xd6gN0nGMksZxK788CDRfYXcunyI_RbljnswvjhOvxelt_LtH1_-fyddsNC_ve734B3QiCzA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGIwTTFSSE4yTm05RGR6VjZUek55TFUxeWJXOVNTbmRuUWxwTGJFTk9jR3h4VmtwVFozWllUMjFpV2xoa1F6VndVSFprVVZweFR6QlBMV1ZQYldFMU1Fd3RjbmhCU1hBeGR6UlpOMmRaTkdsUmVreHlSVmRJU1hZNGR4SVhUV2xGTm1GMGJXMVBkbEJKY0hSUlVIWnpUMlZwVVUwYUlrRkVjM0k1WmxSSlJucERUSHAyVG5rd1lrdHpiREZQVTA5TkxWSlJOSEV3UlVFIiwiZmN2IjoiMyIsImVpIjoiTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU0iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjNhV1psSUhOd2IzVnpaU0JqWVhKbFpYSWdZMkZzWTNWc1lYUnZjaEFBZlNhcVpUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgMTAgMTAgcnVsZSBmb3IgbWlsaXRhcnkgc3BvdXNlcz8iLCJsayI6ImM1T1N5czNNeVN4SkxLcFVLQzdJTHkxT1ZUQTBBS0dpMHB4VUFBIiwiYnMiOiJjLVB5NGRJSnowZ3NVY2dzVmlqSlNGVXdNZ0Nob3RLY1ZJVzBfQ0tGM015Y3pKTEVva3FGNG9MODB1TFVZbnNqR1NrcE5FRWtQVnpoWEpySXBpV2xGcGNvWk9VbmdjMUtSSmhXbnBtV2FtLWtKYVZSVHFSaUxqUm5HaHFBRUduT1JPZ0JPek16Sndkc0ZGeFpSbXBPZ1VJdXhENkY5TlFTb0J1QXJvRTRrMGpGQW93QSIsImlkIjoiZmNfTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU1fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGIwTTFSSE4yTm05RGR6VjZUek55TFUxeWJXOVNTbmRuUWxwTGJFTk9jR3h4VmtwVFozWllUMjFpV2xoa1F6VndVSFprVVZweFR6QlBMV1ZQYldFMU1Fd3RjbmhCU1hBeGR6UlpOMmRaTkdsUmVreHlSVmRJU1hZNGR4SVhUV2xGTm1GMGJXMVBkbEJKY0hSUlVIWnpUMlZwVVUwYUlrRkVjM0k1WmxSSlJucERUSHAyVG5rd1lrdHpiREZQVTA5TkxWSlJOSEV3UlVFIiwiZmN2IjoiMyIsImVpIjoiTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU0iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjNhV1psSUhOd2IzVnpaU0JqWVhKbFpYSWdZMkZzWTNWc1lYUnZjaEFBZlNhcVpUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgMTAgMTAgcnVsZSBmb3IgbWlsaXRhcnkgc3BvdXNlcz8iLCJsayI6ImM1T1N5czNNeVN4SkxLcFVLQzdJTHkxT1ZUQTBBS0dpMHB4VUFBIiwiYnMiOiJjLVB5NGRJSnowZ3NVY2dzVmlqSlNGVXdNZ0Nob3RLY1ZJVzBfQ0tGM015Y3pKTEVva3FGNG9MODB1TFVZbnNqR1NrcE5FRWtQVnpoWEpySXBpV2xGcGNvWk9VbmdjMUtSSmhXbnBtV2FtLWtKYVZSVHFSaUxqUm5HaHFBRUduT1JPZ0JPek16Sndkc0ZGeFpSbXBPZ1VJdXhENkY5TlFTb0J1QXJvRTRrMGpGQW93QSIsImlkIjoiZmNfTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU1fNSJ9"
+    },
+    {
+      "question": "Will the military help my wife get a job?",
+      "type": "ai_overview",
+      "page_token": "vdSjVHicHdDbTsIwGADg-DJeCh1hZiTEZLIOlFVa2r9bb0xpObY7qJPB7nwXn8qn0Xj_XX1f3_5YuZ-b86Ftm4_JYNB13d2-rvd-e2fqcqA_rpUZGO39Rhs3Ce9D9LAz0-RzET--LWIqmgZmbLhGUGUcFEjidMqQrOB5K9k7R9Byp5a0tCEfqk_uxikNmNKlSgs35jo90KIXnfIRWQtobPXUEUy8FNGLQITphKzWkp0LLno4WSZ81GcCj_9sWEhby7Kd6SMaZ7KlPAAuXdKpntR5z5AYYW3n-I2CQqqnV1PCUuXEE5eNtu6yKkY4XsooK6AOdBBdFcbDLCdrmzdxcrBECxEUOWs3IgpE4juLMbUVWSnpGWf1kQrWm5MvAT-FDMFVD6EHwDMj4ZGcFALB4s3cK5W6i-pud-Y8Hd3-f05fd2U7ad7r_S9FcYNV",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vdSjVHicHdDbTsIwGADg-DJeCh1hZiTEZLIOlFVa2r9bb0xpObY7qJPB7nwXn8qn0Xj_XX1f3_5YuZ-b86Ftm4_JYNB13d2-rvd-e2fqcqA_rpUZGO39Rhs3Ce9D9LAz0-RzET--LWIqmgZmbLhGUGUcFEjidMqQrOB5K9k7R9Byp5a0tCEfqk_uxikNmNKlSgs35jo90KIXnfIRWQtobPXUEUy8FNGLQITphKzWkp0LLno4WSZ81GcCj_9sWEhby7Kd6SMaZ7KlPAAuXdKpntR5z5AYYW3n-I2CQqqnV1PCUuXEE5eNtu6yKkY4XsooK6AOdBBdFcbDLCdrmzdxcrBECxEUOWs3IgpE4juLMbUVWSnpGWf1kQrWm5MvAT-FDMFVD6EHwDMj4ZGcFALB4s3cK5W6i-pud-Y8Hd3-f05fd2U7ad7r_S9FcYNV",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGIwTTFSSE4yTm05RGR6VjZUek55TFUxeWJXOVNTbmRuUWxwTGJFTk9jR3h4VmtwVFozWllUMjFpV2xoa1F6VndVSFprVVZweFR6QlBMV1ZQYldFMU1Fd3RjbmhCU1hBeGR6UlpOMmRaTkdsUmVreHlSVmRJU1hZNGR4SVhUV2xGTm1GMGJXMVBkbEJKY0hSUlVIWnpUMlZwVVUwYUlrRkVjM0k1WmxSSlJucERUSHAyVG5rd1lrdHpiREZQVTA5TkxWSlJOSEV3UlVFIiwiZmN2IjoiMyIsImVpIjoiTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU0iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjNhV1psSUhOd2IzVnpaU0JqWVhKbFpYSWdZMkZzWTNWc1lYUnZjaEFBZlNhcVpUOCIsInF1ZXN0aW9uIjoiV2lsbCB0aGUgbWlsaXRhcnkgaGVscCBteSB3aWZlIGdldCBhIGpvYj8iLCJsayI6IkdpaDNhV3hzSUhSb1pTQnRhV3hwZEdGeWVTQm9aV3h3SUcxNUlIZHBabVVnWjJWMElHRWdhbTlpIiwiYnMiOiJjLVB5NGRJSnowZ3NVY2dzVmlqSlNGVXdNZ0Nob3RLY1ZJVzBfQ0tGM015Y3pKTEVva3FGNG9MODB1TFVZbnNqR1NrcE5FRWtQVnpoWEpySXBpV2xGcGNvWk9VbmdjMUtSSmhXbnBtV2FtLWtKYVZSVHFSaUxqUm5HaHFBRUduT1JPZ0JPek16Sndkc0ZGeFpSbXBPZ1VJdXhENkY5TlFTb0J1QXJvRTRrMGpGQW93QSIsImlkIjoiZmNfTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU1fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGIwTTFSSE4yTm05RGR6VjZUek55TFUxeWJXOVNTbmRuUWxwTGJFTk9jR3h4VmtwVFozWllUMjFpV2xoa1F6VndVSFprVVZweFR6QlBMV1ZQYldFMU1Fd3RjbmhCU1hBeGR6UlpOMmRaTkdsUmVreHlSVmRJU1hZNGR4SVhUV2xGTm1GMGJXMVBkbEJKY0hSUlVIWnpUMlZwVVUwYUlrRkVjM0k1WmxSSlJucERUSHAyVG5rd1lrdHpiREZQVTA5TkxWSlJOSEV3UlVFIiwiZmN2IjoiMyIsImVpIjoiTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU0iLCJxYyI6IkNpWnRhV3hwZEdGeWVTQjNhV1psSUhOd2IzVnpaU0JqWVhKbFpYSWdZMkZzWTNWc1lYUnZjaEFBZlNhcVpUOCIsInF1ZXN0aW9uIjoiV2lsbCB0aGUgbWlsaXRhcnkgaGVscCBteSB3aWZlIGdldCBhIGpvYj8iLCJsayI6IkdpaDNhV3hzSUhSb1pTQnRhV3hwZEdGeWVTQm9aV3h3SUcxNUlIZHBabVVnWjJWMElHRWdhbTlpIiwiYnMiOiJjLVB5NGRJSnowZ3NVY2dzVmlqSlNGVXdNZ0Nob3RLY1ZJVzBfQ0tGM015Y3pKTEVva3FGNG9MODB1TFVZbnNqR1NrcE5FRWtQVnpoWEpySXBpV2xGcGNvWk9VbmdjMUtSSmhXbnBtV2FtLWtKYVZSVHFSaUxqUm5HaHFBRUduT1JPZ0JPek16Sndkc0ZGeFpSbXBPZ1VJdXhENkY5TlFTb0J1QXJvRTRrMGpGQW93QSIsImlkIjoiZmNfTWlFNmF0bW1PdlBJcHRRUHZzT2VpUU1fNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "xKaj83icxZbbcrJIEIDv9z3WmyQi4jFV1F_DQcVDFCPJb24oHHBAwTEMiuZu32Wfap9jH2BnEBSjJrV_1daOJXOgp6d7uj_bP_70vdXyr9_-dqNoTR45Lo7jIsIY-U4R4oCzyH4FuTn2SQjdHwRvQuh4tgjdEAdOYb8VhQIkYqngeOLAU2tWFATD7UhbR_poS4aOpw8KiQrRnFnEWdATdgvCmRx9LH8XFDopkqKzKs5G0Jt3ok5soGK5xDeLQ84KqAD4D5sKxkmv049Ge-1Cgh2PvtGia2zjc25Fzj2zNjgo0rSkk28qlVMr5CkTUR7ewooEFD1Z63xhxfP59JU9VBADIDETVf3anmtGZGs47aWbJ6qXS4mwlJ6l5NXf8lfKB1hnOicNIJ8CkbksgcwDKoLoWDporAKpMorltvxFmOibNeqo7oN-1ehca_XUdZyO-9M2tYizEU3CEjcLacdzHnRhMggJy0150izh1gq8PdU2bm8iDGTTFIzeSsOuvyqvGzoHZ1TOx5bt2KZrln4kc77MV0tNod64T6CA5EgFyVPxVhv4QOjOhRYo9osSn0MiuQztzGeWbtIN93rpHX4SBwctTF83vZvslo1MTMIZHenCYsmyanpcaLBQuJ9PZLoukcgayg8oEonZmnHcmRdnQ006mZo25XO8T_PUhyno6UeX1ZzFh4tQ8_MlU661s4X4-IppRT5IEKdIqKnC4dl-lDeMXpYkAzV7fbSAySjLo5iaWMheT3V9CrQWRZSGD2XOp6GkSGjndwcWZ7MWYl8ZXQX8uyadAn6rqSDL_U-pnEdAbdWUwNXbw9exbYxRowT2W7tNHhZrQb-e8jiY_YtKAP9fKIy0ThgpCb2rUKBvoNA19cs6cbD7VCdYrsj4FhRyCsV5nTgk7qlOXELxfA7F7TqRg-Kg5WsopJtQHH5WLqFgdeICCnQDikOdyENxXidWR83MgxwUv1Qn9F-oEwkjzqE7LxqbBbpZPNS27PCh1R12G88fs1iq6Kayq-7dWlj_vnjMg-gxsGz_3vTsR6ncjfb2vUkX8KNjF97FwPO9yAr3d7E3d-7IGm-Icwet0HFC2vlw41sRDguBH2KxZNUNNZhuoRrWw0kn6jo7od9rmRIGmMw2Y-W90beRaVa9lxnY2YPdpvpSFZ6CeOy-KOVd5CktPgLv2_FCf213Jt2-5hil-sOyvDdfamZZIJE1WqGFUYMfQSw3w_5oEA8HtS1UDLnfjwz5iR-9DiAYTBS_g_2fiVVEtFsPw5-dLvmYVgrUMeKIfCEIoUhRqCDwpINXBCBlAOj0H5UuY_qNaQYUCLRMh2xFWOVLM6vi1Krl2lxo0s0o2q_FCl8gq1Dk_wHPGB-d",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xKaj83icxZbbcrJIEIDv9z3WmyQi4jFV1F_DQcVDFCPJb24oHHBAwTEMiuZu32Wfap9jH2BnEBSjJrV_1daOJXOgp6d7uj_bP_70vdXyr9_-dqNoTR45Lo7jIsIY-U4R4oCzyH4FuTn2SQjdHwRvQuh4tgjdEAdOYb8VhQIkYqngeOLAU2tWFATD7UhbR_poS4aOpw8KiQrRnFnEWdATdgvCmRx9LH8XFDopkqKzKs5G0Jt3ok5soGK5xDeLQ84KqAD4D5sKxkmv049Ge-1Cgh2PvtGia2zjc25Fzj2zNjgo0rSkk28qlVMr5CkTUR7ewooEFD1Z63xhxfP59JU9VBADIDETVf3anmtGZGs47aWbJ6qXS4mwlJ6l5NXf8lfKB1hnOicNIJ8CkbksgcwDKoLoWDporAKpMorltvxFmOibNeqo7oN-1ehca_XUdZyO-9M2tYizEU3CEjcLacdzHnRhMggJy0150izh1gq8PdU2bm8iDGTTFIzeSsOuvyqvGzoHZ1TOx5bt2KZrln4kc77MV0tNod64T6CA5EgFyVPxVhv4QOjOhRYo9osSn0MiuQztzGeWbtIN93rpHX4SBwctTF83vZvslo1MTMIZHenCYsmyanpcaLBQuJ9PZLoukcgayg8oEonZmnHcmRdnQ006mZo25XO8T_PUhyno6UeX1ZzFh4tQ8_MlU661s4X4-IppRT5IEKdIqKnC4dl-lDeMXpYkAzV7fbSAySjLo5iaWMheT3V9CrQWRZSGD2XOp6GkSGjndwcWZ7MWYl8ZXQX8uyadAn6rqSDL_U-pnEdAbdWUwNXbw9exbYxRowT2W7tNHhZrQb-e8jiY_YtKAP9fKIy0ThgpCb2rUKBvoNA19cs6cbD7VCdYrsj4FhRyCsV5nTgk7qlOXELxfA7F7TqRg-Kg5WsopJtQHH5WLqFgdeICCnQDikOdyENxXidWR83MgxwUv1Qn9F-oEwkjzqE7LxqbBbpZPNS27PCh1R12G88fs1iq6Kayq-7dWlj_vnjMg-gxsGz_3vTsR6ncjfb2vUkX8KNjF97FwPO9yAr3d7E3d-7IGm-Icwet0HFC2vlw41sRDguBH2KxZNUNNZhuoRrWw0kn6jo7od9rmRIGmMw2Y-W90beRaVa9lxnY2YPdpvpSFZ6CeOy-KOVd5CktPgLv2_FCf213Jt2-5hil-sOyvDdfamZZIJE1WqGFUYMfQSw3w_5oEA8HtS1UDLnfjwz5iR-9DiAYTBS_g_2fiVVEtFsPw5-dLvmYVgrUMeKIfCEIoUhRqCDwpINXBCBlAOj0H5UuY_qNaQYUCLRMh2xFWOVLM6vi1Krl2lxo0s0o2q_FCl8gq1Dk_wHPGB-d"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Military Spouse Education and Career Opportunities (SECO)",
+      "link": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Military-Spouse-Education-and-Career-Opportunities-(SECO)?serv=128",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Military-Spouse-Education-and-Career-Opportunities-(SECO)%3Fserv%3D128&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQFnoECCUQAQ",
+      "displayed_link": "https://myarmybenefits.us.army.mil › Federal-Benefits",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png",
+      "date": "Jul 28, 2025",
+      "snippet": "SECO offers comprehensive information, tools and resources to support career exploration, education, training, licensing, employment readiness ...",
+      "snippet_highlighted_words": [
+        "SECO offers comprehensive information, tools and resources"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "SECO offers comprehensive information, tools and resources to support career exploration, education, training, licensing, employment readiness ...",
+          "source_info_link": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Military-Spouse-Education-and-Career-Opportunities-(SECO)?serv=128",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Military-Spouse-Education-and-Career-Opportunities-(SECO)?serv=128&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyarmybenefits.us.army.mil%2FBenefit-Library%2FFederal-Benefits%2FMilitary-Spouse-Education-and-Career-Opportunities-%28SECO%29%3Fserv%3D128",
+      "source": "MyArmyBenefits (.mil)",
+      "read_more_link": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Military-Spouse-Education-and-Career-Opportunities-(SECO)?serv=128#:~:text=SECO%20offers%20comprehensive%20information%2C%20tools,employment%20readiness%20and%20career%20connections."
+    },
+    {
+      "position": 2,
+      "title": "Military Spouse Career-Building Tips & Assistance",
+      "link": "https://www.aafmaa.com/resource-center/military-spouse-career-building-tips-assistance",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aafmaa.com/resource-center/military-spouse-career-building-tips-assistance&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQFnoECCAQAQ",
+      "displayed_link": "https://www.aafmaa.com › resource-center › military-sp...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEX____n0NCzW1zlzc2UAAClLzHkysuuTE2XAACaAAD7-Pj27u7Hjo_u39_KlZbUqqqIAAC2ZWaRAADPoKCjGRn8-fn77euwusXW2-HAfH3m19m-wMmeqbYfRWpMY37XsLCPAADBy9Q9V3YzUHC3aGndvb3Eh4eoPD6hHiGtR0jY1dX_7dvAAAAAoElEQVR4AbXPxwGDQAwEwDVezOlEdM7k2H-BbkD4xzyVhY3tgj3WkeEBayInDDxsGjsRt4MpSZBSmMGieeF95JjCkh55wul49jBcEjmGuN7uMDwyPF_vzxeWsipQN68apoBywK2FRTUmO9hw1J7iTjCFfKqIC2Hxjj2Co93aKxmjVNiPJnSRwvTMe5VjD9tQZYiwZmSHVZfp2P_Jzgs29wMG-AhBzlbORgAAAABJRU5ErkJggg.png",
+      "snippet": "There are several resources and strategies that can help you effectively manage and advance your career as a military spouse. Career-Building Resources.",
+      "snippet_highlighted_words": [
+        "effectively manage and advance your career as a military spouse"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "There are several resources and strategies that can help you effectively manage and advance your career as a military spouse. Career-Building Resources.",
+          "source_info_link": "https://www.aafmaa.com/resource-center/military-spouse-career-building-tips-assistance",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEX____n0NCzW1zlzc2UAAClLzHkysuuTE2XAACaAAD7-Pj27u7Hjo_u39_KlZbUqqqIAAC2ZWaRAADPoKCjGRn8-fn77euwusXW2-HAfH3m19m-wMmeqbYfRWpMY37XsLCPAADBy9Q9V3YzUHC3aGndvb3Eh4eoPD6hHiGtR0jY1dX_7dvAAAAAoElEQVR4AbXPxwGDQAwEwDVezOlEdM7k2H-BbkD4xzyVhY3tgj3WkeEBayInDDxsGjsRt4MpSZBSmMGieeF95JjCkh55wul49jBcEjmGuN7uMDwyPF_vzxeWsipQN68apoBywK2FRTUmO9hw1J7iTjCFfKqIC2Hxjj2Co93aKxmjVNiPJnSRwvTMe5VjD9tQZYiwZmSHVZfp2P_Jzgs29wMG-AhBzlbORgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.aafmaa.com/resource-center/military-spouse-career-building-tips-assistance&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.aafmaa.com%2Fresource-center%2Fmilitary-spouse-career-building-tips-assistance",
+      "source": "American Armed Forces Mutual Aid Association",
+      "read_more_link": "https://www.aafmaa.com/resource-center/military-spouse-career-building-tips-assistance#:~:text=There%20are%20several%20resources%20and,Career%2DBuilding%20Resources"
+    },
+    {
+      "position": 3,
+      "title": "Find Jobs For Military Spouses",
+      "link": "https://collegerecon.com/military-spouse-jobs/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://collegerecon.com/military-spouse-jobs/&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQFnoECCQQAQ",
+      "displayed_link": "https://collegerecon.com › Transition",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEVHcEz____8_f_________________09_vv9Pr___________8APakAM6YHSq7b4_EAJqPD0OgqW7Vxi8iNo9OyweFQdL6hs9o_aLlIxooCAAAAC3RSTlMAR9-UL-F4_vpak1f9RCsAAAGLSURBVCiRZVPtcuQgDMsmm5rWNhgIH-__pCeT7rZ35x9MZuTIshDb9qrH1x6IaP96bP_WR8h1zlliqTl8_AU9z1GuRMxM6ZLYzucP9hlmZUd41bBOn28sxczpKmYmNQNNMaZv9Ekx8aXWW0ppzB6YQ4x0M5-z8bSSbk7O_pW0n0tn69y187vCwHFZc80hpqGRQ7rLdTVikhKwe54s2tCqqyC722Sulh_bUUfDj1AkESXWuGjBaKvHtsdUvd2pUVMHtoJgsrJvpFQcvBZ4iWFqAMgitJFRlBcI7uYtfkRbYJF5g0llrbR2lgWmKhrumVl94WS-j4J2L1AL3iDCC608-_qCoKMWVlE4vxizSFRnxQoHTLAEHdpe1sqaS-hHJEKZXEQUlxJCbjcz9Ll9MN4GBkZxixQeOJpBtcJydsswArC32HBm7HS-LhsTB2CUgg7_yuuyPSZWCZbWeg0ozdzeMQFK3XSlBw5czsxvzKPZPF6xRL_SMn5H8zvURRC__0O9nsOxkz-H4-c5_AGllSG6OpInTwAAAABJRU5ErkJggg.png",
+      "date": "Dec 4, 2025",
+      "snippet": "You'll find job boards filled with opportunities and positions that fit your lifestyle and needs as a military spouse. Find Military Spouse Jobs.",
+      "snippet_highlighted_words": [
+        "job boards filled with opportunities and positions that fit your lifestyle"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You'll find job boards filled with opportunities and positions that fit your lifestyle and needs as a military spouse. Find Military Spouse Jobs.",
+          "source_info_link": "https://collegerecon.com/military-spouse-jobs/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEVHcEz____8_f_________________09_vv9Pr___________8APakAM6YHSq7b4_EAJqPD0OgqW7Vxi8iNo9OyweFQdL6hs9o_aLlIxooCAAAAC3RSTlMAR9-UL-F4_vpak1f9RCsAAAGLSURBVCiRZVPtcuQgDMsmm5rWNhgIH-__pCeT7rZ35x9MZuTIshDb9qrH1x6IaP96bP_WR8h1zlliqTl8_AU9z1GuRMxM6ZLYzucP9hlmZUd41bBOn28sxczpKmYmNQNNMaZv9Ekx8aXWW0ppzB6YQ4x0M5-z8bSSbk7O_pW0n0tn69y187vCwHFZc80hpqGRQ7rLdTVikhKwe54s2tCqqyC722Sulh_bUUfDj1AkESXWuGjBaKvHtsdUvd2pUVMHtoJgsrJvpFQcvBZ4iWFqAMgitJFRlBcI7uYtfkRbYJF5g0llrbR2lgWmKhrumVl94WS-j4J2L1AL3iDCC608-_qCoKMWVlE4vxizSFRnxQoHTLAEHdpe1sqaS-hHJEKZXEQUlxJCbjcz9Ll9MN4GBkZxixQeOJpBtcJydsswArC32HBm7HS-LhsTB2CUgg7_yuuyPSZWCZbWeg0ozdzeMQFK3XSlBw5czsxvzKPZPF6xRL_SMn5H8zvURRC__0O9nsOxkz-H4-c5_AGllSG6OpInTwAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://collegerecon.com/military-spouse-jobs/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcollegerecon.com%2Fmilitary-spouse-jobs%2F",
+      "source": "CollegeRecon",
+      "read_more_link": "https://collegerecon.com/military-spouse-jobs/#:~:text=You'll%20find%20job%20boards%20filled,Find%20Military%20Spouse%20Jobs"
+    },
+    {
+      "position": 4,
+      "title": "Benefits for Military Spouses: A Comprehensive Guide",
+      "link": "https://www.militarybenefit.org/get-educated/spouse/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarybenefit.org/get-educated/spouse/&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQFnoECCEQAQ",
+      "displayed_link": "https://www.militarybenefit.org › get-educated › spouse",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png",
+      "snippet": "As a military spouse, you are entitled to multiple benefits to help you and your family save money, find employment, and make the most of military life.",
+      "snippet_highlighted_words": [
+        "military spouse",
+        "military"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "As a military spouse, you are entitled to multiple benefits to help you and your family save money, find employment, and make the most of military life.",
+          "source_info_link": "https://www.militarybenefit.org/get-educated/spouse/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarybenefit.org/get-educated/spouse/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarybenefit.org%2Fget-educated%2Fspouse%2F",
+      "source": "Military Benefit Association",
+      "read_more_link": "https://www.militarybenefit.org/get-educated/spouse/#:~:text=As%20a%20military%20spouse%2C%20you,the%20most%20of%20military%20life."
+    },
+    {
+      "position": 5,
+      "title": "Military Spouse Employment Partnership Program (MSEP)",
+      "link": "https://myairforcebenefits.us.af.mil/Benefit-Library/Federal-Benefits/Military-Spouse-Employment-Partnership-Program-(MSEP)?serv=19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myairforcebenefits.us.af.mil/Benefit-Library/Federal-Benefits/Military-Spouse-Employment-Partnership-Program-(MSEP)%3Fserv%3D19&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQFnoECCgQAQ",
+      "displayed_link": "https://myairforcebenefits.us.af.mil › Federal-Benefits",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWOgGBw-eEhs957dWlevXmUmVs_z58-Zjxw5ovPo4SN-ht6enoTQ0LCVp06dEj577hxBQ758-cJ0_PhxLW8vr63bt263Z0hPT69SU1W709benhocHCJMyIBz587xuLq6rlRSVHqyeNFiT4awsLBiCXGJ15oamucE-AVs8Gl-8uQJY21trZaUpNRzoKX3165dp8-wefNmbWkp6SdAzT_ERMVm2NrYWm_dsgWrV06eOMFtaWW5WlBA8EeAf8DCEydO8DKkpqYyOzk6FoMEgfirvp7-nuVLl0lOmzqNH6YxMyNDauOGDVp-vn7rREVFPygpKN6dMmWKOdzkZcuWSvh4e6_k5-P_IyQo9MPI0Ohcf1-_w6IFC3k72zt4rSytcs3NzE9JSkh-EBYS_hwZEdm3dNkydrgB_f39bHPnzo3V0tS8CzTkN9A7v_V09a62trTG5-fmZSspKt4TERb5CnKlgb7B-YULFzpi-C88LFy2sbGxUlVZ5TLQFe9VlJUf1NfVFVdVVpUDwwhkwGNdHZ2zU6dMSYmLi-PHGspRUVFiwDAodHZynp2Xm5dVXFScWlJcEg8Mp1w3V9cJkyZO9ElPS-fBG8-9PX3S5WUVsZkZmXk21tbr7O3slyQmJuaVl5eFHT58WJBgMgUGnqebq9uW5KSk9piY6O7Q0NAJwUHB_UCxZWtWr7YiaMDePXtEgU73ALqgChiQ57W1tM_HxcTmpaWmmZ84fpyX6EyWm5Orl5CQ0BcTHdMG9LcqA60AAOJP2MG383GbAAAAAElFTkSuQmCC.png",
+      "date": "Jul 30, 2025",
+      "snippet": "The Military Spouse Employment Partnership (MSEP) provides employment resources for family members through a corporate partnership ...",
+      "snippet_highlighted_words": [
+        "provides employment resources for family members"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Military Spouse Employment Partnership (MSEP) provides employment resources for family members through a corporate partnership ...",
+          "source_info_link": "https://myairforcebenefits.us.af.mil/Benefit-Library/Federal-Benefits/Military-Spouse-Employment-Partnership-Program-(MSEP)?serv=19",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWOgGBw-eEhs957dWlevXmUmVs_z58-Zjxw5ovPo4SN-ht6enoTQ0LCVp06dEj577hxBQ758-cJ0_PhxLW8vr63bt263Z0hPT69SU1W709benhocHCJMyIBz587xuLq6rlRSVHqyeNFiT4awsLBiCXGJ15oamucE-AVs8Gl-8uQJY21trZaUpNRzoKX3165dp8-wefNmbWkp6SdAzT_ERMVm2NrYWm_dsgWrV06eOMFtaWW5WlBA8EeAf8DCEydO8DKkpqYyOzk6FoMEgfirvp7-nuVLl0lOmzqNH6YxMyNDauOGDVp-vn7rREVFPygpKN6dMmWKOdzkZcuWSvh4e6_k5-P_IyQo9MPI0Ohcf1-_w6IFC3k72zt4rSytcs3NzE9JSkh-EBYS_hwZEdm3dNkydrgB_f39bHPnzo3V0tS8CzTkN9A7v_V09a62trTG5-fmZSspKt4TERb5CnKlgb7B-YULFzpi-C88LFy2sbGxUlVZ5TLQFe9VlJUf1NfVFVdVVpUDwwhkwGNdHZ2zU6dMSYmLi-PHGspRUVFiwDAodHZynp2Xm5dVXFScWlJcEg8Mp1w3V9cJkyZO9ElPS-fBG8-9PX3S5WUVsZkZmXk21tbr7O3slyQmJuaVl5eFHT58WJBgMgUGnqebq9uW5KSk9piY6O7Q0NAJwUHB_UCxZWtWr7YiaMDePXtEgU73ALqgChiQ57W1tM_HxcTmpaWmmZ84fpyX6EyWm5Orl5CQ0BcTHdMG9LcqA60AAOJP2MG383GbAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myairforcebenefits.us.af.mil/Benefit-Library/Federal-Benefits/Military-Spouse-Employment-Partnership-Program-(MSEP)?serv=19&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyairforcebenefits.us.af.mil%2FBenefit-Library%2FFederal-Benefits%2FMilitary-Spouse-Employment-Partnership-Program-%28MSEP%29%3Fserv%3D19",
+      "source": "My Air Force Benefits (.mil)",
+      "read_more_link": "https://myairforcebenefits.us.af.mil/Benefit-Library/Federal-Benefits/Military-Spouse-Employment-Partnership-Program-(MSEP)?serv=19#:~:text=The%20Military%20Spouse%20Employment%20Partnership,through%20a%20corporate%20partnership%20initiative."
+    },
+    {
+      "position": 6,
+      "title": "Military Spouse Resources",
+      "link": "https://www.hiringourheroes.org/career-services/military-spouse-resources/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hiringourheroes.org/career-services/military-spouse-resources/&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQFnoECEAQAQ",
+      "displayed_link": "https://www.hiringourheroes.org › career-services › milit...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwNIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz97y1jBAAAAEXRSTlMATpbO97umF_9kiQzg7Cp3QLIj6gkAAADxSURBVHgBfdNRcoAgEAPQAChRFLn_aVsHIMDYvi9l1LCLi4Gxzm-7d9bgQ9j5Ogxfe8DiZBHBwmIULxYO2FjcAV1gcwAHm4QqsovTXUBxkUoAHJtb-6seoGVop4ESlKiFnd0FzBncAfiuJAAHfQfkjH9kA0uLP520cOQVsFB_He7SwA-Gvzz48htmqg4sfMIk3SxwD12Uh5WH06XoNQc79F1OrRqd_iCxMoASRBkqpyYcx5Sx67hzK34bM0J_2Kt4n0qGPnvVy2dsidUvh1gSNnYuIrWAGojMSYYfCw_nyYU9A0aWC_s1vLIOr8afXMb_B8u6EYmWwVhgAAAAAElFTkSuQmCC.png",
+      "snippet": "The MilSpouse Roadmap, which was built with input from more than 1,500 military spouses like you, outlines three common military spouse career journeys ...",
+      "snippet_highlighted_words": [
+        "MilSpouse",
+        "military spouses",
+        "spouse career"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The MilSpouse Roadmap, which was built with input from more than 1,500 military spouses like you, outlines three common military spouse career journeys ...",
+          "source_info_link": "https://www.hiringourheroes.org/career-services/military-spouse-resources/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwNIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz8NIz97y1jBAAAAEXRSTlMATpbO97umF_9kiQzg7Cp3QLIj6gkAAADxSURBVHgBfdNRcoAgEAPQAChRFLn_aVsHIMDYvi9l1LCLi4Gxzm-7d9bgQ9j5Ogxfe8DiZBHBwmIULxYO2FjcAV1gcwAHm4QqsovTXUBxkUoAHJtb-6seoGVop4ESlKiFnd0FzBncAfiuJAAHfQfkjH9kA0uLP520cOQVsFB_He7SwA-Gvzz48htmqg4sfMIk3SxwD12Uh5WH06XoNQc79F1OrRqd_iCxMoASRBkqpyYcx5Sx67hzK34bM0J_2Kt4n0qGPnvVy2dsidUvh1gSNnYuIrWAGojMSYYfCw_nyYU9A0aWC_s1vLIOr8afXMb_B8u6EYmWwVhgAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.hiringourheroes.org/career-services/military-spouse-resources/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.hiringourheroes.org%2Fcareer-services%2Fmilitary-spouse-resources%2F",
+      "source": "Hiring Our Heroes",
+      "read_more_link": "https://www.hiringourheroes.org/career-services/military-spouse-resources/#:~:text=The%20MilSpouse%20Roadmap%2C%20which%20was,work%2C%20and%20reskilling%20and%20upskilling."
+    },
+    {
+      "position": 7,
+      "title": "Best Careers for Military Spouses",
+      "link": "https://www.navyfederal.org/makingcents/military-life/2021-best-careers-military-spouses.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.navyfederal.org/makingcents/military-life/2021-best-careers-military-spouses.html&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQFnoECDsQAQ",
+      "displayed_link": "https://www.navyfederal.org › ... › Military Life",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA4ElEQVR4AWJAB8oJSwCdUwENxCAMnAQkTMJLQAISkDAJczAJSHgJSKgEJCCBb5NrcuGfZPskF9rrtZQCWfFWDEVXNNjG5VnPiUFRKbHDL-QPcOErmQQJu0YkH7AbYr5B4AIVOD3RePdhF7PBien5zNxyA9yWmSd93nw4iou62X90sJsW9uXDNkcgTF7A1rkAx0yLWNuoreIk1pN5joGrXkB42vAjwDzHDsQEHTw-QkZM_h1i4SHyNcqNaxTSR35IcuMhvWiYdfUP8uIpd9j0H559prFKngslDLZzMXBx1n8AuU1izRJUOrMAAAAASUVORK5CYII.png",
+      "date": "Oct 13, 2021",
+      "snippet": "We asked military spouses nationwide about their challenges, career intentions and what they value most in a career and found 10 industries that matched.",
+      "snippet_highlighted_words": [
+        "military spouses",
+        "career",
+        "career"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We asked military spouses nationwide about their challenges, career intentions and what they value most in a career and found 10 industries that matched.",
+          "source_info_link": "https://www.navyfederal.org/makingcents/military-life/2021-best-careers-military-spouses.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA4ElEQVR4AWJAB8oJSwCdUwENxCAMnAQkTMJLQAISkDAJczAJSHgJSKgEJCCBb5NrcuGfZPskF9rrtZQCWfFWDEVXNNjG5VnPiUFRKbHDL-QPcOErmQQJu0YkH7AbYr5B4AIVOD3RePdhF7PBien5zNxyA9yWmSd93nw4iou62X90sJsW9uXDNkcgTF7A1rkAx0yLWNuoreIk1pN5joGrXkB42vAjwDzHDsQEHTw-QkZM_h1i4SHyNcqNaxTSR35IcuMhvWiYdfUP8uIpd9j0H559prFKngslDLZzMXBx1n8AuU1izRJUOrMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.navyfederal.org/makingcents/military-life/2021-best-careers-military-spouses.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.navyfederal.org%2Fmakingcents%2Fmilitary-life%2F2021-best-careers-military-spouses.html",
+      "source": "Navy Federal Credit Union",
+      "read_more_link": "https://www.navyfederal.org/makingcents/military-life/2021-best-careers-military-spouses.html#:~:text=We%20asked%20military%20spouses%20nationwide,found%2010%20industries%20that%20matched."
+    },
+    {
+      "position": 8,
+      "title": "Military Spouse Education & Career Opportunities ...",
+      "link": "https://spouseworks.militaryonesource.mil/portal/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://spouseworks.militaryonesource.mil/portal/&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQFnoECDoQAQ",
+      "displayed_link": "https://spouseworks.militaryonesource.mil › portal",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAyklEQVR4AWNwL_AZUDw4HCBjlioCxA-g-BIBPAGm-aKWvgwQH4HibTjwahzYD9kBykD8n0i8GMkBBkD8n0xcOtAOGHVA4rAIAduBDgEZaJaaiyu74ciaRyjKhrQoiCyGjAMQJSEiGhbrOvDgwjR1ACgeKUuElDvAdqAd4DeUHeA3aBww6gAwRs67oBYSDqwMopH1gCokAtgWHUMdLgN3wGijFBpUq2E1GwHcRSQuxYsRUYBITHTGfgPtANtB54BRB3zGh2nlgNGCCAC8bWD_trWVxQAAAABJRU5ErkJggg.png",
+      "snippet": "Military spouse resources search for available jobs or scholarships, education opportunities, career training and licensing, career coaches and more.",
+      "snippet_highlighted_words": [
+        "for available jobs or scholarships"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military spouse resources search for available jobs or scholarships, education opportunities, career training and licensing, career coaches and more.",
+          "source_info_link": "https://spouseworks.militaryonesource.mil/portal/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAyklEQVR4AWNwL_AZUDw4HCBjlioCxA-g-BIBPAGm-aKWvgwQH4HibTjwahzYD9kBykD8n0i8GMkBBkD8n0xcOtAOGHVA4rAIAduBDgEZaJaaiyu74ciaRyjKhrQoiCyGjAMQJSEiGhbrOvDgwjR1ACgeKUuElDvAdqAd4DeUHeA3aBww6gAwRs67oBYSDqwMopH1gCokAtgWHUMdLgN3wGijFBpUq2E1GwHcRSQuxYsRUYBITHTGfgPtANtB54BRB3zGh2nlgNGCCAC8bWD_trWVxQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://spouseworks.militaryonesource.mil/portal/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fspouseworks.militaryonesource.mil%2Fportal%2F",
+      "source": "Military OneSource (.mil)"
+    },
+    {
+      "position": 9,
+      "title": "Military Spouse Resources - Blue Star Careers",
+      "link": "https://bluestarfam.org/careers/milspouse/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bluestarfam.org/careers/milspouse/&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQFnoECEMQAQ",
+      "displayed_link": "https://bluestarfam.org › Blue Star Careers",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEVHcEz___________________________________________________________________8gVqcESqLvNjEARKDtIRkYUqX91dO_y-Hy7_O7x9_uLCXuFAr79venudn0amWZrNJWeLfvMy03Zq_d5fH5oZ77trPR2Olvj8T1i4kAM5qGn8v1hID0e3fvSEMoTwKbAAAAEXRSTlMADMpd1-r6izEgccFNma24tWIOXoYAAAFNSURBVCiRjZLpcsMgDITtxFeuJkKAMeD7jHO9_9sVJq3jtONp9cvLZy3SDo7z33J9f7MIP5JktwihqmCJ7SVj2XoBHnNEteQLTRwv-a4lI2TJd1UiiVk-93XD7wKC2FwTmA7M_4NSiS1Vknzoi1FIq5VS7Yfj5xeGiOxyHkSR1qIQjdXmQHlOFLSN-S5lTzkvBL0lZixCsJGBjfIE1zLotKZ8FDzNSEzMXCUcv5IBqFNKeSdSfR9MI5IWpo3cFdy5ZZSLc0zYGTx3HgDcRmG7AQmWsP0R3U1ySuuiZeRXhFspdU2p7nI0Ecr3Tg8ehj2vNL7enG2g0IZpnsV2kQbmryW0w9TpCJAzQ1kbzmBwNxE8BGyjQFaM4NV_sX3GNe9gZ5c7mGaMIZrgqU-LLNg_ReRn1WU4vGbte3gpJwSVrCYVBd7bY96s_Mj5qz4BplwhEmf1RA4AAAAASUVORK5CYII.png",
+      "snippet": "Find easy-to-use, scalable solutions that link Veterans and military spouses directly to people who can mentor you to the career you want. Veterati · American ...",
+      "snippet_highlighted_words": [
+        "easy-to-use, scalable solutions"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Find easy-to-use, scalable solutions that link Veterans and military spouses directly to people who can mentor you to the career you want. Veterati · American ...",
+          "source_info_link": "https://bluestarfam.org/careers/milspouse/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEVHcEz___________________________________________________________________8gVqcESqLvNjEARKDtIRkYUqX91dO_y-Hy7_O7x9_uLCXuFAr79venudn0amWZrNJWeLfvMy03Zq_d5fH5oZ77trPR2Olvj8T1i4kAM5qGn8v1hID0e3fvSEMoTwKbAAAAEXRSTlMADMpd1-r6izEgccFNma24tWIOXoYAAAFNSURBVCiRjZLpcsMgDITtxFeuJkKAMeD7jHO9_9sVJq3jtONp9cvLZy3SDo7z33J9f7MIP5JktwihqmCJ7SVj2XoBHnNEteQLTRwv-a4lI2TJd1UiiVk-93XD7wKC2FwTmA7M_4NSiS1Vknzoi1FIq5VS7Yfj5xeGiOxyHkSR1qIQjdXmQHlOFLSN-S5lTzkvBL0lZixCsJGBjfIE1zLotKZ8FDzNSEzMXCUcv5IBqFNKeSdSfR9MI5IWpo3cFdy5ZZSLc0zYGTx3HgDcRmG7AQmWsP0R3U1ySuuiZeRXhFspdU2p7nI0Ecr3Tg8ehj2vNL7enG2g0IZpnsV2kQbmryW0w9TpCJAzQ1kbzmBwNxE8BGyjQFaM4NV_sX3GNe9gZ5c7mGaMIZrgqU-LLNg_ReRn1WU4vGbte3gpJwSVrCYVBd7bY96s_Mj5qz4BplwhEmf1RA4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bluestarfam.org/careers/milspouse/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbluestarfam.org%2Fcareers%2Fmilspouse%2F",
+      "source": "Blue Star Families",
+      "read_more_link": "https://bluestarfam.org/careers/milspouse/#:~:text=Find%20easy%2Dto%2Duse%2C%20scalable%20solutions%20that,American%20Corporate%20Partners"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military Spouse Education and Career Opportunities",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+Spouse+Education+and+Career+Opportunities&sa=X&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+Spouse+Education+and+Career+Opportunities"
+    },
+    {
+      "block_position": 1,
+      "query": "Military Spouse career opportunities",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+Spouse+career+opportunities&sa=X&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+Spouse+career+opportunities"
+    },
+    {
+      "block_position": 1,
+      "query": "MySECO Military Spouse",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=MySECO+Military+Spouse&sa=X&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MySECO+Military+Spouse"
+    },
+    {
+      "block_position": 1,
+      "query": "Spouse Education and Career Opportunities (SECO program)",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Spouse+Education+and+Career+Opportunities+(SECO+program)&sa=X&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Spouse+Education+and+Career+Opportunities+%28SECO+program%29"
+    },
+    {
+      "block_position": 1,
+      "query": "MyCAA",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=MyCAA&sa=X&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=MyCAA"
+    },
+    {
+      "block_position": 1,
+      "query": "Military Spouse Employment Partnership (MSEP)",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+Spouse+Employment+Partnership+(MSEP)&sa=X&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+Spouse+Employment+Partnership+%28MSEP%29"
+    },
+    {
+      "block_position": 1,
+      "query": "Military Spouse certification programs",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+Spouse+certification+programs&sa=X&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+Spouse+certification+programs"
+    },
+    {
+      "block_position": 1,
+      "query": "Military spouse scholarships",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+spouse+scholarships&sa=X&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+spouse+scholarships"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+wife+spouse+career+calculator&sca_esv=c510ba4e6526f391&ei=MiE6atmmOvPIptQPvsOeiQM&start=10&sa=N&sstk=AU9db-Ag0FH8D8CpVu2zm7IqlSQoH5EAuJ_wdFC09wpSd4ZkCyGlxAXo7SfFF7D5iXvcHLEYkDcbcRkmaBIyBMLHIKdiGF6cSsNyTw&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ8NMDegQIMBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+wife+spouse+career+calculator&sca_esv=c510ba4e6526f391&ei=MiE6atmmOvPIptQPvsOeiQM&start=10&sa=N&sstk=AU9db-Ag0FH8D8CpVu2zm7IqlSQoH5EAuJ_wdFC09wpSd4ZkCyGlxAXo7SfFF7D5iXvcHLEYkDcbcRkmaBIyBMLHIKdiGF6cSsNyTw&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ8tMDegQIMBAE",
+      "3": "https://www.google.com/search?q=military+wife+spouse+career+calculator&sca_esv=c510ba4e6526f391&ei=MiE6atmmOvPIptQPvsOeiQM&start=20&sa=N&sstk=AU9db-Ag0FH8D8CpVu2zm7IqlSQoH5EAuJ_wdFC09wpSd4ZkCyGlxAXo7SfFF7D5iXvcHLEYkDcbcRkmaBIyBMLHIKdiGF6cSsNyTw&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ8tMDegQIMBAG",
+      "4": "https://www.google.com/search?q=military+wife+spouse+career+calculator&sca_esv=c510ba4e6526f391&ei=MiE6atmmOvPIptQPvsOeiQM&start=30&sa=N&sstk=AU9db-Ag0FH8D8CpVu2zm7IqlSQoH5EAuJ_wdFC09wpSd4ZkCyGlxAXo7SfFF7D5iXvcHLEYkDcbcRkmaBIyBMLHIKdiGF6cSsNyTw&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ8tMDegQIMBAI",
+      "5": "https://www.google.com/search?q=military+wife+spouse+career+calculator&sca_esv=c510ba4e6526f391&ei=MiE6atmmOvPIptQPvsOeiQM&start=40&sa=N&sstk=AU9db-Ag0FH8D8CpVu2zm7IqlSQoH5EAuJ_wdFC09wpSd4ZkCyGlxAXo7SfFF7D5iXvcHLEYkDcbcRkmaBIyBMLHIKdiGF6cSsNyTw&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ8tMDegQIMBAK",
+      "6": "https://www.google.com/search?q=military+wife+spouse+career+calculator&sca_esv=c510ba4e6526f391&ei=MiE6atmmOvPIptQPvsOeiQM&start=50&sa=N&sstk=AU9db-Ag0FH8D8CpVu2zm7IqlSQoH5EAuJ_wdFC09wpSd4ZkCyGlxAXo7SfFF7D5iXvcHLEYkDcbcRkmaBIyBMLHIKdiGF6cSsNyTw&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ8tMDegQIMBAM",
+      "7": "https://www.google.com/search?q=military+wife+spouse+career+calculator&sca_esv=c510ba4e6526f391&ei=MiE6atmmOvPIptQPvsOeiQM&start=60&sa=N&sstk=AU9db-Ag0FH8D8CpVu2zm7IqlSQoH5EAuJ_wdFC09wpSd4ZkCyGlxAXo7SfFF7D5iXvcHLEYkDcbcRkmaBIyBMLHIKdiGF6cSsNyTw&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ8tMDegQIMBAO",
+      "8": "https://www.google.com/search?q=military+wife+spouse+career+calculator&sca_esv=c510ba4e6526f391&ei=MiE6atmmOvPIptQPvsOeiQM&start=70&sa=N&sstk=AU9db-Ag0FH8D8CpVu2zm7IqlSQoH5EAuJ_wdFC09wpSd4ZkCyGlxAXo7SfFF7D5iXvcHLEYkDcbcRkmaBIyBMLHIKdiGF6cSsNyTw&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ8tMDegQIMBAQ",
+      "9": "https://www.google.com/search?q=military+wife+spouse+career+calculator&sca_esv=c510ba4e6526f391&ei=MiE6atmmOvPIptQPvsOeiQM&start=80&sa=N&sstk=AU9db-Ag0FH8D8CpVu2zm7IqlSQoH5EAuJ_wdFC09wpSd4ZkCyGlxAXo7SfFF7D5iXvcHLEYkDcbcRkmaBIyBMLHIKdiGF6cSsNyTw&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ8tMDegQIMBAS",
+      "10": "https://www.google.com/search?q=military+wife+spouse+career+calculator&sca_esv=c510ba4e6526f391&ei=MiE6atmmOvPIptQPvsOeiQM&start=90&sa=N&sstk=AU9db-Ag0FH8D8CpVu2zm7IqlSQoH5EAuJ_wdFC09wpSd4ZkCyGlxAXo7SfFF7D5iXvcHLEYkDcbcRkmaBIyBMLHIKdiGF6cSsNyTw&ved=2ahUKEwjZh8_o15yVAxVzpIkEHb6hJzEQ8tMDegQIMBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+wife+spouse+career+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+wife+spouse+career+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+wife+spouse+career+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+wife+spouse+career+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+wife+spouse+career+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+wife+spouse+career+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+wife+spouse+career+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+wife+spouse+career+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+wife+spouse+career+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+wife+spouse+career+calculator&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+wife+spouse+career+calculator&start=90"
+    }
+  }
+}

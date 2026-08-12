@@ -1,0 +1,470 @@
+{
+  "search_metadata": {
+    "id": "6a3a1872d0a88fafdaff4f10",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/AhJxzm6zkSHoXt-bPDA-cA/6a3a1872d0a88fafdaff4f10.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/AhJxzm6zkSHoXt-bPDA-cA/6a3a1872d0a88fafdaff4f10.json_with_pixel_position",
+    "created_at": "2026-06-23 05:24:02 UTC",
+    "processed_at": "2026-06-23 05:24:02 UTC",
+    "google_url": "https://www.google.com/search?q=freelance+hourly+rate+calculator+taxes&oq=freelance+hourly+rate+calculator+taxes&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/AhJxzm6zkSHoXt-bPDA-cA/6a3a1872d0a88fafdaff4f10.html",
+    "total_time_taken": 3.75
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "freelance hourly rate calculator taxes",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "freelance hourly rate calculator taxes",
+    "total_results": 97,
+    "time_taken_displayed": 0.2,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is the $400 rule for self-employed people?",
+      "type": "ai_overview",
+      "page_token": "9MgJ3nicHdDBcqIwHIDx2ZfpsYZY3eqM0xkwUFGySyB_hEsnJChIgKyygr31FfoMfap9mnV6_32X7-NLV23978dn2ffmspxMhmF4PHbdURePsmsm4nJr5UQKrXMh6-X859x6OcgVuUrbOUs75MbAmqGoUfMQfKeoZ5dY-1vR9CQjapZ78LTj6S0ANY1rFYBWlAK7ijVFkWeIQu6NOlbHvREyy7QUjJCuicXa_ltw8HZAcOD1tnwt__C6fxLJgBUsqhRtZrG1cIA8oyjWIyBoc7I4ZHiD7s4vNOUJ2EKQLOEn282hfC24tnecOXStt2HdNxnJcOz6v-L2jltaRfhoFcDeGejfdF9ucm8U96SNXHpVlrsJEu0zXJ5IqU6FJ3G6t3cJ97eBZZ850aFAz1hNgQHrqpCzd3nSDec-4lM1p0hV-b40ORqTyFVBihes0OGYWhqp4eEgr6vpw_fr1duh6Zfm3B3_A3P-i2c",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9MgJ3nicHdDBcqIwHIDx2ZfpsYZY3eqM0xkwUFGySyB_hEsnJChIgKyygr31FfoMfap9mnV6_32X7-NLV23978dn2ffmspxMhmF4PHbdURePsmsm4nJr5UQKrXMh6-X859x6OcgVuUrbOUs75MbAmqGoUfMQfKeoZ5dY-1vR9CQjapZ78LTj6S0ANY1rFYBWlAK7ijVFkWeIQu6NOlbHvREyy7QUjJCuicXa_ltw8HZAcOD1tnwt__C6fxLJgBUsqhRtZrG1cIA8oyjWIyBoc7I4ZHiD7s4vNOUJ2EKQLOEn282hfC24tnecOXStt2HdNxnJcOz6v-L2jltaRfhoFcDeGejfdF9ucm8U96SNXHpVlrsJEu0zXJ5IqU6FJ3G6t3cJ97eBZZ850aFAz1hNgQHrqpCzd3nSDec-4lM1p0hV-b40ORqTyFVBihes0OGYWhqp4eEgr6vpw_fr1duh6Zfm3B3_A3P-i2c",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtbGxSR3h4TUMxMVUwb3lTMk14WW5oTmNFbEtjMVZZTjBadGFrZDFVRTVxWTI4dFpVZERSMWhTVm1KVFdrUTJibTFJVFVka1YyTTVVa2gyVTJ0SVVURTRjMUJtVGt4VlFXTXRWbmR2TkRWUGQzbGlhVkkyWkZaSFp4SVhZM2huTm1Gd1MxbENTak5RYTFCSlVHdFBObmQxVVZVYUlrRkVjM0k1WmxKNE1FbFBSbVEwUzBOblZIZzJWMEZzVURkQmVsSmtZMVp5YVVFIiwiZmN2IjoiMyIsImVpIjoiY3hnNmFwS1lCSjNQa1BJUGtPNnd1UVUiLCJxYyI6IkNpWm1jbVZsYkdGdVkyVWdhRzkxY214NUlISmhkR1VnWTJGc1kzVnNZWFJ2Y2lCMFlYaGxjeEFBZmJ3VEhEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgJDQwMCBydWxlIGZvciBzZWxmLWVtcGxveWVkIHBlb3BsZT8iLCJsayI6IkdoY2tOREF3SUhKMWJHVWdjMlZzWmlCbGJYQnNiM2xsWkEiLCJicyI6ImM1WE92VzdDTUJURmNYWDExSTAwZ3VvTWRFU0V3TnhJRlFOSTdKMnZraHNaNUhBang0YjZmWGdoSG9VM0FBLW9mQ3p0ZUtUX2tYNXFwY2JmbWh6V0haeG1ER2RaQnVzTm94YUxqazA5NHFZMUVyaEN5OUlhTHZLM3RQZWJ4UVRYUkcxVXZwQTlLc0VTSlpuU0czS01Ka0NMdHliQXhra2RDTFZsTnJRdDJSYkpRZWVUZEt3dlJ5ZF92cWt2TlpqTEk1RUNwdGtISFAwVXlla3pmMF83bGR3YmJ4dWxWUmE5alM5MTNCRWV4RVBUanFNbHBrX2E0LWlxX2NmdDllVU0iLCJpZCI6ImZjX2N4ZzZhcEtZQkozUGtQSVBrTzZ3dVFVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtbGxSR3h4TUMxMVUwb3lTMk14WW5oTmNFbEtjMVZZTjBadGFrZDFVRTVxWTI4dFpVZERSMWhTVm1KVFdrUTJibTFJVFVka1YyTTVVa2gyVTJ0SVVURTRjMUJtVGt4VlFXTXRWbmR2TkRWUGQzbGlhVkkyWkZaSFp4SVhZM2huTm1Gd1MxbENTak5RYTFCSlVHdFBObmQxVVZVYUlrRkVjM0k1WmxKNE1FbFBSbVEwUzBOblZIZzJWMEZzVURkQmVsSmtZMVp5YVVFIiwiZmN2IjoiMyIsImVpIjoiY3hnNmFwS1lCSjNQa1BJUGtPNnd1UVUiLCJxYyI6IkNpWm1jbVZsYkdGdVkyVWdhRzkxY214NUlISmhkR1VnWTJGc1kzVnNZWFJ2Y2lCMFlYaGxjeEFBZmJ3VEhEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgJDQwMCBydWxlIGZvciBzZWxmLWVtcGxveWVkIHBlb3BsZT8iLCJsayI6IkdoY2tOREF3SUhKMWJHVWdjMlZzWmlCbGJYQnNiM2xsWkEiLCJicyI6ImM1WE92VzdDTUJURmNYWDExSTAwZ3VvTWRFU0V3TnhJRlFOSTdKMnZraHNaNUhBang0YjZmWGdoSG9VM0FBLW9mQ3p0ZUtUX2tYNXFwY2JmbWh6V0haeG1ER2RaQnVzTm94YUxqazA5NHFZMUVyaEN5OUlhTHZLM3RQZWJ4UVRYUkcxVXZwQTlLc0VTSlpuU0czS01Ka0NMdHliQXhra2RDTFZsTnJRdDJSYkpRZWVUZEt3dlJ5ZF92cWt2TlpqTEk1RUNwdGtISFAwVXlla3pmMF83bGR3YmJ4dWxWUmE5alM5MTNCRWV4RVBUanFNbHBrX2E0LWlxX2NmdDllVU0iLCJpZCI6ImZjX2N4ZzZhcEtZQkozUGtQSVBrTzZ3dVFVXzEifQ%3D%3D"
+    },
+    {
+      "question": "How do I calculate my hourly rate as a freelancer?",
+      "type": "featured_snippet",
+      "title": "The most often used hourly rate calculation is to divide the salary you want by the number of hours worked each year:",
+      "link": "https://jenniferbourn.com/calculate-freelance-hourly-rate/",
+      "list": [
+        "40 hours/week × 52 weeks/year = 2,080 hours.",
+        "$100,000 desired salary ÷ 2,080 hours = roughly $50 per hour."
+      ],
+      "displayed_link": "https://jenniferbourn.com › calculate-freelance-hourly-rate",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAaVBMVEUYT3EKSm0TUHJVepMASW0ATG_U3-ags8G2xtBmhpwrXn4AR2uQprV4k6cAMF3G1N0vZIL____1-PoARGm-zdYAQGcAKVnL1t4wYYAAPWVbgZnr8PNNc41uj6QANWBafJSNprYjV3dBbYnfsLHCAAAAgUlEQVR4AYVPAxbEMBSMnW5Y-_53XFudx48R-A74NiNMAISPLWVcECml0pdZG1vsnA_BS3JexKRycl6VrMqXhaibpHzrOqMvFn1FWfJH9BBcNvXQYa9GHuJlEW3XKq8K4y8LOPGUne86zy8LnWarF2vten1YO5GPa63vUSe9Ue0VB6RfBxeyKL_eAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtbGxSR3h4TUMxMVUwb3lTMk14WW5oTmNFbEtjMVZZTjBadGFrZDFVRTVxWTI4dFpVZERSMWhTVm1KVFdrUTJibTFJVFVka1YyTTVVa2gyVTJ0SVVURTRjMUJtVGt4VlFXTXRWbmR2TkRWUGQzbGlhVkkyWkZaSFp4SVhZM2huTm1Gd1MxbENTak5RYTFCSlVHdFBObmQxVVZVYUlrRkVjM0k1WmxKNE1FbFBSbVEwUzBOblZIZzJWMEZzVURkQmVsSmtZMVp5YVVFIiwiZmN2IjoiMyIsImVpIjoiY3hnNmFwS1lCSjNQa1BJUGtPNnd1UVUiLCJxYyI6IkNpWm1jbVZsYkdGdVkyVWdhRzkxY214NUlISmhkR1VnWTJGc1kzVnNZWFJ2Y2lCMFlYaGxjeEFBZmJ3VEhEOCIsInF1ZXN0aW9uIjoiSG93IGRvIEkgY2FsY3VsYXRlIG15IGhvdXJseSByYXRlIGFzIGEgZnJlZWxhbmNlcj8iLCJsayI6ImM1UFN6OGd2VnlqSlYwaE96RWt1elVrc1NWWElyVlRJeUM4dHlxbFVLQUp4RTRzVkVoWFNpbEpUY3hMemtsT0xBQSIsImJzIjoiYzVYT3ZXN0NNQlRGY1hYMTFJMDBndW9NZEVTRXdOeElGUU5JN0oydmtoc1o1SEFqeDRiNmZYZ2hIb1UzQUEtb2ZDenRlS1Rfa1g1cXBjYmZtaHpXSFp4bURHZFpCdXNOb3hhTGprMDk0cVkxRXJoQ3k5SWFMdkszdFBlYnhRVFhSRzFVdnBBOUtzRVNKWm5TRzNLTUprQ0x0eWJBeGtrZENMVmxOclF0MlJiSlFlZVRkS3d2UnlkX3Zxa3ZOWmpMSTVFQ3B0a0hIUDBVeWVremYwXzdsZHdiYnh1bFZSYTlqUzkxM0JFZXhFUFRqcU1scGtfYTQtaXFfY2Z0OWVVTSIsImlkIjoiZmNfY3hnNmFwS1lCSjNQa1BJUGtPNnd1UVVfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtbGxSR3h4TUMxMVUwb3lTMk14WW5oTmNFbEtjMVZZTjBadGFrZDFVRTVxWTI4dFpVZERSMWhTVm1KVFdrUTJibTFJVFVka1YyTTVVa2gyVTJ0SVVURTRjMUJtVGt4VlFXTXRWbmR2TkRWUGQzbGlhVkkyWkZaSFp4SVhZM2huTm1Gd1MxbENTak5RYTFCSlVHdFBObmQxVVZVYUlrRkVjM0k1WmxKNE1FbFBSbVEwUzBOblZIZzJWMEZzVURkQmVsSmtZMVp5YVVFIiwiZmN2IjoiMyIsImVpIjoiY3hnNmFwS1lCSjNQa1BJUGtPNnd1UVUiLCJxYyI6IkNpWm1jbVZsYkdGdVkyVWdhRzkxY214NUlISmhkR1VnWTJGc1kzVnNZWFJ2Y2lCMFlYaGxjeEFBZmJ3VEhEOCIsInF1ZXN0aW9uIjoiSG93IGRvIEkgY2FsY3VsYXRlIG15IGhvdXJseSByYXRlIGFzIGEgZnJlZWxhbmNlcj8iLCJsayI6ImM1UFN6OGd2VnlqSlYwaE96RWt1elVrc1NWWElyVlRJeUM4dHlxbFVLQUp4RTRzVkVoWFNpbEpUY3hMemtsT0xBQSIsImJzIjoiYzVYT3ZXN0NNQlRGY1hYMTFJMDBndW9NZEVTRXdOeElGUU5JN0oydmtoc1o1SEFqeDRiNmZYZ2hIb1UzQUEtb2ZDenRlS1Rfa1g1cXBjYmZtaHpXSFp4bURHZFpCdXNOb3hhTGprMDk0cVkxRXJoQ3k5SWFMdkszdFBlYnhRVFhSRzFVdnBBOUtzRVNKWm5TRzNLTUprQ0x0eWJBeGtrZENMVmxOclF0MlJiSlFlZVRkS3d2UnlkX3Zxa3ZOWmpMSTVFQ3B0a0hIUDBVeWVremYwXzdsZHdiYnh1bFZSYTlqUzkxM0JFZXhFUFRqcU1scGtfYTQtaXFfY2Z0OWVVTSIsImlkIjoiZmNfY3hnNmFwS1lCSjNQa1BJUGtPNnd1UVVfMSJ9"
+    },
+    {
+      "question": "Do self-employed pay 30% tax?",
+      "type": "featured_snippet",
+      "snippet": "The self-employment tax rate is 15.3 percent: 7.65 percent for the employee portion and 7.65 percent for the employer portion. The 15.3 percent reflects a 12.4 percent levy for Social Security and 2.9 percent levy for Medicare.",
+      "title": "Self-Employment Tax: Calculation, Rates, and Tips for 2026 - OnPay",
+      "date": "May 2, 2026",
+      "link": "https://onpay.com/insights/self-employment-tax/#:~:text=The%20self%2Demployment%20tax%20rate,2.9%20percent%20levy%20for%20Medicare.",
+      "displayed_link": "https://onpay.com › insights › self-employment-tax",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAcElEQVR4AWNwL_ChCNPWAEanaXpImB-bGnyalwPxf2RMqgF34JoRWIViA-jkBYQhKlAsiUsNsmJbNBvvIMkVAfFUKJ6CHCN4nQw1VA-L-HJSDLClmwGNWBRKgjGmeCNMH0aoY0u6IDZMHD0tDHxuBAD9fTWCDgYOWAAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtbGxSR3h4TUMxMVUwb3lTMk14WW5oTmNFbEtjMVZZTjBadGFrZDFVRTVxWTI4dFpVZERSMWhTVm1KVFdrUTJibTFJVFVka1YyTTVVa2gyVTJ0SVVURTRjMUJtVGt4VlFXTXRWbmR2TkRWUGQzbGlhVkkyWkZaSFp4SVhZM2huTm1Gd1MxbENTak5RYTFCSlVHdFBObmQxVVZVYUlrRkVjM0k1WmxKNE1FbFBSbVEwUzBOblZIZzJWMEZzVURkQmVsSmtZMVp5YVVFIiwiZmN2IjoiMyIsImVpIjoiY3hnNmFwS1lCSjNQa1BJUGtPNnd1UVUiLCJxYyI6IkNpWm1jbVZsYkdGdVkyVWdhRzkxY214NUlISmhkR1VnWTJGc1kzVnNZWFJ2Y2lCMFlYaGxjeEFBZmJ3VEhEOCIsInF1ZXN0aW9uIjoiRG8gc2VsZi1lbXBsb3llZCBwYXkgMzAlIHRheD8iLCJsayI6IkdoeGtieUJ6Wld4bUlHVnRjR3h2ZVdWa0lIQmhlU0F6TUNVZ2RHRjQiLCJicyI6ImM1WE92VzdDTUJURmNYWDExSTAwZ3VvTWRFU0V3TnhJRlFOSTdKMnZraHNaNUhBang0YjZmWGdoSG9VM0FBLW9mQ3p0ZUtUX2tYNXFwY2JmbWh6V0haeG1ER2RaQnVzTm94YUxqazA5NHFZMUVyaEN5OUlhTHZLM3RQZWJ4UVRYUkcxVXZwQTlLc0VTSlpuU0czS01Ka0NMdHliQXhra2RDTFZsTnJRdDJSYkpRZWVUZEt3dlJ5ZF92cWt2TlpqTEk1RUNwdGtISFAwVXlla3pmMF83bGR3YmJ4dWxWUmE5alM5MTNCRWV4RVBUanFNbHBrX2E0LWlxX2NmdDllVU0iLCJpZCI6ImZjX2N4ZzZhcEtZQkozUGtQSVBrTzZ3dVFVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtbGxSR3h4TUMxMVUwb3lTMk14WW5oTmNFbEtjMVZZTjBadGFrZDFVRTVxWTI4dFpVZERSMWhTVm1KVFdrUTJibTFJVFVka1YyTTVVa2gyVTJ0SVVURTRjMUJtVGt4VlFXTXRWbmR2TkRWUGQzbGlhVkkyWkZaSFp4SVhZM2huTm1Gd1MxbENTak5RYTFCSlVHdFBObmQxVVZVYUlrRkVjM0k1WmxKNE1FbFBSbVEwUzBOblZIZzJWMEZzVURkQmVsSmtZMVp5YVVFIiwiZmN2IjoiMyIsImVpIjoiY3hnNmFwS1lCSjNQa1BJUGtPNnd1UVUiLCJxYyI6IkNpWm1jbVZsYkdGdVkyVWdhRzkxY214NUlISmhkR1VnWTJGc1kzVnNZWFJ2Y2lCMFlYaGxjeEFBZmJ3VEhEOCIsInF1ZXN0aW9uIjoiRG8gc2VsZi1lbXBsb3llZCBwYXkgMzAlIHRheD8iLCJsayI6IkdoeGtieUJ6Wld4bUlHVnRjR3h2ZVdWa0lIQmhlU0F6TUNVZ2RHRjQiLCJicyI6ImM1WE92VzdDTUJURmNYWDExSTAwZ3VvTWRFU0V3TnhJRlFOSTdKMnZraHNaNUhBang0YjZmWGdoSG9VM0FBLW9mQ3p0ZUtUX2tYNXFwY2JmbWh6V0haeG1ER2RaQnVzTm94YUxqazA5NHFZMUVyaEN5OUlhTHZLM3RQZWJ4UVRYUkcxVXZwQTlLc0VTSlpuU0czS01Ka0NMdHliQXhra2RDTFZsTnJRdDJSYkpRZWVUZEt3dlJ5ZF92cWt2TlpqTEk1RUNwdGtISFAwVXlla3pmMF83bGR3YmJ4dWxWUmE5alM5MTNCRWV4RVBUanFNbHBrX2E0LWlxX2NmdDllVU0iLCJpZCI6ImZjX2N4ZzZhcEtZQkozUGtQSVBrTzZ3dVFVXzEifQ%3D%3D"
+    },
+    {
+      "question": "How much tax do you have to pay as a freelancer?",
+      "type": "featured_snippet",
+      "snippet": "Freelancers vs limited company: Tax at a glance",
+      "table": [
+        [
+          "Feature",
+          "Sole trader",
+          "Limited company"
+        ],
+        [
+          "Tax type",
+          "Income Tax on profits",
+          "Corporation Tax on profits"
+        ],
+        [
+          "Typical rates",
+          "20–45% Income Tax",
+          "19–25% Corporation Tax"
+        ],
+        [
+          "National Insurance",
+          "Class 2 and Class 4",
+          "Class 1 on salary"
+        ],
+        [
+          "Setup complexity",
+          "Simple",
+          "More admin and filing"
+        ]
+      ],
+      "formatted": [
+        {
+          "feature": "Tax type",
+          "sole_trader": "Income Tax on profits",
+          "limited_company": "Corporation Tax on profits"
+        },
+        {
+          "feature": "Typical rates",
+          "sole_trader": "20–45% Income Tax",
+          "limited_company": "19–25% Corporation Tax"
+        },
+        {
+          "feature": "National Insurance",
+          "sole_trader": "Class 2 and Class 4",
+          "limited_company": "Class 1 on salary"
+        },
+        {
+          "feature": "Setup complexity",
+          "sole_trader": "Simple",
+          "limited_company": "More admin and filing"
+        }
+      ],
+      "title": "UK Tax Brackets for Freelancers | Rates, NICs, VAT and Deadlines",
+      "link": "https://sleek.com/uk/resources/uk-tax-brackets-for-freelancers/",
+      "displayed_link": "https://sleek.com › resources › uk-tax-brackets-for-freela...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAvVBMVEUuge0uge0uge0uge0uge0sgO0rf-0tgO1Nk--LuPOPuvNVmPBUmO9Rlu_Q4ffF2vfB2PbX5fhZmvCawfTq8PmRu_OMufPm7vmlx_Wkx_WbwfQtge2oyfXt8vm40va10fa81faNufO40_YrgO1wqPHj7PmSvPOJt_O30vZcnPCRvPPi7Pkyg-1-sPLG2_fK3fc5iO45h-5Jke8qf-1Qle9WmfCuzfVqpPFppPFXmfBFj-54rfKTvfR5rfJGj--yc8I7AAAABXRSTlOe-f-f-KwUHvsAAACFSURBVHgBZc-1AQJBEAXQv-M4CW4xIdJ_RB9XCTaHc2_ddwiFvhSG0A8B_ckJNdNnnTNQZjHAhVkBAlsaDjUbBgFW86x6uWPcqkWr1WvRGIT46EeAUGX34kEhFBXqZ_c9OxzsuH8-C_B2ITokz37JmdmmFJRyQqLkpmpOqREcXa_4cr3eAASLDIraiaWgAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtbGxSR3h4TUMxMVUwb3lTMk14WW5oTmNFbEtjMVZZTjBadGFrZDFVRTVxWTI4dFpVZERSMWhTVm1KVFdrUTJibTFJVFVka1YyTTVVa2gyVTJ0SVVURTRjMUJtVGt4VlFXTXRWbmR2TkRWUGQzbGlhVkkyWkZaSFp4SVhZM2huTm1Gd1MxbENTak5RYTFCSlVHdFBObmQxVVZVYUlrRkVjM0k1WmxKNE1FbFBSbVEwUzBOblZIZzJWMEZzVURkQmVsSmtZMVp5YVVFIiwiZmN2IjoiMyIsImVpIjoiY3hnNmFwS1lCSjNQa1BJUGtPNnd1UVUiLCJxYyI6IkNpWm1jbVZsYkdGdVkyVWdhRzkxY214NUlISmhkR1VnWTJGc1kzVnNZWFJ2Y2lCMFlYaGxjeEFBZmJ3VEhEOCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggdGF4IGRvIHlvdSBoYXZlIHRvIHBheSBhcyBhIGZyZWVsYW5jZXI/IiwibGsiOiJHaTlvYjNjZ2JYVmphQ0IwWVhnZ1pHOGdlVzkxSUdoaGRtVWdkRzhnY0dGNUlHRnpJR0VnWm5KbFpXeGhibU5sY2ciLCJicyI6ImM1WE92VzdDTUJURmNYWDExSTAwZ3VvTWRFU0V3TnhJRlFOSTdKMnZraHNaNUhBang0YjZmWGdoSG9VM0FBLW9mQ3p0ZUtUX2tYNXFwY2JmbWh6V0haeG1ER2RaQnVzTm94YUxqazA5NHFZMUVyaEN5OUlhTHZLM3RQZWJ4UVRYUkcxVXZwQTlLc0VTSlpuU0czS01Ka0NMdHliQXhra2RDTFZsTnJRdDJSYkpRZWVUZEt3dlJ5ZF92cWt2TlpqTEk1RUNwdGtISFAwVXlla3pmMF83bGR3YmJ4dWxWUmE5alM5MTNCRWV4RVBUanFNbHBrX2E0LWlxX2NmdDllVU0iLCJpZCI6ImZjX2N4ZzZhcEtZQkozUGtQSVBrTzZ3dVFVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZtbGxSR3h4TUMxMVUwb3lTMk14WW5oTmNFbEtjMVZZTjBadGFrZDFVRTVxWTI4dFpVZERSMWhTVm1KVFdrUTJibTFJVFVka1YyTTVVa2gyVTJ0SVVURTRjMUJtVGt4VlFXTXRWbmR2TkRWUGQzbGlhVkkyWkZaSFp4SVhZM2huTm1Gd1MxbENTak5RYTFCSlVHdFBObmQxVVZVYUlrRkVjM0k1WmxKNE1FbFBSbVEwUzBOblZIZzJWMEZzVURkQmVsSmtZMVp5YVVFIiwiZmN2IjoiMyIsImVpIjoiY3hnNmFwS1lCSjNQa1BJUGtPNnd1UVUiLCJxYyI6IkNpWm1jbVZsYkdGdVkyVWdhRzkxY214NUlISmhkR1VnWTJGc1kzVnNZWFJ2Y2lCMFlYaGxjeEFBZmJ3VEhEOCIsInF1ZXN0aW9uIjoiSG93IG11Y2ggdGF4IGRvIHlvdSBoYXZlIHRvIHBheSBhcyBhIGZyZWVsYW5jZXI%2FIiwibGsiOiJHaTlvYjNjZ2JYVmphQ0IwWVhnZ1pHOGdlVzkxSUdoaGRtVWdkRzhnY0dGNUlHRnpJR0VnWm5KbFpXeGhibU5sY2ciLCJicyI6ImM1WE92VzdDTUJURmNYWDExSTAwZ3VvTWRFU0V3TnhJRlFOSTdKMnZraHNaNUhBang0YjZmWGdoSG9VM0FBLW9mQ3p0ZUtUX2tYNXFwY2JmbWh6V0haeG1ER2RaQnVzTm94YUxqazA5NHFZMUVyaEN5OUlhTHZLM3RQZWJ4UVRYUkcxVXZwQTlLc0VTSlpuU0czS01Ka0NMdHliQXhra2RDTFZsTnJRdDJSYkpRZWVUZEt3dlJ5ZF92cWt2TlpqTEk1RUNwdGtISFAwVXlla3pmMF83bGR3YmJ4dWxWUmE5alM5MTNCRWV4RVBUanFNbHBrX2E0LWlxX2NmdDllVU0iLCJpZCI6ImZjX2N4ZzZhcEtZQkozUGtQSVBrTzZ3dVFVXzEifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "4l5t73icxZbZcuo4EEDf5z8uL0kwBgIkVa5b8gYOYRHgEHihbFmIxQuxTWznbf5lvmqe50OuvIEJkNTcqqkRhdZWq1vqQ_PnX-ba3v79xz8r3995jwwTBEGZOA4xcRk5FqN5kY2YpWN6Llr9jN65Wgl5XKWE1xwKSUPbdWf8U224HSrD7aAR7KFaSrZwC13z8IZqDDces2Botf1RE-mg7JWxXRZWdT18cbphqJarFfahPGA0iwqA_7BIYJS0kH4U2ipnEvHx5BstUIk3jgszQqHOSy9VpChJI1xVKmRWCLNYRLybu3UeiDCZ63xhxfh0OI0rCQQA8LGJEry055IR-ZyTtfzVE6XzqUSYz84Si-qv-csXHxjGOictIBwfIneZB7kHVITQPp9qvAd8fRgIbeGLZ6IrO9KRVnfwotGFInelXZD1n2dtahFjEBqEFUZ3acMya7RCScf14tgUJg8VRx66xjzsiO79-DXyXKnS2ffW83Bv-z3IIJ3KmY5mYGOxWlR-JmO2yt5XHmrN1m0CBfIOVHhFKuaNnglqT8uaDMrPZZ4tIJFchnLicxxu_BX3utkdfhIHqZakzu4mv2U1F-OdnI5sYrONo2p2mGjFT7H6fGKs6xyJvJBihyKRmK2oh51F8bir8AVT0yJ-fu_jOPNhBrrw4LJUsDi9CKk43sbKlXY-ERyWYq3EBAniFAkpUzg42U-KhtHL4gUg5csHC2IZcXsQkxIL4-UZhDOgyBRR-nwkdz57SoqEcnp3YHMykkn8FchFwL8r_PHBrxUJ5LH_KZRPEGg6L1XZvxMVFXYGXjX8-Oj0P-RosHLJ5ZB3LP1fZAL0_0KhZnlCzUjoXoSCfAMFVKQv80Rq9zFPxLEiONegEDIoTvNEGrjHPHEOxfgUiut5ogBFquVrKPirUKQ_K-dQxHniDApyBYo0TxShOM0T9kFz7EEBit_KE_A38kTCCE6b06Sx35CryaP9LtQsSZTJyPehjDbipGn1TWKFaEO-TR5Ly3-0NMO8XayNR7765EfG7YJOOI_YKL1xSxdjU7MRvlk5e9eMblzNxzdIM9He1HzHvfG1EHsly3QdrqLV--r0CbrCVOUj9NoRsN3AKvHUgHXfrLC7s83pi9XHVddm5aDh9Op7O-oP3Xu5MX8a1iq6LIayZrkqRG-NEXg22u-kO2u2TVvZdT5aI3E9xuzrYqINDKkxbBn16rjVddStrM0i9NxaGpOZ9BpsDLiW-vxonVjlcZT5tztr2cJsvUQd8zDHliwXcRSFOgF9CKYEIMoAgPQfFRQc-g1oBJQ8pC2w987put40GixuGTVdrzVxySJ-tOPqbMmzXY79Ba8xG8k",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4l5t73icxZbZcuo4EEDf5z8uL0kwBgIkVa5b8gYOYRHgEHihbFmIxQuxTWznbf5lvmqe50OuvIEJkNTcqqkRhdZWq1vqQ_PnX-ba3v79xz8r3995jwwTBEGZOA4xcRk5FqN5kY2YpWN6Llr9jN65Wgl5XKWE1xwKSUPbdWf8U224HSrD7aAR7KFaSrZwC13z8IZqDDces2Botf1RE-mg7JWxXRZWdT18cbphqJarFfahPGA0iwqA_7BIYJS0kH4U2ipnEvHx5BstUIk3jgszQqHOSy9VpChJI1xVKmRWCLNYRLybu3UeiDCZ63xhxfh0OI0rCQQA8LGJEry055IR-ZyTtfzVE6XzqUSYz84Si-qv-csXHxjGOictIBwfIneZB7kHVITQPp9qvAd8fRgIbeGLZ6IrO9KRVnfwotGFInelXZD1n2dtahFjEBqEFUZ3acMya7RCScf14tgUJg8VRx66xjzsiO79-DXyXKnS2ffW83Bv-z3IIJ3KmY5mYGOxWlR-JmO2yt5XHmrN1m0CBfIOVHhFKuaNnglqT8uaDMrPZZ4tIJFchnLicxxu_BX3utkdfhIHqZakzu4mv2U1F-OdnI5sYrONo2p2mGjFT7H6fGKs6xyJvJBihyKRmK2oh51F8bir8AVT0yJ-fu_jOPNhBrrw4LJUsDi9CKk43sbKlXY-ERyWYq3EBAniFAkpUzg42U-KhtHL4gUg5csHC2IZcXsQkxIL4-UZhDOgyBRR-nwkdz57SoqEcnp3YHMykkn8FchFwL8r_PHBrxUJ5LH_KZRPEGg6L1XZvxMVFXYGXjX8-Oj0P-RosHLJ5ZB3LP1fZAL0_0KhZnlCzUjoXoSCfAMFVKQv80Rq9zFPxLEiONegEDIoTvNEGrjHPHEOxfgUiut5ogBFquVrKPirUKQ_K-dQxHniDApyBYo0TxShOM0T9kFz7EEBit_KE_A38kTCCE6b06Sx35CryaP9LtQsSZTJyPehjDbipGn1TWKFaEO-TR5Ly3-0NMO8XayNR7765EfG7YJOOI_YKL1xSxdjU7MRvlk5e9eMblzNxzdIM9He1HzHvfG1EHsly3QdrqLV--r0CbrCVOUj9NoRsN3AKvHUgHXfrLC7s83pi9XHVddm5aDh9Op7O-oP3Xu5MX8a1iq6LIayZrkqRG-NEXg22u-kO2u2TVvZdT5aI3E9xuzrYqINDKkxbBn16rjVddStrM0i9NxaGpOZ9BpsDLiW-vxonVjlcZT5tztr2cJsvUQd8zDHliwXcRSFOgF9CKYEIMoAgPQfFRQc-g1oBJQ8pC2w987put40GixuGTVdrzVxySJ-tOPqbMmzXY79Ba8xG8k"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Self-Employment Tax Calculator",
+      "link": "https://www.taxact.com/tax-resources/tax-calculators/self-employment-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taxact.com/tax-resources/tax-calculators/self-employment-calculator&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQFnoECBkQAQ",
+      "displayed_link": "https://www.taxact.com › tax-resources › self-employme...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEXT0dk0LlEXEDglH0Tw7_L___-1s8BCPV1RTGpgW3ZuaoPh4OWnpLOKhprEwsyYlad9eY9Z5SGgAAAAEXRSTlMw3v_uDwBQz7-unx9ggT9wjkUQq6gAAABrSURBVHgBZU9FAsAgDGuB4Pb_126ZS0_QRkXUPEY_f27MZx4L6wBnHwsPIKyIEGOkUAKQSYkAyk6ou0bjiQQ5RTtQEiD2WBAtLT5tQ_jnSLXovbCtuKdGLKgRdOVCzWBi2iKznPA1jyZBZQGtsgOTMXl8lAAAAABJRU5ErkJggg.png",
+      "snippet": "Self-employed individuals are responsible for paying both portions of the Social Security (12.4%) and Medicare (2.9%) taxes. Do I have to pay Self-Employment ...",
+      "snippet_highlighted_words": [
+        "Self-employed",
+        "taxes",
+        "pay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Self-employed individuals are responsible for paying both portions of the Social Security (12.4%) and Medicare (2.9%) taxes. Do I have to pay Self-Employment ...",
+          "source_info_link": "https://www.taxact.com/tax-resources/tax-calculators/self-employment-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEXT0dk0LlEXEDglH0Tw7_L___-1s8BCPV1RTGpgW3ZuaoPh4OWnpLOKhprEwsyYlad9eY9Z5SGgAAAAEXRSTlMw3v_uDwBQz7-unx9ggT9wjkUQq6gAAABrSURBVHgBZU9FAsAgDGuB4Pb_126ZS0_QRkXUPEY_f27MZx4L6wBnHwsPIKyIEGOkUAKQSYkAyk6ou0bjiQQ5RTtQEiD2WBAtLT5tQ_jnSLXovbCtuKdGLKgRdOVCzWBi2iKznPA1jyZBZQGtsgOTMXl8lAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.taxact.com/tax-resources/tax-calculators/self-employment-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.taxact.com%2Ftax-resources%2Ftax-calculators%2Fself-employment-calculator",
+      "source": "TaxAct",
+      "read_more_link": "https://www.taxact.com/tax-resources/tax-calculators/self-employment-calculator#:~:text=Self%2Demployed%20individuals%20are%20responsible%20for,have%20to%20pay%20Self%2DEmployment%20Tax%3F"
+    },
+    {
+      "position": 2,
+      "title": "Freelance Tax Calculator",
+      "link": "https://www.upwork.com/tools/freelance-tax-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.upwork.com/tools/freelance-tax-calculator&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQFnoECBoQAQ",
+      "displayed_link": "https://www.upwork.com › tools › freelance-tax-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEUAAABHcEwCAgIHBwcAAAAFBQUBAQEAAAAEBAQDAwMHBwcBAQEwMDBKSko8PDxeXl6Ojo7v7--7u7vl5eUiIiL____g4OCdnZ3T09P5-fnJycnc3Nyvr68UFBR0dHQXdSiQAAAAH3RSTlMBACJZmNb3_4rtGET5_vj17f_2__v__fj4__v9-_j6tYODVAAAAURJREFUeAGFk4e6gyAMhZ2JuCk9Ctr6_o95IRf71S5Pp_qTnWRXmmZ5URIzlUWepWlylH9cKX5IVS9IWlf8oqp-ItKs5DeV2YNIG7H-KtWk-_n9-SshNrz_kr-olDjSir-qSoMD_qEs_WlATIQI266Xy87L_9AwjmMb40xy_zPqC4UrbYxWfL1oANMsRJ4UAYAVAM5hpgl6WVZAiCIpD4DFMgADeTOYgpcyoWcA7eqAG3u1K8YQT8IHQFnn9MBetAjAO3CNgNLOSEp3G4FwdIPcHADiGU4sbC66KIO_CVN_H6bgfXYOW3ffViwSZEhTzhqrxc7iAGesA9r_NHMWwhozWeVNwp9fjTGXNhYqDgN1XR8z6fnqS06x1K_N6gF1aNZruzeAju1-MXGz89HA68gR0cvInQztydifL8756p0v7-n6_wG5XiE0Rs6QKAAAAABJRU5ErkJggg.png",
+      "snippet": "Use our freelance tax calculator to estimate your tax obligations based on current self-employment tax rates in the U.S..",
+      "snippet_highlighted_words": [
+        "Use our freelance tax calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our freelance tax calculator to estimate your tax obligations based on current self-employment tax rates in the U.S..",
+          "source_info_link": "https://www.upwork.com/tools/freelance-tax-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEUAAABHcEwCAgIHBwcAAAAFBQUBAQEAAAAEBAQDAwMHBwcBAQEwMDBKSko8PDxeXl6Ojo7v7--7u7vl5eUiIiL____g4OCdnZ3T09P5-fnJycnc3Nyvr68UFBR0dHQXdSiQAAAAH3RSTlMBACJZmNb3_4rtGET5_vj17f_2__v__fj4__v9-_j6tYODVAAAAURJREFUeAGFk4e6gyAMhZ2JuCk9Ctr6_o95IRf71S5Pp_qTnWRXmmZ5URIzlUWepWlylH9cKX5IVS9IWlf8oqp-ItKs5DeV2YNIG7H-KtWk-_n9-SshNrz_kr-olDjSir-qSoMD_qEs_WlATIQI266Xy87L_9AwjmMb40xy_zPqC4UrbYxWfL1oANMsRJ4UAYAVAM5hpgl6WVZAiCIpD4DFMgADeTOYgpcyoWcA7eqAG3u1K8YQT8IHQFnn9MBetAjAO3CNgNLOSEp3G4FwdIPcHADiGU4sbC66KIO_CVN_H6bgfXYOW3ffViwSZEhTzhqrxc7iAGesA9r_NHMWwhozWeVNwp9fjTGXNhYqDgN1XR8z6fnqS06x1K_N6gF1aNZruzeAju1-MXGz89HA68gR0cvInQztydifL8756p0v7-n6_wG5XiE0Rs6QKAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.upwork.com/tools/freelance-tax-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.upwork.com%2Ftools%2Ffreelance-tax-calculator",
+      "source": "Upwork"
+    },
+    {
+      "position": 3,
+      "title": "Freelance Rate Calculator - Try Free",
+      "link": "https://www.getharvest.com/calculators/freelance-rate-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.getharvest.com/calculators/freelance-rate-calculator&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQFnoECB8QAQ",
+      "displayed_link": "https://www.getharvest.com › Time Tracking",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEX6XQD6VgD6WgD8nnr7kWf6UAD8lW36bjD6aB38p4f7ekT____-1cT7dDv_7-P6TgD7gFL-0b78ooD___z7fU3___v-6t3-4NH6SAD_-PH6YQ58-1jYAAAAlklEQVR4AcXSAwIEIRQA0P5vmI29_z3Xtkfp5SLTPQCrb5tGBDw22rQdhW26H0aGR8aF5EqvM1oZy0c4oPM2xLTFZKx372CrbmObebiKsO41XsVSveftDURfq7-J8R766Gu5hREH0FeRZxILkqtolB6iJjcwvYUjX3fLV6i4FJweENk49BRmI2zOvVnZQQFxBYcbM9mzAG-6EbdBf_7ZAAAAAElFTkSuQmCC.png",
+      "snippet": "Calculate your ideal freelance rates with Harvest. Track billable hours, expenses, and adjust for taxes to ensure profitability.",
+      "snippet_highlighted_words": [
+        "Calculate your ideal freelance rates with Harvest"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "reviews": 17700
+          },
+          "extensions": [
+            "4.8(17,700)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Calculate your ideal freelance rates with Harvest. Track billable hours, expenses, and adjust for taxes to ensure profitability.",
+          "source_info_link": "https://www.getharvest.com/calculators/freelance-rate-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEX6XQD6VgD6WgD8nnr7kWf6UAD8lW36bjD6aB38p4f7ekT____-1cT7dDv_7-P6TgD7gFL-0b78ooD___z7fU3___v-6t3-4NH6SAD_-PH6YQ58-1jYAAAAlklEQVR4AcXSAwIEIRQA0P5vmI29_z3Xtkfp5SLTPQCrb5tGBDw22rQdhW26H0aGR8aF5EqvM1oZy0c4oPM2xLTFZKx372CrbmObebiKsO41XsVSveftDURfq7-J8R766Gu5hREH0FeRZxILkqtolB6iJjcwvYUjX3fLV6i4FJweENk49BRmI2zOvVnZQQFxBYcbM9mzAG-6EbdBf_7ZAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.getharvest.com/calculators/freelance-rate-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.getharvest.com%2Fcalculators%2Ffreelance-rate-calculator",
+      "source": "Harvest"
+    },
+    {
+      "position": 4,
+      "title": "Hourly Paycheck Calculator - Calculate Hourly Pay",
+      "link": "https://www.adp.com/resources/tools/calculators/hourly-paycheck-calculator.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.adp.com/resources/tools/calculators/hourly-paycheck-calculator.aspx&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQFnoECBsQAQ",
+      "displayed_link": "https://www.adp.com › resources › tools › calculators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEX____--_v12tn23dz34N_99vXhiITKAADMAADfgHzed3P45uXwxsX9-Pj01NPTOzPRLSTYXVjXVU_IAADURT777u7xzMvoqqjPHA3jlJHturjeenbqsa_moJ3jjovuv73ccm3WTUfRKR_aY17URD33syvAAAAAv0lEQVR4AWIYaYCRiRkIAOVOhQHDMAxTqHYxSZn5_xvHdMNkZmsAN8f8FgO6g0PwzUbftZgSYUSaZtayFEI7_1XMPXSR3gZLjh0HgrJ3LaEKMYmsdpEqlM5I58272HYqjCgFJKFPu4FSO75qE2MewkgANd-eG2RN1bNmaJHLkizoG-6q0dRLQO-t6wZu951EaxvsrDY-3u9ISqITqEhX1ciek7MXeMExkwY0XdE2IKZxfk-aNE1vNn3Ymxb4J1wA5FcKAsAdxw0AAAAASUVORK5CYII.png",
+      "snippet": "Estimate the after-tax pay for hourly employees by entering the following information into a hourly paycheck calculator.",
+      "snippet_highlighted_words": [
+        "hourly paycheck calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Estimate the after-tax pay for hourly employees by entering the following information into a hourly paycheck calculator.",
+          "source_info_link": "https://www.adp.com/resources/tools/calculators/hourly-paycheck-calculator.aspx",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEX____--_v12tn23dz34N_99vXhiITKAADMAADfgHzed3P45uXwxsX9-Pj01NPTOzPRLSTYXVjXVU_IAADURT777u7xzMvoqqjPHA3jlJHturjeenbqsa_moJ3jjovuv73ccm3WTUfRKR_aY17URD33syvAAAAAv0lEQVR4AWIYaYCRiRkIAOVOhQHDMAxTqHYxSZn5_xvHdMNkZmsAN8f8FgO6g0PwzUbftZgSYUSaZtayFEI7_1XMPXSR3gZLjh0HgrJ3LaEKMYmsdpEqlM5I58272HYqjCgFJKFPu4FSO75qE2MewkgANd-eG2RN1bNmaJHLkizoG-6q0dRLQO-t6wZu951EaxvsrDY-3u9ISqITqEhX1ciek7MXeMExkwY0XdE2IKZxfk-aNE1vNn3Ymxb4J1wA5FcKAsAdxw0AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.adp.com/resources/tools/calculators/hourly-paycheck-calculator.aspx&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.adp.com%2Fresources%2Ftools%2Fcalculators%2Fhourly-paycheck-calculator.aspx",
+      "source": "ADP",
+      "read_more_link": "https://www.adp.com/resources/tools/calculators/hourly-paycheck-calculator.aspx#:~:text=Estimate%20the%20after%2Dtax%20pay%20for,into%20a%20hourly%20paycheck%20calculator%3A"
+    },
+    {
+      "position": 5,
+      "title": "Freelance Hourly Rate Calculator – Find Your True Billable ...",
+      "link": "https://www.chartatlas.com/calculators/hourly-rate",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chartatlas.com/calculators/hourly-rate&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQFnoECCQQAQ",
+      "displayed_link": "https://www.chartatlas.com › calculators › hourly-rate",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABsAAAAcCAMAAACnDzTfAAAAOVBMVEVhte9HcExhu_hhu_lhu_lhu_lhu_hhuvdhr-Zhu_lhu_lhu_lhu_lhuvhhu_lhu_lhu_lhu_lhuvjAFrvsAAAAE3RSTlMFADZMcGJAEQLD_-2EIJjb-KkrlTjRFAAAAS1JREFUeAFdjweShDAMBDXOGmf-_9gzppZwTaYV5QcAY50PEUjyAfDKi1wEH2UylVppG_uge6WiUCVPgAae1bHfqWh0KBkCBqBl1JElXcrRItFcbt08ZHRsVekA14FdE_ADiCw4Xc-HOXoL1gY6e93DZEwCw8xFHutgvxkNgtkBmIwTRqSEjeNydOvmdJdnTSKpllIQGaTyWK60l3MkK3IRSyxmweJycBzL6RTPsuhaTt5uqjjqInfdRAC3-9ZMZk0f75rHnqXtWa5y4XK97B0SnK7bwj-OVqCaYjTEoar1cZZJYLkxgYP2drErRJAnTr7O8ThdoIXI1w3Oa7jJin-OGbKB0uDjyAi5ZYH5ucMx3-raeZ4py43OiaVuII0L7efNQD4kwPjSigvpTvoDBAMSb-BSkSoAAAAASUVORK5CYII.png",
+      "snippet": "Calculate your hourly rate by dividing your annual income goal plus expenses and taxes by your billable hours per year. Our calculator automates this process ...",
+      "snippet_highlighted_words": [
+        "Calculate your hourly rate by dividing your annual income goal plus expenses and taxes by"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculate your hourly rate by dividing your annual income goal plus expenses and taxes by your billable hours per year. Our calculator automates this process ...",
+          "source_info_link": "https://www.chartatlas.com/calculators/hourly-rate",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABsAAAAcCAMAAACnDzTfAAAAOVBMVEVhte9HcExhu_hhu_lhu_lhu_lhu_hhuvdhr-Zhu_lhu_lhu_lhu_lhuvhhu_lhu_lhu_lhu_lhuvjAFrvsAAAAE3RSTlMFADZMcGJAEQLD_-2EIJjb-KkrlTjRFAAAAS1JREFUeAFdjweShDAMBDXOGmf-_9gzppZwTaYV5QcAY50PEUjyAfDKi1wEH2UylVppG_uge6WiUCVPgAae1bHfqWh0KBkCBqBl1JElXcrRItFcbt08ZHRsVekA14FdE_ADiCw4Xc-HOXoL1gY6e93DZEwCw8xFHutgvxkNgtkBmIwTRqSEjeNydOvmdJdnTSKpllIQGaTyWK60l3MkK3IRSyxmweJycBzL6RTPsuhaTt5uqjjqInfdRAC3-9ZMZk0f75rHnqXtWa5y4XK97B0SnK7bwj-OVqCaYjTEoar1cZZJYLkxgYP2drErRJAnTr7O8ThdoIXI1w3Oa7jJin-OGbKB0uDjyAi5ZYH5ucMx3-raeZ4py43OiaVuII0L7efNQD4kwPjSigvpTvoDBAMSb-BSkSoAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.chartatlas.com/calculators/hourly-rate&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.chartatlas.com%2Fcalculators%2Fhourly-rate",
+      "source": "ChartAtlas",
+      "read_more_link": "https://www.chartatlas.com/calculators/hourly-rate#:~:text=Calculate%20your%20hourly%20rate%20by,process%20and%20includes%20profit%20margins."
+    },
+    {
+      "position": 6,
+      "title": "How to set your hourly rates as a freelancer to make $100k ...",
+      "link": "https://www.instagram.com/reel/DZbEWYSvlx5/",
+      "displayed_link": "370+ likes · 1 week ago",
+      "thumbnail": "https://serpapi.com/searches/6a3a1872d0a88fafdaff4f10/images/jLmcqy-vOxSHJOuKGOVdfjHlEkYrqq87JvN6YB0sO54.jpeg",
+      "favicon": "https://serpapi.com/searches/6a3a1872d0a88fafdaff4f10/images/jLmcqy-vOxSHJOuKGOVdfm01TvXqzpGq_a5U_gMacfU.png",
+      "snippet": "So what I would recommend is padding your hourly rate 30% to account for taxes and then 15% to account for business expenses, which is going to ...",
+      "duration": "1:37",
+      "about_this_result": {
+        "source": {
+          "description": "So what I would recommend is padding your hourly rate 30% to account for taxes and then 15% to account for business expenses, which is going to ...",
+          "source_info_link": "https://www.instagram.com/reel/DZbEWYSvlx5/",
+          "icon": "https://serpapi.com/searches/6a3a1872d0a88fafdaff4f10/images/jLmcqy-vOxSHJOuKGOVdfjYoQVkSafr3wHdAbpsLrtwkmSZAg-YUB4_w9rVY_--I.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/reel/DZbEWYSvlx5/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Freel%2FDZbEWYSvlx5%2F",
+      "source": "Instagram · howtogofreelance"
+    },
+    {
+      "position": 7,
+      "title": "Hourly rate calculator for freelancers | United States - Conta",
+      "link": "https://conta.com/us/freelance-hourly-rate-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://conta.com/us/freelance-hourly-rate-calculator/&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQFnoECB0QAQ",
+      "displayed_link": "https://conta.com › freelance-hourly-rate-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEVHcEw1iUwreEYtf0Yyh0o0iEs3jlApd0Mpd0Mue0cpeEQyhkosfUX___8re0Uwg0godkIpd0MxhUkugEc1iEsvgUcxhEkGbywZeTcSdDRRkmLX5trL3dDn8OmKspN4qISqxbC50L71-vZ87wZOAAAACnRSTlMAQUH_5poQ5poQ_YzJOAAAAWtJREFUOI1tk4mWgjAMRaOIS4ktS1dw__-PnKQtFXAueuyRy8uzIABczqeOaH84nS9A7IXoOn5Ha-Pt6XqRISs5K-kCZ7Gk2yad4SSFFBu6DPcAGclSG4JzoV1KWYi0bnzdptv76UIZKADn0yKM0zXzcGUcYEJieFy_3JzcCOX8J314waFUrSSM_PX96ZzTb1q4eTBUWNEL3RSDW4lURj98aQ5VJAbc3RzHnkRcCP5FwihohSskZiHQhI-LS8SVBUMk3K_XKVRfcJbAEP8IRQPFhkkjUtraAUWGMqkkDpzGzlcjgTHpZw48zwyVjNJSUCFtFLLhx6cnI4WBtVEY8lb7kLY6xCjDQm8tS359s9Ck9gZ6hqxipNvtlUn1oekz1i8emKBmoCF6PnprfH7kAiq7EiIcotATlbKxV5Tg0Czp88RUnaQD1FrrZkOpZW0NR800P1Z2jgA7XWj4WA3c8d_7WB-0XlqzdKjp-j-Nkjp0frLD0AAAAABJRU5ErkJggg.png",
+      "snippet": "With this hourly rate calculator you can work out the rate you need to charge to achieve your freelancer goals and cover your expenses.",
+      "snippet_highlighted_words": [
+        "hourly rate calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "With this hourly rate calculator you can work out the rate you need to charge to achieve your freelancer goals and cover your expenses.",
+          "source_info_link": "https://conta.com/us/freelance-hourly-rate-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEVHcEw1iUwreEYtf0Yyh0o0iEs3jlApd0Mpd0Mue0cpeEQyhkosfUX___8re0Uwg0godkIpd0MxhUkugEc1iEsvgUcxhEkGbywZeTcSdDRRkmLX5trL3dDn8OmKspN4qISqxbC50L71-vZ87wZOAAAACnRSTlMAQUH_5poQ5poQ_YzJOAAAAWtJREFUOI1tk4mWgjAMRaOIS4ktS1dw__-PnKQtFXAueuyRy8uzIABczqeOaH84nS9A7IXoOn5Ha-Pt6XqRISs5K-kCZ7Gk2yad4SSFFBu6DPcAGclSG4JzoV1KWYi0bnzdptv76UIZKADn0yKM0zXzcGUcYEJieFy_3JzcCOX8J314waFUrSSM_PX96ZzTb1q4eTBUWNEL3RSDW4lURj98aQ5VJAbc3RzHnkRcCP5FwihohSskZiHQhI-LS8SVBUMk3K_XKVRfcJbAEP8IRQPFhkkjUtraAUWGMqkkDpzGzlcjgTHpZw48zwyVjNJSUCFtFLLhx6cnI4WBtVEY8lb7kLY6xCjDQm8tS359s9Ck9gZ6hqxipNvtlUn1oekz1i8emKBmoCF6PnprfH7kAiq7EiIcotATlbKxV5Tg0Czp88RUnaQD1FrrZkOpZW0NR800P1Z2jgA7XWj4WA3c8d_7WB-0XlqzdKjp-j-Nkjp0frLD0AAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://conta.com/us/freelance-hourly-rate-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fconta.com%2Fus%2Ffreelance-hourly-rate-calculator%2F",
+      "source": "conta.com",
+      "read_more_link": "https://conta.com/us/freelance-hourly-rate-calculator/#:~:text=With%20this%20hourly%20rate%20calculator,goals%20and%20cover%20your%20expenses."
+    },
+    {
+      "position": 8,
+      "title": "1099 Tax Calculator | Estimate Your Self-Employment Taxes",
+      "link": "https://www.everlance.com/tax-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.everlance.com/tax-calculator&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQFnoECDYQAQ",
+      "displayed_link": "https://www.everlance.com › tax-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAIVBMVEX_______8xtZ8PsJeq29GT0sbr9vS-49sjs5zR6-Vnw7IIyBiuAAAAAXRSTlPSKDtrngAAAJBJREFUKJGt00cOAyEMBVBwZ-5_4DCGUETZJCx5svVNCSEeV7hY1j8h8Q3tjCqoR-SIzwlFI6IcMKdB4wNSRrA9kjjqFt-GCAA7TKkgpg16koz2rChUEXBFN0ejBblhj_RFlY4tUpgKC7ZIFeUdXZgU7C2VCdnJ-0M-JZ6QKlXGEamTc52m4HiJw8YPT_P2HT4lqwS8oT3nvAAAAABJRU5ErkJggg.png",
+      "snippet": "Estimate your 1099 self-employed taxes easily with our free calculator. Input your income, expenses, and instantly get your result.",
+      "snippet_highlighted_words": [
+        "easily with our free calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Estimate your 1099 self-employed taxes easily with our free calculator. Input your income, expenses, and instantly get your result.",
+          "source_info_link": "https://www.everlance.com/tax-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAIVBMVEX_______8xtZ8PsJeq29GT0sbr9vS-49sjs5zR6-Vnw7IIyBiuAAAAAXRSTlPSKDtrngAAAJBJREFUKJGt00cOAyEMBVBwZ-5_4DCGUETZJCx5svVNCSEeV7hY1j8h8Q3tjCqoR-SIzwlFI6IcMKdB4wNSRrA9kjjqFt-GCAA7TKkgpg16koz2rChUEXBFN0ejBblhj_RFlY4tUpgKC7ZIFeUdXZgU7C2VCdnJ-0M-JZ6QKlXGEamTc52m4HiJw8YPT_P2HT4lqwS8oT3nvAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.everlance.com/tax-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.everlance.com%2Ftax-calculator",
+      "source": "Everlance"
+    },
+    {
+      "position": 9,
+      "title": "Free Payroll Tax Calculator 2026",
+      "link": "https://www.esmartpaycheck.com/freecalculator/free_calculator.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.esmartpaycheck.com/freecalculator/free_calculator.aspx&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQFnoECDcQAQ",
+      "displayed_link": "https://www.esmartpaycheck.com › freecalculator › free_...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAAAvElEQVR4AWMYTODggQM0Uz118tSdO3YSq3r6NFJUT5k0ef6cueiiV27enTl9Oqbq8tKyrNS0KzcZLj5DldiyZYuclPS0qVPhIo11dTGRUbnpqUDVa89haJg8abK7u5eshER4aBhQaXJCooKsXFJMFEI1ppOyZzP4hUSLcnNwsbJpKistmDEFoRoTnH3AwBDGANRT2sgwZfIkIAKqFs6FqMapAYiAioDaQCSmakw9EHUQPRDVhAFQHQhRGQAAbkFa_sVrqD0AAAAASUVORK5CYII.png",
+      "snippet": "The FREE Online Payroll Calculator is a simple, flexible and convenient tool for computing payroll taxes and printing pay stubs or paychecks.",
+      "snippet_highlighted_words": [
+        "FREE Online Payroll Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The FREE Online Payroll Calculator is a simple, flexible and convenient tool for computing payroll taxes and printing pay stubs or paychecks.",
+          "source_info_link": "https://www.esmartpaycheck.com/freecalculator/free_calculator.aspx",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAAAvElEQVR4AWMYTODggQM0Uz118tSdO3YSq3r6NFJUT5k0ef6cueiiV27enTl9Oqbq8tKyrNS0KzcZLj5DldiyZYuclPS0qVPhIo11dTGRUbnpqUDVa89haJg8abK7u5eshER4aBhQaXJCooKsXFJMFEI1ppOyZzP4hUSLcnNwsbJpKistmDEFoRoTnH3AwBDGANRT2sgwZfIkIAKqFs6FqMapAYiAioDaQCSmakw9EHUQPRDVhAFQHQhRGQAAbkFa_sVrqD0AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.esmartpaycheck.com/freecalculator/free_calculator.aspx&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.esmartpaycheck.com%2Ffreecalculator%2Ffree_calculator.aspx",
+      "source": "eSmart Paycheck Calculator",
+      "read_more_link": "https://www.esmartpaycheck.com/freecalculator/free_calculator.aspx#:~:text=The%20FREE%20Online%20Payroll%20Calculator,printing%20pay%20stubs%20or%20paychecks."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Freelance hourly rate calculator taxes california",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Freelance+hourly+rate+calculator+taxes+california&sa=X&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Freelance+hourly+rate+calculator+taxes+california"
+    },
+    {
+      "block_position": 1,
+      "query": "Freelance hourly rate calculator taxes usa",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Freelance+hourly+rate+calculator+taxes+usa&sa=X&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Freelance+hourly+rate+calculator+taxes+usa"
+    },
+    {
+      "block_position": 1,
+      "query": "Freelance hourly rate calculator taxes texas",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Freelance+hourly+rate+calculator+taxes+texas&sa=X&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Freelance+hourly+rate+calculator+taxes+texas"
+    },
+    {
+      "block_position": 1,
+      "query": "Self-employment tax calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Self-employment+tax+calculator&sa=X&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Self-employment+tax+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Self-employment tax calculator free",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Self-employment+tax+calculator+free&sa=X&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Self-employment+tax+calculator+free"
+    },
+    {
+      "block_position": 1,
+      "query": "1099 tax calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=1099+tax+calculator&sa=X&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=1099+tax+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Self-employment tax calculator with deductions",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Self-employment+tax+calculator+with+deductions&sa=X&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Self-employment+tax+calculator+with+deductions"
+    },
+    {
+      "block_position": 1,
+      "query": "1099 self-employment tax calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=1099+self-employment+tax+calculator&sa=X&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=1099+self-employment+tax+calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=freelance+hourly+rate+calculator+taxes&sca_esv=bbb7d61e8d3bb37e&ei=cxg6apKYBJ3PkPIPkO6wuQU&start=10&sa=N&sstk=AU9db-AQOoNi_0wLZj0zj2JHGqAlVgKFIjhI41vU8Oafjjt_bRJ0cmacw3yUu8Fve7tL2ETJ-2_S-v-awt4ICn_3d8W4qUN_tFvdzw&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ8NMDegQILBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=freelance+hourly+rate+calculator+taxes&sca_esv=bbb7d61e8d3bb37e&ei=cxg6apKYBJ3PkPIPkO6wuQU&start=10&sa=N&sstk=AU9db-AQOoNi_0wLZj0zj2JHGqAlVgKFIjhI41vU8Oafjjt_bRJ0cmacw3yUu8Fve7tL2ETJ-2_S-v-awt4ICn_3d8W4qUN_tFvdzw&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ8tMDegQILBAE",
+      "3": "https://www.google.com/search?q=freelance+hourly+rate+calculator+taxes&sca_esv=bbb7d61e8d3bb37e&ei=cxg6apKYBJ3PkPIPkO6wuQU&start=20&sa=N&sstk=AU9db-AQOoNi_0wLZj0zj2JHGqAlVgKFIjhI41vU8Oafjjt_bRJ0cmacw3yUu8Fve7tL2ETJ-2_S-v-awt4ICn_3d8W4qUN_tFvdzw&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ8tMDegQILBAG",
+      "4": "https://www.google.com/search?q=freelance+hourly+rate+calculator+taxes&sca_esv=bbb7d61e8d3bb37e&ei=cxg6apKYBJ3PkPIPkO6wuQU&start=30&sa=N&sstk=AU9db-AQOoNi_0wLZj0zj2JHGqAlVgKFIjhI41vU8Oafjjt_bRJ0cmacw3yUu8Fve7tL2ETJ-2_S-v-awt4ICn_3d8W4qUN_tFvdzw&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ8tMDegQILBAI",
+      "5": "https://www.google.com/search?q=freelance+hourly+rate+calculator+taxes&sca_esv=bbb7d61e8d3bb37e&ei=cxg6apKYBJ3PkPIPkO6wuQU&start=40&sa=N&sstk=AU9db-AQOoNi_0wLZj0zj2JHGqAlVgKFIjhI41vU8Oafjjt_bRJ0cmacw3yUu8Fve7tL2ETJ-2_S-v-awt4ICn_3d8W4qUN_tFvdzw&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ8tMDegQILBAK",
+      "6": "https://www.google.com/search?q=freelance+hourly+rate+calculator+taxes&sca_esv=bbb7d61e8d3bb37e&ei=cxg6apKYBJ3PkPIPkO6wuQU&start=50&sa=N&sstk=AU9db-AQOoNi_0wLZj0zj2JHGqAlVgKFIjhI41vU8Oafjjt_bRJ0cmacw3yUu8Fve7tL2ETJ-2_S-v-awt4ICn_3d8W4qUN_tFvdzw&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ8tMDegQILBAM",
+      "7": "https://www.google.com/search?q=freelance+hourly+rate+calculator+taxes&sca_esv=bbb7d61e8d3bb37e&ei=cxg6apKYBJ3PkPIPkO6wuQU&start=60&sa=N&sstk=AU9db-AQOoNi_0wLZj0zj2JHGqAlVgKFIjhI41vU8Oafjjt_bRJ0cmacw3yUu8Fve7tL2ETJ-2_S-v-awt4ICn_3d8W4qUN_tFvdzw&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ8tMDegQILBAO",
+      "8": "https://www.google.com/search?q=freelance+hourly+rate+calculator+taxes&sca_esv=bbb7d61e8d3bb37e&ei=cxg6apKYBJ3PkPIPkO6wuQU&start=70&sa=N&sstk=AU9db-AQOoNi_0wLZj0zj2JHGqAlVgKFIjhI41vU8Oafjjt_bRJ0cmacw3yUu8Fve7tL2ETJ-2_S-v-awt4ICn_3d8W4qUN_tFvdzw&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ8tMDegQILBAQ",
+      "9": "https://www.google.com/search?q=freelance+hourly+rate+calculator+taxes&sca_esv=bbb7d61e8d3bb37e&ei=cxg6apKYBJ3PkPIPkO6wuQU&start=80&sa=N&sstk=AU9db-AQOoNi_0wLZj0zj2JHGqAlVgKFIjhI41vU8Oafjjt_bRJ0cmacw3yUu8Fve7tL2ETJ-2_S-v-awt4ICn_3d8W4qUN_tFvdzw&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ8tMDegQILBAS",
+      "10": "https://www.google.com/search?q=freelance+hourly+rate+calculator+taxes&sca_esv=bbb7d61e8d3bb37e&ei=cxg6apKYBJ3PkPIPkO6wuQU&start=90&sa=N&sstk=AU9db-AQOoNi_0wLZj0zj2JHGqAlVgKFIjhI41vU8Oafjjt_bRJ0cmacw3yUu8Fve7tL2ETJ-2_S-v-awt4ICn_3d8W4qUN_tFvdzw&ved=2ahUKEwjSnce8z5yVAxWdJ0QIHRA3LFcQ8tMDegQILBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=freelance+hourly+rate+calculator+taxes&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=freelance+hourly+rate+calculator+taxes&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=freelance+hourly+rate+calculator+taxes&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=freelance+hourly+rate+calculator+taxes&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=freelance+hourly+rate+calculator+taxes&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=freelance+hourly+rate+calculator+taxes&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=freelance+hourly+rate+calculator+taxes&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=freelance+hourly+rate+calculator+taxes&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=freelance+hourly+rate+calculator+taxes&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=freelance+hourly+rate+calculator+taxes&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=freelance+hourly+rate+calculator+taxes&start=90"
+    }
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "search_metadata": {
+    "id": "6a3a22bc231ffe036d2296b4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_omXxKiqnInwYVHu0bcYDA/6a3a22bc231ffe036d2296b4.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/_omXxKiqnInwYVHu0bcYDA/6a3a22bc231ffe036d2296b4.json_with_pixel_position",
+    "created_at": "2026-06-23 06:07:56 UTC",
+    "processed_at": "2026-06-23 06:07:56 UTC",
+    "google_url": "https://www.google.com/search?q=military+benefits+after+16+years&oq=military+benefits+after+16+years&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/_omXxKiqnInwYVHu0bcYDA/6a3a22bc231ffe036d2296b4.html",
+    "total_time_taken": 1.35
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military benefits after 16 years",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military benefits after 16 years",
+    "total_results": 141,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is the $42,000 VA benefit?",
+      "type": "ai_overview",
+      "page_token": "2qTpKXicHdDhUoIwAADg62X6mQPC0juva-HEitEG22R_OhwqsjFQSdR_vUtP1dPk9Qbffd8_Zmv1782x7Lr2MB4M-r6_2zTNxqzuVFMP8sPZqoHKjVnmSo-HD0Pnaa0m0685fNnNIWFtywMKEluiLJUAB68HPkMvMS_ipO4dXGlHOkikoHOZxSXVp0VUd5YGyFML-SZnBVW6eE_t1MOzNoxR0VPBe-L6QurRUM6wl4mTzvnjeRXwe-LKc4wePV49g0iXLDObs6hokgE_X1W4WV4iNwolV2bURpeSYoYgF_dAaN8j1bwXptgzTvw4xPM8NDtpJVUV9XmAiahQskT8IxMjOy0LlwHtZgtUpsBgAq6OuiMxhyFPHBjDZksYvajK1EygjnqZk9T-VrrSv1rWKYIw46OGea9EWVgW_e1aHSfe7f_n5HNdd-N232z-AAjdgOk",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2qTpKXicHdDhUoIwAADg62X6mQPC0juva-HEitEG22R_OhwqsjFQSdR_vUtP1dPk9Qbffd8_Zmv1782x7Lr2MB4M-r6_2zTNxqzuVFMP8sPZqoHKjVnmSo-HD0Pnaa0m0685fNnNIWFtywMKEluiLJUAB68HPkMvMS_ipO4dXGlHOkikoHOZxSXVp0VUd5YGyFML-SZnBVW6eE_t1MOzNoxR0VPBe-L6QurRUM6wl4mTzvnjeRXwe-LKc4wePV49g0iXLDObs6hokgE_X1W4WV4iNwolV2bURpeSYoYgF_dAaN8j1bwXptgzTvw4xPM8NDtpJVUV9XmAiahQskT8IxMjOy0LlwHtZgtUpsBgAq6OuiMxhyFPHBjDZksYvajK1EygjnqZk9T-VrrSv1rWKYIw46OGea9EWVgW_e1aHSfe7f_n5HNdd-N232z-AAjdgOk",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdtdEdTVWRNVmtaWVUybGxaazVTUldaSlNEWmtNMjFOYzJsQ2MwVTFSRXMwTkVZMGRHVnRXQzA0TmpBeFRrNXFRamN5TTB4TlNYVkhPVkJCVEVrMVMzbE5RMmhXUTJoTmRHbFhNWFkzUlVaUE5XRktjSFJuVFdNdFFSSVhkbE5KTm1GeFlVOUpUVU5EZDJKclVEbFFSMVV0UVRnYUlrRkVjM0k1WmxKRFpGWTVUbTVrY0VoRVJHaEdTbGRCYVhaUmNHTmhha3BPVkdjIiwiZmN2IjoiMyIsImVpIjoidlNJNmFxYU9JTUNDd2JrUDlQR1UtQTgiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE5pQjVaV0Z5Y3hBQWZRdy1ZejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICQ0MiwwMDAgVkEgYmVuZWZpdD8iLCJsayI6IkdoMTNhR0YwSUdseklIUm9aU0FrTkRJd01EQWdkbUVnWW1WdVpXWnBkQSIsImJzIjoiYzVYT093dkNNQmhHWVZ3ek9SZkVkX0NPUTR4MkxvcURxNHVkbzM0MWdUYVJKRzNwdjdjV0JOM3FfaHc0N01ER3FaSUIyaU1vd21RbjFweHpYUGE0a3FGTWgwU01vMUg5Uzk2aWtoX0JDclk3V2pTMnhJTUNKSjVrdkxZR01ndmtzSW5Sa0hRZTJuUjlvWE1kcEdzU0VVZmItXzhkTzdQWjk3TGduWU1yYzBKbUhTcHFjMmw4SXViUnRPNGpXY3FXSjF1aktHOEtkMHUtbmRsd1B2MkE3cS13SnFpODNWNUZDOVVURHdjdiIsImlkIjoiZmNfdlNJNmFxYU9JTUNDd2JrUDlQR1UtQThfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdtdEdTVWRNVmtaWVUybGxaazVTUldaSlNEWmtNMjFOYzJsQ2MwVTFSRXMwTkVZMGRHVnRXQzA0TmpBeFRrNXFRamN5TTB4TlNYVkhPVkJCVEVrMVMzbE5RMmhXUTJoTmRHbFhNWFkzUlVaUE5XRktjSFJuVFdNdFFSSVhkbE5KTm1GeFlVOUpUVU5EZDJKclVEbFFSMVV0UVRnYUlrRkVjM0k1WmxKRFpGWTVUbTVrY0VoRVJHaEdTbGRCYVhaUmNHTmhha3BPVkdjIiwiZmN2IjoiMyIsImVpIjoidlNJNmFxYU9JTUNDd2JrUDlQR1UtQTgiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE5pQjVaV0Z5Y3hBQWZRdy1ZejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICQ0MiwwMDAgVkEgYmVuZWZpdD8iLCJsayI6IkdoMTNhR0YwSUdseklIUm9aU0FrTkRJd01EQWdkbUVnWW1WdVpXWnBkQSIsImJzIjoiYzVYT093dkNNQmhHWVZ3ek9SZkVkX0NPUTR4MkxvcURxNHVkbzM0MWdUYVJKRzNwdjdjV0JOM3FfaHc0N01ER3FaSUIyaU1vd21RbjFweHpYUGE0a3FGTWgwU01vMUg5Uzk2aWtoX0JDclk3V2pTMnhJTUNKSjVrdkxZR01ndmtzSW5Sa0hRZTJuUjlvWE1kcEdzU0VVZmItXzhkTzdQWjk3TGduWU1yYzBKbUhTcHFjMmw4SXViUnRPNGpXY3FXSjF1aktHOEtkMHUtbmRsd1B2MkE3cS13SnFpODNWNUZDOVVURHdjdiIsImlkIjoiZmNfdlNJNmFxYU9JTUNDd2JrUDlQR1UtQThfNSJ9"
+    },
+    {
+      "question": "Do you get a pension after 15 years in the military?",
+      "type": "ai_overview",
+      "page_token": "7IWvtHicHdBfbpswHABg9TJ9bIy9ZFqkqBKLnUYaTjH2z4aXydgJNJg_ahGEvO0KO0NPtdNs2hG-79dneOuaPw-_63EcPrar1TzPT1XfV-H85Pp2ZT-Wzq2cDaG0rtluvm6i54vb0cnF399dnKphgL1AGbot4sDvloEFDNFZCu2gOFp6u5ZNQUt9nLWMW6l7JFCxnCkHqYqXgoi40F4kAa45YReDx8UemPb0ttbtuvPNwErGQKDbJjEOJUwgG_q1lWFd7kPgqBaShEmYI4auwhwEE6zOszaMZRig1H7KohqX-Bv_IY_3f47T2fDgqMI5cGsZw5lJZ28UsYgSofhoIl8ke9F7xQ0cPLYRbLyCL2mXE6Cc0dpjhRqcG1ZLFHiKOMnbMT1B_AJZFJ_i_i1V4u6uoQXqQ6YHomQ8KT2-usZrJUPtu2pJdD1CGISfHy9u2pHH_9e7n5d23A7vffUX07KMew",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7IWvtHicHdBfbpswHABg9TJ9bIy9ZFqkqBKLnUYaTjH2z4aXydgJNJg_ahGEvO0KO0NPtdNs2hG-79dneOuaPw-_63EcPrar1TzPT1XfV-H85Pp2ZT-Wzq2cDaG0rtluvm6i54vb0cnF399dnKphgL1AGbot4sDvloEFDNFZCu2gOFp6u5ZNQUt9nLWMW6l7JFCxnCkHqYqXgoi40F4kAa45YReDx8UemPb0ttbtuvPNwErGQKDbJjEOJUwgG_q1lWFd7kPgqBaShEmYI4auwhwEE6zOszaMZRig1H7KohqX-Bv_IY_3f47T2fDgqMI5cGsZw5lJZ28UsYgSofhoIl8ke9F7xQ0cPLYRbLyCL2mXE6Cc0dpjhRqcG1ZLFHiKOMnbMT1B_AJZFJ_i_i1V4u6uoQXqQ6YHomQ8KT2-usZrJUPtu2pJdD1CGISfHy9u2pHH_9e7n5d23A7vffUX07KMew",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdtdEdTVWRNVmtaWVUybGxaazVTUldaSlNEWmtNMjFOYzJsQ2MwVTFSRXMwTkVZMGRHVnRXQzA0TmpBeFRrNXFRamN5TTB4TlNYVkhPVkJCVEVrMVMzbE5RMmhXUTJoTmRHbFhNWFkzUlVaUE5XRktjSFJuVFdNdFFSSVhkbE5KTm1GeFlVOUpUVU5EZDJKclVEbFFSMVV0UVRnYUlrRkVjM0k1WmxKRFpGWTVUbTVrY0VoRVJHaEdTbGRCYVhaUmNHTmhha3BPVkdjIiwiZmN2IjoiMyIsImVpIjoidlNJNmFxYU9JTUNDd2JrUDlQR1UtQTgiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE5pQjVaV0Z5Y3hBQWZRdy1ZejgiLCJxdWVzdGlvbiI6IkRvIHlvdSBnZXQgYSBwZW5zaW9uIGFmdGVyIDE1IHllYXJzIGluIHRoZSBtaWxpdGFyeT8iLCJsayI6IkdqTmtieUI1YjNVZ1oyVjBJR0VnY0dWdWMybHZiaUJoWm5SbGNpQXhOU0I1WldGeWN5QnBiaUIwYUdVZ2JXbHNhWFJoY25rIiwiYnMiOiJjNVhPT3d2Q01CaEdZVnd6T1JmRWRfQ09RNHgyTG9xRHE0dWRvMzQxZ1RhUkpHM3B2N2NXQk4zcV9odzQ3TURHcVpJQjJpTW93bVFuMXB4elhQYTRrcUZNaDBTTW8xSDlTOTZpa2hfQkNyWTdXalMyeElNQ0pKNWt2TFlHTWd2a3NJblJrSFFlMm5SOW9YTWRwR3NTRVVmYi1fOGRPN1BaOTdMZ25ZTXJjMEptSFNwcWMybDhJdWJSdE80aldjcVdKMXVqS0c4S2QwdS1uZGx3UHYyQTdxLXdKcWk4M1Y1RkM5VVREd2N2IiwiaWQiOiJmY192U0k2YXFhT0lNQ0N3YmtQOVBHVS1BOF81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdtdEdTVWRNVmtaWVUybGxaazVTUldaSlNEWmtNMjFOYzJsQ2MwVTFSRXMwTkVZMGRHVnRXQzA0TmpBeFRrNXFRamN5TTB4TlNYVkhPVkJCVEVrMVMzbE5RMmhXUTJoTmRHbFhNWFkzUlVaUE5XRktjSFJuVFdNdFFSSVhkbE5KTm1GeFlVOUpUVU5EZDJKclVEbFFSMVV0UVRnYUlrRkVjM0k1WmxKRFpGWTVUbTVrY0VoRVJHaEdTbGRCYVhaUmNHTmhha3BPVkdjIiwiZmN2IjoiMyIsImVpIjoidlNJNmFxYU9JTUNDd2JrUDlQR1UtQTgiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE5pQjVaV0Z5Y3hBQWZRdy1ZejgiLCJxdWVzdGlvbiI6IkRvIHlvdSBnZXQgYSBwZW5zaW9uIGFmdGVyIDE1IHllYXJzIGluIHRoZSBtaWxpdGFyeT8iLCJsayI6IkdqTmtieUI1YjNVZ1oyVjBJR0VnY0dWdWMybHZiaUJoWm5SbGNpQXhOU0I1WldGeWN5QnBiaUIwYUdVZ2JXbHNhWFJoY25rIiwiYnMiOiJjNVhPT3d2Q01CaEdZVnd6T1JmRWRfQ09RNHgyTG9xRHE0dWRvMzQxZ1RhUkpHM3B2N2NXQk4zcV9odzQ3TURHcVpJQjJpTW93bVFuMXB4elhQYTRrcUZNaDBTTW8xSDlTOTZpa2hfQkNyWTdXalMyeElNQ0pKNWt2TFlHTWd2a3NJblJrSFFlMm5SOW9YTWRwR3NTRVVmYi1fOGRPN1BaOTdMZ25ZTXJjMEptSFNwcWMybDhJdWJSdE80aldjcVdKMXVqS0c4S2QwdS1uZGx3UHYyQTdxLXdKcWk4M1Y1RkM5VVREd2N2IiwiaWQiOiJmY192U0k2YXFhT0lNQ0N3YmtQOVBHVS1BOF81In0%3D"
+    },
+    {
+      "question": "What is the 20 year rule for veterans?",
+      "type": "ai_overview",
+      "page_token": "z60frHicHdDNToMwAADg-DIeXSkydcligtD9SZdSWqQXQwtbXcvPXB2Tm-_iU_k0Gs_f7fv6tm-t-bk6a-f602wyGYbhZt91e1vfqK6ZlKfPVk1Uaa0slZlN76be407N449V-HRchYT1PY9SQPkDrQ3C2QsHxQFTGWlNgMsxMz6B8VjlFS8jtJF-GApLIPHF-MzchjS3kEJ7KiDv_9zKpRgTiDU1_CIRBjVCPIXBsfT7gS04kgetZcM3JCeDGMUmNfdB0iQeBQoKcDniZh1s8-oil2gqDU7KSI3MQ0j6OmELTzCGA9EyV7RpWLaW05xBETtEuF7WBt9mnna10W2sK8iAgcUL0hmwmADsF40jWx4uOfXCbdi9EZaO6mAbBvuggKLN2i6oTHVJoc5ovIY0FmmZ4YWKecLI9U6d5_71_-f8dde4Wf_e7X8B6GeBQg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=z60frHicHdDNToMwAADg-DIeXSkydcligtD9SZdSWqQXQwtbXcvPXB2Tm-_iU_k0Gs_f7fv6tm-t-bk6a-f602wyGYbhZt91e1vfqK6ZlKfPVk1Uaa0slZlN76be407N449V-HRchYT1PY9SQPkDrQ3C2QsHxQFTGWlNgMsxMz6B8VjlFS8jtJF-GApLIPHF-MzchjS3kEJ7KiDv_9zKpRgTiDU1_CIRBjVCPIXBsfT7gS04kgetZcM3JCeDGMUmNfdB0iQeBQoKcDniZh1s8-oil2gqDU7KSI3MQ0j6OmELTzCGA9EyV7RpWLaW05xBETtEuF7WBt9mnna10W2sK8iAgcUL0hmwmADsF40jWx4uOfXCbdi9EZaO6mAbBvuggKLN2i6oTHVJoc5ovIY0FmmZ4YWKecLI9U6d5_71_-f8dde4Wf_e7X8B6GeBQg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdtdEdTVWRNVmtaWVUybGxaazVTUldaSlNEWmtNMjFOYzJsQ2MwVTFSRXMwTkVZMGRHVnRXQzA0TmpBeFRrNXFRamN5TTB4TlNYVkhPVkJCVEVrMVMzbE5RMmhXUTJoTmRHbFhNWFkzUlVaUE5XRktjSFJuVFdNdFFSSVhkbE5KTm1GeFlVOUpUVU5EZDJKclVEbFFSMVV0UVRnYUlrRkVjM0k1WmxKRFpGWTVUbTVrY0VoRVJHaEdTbGRCYVhaUmNHTmhha3BPVkdjIiwiZmN2IjoiMyIsImVpIjoidlNJNmFxYU9JTUNDd2JrUDlQR1UtQTgiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE5pQjVaV0Z5Y3hBQWZRdy1ZejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDIwIHllYXIgcnVsZSBmb3IgdmV0ZXJhbnM/IiwibGsiOiJHaVYzYUdGMElHbHpJSFJvWlNBeU1DQjVaV0Z5SUhKMWJHVWdabTl5SUhabGRHVnlZVzV6IiwiYnMiOiJjNVhPT3d2Q01CaEdZVnd6T1JmRWRfQ09RNHgyTG9xRHE0dWRvMzQxZ1RhUkpHM3B2N2NXQk4zcV9odzQ3TURHcVpJQjJpTW93bVFuMXB4elhQYTRrcUZNaDBTTW8xSDlTOTZpa2hfQkNyWTdXalMyeElNQ0pKNWt2TFlHTWd2a3NJblJrSFFlMm5SOW9YTWRwR3NTRVVmYi1fOGRPN1BaOTdMZ25ZTXJjMEptSFNwcWMybDhJdWJSdE80aldjcVdKMXVqS0c4S2QwdS1uZGx3UHYyQTdxLXdKcWk4M1Y1RkM5VVREd2N2IiwiaWQiOiJmY192U0k2YXFhT0lNQ0N3YmtQOVBHVS1BOF81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdtdEdTVWRNVmtaWVUybGxaazVTUldaSlNEWmtNMjFOYzJsQ2MwVTFSRXMwTkVZMGRHVnRXQzA0TmpBeFRrNXFRamN5TTB4TlNYVkhPVkJCVEVrMVMzbE5RMmhXUTJoTmRHbFhNWFkzUlVaUE5XRktjSFJuVFdNdFFSSVhkbE5KTm1GeFlVOUpUVU5EZDJKclVEbFFSMVV0UVRnYUlrRkVjM0k1WmxKRFpGWTVUbTVrY0VoRVJHaEdTbGRCYVhaUmNHTmhha3BPVkdjIiwiZmN2IjoiMyIsImVpIjoidlNJNmFxYU9JTUNDd2JrUDlQR1UtQTgiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE5pQjVaV0Z5Y3hBQWZRdy1ZejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDIwIHllYXIgcnVsZSBmb3IgdmV0ZXJhbnM%2FIiwibGsiOiJHaVYzYUdGMElHbHpJSFJvWlNBeU1DQjVaV0Z5SUhKMWJHVWdabTl5SUhabGRHVnlZVzV6IiwiYnMiOiJjNVhPT3d2Q01CaEdZVnd6T1JmRWRfQ09RNHgyTG9xRHE0dWRvMzQxZ1RhUkpHM3B2N2NXQk4zcV9odzQ3TURHcVpJQjJpTW93bVFuMXB4elhQYTRrcUZNaDBTTW8xSDlTOTZpa2hfQkNyWTdXalMyeElNQ0pKNWt2TFlHTWd2a3NJblJrSFFlMm5SOW9YTWRwR3NTRVVmYi1fOGRPN1BaOTdMZ25ZTXJjMEptSFNwcWMybDhJdWJSdE80aldjcVdKMXVqS0c4S2QwdS1uZGx3UHYyQTdxLXdKcWk4M1Y1RkM5VVREd2N2IiwiaWQiOiJmY192U0k2YXFhT0lNQ0N3YmtQOVBHVS1BOF81In0%3D"
+    },
+    {
+      "question": "How much does a 100% veteran get monthly?",
+      "type": "ai_overview",
+      "page_token": "jY5VsHicHdDdboIwGIDh7GY8nAXURROzpKOAf1UKX4GeLFhQlEJxoqhnu5dd1a5mZsfvwZO83z_qUJe_L9eibZvzpN_vuu51r_Ve5a9SV_30fK9lX6ZKbVNZTkZvI-N9J6fkMsMfpxn2oWm4zVBoFwMOwxOgW0ujm8ctGGzL5BGUnEWE64CoS84bsXVZFFoqFXYR8SNtaSUCBgxyMl8F6NalD3rjMV_mireBalRmsJmwnZjBmOZAN89GBHGosIUKPWcjj_ga1diSSFgrKNvMK7wVoUWosE5jhcGgT093a5cagjAntcVQVNlI3pG1rQYmd_UwLJsFoG4gXbZcuWMH4oaRIjMBlWYSO0WIFPURtZKq9dccezww8Brrgw_sIY-qgiq709qZgTseBeYeJUp1sTlfQo3dBMTCR-Ol7_d28jq1ev8_p5-7qp00X3r_B_UggWE",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jY5VsHicHdDdboIwGIDh7GY8nAXURROzpKOAf1UKX4GeLFhQlEJxoqhnu5dd1a5mZsfvwZO83z_qUJe_L9eibZvzpN_vuu51r_Ve5a9SV_30fK9lX6ZKbVNZTkZvI-N9J6fkMsMfpxn2oWm4zVBoFwMOwxOgW0ujm8ctGGzL5BGUnEWE64CoS84bsXVZFFoqFXYR8SNtaSUCBgxyMl8F6NalD3rjMV_mireBalRmsJmwnZjBmOZAN89GBHGosIUKPWcjj_ga1diSSFgrKNvMK7wVoUWosE5jhcGgT093a5cagjAntcVQVNlI3pG1rQYmd_UwLJsFoG4gXbZcuWMH4oaRIjMBlWYSO0WIFPURtZKq9dccezww8Brrgw_sIY-qgiq709qZgTseBeYeJUp1sTlfQo3dBMTCR-Ol7_d28jq1ev8_p5-7qp00X3r_B_UggWE",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdtdEdTVWRNVmtaWVUybGxaazVTUldaSlNEWmtNMjFOYzJsQ2MwVTFSRXMwTkVZMGRHVnRXQzA0TmpBeFRrNXFRamN5TTB4TlNYVkhPVkJCVEVrMVMzbE5RMmhXUTJoTmRHbFhNWFkzUlVaUE5XRktjSFJuVFdNdFFSSVhkbE5KTm1GeFlVOUpUVU5EZDJKclVEbFFSMVV0UVRnYUlrRkVjM0k1WmxKRFpGWTVUbTVrY0VoRVJHaEdTbGRCYVhaUmNHTmhha3BPVkdjIiwiZmN2IjoiMyIsImVpIjoidlNJNmFxYU9JTUNDd2JrUDlQR1UtQTgiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE5pQjVaV0Z5Y3hBQWZRdy1ZejgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgYSAxMDAlIHZldGVyYW4gZ2V0IG1vbnRobHk/IiwibGsiOiJHaWhvYjNjZ2JYVmphQ0JrYjJWeklHRWdNVEF3SlNCMlpYUmxjbUZ1SUdkbGRDQnRiMjUwYUd4NSIsImJzIjoiYzVYT093dkNNQmhHWVZ3ek9SZkVkX0NPUTR4MkxvcURxNHVkbzM0MWdUYVJKRzNwdjdjV0JOM3FfaHc0N01ER3FaSUIyaU1vd21RbjFweHpYUGE0a3FGTWgwU01vMUg5Uzk2aWtoX0JDclk3V2pTMnhJTUNKSjVrdkxZR01ndmtzSW5Sa0hRZTJuUjlvWE1kcEdzU0VVZmItXzhkTzdQWjk3TGduWU1yYzBKbUhTcHFjMmw4SXViUnRPNGpXY3FXSjF1aktHOEtkMHUtbmRsd1B2MkE3cS13SnFpODNWNUZDOVVURHdjdiIsImlkIjoiZmNfdlNJNmFxYU9JTUNDd2JrUDlQR1UtQThfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVdtdEdTVWRNVmtaWVUybGxaazVTUldaSlNEWmtNMjFOYzJsQ2MwVTFSRXMwTkVZMGRHVnRXQzA0TmpBeFRrNXFRamN5TTB4TlNYVkhPVkJCVEVrMVMzbE5RMmhXUTJoTmRHbFhNWFkzUlVaUE5XRktjSFJuVFdNdFFSSVhkbE5KTm1GeFlVOUpUVU5EZDJKclVEbFFSMVV0UVRnYUlrRkVjM0k1WmxKRFpGWTVUbTVrY0VoRVJHaEdTbGRCYVhaUmNHTmhha3BPVkdjIiwiZmN2IjoiMyIsImVpIjoidlNJNmFxYU9JTUNDd2JrUDlQR1UtQTgiLCJxYyI6IkNpQnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBeE5pQjVaV0Z5Y3hBQWZRdy1ZejgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgYSAxMDAlIHZldGVyYW4gZ2V0IG1vbnRobHk%2FIiwibGsiOiJHaWhvYjNjZ2JYVmphQ0JrYjJWeklHRWdNVEF3SlNCMlpYUmxjbUZ1SUdkbGRDQnRiMjUwYUd4NSIsImJzIjoiYzVYT093dkNNQmhHWVZ3ek9SZkVkX0NPUTR4MkxvcURxNHVkbzM0MWdUYVJKRzNwdjdjV0JOM3FfaHc0N01ER3FaSUIyaU1vd21RbjFweHpYUGE0a3FGTWgwU01vMUg5Uzk2aWtoX0JDclk3V2pTMnhJTUNKSjVrdkxZR01ndmtzSW5Sa0hRZTJuUjlvWE1kcEdzU0VVZmItXzhkTzdQWjk3TGduWU1yYzBKbUhTcHFjMmw4SXViUnRPNGpXY3FXSjF1aktHOEtkMHUtbmRsd1B2MkE3cS13SnFpODNWNUZDOVVURHdjdiIsImlkIjoiZmNfdlNJNmFxYU9JTUNDd2JrUDlQR1UtQThfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "RSk9v3icxVbdkqo4EL7f91huZhRQUJkq6lQCqIw_yHjU495YCBj5E4eo6OW-yz7VPsQ-wwkIig7O1J6qrY1FQoekv-5Of2n__Mt3Nt7fv_2z3u22-IWm4ziuojBEvl01w4A28Glj0qvQx5G5_obDfWTajiWa6ygMbOp0EOuUiUWGsh3xMFYbxruhqQNJipfeSBh1JhXQolIV4mJpYNslCEcX0wuadN7vdZkIVVy1N1Uf6DKKAk0Zq9UawwpVjTYCsgD8h00BKkpGlfyUVL5vkHzXv9IiAYn0qDCFCn3W5AQGAElKBxA-0gZTKyQAlQQXLgZCiwzn5TJ6tAuA8a04Sy0DcaKQuKCUOlGmLp_LDYQP8MpNSWEmmcAVPnwMbdJINIrh7RG1HDABeMsmtHxdEQ4hBcj5fDfWBlBT3j47JOJ8ZwBa3khSP1mVWK9GcTt7j4dzAkpbiOQgQy8jMrC0Y67N9CXCSWpK3wUm7PZ79boeulKzIbj8eMUf21sh6NoW0hBtLsk6PzQs21qsF8y3VGZrLM8I9WbrOeWEiS-kwEVSoMG8H-9jVq0o1X4VsgVGpN6qN2dAIklyptyvXtrfnKSUv6gXQfqwI9lTSxZc9cLvpwR9kEcpOaIJ-BDXBKuEEQXMK3iWuVL76titJjWDL3oH4zvEK0CWCnPQ0y8uK0S8Ma6oDAIvvQM6-cRVd6IV-ekFkTBCyRRqN_tR0bDkJtERvCDrRev4wiYEYBpx90S6VxBK-S2UbFGzIPQS64q53blnEiamYPTg4L9qD2-hgp157t-lcpECnZGjeaPKyZ17yNSGQ4vxppKg-TNrHJenfBgs_0UhMP9fUuRlopcdULuUFPoXpFAk-GmZOC-XL6RI5fdHpIBqWZk437jXMvGRFONbUjwuEwVSoMyrotZ7UsAHpECZbyWkmJSQwislRVYmCqRYc_pNmTiDXcpETopfKhOHXykTKUXs83BbM_Yuelw7jJ1yqOgMr-u-B7c1R2GiH0eodVkefFk7VsHuJTAs_3nhWC-w9ro7Wc8LMhG-2Bb1LgaO7-yM6PS0tDf2ytnhJ2O1s6MntvF0so0IU4EfhSJjNHerNcSrP9jRdKBwK86drHqzjRnu_SkXdzsRH3Yqw-Z0HiqBxY0dr3tohkd13be0UV3uO1w3bDac3mbEHwzM9kGn1bOnhjt4E16X7vT9UGt3g5mAoev4bj22eFM72ltmAl8jx5lvFUNuHien1mYSOEGXlYdOnNqFxfne5eXNoKsOFYo4hW2RpYLIFEkqcAgMdTBD5J-CNAe6hMgTkicmSUJh01jY-CCaPMssDc5u8LXGqi6QzWh32oocS-FNJLI_AcZlG8A",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RSk9v3icxVbdkqo4EL7f91huZhRQUJkq6lQCqIw_yHjU495YCBj5E4eo6OW-yz7VPsQ-wwkIig7O1J6qrY1FQoekv-5Of2n__Mt3Nt7fv_2z3u22-IWm4ziuojBEvl01w4A28Glj0qvQx5G5_obDfWTajiWa6ygMbOp0EOuUiUWGsh3xMFYbxruhqQNJipfeSBh1JhXQolIV4mJpYNslCEcX0wuadN7vdZkIVVy1N1Uf6DKKAk0Zq9UawwpVjTYCsgD8h00BKkpGlfyUVL5vkHzXv9IiAYn0qDCFCn3W5AQGAElKBxA-0gZTKyQAlQQXLgZCiwzn5TJ6tAuA8a04Sy0DcaKQuKCUOlGmLp_LDYQP8MpNSWEmmcAVPnwMbdJINIrh7RG1HDABeMsmtHxdEQ4hBcj5fDfWBlBT3j47JOJ8ZwBa3khSP1mVWK9GcTt7j4dzAkpbiOQgQy8jMrC0Y67N9CXCSWpK3wUm7PZ79boeulKzIbj8eMUf21sh6NoW0hBtLsk6PzQs21qsF8y3VGZrLM8I9WbrOeWEiS-kwEVSoMG8H-9jVq0o1X4VsgVGpN6qN2dAIklyptyvXtrfnKSUv6gXQfqwI9lTSxZc9cLvpwR9kEcpOaIJ-BDXBKuEEQXMK3iWuVL76titJjWDL3oH4zvEK0CWCnPQ0y8uK0S8Ma6oDAIvvQM6-cRVd6IV-ekFkTBCyRRqN_tR0bDkJtERvCDrRev4wiYEYBpx90S6VxBK-S2UbFGzIPQS64q53blnEiamYPTg4L9qD2-hgp157t-lcpECnZGjeaPKyZ17yNSGQ4vxppKg-TNrHJenfBgs_0UhMP9fUuRlopcdULuUFPoXpFAk-GmZOC-XL6RI5fdHpIBqWZk437jXMvGRFONbUjwuEwVSoMyrotZ7UsAHpECZbyWkmJSQwislRVYmCqRYc_pNmTiDXcpETopfKhOHXykTKUXs83BbM_Yuelw7jJ1yqOgMr-u-B7c1R2GiH0eodVkefFk7VsHuJTAs_3nhWC-w9ro7Wc8LMhG-2Bb1LgaO7-yM6PS0tDf2ytnhJ2O1s6MntvF0so0IU4EfhSJjNHerNcSrP9jRdKBwK86drHqzjRnu_SkXdzsRH3Yqw-Z0HiqBxY0dr3tohkd13be0UV3uO1w3bDac3mbEHwzM9kGn1bOnhjt4E16X7vT9UGt3g5mAoev4bj22eFM72ltmAl8jx5lvFUNuHien1mYSOEGXlYdOnNqFxfne5eXNoKsOFYo4hW2RpYLIFEkqcAgMdTBD5J-CNAe6hMgTkicmSUJh01jY-CCaPMssDc5u8LXGqi6QzWh32oocS-FNJLI_AcZlG8A"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Transfer Your Post-9/11 GI Bill Benefits",
+      "link": "https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8QFnoECCUQAQ",
+      "displayed_link": "https://www.va.gov › education › transfer-post-9-11-gi-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUWHEwFD0YAC0UIEUcRGEoUGksMFEhvcox2eZFgZIEyNl56fZVTVnUAAEHT1Nv____7-_yanK09QWQ4PGIAAECIip5YW3jZ2uDGx9AAADV_gpYnLVkjKFb39_nv7_IAADrj5OikprcAADglKlbo6e61t8SipLMcIlCRk6ZITG4AAD2-v8lTV3VeVWWWAAABGklEQVR4Ac2RhRXDMAwFA7YbvjLbKfP-81Uqj9Afkt45wugPFSdJ-jBMkiTWipu4N3OdLMtjZUWZlUUsbla9ad1At1ajJ0Z_0AWa-gWHI2CcCpzAdDZHtTBPaJZAr45c30M5m0KAMnlCq3EnbZSU4PsmsFrDtLaC3rkWZjiFZtMRkIOPXtANgLLe7mA0W2sKD1L_U8kK9puxRq3FrDTv_l1vfYAwk1fTVrAbHE_yTt5xz9rgBEabk1ghBODsXvWmOzgFiXppeOvwibuHiUYdeLiu1-ud-G8Yj1GN2gz84jKc9X6GZI8BJGo7ff6R3vToZ75TdErboF3K4Yv_Gb47l7KndJtl5UCjpeMs63yX-tiwLlqY0iSJo__THWPcGFaQjPxnAAAAAElFTkSuQmCC.png",
+      "date": "Apr 30, 2025",
+      "snippet": "If you separated from active duty before January 1, 2013, your spouse can use these benefits for up to 15 years after your separation from ...",
+      "snippet_highlighted_words": [
+        "from",
+        "benefits",
+        "years after",
+        "from"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you separated from active duty before January 1, 2013, your spouse can use these benefits for up to 15 years after your separation from ...",
+          "source_info_link": "https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUWHEwFD0YAC0UIEUcRGEoUGksMFEhvcox2eZFgZIEyNl56fZVTVnUAAEHT1Nv____7-_yanK09QWQ4PGIAAECIip5YW3jZ2uDGx9AAADV_gpYnLVkjKFb39_nv7_IAADrj5OikprcAADglKlbo6e61t8SipLMcIlCRk6ZITG4AAD2-v8lTV3VeVWWWAAABGklEQVR4Ac2RhRXDMAwFA7YbvjLbKfP-81Uqj9Afkt45wugPFSdJ-jBMkiTWipu4N3OdLMtjZUWZlUUsbla9ad1At1ajJ0Z_0AWa-gWHI2CcCpzAdDZHtTBPaJZAr45c30M5m0KAMnlCq3EnbZSU4PsmsFrDtLaC3rkWZjiFZtMRkIOPXtANgLLe7mA0W2sKD1L_U8kK9puxRq3FrDTv_l1vfYAwk1fTVrAbHE_yTt5xz9rgBEabk1ghBODsXvWmOzgFiXppeOvwibuHiUYdeLiu1-ud-G8Yj1GN2gz84jKc9X6GZI8BJGo7ff6R3vToZ75TdErboF3K4Yv_Gb47l7KndJtl5UCjpeMs63yX-tiwLlqY0iSJo__THWPcGFaQjPxnAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.va.gov%2Feducation%2Ftransfer-post-9-11-gi-bill-benefits%2F",
+      "source": "VA.gov Home | Veterans Affairs",
+      "read_more_link": "https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/#:~:text=If%20you%20separated%20from%20active,your%20separation%20from%20active%20duty."
+    },
+    {
+      "position": 2,
+      "title": "Service members with more than 16 years in the military ...",
+      "link": "https://www.facebook.com/IAVA.org/posts/service-members-with-more-than-16-years-in-the-military-may-continue-to-transfer/10159401003197995/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/IAVA.org/posts/service-members-with-more-than-16-years-in-the-military-may-continue-to-transfer/10159401003197995/&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8QFnoECCgQAQ",
+      "displayed_link": "https://www.facebook.com › IAVA.org › posts › servic...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "date": "Jan 13, 2020",
+      "snippet": "Service members with more than 16 years in the military may continue to transfer their GI Bill education benefits to their dependents.",
+      "about_this_result": {
+        "source": {
+          "description": "Service members with more than 16 years in the military may continue to transfer their GI Bill education benefits to their dependents.",
+          "source_info_link": "https://www.facebook.com/IAVA.org/posts/service-members-with-more-than-16-years-in-the-military-may-continue-to-transfer/10159401003197995/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/IAVA.org/posts/service-members-with-more-than-16-years-in-the-military-may-continue-to-transfer/10159401003197995/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FIAVA.org%2Fposts%2Fservice-members-with-more-than-16-years-in-the-military-may-continue-to-transfer%2F10159401003197995%2F",
+      "source": "Facebook"
+    },
+    {
+      "position": 3,
+      "title": "Post-9/11 GI Bill",
+      "link": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Post-9/11-GI-Bill?serv=126",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Post-9/11-GI-Bill%3Fserv%3D126&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8QFnoECDYQAQ",
+      "displayed_link": "https://myarmybenefits.us.army.mil › Federal-Benefits",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png",
+      "snippet": "Benefits are available for up to 15 years from a service member's last period of active duty of at least 90 consecutive days. Service members released from ...",
+      "snippet_highlighted_words": [
+        "Benefits are available for up to 15 years"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Benefits are available for up to 15 years from a service member's last period of active duty of at least 90 consecutive days. Service members released from ...",
+          "source_info_link": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Post-9/11-GI-Bill?serv=126",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Post-9/11-GI-Bill?serv=126&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyarmybenefits.us.army.mil%2FBenefit-Library%2FFederal-Benefits%2FPost-9%2F11-GI-Bill%3Fserv%3D126",
+      "source": "MyArmyBenefits (.mil)",
+      "read_more_link": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Post-9/11-GI-Bill?serv=126#:~:text=Benefits%20are%20available%20for%20up,days.%20Service%20members%20released%20from"
+    },
+    {
+      "position": 4,
+      "title": "Veteran Benefits",
+      "link": "https://www.goarmy.com/benefits/veterans",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goarmy.com/benefits/veterans&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8QFnoECDQQAQ",
+      "displayed_link": "https://www.goarmy.com › benefits › veterans",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEUiHyAhHiArJh8sKB0XFiFpVxcPEiCvjg4dGyHhtQX3xwAXFyH-zQAbGiA-NR3asAlzXhbwwwTsvgUyKx43Lx3_0QD_zwBLPxunhw_OpQxlUxnHoQpANhucfhBdTRhWSBcFDSGNchK8lwy0kw4eHCCAaRWVeRJGOxsoIx-gEP57AAABH0lEQVR4AWIgHgD6pAoDhkEgGMeJPhHivv-CdW_pReBdbfuPzHHNUs_3PaNhgFBgMsUuIS42eqXU5NdmiHPEfvsVMuQ8lOLdAl8RRHGSxFFwI68eUpldgQAhhW6ETC_CvCivSHjk8-RGFPm1LZVWwE9QpJZEnW-gdOXYF6nIGgpx01adZXVV28TAm0zcs8Z9RyAZHM-2PWdIFOl68dq4eqS8SDFOC06n-qOJLBthch3HnWDMmPWOWWq61EVRL1TL-UMoqpismnM9kLgSH32dVxUnQE55xWr9WIjZ1aBA5_nlSN_9eh2FZLAYs4YEaPc-t76B0mcng5n5Jaz9-9ZptLFrv9iG9FvQOVuce79s4SzZ_Gq5W0_ydN3td79myoAjxgQV8rX2KR8AAAAASUVORK5CYII.png",
+      "snippet": "After you complete your Army service, you'll enjoy a lifetime of benefits from pension plans and health care to exclusive employment resources and more.",
+      "snippet_highlighted_words": [
+        "After",
+        "Army",
+        "benefits from"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "After you complete your Army service, you'll enjoy a lifetime of benefits from pension plans and health care to exclusive employment resources and more.",
+          "source_info_link": "https://www.goarmy.com/benefits/veterans",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEUiHyAhHiArJh8sKB0XFiFpVxcPEiCvjg4dGyHhtQX3xwAXFyH-zQAbGiA-NR3asAlzXhbwwwTsvgUyKx43Lx3_0QD_zwBLPxunhw_OpQxlUxnHoQpANhucfhBdTRhWSBcFDSGNchK8lwy0kw4eHCCAaRWVeRJGOxsoIx-gEP57AAABH0lEQVR4AWIgHgD6pAoDhkEgGMeJPhHivv-CdW_pReBdbfuPzHHNUs_3PaNhgFBgMsUuIS42eqXU5NdmiHPEfvsVMuQ8lOLdAl8RRHGSxFFwI68eUpldgQAhhW6ETC_CvCivSHjk8-RGFPm1LZVWwE9QpJZEnW-gdOXYF6nIGgpx01adZXVV28TAm0zcs8Z9RyAZHM-2PWdIFOl68dq4eqS8SDFOC06n-qOJLBthch3HnWDMmPWOWWq61EVRL1TL-UMoqpismnM9kLgSH32dVxUnQE55xWr9WIjZ1aBA5_nlSN_9eh2FZLAYs4YEaPc-t76B0mcng5n5Jaz9-9ZptLFrv9iG9FvQOVuce79s4SzZ_Gq5W0_ydN3td79myoAjxgQV8rX2KR8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.goarmy.com/benefits/veterans&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.goarmy.com%2Fbenefits%2Fveterans",
+      "source": "GoArmy.com",
+      "read_more_link": "https://www.goarmy.com/benefits/veterans#:~:text=After%20you%20complete%20your%20Army,exclusive%20employment%20resources%20and%20more."
+    },
+    {
+      "position": 5,
+      "title": "Who Is Eligible for Veterans Benefits?",
+      "link": "https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8QFnoECDcQAQ",
+      "displayed_link": "https://veteransaidbenefit.org › who-is-eligible-for-vetera...",
+      "snippet": "As of 2016 a federal law allows Reserve and Guard members who have completed 20 years or more of service to also be considered veterans and receive veterans ...",
+      "snippet_highlighted_words": [
+        "years"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "As of 2016 a federal law allows Reserve and Guard members who have completed 20 years or more of service to also be considered veterans and receive veterans ...",
+          "source_info_link": "https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fveteransaidbenefit.org%2Fwho-is-eligible-for-veterans-benefits.htm",
+      "source": "The Senior Veterans Service Alliance",
+      "read_more_link": "https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm#:~:text=As%20of%202016%20a%20federal,veterans%20and%20receive%20veterans%20benefits."
+    },
+    {
+      "position": 6,
+      "title": "Military children qualify for a variety of VA benefits",
+      "link": "https://news.va.gov/86374/military-children-qualify-variety-va-benefits/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.va.gov/86374/military-children-qualify-variety-va-benefits/&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8QFnoECDgQAQ",
+      "displayed_link": "https://news.va.gov › military-children-qualify-variety-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUbKj4KHzYPIjgWJjsZKD13fYZkanVPV2R2e4V8gYowPExrcXsDHTUACSrd3uD___8AEy8AACatsLYiMEOHjJMpNkjCxMgADSvz9PWRlZwAGjPJy87k5efS1Ne7vsI9R1aNkpmgpKq2ub0AACMAABl_hI0AABEAAAD29vdGT12mzoG4AAAA_0lEQVR4Ac2R1REEMQxDl5mZGftv8ORkqYTTh0cZxc8B4f8kiqLEnQyrsCpdmaSqqiaxTFcN05It1VBth4eu5_t-QC4k5wSRD8UyC50EXhXRmMJkeVhQWFYsVGT4OheEqoSxA80nNeHFbYmmcGqYd75Pvf2Ha4oX1UUdkI4XVyKue1EN1HhC9_zhVnOD6ro15i02rM7vKq7wK1G7XEQdtx01CjhXJO6AogU0vygIcoQK59Z0eFqHNOGSdnFNvpzy-M1wcs4Nrr15SQNGqIDhIeeCyk5sBVU1R9ebQqLKqO55P5ykw7VXq7Ka5tpL-mqu_H6VCZEjiZD8_WcREv5OPxHhF4RNAiDYAAAAAElFTkSuQmCC.png",
+      "date": "Apr 1, 2021",
+      "snippet": "Dependents and surviving children of Veterans and service members may qualify for certain benefits, such as life insurance, education services and health care.",
+      "snippet_highlighted_words": [
+        "life insurance, education services and health care"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dependents and surviving children of Veterans and service members may qualify for certain benefits, such as life insurance, education services and health care.",
+          "source_info_link": "https://news.va.gov/86374/military-children-qualify-variety-va-benefits/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEUbKj4KHzYPIjgWJjsZKD13fYZkanVPV2R2e4V8gYowPExrcXsDHTUACSrd3uD___8AEy8AACatsLYiMEOHjJMpNkjCxMgADSvz9PWRlZwAGjPJy87k5efS1Ne7vsI9R1aNkpmgpKq2ub0AACMAABl_hI0AABEAAAD29vdGT12mzoG4AAAA_0lEQVR4Ac2R1REEMQxDl5mZGftv8ORkqYTTh0cZxc8B4f8kiqLEnQyrsCpdmaSqqiaxTFcN05It1VBth4eu5_t-QC4k5wSRD8UyC50EXhXRmMJkeVhQWFYsVGT4OheEqoSxA80nNeHFbYmmcGqYd75Pvf2Ha4oX1UUdkI4XVyKue1EN1HhC9_zhVnOD6ro15i02rM7vKq7wK1G7XEQdtx01CjhXJO6AogU0vygIcoQK59Z0eFqHNOGSdnFNvpzy-M1wcs4Nrr15SQNGqIDhIeeCyk5sBVU1R9ebQqLKqO55P5ykw7VXq7Ka5tpL-mqu_H6VCZEjiZD8_WcREv5OPxHhF4RNAiDYAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://news.va.gov/86374/military-children-qualify-variety-va-benefits/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnews.va.gov%2F86374%2Fmilitary-children-qualify-variety-va-benefits%2F",
+      "source": "VA News (.gov)",
+      "read_more_link": "https://news.va.gov/86374/military-children-qualify-variety-va-benefits/#:~:text=Dependents%20and%20surviving%20children%20of,education%20services%20and%20health%20care."
+    },
+    {
+      "position": 7,
+      "title": "About GI Bill Education Benefits",
+      "link": "https://www.militaryonesource.mil/benefits/gi-bill-education-benefits/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militaryonesource.mil/benefits/gi-bill-education-benefits/&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8QFnoECDUQAQ",
+      "displayed_link": "https://www.militaryonesource.mil › benefits › gi-bill-e...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png",
+      "snippet": "Learn about the GI Bill's education benefits, the application process and how it helps eligible veterans and service families pay for higher education.",
+      "snippet_highlighted_words": [
+        "Learn about the GI Bill's education benefits"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Learn about the GI Bill's education benefits, the application process and how it helps eligible veterans and service families pay for higher education.",
+          "source_info_link": "https://www.militaryonesource.mil/benefits/gi-bill-education-benefits/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militaryonesource.mil/benefits/gi-bill-education-benefits/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militaryonesource.mil%2Fbenefits%2Fgi-bill-education-benefits%2F",
+      "source": "Military OneSource (.mil)"
+    },
+    {
+      "position": 8,
+      "title": "Military Benefits When Your Service is Up",
+      "link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarybenefit.org/get-educated/military-benefits-after-separation/&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8QFnoECDIQAQ",
+      "displayed_link": "https://www.militarybenefit.org › get-educated › military...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png",
+      "snippet": "An overview of the main educational, housing, medical, and other benefit programs available to veterans.",
+      "snippet_highlighted_words": [
+        "educational, housing, medical, and other benefit programs"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "An overview of the main educational, housing, medical, and other benefit programs available to veterans.",
+          "source_info_link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarybenefit.org/get-educated/military-benefits-after-separation/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarybenefit.org%2Fget-educated%2Fmilitary-benefits-after-separation%2F",
+      "source": "Military Benefit Association"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Can I transfer my GI Bill after I get out",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Can+I+transfer+my+GI+Bill+after+I+get+out&sa=X&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Can+I+transfer+my+GI+Bill+after+I+get+out"
+    },
+    {
+      "block_position": 1,
+      "query": "VA Chapter 33 benefits for dependents",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=VA+Chapter+33+benefits+for+dependents&sa=X&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=VA+Chapter+33+benefits+for+dependents"
+    },
+    {
+      "block_position": 1,
+      "query": "How does the GI Bill work for dependents",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=How+does+the+GI+Bill+work+for+dependents&sa=X&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+does+the+GI+Bill+work+for+dependents"
+    },
+    {
+      "block_position": 1,
+      "query": "Montgomery GI Bill",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Montgomery+GI+Bill&sa=X&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Montgomery+GI+Bill"
+    },
+    {
+      "block_position": 1,
+      "query": "Post 911 GI Bill extra 12 months",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Post+911+GI+Bill+extra+12+months&sa=X&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Post+911+GI+Bill+extra+12+months"
+    },
+    {
+      "block_position": 1,
+      "query": "Chapter 33 vs 35 VA benefits",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Chapter+33+vs+35+VA+benefits&sa=X&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Chapter+33+vs+35+VA+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Montgomery GI Bill benefits",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Montgomery+GI+Bill+benefits&sa=X&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Montgomery+GI+Bill+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Transfer GI Bill to child after retirement",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Transfer+GI+Bill+to+child+after+retirement&sa=X&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Transfer+GI+Bill+to+child+after+retirement"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "VA benefits transfer eligibility for veterans with over 16 years of service",
+      "link": "https://www.facebook.com/groups/911gibill/posts/1670257666644456/",
+      "date": "4 years ago",
+      "extensions": [
+        "9/11 GI Bill (chapter 33) enti…",
+        "30+ comments"
+      ],
+      "source": "Facebook",
+      "answers": [
+        {
+          "link": "https://www.facebook.com/groups/911gibill/posts/1670257666644456/"
+        }
+      ]
+    },
+    {
+      "title": "What benefits do military members receive between 2 and 20 years of ...",
+      "link": "https://www.quora.com/What-benefits-do-military-members-receive-between-2-and-20-years-of-service",
+      "date": "1 year ago",
+      "extensions": [
+        "5 answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "link": "https://www.quora.com/What-benefits-do-military-members-receive-between-2-and-20-years-of-service?top_ans=1477743840607069",
+          "extensions": [
+            "Top answer",
+            "3 votes",
+            "a year ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Military Benefits for Veterans' Children Over 40 FAQs",
+      "link": "https://www.justanswer.com/military-law/2enks-father-military-years-ago-served.html",
+      "date": "16 years ago",
+      "source": "JustAnswer",
+      "answers": [
+        {
+          "link": "https://www.justanswer.com/military-law/2enks-father-military-years-ago-served.html"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+benefits+after+16+years&sca_esv=c510ba4e6526f391&ei=vSI6aqaOIMCCwbkP9PGU-A8&start=10&sa=N&sstk=AU9db-B6Ultqp50Xfqv_CPMntHUVk3-JDu_Whqjr6bCodZgjGlKOUtVu7QgfEZUgwCZ7CjirfkQMzhPDu7s2Keb9-GzFnyYE_sgMsg&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q8NMDegQILBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+benefits+after+16+years&sca_esv=c510ba4e6526f391&ei=vSI6aqaOIMCCwbkP9PGU-A8&start=10&sa=N&sstk=AU9db-B6Ultqp50Xfqv_CPMntHUVk3-JDu_Whqjr6bCodZgjGlKOUtVu7QgfEZUgwCZ7CjirfkQMzhPDu7s2Keb9-GzFnyYE_sgMsg&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q8tMDegQILBAE",
+      "3": "https://www.google.com/search?q=military+benefits+after+16+years&sca_esv=c510ba4e6526f391&ei=vSI6aqaOIMCCwbkP9PGU-A8&start=20&sa=N&sstk=AU9db-B6Ultqp50Xfqv_CPMntHUVk3-JDu_Whqjr6bCodZgjGlKOUtVu7QgfEZUgwCZ7CjirfkQMzhPDu7s2Keb9-GzFnyYE_sgMsg&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q8tMDegQILBAG",
+      "4": "https://www.google.com/search?q=military+benefits+after+16+years&sca_esv=c510ba4e6526f391&ei=vSI6aqaOIMCCwbkP9PGU-A8&start=30&sa=N&sstk=AU9db-B6Ultqp50Xfqv_CPMntHUVk3-JDu_Whqjr6bCodZgjGlKOUtVu7QgfEZUgwCZ7CjirfkQMzhPDu7s2Keb9-GzFnyYE_sgMsg&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q8tMDegQILBAI",
+      "5": "https://www.google.com/search?q=military+benefits+after+16+years&sca_esv=c510ba4e6526f391&ei=vSI6aqaOIMCCwbkP9PGU-A8&start=40&sa=N&sstk=AU9db-B6Ultqp50Xfqv_CPMntHUVk3-JDu_Whqjr6bCodZgjGlKOUtVu7QgfEZUgwCZ7CjirfkQMzhPDu7s2Keb9-GzFnyYE_sgMsg&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q8tMDegQILBAK",
+      "6": "https://www.google.com/search?q=military+benefits+after+16+years&sca_esv=c510ba4e6526f391&ei=vSI6aqaOIMCCwbkP9PGU-A8&start=50&sa=N&sstk=AU9db-B6Ultqp50Xfqv_CPMntHUVk3-JDu_Whqjr6bCodZgjGlKOUtVu7QgfEZUgwCZ7CjirfkQMzhPDu7s2Keb9-GzFnyYE_sgMsg&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q8tMDegQILBAM",
+      "7": "https://www.google.com/search?q=military+benefits+after+16+years&sca_esv=c510ba4e6526f391&ei=vSI6aqaOIMCCwbkP9PGU-A8&start=60&sa=N&sstk=AU9db-B6Ultqp50Xfqv_CPMntHUVk3-JDu_Whqjr6bCodZgjGlKOUtVu7QgfEZUgwCZ7CjirfkQMzhPDu7s2Keb9-GzFnyYE_sgMsg&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q8tMDegQILBAO",
+      "8": "https://www.google.com/search?q=military+benefits+after+16+years&sca_esv=c510ba4e6526f391&ei=vSI6aqaOIMCCwbkP9PGU-A8&start=70&sa=N&sstk=AU9db-B6Ultqp50Xfqv_CPMntHUVk3-JDu_Whqjr6bCodZgjGlKOUtVu7QgfEZUgwCZ7CjirfkQMzhPDu7s2Keb9-GzFnyYE_sgMsg&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q8tMDegQILBAQ",
+      "9": "https://www.google.com/search?q=military+benefits+after+16+years&sca_esv=c510ba4e6526f391&ei=vSI6aqaOIMCCwbkP9PGU-A8&start=80&sa=N&sstk=AU9db-B6Ultqp50Xfqv_CPMntHUVk3-JDu_Whqjr6bCodZgjGlKOUtVu7QgfEZUgwCZ7CjirfkQMzhPDu7s2Keb9-GzFnyYE_sgMsg&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q8tMDegQILBAS",
+      "10": "https://www.google.com/search?q=military+benefits+after+16+years&sca_esv=c510ba4e6526f391&ei=vSI6aqaOIMCCwbkP9PGU-A8&start=90&sa=N&sstk=AU9db-B6Ultqp50Xfqv_CPMntHUVk3-JDu_Whqjr6bCodZgjGlKOUtVu7QgfEZUgwCZ7CjirfkQMzhPDu7s2Keb9-GzFnyYE_sgMsg&ved=2ahUKEwjm4OGk2ZyVAxVAQTABHfQ4Bf8Q8tMDegQILBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+16+years&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+16+years&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+16+years&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+16+years&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+16+years&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+16+years&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+16+years&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+16+years&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+16+years&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+16+years&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+16+years&start=90"
+    }
+  }
+}

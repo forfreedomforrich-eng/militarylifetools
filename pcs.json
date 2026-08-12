@@ -1,0 +1,434 @@
+{
+  "search_metadata": {
+    "id": "6a3a20443b93e3950a4832c1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8neamFBQeTUXMW60OvVuKA/6a3a20443b93e3950a4832c1.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/8neamFBQeTUXMW60OvVuKA/6a3a20443b93e3950a4832c1.json_with_pixel_position",
+    "created_at": "2026-06-23 05:57:24 UTC",
+    "processed_at": "2026-06-23 05:57:24 UTC",
+    "google_url": "https://www.google.com/search?q=PCS+move+countdown+timer&oq=PCS+move+countdown+timer&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8neamFBQeTUXMW60OvVuKA/6a3a20443b93e3950a4832c1.html",
+    "total_time_taken": 1.18
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "PCS move countdown timer",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "PCS move countdown timer",
+    "total_results": 172,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How long does a military PCS move take?",
+      "type": "ai_overview",
+      "page_token": "zoaHb3icHdBNbqMwAEBhzWW6bAwomWmkaFQHTBIJJP9C2FTGJiFgA5k6dcOud-mp5jQTzf5tvvf1bS5D__fHR-vc9L5eLLz3z-dxPJvmWY12Id_vg1ooaUwtVb9e_VwFv09qk9z2cHvdQ8ynScQEMCRyDCoqY-xo2VqR-ED1Dui-inNR5YV4veczgnnqvEhB1HQHz4fzTEN9I5eANakJKwMNT1Cs7K9H298x11cSoc86EZMUL6m2k8SiTY5g8ixqB2yrpUxRQQ1Ma2a2snjJynBJGCOtLpZel5DWO0OqGYIauKmOq2uz01h2CFMGeTPgT8xMKC1Yqh2PilKwMjjMiuckaTXlIAmPJb9nyUMmYKC6FmcC3ug2gIyMF8zJrDpjRYoyhvaOFSYrAWl5Tw7ZjDoKHC3i3GBLvPZPJ_WxiZ7-_9y8naxbT3_G8z-mhoOV",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zoaHb3icHdBNbqMwAEBhzWW6bAwomWmkaFQHTBIJJP9C2FTGJiFgA5k6dcOud-mp5jQTzf5tvvf1bS5D__fHR-vc9L5eLLz3z-dxPJvmWY12Id_vg1ooaUwtVb9e_VwFv09qk9z2cHvdQ8ynScQEMCRyDCoqY-xo2VqR-ED1Dui-inNR5YV4veczgnnqvEhB1HQHz4fzTEN9I5eANakJKwMNT1Cs7K9H298x11cSoc86EZMUL6m2k8SiTY5g8ixqB2yrpUxRQQ1Ma2a2snjJynBJGCOtLpZel5DWO0OqGYIauKmOq2uz01h2CFMGeTPgT8xMKC1Yqh2PilKwMjjMiuckaTXlIAmPJb9nyUMmYKC6FmcC3ug2gIyMF8zJrDpjRYoyhvaOFSYrAWl5Tw7ZjDoKHC3i3GBLvPZPJ_WxiZ7-_9y8naxbT3_G8z-mhoOV",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJGQmpkek5qWW1OQ055MTJNbFk0WHpkd2NXNWpUak5DYjBseWFVTnJhWE0xWVZZd1pscGxMVTluYUVZdFpVZE9RbGhJWlRFMU0wUlFNMWMwVUhacVMyOUZkRmsxTjJ0MVkweEJNMkZtTkVaTlNqbFdTR2RoUlZneVVSSVhVbE5CTm1GMU1qQkVOR1ZRZFhJNFVERlFia2d0UVUwYUlrRkVjM0k1WmxOMU5WWk1Ubkp6YjJSMFVsOU5XVWRTYlZSa05EbFFTM2xsU1djIiwiZmN2IjoiMyIsImVpIjoiUlNBNmF1MjBENGVQdXI4UDFQbkgtQU0iLCJxYyI6IkNoaHdZM01nYlc5MlpTQmpiM1Z1ZEdSdmQyNGdkR2x0WlhJUUFIMTBwMW9fIiwicXVlc3Rpb24iOiJIb3cgbG9uZyBkb2VzIGEgbWlsaXRhcnkgUENTIG1vdmUgdGFrZT8iLCJsayI6IkdpWm9iM2NnYkc5dVp5QmtiMlZ6SUdFZ2JXbHNhWFJoY25rZ2NHTnpJRzF2ZG1VZ2RHRnJaUSIsImJzIjoiYzQyUU1RdkNNQkNGY2MzazNFSGZwRTRxQlhVczBzVlI2T0I4dExFSnRrbE5veUhfM2tTa2dpQzYzZkM5LTk0ZEs5ajhvQjBhcldwVW12Y2d0TEtSbG96SE1TX1E2anVIcFF2UDBrVXlFOV9RcnV6ZktMdXk3VW1RaGFDdTQ2cUhQTVByRzJxTmdKZzRtN0M4aC1PeUZoYlVOTnFSS29OamwyemNyMlIwZlNaWnpxWlBwWXkxaHVKU3dRcU92V2w5bGlLWnVBRVpDcjhRQ2dncjJTby1veVhsNDJuaHhKTFVzMEJsWkdBSkZYazR3VlZVU0ZWbjZUcFppajhqUVJraTQ5RUQiLCJpZCI6ImZjX1JTQTZhdTIwRDRlUHVyOFAxUG5ILUFNXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJGQmpkek5qWW1OQ055MTJNbFk0WHpkd2NXNWpUak5DYjBseWFVTnJhWE0xWVZZd1pscGxMVTluYUVZdFpVZE9RbGhJWlRFMU0wUlFNMWMwVUhacVMyOUZkRmsxTjJ0MVkweEJNMkZtTkVaTlNqbFdTR2RoUlZneVVSSVhVbE5CTm1GMU1qQkVOR1ZRZFhJNFVERlFia2d0UVUwYUlrRkVjM0k1WmxOMU5WWk1Ubkp6YjJSMFVsOU5XVWRTYlZSa05EbFFTM2xsU1djIiwiZmN2IjoiMyIsImVpIjoiUlNBNmF1MjBENGVQdXI4UDFQbkgtQU0iLCJxYyI6IkNoaHdZM01nYlc5MlpTQmpiM1Z1ZEdSdmQyNGdkR2x0WlhJUUFIMTBwMW9fIiwicXVlc3Rpb24iOiJIb3cgbG9uZyBkb2VzIGEgbWlsaXRhcnkgUENTIG1vdmUgdGFrZT8iLCJsayI6IkdpWm9iM2NnYkc5dVp5QmtiMlZ6SUdFZ2JXbHNhWFJoY25rZ2NHTnpJRzF2ZG1VZ2RHRnJaUSIsImJzIjoiYzQyUU1RdkNNQkNGY2MzazNFSGZwRTRxQlhVczBzVlI2T0I4dExFSnRrbE5veUhfM2tTa2dpQzYzZkM5LTk0ZEs5ajhvQjBhcldwVW12Y2d0TEtSbG96SE1TX1E2anVIcFF2UDBrVXlFOV9RcnV6ZktMdXk3VW1RaGFDdTQ2cUhQTVByRzJxTmdKZzRtN0M4aC1PeUZoYlVOTnFSS29OamwyemNyMlIwZlNaWnpxWlBwWXkxaHVKU3dRcU92V2w5bGlLWnVBRVpDcjhRQ2dncjJTby1veVhsNDJuaHhKTFVzMEJsWkdBSkZYazR3VlZVU0ZWbjZUcFppajhqUVJraTQ5RUQiLCJpZCI6ImZjX1JTQTZhdTIwRDRlUHVyOFAxUG5ILUFNXzMifQ%3D%3D"
+    },
+    {
+      "question": "What happens if you go over your PCs weight allowance?",
+      "type": "ai_overview",
+      "page_token": "Ir-xoXicHdDBbpswAABQ7Wd6bDAI1kWKqhFwUlSjYGObcJmMSWJiG6yGhsKtv9Bv2Fftazbt-o7v87fpev3n25caR3dbr1bTND1ehuFiTo9ysCtxm3u5ksKYRki9jr5H4PksN-ldxts3GRfUOZZgr0zMUvR1QBj2T0k7nKgq-M5EhKt3GsCBGOgX2iy8A7uWs329w6qEOswBPLT7uEY2O_AKB22voNCOE4gLrMeu7BVnnnrh-mWWzDlSYiSW7IaB6RBs98gDRwKwd6IQMfuRCi_UpMq3Ofv50WhXYe4qkYavJVAj1hlo9FPILeTVDA4CuqUuFeA88-sqqwgdozJhS-3_SI5Xk0pmLL7GPtoBJP2M_7M5B_k9VS2hXuofKzqjtPBqFgN5VQVi8TvZgrjEQ1dQvMirsZQ6W3gqbCxmuR4jBuugSUEp9DjlMwhrgFE7PZzlfRM8_L_e_Drbce3ehstfGRGL-g",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ir-xoXicHdDBbpswAABQ7Wd6bDAI1kWKqhFwUlSjYGObcJmMSWJiG6yGhsKtv9Bv2Fftazbt-o7v87fpev3n25caR3dbr1bTND1ehuFiTo9ysCtxm3u5ksKYRki9jr5H4PksN-ldxts3GRfUOZZgr0zMUvR1QBj2T0k7nKgq-M5EhKt3GsCBGOgX2iy8A7uWs329w6qEOswBPLT7uEY2O_AKB22voNCOE4gLrMeu7BVnnnrh-mWWzDlSYiSW7IaB6RBs98gDRwKwd6IQMfuRCi_UpMq3Ofv50WhXYe4qkYavJVAj1hlo9FPILeTVDA4CuqUuFeA88-sqqwgdozJhS-3_SI5Xk0pmLL7GPtoBJP2M_7M5B_k9VS2hXuofKzqjtPBqFgN5VQVi8TvZgrjEQ1dQvMirsZQ6W3gqbCxmuR4jBuugSUEp9DjlMwhrgFE7PZzlfRM8_L_e_Drbce3ehstfGRGL-g",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJGQmpkek5qWW1OQ055MTJNbFk0WHpkd2NXNWpUak5DYjBseWFVTnJhWE0xWVZZd1pscGxMVTluYUVZdFpVZE9RbGhJWlRFMU0wUlFNMWMwVUhacVMyOUZkRmsxTjJ0MVkweEJNMkZtTkVaTlNqbFdTR2RoUlZneVVSSVhVbE5CTm1GMU1qQkVOR1ZRZFhJNFVERlFia2d0UVUwYUlrRkVjM0k1WmxOMU5WWk1Ubkp6YjJSMFVsOU5XVWRTYlZSa05EbFFTM2xsU1djIiwiZmN2IjoiMyIsImVpIjoiUlNBNmF1MjBENGVQdXI4UDFQbkgtQU0iLCJxYyI6IkNoaHdZM01nYlc5MlpTQmpiM1Z1ZEdSdmQyNGdkR2x0WlhJUUFIMTBwMW9fIiwicXVlc3Rpb24iOiJXaGF0IGhhcHBlbnMgaWYgeW91IGdvIG92ZXIgeW91ciBQQ3Mgd2VpZ2h0IGFsbG93YW5jZT8iLCJsayI6ImM1TXlMYzlJTEZISVNDd29TTTByVnNoTVU2ak1MMVZJejFmSUwwc3RBckdMRkFxU2l4WEtVelBUTTBvVUVuTnk4c3NUODVKVEFRIiwiYnMiOiJjNDJRTVF2Q01CQ0ZjYzNrM0VIZnBFNHFCWFVzMHNWUjZPQjh0TEVKdGtsTm95SF8za1NrZ2lDNjNmQzktOTRkSzlqOG9CMGFyV3BVbXZjZ3RMS1Jsb3pITVNfUTZqdUhwUXZQMGtVeUU5X1FydXpmS0x1eTdVbVFoYUN1NDZxSFBNUHJHMnFOZ0pnNG03QzhoLU95RmhiVU5OcVJLb05qbDJ6Y3IyUjBmU1paenFaUHBZeTFodUpTd1FxT3ZXbDlsaUtadUFFWkNyOFFDZ2dyMlNvLW95WGw0Mm5oeEpMVXMwQmxaR0FKRlhrNHdWVlVTRlZuNlRwWmlqOGpRUmtpNDlFRCIsImlkIjoiZmNfUlNBNmF1MjBENGVQdXI4UDFQbkgtQU1fMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJGQmpkek5qWW1OQ055MTJNbFk0WHpkd2NXNWpUak5DYjBseWFVTnJhWE0xWVZZd1pscGxMVTluYUVZdFpVZE9RbGhJWlRFMU0wUlFNMWMwVUhacVMyOUZkRmsxTjJ0MVkweEJNMkZtTkVaTlNqbFdTR2RoUlZneVVSSVhVbE5CTm1GMU1qQkVOR1ZRZFhJNFVERlFia2d0UVUwYUlrRkVjM0k1WmxOMU5WWk1Ubkp6YjJSMFVsOU5XVWRTYlZSa05EbFFTM2xsU1djIiwiZmN2IjoiMyIsImVpIjoiUlNBNmF1MjBENGVQdXI4UDFQbkgtQU0iLCJxYyI6IkNoaHdZM01nYlc5MlpTQmpiM1Z1ZEdSdmQyNGdkR2x0WlhJUUFIMTBwMW9fIiwicXVlc3Rpb24iOiJXaGF0IGhhcHBlbnMgaWYgeW91IGdvIG92ZXIgeW91ciBQQ3Mgd2VpZ2h0IGFsbG93YW5jZT8iLCJsayI6ImM1TXlMYzlJTEZISVNDd29TTTByVnNoTVU2ak1MMVZJejFmSUwwc3RBckdMRkFxU2l4WEtVelBUTTBvVUVuTnk4c3NUODVKVEFRIiwiYnMiOiJjNDJRTVF2Q01CQ0ZjYzNrM0VIZnBFNHFCWFVzMHNWUjZPQjh0TEVKdGtsTm95SF8za1NrZ2lDNjNmQzktOTRkSzlqOG9CMGFyV3BVbXZjZ3RMS1Jsb3pITVNfUTZqdUhwUXZQMGtVeUU5X1FydXpmS0x1eTdVbVFoYUN1NDZxSFBNUHJHMnFOZ0pnNG03QzhoLU95RmhiVU5OcVJLb05qbDJ6Y3IyUjBmU1paenFaUHBZeTFodUpTd1FxT3ZXbDlsaUtadUFFWkNyOFFDZ2dyMlNvLW95WGw0Mm5oeEpMVXMwQmxaR0FKRlhrNHdWVlVTRlZuNlRwWmlqOGpRUmtpNDlFRCIsImlkIjoiZmNfUlNBNmF1MjBENGVQdXI4UDFQbkgtQU1fMyJ9"
+    },
+    {
+      "question": "What is a PCS move in the Army?",
+      "type": "ai_overview",
+      "page_token": "OLCcaXicHdBNbqMwGABQ9TJdNhgaZhopqmowNBnZFTb-AG9GxCRxwfykoQlkN3eZU_U0M-r-rd6fv_a9a77uLmYch_Nqsbherw_Hvj_a_YPu20V5nju90KW1u1I3K_-Hj54Pek0-Nzg4bXAihwFC7ghr3xjhvoifSBlt253TPKb58Mrdiu1hUPqmzjJlfiKnLTQoKVriiY6bMlOR9LBkngKR8-VORpsCwJTSTP_9icVnRLttmMXoIm9szN0q29cAb1D9ou4y3qWWidCeqH15pAGaxKs6sHjytQuRROZWoaeZAgt4-3Mpa-IVoFTZDqNAUZYgCJVH5gTZiHcYl06BhK1yINwjphLSIW6Ry5mSxFGAka5NQgF_igDhlPfvieQ3XdsWQkDUqVKdq0gFzgy1CVSjOGvpuK_NlOV4qa73B31Ze_ffn-vfh3ZcDR_98R9xPoC5",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OLCcaXicHdBNbqMwGABQ9TJdNhgaZhopqmowNBnZFTb-AG9GxCRxwfykoQlkN3eZU_U0M-r-rd6fv_a9a77uLmYch_Nqsbherw_Hvj_a_YPu20V5nju90KW1u1I3K_-Hj54Pek0-Nzg4bXAihwFC7ghr3xjhvoifSBlt253TPKb58Mrdiu1hUPqmzjJlfiKnLTQoKVriiY6bMlOR9LBkngKR8-VORpsCwJTSTP_9icVnRLttmMXoIm9szN0q29cAb1D9ou4y3qWWidCeqH15pAGaxKs6sHjytQuRROZWoaeZAgt4-3Mpa-IVoFTZDqNAUZYgCJVH5gTZiHcYl06BhK1yINwjphLSIW6Ry5mSxFGAka5NQgF_igDhlPfvieQ3XdsWQkDUqVKdq0gFzgy1CVSjOGvpuK_NlOV4qa73B31Ze_ffn-vfh3ZcDR_98R9xPoC5",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJGQmpkek5qWW1OQ055MTJNbFk0WHpkd2NXNWpUak5DYjBseWFVTnJhWE0xWVZZd1pscGxMVTluYUVZdFpVZE9RbGhJWlRFMU0wUlFNMWMwVUhacVMyOUZkRmsxTjJ0MVkweEJNMkZtTkVaTlNqbFdTR2RoUlZneVVSSVhVbE5CTm1GMU1qQkVOR1ZRZFhJNFVERlFia2d0UVUwYUlrRkVjM0k1WmxOMU5WWk1Ubkp6YjJSMFVsOU5XVWRTYlZSa05EbFFTM2xsU1djIiwiZmN2IjoiMyIsImVpIjoiUlNBNmF1MjBENGVQdXI4UDFQbkgtQU0iLCJxYyI6IkNoaHdZM01nYlc5MlpTQmpiM1Z1ZEdSdmQyNGdkR2x0WlhJUUFIMTBwMW9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgUENTIG1vdmUgaW4gdGhlIEFybXk/IiwibGsiOiJHaDUzYUdGMElHbHpJR0VnY0dOeklHMXZkbVVnYVc0Z2RHaGxJR0Z5YlhrIiwiYnMiOiJjNDJRTVF2Q01CQ0ZjYzNrM0VIZnBFNHFCWFVzMHNWUjZPQjh0TEVKdGtsTm95SF8za1NrZ2lDNjNmQzktOTRkSzlqOG9CMGFyV3BVbXZjZ3RMS1Jsb3pITVNfUTZqdUhwUXZQMGtVeUU5X1FydXpmS0x1eTdVbVFoYUN1NDZxSFBNUHJHMnFOZ0pnNG03QzhoLU95RmhiVU5OcVJLb05qbDJ6Y3IyUjBmU1paenFaUHBZeTFodUpTd1FxT3ZXbDlsaUtadUFFWkNyOFFDZ2dyMlNvLW95WGw0Mm5oeEpMVXMwQmxaR0FKRlhrNHdWVlVTRlZuNlRwWmlqOGpRUmtpNDlFRCIsImlkIjoiZmNfUlNBNmF1MjBENGVQdXI4UDFQbkgtQU1fMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJGQmpkek5qWW1OQ055MTJNbFk0WHpkd2NXNWpUak5DYjBseWFVTnJhWE0xWVZZd1pscGxMVTluYUVZdFpVZE9RbGhJWlRFMU0wUlFNMWMwVUhacVMyOUZkRmsxTjJ0MVkweEJNMkZtTkVaTlNqbFdTR2RoUlZneVVSSVhVbE5CTm1GMU1qQkVOR1ZRZFhJNFVERlFia2d0UVUwYUlrRkVjM0k1WmxOMU5WWk1Ubkp6YjJSMFVsOU5XVWRTYlZSa05EbFFTM2xsU1djIiwiZmN2IjoiMyIsImVpIjoiUlNBNmF1MjBENGVQdXI4UDFQbkgtQU0iLCJxYyI6IkNoaHdZM01nYlc5MlpTQmpiM1Z1ZEdSdmQyNGdkR2x0WlhJUUFIMTBwMW9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgUENTIG1vdmUgaW4gdGhlIEFybXk%2FIiwibGsiOiJHaDUzYUdGMElHbHpJR0VnY0dOeklHMXZkbVVnYVc0Z2RHaGxJR0Z5YlhrIiwiYnMiOiJjNDJRTVF2Q01CQ0ZjYzNrM0VIZnBFNHFCWFVzMHNWUjZPQjh0TEVKdGtsTm95SF8za1NrZ2lDNjNmQzktOTRkSzlqOG9CMGFyV3BVbXZjZ3RMS1Jsb3pITVNfUTZqdUhwUXZQMGtVeUU5X1FydXpmS0x1eTdVbVFoYUN1NDZxSFBNUHJHMnFOZ0pnNG03QzhoLU95RmhiVU5OcVJLb05qbDJ6Y3IyUjBmU1paenFaUHBZeTFodUpTd1FxT3ZXbDlsaUtadUFFWkNyOFFDZ2dyMlNvLW95WGw0Mm5oeEpMVXMwQmxaR0FKRlhrNHdWVlVTRlZuNlRwWmlqOGpRUmtpNDlFRCIsImlkIjoiZmNfUlNBNmF1MjBENGVQdXI4UDFQbkgtQU1fMyJ9"
+    },
+    {
+      "question": "How many miles can you drive a day when PCSing?",
+      "type": "ai_overview",
+      "page_token": "0bDy7nicHdBbbqMwAEBRzWb62WBn6CNSNAqJaUWFRza2efyMjGkgtgGnIQHy1y10DV3VrKZVd3DPff-0h878__XRDIM7rRaLcRxv676v7eut6tuFPM2dWihpbSmVWd3d34E_e7VGFxVs31RAuHNiR73Ei3qsN0NlHp-Exqlsa6hQvyRw-q286CVZYsRM7VfGDzKAtxyYSbJoX6JJlsuQF3oDyzQ6FgnIC_N45kYcxPMGFinOMAoP5XNgCuRj3jorQkqZxjHRdqLwAVBIL7wzMzExYObBUyY6qV1wzdPpKGHTUeS_UGAZa21PgYuLzM0xn2jF3SBa4PAW6DQM6bdDE9tArsWccjSznRpFhoCCTa5Aw787Ow7sBTVVwj0E84zPMSJeIQKgdENiEZyTLQgY7Q-E06vStuVp9Jebhr121RnDUEoQHhNEfJaJMffoNWebazHe7NVlvbz5eb3-t2-HlXvr6y9_7YxM",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0bDy7nicHdBbbqMwAEBRzWb62WBn6CNSNAqJaUWFRza2efyMjGkgtgGnIQHy1y10DV3VrKZVd3DPff-0h878__XRDIM7rRaLcRxv676v7eut6tuFPM2dWihpbSmVWd3d34E_e7VGFxVs31RAuHNiR73Ei3qsN0NlHp-Exqlsa6hQvyRw-q286CVZYsRM7VfGDzKAtxyYSbJoX6JJlsuQF3oDyzQ6FgnIC_N45kYcxPMGFinOMAoP5XNgCuRj3jorQkqZxjHRdqLwAVBIL7wzMzExYObBUyY6qV1wzdPpKGHTUeS_UGAZa21PgYuLzM0xn2jF3SBa4PAW6DQM6bdDE9tArsWccjSznRpFhoCCTa5Aw787Ow7sBTVVwj0E84zPMSJeIQKgdENiEZyTLQgY7Q-E06vStuVp9Jebhr121RnDUEoQHhNEfJaJMffoNWebazHe7NVlvbz5eb3-t2-HlXvr6y9_7YxM",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJGQmpkek5qWW1OQ055MTJNbFk0WHpkd2NXNWpUak5DYjBseWFVTnJhWE0xWVZZd1pscGxMVTluYUVZdFpVZE9RbGhJWlRFMU0wUlFNMWMwVUhacVMyOUZkRmsxTjJ0MVkweEJNMkZtTkVaTlNqbFdTR2RoUlZneVVSSVhVbE5CTm1GMU1qQkVOR1ZRZFhJNFVERlFia2d0UVUwYUlrRkVjM0k1WmxOMU5WWk1Ubkp6YjJSMFVsOU5XVWRTYlZSa05EbFFTM2xsU1djIiwiZmN2IjoiMyIsImVpIjoiUlNBNmF1MjBENGVQdXI4UDFQbkgtQU0iLCJxYyI6IkNoaHdZM01nYlc5MlpTQmpiM1Z1ZEdSdmQyNGdkR2x0WlhJUUFIMTBwMW9fIiwicXVlc3Rpb24iOiJIb3cgbWFueSBtaWxlcyBjYW4geW91IGRyaXZlIGEgZGF5IHdoZW4gUENTaW5nPyIsImxrIjoiR2k1b2IzY2diV0Z1ZVNCdGFXeGxjeUJqWVc0Z2VXOTFJR1J5YVhabElHRWdaR0Y1SUhkb1pXNGdjR056YVc1biIsImJzIjoiYzQyUU1RdkNNQkNGY2MzazNFSGZwRTRxQlhVczBzVlI2T0I4dExFSnRrbE5veUhfM2tTa2dpQzYzZkM5LTk0ZEs5ajhvQjBhcldwVW12Y2d0TEtSbG96SE1TX1E2anVIcFF2UDBrVXlFOV9RcnV6ZktMdXk3VW1RaGFDdTQ2cUhQTVByRzJxTmdKZzRtN0M4aC1PeUZoYlVOTnFSS29OamwyemNyMlIwZlNaWnpxWlBwWXkxaHVKU3dRcU92V2w5bGlLWnVBRVpDcjhRQ2dncjJTby1veVhsNDJuaHhKTFVzMEJsWkdBSkZYazR3VlZVU0ZWbjZUcFppajhqUVJraTQ5RUQiLCJpZCI6ImZjX1JTQTZhdTIwRDRlUHVyOFAxUG5ILUFNXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJGQmpkek5qWW1OQ055MTJNbFk0WHpkd2NXNWpUak5DYjBseWFVTnJhWE0xWVZZd1pscGxMVTluYUVZdFpVZE9RbGhJWlRFMU0wUlFNMWMwVUhacVMyOUZkRmsxTjJ0MVkweEJNMkZtTkVaTlNqbFdTR2RoUlZneVVSSVhVbE5CTm1GMU1qQkVOR1ZRZFhJNFVERlFia2d0UVUwYUlrRkVjM0k1WmxOMU5WWk1Ubkp6YjJSMFVsOU5XVWRTYlZSa05EbFFTM2xsU1djIiwiZmN2IjoiMyIsImVpIjoiUlNBNmF1MjBENGVQdXI4UDFQbkgtQU0iLCJxYyI6IkNoaHdZM01nYlc5MlpTQmpiM1Z1ZEdSdmQyNGdkR2x0WlhJUUFIMTBwMW9fIiwicXVlc3Rpb24iOiJIb3cgbWFueSBtaWxlcyBjYW4geW91IGRyaXZlIGEgZGF5IHdoZW4gUENTaW5nPyIsImxrIjoiR2k1b2IzY2diV0Z1ZVNCdGFXeGxjeUJqWVc0Z2VXOTFJR1J5YVhabElHRWdaR0Y1SUhkb1pXNGdjR056YVc1biIsImJzIjoiYzQyUU1RdkNNQkNGY2MzazNFSGZwRTRxQlhVczBzVlI2T0I4dExFSnRrbE5veUhfM2tTa2dpQzYzZkM5LTk0ZEs5ajhvQjBhcldwVW12Y2d0TEtSbG96SE1TX1E2anVIcFF2UDBrVXlFOV9RcnV6ZktMdXk3VW1RaGFDdTQ2cUhQTVByRzJxTmdKZzRtN0M4aC1PeUZoYlVOTnFSS29OamwyemNyMlIwZlNaWnpxWlBwWXkxaHVKU3dRcU92V2w5bGlLWnVBRVpDcjhRQ2dncjJTby1veVhsNDJuaHhKTFVzMEJsWkdBSkZYazR3VlZVU0ZWbjZUcFppajhqUVJraTQ5RUQiLCJpZCI6ImZjX1JTQTZhdTIwRDRlUHVyOFAxUG5ILUFNXzMifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "CRzXGHicxVbbkrI4EL7f91huZhQ8oDJV1F8BUfEwiod1mBsKAQPKSVAZvfvfZZ9qn2AfYxMOCqPO1P5VWxsLknQ6na_T_dH-_NO23O1fv_1t7vd--EKSURSVoedB2yhrnkOq4cnVyLVnh4Fm_gi9Q6AZls5qZuA5BnE6sjVCC1mKMCx2OgMN9VCl2nVjcghak8rE7ZXAiIhNsMpKDY0NOuFjE5IKiV7b32ttNCmHZcMtryaate7te9EClqtUhSmPSdVBCuA_bAKYxr2EfiLqxRsNfDz8xook4o2znITPvbM2SgyJYtzxD43yKQpexirt0ntQ50BbimW9L1DMitMlfgkgAoDDEAXp3p57IDKZl_bcwxOFW1GszKVntfPmH_nL5QMsYZvzFuCvgchc5kDmAVKBaMwlFmnA1ScR3-W_CBNa8WFPMEvSXdC51hkIfpSOh3IXISJ1iJKQIlcB6iqkpZlaPAhCnJv8nKG8jgveXxsHczCvjXhFqS0GruiZtlv1WxKprZCe7am6oSumQv2I55VqhaaYWrP1HJNCCy-sCPOseG-MbFDrr2sdUB6WuUqOEvFliAWfcbpxD9wbpHf4SR0kVrC9fnI3WezAIlPjvIwdqWCzxVklXwQtHArz84kYyC0lsgbzA0SJGLa4uOzMq-OhyF2hpq39Od7XeeqDDAbSxWUhhzi5CCE_32IXxW4miC5L2Cq0QUxxRAmBSyyOC_thHhiyxPFAyJYvCLBOe3tRE2KEeFmWJBmIHURRFD6YOZ-GElFCLN4d2BRmHYgfHt4l-HeNu1zWwyaALPc_pXKBAvzwo9FlbEaRh1rJPQeq3xTetOGi9wHup7znrP5FJdD-X1Is0jqxSJkwuEsK-A0pJFH4sk4kuK91AucK7z0iBZ-SolgnksS91olbUsyKpHhcJ3KkSKx8TQruISkEcJ8U-FtzQwr4gBRJnciTolgn3Itl7EGOFL9UJ6RfqBMxR4ykKxaNwwY-Lh5TwRq1phzTPbv8tmeMlmZfmcCdeeqDb4vH2tm_OKpuPyuW_sJV-_uT_qwggfdi6MSOnfCzJ8c7Gk-ad3D3uhe5T3vLMQLCsQOPpVR6-jYY1uf9M9jodae6Bt1gxw8-9LeaL42EI21Frj1fNarNP5az4Xm5e3fEgUD3F6ejLza308bQX24VmylZq_nhbQGGPUEfjee0whzGzMx6DXbDqbs_98bTEq2O4K7dP9DdUmiuulot7M_pU4exm3LU1y1RpuvLLYhxhSzPGbIfSdx0NiKQM6HBVggn0FiU_nUIXiWwhEBDeQ8k9C9K4j30RCjqRKipihEeWY2uUCu1bjToamNdY9BmuD_5LEMRoRuwlX8AkacYvw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=CRzXGHicxVbbkrI4EL7f91huZhQ8oDJV1F8BUfEwiod1mBsKAQPKSVAZvfvfZZ9qn2AfYxMOCqPO1P5VWxsLknQ6na_T_dH-_NO23O1fv_1t7vd--EKSURSVoedB2yhrnkOq4cnVyLVnh4Fm_gi9Q6AZls5qZuA5BnE6sjVCC1mKMCx2OgMN9VCl2nVjcghak8rE7ZXAiIhNsMpKDY0NOuFjE5IKiV7b32ttNCmHZcMtryaate7te9EClqtUhSmPSdVBCuA_bAKYxr2EfiLqxRsNfDz8xook4o2znITPvbM2SgyJYtzxD43yKQpexirt0ntQ50BbimW9L1DMitMlfgkgAoDDEAXp3p57IDKZl_bcwxOFW1GszKVntfPmH_nL5QMsYZvzFuCvgchc5kDmAVKBaMwlFmnA1ScR3-W_CBNa8WFPMEvSXdC51hkIfpSOh3IXISJ1iJKQIlcB6iqkpZlaPAhCnJv8nKG8jgveXxsHczCvjXhFqS0GruiZtlv1WxKprZCe7am6oSumQv2I55VqhaaYWrP1HJNCCy-sCPOseG-MbFDrr2sdUB6WuUqOEvFliAWfcbpxD9wbpHf4SR0kVrC9fnI3WezAIlPjvIwdqWCzxVklXwQtHArz84kYyC0lsgbzA0SJGLa4uOzMq-OhyF2hpq39Od7XeeqDDAbSxWUhhzi5CCE_32IXxW4miC5L2Cq0QUxxRAmBSyyOC_thHhiyxPFAyJYvCLBOe3tRE2KEeFmWJBmIHURRFD6YOZ-GElFCLN4d2BRmHYgfHt4l-HeNu1zWwyaALPc_pXKBAvzwo9FlbEaRh1rJPQeq3xTetOGi9wHup7znrP5FJdD-X1Is0jqxSJkwuEsK-A0pJFH4sk4kuK91AucK7z0iBZ-SolgnksS91olbUsyKpHhcJ3KkSKx8TQruISkEcJ8U-FtzQwr4gBRJnciTolgn3Itl7EGOFL9UJ6RfqBMxR4ykKxaNwwY-Lh5TwRq1phzTPbv8tmeMlmZfmcCdeeqDb4vH2tm_OKpuPyuW_sJV-_uT_qwggfdi6MSOnfCzJ8c7Gk-ad3D3uhe5T3vLMQLCsQOPpVR6-jYY1uf9M9jodae6Bt1gxw8-9LeaL42EI21Frj1fNarNP5az4Xm5e3fEgUD3F6ejLza308bQX24VmylZq_nhbQGGPUEfjee0whzGzMx6DXbDqbs_98bTEq2O4K7dP9DdUmiuulot7M_pU4exm3LU1y1RpuvLLYhxhSzPGbIfSdx0NiKQM6HBVggn0FiU_nUIXiWwhEBDeQ8k9C9K4j30RCjqRKipihEeWY2uUCu1bjToamNdY9BmuD_5LEMRoRuwlX8AkacYvw"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Countdown to a Military PCS | Our Moving Timeline",
+      "link": "https://thehomesihavemade.com/10-things-to-do-before-a-move/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thehomesihavemade.com/10-things-to-do-before-a-move/&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8QFnoECCUQAQ",
+      "displayed_link": "https://thehomesihavemade.com › Moving",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEX____86u31wsf40dX76Orxpq3vl6Dzsrj--frrdYHgABLhACLgABrjJkHuj5ngAA_hACbhACn3y9DqcH3iGDbiETLiFDT97vDkMknwn6fth5HgABb74-bnU2T5297sf4uhMiusAAAAkklEQVR4AdXPRQLCMBBA0anG3XDuf0pcZpA9_HpfJYGfreuHy3GcZsaBJqTSZgSwzgelIrGkcs6lAJP5VJUN2Xi5l_20KNeTJUKm8uUNc7UcVhSvmq_5CWFbZ9J6QwYUsJUt4JrG6HZAYkj9nhD5cDHw1m2KuerxHXm5qozwoVHVszH42E7XLCf40qAdNaoM_rcjTCIOK26j_oUAAAAASUVORK5CYII.png",
+      "date": "Mar 29, 2022",
+      "snippet": "I outline a broad, general moving timeline in this post. 1-2 Weeks Before Moving Day The Last Few 3-6 Months Out , most of the tasks on our ...",
+      "snippet_highlighted_words": [
+        "1-2 Weeks Before Moving Day The Last Few 3-6 Months Out"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "As Soon As You Get Orders | 3...",
+            "link": "https://thehomesihavemade.com/10-things-to-do-before-a-move/#As_Soon_As_You_Get_Orders_3-6_Months_Out"
+          },
+          {
+            "title": "Month Before Moving Day",
+            "link": "https://thehomesihavemade.com/10-things-to-do-before-a-move/#1_Month_Before_Moving_Day"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "I outline a broad, general moving timeline in this post. 1-2 Weeks Before Moving Day The Last Few 3-6 Months Out , most of the tasks on our ...",
+          "source_info_link": "https://thehomesihavemade.com/10-things-to-do-before-a-move/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEX____86u31wsf40dX76Orxpq3vl6Dzsrj--frrdYHgABLhACLgABrjJkHuj5ngAA_hACbhACn3y9DqcH3iGDbiETLiFDT97vDkMknwn6fth5HgABb74-bnU2T5297sf4uhMiusAAAAkklEQVR4AdXPRQLCMBBA0anG3XDuf0pcZpA9_HpfJYGfreuHy3GcZsaBJqTSZgSwzgelIrGkcs6lAJP5VJUN2Xi5l_20KNeTJUKm8uUNc7UcVhSvmq_5CWFbZ9J6QwYUsJUt4JrG6HZAYkj9nhD5cDHw1m2KuerxHXm5qozwoVHVszH42E7XLCf40qAdNaoM_rcjTCIOK26j_oUAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://thehomesihavemade.com/10-things-to-do-before-a-move/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthehomesihavemade.com%2F10-things-to-do-before-a-move%2F",
+      "source": "The Homes I Have Made"
+    },
+    {
+      "position": 2,
+      "title": "Preparing for Your PCS or Military Move",
+      "link": "https://www.militaryonesource.mil/moving-pcs/plan-to-move/pcs-and-military-moves/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militaryonesource.mil/moving-pcs/plan-to-move/pcs-and-military-moves/&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8QFnoECCEQAQ",
+      "displayed_link": "https://www.militaryonesource.mil › plan-to-move › pc...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png",
+      "snippet": "Get immediate moving help, access planning tools and browse moving resources and more. Plus, get PCS assistance from the Military and Family Support Center.",
+      "snippet_highlighted_words": [
+        "Get immediate moving help"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Get immediate moving help, access planning tools and browse moving resources and more. Plus, get PCS assistance from the Military and Family Support Center.",
+          "source_info_link": "https://www.militaryonesource.mil/moving-pcs/plan-to-move/pcs-and-military-moves/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militaryonesource.mil/moving-pcs/plan-to-move/pcs-and-military-moves/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militaryonesource.mil%2Fmoving-pcs%2Fplan-to-move%2Fpcs-and-military-moves%2F",
+      "source": "Military OneSource (.mil)"
+    },
+    {
+      "position": 3,
+      "title": "How-To: Move your household goods > United States Coast ...",
+      "link": "https://www.mycg.uscg.mil/News/Article/3386612/how-to-move-your-household-goods/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mycg.uscg.mil/News/Article/3386612/how-to-move-your-household-goods/&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8QFnoECCcQAQ",
+      "displayed_link": "https://www.mycg.uscg.mil › News › Article › how-to-...",
+      "favicon": "https://serpapi.com/searches/6a3a20443b93e3950a4832c1/images/Ho6d0fVjSaEF2EybCxvuxykPrwLv8paft5GJ7wbweEk.png",
+      "date": "May 8, 2023",
+      "snippet": "Coast Guard PCS Moving Assistance. The transportation industry's peak season runs from May 15 to Aug. 31, with the busiest times between June 15 ...",
+      "snippet_highlighted_words": [
+        "PCS",
+        "to"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Coast Guard PCS Moving Assistance. The transportation industry's peak season runs from May 15 to Aug. 31, with the busiest times between June 15 ...",
+          "source_info_link": "https://www.mycg.uscg.mil/News/Article/3386612/how-to-move-your-household-goods/",
+          "icon": "https://serpapi.com/searches/6a3a20443b93e3950a4832c1/images/Ho6d0fVjSaEF2EybCxvuxxEeP0ZV9CuaXrMGkBlJaYB-p56LUeFWu0i7rSBhTRPT.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.mycg.uscg.mil/News/Article/3386612/how-to-move-your-household-goods/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.mycg.uscg.mil%2FNews%2FArticle%2F3386612%2Fhow-to-move-your-household-goods%2F",
+      "source": "United States Coast Guard (.mil)",
+      "read_more_link": "https://www.mycg.uscg.mil/News/Article/3386612/how-to-move-your-household-goods/#:~:text=Coast%20Guard%20PCS%20Moving%20Assistance,June%2015%20and%20July%2031."
+    },
+    {
+      "position": 4,
+      "title": "PCS 101: How to Prepare for Your Military Move",
+      "link": "https://www.militarybyowner.com/resources/pcs-101-military-move-mustdos/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarybyowner.com/resources/pcs-101-military-move-mustdos/&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8QFnoECCMQAQ",
+      "displayed_link": "https://www.militarybyowner.com › resources › pcs-101-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA-VBMVEX_4UH-5UP-4kP95D_030j33kb5wTr40kH_40H-5EWyv2Nim4zzhS7rkDf_4kY0g6LczlT1xT_maC33wD_5vj6wsWFhmZDpYCn6y0Hvei31ozfutUE-gZvn1U_uijLsnDnxmTjqbSru10nxykHzWTWWhmV-poTuZCb-6EdVkZJRkZpEiZhKgIxPdYDKdU7-2M_YeEjVu03RxFSEqYDIx1vmyk_nrULoXDnqoZj0y8f____5oY3GoVGnumvwraf___2hcl7_50mPqnepY1ttmYDSz1rHembZfWjqf1X-50lcgoPls0BpjX97cG7YfkD1rjynqmfYsk_86Edld4oaAAAA60lEQVR4ARVNA5YDQRCtGmw65tiObdu-_2G28x-_ARAZYBmOh78YkDgAoQIy8USSpNIsiTOQQYLxOPLZXL6AiASQKVKUYoLISLJcLEI8rvygarphWrbjQJyhJd71_CD0IoIZiJcr1Vq90Wy1OzGz28sAYn8wHI0n08lMmmcXCPQhpQ2Xq-lquc72ywgb5CV3u1utpu39Ib7Z0I2iw9eOy9PyXI5fNhfYlE3rcFVu98fzlbbTNsQ3ktd72xpXuX8s07bhe3lddKPoq9jL5jbfMq2U3ZC_yJL5TWT7dOObKV8um_KXL6gXl9ts_gG6riAvv_JZqQAAAABJRU5ErkJggg.png",
+      "snippet": "Tips for your PPM/DITY move: Make an appointment with your installation's transportation office (TO) to set up and receive approval for your PPM.",
+      "snippet_highlighted_words": [
+        "move",
+        "TO",
+        "to"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tips for your PPM/DITY move: Make an appointment with your installation's transportation office (TO) to set up and receive approval for your PPM.",
+          "source_info_link": "https://www.militarybyowner.com/resources/pcs-101-military-move-mustdos/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA-VBMVEX_4UH-5UP-4kP95D_030j33kb5wTr40kH_40H-5EWyv2Nim4zzhS7rkDf_4kY0g6LczlT1xT_maC33wD_5vj6wsWFhmZDpYCn6y0Hvei31ozfutUE-gZvn1U_uijLsnDnxmTjqbSru10nxykHzWTWWhmV-poTuZCb-6EdVkZJRkZpEiZhKgIxPdYDKdU7-2M_YeEjVu03RxFSEqYDIx1vmyk_nrULoXDnqoZj0y8f____5oY3GoVGnumvwraf___2hcl7_50mPqnepY1ttmYDSz1rHembZfWjqf1X-50lcgoPls0BpjX97cG7YfkD1rjynqmfYsk_86Edld4oaAAAA60lEQVR4ARVNA5YDQRCtGmw65tiObdu-_2G28x-_ARAZYBmOh78YkDgAoQIy8USSpNIsiTOQQYLxOPLZXL6AiASQKVKUYoLISLJcLEI8rvygarphWrbjQJyhJd71_CD0IoIZiJcr1Vq90Wy1OzGz28sAYn8wHI0n08lMmmcXCPQhpQ2Xq-lquc72ywgb5CV3u1utpu39Ib7Z0I2iw9eOy9PyXI5fNhfYlE3rcFVu98fzlbbTNsQ3ktd72xpXuX8s07bhe3lddKPoq9jL5jbfMq2U3ZC_yJL5TWT7dOObKV8um_KXL6gXl9ts_gG6riAvv_JZqQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarybyowner.com/resources/pcs-101-military-move-mustdos/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarybyowner.com%2Fresources%2Fpcs-101-military-move-mustdos%2F",
+      "source": "MilitaryByOwner"
+    },
+    {
+      "position": 5,
+      "title": "COUNTDOWN TO DEPARTURE CHECKLIST",
+      "link": "https://www.marsoc.marines.mil/Portals/31/Documents/Onboarding/PCS-Checklist.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.marsoc.marines.mil/Portals/31/Documents/Onboarding/PCS-Checklist.pdf&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8QFnoECCIQAQ",
+      "displayed_link": "https://www.marsoc.marines.mil › PCS-Checklist",
+      "favicon": "https://serpapi.com/searches/6a3a20443b93e3950a4832c1/images/Ho6d0fVjSaEF2EybCxvux9lPmJYGBl24SvxM12mKuzg.png",
+      "snippet": "Visit www.move.mil to set up your move. Create a moving budget. Explain the process of moving. Spend time with your children.",
+      "snippet_highlighted_words": [
+        "move",
+        "to",
+        "move",
+        "time"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 2
+          },
+          "extensions": [
+            "2 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Visit www.move.mil to set up your move. Create a moving budget. Explain the process of moving. Spend time with your children.",
+          "source_info_link": "https://www.marsoc.marines.mil/Portals/31/Documents/Onboarding/PCS-Checklist.pdf",
+          "icon": "https://serpapi.com/searches/6a3a20443b93e3950a4832c1/images/Ho6d0fVjSaEF2EybCxvux48GJdHgjG3-ufoj1YUg-BqY56re1jQz1JrN1weemQeN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.marsoc.marines.mil/Portals/31/Documents/Onboarding/PCS-Checklist.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.marsoc.marines.mil%2FPortals%2F31%2FDocuments%2FOnboarding%2FPCS-Checklist.pdf",
+      "source": "marsoc.marines.mil"
+    },
+    {
+      "position": 6,
+      "title": "U.S. Army Garrison Rheinland-Pfalz",
+      "link": "https://www.facebook.com/army.rp/posts/keeping-track-of-your-pcs-can-feel-like-a-monumental-task-the-dows-personal-prop/1443101517852585/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/army.rp/posts/keeping-track-of-your-pcs-can-feel-like-a-monumental-task-the-dows-personal-prop/1443101517852585/&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8QFnoECEQQAQ",
+      "displayed_link": "10+ reactions · 1 month ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "Public 🇺🇸PCS Planning Checklist: 90-Day Countdown ・ here's a step-by-step checklist ・ ready from 90 days out to move day. you with your PCS ...",
+      "snippet_highlighted_words": [
+        "here's a step-by-step checklist"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Public 🇺🇸PCS Planning Checklist: 90-Day Countdown ・ here's a step-by-step checklist ・ ready from 90 days out to move day. you with your PCS ...",
+          "source_info_link": "https://www.facebook.com/army.rp/posts/keeping-track-of-your-pcs-can-feel-like-a-monumental-task-the-dows-personal-prop/1443101517852585/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/army.rp/posts/keeping-track-of-your-pcs-can-feel-like-a-monumental-task-the-dows-personal-prop/1443101517852585/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Farmy.rp%2Fposts%2Fkeeping-track-of-your-pcs-can-feel-like-a-monumental-task-the-dows-personal-prop%2F1443101517852585%2F",
+      "source": "Facebook · U.S. Army Garrison Rheinland-Pfalz"
+    },
+    {
+      "position": 7,
+      "title": "Checklists for Your PCS Move",
+      "link": "https://www.military.com/pcs/pcs-checklists.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/pcs/pcs-checklists.html&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8QFnoECD4QAQ",
+      "displayed_link": "https://www.military.com › PCS",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "date": "Apr 22, 2025",
+      "snippet": "This master checklist can help you walk through each stage of your military move process to guide you through mastering your PCS, not just surviving it.",
+      "snippet_highlighted_words": [
+        "military move",
+        "to",
+        "PCS"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This master checklist can help you walk through each stage of your military move process to guide you through mastering your PCS, not just surviving it.",
+          "source_info_link": "https://www.military.com/pcs/pcs-checklists.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/pcs/pcs-checklists.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fpcs%2Fpcs-checklists.html",
+      "source": "Military.com",
+      "read_more_link": "https://www.military.com/pcs/pcs-checklists.html#:~:text=This%20master%20checklist%20can%20help,PCS%2C%20not%20just%20surviving%20it."
+    },
+    {
+      "position": 8,
+      "title": "How to make your PCS move go smoothly",
+      "link": "https://www.jble.af.mil/News/Features/Display/Article/260670/how-to-make-your-pcs-move-go-smoothly/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jble.af.mil/News/Features/Display/Article/260670/how-to-make-your-pcs-move-go-smoothly/&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8QFnoECDsQAQ",
+      "displayed_link": "https://www.jble.af.mil › News › Features",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWOgGBw-eEhs957dWlevXmUmVs_z58-Zjxw5ovPo4SN-ht6enoTQ0LCVp06dEj577hxBQ758-cJ0_PhxLW8vr63bt263Z0hPT69SU1W709benhocHCJMyIBz587xuLq6rlRSVHqyeNFiT4awsLBiCXGJ15oamucE-AVs8Gl-8uQJY21trZaUpNRzoKX3165dp8-wefNmbWkp6SdAzT_ERMVm2NrYWm_dsgWrV06eOMFtaWW5WlBA8EeAf8DCEydO8DKkpqYyOzk6FoMEgfirvp7-nuVLl0lOmzqNH6YxMyNDauOGDVp-vn7rREVFPygpKN6dMmWKOdzkZcuWSvh4e6_k5-P_IyQo9MPI0Ohcf1-_w6IFC3k72zt4rSytcs3NzE9JSkh-EBYS_hwZEdm3dNkydrgB_f39bHPnzo3V0tS8CzTkN9A7v_V09a62trTG5-fmZSspKt4TERb5CnKlgb7B-YULFzpi-C88LFy2sbGxUlVZ5TLQFe9VlJUf1NfVFVdVVpUDwwhkwGNdHZ2zU6dMSYmLi-PHGspRUVFiwDAodHZynp2Xm5dVXFScWlJcEg8Mp1w3V9cJkyZO9ElPS-fBG8-9PX3S5WUVsZkZmXk21tbr7O3slyQmJuaVl5eFHT58WJBgMgUGnqebq9uW5KSk9piY6O7Q0NAJwUHB_UCxZWtWr7YiaMDePXtEgU73ALqgChiQ57W1tM_HxcTmpaWmmZ84fpyX6EyWm5Orl5CQ0BcTHdMG9LcqA60AAOJP2MG383GbAAAAAElFTkSuQmCC.png",
+      "snippet": "Create a personal moving calendar with checklists, Pack, pickup and delivery dates are usually scheduled on weekdays. You or your designated representative ...",
+      "snippet_highlighted_words": [
+        "Create a personal moving calendar with checklists"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Create a personal moving calendar with checklists, Pack, pickup and delivery dates are usually scheduled on weekdays. You or your designated representative ...",
+          "source_info_link": "https://www.jble.af.mil/News/Features/Display/Article/260670/how-to-make-your-pcs-move-go-smoothly/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWOgGBw-eEhs957dWlevXmUmVs_z58-Zjxw5ovPo4SN-ht6enoTQ0LCVp06dEj577hxBQ758-cJ0_PhxLW8vr63bt263Z0hPT69SU1W709benhocHCJMyIBz587xuLq6rlRSVHqyeNFiT4awsLBiCXGJ15oamucE-AVs8Gl-8uQJY21trZaUpNRzoKX3165dp8-wefNmbWkp6SdAzT_ERMVm2NrYWm_dsgWrV06eOMFtaWW5WlBA8EeAf8DCEydO8DKkpqYyOzk6FoMEgfirvp7-nuVLl0lOmzqNH6YxMyNDauOGDVp-vn7rREVFPygpKN6dMmWKOdzkZcuWSvh4e6_k5-P_IyQo9MPI0Ohcf1-_w6IFC3k72zt4rSytcs3NzE9JSkh-EBYS_hwZEdm3dNkydrgB_f39bHPnzo3V0tS8CzTkN9A7v_V09a62trTG5-fmZSspKt4TERb5CnKlgb7B-YULFzpi-C88LFy2sbGxUlVZ5TLQFe9VlJUf1NfVFVdVVpUDwwhkwGNdHZ2zU6dMSYmLi-PHGspRUVFiwDAodHZynp2Xm5dVXFScWlJcEg8Mp1w3V9cJkyZO9ElPS-fBG8-9PX3S5WUVsZkZmXk21tbr7O3slyQmJuaVl5eFHT58WJBgMgUGnqebq9uW5KSk9piY6O7Q0NAJwUHB_UCxZWtWr7YiaMDePXtEgU73ALqgChiQ57W1tM_HxcTmpaWmmZ84fpyX6EyWm5Orl5CQ0BcTHdMG9LcqA60AAOJP2MG383GbAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.jble.af.mil/News/Features/Display/Article/260670/how-to-make-your-pcs-move-go-smoothly/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.jble.af.mil%2FNews%2FFeatures%2FDisplay%2FArticle%2F260670%2Fhow-to-make-your-pcs-move-go-smoothly%2F",
+      "source": "Joint Base Langley-Eustis (.mil)"
+    },
+    {
+      "position": 9,
+      "title": "Keeping track of your PCS can feel like a monumental task. ...",
+      "link": "https://www.instagram.com/p/DXl8UeOkgs1/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DXl8UeOkgs1/&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8QFnoECEEQAQ",
+      "displayed_link": "4 likes · 1 month ago",
+      "favicon": "https://serpapi.com/searches/6a3a20443b93e3950a4832c1/images/Ho6d0fVjSaEF2EybCxvux6_OP0dRNEXgpGowtZ0702U.png",
+      "snippet": "Need help during your move? The Personal Property Activity Call Center is available 24/7 to support you every step of the way from now until ...",
+      "snippet_highlighted_words": [
+        "available 24/7"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Need help during your move? The Personal Property Activity Call Center is available 24/7 to support you every step of the way from now until ...",
+          "source_info_link": "https://www.instagram.com/p/DXl8UeOkgs1/",
+          "icon": "https://serpapi.com/searches/6a3a20443b93e3950a4832c1/images/Ho6d0fVjSaEF2EybCxvux4gljCZ_BgFVOcUnsd5quLVGpnFU-9FQugIKx3rKbblv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/p/DXl8UeOkgs1/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fp%2FDXl8UeOkgs1%2F",
+      "source": "Instagram · usag_rp",
+      "read_more_link": "https://www.instagram.com/p/DXl8UeOkgs1/#:~:text=more"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military PCS move website",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+PCS+move+website&sa=X&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+PCS+move+website"
+    },
+    {
+      "block_position": 1,
+      "query": "DPS move MIL",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=DPS+move+MIL&sa=X&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=DPS+move+MIL"
+    },
+    {
+      "block_position": 1,
+      "query": "Navy PCS move website",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Navy+PCS+move+website&sa=X&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Navy+PCS+move+website"
+    },
+    {
+      "block_position": 1,
+      "query": "PCS move Army",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=PCS+move+Army&sa=X&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PCS+move+Army"
+    },
+    {
+      "block_position": 1,
+      "query": "My PCS move",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=My+PCS+move&sa=X&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=My+PCS+move"
+    },
+    {
+      "block_position": 1,
+      "query": "PCS military Clothing",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=PCS+military+Clothing&sa=X&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PCS+military+Clothing"
+    },
+    {
+      "block_position": 1,
+      "query": "Household goods move military",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Household+goods+move+military&sa=X&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Household+goods+move+military"
+    },
+    {
+      "block_position": 1,
+      "query": "Navy Household Goods move",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Navy+Household+Goods+move&sa=X&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Navy+Household+Goods+move"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=PCS+move+countdown+timer&sca_esv=c510ba4e6526f391&ei=RSA6au20D4ePur8P1PnH-AM&start=10&sa=N&sstk=AU9db-BJtORUUij59pm65ZgqriuC6aBda_rsPuMCsCZMdO3BUSOlgedw95KZKy07-7EoVBlmy1M19m1bnnUmpWU9PwncMCSsa_nYJA&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q8NMDegQIMRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=PCS+move+countdown+timer&sca_esv=c510ba4e6526f391&ei=RSA6au20D4ePur8P1PnH-AM&start=10&sa=N&sstk=AU9db-BJtORUUij59pm65ZgqriuC6aBda_rsPuMCsCZMdO3BUSOlgedw95KZKy07-7EoVBlmy1M19m1bnnUmpWU9PwncMCSsa_nYJA&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q8tMDegQIMRAE",
+      "3": "https://www.google.com/search?q=PCS+move+countdown+timer&sca_esv=c510ba4e6526f391&ei=RSA6au20D4ePur8P1PnH-AM&start=20&sa=N&sstk=AU9db-BJtORUUij59pm65ZgqriuC6aBda_rsPuMCsCZMdO3BUSOlgedw95KZKy07-7EoVBlmy1M19m1bnnUmpWU9PwncMCSsa_nYJA&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q8tMDegQIMRAG",
+      "4": "https://www.google.com/search?q=PCS+move+countdown+timer&sca_esv=c510ba4e6526f391&ei=RSA6au20D4ePur8P1PnH-AM&start=30&sa=N&sstk=AU9db-BJtORUUij59pm65ZgqriuC6aBda_rsPuMCsCZMdO3BUSOlgedw95KZKy07-7EoVBlmy1M19m1bnnUmpWU9PwncMCSsa_nYJA&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q8tMDegQIMRAI",
+      "5": "https://www.google.com/search?q=PCS+move+countdown+timer&sca_esv=c510ba4e6526f391&ei=RSA6au20D4ePur8P1PnH-AM&start=40&sa=N&sstk=AU9db-BJtORUUij59pm65ZgqriuC6aBda_rsPuMCsCZMdO3BUSOlgedw95KZKy07-7EoVBlmy1M19m1bnnUmpWU9PwncMCSsa_nYJA&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q8tMDegQIMRAK",
+      "6": "https://www.google.com/search?q=PCS+move+countdown+timer&sca_esv=c510ba4e6526f391&ei=RSA6au20D4ePur8P1PnH-AM&start=50&sa=N&sstk=AU9db-BJtORUUij59pm65ZgqriuC6aBda_rsPuMCsCZMdO3BUSOlgedw95KZKy07-7EoVBlmy1M19m1bnnUmpWU9PwncMCSsa_nYJA&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q8tMDegQIMRAM",
+      "7": "https://www.google.com/search?q=PCS+move+countdown+timer&sca_esv=c510ba4e6526f391&ei=RSA6au20D4ePur8P1PnH-AM&start=60&sa=N&sstk=AU9db-BJtORUUij59pm65ZgqriuC6aBda_rsPuMCsCZMdO3BUSOlgedw95KZKy07-7EoVBlmy1M19m1bnnUmpWU9PwncMCSsa_nYJA&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q8tMDegQIMRAO",
+      "8": "https://www.google.com/search?q=PCS+move+countdown+timer&sca_esv=c510ba4e6526f391&ei=RSA6au20D4ePur8P1PnH-AM&start=70&sa=N&sstk=AU9db-BJtORUUij59pm65ZgqriuC6aBda_rsPuMCsCZMdO3BUSOlgedw95KZKy07-7EoVBlmy1M19m1bnnUmpWU9PwncMCSsa_nYJA&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q8tMDegQIMRAQ",
+      "9": "https://www.google.com/search?q=PCS+move+countdown+timer&sca_esv=c510ba4e6526f391&ei=RSA6au20D4ePur8P1PnH-AM&start=80&sa=N&sstk=AU9db-BJtORUUij59pm65ZgqriuC6aBda_rsPuMCsCZMdO3BUSOlgedw95KZKy07-7EoVBlmy1M19m1bnnUmpWU9PwncMCSsa_nYJA&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q8tMDegQIMRAS",
+      "10": "https://www.google.com/search?q=PCS+move+countdown+timer&sca_esv=c510ba4e6526f391&ei=RSA6au20D4ePur8P1PnH-AM&start=90&sa=N&sstk=AU9db-BJtORUUij59pm65ZgqriuC6aBda_rsPuMCsCZMdO3BUSOlgedw95KZKy07-7EoVBlmy1M19m1bnnUmpWU9PwncMCSsa_nYJA&ved=2ahUKEwit66L31pyVAxWHh-4BHdT8ET8Q8tMDegQIMRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PCS+move+countdown+timer&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PCS+move+countdown+timer&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PCS+move+countdown+timer&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PCS+move+countdown+timer&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PCS+move+countdown+timer&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PCS+move+countdown+timer&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PCS+move+countdown+timer&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PCS+move+countdown+timer&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PCS+move+countdown+timer&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PCS+move+countdown+timer&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PCS+move+countdown+timer&start=90"
+    }
+  }
+}

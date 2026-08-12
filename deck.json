@@ -1,0 +1,594 @@
+{
+  "search_metadata": {
+    "id": "6a3a18e00fa72e02ee21f582",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_lPr9TzYZkPUlpQ-EhDHUw/6a3a18e00fa72e02ee21f582.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/_lPr9TzYZkPUlpQ-EhDHUw/6a3a18e00fa72e02ee21f582.json_with_pixel_position",
+    "created_at": "2026-06-23 05:25:52 UTC",
+    "processed_at": "2026-06-23 05:25:52 UTC",
+    "google_url": "https://www.google.com/search?q=deck+board+calculator+square+feet&oq=deck+board+calculator+square+feet&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/_lPr9TzYZkPUlpQ-EhDHUw/6a3a18e00fa72e02ee21f582.html",
+    "total_time_taken": 2.49
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "deck board calculator square feet",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "deck board calculator square feet",
+    "total_results": 112,
+    "time_taken_displayed": 0.2,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "How To Figure Out How Many Deck Boards You Need || Dr ...",
+      "link": "https://www.youtube.com/watch?v=WXzzXuFjGw8",
+      "thumbnail": "https://serpapi.com/searches/6a3a18e00fa72e02ee21f582/images/5p0PCH3wcmPnictbNZtSIl8fuQ2NCcPz3qzJfxKis84.jpeg",
+      "channel": "drdecks",
+      "duration": "3:05",
+      "platform": "YouTube",
+      "date": "Jul 6, 2022",
+      "snippet": "To figure out how many deck boards you need, divide the deck's width in inches by the width of your deck board plus the gap."
+    },
+    {
+      "position": 2,
+      "title": "How to Calculate How Many Decking Boards You Need",
+      "link": "https://www.youtube.com/watch?v=murXQLf1ZGE",
+      "thumbnail": "https://serpapi.com/searches/6a3a18e00fa72e02ee21f582/images/0UpeK5fttVTItmvXbGrLyzq_N8OLHwBmAAyXjl7U1LA.jpeg",
+      "channel": "Heartland Decks",
+      "duration": "3:31",
+      "platform": "YouTube",
+      "date": "Oct 29, 2024",
+      "snippet": "A standard deck board is 5 1/2 inches, with about an eighth-inch gap. Divide your deck's length by 5 5/8 inches for the board count.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRUf81vH5CxqQ0hBbsNy-3jz0o4HU0nf9o-zQ"
+    },
+    {
+      "position": 3,
+      "title": "How to Estimate Deck Materials | The Home Depot with ...",
+      "link": "https://www.youtube.com/watch?v=TsH_LIA2PU4",
+      "thumbnail": "https://serpapi.com/searches/6a3a18e00fa72e02ee21f582/images/0MxGxKmKjSSf3axy8QiXSaHFSY-whEcnsH-rO40YNbY.jpeg",
+      "channel": "The Home Depot",
+      "duration": "3:56",
+      "platform": "YouTube",
+      "date": "Jul 16, 2021",
+      "snippet": "Use online calculators to determine the exact amount of lumber, fasteners, and materials needed for your deck, including 15% extra for waste."
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the 3 4 5 rule for decking?",
+      "type": "ai_overview",
+      "page_token": "U3duenicHdDvbqowGIDx7Gb2cdKiO5mJWaK0IIsQSv84vpyUtyqOFupk4vy2ezlXda5myy7gSX55vv7ZY9f-v7s0w-DP88lkHMeHQ98f7O4BejfR588OJqCtrTW088c_j-h5DwvysV6uTutlIbyXEQt43ORKSMUs03mM-BYzrxG9gpipisxaUM3wqjJRu-qzVOmL3ALOk3SVS8pqYq4bm3L-lp14SK6ATK6jdJolNitDf9p1JtJxhk1oLzJadhr5oXQeS8eECGm-oU-JPgYz6JiUxEZGrae7mOICmUsZDFWtZAfUkxpVGsRw4_RpWhIYJU7fhc1mkDDGaLqqEiogMaJo0440EAgH-HUrXRkEg1YyzOOs2NDlnjvzE_THQrAbvFkntizKMAvKm2w5QR86kecfXyUwXW14g3aK5ma838NlEd7__lz83bth7t_7wzcgW4Gd",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=U3duenicHdDvbqowGIDx7Gb2cdKiO5mJWaK0IIsQSv84vpyUtyqOFupk4vy2ezlXda5myy7gSX55vv7ZY9f-v7s0w-DP88lkHMeHQ98f7O4BejfR588OJqCtrTW088c_j-h5DwvysV6uTutlIbyXEQt43ORKSMUs03mM-BYzrxG9gpipisxaUM3wqjJRu-qzVOmL3ALOk3SVS8pqYq4bm3L-lp14SK6ATK6jdJolNitDf9p1JtJxhk1oLzJadhr5oXQeS8eECGm-oU-JPgYz6JiUxEZGrae7mOICmUsZDFWtZAfUkxpVGsRw4_RpWhIYJU7fhc1mkDDGaLqqEiogMaJo0440EAgH-HUrXRkEg1YyzOOs2NDlnjvzE_THQrAbvFkntizKMAvKm2w5QR86kecfXyUwXW14g3aK5ma838NlEd7__lz83bth7t_7wzcgW4Gd",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRFOVlUM2s1ZEVGeVFWVndXVVZJYW1GTVRESXlXazgyTms1VFJHSlFNbTQ0UWpCZmVrbFdZWGR6ZWpaNlJFNVJjalJ3ZDNKQmRIUkdNRzlzVHpkc1lqZEpUakYzV21oVFVHaFdUVVIxYkRsVmVVOWlaalZ6Y0RKQlp4SVhORkpuTm1GMVprdE5MV2xsZHpoalVEQlFYMDVuVVVVYUlrRkVjM0k1WmxOMGEwZEVhVmw1T0UxTmJWUmxSMjk2ZEcxWU1tMDBNbFJ5YkdjIiwiZmN2IjoiMyIsImVpIjoiNFJnNmF1ZktNLWlldzhjUDBQX05nUUUiLCJxYyI6IkNpRmtaV05ySUdKdllYSmtJR05oYkdOMWJHRjBiM0lnYzNGMVlYSmxJR1psWlhRUUFIMEJMeWNfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAzIDQgNSBydWxlIGZvciBkZWNraW5nPyIsImxrIjoiR2hZeklEUWdOU0J5ZFd4bElHWnZjaUJrWldOcmFXNW4iLCJicyI6ImMtT3k1MUlPejBnc1VjZ3NWaWpKU0ZVd1ZqQlJNRlVvS3MxSlZVakxMMUpJU1UzT3pzeEx0emVTa0JMRExzWGx6Q1h2a1YtdWtKdVlWNmxRWEtpUUJqWXFVY0hRb01MSUFLekkza2hCU2k0RHJ4SXVQeTVsdUNFZ0FZV2tfTVNpbEdLd1JSWUdCaEJkOWhMblhJeFVwSlF5Q0tya2N1U1NBX3VxT0NPX05DY0ZaSmRSaFpFSlJFTnlmbkdKdlpHOGxHdzVQaFVDakFBIiwiaWQiOiJmY180Umc2YXVmS00taWV3OGNQMFBfTmdRRV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRFOVlUM2s1ZEVGeVFWVndXVVZJYW1GTVRESXlXazgyTms1VFJHSlFNbTQ0UWpCZmVrbFdZWGR6ZWpaNlJFNVJjalJ3ZDNKQmRIUkdNRzlzVHpkc1lqZEpUakYzV21oVFVHaFdUVVIxYkRsVmVVOWlaalZ6Y0RKQlp4SVhORkpuTm1GMVprdE5MV2xsZHpoalVEQlFYMDVuVVVVYUlrRkVjM0k1WmxOMGEwZEVhVmw1T0UxTmJWUmxSMjk2ZEcxWU1tMDBNbFJ5YkdjIiwiZmN2IjoiMyIsImVpIjoiNFJnNmF1ZktNLWlldzhjUDBQX05nUUUiLCJxYyI6IkNpRmtaV05ySUdKdllYSmtJR05oYkdOMWJHRjBiM0lnYzNGMVlYSmxJR1psWlhRUUFIMEJMeWNfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAzIDQgNSBydWxlIGZvciBkZWNraW5nPyIsImxrIjoiR2hZeklEUWdOU0J5ZFd4bElHWnZjaUJrWldOcmFXNW4iLCJicyI6ImMtT3k1MUlPejBnc1VjZ3NWaWpKU0ZVd1ZqQlJNRlVvS3MxSlZVakxMMUpJU1UzT3pzeEx0emVTa0JMRExzWGx6Q1h2a1YtdWtKdVlWNmxRWEtpUUJqWXFVY0hRb01MSUFLekkza2hCU2k0RHJ4SXVQeTVsdUNFZ0FZV2tfTVNpbEdLd1JSWUdCaEJkOWhMblhJeFVwSlF5Q0tya2N1U1NBX3VxT0NPX05DY0ZaSmRSaFpFSlJFTnlmbkdKdlpHOGxHdzVQaFVDakFBIiwiaWQiOiJmY180Umc2YXVmS00taWV3OGNQMFBfTmdRRV8yIn0%3D"
+    },
+    {
+      "question": "How many sq ft is a 10x20 deck?",
+      "type": "ai_overview",
+      "page_token": "KwjC6XicHdDbcqIwGADg6cv0snJQd-qMs1MKaFkJm58cNDc7aQIqJsAWFOGu79Kn6tPszH6P8H1-mXN9-X64nfq-7Vaz2TAMT8emOZriSTV2JruxVjMljXmX6rJa_li6P0u1jq5vwevftwDTtmUhOCREwGtRY5pwTuA35_GVuvFEWOSzKWaYLkbpJVt2dkYaJllq213KuzvaPA9Q6S1YJJXDcuzqiXO0TXk7Ukd0lIq9rFCF7MHjkTYQB3dCT7eDl5SCsbCIxY4w6FL3Za7N81LzYZ5PSYcZ2onNYvFOYI9ZIiQJZB4xKAgbM967uDK_EGchs0l9IHoUFTDNYz_15mOWu350Ug61yjvsmc0dp5ec-dkG4TQOSmI1ADRnTGFSlbHULqCoBC4qA_pyv-44ZJRDrbzkVdpEygnVGD-W6rb2H_9_rv-Utl-1H83xH9vHgz4",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KwjC6XicHdDbcqIwGADg6cv0snJQd-qMs1MKaFkJm58cNDc7aQIqJsAWFOGu79Kn6tPszH6P8H1-mXN9-X64nfq-7Vaz2TAMT8emOZriSTV2JruxVjMljXmX6rJa_li6P0u1jq5vwevftwDTtmUhOCREwGtRY5pwTuA35_GVuvFEWOSzKWaYLkbpJVt2dkYaJllq213KuzvaPA9Q6S1YJJXDcuzqiXO0TXk7Ukd0lIq9rFCF7MHjkTYQB3dCT7eDl5SCsbCIxY4w6FL3Za7N81LzYZ5PSYcZ2onNYvFOYI9ZIiQJZB4xKAgbM967uDK_EGchs0l9IHoUFTDNYz_15mOWu350Ug61yjvsmc0dp5ec-dkG4TQOSmI1ADRnTGFSlbHULqCoBC4qA_pyv-44ZJRDrbzkVdpEygnVGD-W6rb2H_9_rv-Utl-1H83xH9vHgz4",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRFOVlUM2s1ZEVGeVFWVndXVVZJYW1GTVRESXlXazgyTms1VFJHSlFNbTQ0UWpCZmVrbFdZWGR6ZWpaNlJFNVJjalJ3ZDNKQmRIUkdNRzlzVHpkc1lqZEpUakYzV21oVFVHaFdUVVIxYkRsVmVVOWlaalZ6Y0RKQlp4SVhORkpuTm1GMVprdE5MV2xsZHpoalVEQlFYMDVuVVVVYUlrRkVjM0k1WmxOMGEwZEVhVmw1T0UxTmJWUmxSMjk2ZEcxWU1tMDBNbFJ5YkdjIiwiZmN2IjoiMyIsImVpIjoiNFJnNmF1ZktNLWlldzhjUDBQX05nUUUiLCJxYyI6IkNpRmtaV05ySUdKdllYSmtJR05oYkdOMWJHRjBiM0lnYzNGMVlYSmxJR1psWlhRUUFIMEJMeWNfIiwicXVlc3Rpb24iOiJIb3cgbWFueSBzcSBmdCBpcyBhIDEweDIwIGRlY2s/IiwibGsiOiJHaDVvYjNjZ2JXRnVlU0J6Y1NCbWRDQnBjeUJoSURFd2VESXdJR1JsWTJzIiwiYnMiOiJjLU95NTFJT3owZ3NVY2dzVmlqSlNGVXdWakJSTUZVb0tzMUpWVWpMTDFKSVNVM096c3hMdHplU2tCTERMc1hsekNYdmtWLXVrSnVZVjZsUVhLaVFCallxVWNIUW9NTElBS3pJM2toQlNpNERyeEl1UHk1bHVDRWdBWVdrX01TaWxHS3dSUllHQmhCZDloTG5YSXhVcEpReUNLcmtjdVNTQV91cU9DT19OQ2NGWkpkUmhaRUpSRU55Zm5HSnZaRzhsR3c1UGhVQ2pBQSIsImlkIjoiZmNfNFJnNmF1ZktNLWlldzhjUDBQX05nUUVfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRFOVlUM2s1ZEVGeVFWVndXVVZJYW1GTVRESXlXazgyTms1VFJHSlFNbTQ0UWpCZmVrbFdZWGR6ZWpaNlJFNVJjalJ3ZDNKQmRIUkdNRzlzVHpkc1lqZEpUakYzV21oVFVHaFdUVVIxYkRsVmVVOWlaalZ6Y0RKQlp4SVhORkpuTm1GMVprdE5MV2xsZHpoalVEQlFYMDVuVVVVYUlrRkVjM0k1WmxOMGEwZEVhVmw1T0UxTmJWUmxSMjk2ZEcxWU1tMDBNbFJ5YkdjIiwiZmN2IjoiMyIsImVpIjoiNFJnNmF1ZktNLWlldzhjUDBQX05nUUUiLCJxYyI6IkNpRmtaV05ySUdKdllYSmtJR05oYkdOMWJHRjBiM0lnYzNGMVlYSmxJR1psWlhRUUFIMEJMeWNfIiwicXVlc3Rpb24iOiJIb3cgbWFueSBzcSBmdCBpcyBhIDEweDIwIGRlY2s%2FIiwibGsiOiJHaDVvYjNjZ2JXRnVlU0J6Y1NCbWRDQnBjeUJoSURFd2VESXdJR1JsWTJzIiwiYnMiOiJjLU95NTFJT3owZ3NVY2dzVmlqSlNGVXdWakJSTUZVb0tzMUpWVWpMTDFKSVNVM096c3hMdHplU2tCTERMc1hsekNYdmtWLXVrSnVZVjZsUVhLaVFCallxVWNIUW9NTElBS3pJM2toQlNpNERyeEl1UHk1bHVDRWdBWVdrX01TaWxHS3dSUllHQmhCZDloTG5YSXhVcEpReUNLcmtjdVNTQV91cU9DT19OQ2NGWkpkUmhaRUpSRU55Zm5HSnZaRzhsR3c1UGhVQ2pBQSIsImlkIjoiZmNfNFJnNmF1ZktNLWlldzhjUDBQX05nUUVfMiJ9"
+    },
+    {
+      "question": "How many deck boards for 800 sq ft?",
+      "type": "featured_snippet",
+      "snippet": "For example, if your project calls for 80 boards for 800 square feet, add another 40 square feet for waste, or four extra boards. To determine the number of deck boards you need to build your deck: Take the area of your deck (as shown in Step 1) and divide that number by the board area (Step 3)",
+      "title": "How Many Deck Boards Do I Need? - Trex",
+      "date": "Jun 13, 2023",
+      "link": "https://www.trex.com/deck-ideas/how-many-deck-boards-do-i-need-/#:~:text=For%20example%2C%20if%20your%20project,the%20board%20area%20(Step%203)",
+      "displayed_link": "https://www.trex.com › deck-ideas › how-many-deck-bo...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAXVBMVEX___9Od2AYWDklXkEASSHs8e74-vl9mImsvrS1xb2EnY_1-PaXq5-LopXd5ODU3tmgs6hcgGxwjn4PVTSpvLEAKgByloIANgDl6ucAKABkhnMATScALwDL1tC-y8Sd945GAAAAVElEQVR4AbXBRQHAMAAAsRszlLn-Ze47A01oouuHceJnXrp124_zureH7Z3gElKtw67NYy93A7uQF2a5dr-GDWDp4o7olvTmYh_A395DqXOZmApNfOAjA9Gry_QlAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRFOVlUM2s1ZEVGeVFWVndXVVZJYW1GTVRESXlXazgyTms1VFJHSlFNbTQ0UWpCZmVrbFdZWGR6ZWpaNlJFNVJjalJ3ZDNKQmRIUkdNRzlzVHpkc1lqZEpUakYzV21oVFVHaFdUVVIxYkRsVmVVOWlaalZ6Y0RKQlp4SVhORkpuTm1GMVprdE5MV2xsZHpoalVEQlFYMDVuVVVVYUlrRkVjM0k1WmxOMGEwZEVhVmw1T0UxTmJWUmxSMjk2ZEcxWU1tMDBNbFJ5YkdjIiwiZmN2IjoiMyIsImVpIjoiNFJnNmF1ZktNLWlldzhjUDBQX05nUUUiLCJxYyI6IkNpRmtaV05ySUdKdllYSmtJR05oYkdOMWJHRjBiM0lnYzNGMVlYSmxJR1psWlhRUUFIMEJMeWNfIiwicXVlc3Rpb24iOiJIb3cgbWFueSBkZWNrIGJvYXJkcyBmb3IgODAwIHNxIGZ0PyIsImxrIjoiR2lKb2IzY2diV0Z1ZVNCa1pXTnJJR0p2WVhKa2N5Qm1iM0lnT0RBd0lITnhJR1owIiwiYnMiOiJjLU95NTFJT3owZ3NVY2dzVmlqSlNGVXdWakJSTUZVb0tzMUpWVWpMTDFKSVNVM096c3hMdHplU2tCTERMc1hsekNYdmtWLXVrSnVZVjZsUVhLaVFCallxVWNIUW9NTElBS3pJM2toQlNpNERyeEl1UHk1bHVDRWdBWVdrX01TaWxHS3dSUllHQmhCZDloTG5YSXhVcEpReUNLcmtjdVNTQV91cU9DT19OQ2NGWkpkUmhaRUpSRU55Zm5HSnZaRzhsR3c1UGhVQ2pBQSIsImlkIjoiZmNfNFJnNmF1ZktNLWlldzhjUDBQX05nUUVfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRFOVlUM2s1ZEVGeVFWVndXVVZJYW1GTVRESXlXazgyTms1VFJHSlFNbTQ0UWpCZmVrbFdZWGR6ZWpaNlJFNVJjalJ3ZDNKQmRIUkdNRzlzVHpkc1lqZEpUakYzV21oVFVHaFdUVVIxYkRsVmVVOWlaalZ6Y0RKQlp4SVhORkpuTm1GMVprdE5MV2xsZHpoalVEQlFYMDVuVVVVYUlrRkVjM0k1WmxOMGEwZEVhVmw1T0UxTmJWUmxSMjk2ZEcxWU1tMDBNbFJ5YkdjIiwiZmN2IjoiMyIsImVpIjoiNFJnNmF1ZktNLWlldzhjUDBQX05nUUUiLCJxYyI6IkNpRmtaV05ySUdKdllYSmtJR05oYkdOMWJHRjBiM0lnYzNGMVlYSmxJR1psWlhRUUFIMEJMeWNfIiwicXVlc3Rpb24iOiJIb3cgbWFueSBkZWNrIGJvYXJkcyBmb3IgODAwIHNxIGZ0PyIsImxrIjoiR2lKb2IzY2diV0Z1ZVNCa1pXTnJJR0p2WVhKa2N5Qm1iM0lnT0RBd0lITnhJR1owIiwiYnMiOiJjLU95NTFJT3owZ3NVY2dzVmlqSlNGVXdWakJSTUZVb0tzMUpWVWpMTDFKSVNVM096c3hMdHplU2tCTERMc1hsekNYdmtWLXVrSnVZVjZsUVhLaVFCallxVWNIUW9NTElBS3pJM2toQlNpNERyeEl1UHk1bHVDRWdBWVdrX01TaWxHS3dSUllHQmhCZDloTG5YSXhVcEpReUNLcmtjdVNTQV91cU9DT19OQ2NGWkpkUmhaRUpSRU55Zm5HSnZaRzhsR3c1UGhVQ2pBQSIsImlkIjoiZmNfNFJnNmF1ZktNLWlldzhjUDBQX05nUUVfMiJ9"
+    },
+    {
+      "question": "What should a 12x24 deck cost?",
+      "type": "ai_overview",
+      "page_token": "VDiVk3icHdBdboIwAADg7DI-DhDHgolZrFCV8RNLf6AvCxQEpUgzmRXfdpedaqdZsu8I3_ePPF2636esHUd1XRqG1vq5GYZG1s9i6I3iOl2EIQopy0J0S-fVsd6OYuVfNdgMGhyIUtRDZppVNpFrXW2DkTF3H9JhKsmYES9fIAmjyAJ7bLeAQvBV2kFWS7RP2F3nJHDEfDCRFdjYDxSFMsVm5fB5ZWEMPIzbTbJVY0jieQ3VCUn-UmaIMRw_EGvjyKe83AUe8WkaET2RMxoPHS9C7I_5JSZijjwuVZ-Z6p5AWtRU5vUOvTOvSeEDpfzB24rxEKeW4plY5NZaE-gm3IJwewoA2sVTwjgRu_YmJIjzHrbEz62oi28xdcOQuPxwpkB0yJ4dxW1lz_7HVh_Hflyqz6H5A7Lkd9Y",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VDiVk3icHdBdboIwAADg7DI-DhDHgolZrFCV8RNLf6AvCxQEpUgzmRXfdpedaqdZsu8I3_ePPF2636esHUd1XRqG1vq5GYZG1s9i6I3iOl2EIQopy0J0S-fVsd6OYuVfNdgMGhyIUtRDZppVNpFrXW2DkTF3H9JhKsmYES9fIAmjyAJ7bLeAQvBV2kFWS7RP2F3nJHDEfDCRFdjYDxSFMsVm5fB5ZWEMPIzbTbJVY0jieQ3VCUn-UmaIMRw_EGvjyKe83AUe8WkaET2RMxoPHS9C7I_5JSZijjwuVZ-Z6p5AWtRU5vUOvTOvSeEDpfzB24rxEKeW4plY5NZaE-gm3IJwewoA2sVTwjgRu_YmJIjzHrbEz62oi28xdcOQuPxwpkB0yJ4dxW1lz_7HVh_Hflyqz6H5A7Lkd9Y",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRFOVlUM2s1ZEVGeVFWVndXVVZJYW1GTVRESXlXazgyTms1VFJHSlFNbTQ0UWpCZmVrbFdZWGR6ZWpaNlJFNVJjalJ3ZDNKQmRIUkdNRzlzVHpkc1lqZEpUakYzV21oVFVHaFdUVVIxYkRsVmVVOWlaalZ6Y0RKQlp4SVhORkpuTm1GMVprdE5MV2xsZHpoalVEQlFYMDVuVVVVYUlrRkVjM0k1WmxOMGEwZEVhVmw1T0UxTmJWUmxSMjk2ZEcxWU1tMDBNbFJ5YkdjIiwiZmN2IjoiMyIsImVpIjoiNFJnNmF1ZktNLWlldzhjUDBQX05nUUUiLCJxYyI6IkNpRmtaV05ySUdKdllYSmtJR05oYkdOMWJHRjBiM0lnYzNGMVlYSmxJR1psWlhRUUFIMEJMeWNfIiwicXVlc3Rpb24iOiJXaGF0IHNob3VsZCBhIDEyeDI0IGRlY2sgY29zdD8iLCJsayI6IkdoMTNhR0YwSUhOb2IzVnNaQ0JoSURFeWVESTBJR1JsWTJzZ1kyOXpkQSIsImJzIjoiYy1PeTUxSU96MGdzVWNnc1ZpakpTRlV3VmpCUk1GVW9LczFKVlVqTEwxSklTVTNPenN4THR6ZVNrQkxETHNYbHpDWHZrVi11a0p1WVY2bFFYS2lRQmpZcVVjSFFvTUxJQUt6STNraEJTaTREcnhJdVB5NWx1Q0VnQVlXa19NU2lsR0t3UlJZR0JoQmQ5aExuWEl4VXBKUXlDS3JrY3VTU0FfdXFPQ09fTkNjRlpKZFJoWkVKUkVOeWZuR0p2Wkc4bEd3NVBoVUNqQUEiLCJpZCI6ImZjXzRSZzZhdWZLTS1pZXc4Y1AwUF9OZ1FFXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRFOVlUM2s1ZEVGeVFWVndXVVZJYW1GTVRESXlXazgyTms1VFJHSlFNbTQ0UWpCZmVrbFdZWGR6ZWpaNlJFNVJjalJ3ZDNKQmRIUkdNRzlzVHpkc1lqZEpUakYzV21oVFVHaFdUVVIxYkRsVmVVOWlaalZ6Y0RKQlp4SVhORkpuTm1GMVprdE5MV2xsZHpoalVEQlFYMDVuVVVVYUlrRkVjM0k1WmxOMGEwZEVhVmw1T0UxTmJWUmxSMjk2ZEcxWU1tMDBNbFJ5YkdjIiwiZmN2IjoiMyIsImVpIjoiNFJnNmF1ZktNLWlldzhjUDBQX05nUUUiLCJxYyI6IkNpRmtaV05ySUdKdllYSmtJR05oYkdOMWJHRjBiM0lnYzNGMVlYSmxJR1psWlhRUUFIMEJMeWNfIiwicXVlc3Rpb24iOiJXaGF0IHNob3VsZCBhIDEyeDI0IGRlY2sgY29zdD8iLCJsayI6IkdoMTNhR0YwSUhOb2IzVnNaQ0JoSURFeWVESTBJR1JsWTJzZ1kyOXpkQSIsImJzIjoiYy1PeTUxSU96MGdzVWNnc1ZpakpTRlV3VmpCUk1GVW9LczFKVlVqTEwxSklTVTNPenN4THR6ZVNrQkxETHNYbHpDWHZrVi11a0p1WVY2bFFYS2lRQmpZcVVjSFFvTUxJQUt6STNraEJTaTREcnhJdVB5NWx1Q0VnQVlXa19NU2lsR0t3UlJZR0JoQmQ5aExuWEl4VXBKUXlDS3JrY3VTU0FfdXFPQ09fTkNjRlpKZFJoWkVKUkVOeWZuR0p2Wkc4bEd3NVBoVUNqQUEiLCJpZCI6ImZjXzRSZzZhdWZLTS1pZXc4Y1AwUF9OZ1FFXzIifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "To calculate the number of deck boards you need based on square footage, multiply your deck's total square footage by 1.10 to add a 10% buffer for waste, then divide that number by the total square footage of a single deck board. YouTube·Buyers Guides +1",
+        "snippet_links": [
+          {
+            "link": "https://www.youtube.com/watch?v=HN1GdyhM3e4"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "multiply your deck's total square footage by 1.10 to add a 10% buffer for waste, then divide that number by the total square footage of a single deck board"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Step-by-Step Calculation"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "1. Measure Deck Area: Measure the length and width of your deck in feet, and multiply them to get the total square footage.",
+            "list": [
+              {
+                "snippet": "Example: $20\\text{ ft (length)} \\times 13\\text{ ft (width)} = 260\\text{ sq. ft}$ Decks.com +1",
+                "snippet_links": [
+                  {
+                    "link": "https://www.decks.com/calculators/decking-calculator/"
+                  }
+                ],
+                "snippet_latex": [
+                  "20\\text{ ft (length)} \\times 13\\text{ ft (width)} = 260\\text{ sq. ft}"
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "2. Calculate Board Area: Multiply the length of your chosen deck board by its width (remembering to convert inches to feet by dividing by 12).",
+            "list": [
+              {
+                "snippet": "Example: An 8 ft board by 6 in wide: 8 ft × 0.5 ft = 4 sq. ft per board"
+              }
+            ]
+          },
+          {
+            "snippet": "3. Estimate Boards Needed: Divide the deck square footage by the board square footage, then multiply by 1.10 for waste/cuts.",
+            "list": [
+              {
+                "snippet": "Example: 260 ÷ 4 = 65. Add 10% for waste → 65 × 1.10 = 71.5, which rounds up to 72 boards. YouTube·Buyers Guides +1",
+                "snippet_links": [
+                  {
+                    "link": "https://www.youtube.com/watch?v=HN1GdyhM3e4"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Useful Calculators"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "To automate the math and account for intricate joist spacing, unique deck angles, or specific fastener requirements, use these official builder tools:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "The Home Depot: Use the Home Depot Decking Calculator for simple board quantity and layout estimates.",
+            "snippet_links": [
+              {
+                "text": "Home Depot Decking Calculator",
+                "link": "https://www.homedepot.com/project-seller/decking-calculator"
+              }
+            ]
+          },
+          {
+            "snippet": "Trex: Use the Trex Plan Your Deck Tool to estimate total materials and budget.",
+            "snippet_links": [
+              {
+                "text": "Trex Plan Your Deck Tool",
+                "link": "https://www.trex.com/build-your-deck/planyourdeck/deck-cost-landing/productcalculator/"
+              }
+            ]
+          },
+          {
+            "snippet": "Decks.com: Input precise dimensions into the Decks.com Decking Calculator for tailored material lists.",
+            "snippet_links": [
+              {
+                "text": "Decks.com Decking Calculator",
+                "link": "https://www.decks.com/calculators/decking-calculator/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "Deck Board & Materials Calculator - Decks.com",
+        "link": "https://www.decks.com/calculators/decking-calculator/",
+        "snippet": "How Do I Measure a Deck? To determine your deck's measurements, you'll want to measure its length and width from the longest point...",
+        "source": "Decks.com",
+        "index": 0
+      },
+      {
+        "title": "Decking Calculator - Omni Calculator",
+        "link": "https://www.omnicalculator.com/construction/decking",
+        "snippet": "Let's say you want a deck that is 20 ft long and 13 ft wide. To calculate the square footage of the deck, multiply the two numbers...",
+        "source": "Omni Calculator",
+        "index": 1
+      },
+      {
+        "title": "Deck Cost Calculator (Free tool to estimate materials)",
+        "link": "https://www.youtube.com/watch?v=HN1GdyhM3e4",
+        "snippet": "A free tool exists that helps in estimating the cost of deck materials. This calculator uses 25 different lines from five differen...",
+        "source": "YouTube",
+        "index": 2
+      },
+      {
+        "title": "Deck Board Material Calculator",
+        "link": "https://www.inchcalculator.com/deck-flooring-calculator/",
+        "snippet": "Remember the Stairs In addition to measuring the deck area, measure how much lumber you'll need for stairs as well. Use the same method to calculate your boards: g...",
+        "source": "Inch Calculator",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXRJ6Ts9bfbpyc0ykFlkxFQCK7UYsuXx43a_0qvqyILhDd1vuWQkB00tOHDil8thNMhjmGdThgalBONhE",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.inchcalculator.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 3
+      },
+      {
+        "title": "How to calculate how much decking you need - TimberTech",
+        "link": "https://www.timbertech.com/ideas/how-to-calculate-how-much-decking-you-need/",
+        "snippet": "Spacing (S) = 0.125 x (n-2) EXAMPLE: In Step 4, you calculated 27 deck boards (n). So, take 27 minus 2 to get 25, and then multiply 0.125 by 25 to get 3.125 inches...",
+        "source": "TimberTech",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2q0VcSxRp85LuP5DbnBjNdH_4D5hfqlmIiDEJugm_xUXQCn2u37ff10ZyjvxowYwCUz4L3jFHA5tFVRU",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timbertech.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 4
+      },
+      {
+        "title": "4 Decking Calculators You Need to Know About (Cost & Materials)",
+        "link": "https://bossdecks.com/blog/decking-calculators/",
+        "snippet": "But the difference is that you then move to enter whether you have an existing substructure. This allows the Trex ( Trex Decking ) calculator to determine how much...",
+        "source": "Boss Deck",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjJIooFSk0OS1fdEJ-uJm3xclNTjLsCJ_9EkkimIMQK_FSajuMfTdTGwaVUfN256UOX3eIfQJi7mpj2EQ",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bossdecks.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "Cost to Build a Composite Deck: Deck Pricing",
+        "link": "https://ch.trex.com/build-your-deck/planyourdeck/deck-cost-landing/",
+        "snippet": "Are you ready to build a deck that fits your budget? Get a deck material cost estimate with the Trex Cost Calculator tool. Plug in your deck dimensions and answer ...",
+        "source": "Trex",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmoPzFIg7pElg8LVXC-Fvu3x5zeObNr2W5P0wBfKeQPz_mTlNS0-fmYBhWukFP7vD2QvxNoxj7YC5C0zA",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://ch.trex.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "Plan Before You Build | TIMBER MART",
+        "link": "https://timbermart.ca/en/magazines/plan-before-you-build/",
+        "snippet": "(Pssst! Porches are just decks that are attached to the front of your house — it's true!) Trex has a free online tool where you design and price your new porch, ri...",
+        "source": "timber mart",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToszP1qwMi41PZDOYtpx_rrXP_m3wjul666JDcRoImIXiwV_pabwKmkCfkibKc1oDpCRC4MdQkRrrLd6s",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://timbermart.ca&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "Deck Boards Count - vCalc",
+        "link": "https://www.vcalc.com/wiki/deck-boards-calculator",
+        "snippet": "Number of Boards (nB): The calculator returns the number of decking boards needed to achieve the specified surface area. If the width (W) is less than 24 feet, the...",
+        "source": "vCalc",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpflGVo0CM_ut5DJTs3axBqdI6Fsmxy_FQVOV2OnJ6JO2izfT0BRJ9T8OHxmifnsT0hWJ1BXWN61tNrqs",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.vcalc.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Deck Board & Materials Calculator",
+      "link": "https://www.decks.com/calculators/decking-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.decks.com/calculators/decking-calculator/&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQFnoECBsQAQ",
+      "displayed_link": "https://www.decks.com › calculators › decking-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEUgGUcgGUcgGUcgGEYgGUcgGUcgGUcgGUdHcEwgGUcgGUcgGUcgGUcgGUcgGUcgGEcgGUeiqDE2AAAAEXRSTlOO_9QQHuz7cwC3PlGhZPUtS8VjzywAAADVSURBVHgBfZJRrsUgCEQBVKlt1f2v9uUJwofNna-JJxmmUABcIk55mVLFBXLpG0kruHQHZCF9e-RV04dDEsvDKj5iQ3x2XrltBF4OESLPRzjE1_PS2CMclhZ50ysbxJzY8kCqmjw2LMSflWHnta4uKjuMynmwV1aoef1fhXjQcvg6xClJxcLmFGrcXLpZhpq2YZlR5O6WBXh8QmwJfpQ1eH1dxiDJOBdkMKeIqn49g59HMfhGVKzfYD2Lghh8pPn-PH1DSf0s6vD4bZs4BFp6ZJAqmPwBdtQNs14ylOUAAAAASUVORK5CYII.png",
+      "snippet": "How Many Deck Boards Do I Need? · Total square footage · Length x Width in feet and inches (total length of your deck's perimeter).",
+      "snippet_highlighted_words": [
+        "Total square footage"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "How Many Deck Boards Do I Need? · Total square footage · Length x Width in feet and inches (total length of your deck's perimeter).",
+          "source_info_link": "https://www.decks.com/calculators/decking-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEUgGUcgGUcgGUcgGEYgGUcgGUcgGUcgGUdHcEwgGUcgGUcgGUcgGUcgGUcgGUcgGEcgGUeiqDE2AAAAEXRSTlOO_9QQHuz7cwC3PlGhZPUtS8VjzywAAADVSURBVHgBfZJRrsUgCEQBVKlt1f2v9uUJwofNna-JJxmmUABcIk55mVLFBXLpG0kruHQHZCF9e-RV04dDEsvDKj5iQ3x2XrltBF4OESLPRzjE1_PS2CMclhZ50ysbxJzY8kCqmjw2LMSflWHnta4uKjuMynmwV1aoef1fhXjQcvg6xClJxcLmFGrcXLpZhpq2YZlR5O6WBXh8QmwJfpQ1eH1dxiDJOBdkMKeIqn49g59HMfhGVKzfYD2Lghh8pPn-PH1DSf0s6vD4bZs4BFp6ZJAqmPwBdtQNs14ylOUAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.decks.com/calculators/decking-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.decks.com%2Fcalculators%2Fdecking-calculator%2F",
+      "source": "Decks.com",
+      "read_more_link": "https://www.decks.com/calculators/decking-calculator/#:~:text=How%20Many%20Deck%20Boards%20Do,I%20Need%3F&text=Total%20square%20footage&text=Length%20x%20Width%20in%20feet,length%20of%20your%20deck's%20perimeter)"
+    },
+    {
+      "position": 2,
+      "title": "Home Depot Decking Calculator",
+      "link": "https://www.homedepot.com/project-seller/decking-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.homedepot.com/project-seller/decking-calculator&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQFnoECCIQAQ",
+      "displayed_link": "https://www.homedepot.com › project-seller › decking-c...",
+      "favicon": "https://serpapi.com/searches/6a3a18e00fa72e02ee21f582/images/u2rlI-6pmgbOtGZ-w0-zk96SdNpeNdQ5MVklYe1Yt2Q.png",
+      "snippet": "Need Help? Visit our Customer Service Center orText 38698. © 2000-2026 Home Depot. All Rights Reserved. Use of this site is subject to certain Terms Of ...",
+      "about_this_result": {
+        "source": {
+          "description": "Need Help? Visit our Customer Service Center orText 38698. © 2000-2026 Home Depot. All Rights Reserved. Use of this site is subject to certain Terms Of ...",
+          "source_info_link": "https://www.homedepot.com/project-seller/decking-calculator",
+          "icon": "https://serpapi.com/searches/6a3a18e00fa72e02ee21f582/images/u2rlI-6pmgbOtGZ-w0-zk-4tQdjrBZb85E_UVrBuE30l_2rv5JLAxhztv2kNfqP0.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.homedepot.com/project-seller/decking-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.homedepot.com%2Fproject-seller%2Fdecking-calculator",
+      "source": "The Home Depot",
+      "read_more_link": "https://www.homedepot.com/project-seller/decking-calculator#:~:text=Need%20Help%3F,Customer%20Service%20Center%20orText%2038698"
+    },
+    {
+      "position": 3,
+      "title": "Decking Calculator",
+      "link": "https://www.omnicalculator.com/construction/decking",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.omnicalculator.com/construction/decking&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQFnoECCEQAQ",
+      "displayed_link": "https://www.omnicalculator.com › construction › decking",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz8YXX8SWD8RV78RV38TmT8QFn8U2lCbfo-avpEbvpKc_o7aPpAbPo_a_r8R1_LvM1BbPpIcvpAbPo9avr8RFxFb_pPd_pjhvlIcfr8dIb60Cz6zh76zh36zRf6zA_6zA7510r6zh360Cn61DzYpcloAAAAJXRSTlMAFWuqzkr_Lonjczn_v86KBKZPtPjjXiUNRQgvbaDP__8LjkkVqtFInQAAAPBJREFUeAFt0QWWhEAMRdGPywRacNf9r3Eq5HQYqXsEeUgJlON6vu-7sAj8UET4y-GkMU5S3KLwBnwRUWZtHpCRkUM4n-A_XBd40uUl0ZfkORC51DeMQFoAVRArYVTaVEas_ozmAcVKGRMeIXuCNWktJymxFr5MgMX8pwZGS6yTX7owOmIJWEJGCte0qofxokujQ4qBZ8_JHpXts8AwToN9QMC8rOtinwq2xVh3-yI854Ud1uXDsUq1LvxzlnpCvBPdMuNcLgNQp-mrJPGCGHhIM0_llgNaV34xIZXhdu4Hz1yl-Etj3OK_Os_zIu6gvgFLyRf2XteplQAAAABJRU5ErkJggg.png",
+      "snippet": "Let's calculate the square footage of one decking board: 8 ft × 0.5 ft = 4 ft². Now, we can calculate the number of decking boards needed. We divide the deck ...",
+      "snippet_highlighted_words": [
+        "calculate",
+        "square footage of",
+        "decking board",
+        "calculate",
+        "decking boards"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Let's calculate the square footage of one decking board: 8 ft × 0.5 ft = 4 ft². Now, we can calculate the number of decking boards needed. We divide the deck ...",
+          "source_info_link": "https://www.omnicalculator.com/construction/decking",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz8YXX8SWD8RV78RV38TmT8QFn8U2lCbfo-avpEbvpKc_o7aPpAbPo_a_r8R1_LvM1BbPpIcvpAbPo9avr8RFxFb_pPd_pjhvlIcfr8dIb60Cz6zh76zh36zRf6zA_6zA7510r6zh360Cn61DzYpcloAAAAJXRSTlMAFWuqzkr_Lonjczn_v86KBKZPtPjjXiUNRQgvbaDP__8LjkkVqtFInQAAAPBJREFUeAFt0QWWhEAMRdGPywRacNf9r3Eq5HQYqXsEeUgJlON6vu-7sAj8UET4y-GkMU5S3KLwBnwRUWZtHpCRkUM4n-A_XBd40uUl0ZfkORC51DeMQFoAVRArYVTaVEas_ozmAcVKGRMeIXuCNWktJymxFr5MgMX8pwZGS6yTX7owOmIJWEJGCte0qofxokujQ4qBZ8_JHpXts8AwToN9QMC8rOtinwq2xVh3-yI854Ud1uXDsUq1LvxzlnpCvBPdMuNcLgNQp-mrJPGCGHhIM0_llgNaV34xIZXhdu4Hz1yl-Etj3OK_Os_zIu6gvgFLyRf2XteplQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.omnicalculator.com/construction/decking&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.omnicalculator.com%2Fconstruction%2Fdecking",
+      "source": "Omni Calculator",
+      "read_more_link": "https://www.omnicalculator.com/construction/decking#:~:text=Let's%20calculate%20the%20square%20footage,10%25%20to%20account%20for%20waste%3A"
+    },
+    {
+      "position": 4,
+      "title": "2025 Deck Cost Calculator | Composite Deck Cost Estimator",
+      "link": "https://www.trex.com/build-your-deck/planyourdeck/deck-cost-landing/productcalculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.trex.com/build-your-deck/planyourdeck/deck-cost-landing/productcalculator/&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQFnoECBwQAQ",
+      "displayed_link": "https://www.trex.com › planyourdeck › productcalculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEX____8_v1si3kAOwAAQxcASSAAQRQAMQDO2dSarqJig3FAblUASyYXVzfi6eWjtqv2-PeCnY5SeWOuvrVfg2-Lp5h8loZ0kYDn7usANwAAPw_E0cq8y8J7m4kANQCyxLrX39oAUy1kinXH1M03aU4ALQCJoZTzRInYAAAArElEQVR4Ae1QhWHDMBA8oQVmZrb337AN8wbJCZ4R3wJCTv9nI2VcCOmoj0ZtrOtR4-MzAm7DKFJxgiCNI19lWQgkeaHKYyy3fuXWlbaMRl7VtF1EEta3IBej5AOSKh7HhE9I5pTXLYCLsRZA5Lp9z1xWQh99H4wuoOscCJcFbc3njFyM8hhJUNYyCtbNKMaSYe7Cs1FYn08ARst6d1-4CICDtcQzwvK2rAvzwz8qIQp3H5P2hwAAAABJRU5ErkJggg.png",
+      "date": "May 1, 2019",
+      "snippet": "Use our deck cost calculator to estimate how much it would cost to build your dream deck with Trex. Plan and customize your outdoor oasis ...",
+      "snippet_highlighted_words": [
+        "Use our deck cost calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our deck cost calculator to estimate how much it would cost to build your dream deck with Trex. Plan and customize your outdoor oasis ...",
+          "source_info_link": "https://www.trex.com/build-your-deck/planyourdeck/deck-cost-landing/productcalculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEX____8_v1si3kAOwAAQxcASSAAQRQAMQDO2dSarqJig3FAblUASyYXVzfi6eWjtqv2-PeCnY5SeWOuvrVfg2-Lp5h8loZ0kYDn7usANwAAPw_E0cq8y8J7m4kANQCyxLrX39oAUy1kinXH1M03aU4ALQCJoZTzRInYAAAArElEQVR4Ae1QhWHDMBA8oQVmZrb337AN8wbJCZ4R3wJCTv9nI2VcCOmoj0ZtrOtR4-MzAm7DKFJxgiCNI19lWQgkeaHKYyy3fuXWlbaMRl7VtF1EEta3IBej5AOSKh7HhE9I5pTXLYCLsRZA5Lp9z1xWQh99H4wuoOscCJcFbc3njFyM8hhJUNYyCtbNKMaSYe7Cs1FYn08ARst6d1-4CICDtcQzwvK2rAvzwz8qIQp3H5P2hwAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.trex.com/build-your-deck/planyourdeck/deck-cost-landing/productcalculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.trex.com%2Fbuild-your-deck%2Fplanyourdeck%2Fdeck-cost-landing%2Fproductcalculator%2F",
+      "source": "Trex"
+    },
+    {
+      "position": 5,
+      "title": "Square Footage Calculator for Decking",
+      "link": "https://www.mataverdedecking.com/square-footage-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mataverdedecking.com/square-footage-calculator&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQFnoECCMQAQ",
+      "displayed_link": "https://www.mataverdedecking.com › square-footage-c...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEX____m7Oa-zr7J1sna49rR3dHD0cOwxLAAVgAAWABMgkyJqYkAUQAAWwDg6OAAXgAAYgAAZAAAYAC1x7UOZw5BfEEAVAD09_QzdjN6nnpThlOguKCBo4GXs5cASAAfbB8ATQA6eDonbydailprlWuNq40AQwBlkWW0QSnxAAABB0lEQVR4AYXSRXbEMBAA0RIYFDPDmCn3v2GyteW81Ebq_tvm_4RUSmnAcX8_UtxQe77xvwA3CE3kxdxL0iwHKKKshCdWad0AQZvaGHW5cYC-S2w0nyTygORT51B4N6xVlAzQlJ8BxkneMBQm_QLtgZqjWtxwoc58gGIOh2TlgZu_wyeZDqf05RP3AF0ua1yYfOOJGm8xUqwmC2ML8aaKM0yz0MPCeOlZoywLPzzraFOqJMt9iZXWl96T1K8aBlvP4-ObUiLa3MZeXqsERlPa2PQx4gOf6AVPmjI83vFoIIw-7-gDm3HfMQKOULyjAcaFN4yLsIiRGXjf9fM0hatcQeOAdK2j_qMf8rEQ0IaW5WwAAAAASUVORK5CYII.png",
+      "snippet": "A great tool to calculate the lineal feet of decking you need based on your square footage. Works for straight and diagonal layouts of 1x4 and 1x6 decking.",
+      "snippet_highlighted_words": [
+        "calculate the lineal feet of decking you need based on your square footage"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A great tool to calculate the lineal feet of decking you need based on your square footage. Works for straight and diagonal layouts of 1x4 and 1x6 decking.",
+          "source_info_link": "https://www.mataverdedecking.com/square-footage-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEX____m7Oa-zr7J1sna49rR3dHD0cOwxLAAVgAAWABMgkyJqYkAUQAAWwDg6OAAXgAAYgAAZAAAYAC1x7UOZw5BfEEAVAD09_QzdjN6nnpThlOguKCBo4GXs5cASAAfbB8ATQA6eDonbydailprlWuNq40AQwBlkWW0QSnxAAABB0lEQVR4AYXSRXbEMBAA0RIYFDPDmCn3v2GyteW81Ebq_tvm_4RUSmnAcX8_UtxQe77xvwA3CE3kxdxL0iwHKKKshCdWad0AQZvaGHW5cYC-S2w0nyTygORT51B4N6xVlAzQlJ8BxkneMBQm_QLtgZqjWtxwoc58gGIOh2TlgZu_wyeZDqf05RP3AF0ua1yYfOOJGm8xUqwmC2ML8aaKM0yz0MPCeOlZoywLPzzraFOqJMt9iZXWl96T1K8aBlvP4-ObUiLa3MZeXqsERlPa2PQx4gOf6AVPmjI83vFoIIw-7-gDm3HfMQKOULyjAcaFN4yLsIiRGXjf9fM0hatcQeOAdK2j_qMf8rEQ0IaW5WwAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.mataverdedecking.com/square-footage-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.mataverdedecking.com%2Fsquare-footage-calculator",
+      "source": "Mataverde Decking"
+    },
+    {
+      "position": 6,
+      "title": "Deck Board Material Calculator",
+      "link": "https://www.inchcalculator.com/deck-flooring-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.inchcalculator.com/deck-flooring-calculator/&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQFnoECD4QAQ",
+      "displayed_link": "https://www.inchcalculator.com › ... › Deck & Patio",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEX____-7u3-_v73hXnzOxj0QSL2f3H2cWH0TDP2ZVL3iXz1aln-___0QiT0RSj0Tzf0SS71SzH5q6P5qKD4nZP829j81tL-9_b2dmb1Ujv70s78zsr7xL75qqL84N798_Jz-ZaoAAAA-0lEQVR4AYWSBQ7DMAxFvUDRDYzL97_lYqtJUdoTBJ7yHYL_3E4AI4QAqbTaoVXGgsiLspIbqrKoAcmQbOCAqVNsbhDFBgRbsxDAMvWpYYmxpoEDruaGpc_ujw136Tc1rTU60HjfUGuKpSYRZEUrnkXxpLaydhNrzQsI57h5mSg51rxBAH6c-9Am3yYeJUkRJSZJsAyQpJbln5rpKOU3ENqc2tLuYlvH52tbQ61rd7H-3vV9P3g_hKYb_S7WTLwh40SqiekozQvpKOb6KK9l5eko-9gkBddMK-dlZbfGkmy9I9qWG9_aElAAU6nmgJIs-MvMJxBjLCAc4Zkf-j0WOq1Cgi4AAAAASUVORK5CYII.png",
+      "snippet": "Multiply the deck's length in feet times the width in feet to find the square footage. For example, a deck that is 10′ wide by 20′ long has 200 sq ft (10 × 20 = ...",
+      "snippet_highlighted_words": [
+        "Multiply the deck's length in feet times the width in feet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Multiply the deck's length in feet times the width in feet to find the square footage. For example, a deck that is 10′ wide by 20′ long has 200 sq ft (10 × 20 = ...",
+          "source_info_link": "https://www.inchcalculator.com/deck-flooring-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEX____-7u3-_v73hXnzOxj0QSL2f3H2cWH0TDP2ZVL3iXz1aln-___0QiT0RSj0Tzf0SS71SzH5q6P5qKD4nZP829j81tL-9_b2dmb1Ujv70s78zsr7xL75qqL84N798_Jz-ZaoAAAA-0lEQVR4AYWSBQ7DMAxFvUDRDYzL97_lYqtJUdoTBJ7yHYL_3E4AI4QAqbTaoVXGgsiLspIbqrKoAcmQbOCAqVNsbhDFBgRbsxDAMvWpYYmxpoEDruaGpc_ujw136Tc1rTU60HjfUGuKpSYRZEUrnkXxpLaydhNrzQsI57h5mSg51rxBAH6c-9Am3yYeJUkRJSZJsAyQpJbln5rpKOU3ENqc2tLuYlvH52tbQ61rd7H-3vV9P3g_hKYb_S7WTLwh40SqiekozQvpKOb6KK9l5eko-9gkBddMK-dlZbfGkmy9I9qWG9_aElAAU6nmgJIs-MvMJxBjLCAc4Zkf-j0WOq1Cgi4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.inchcalculator.com/deck-flooring-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.inchcalculator.com%2Fdeck-flooring-calculator%2F",
+      "source": "Inch Calculator",
+      "read_more_link": "https://www.inchcalculator.com/deck-flooring-calculator/#:~:text=Multiply%20the%20deck's%20length%20in,(10%20%C3%97%2020%20%3D%20200)."
+    },
+    {
+      "position": 7,
+      "title": "Deck Calculator: Joist Spacing, Boards & Materials",
+      "link": "https://ls-usa.com/deck-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ls-usa.com/deck-calculator&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQFnoECEUQAQ",
+      "displayed_link": "https://ls-usa.com › deck-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAyklEQVR4AWIYZCBmJ6BZOoRhGASiMOwdXs2b1czjFV7VK7zCm3pVr_AKrybmg1d41f0kj-TGsqZyTb5QSu7oHQQkY7ka6PBExYaksSHDXQne-_TxugfEaa2cJUgoCnZoqNMGFavmn2VpMSjBigMRVe-hB8uGAxlK1D_oUVAZwTIa21SOw65EYSSwuyczRtOHhgAvCW6U0Bu3mT9ocmMN2vGbt00cZXjsOLBOR1wmi-3yOMaIBG-P8Yc8Gnkzu6TLF-nkKmeN1PjvzxtjgOJZnzQICQAAAABJRU5ErkJggg.png",
+      "snippet": "The tool calculates the total square footage or meters automatically. Enter Board Dimensions: Provide the length and width of your decking boards. The ...",
+      "snippet_highlighted_words": [
+        "total square footage"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The tool calculates the total square footage or meters automatically. Enter Board Dimensions: Provide the length and width of your decking boards. The ...",
+          "source_info_link": "https://ls-usa.com/deck-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAyklEQVR4AWIYZCBmJ6BZOoRhGASiMOwdXs2b1czjFV7VK7zCm3pVr_AKrybmg1d41f0kj-TGsqZyTb5QSu7oHQQkY7ka6PBExYaksSHDXQne-_TxugfEaa2cJUgoCnZoqNMGFavmn2VpMSjBigMRVe-hB8uGAxlK1D_oUVAZwTIa21SOw65EYSSwuyczRtOHhgAvCW6U0Bu3mT9ocmMN2vGbt00cZXjsOLBOR1wmi-3yOMaIBG-P8Yc8Gnkzu6TLF-nkKmeN1PjvzxtjgOJZnzQICQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ls-usa.com/deck-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fls-usa.com%2Fdeck-calculator",
+      "source": "LS Building Products",
+      "read_more_link": "https://ls-usa.com/deck-calculator#:~:text=The%20tool%20calculates%20the%20total,need%2C%20including%20a%2010%25%20overage."
+    },
+    {
+      "position": 8,
+      "title": "Decking Cost Calculator | AZEK & TimberTech",
+      "link": "https://azekexteriors.com/resources/decking-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://azekexteriors.com/resources/decking-calculator&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQFnoECEAQAQ",
+      "displayed_link": "https://azekexteriors.com › resources › decking-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAAAJUlEQVR4AWOY0d-GhhbPnsyAB1y5cIaqekb1UK5hVDUuQGo0AQAqVeARCnimhQAAAABJRU5ErkJggg.png",
+      "snippet": "Estimate how much it would cost to build a deck and railing outdoor space with our deck cost calculator.",
+      "snippet_highlighted_words": [
+        "deck",
+        "deck",
+        "calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Estimate how much it would cost to build a deck and railing outdoor space with our deck cost calculator.",
+          "source_info_link": "https://azekexteriors.com/resources/decking-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAAAJUlEQVR4AWOY0d-GhhbPnsyAB1y5cIaqekb1UK5hVDUuQGo0AQAqVeARCnimhQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://azekexteriors.com/resources/decking-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fazekexteriors.com%2Fresources%2Fdecking-calculator",
+      "source": "AZEK Exteriors"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Deck board calculator square feet free",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Deck+board+calculator+square+feet+free&sa=X&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deck+board+calculator+square+feet+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Deck board calculator with spacing",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Deck+board+calculator+with+spacing&sa=X&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deck+board+calculator+with+spacing"
+    },
+    {
+      "block_position": 1,
+      "query": "Decking calculator app",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Decking+calculator+app&sa=X&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Decking+calculator+app"
+    },
+    {
+      "block_position": 1,
+      "query": "Trex decking calculator square feet",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Trex+decking+calculator+square+feet&sa=X&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Trex+decking+calculator+square+feet"
+    },
+    {
+      "block_position": 1,
+      "query": "How many deck boards do I need for a 16x16 deck",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+many+deck+boards+do+I+need+for+a+16x16+deck&sa=X&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+deck+boards+do+I+need+for+a+16x16+deck"
+    },
+    {
+      "block_position": 1,
+      "query": "Best free deck calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Best+free+deck+calculator&sa=X&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+free+deck+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Home Depot deck calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Home+Depot+deck+calculator&sa=X&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Home+Depot+deck+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Deck calculator menards",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Deck+calculator+menards&sa=X&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deck+calculator+menards"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=deck+board+calculator+square+feet&sca_esv=bbb7d61e8d3bb37e&ei=4Rg6aufKM-iew8cP0P_NgQE&start=10&sa=N&sstk=AU9db-C08pZcAgbtz89YhStgYbhgvYHcMSodTfcRHzGwoqLDP7GenbSB45iinN_sosLU71tRbHrMY6cj3bIBJoUh2G2WQTqrw_I5UQ&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ8NMDegQINBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=deck+board+calculator+square+feet&sca_esv=bbb7d61e8d3bb37e&ei=4Rg6aufKM-iew8cP0P_NgQE&start=10&sa=N&sstk=AU9db-C08pZcAgbtz89YhStgYbhgvYHcMSodTfcRHzGwoqLDP7GenbSB45iinN_sosLU71tRbHrMY6cj3bIBJoUh2G2WQTqrw_I5UQ&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ8tMDegQINBAE",
+      "3": "https://www.google.com/search?q=deck+board+calculator+square+feet&sca_esv=bbb7d61e8d3bb37e&ei=4Rg6aufKM-iew8cP0P_NgQE&start=20&sa=N&sstk=AU9db-C08pZcAgbtz89YhStgYbhgvYHcMSodTfcRHzGwoqLDP7GenbSB45iinN_sosLU71tRbHrMY6cj3bIBJoUh2G2WQTqrw_I5UQ&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ8tMDegQINBAG",
+      "4": "https://www.google.com/search?q=deck+board+calculator+square+feet&sca_esv=bbb7d61e8d3bb37e&ei=4Rg6aufKM-iew8cP0P_NgQE&start=30&sa=N&sstk=AU9db-C08pZcAgbtz89YhStgYbhgvYHcMSodTfcRHzGwoqLDP7GenbSB45iinN_sosLU71tRbHrMY6cj3bIBJoUh2G2WQTqrw_I5UQ&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ8tMDegQINBAI",
+      "5": "https://www.google.com/search?q=deck+board+calculator+square+feet&sca_esv=bbb7d61e8d3bb37e&ei=4Rg6aufKM-iew8cP0P_NgQE&start=40&sa=N&sstk=AU9db-C08pZcAgbtz89YhStgYbhgvYHcMSodTfcRHzGwoqLDP7GenbSB45iinN_sosLU71tRbHrMY6cj3bIBJoUh2G2WQTqrw_I5UQ&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ8tMDegQINBAK",
+      "6": "https://www.google.com/search?q=deck+board+calculator+square+feet&sca_esv=bbb7d61e8d3bb37e&ei=4Rg6aufKM-iew8cP0P_NgQE&start=50&sa=N&sstk=AU9db-C08pZcAgbtz89YhStgYbhgvYHcMSodTfcRHzGwoqLDP7GenbSB45iinN_sosLU71tRbHrMY6cj3bIBJoUh2G2WQTqrw_I5UQ&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ8tMDegQINBAM",
+      "7": "https://www.google.com/search?q=deck+board+calculator+square+feet&sca_esv=bbb7d61e8d3bb37e&ei=4Rg6aufKM-iew8cP0P_NgQE&start=60&sa=N&sstk=AU9db-C08pZcAgbtz89YhStgYbhgvYHcMSodTfcRHzGwoqLDP7GenbSB45iinN_sosLU71tRbHrMY6cj3bIBJoUh2G2WQTqrw_I5UQ&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ8tMDegQINBAO",
+      "8": "https://www.google.com/search?q=deck+board+calculator+square+feet&sca_esv=bbb7d61e8d3bb37e&ei=4Rg6aufKM-iew8cP0P_NgQE&start=70&sa=N&sstk=AU9db-C08pZcAgbtz89YhStgYbhgvYHcMSodTfcRHzGwoqLDP7GenbSB45iinN_sosLU71tRbHrMY6cj3bIBJoUh2G2WQTqrw_I5UQ&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ8tMDegQINBAQ",
+      "9": "https://www.google.com/search?q=deck+board+calculator+square+feet&sca_esv=bbb7d61e8d3bb37e&ei=4Rg6aufKM-iew8cP0P_NgQE&start=80&sa=N&sstk=AU9db-C08pZcAgbtz89YhStgYbhgvYHcMSodTfcRHzGwoqLDP7GenbSB45iinN_sosLU71tRbHrMY6cj3bIBJoUh2G2WQTqrw_I5UQ&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ8tMDegQINBAS",
+      "10": "https://www.google.com/search?q=deck+board+calculator+square+feet&sca_esv=bbb7d61e8d3bb37e&ei=4Rg6aufKM-iew8cP0P_NgQE&start=90&sa=N&sstk=AU9db-C08pZcAgbtz89YhStgYbhgvYHcMSodTfcRHzGwoqLDP7GenbSB45iinN_sosLU71tRbHrMY6cj3bIBJoUh2G2WQTqrw_I5UQ&ved=2ahUKEwinv7Dxz5yVAxVoz_ACHdB_MxAQ8tMDegQINBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deck+board+calculator+square+feet&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deck+board+calculator+square+feet&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deck+board+calculator+square+feet&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deck+board+calculator+square+feet&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deck+board+calculator+square+feet&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deck+board+calculator+square+feet&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deck+board+calculator+square+feet&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deck+board+calculator+square+feet&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deck+board+calculator+square+feet&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deck+board+calculator+square+feet&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deck+board+calculator+square+feet&start=90"
+    }
+  }
+}

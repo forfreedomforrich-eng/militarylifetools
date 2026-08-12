@@ -1,0 +1,487 @@
+{
+  "search_metadata": {
+    "id": "6a3a20712c2bb4cbe97529f0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/NgiXDMqkWN7oOKOKvxGcFQ/6a3a20712c2bb4cbe97529f0.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/NgiXDMqkWN7oOKOKvxGcFQ/6a3a20712c2bb4cbe97529f0.json_with_pixel_position",
+    "created_at": "2026-06-23 05:58:09 UTC",
+    "processed_at": "2026-06-23 05:58:09 UTC",
+    "google_url": "https://www.google.com/search?q=deployment+countdown+days+military&oq=deployment+countdown+days+military&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/NgiXDMqkWN7oOKOKvxGcFQ/6a3a20712c2bb4cbe97529f0.html",
+    "total_time_taken": 1.43
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "deployment countdown days military",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "deployment countdown days military",
+    "total_results": 125,
+    "time_taken_displayed": 0.45,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What are the 5 phases of deployment?",
+      "type": "ai_overview",
+      "page_token": "yCusJ3icHdBRboIwAADQ7DJ-KgV10cQsY1ImC11a29rys0BRkbbAtAz1b3fZqXaaJXtHeN8_5tTo34evyrnuspxMhmEYH9v2aPZj1dpJfrk1aqJyY4pc6eX8cQ6eDmoV9Zvw5XMTYtZ1fE28rZA3yVyPbJZhe_EpR3jP9T2NgU9AKDLtDgUku73OmNRASC-74BMY5A7N8M712INnCmEsaXiVddVigHQpiC6sQ9wDIddlmzcQlQ2hKjAi5wtEYw9gXfVkTTa5iWYEJD3i5XzLYERj85rVVci0e5dsCPJ1YlnQmcxOr9SCfttAg2g0ZVHyljZmqragTePEUfE87AUJo6qsmRf5UqC00CBVAg4lhDhtkC0EJ5y0J8zIXdXGspM3lVy50odrYqHIgkQruKhJDCSqk4r6qV8Oo4P6WgWj_8_Vx8G6ZXduj3-NuYL8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yCusJ3icHdBRboIwAADQ7DJ-KgV10cQsY1ImC11a29rys0BRkbbAtAz1b3fZqXaaJXtHeN8_5tTo34evyrnuspxMhmEYH9v2aPZj1dpJfrk1aqJyY4pc6eX8cQ6eDmoV9Zvw5XMTYtZ1fE28rZA3yVyPbJZhe_EpR3jP9T2NgU9AKDLtDgUku73OmNRASC-74BMY5A7N8M712INnCmEsaXiVddVigHQpiC6sQ9wDIddlmzcQlQ2hKjAi5wtEYw9gXfVkTTa5iWYEJD3i5XzLYERj85rVVci0e5dsCPJ1YlnQmcxOr9SCfttAg2g0ZVHyljZmqragTePEUfE87AUJo6qsmRf5UqC00CBVAg4lhDhtkC0EJ5y0J8zIXdXGspM3lVy50odrYqHIgkQruKhJDCSqk4r6qV8Oo4P6WgWj_8_Vx8G6ZXduj3-NuYL8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NVeDRaR2xWWjNjd1MwVllTbE5MWVRCVFJXUm1WWGgxT1dGSWRGaE1iekJ6UVVSWGMzUjRkSHAxTjJsNE9UUjBZMGxDV1hacVUyc3pSa0YyV0hVNWJVNXVWRWxTYTJkQ1ZqaGFOMFY1TUdGUkxYSlRUa2RHUVdSNVp4SVhZMU5CTm1GelRHNU5USEZ4Y0hSUlVESnpabTExVVZVYUlrRkVjM0k1WmxOQk1HdFlka1J1VHpRMGVqbEtUMFp3UmxJMllWVlpSakpmWldjIiwiZmN2IjoiMyIsImVpIjoiY1NBNmFzTG5NTHFxcHRRUDJzZm11UVUiLCJxYyI6IkNpSmtaWEJzYjNsdFpXNTBJR052ZFc1MFpHOTNiaUJrWVhseklHMXBiR2wwWVhKNUVBQjkweTBUUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSA1IHBoYXNlcyBvZiBkZXBsb3ltZW50PyIsImxrIjoiR2hZMUlIQm9ZWE5sY3lCdlppQmtaWEJzYjNsdFpXNTAiLCJicyI6ImM0V1BNUXZDTUJTRWNYMlRrMGluQXhWMUxUcEhmNENqT0ljMk5vSDJKYVF2aFA1N29YV1NTdWM3dnZ1T2JyUl9XUzNRMFVDc3dSWEI2dDcwOEdfVUpyUi02QXlMS3JmRlpqNml4NWNnSGlFSkhFT2o4b21sOXBsUjZkWndyYU1xRDhVdUxfZm9TYWNSZDRfZGdNUk8tdEZ0R25UY0lMckdDdGhuVlo2TFk1N2tsN3IwLV9QeV8tZDh0RjU5QUEiLCJpZCI6ImZjX2NTQTZhc0xuTUxxcXB0UVAyc2ZtdVFVXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NVeDRaR2xWWjNjd1MwVllTbE5MWVRCVFJXUm1WWGgxT1dGSWRGaE1iekJ6UVVSWGMzUjRkSHAxTjJsNE9UUjBZMGxDV1hacVUyc3pSa0YyV0hVNWJVNXVWRWxTYTJkQ1ZqaGFOMFY1TUdGUkxYSlRUa2RHUVdSNVp4SVhZMU5CTm1GelRHNU5USEZ4Y0hSUlVESnpabTExVVZVYUlrRkVjM0k1WmxOQk1HdFlka1J1VHpRMGVqbEtUMFp3UmxJMllWVlpSakpmWldjIiwiZmN2IjoiMyIsImVpIjoiY1NBNmFzTG5NTHFxcHRRUDJzZm11UVUiLCJxYyI6IkNpSmtaWEJzYjNsdFpXNTBJR052ZFc1MFpHOTNiaUJrWVhseklHMXBiR2wwWVhKNUVBQjkweTBUUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSA1IHBoYXNlcyBvZiBkZXBsb3ltZW50PyIsImxrIjoiR2hZMUlIQm9ZWE5sY3lCdlppQmtaWEJzYjNsdFpXNTAiLCJicyI6ImM0V1BNUXZDTUJTRWNYMlRrMGluQXhWMUxUcEhmNENqT0ljMk5vSDJKYVF2aFA1N29YV1NTdWM3dnZ1T2JyUl9XUzNRMFVDc3dSWEI2dDcwOEdfVUpyUi02QXlMS3JmRlpqNml4NWNnSGlFSkhFT2o4b21sOXBsUjZkWndyYU1xRDhVdUxfZm9TYWNSZDRfZGdNUk8tdEZ0R25UY0lMckdDdGhuVlo2TFk1N2tsN3IwLV9QeV8tZDh0RjU5QUEiLCJpZCI6ImZjX2NTQTZhc0xuTUxxcXB0UVAyc2ZtdVFVXzUifQ%3D%3D"
+    },
+    {
+      "question": "What to put in a countdown calendar?",
+      "type": "ai_overview",
+      "page_token": "u4uA53icHdBdTsIwAADgeBkfZS2CQkJM5loF0452tNv6YtYO9tf9iJMKb97FU3kajTf48n1926prfq5O5TgO78vJxDl3U_R9Yfc3pm8n2fu5MxOTWasz0yznd3PwcDAr9LH2H9_WPhPDIAPuRbWvcrDYkieacQRGWtMhryXLEjINsfKkVZW23DftrNo362kKizP3mtsUqK2Gs34fbDomwFYn8qjb9Ewu5YcJNhexK0aa5JR7eavQpqeBBDJWYZyQUSBeZjvhyDMN9ZRWBM0ck8qG4nO988qINQsXQTcjsHeiAkeNaRvHtIpxWe6xPSoxEAbxkCYMUoHrFNpIQIA1kj4q81p4CKYJJboBxCTY5Rgz0tH2z8gl7ysm-MXUthWgBKRTtQF5GKP7yy7-fOEN7oyUWybJOYpxINj1wZxW0-v_z9XroR2Xw7EvfgHULoLU",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=u4uA53icHdBdTsIwAADgeBkfZS2CQkJM5loF0452tNv6YtYO9tf9iJMKb97FU3kajTf48n1926prfq5O5TgO78vJxDl3U_R9Yfc3pm8n2fu5MxOTWasz0yznd3PwcDAr9LH2H9_WPhPDIAPuRbWvcrDYkieacQRGWtMhryXLEjINsfKkVZW23DftrNo362kKizP3mtsUqK2Gs34fbDomwFYn8qjb9Ewu5YcJNhexK0aa5JR7eavQpqeBBDJWYZyQUSBeZjvhyDMN9ZRWBM0ck8qG4nO988qINQsXQTcjsHeiAkeNaRvHtIpxWe6xPSoxEAbxkCYMUoHrFNpIQIA1kj4q81p4CKYJJboBxCTY5Rgz0tH2z8gl7ysm-MXUthWgBKRTtQF5GKP7yy7-fOEN7oyUWybJOYpxINj1wZxW0-v_z9XroR2Xw7EvfgHULoLU",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NVeDRaR2xWWjNjd1MwVllTbE5MWVRCVFJXUm1WWGgxT1dGSWRGaE1iekJ6UVVSWGMzUjRkSHAxTjJsNE9UUjBZMGxDV1hacVUyc3pSa0YyV0hVNWJVNXVWRWxTYTJkQ1ZqaGFOMFY1TUdGUkxYSlRUa2RHUVdSNVp4SVhZMU5CTm1GelRHNU5USEZ4Y0hSUlVESnpabTExVVZVYUlrRkVjM0k1WmxOQk1HdFlka1J1VHpRMGVqbEtUMFp3UmxJMllWVlpSakpmWldjIiwiZmN2IjoiMyIsImVpIjoiY1NBNmFzTG5NTHFxcHRRUDJzZm11UVUiLCJxYyI6IkNpSmtaWEJzYjNsdFpXNTBJR052ZFc1MFpHOTNiaUJrWVhseklHMXBiR2wwWVhKNUVBQjkweTBUUHciLCJxdWVzdGlvbiI6IldoYXQgdG8gcHV0IGluIGEgY291bnRkb3duIGNhbGVuZGFyPyIsImxrIjoiR2lOM2FHRjBJSFJ2SUhCMWRDQnBiaUJoSUdOdmRXNTBaRzkzYmlCallXeGxibVJoY2ciLCJicyI6ImM0V1BNUXZDTUJTRWNYMlRrMGluQXhWMUxUcEhmNENqT0ljMk5vSDJKYVF2aFA1N29YV1NTdWM3dnZ1T2JyUl9XUzNRMFVDc3dSWEI2dDcwOEdfVUpyUi02QXlMS3JmRlpqNml4NWNnSGlFSkhFT2o4b21sOXBsUjZkWndyYU1xRDhVdUxfZm9TYWNSZDRfZGdNUk8tdEZ0R25UY0lMckdDdGhuVlo2TFk1N2tsN3IwLV9QeV8tZDh0RjU5QUEiLCJpZCI6ImZjX2NTQTZhc0xuTUxxcXB0UVAyc2ZtdVFVXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NVeDRaR2xWWjNjd1MwVllTbE5MWVRCVFJXUm1WWGgxT1dGSWRGaE1iekJ6UVVSWGMzUjRkSHAxTjJsNE9UUjBZMGxDV1hacVUyc3pSa0YyV0hVNWJVNXVWRWxTYTJkQ1ZqaGFOMFY1TUdGUkxYSlRUa2RHUVdSNVp4SVhZMU5CTm1GelRHNU5USEZ4Y0hSUlVESnpabTExVVZVYUlrRkVjM0k1WmxOQk1HdFlka1J1VHpRMGVqbEtUMFp3UmxJMllWVlpSakpmWldjIiwiZmN2IjoiMyIsImVpIjoiY1NBNmFzTG5NTHFxcHRRUDJzZm11UVUiLCJxYyI6IkNpSmtaWEJzYjNsdFpXNTBJR052ZFc1MFpHOTNiaUJrWVhseklHMXBiR2wwWVhKNUVBQjkweTBUUHciLCJxdWVzdGlvbiI6IldoYXQgdG8gcHV0IGluIGEgY291bnRkb3duIGNhbGVuZGFyPyIsImxrIjoiR2lOM2FHRjBJSFJ2SUhCMWRDQnBiaUJoSUdOdmRXNTBaRzkzYmlCallXeGxibVJoY2ciLCJicyI6ImM0V1BNUXZDTUJTRWNYMlRrMGluQXhWMUxUcEhmNENqT0ljMk5vSDJKYVF2aFA1N29YV1NTdWM3dnZ1T2JyUl9XUzNRMFVDc3dSWEI2dDcwOEdfVUpyUi02QXlMS3JmRlpqNml4NWNnSGlFSkhFT2o4b21sOXBsUjZkWndyYU1xRDhVdUxfZm9TYWNSZDRfZGdNUk8tdEZ0R25UY0lMckdDdGhuVlo2TFk1N2tsN3IwLV9QeV8tZDh0RjU5QUEiLCJpZCI6ImZjX2NTQTZhc0xuTUxxcXB0UVAyc2ZtdVFVXzUifQ%3D%3D"
+    },
+    {
+      "question": "What Army units are deploying right now?",
+      "type": "ai_overview",
+      "page_token": "raqiwHicHZBLcoIwAECnl3FZCVTbOuN0BiWohTCEfIBNBxMRSQhYqai73qWn6mn62b_Fe-_zSx-M-r47V33fnWbj8TAM9_u23evdvWibcXG6GjEWhdbbQqjZ9HEKXkox9z7W7uK4dmPadWyJraRGNq0ZR7wCmaoiqdqLbNAidTw7UyxlPv7AjnuOCb0ihgfG9Su2e5KlLMhMZwiDPvFwwMnmEi3_OOwSIjnhuIvgc5X7OSRmU4bepCF-CHYmV3SFNpG_6RLtNhJIP0j1CvtP15DlPbZggqGb7ppJEXJ2EKoiSHd1scQX6eRH7OztYuUCBGQecWCoBU5ZAg58CQPKc-NVsqbWr3uKwq0CoUjhICGMQ4Oabcoww-0hpvgmat389vPQ6JqS2MmtS8Ts_saoLAMqa6QeronSpzgeleI8d0b_P-dvZdPPuvd2_wP6t4My",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=raqiwHicHZBLcoIwAECnl3FZCVTbOuN0BiWohTCEfIBNBxMRSQhYqai73qWn6mn62b_Fe-_zSx-M-r47V33fnWbj8TAM9_u23evdvWibcXG6GjEWhdbbQqjZ9HEKXkox9z7W7uK4dmPadWyJraRGNq0ZR7wCmaoiqdqLbNAidTw7UyxlPv7AjnuOCb0ihgfG9Su2e5KlLMhMZwiDPvFwwMnmEi3_OOwSIjnhuIvgc5X7OSRmU4bepCF-CHYmV3SFNpG_6RLtNhJIP0j1CvtP15DlPbZggqGb7ppJEXJ2EKoiSHd1scQX6eRH7OztYuUCBGQecWCoBU5ZAg58CQPKc-NVsqbWr3uKwq0CoUjhICGMQ4Oabcoww-0hpvgmat389vPQ6JqS2MmtS8Ts_saoLAMqa6QeronSpzgeleI8d0b_P-dvZdPPuvd2_wP6t4My",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NVeDRaR2xWWjNjd1MwVllTbE5MWVRCVFJXUm1WWGgxT1dGSWRGaE1iekJ6UVVSWGMzUjRkSHAxTjJsNE9UUjBZMGxDV1hacVUyc3pSa0YyV0hVNWJVNXVWRWxTYTJkQ1ZqaGFOMFY1TUdGUkxYSlRUa2RHUVdSNVp4SVhZMU5CTm1GelRHNU5USEZ4Y0hSUlVESnpabTExVVZVYUlrRkVjM0k1WmxOQk1HdFlka1J1VHpRMGVqbEtUMFp3UmxJMllWVlpSakpmWldjIiwiZmN2IjoiMyIsImVpIjoiY1NBNmFzTG5NTHFxcHRRUDJzZm11UVUiLCJxYyI6IkNpSmtaWEJzYjNsdFpXNTBJR052ZFc1MFpHOTNiaUJrWVhseklHMXBiR2wwWVhKNUVBQjkweTBUUHciLCJxdWVzdGlvbiI6IldoYXQgQXJteSB1bml0cyBhcmUgZGVwbG95aW5nIHJpZ2h0IG5vdz8iLCJsayI6IkdpZDNhR0YwSUdGeWJYa2dkVzVwZEhNZ1lYSmxJR1JsY0d4dmVXbHVaeUJ5YVdkb2RDQnViM2MiLCJicyI6ImM0V1BNUXZDTUJTRWNYMlRrMGluQXhWMUxUcEhmNENqT0ljMk5vSDJKYVF2aFA1N29YV1NTdWM3dnZ1T2JyUl9XUzNRMFVDc3dSWEI2dDcwOEdfVUpyUi02QXlMS3JmRlpqNml4NWNnSGlFSkhFT2o4b21sOXBsUjZkWndyYU1xRDhVdUxfZm9TYWNSZDRfZGdNUk8tdEZ0R25UY0lMckdDdGhuVlo2TFk1N2tsN3IwLV9QeV8tZDh0RjU5QUEiLCJpZCI6ImZjX2NTQTZhc0xuTUxxcXB0UVAyc2ZtdVFVXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NVeDRaR2xWWjNjd1MwVllTbE5MWVRCVFJXUm1WWGgxT1dGSWRGaE1iekJ6UVVSWGMzUjRkSHAxTjJsNE9UUjBZMGxDV1hacVUyc3pSa0YyV0hVNWJVNXVWRWxTYTJkQ1ZqaGFOMFY1TUdGUkxYSlRUa2RHUVdSNVp4SVhZMU5CTm1GelRHNU5USEZ4Y0hSUlVESnpabTExVVZVYUlrRkVjM0k1WmxOQk1HdFlka1J1VHpRMGVqbEtUMFp3UmxJMllWVlpSakpmWldjIiwiZmN2IjoiMyIsImVpIjoiY1NBNmFzTG5NTHFxcHRRUDJzZm11UVUiLCJxYyI6IkNpSmtaWEJzYjNsdFpXNTBJR052ZFc1MFpHOTNiaUJrWVhseklHMXBiR2wwWVhKNUVBQjkweTBUUHciLCJxdWVzdGlvbiI6IldoYXQgQXJteSB1bml0cyBhcmUgZGVwbG95aW5nIHJpZ2h0IG5vdz8iLCJsayI6IkdpZDNhR0YwSUdGeWJYa2dkVzVwZEhNZ1lYSmxJR1JsY0d4dmVXbHVaeUJ5YVdkb2RDQnViM2MiLCJicyI6ImM0V1BNUXZDTUJTRWNYMlRrMGluQXhWMUxUcEhmNENqT0ljMk5vSDJKYVF2aFA1N29YV1NTdWM3dnZ1T2JyUl9XUzNRMFVDc3dSWEI2dDcwOEdfVUpyUi02QXlMS3JmRlpqNml4NWNnSGlFSkhFT2o4b21sOXBsUjZkWndyYU1xRDhVdUxfZm9TYWNSZDRfZGdNUk8tdEZ0R25UY0lMckdDdGhuVlo2TFk1N2tsN3IwLV9QeV8tZDh0RjU5QUEiLCJpZCI6ImZjX2NTQTZhc0xuTUxxcXB0UVAyc2ZtdVFVXzUifQ%3D%3D"
+    },
+    {
+      "question": "What are the 4 phases of deployment?",
+      "type": "ai_overview",
+      "page_token": "Z1XnGXicHdBRToMwGADgeBkftzKMZksWM-RnDi1IoYXxYmgLY1CgblUmb97FU3kajRf4Hr6vb3Xs25-rj9oYfV7N5-M4zg7DcFDlTAzdvDh_9mIuCqV4IdrV7d2tdV-JNbzvnIe3nRNRrZlLUMyky4FNhc2eUvBOfKEfEuq9JQ01eHLG2PVvCK2rGNRA-vzILeUT8LFs1Kfs2HMCmjGkT-WjQElLmrILwqDBiCj_qQR_S63NpewsmqF2ClOtOdVOujVBnOV53tIpZR6NWlOJRCFCVcUBj7jzQwnLqHB9d7-oEZ7kS5jpm_BPy3sNdGsw9zYmSH0WZ85IYEBCOXuRKQdq2VAEi30WYN5aWGTeKD0vwn3Q8YwRRoZjRMkkGtUxd2M4LG0MeR_YsggSuBBbn5JFfSlAX2Rae_l4XYmPtX39_7l-rTqz0qfh8AsVVoR8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Z1XnGXicHdBRToMwGADgeBkftzKMZksWM-RnDi1IoYXxYmgLY1CgblUmb97FU3kajRf4Hr6vb3Xs25-rj9oYfV7N5-M4zg7DcFDlTAzdvDh_9mIuCqV4IdrV7d2tdV-JNbzvnIe3nRNRrZlLUMyky4FNhc2eUvBOfKEfEuq9JQ01eHLG2PVvCK2rGNRA-vzILeUT8LFs1Kfs2HMCmjGkT-WjQElLmrILwqDBiCj_qQR_S63NpewsmqF2ClOtOdVOujVBnOV53tIpZR6NWlOJRCFCVcUBj7jzQwnLqHB9d7-oEZ7kS5jpm_BPy3sNdGsw9zYmSH0WZ85IYEBCOXuRKQdq2VAEi30WYN5aWGTeKD0vwn3Q8YwRRoZjRMkkGtUxd2M4LG0MeR_YsggSuBBbn5JFfSlAX2Rae_l4XYmPtX39_7l-rTqz0qfh8AsVVoR8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NVeDRaR2xWWjNjd1MwVllTbE5MWVRCVFJXUm1WWGgxT1dGSWRGaE1iekJ6UVVSWGMzUjRkSHAxTjJsNE9UUjBZMGxDV1hacVUyc3pSa0YyV0hVNWJVNXVWRWxTYTJkQ1ZqaGFOMFY1TUdGUkxYSlRUa2RHUVdSNVp4SVhZMU5CTm1GelRHNU5USEZ4Y0hSUlVESnpabTExVVZVYUlrRkVjM0k1WmxOQk1HdFlka1J1VHpRMGVqbEtUMFp3UmxJMllWVlpSakpmWldjIiwiZmN2IjoiMyIsImVpIjoiY1NBNmFzTG5NTHFxcHRRUDJzZm11UVUiLCJxYyI6IkNpSmtaWEJzYjNsdFpXNTBJR052ZFc1MFpHOTNiaUJrWVhseklHMXBiR2wwWVhKNUVBQjkweTBUUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSA0IHBoYXNlcyBvZiBkZXBsb3ltZW50PyIsImxrIjoiR2hZMElIQm9ZWE5sY3lCdlppQmtaWEJzYjNsdFpXNTAiLCJicyI6ImM0V1BNUXZDTUJTRWNYMlRrMGluQXhWMUxUcEhmNENqT0ljMk5vSDJKYVF2aFA1N29YV1NTdWM3dnZ1T2JyUl9XUzNRMFVDc3dSWEI2dDcwOEdfVUpyUi02QXlMS3JmRlpqNml4NWNnSGlFSkhFT2o4b21sOXBsUjZkWndyYU1xRDhVdUxfZm9TYWNSZDRfZGdNUk8tdEZ0R25UY0lMckdDdGhuVlo2TFk1N2tsN3IwLV9QeV8tZDh0RjU5QUEiLCJpZCI6ImZjX2NTQTZhc0xuTUxxcXB0UVAyc2ZtdVFVXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NVeDRaR2xWWjNjd1MwVllTbE5MWVRCVFJXUm1WWGgxT1dGSWRGaE1iekJ6UVVSWGMzUjRkSHAxTjJsNE9UUjBZMGxDV1hacVUyc3pSa0YyV0hVNWJVNXVWRWxTYTJkQ1ZqaGFOMFY1TUdGUkxYSlRUa2RHUVdSNVp4SVhZMU5CTm1GelRHNU5USEZ4Y0hSUlVESnpabTExVVZVYUlrRkVjM0k1WmxOQk1HdFlka1J1VHpRMGVqbEtUMFp3UmxJMllWVlpSakpmWldjIiwiZmN2IjoiMyIsImVpIjoiY1NBNmFzTG5NTHFxcHRRUDJzZm11UVUiLCJxYyI6IkNpSmtaWEJzYjNsdFpXNTBJR052ZFc1MFpHOTNiaUJrWVhseklHMXBiR2wwWVhKNUVBQjkweTBUUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSA0IHBoYXNlcyBvZiBkZXBsb3ltZW50PyIsImxrIjoiR2hZMElIQm9ZWE5sY3lCdlppQmtaWEJzYjNsdFpXNTAiLCJicyI6ImM0V1BNUXZDTUJTRWNYMlRrMGluQXhWMUxUcEhmNENqT0ljMk5vSDJKYVF2aFA1N29YV1NTdWM3dnZ1T2JyUl9XUzNRMFVDc3dSWEI2dDcwOEdfVUpyUi02QXlMS3JmRlpqNml4NWNnSGlFSkhFT2o4b21sOXBsUjZkWndyYU1xRDhVdUxfZm9TYWNSZDRfZGdNUk8tdEZ0R25UY0lMckdDdGhuVlo2TFk1N2tsN3IwLV9QeV8tZDh0RjU5QUEiLCJpZCI6ImZjX2NTQTZhc0xuTUxxcXB0UVAyc2ZtdVFVXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "C0hATXicxZbbkqJIEEDf9z_Gl25FRBjtCGKiuKh4abtaHVtfCAQslJtSKMO87b_sV-1n7BdMcVNstTt2Ija2DKkLWVmZlXlM__zL2Xj233_8Y4XhDj9RVBRFNeT7yDFruu9SGo49nVr7Dg506xv2D4FubgxetwLfNSvxkWcqOubrFXPD6xPAaXjojYb7_S6ELw28dg9wVklV8OpKw-aWnPBjiymVIg_7CyORSQ3XTK-2etE3617Yi2ao1qjT7dqY0lwiAP7DJoPXtIfko5BeuZJIjkefaIFKsnFSWhFLz6KNMkWKknbiXaViboW4SESk6jJoCkCC6VrvAysml9N58pBBBICQmCjDW3tuGVGs-Xkv3D1Rvl5KhYX8LKms_p6_QjnAMNE5bQHxHIjCZQEUHhARRMZCppEFQvMlErviB2Eib3aoJ1tVeNPoUusM5F2Uj4eLLrGIMhBJwjq1CkhHUxvd0tNBgJPcFKftut_xwPKZO1iDKTMSVZWZDTzFtxyvsWtBSl8ROcfXDNNQLbX-LZ3TDZqtt5mvrccUCh2fqMBlKpbcyAFMf810QG1YE-gSEullKBc-J-km3HFvkN_hO3GQaUn09fO7KW55VogJfkFHvrC1k6xanBZaSSis9ycmuq6RKBoqDwgSqdnK7LSzLJ4MFeFsat6k9_E-z3MfFmAATy7LJYuzi5DLcztxUekWC9HpVaIVOSBFnCAhC5nGcbE_faKyYUSTIAK5UH-yIJGR7JOYnFqYvF5AuABKhyBKwocK5_NQEiSUy7sD24tZByVfEd0E_LMmnAN-r8mgyP13qVxGQD5g5RhNh9K66vXXz6O5Ckwftp2Ba8PbKe-7q39RCfT_F4pZXidmOQmDm1CgT6CAivxhncjsPteJJFdE_x4UYg7FZZ3IEvdcJ66hmFxCcb9OlKDItHwMhXAXiuxn5RqKpE5cQYHuQJHViTIUl3XCO2lOPChB8Vt1Av5GnUgZMbPusmgctuhu8ejaKzoQ2Tji5kF_UN2MhCFiFLu6r3vo0-KxdsMnVzOcR3VjPAmNfhgbjypZ8J9Mo7LnDXPn-LFreuGD7h-80PAj78HQYvzgbpxNqAVxxXUCn69r3NrZz-neZAzRCLbAxDmaEoMZ6cjYwzZ4CRvaSujP25DpVNk3NWSOtNbFm-lzPBbHttGbShONg9J8tHqLxJ2kTgF3-NmyLSzuv9s2M2CXGhsE07VFb7lV_Prqhl_fZiO4YGI2HqNlq8Oy7aURqqaisse3HgdSuzCPBQ3-dMbfBwqsELewydMVN9B5AkITgWcI5gjohAAAyf8pKPrkG5H4V7CuqSY-8jpL11da0-TYBrdm2mQzCuMd36Qr2At4-hc6mB6P",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=C0hATXicxZbbkqJIEEDf9z_Gl25FRBjtCGKiuKh4abtaHVtfCAQslJtSKMO87b_sV-1n7BdMcVNstTt2Ija2DKkLWVmZlXlM__zL2Xj233_8Y4XhDj9RVBRFNeT7yDFruu9SGo49nVr7Dg506xv2D4FubgxetwLfNSvxkWcqOubrFXPD6xPAaXjojYb7_S6ELw28dg9wVklV8OpKw-aWnPBjiymVIg_7CyORSQ3XTK-2etE3617Yi2ao1qjT7dqY0lwiAP7DJoPXtIfko5BeuZJIjkefaIFKsnFSWhFLz6KNMkWKknbiXaViboW4SESk6jJoCkCC6VrvAysml9N58pBBBICQmCjDW3tuGVGs-Xkv3D1Rvl5KhYX8LKms_p6_QjnAMNE5bQHxHIjCZQEUHhARRMZCppEFQvMlErviB2Eib3aoJ1tVeNPoUusM5F2Uj4eLLrGIMhBJwjq1CkhHUxvd0tNBgJPcFKftut_xwPKZO1iDKTMSVZWZDTzFtxyvsWtBSl8ROcfXDNNQLbX-LZ3TDZqtt5mvrccUCh2fqMBlKpbcyAFMf810QG1YE-gSEullKBc-J-km3HFvkN_hO3GQaUn09fO7KW55VogJfkFHvrC1k6xanBZaSSis9ycmuq6RKBoqDwgSqdnK7LSzLJ4MFeFsat6k9_E-z3MfFmAATy7LJYuzi5DLcztxUekWC9HpVaIVOSBFnCAhC5nGcbE_faKyYUSTIAK5UH-yIJGR7JOYnFqYvF5AuABKhyBKwocK5_NQEiSUy7sD24tZByVfEd0E_LMmnAN-r8mgyP13qVxGQD5g5RhNh9K66vXXz6O5Ckwftp2Ba8PbKe-7q39RCfT_F4pZXidmOQmDm1CgT6CAivxhncjsPteJJFdE_x4UYg7FZZ3IEvdcJ66hmFxCcb9OlKDItHwMhXAXiuxn5RqKpE5cQYHuQJHViTIUl3XCO2lOPChB8Vt1Av5GnUgZMbPusmgctuhu8ejaKzoQ2Tji5kF_UN2MhCFiFLu6r3vo0-KxdsMnVzOcR3VjPAmNfhgbjypZ8J9Mo7LnDXPn-LFreuGD7h-80PAj78HQYvzgbpxNqAVxxXUCn69r3NrZz-neZAzRCLbAxDmaEoMZ6cjYwzZ4CRvaSujP25DpVNk3NWSOtNbFm-lzPBbHttGbShONg9J8tHqLxJ2kTgF3-NmyLSzuv9s2M2CXGhsE07VFb7lV_Prqhl_fZiO4YGI2HqNlq8Oy7aURqqaisse3HgdSuzCPBQ3-dMbfBwqsELewydMVN9B5AkITgWcI5gjohAAAyf8pKPrkG5H4V7CuqSY-8jpL11da0-TYBrdm2mQzCuMd36Qr2At4-hc6mB6P"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Deployment Calendar",
+      "link": "https://www.amazon.com/deployment-calendar/s?k=deployment+calendar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/deployment-calendar/s%3Fk%3Ddeployment%2Bcalendar&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQFnoECCMQAQ",
+      "displayed_link": "https://www.amazon.com › deployment-calendar › k=de...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Military Deployment Countdown Calendar – “Days Until Our Hero is Home” Tour & Deployment Completion Count Down - 5.75\"x3.75\" - Tear Off Countdown Calendar",
+      "snippet_highlighted_words": [
+        "Military Deployment Countdown Calendar"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "4.5 store rating (10K)",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Military Deployment Countdown Calendar – “Days Until Our Hero is Home” Tour & Deployment Completion Count Down - 5.75\"x3.75\" - Tear Off Countdown Calendar",
+          "source_info_link": "https://www.amazon.com/deployment-calendar/s?k=deployment+calendar",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.amazon.com/deployment-calendar/s?k=deployment+calendar&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.com%2Fdeployment-calendar%2Fs%3Fk%3Ddeployment%2Bcalendar",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 2,
+      "title": "Deployment Countdown Crafts",
+      "link": "https://www.pinterest.com/ramcquiston/deployment-countdown-crafts/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pinterest.com/ramcquiston/deployment-countdown-crafts/&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQFnoECB8QAQ",
+      "displayed_link": "https://www.pinterest.com › ramcquiston › deployment-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png",
+      "snippet": "Countdown calendar to Daddy returning from deployment. This was pretty quick to make using Dixie cups, paper cupcake liners, and rubber bands.",
+      "snippet_highlighted_words": [
+        "Countdown calendar to Daddy returning from deployment"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Countdown calendar to Daddy returning from deployment. This was pretty quick to make using Dixie cups, paper cupcake liners, and rubber bands.",
+          "source_info_link": "https://www.pinterest.com/ramcquiston/deployment-countdown-crafts/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pinterest.com/ramcquiston/deployment-countdown-crafts/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pinterest.com%2Framcquiston%2Fdeployment-countdown-crafts%2F",
+      "source": "Pinterest",
+      "read_more_link": "https://www.pinterest.com/ramcquiston/deployment-countdown-crafts/#:~:text=Countdown%20calendar%20to%20Daddy%20returning,cupcake%20liners%2C%20and%20rubber%20bands."
+    },
+    {
+      "position": 3,
+      "title": "Military Deployment Countdown |Personalized ...",
+      "link": "https://spouse-ly.com/product/military-deployment-countdown-personalized-deployment-tracker-for-kids-and-families-homecoming-countdown-military-custom-countdown/?srsltid=AfmBOoqAHsYG6w0iSnv3hvda_HBX3XkHvvDdvx0uglH6DJ45_DrKaAli",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://spouse-ly.com/product/military-deployment-countdown-personalized-deployment-tracker-for-kids-and-families-homecoming-countdown-military-custom-countdown/%3Fsrsltid%3DAfmBOoqAHsYG6w0iSnv3hvda_HBX3XkHvvDdvx0uglH6DJ45_DrKaAli&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQFnoECCAQAQ",
+      "displayed_link": "https://spouse-ly.com › Shop",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEWUyr6Uyb6Ox7uazcLa7Ojt9fTW6uWLxrm529TJ493___-_3tek0cfn8vDz-ffg7-xMIF3iAAAAuUlEQVR4AXVQIQgCURTbOzvsWawqFouI2IPFXqz2ZrJZDGYx2osTud6bHYTLJovpqsh9_sGdH8crg-2NDQGGf_A2Nf-hZqDR6eagwUE63GhEAmc2BIaDSGnz1ax3OAJgdR3pepemRgPAkQIWUb2T3h_pgSD3sVTcpFPQovI-JdVB2Vkqde2HYubcqci19Lpn97Uu8w3iK2AiLRsFs-KyaZbc7sHGRlm_tQ7DxSA4CVoyaAxKl0xlqfcLlNAtgPq2-ekAAAAASUVORK5CYII.png",
+      "snippet": "-Comes with 5 interchangeable countdown measurements: Sleeps, Days, weeks, months, and trash days. -Fun one day closer eraser included with dry erase marker",
+      "snippet_highlighted_words": [
+        "countdown",
+        "Days",
+        "days",
+        "day"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 35.99,
+            "currency": "$"
+          },
+          "extensions": [
+            "$35.99",
+            "In stock",
+            "5-day delivery",
+            "7-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "-Comes with 5 interchangeable countdown measurements: Sleeps, Days, weeks, months, and trash days. -Fun one day closer eraser included with dry erase marker",
+          "source_info_link": "https://spouse-ly.com/product/military-deployment-countdown-personalized-deployment-tracker-for-kids-and-families-homecoming-countdown-military-custom-countdown/?srsltid=AfmBOoqAHsYG6w0iSnv3hvda_HBX3XkHvvDdvx0uglH6DJ45_DrKaAli",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEWUyr6Uyb6Ox7uazcLa7Ojt9fTW6uWLxrm529TJ493___-_3tek0cfn8vDz-ffg7-xMIF3iAAAAuUlEQVR4AXVQIQgCURTbOzvsWawqFouI2IPFXqz2ZrJZDGYx2osTud6bHYTLJovpqsh9_sGdH8crg-2NDQGGf_A2Nf-hZqDR6eagwUE63GhEAmc2BIaDSGnz1ax3OAJgdR3pepemRgPAkQIWUb2T3h_pgSD3sVTcpFPQovI-JdVB2Vkqde2HYubcqci19Lpn97Uu8w3iK2AiLRsFs-KyaZbc7sHGRlm_tQ7DxSA4CVoyaAxKl0xlqfcLlNAtgPq2-ekAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://spouse-ly.com/product/military-deployment-countdown-personalized-deployment-tracker-for-kids-and-families-homecoming-countdown-military-custom-countdown/?srsltid=AfmBOoqAHsYG6w0iSnv3hvda_HBX3XkHvvDdvx0uglH6DJ45_DrKaAli&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fspouse-ly.com%2Fproduct%2Fmilitary-deployment-countdown-personalized-deployment-tracker-for-kids-and-families-homecoming-countdown-military-custom-countdown%2F%3Fsrsltid%3DAfmBOoqAHsYG6w0iSnv3hvda_HBX3XkHvvDdvx0uglH6DJ45_DrKaAli",
+      "source": "Spouse-ly"
+    },
+    {
+      "position": 4,
+      "title": "Soldier Cowntdown PRO – timer for iPhone and iPad App",
+      "link": "https://apps.apple.com/us/app/soldier-cowntdown-pro-timer-for-iphone-and-ipad/id1049397874",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/soldier-cowntdown-pro-timer-for-iphone-and-ipad/id1049397874&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQFnoECCYQAQ",
+      "displayed_link": "https://apps.apple.com › app › soldier-cowntdown-pro-t...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAqFBMVEVHcExy2vB10fs_pvaK0eBUmPFJwfcqdvdDi_NQt_k0w_otjfk3gfIud_JNxvVAw_U9ifNCieFDjfI2f_JmzPRp0vUYZfEZb_IfovkhrvoadvMYafIhs_sZi_UhtfsfnfgOfvMbtPsfqPoShfQdlvcemvccj_Ydk_bC7f-k1_8Bb-5wsPa35f9PzP2bz_7U8_-v4P_l_f-Cvv1QmvRVpvgNqvkAl_Qtl_qIgfU0AAAAFnRSTlMAXvz8LWDZ_f39_P773O-v2i2usKyszzWwHgAAAXNJREFUKJFt0utygjAUBOCjeAnVVu0FFFADUZuQSEhA-_5v1gMExk79ZhjYXQb-BACNvmZv1wdvs9UIOpPxIT2kSTpIMB5eJu12TQ9PpO063iXPveD_kl3vdusuJxnBZ9aHbMx934yHNVvBLOttFS-14fehmIG_7d18ro3xj0PhwUO4C2PUfojbHfjnY68Z5X2IZxxPZ-fkGVNab8jnDPzvk7NXmteFYH0-eVB_OxepuaxKLS99s4V6f-kwzkvKSq6YKy5HHDvMcl6xfc25Za76gRofGaWUCWFzSvNC8TZi-wMeY9QqpbTWZalUIbXmhRCSMhwryqjCGrsSCSu0KVDO2AJHGhEpm5dbNeFK1ZJElOIYRTTKK2uXuVMLUeVNuwASNYS1eeTk-NGweVjCGu8hKewy7MeQiII07RreQxRXJAgHcVW16R2mXY7DB0HQxinAPIifCgievs08eGrZHtzNPP4_xWTizvz043X-x-vHtOl_ASi1Wb9ogO5wAAAAAElFTkSuQmCC.png",
+      "snippet": "Your personal timer to be aware of the important events and count down the remaining time to muster for you!",
+      "snippet_highlighted_words": [
+        "count down"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.6,
+            "reviews": 676
+          },
+          "extensions": [
+            "4.6(676)",
+            "Free",
+            "iOS",
+            "Utilities/Tools"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Your personal timer to be aware of the important events and count down the remaining time to muster for you!",
+          "source_info_link": "https://apps.apple.com/us/app/soldier-cowntdown-pro-timer-for-iphone-and-ipad/id1049397874",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAqFBMVEVHcExy2vB10fs_pvaK0eBUmPFJwfcqdvdDi_NQt_k0w_otjfk3gfIud_JNxvVAw_U9ifNCieFDjfI2f_JmzPRp0vUYZfEZb_IfovkhrvoadvMYafIhs_sZi_UhtfsfnfgOfvMbtPsfqPoShfQdlvcemvccj_Ydk_bC7f-k1_8Bb-5wsPa35f9PzP2bz_7U8_-v4P_l_f-Cvv1QmvRVpvgNqvkAl_Qtl_qIgfU0AAAAFnRSTlMAXvz8LWDZ_f39_P773O-v2i2usKyszzWwHgAAAXNJREFUKJFt0utygjAUBOCjeAnVVu0FFFADUZuQSEhA-_5v1gMExk79ZhjYXQb-BACNvmZv1wdvs9UIOpPxIT2kSTpIMB5eJu12TQ9PpO063iXPveD_kl3vdusuJxnBZ9aHbMx934yHNVvBLOttFS-14fehmIG_7d18ro3xj0PhwUO4C2PUfojbHfjnY68Z5X2IZxxPZ-fkGVNab8jnDPzvk7NXmteFYH0-eVB_OxepuaxKLS99s4V6f-kwzkvKSq6YKy5HHDvMcl6xfc25Za76gRofGaWUCWFzSvNC8TZi-wMeY9QqpbTWZalUIbXmhRCSMhwryqjCGrsSCSu0KVDO2AJHGhEpm5dbNeFK1ZJElOIYRTTKK2uXuVMLUeVNuwASNYS1eeTk-NGweVjCGu8hKewy7MeQiII07RreQxRXJAgHcVW16R2mXY7DB0HQxinAPIifCgievs08eGrZHtzNPP4_xWTizvz043X-x-vHtOl_ASi1Wb9ogO5wAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://apps.apple.com/us/app/soldier-cowntdown-pro-timer-for-iphone-and-ipad/id1049397874&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fsoldier-cowntdown-pro-timer-for-iphone-and-ipad%2Fid1049397874",
+      "source": "Apple",
+      "read_more_link": "https://apps.apple.com/us/app/soldier-cowntdown-pro-timer-for-iphone-and-ipad/id1049397874#:~:text=Your%20personal%20timer%20to%20be,time%20to%20muster%20for%20you!"
+    },
+    {
+      "position": 5,
+      "title": "Creative Deployment Countdown Ideas for Military Families",
+      "link": "https://bearegards.com/blogs/news/creative-deployment-countdown-ideas-for-military-families?srsltid=AfmBOopVC0DrDmoAuEizZtfSMJOrtnVgLyZ8xbQ7uBzgTbBSTm8PGYRZ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bearegards.com/blogs/news/creative-deployment-countdown-ideas-for-military-families%3Fsrsltid%3DAfmBOopVC0DrDmoAuEizZtfSMJOrtnVgLyZ8xbQ7uBzgTbBSTm8PGYRZ&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQFnoECBsQAQ",
+      "displayed_link": "https://bearegards.com › blogs › news › creative-deploy...",
+      "favicon": "https://serpapi.com/searches/6a3a20712c2bb4cbe97529f0/images/h9TtPXFoLiRwSgvw_VJCdGFx6NzG_sCuWuPqASfdiRc.jpeg",
+      "date": "Mar 21, 2025",
+      "snippet": "You can create a simple calendar or chart that shows all the days or weeks until the deployment ends. For example, draw a big grid on poster ...",
+      "snippet_highlighted_words": [
+        "days",
+        "deployment"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "7–8 day delivery",
+            "28-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "You can create a simple calendar or chart that shows all the days or weeks until the deployment ends. For example, draw a big grid on poster ...",
+          "source_info_link": "https://bearegards.com/blogs/news/creative-deployment-countdown-ideas-for-military-families?srsltid=AfmBOopVC0DrDmoAuEizZtfSMJOrtnVgLyZ8xbQ7uBzgTbBSTm8PGYRZ",
+          "icon": "https://serpapi.com/searches/6a3a20712c2bb4cbe97529f0/images/h9TtPXFoLiRwSgvw_VJCdPaUw_OF02yf08CECQ8Qut-S1HxcIto8u85PnNEg6gET.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bearegards.com/blogs/news/creative-deployment-countdown-ideas-for-military-families?srsltid=AfmBOopVC0DrDmoAuEizZtfSMJOrtnVgLyZ8xbQ7uBzgTbBSTm8PGYRZ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbearegards.com%2Fblogs%2Fnews%2Fcreative-deployment-countdown-ideas-for-military-families%3Fsrsltid%3DAfmBOopVC0DrDmoAuEizZtfSMJOrtnVgLyZ8xbQ7uBzgTbBSTm8PGYRZ",
+      "source": "BeaRegards"
+    },
+    {
+      "position": 6,
+      "title": "7 Fun Deployment Countdown Displays",
+      "link": "https://seasonedspouse.com/deployment-countdown-displays/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://seasonedspouse.com/deployment-countdown-displays/&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQFnoECBoQAQ",
+      "displayed_link": "https://seasonedspouse.com › deployment-countdown-d...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX____58O_z4uD79vXqy8jiubXx3dv15uXv1dLgsq3u19Xu7u7f39-7u7vKysr6-vr8-PfFxu7LzPCho-Xv7_q-v-yVl-Lk5Pfx8fvQ0fHf3_XV1vOusOiJi9-qrOe4uuuEht6QkuGbnePQhX7nxcJ9gNx0d9vCYlnLe3S0JxLYoZ3j4_cuTLIVAAAA6ElEQVR4AWKgNmBkYmLEKcfMwsLChEOSiYWVBVDOXBgGCANRAP24WwLx4FT3369YvRv0xXMSRviTFydRmqa4ZR_j4ISO78WRh1NelPeosEsdB1Fa41LlyKtz4OSGfoJDQ_ADBbw6xq7tWMsFEQRSKA3FhZHY-TV2tmV9T3U_6H6c9Dz0FEAIf_FXGKomzTYym152E5kVe0Dw-OSmy-JgV-3j3XVLnp00CHAyA8E3L8GKKsVp09R0igqqVS8bil380aohe8CSpt8wvo4DditufOZbD9pLwzoqZo2djw-8ww8xPgj8VOMfeQNNMA9Bq2xk9wAAAABJRU5ErkJggg.png",
+      "snippet": "You can use an app, a calendar, a chalkboard, and little stones in a jar. These deployment countdown ideas are perfect for military kids or adults!",
+      "snippet_highlighted_words": [
+        "perfect for military kids or adults"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You can use an app, a calendar, a chalkboard, and little stones in a jar. These deployment countdown ideas are perfect for military kids or adults!",
+          "source_info_link": "https://seasonedspouse.com/deployment-countdown-displays/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX____58O_z4uD79vXqy8jiubXx3dv15uXv1dLgsq3u19Xu7u7f39-7u7vKysr6-vr8-PfFxu7LzPCho-Xv7_q-v-yVl-Lk5Pfx8fvQ0fHf3_XV1vOusOiJi9-qrOe4uuuEht6QkuGbnePQhX7nxcJ9gNx0d9vCYlnLe3S0JxLYoZ3j4_cuTLIVAAAA6ElEQVR4AWKgNmBkYmLEKcfMwsLChEOSiYWVBVDOXBgGCANRAP24WwLx4FT3369YvRv0xXMSRviTFydRmqa4ZR_j4ISO78WRh1NelPeosEsdB1Fa41LlyKtz4OSGfoJDQ_ADBbw6xq7tWMsFEQRSKA3FhZHY-TV2tmV9T3U_6H6c9Dz0FEAIf_FXGKomzTYym152E5kVe0Dw-OSmy-JgV-3j3XVLnp00CHAyA8E3L8GKKsVp09R0igqqVS8bil380aohe8CSpt8wvo4DditufOZbD9pLwzoqZo2djw-8ww8xPgj8VOMfeQNNMA9Bq2xk9wAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://seasonedspouse.com/deployment-countdown-displays/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fseasonedspouse.com%2Fdeployment-countdown-displays%2F",
+      "source": "Seasoned Spouse"
+    },
+    {
+      "position": 7,
+      "title": "Printable Deployment Countdown",
+      "link": "https://www.etsy.com/listing/984092478/printable-deployment-countdown",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.etsy.com/listing/984092478/printable-deployment-countdown&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQFnoECEcQAQ",
+      "displayed_link": "https://www.etsy.com › ... › Paper › Calendars & Planners",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEXzZAP1ZAD1YgD1XgD3gz32fDL2dij2cSP4kFT1bSL____83M31XQD0VgD2eyz-6-L4kVv2agD2bAD80br80sP1WgD3i1f7zbr5qHz6sY76tZD7ybP-7uf7vp74lWP2dzT4nXD5r4b--PT5pnr2f0P2gkz1aBW6vmIYAAAAyElEQVR4AaXSRQKDQAxA0ZKgaabuuN7_hrhb7W8fjG_Wkxb7CKEf4gA3sqJqdaqi69BDMGjQlvt_gtjtiQ7HotOZLtfhgsSF6IbljOoEryVW3-3vY7zXCICPJ84jv56IpfXRrOYUlp0vdQYdTXU98ufR2lsBUYiz6LlR7C_9mc-JwnoNsb9aDB2UcGmfmJt3x6UTkq5787qErJPPPYSr2BK9RJli0QE7hOQcUFGQR3ky9NH2H2Hdw_dfSQ8lYMY2ZobV1_cvrpYBWw4RxEG5YpkAAAAASUVORK5CYII.png",
+      "snippet": "Use this printable countdown to help visualize how many days until your loved one returns home from deployment. Just download, edit, print, and start counting ...",
+      "snippet_highlighted_words": [
+        "countdown",
+        "days",
+        "deployment"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 3.0,
+            "currency": "$",
+            "rating": 4.9,
+            "reviews": 2136
+          },
+          "extensions": [
+            "$3.00",
+            "In stock",
+            "4.9(2,136)",
+            "Free delivery"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Use this printable countdown to help visualize how many days until your loved one returns home from deployment. Just download, edit, print, and start counting ...",
+          "source_info_link": "https://www.etsy.com/listing/984092478/printable-deployment-countdown",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEXzZAP1ZAD1YgD1XgD3gz32fDL2dij2cSP4kFT1bSL____83M31XQD0VgD2eyz-6-L4kVv2agD2bAD80br80sP1WgD3i1f7zbr5qHz6sY76tZD7ybP-7uf7vp74lWP2dzT4nXD5r4b--PT5pnr2f0P2gkz1aBW6vmIYAAAAyElEQVR4AaXSRQKDQAxA0ZKgaabuuN7_hrhb7W8fjG_Wkxb7CKEf4gA3sqJqdaqi69BDMGjQlvt_gtjtiQ7HotOZLtfhgsSF6IbljOoEryVW3-3vY7zXCICPJ84jv56IpfXRrOYUlp0vdQYdTXU98ufR2lsBUYiz6LlR7C_9mc-JwnoNsb9aDB2UcGmfmJt3x6UTkq5787qErJPPPYSr2BK9RJli0QE7hOQcUFGQR3ky9NH2H2Hdw_dfSQ8lYMY2ZobV1_cvrpYBWw4RxEG5YpkAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.etsy.com/listing/984092478/printable-deployment-countdown&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.etsy.com%2Flisting%2F984092478%2Fprintable-deployment-countdown",
+      "source": "Etsy"
+    },
+    {
+      "position": 8,
+      "title": "Deployment Countdown Calendar",
+      "link": "https://res.cloudinary.com/baptisthealth/image/upload/v1627323141/WolfsonChildrens/On%20Our%20Sleeves/WCH_39442_OOS_Military_Deployment_Countdown_Calendar_v01.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://res.cloudinary.com/baptisthealth/image/upload/v1627323141/WolfsonChildrens/On%2520Our%2520Sleeves/WCH_39442_OOS_Military_Deployment_Countdown_Calendar_v01.pdf&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQFnoECEQQAQ",
+      "displayed_link": "https://res.cloudinary.com › WolfsonChildrens",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEU0SMUzR8UuQ8QlPcMiO8IoP8MwRcRlddOgqOK9w-q8wuuVoOBRYs0dN8KBjdrs7vr____w8vv5-v7Q1PBjcdHZ3POHkts9UMgWM8FLXsyfqOJ_i9qLldu2vOlHWMptetOpsORBUseaot_Gy-x7h9ng4vUsQsRdbM9da890gNTIze2vtuZgbUANAAABJElEQVR4Ac3RVYLEMAgA0IQmVGbaUHf37f3vt7X1PcDwBw-i7IWDgyaExH9JSt0wrcfThj-GzFFErkfkB8h_zTHDC6M4sdNMqRx_ENgFlZW2F1ELQhXAlyHUjeu3d0UGyrf5p7FOuX0tP3LNoCGWF3PsPFNPcU_v5pS8sYAzBV2Z1STnh0QGeOrihNRNh6Lh1hJqjxo26QswjgiSle46Mcbj0n-i6IlGvfZUgGxpcW9TBuc3TgORVYVEPRvGpkVM_TLekRuqnqacyGRvRM2ydzgTLOG2I4NVbbE8cOqJjAMHORVugezYdPMM-MRqH5_x4frpdfLWDOMde77jVvlEeqv2c9y3Fk8WN6YVPC1zawerz2AR8O3DuCY0QCE0nISQe-El4x1nqxahXNoFHwAAAABJRU5ErkJggg.png",
+      "snippet": "Page 1. Deployment Countdown Calendar. © Baptist Health 2021. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27.",
+      "snippet_highlighted_words": [
+        "Deployment Countdown Calendar"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Page 1. Deployment Countdown Calendar. © Baptist Health 2021. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27.",
+          "source_info_link": "https://res.cloudinary.com/baptisthealth/image/upload/v1627323141/WolfsonChildrens/On%20Our%20Sleeves/WCH_39442_OOS_Military_Deployment_Countdown_Calendar_v01.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEU0SMUzR8UuQ8QlPcMiO8IoP8MwRcRlddOgqOK9w-q8wuuVoOBRYs0dN8KBjdrs7vr____w8vv5-v7Q1PBjcdHZ3POHkts9UMgWM8FLXsyfqOJ_i9qLldu2vOlHWMptetOpsORBUseaot_Gy-x7h9ng4vUsQsRdbM9da890gNTIze2vtuZgbUANAAABJElEQVR4Ac3RVYLEMAgA0IQmVGbaUHf37f3vt7X1PcDwBw-i7IWDgyaExH9JSt0wrcfThj-GzFFErkfkB8h_zTHDC6M4sdNMqRx_ENgFlZW2F1ELQhXAlyHUjeu3d0UGyrf5p7FOuX0tP3LNoCGWF3PsPFNPcU_v5pS8sYAzBV2Z1STnh0QGeOrihNRNh6Lh1hJqjxo26QswjgiSle46Mcbj0n-i6IlGvfZUgGxpcW9TBuc3TgORVYVEPRvGpkVM_TLekRuqnqacyGRvRM2ydzgTLOG2I4NVbbE8cOqJjAMHORVugezYdPMM-MRqH5_x4frpdfLWDOMde77jVvlEeqv2c9y3Fk8WN6YVPC1zawerz2AR8O3DuCY0QCE0nISQe-El4x1nqxahXNoFHwAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://res.cloudinary.com/baptisthealth/image/upload/v1627323141/WolfsonChildrens/On%20Our%20Sleeves/WCH_39442_OOS_Military_Deployment_Countdown_Calendar_v01.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fres.cloudinary.com%2Fbaptisthealth%2Fimage%2Fupload%2Fv1627323141%2FWolfsonChildrens%2FOn%2520Our%2520Sleeves%2FWCH_39442_OOS_Military_Deployment_Countdown_Calendar_v01.pdf",
+      "source": "Cloudinary",
+      "read_more_link": "https://res.cloudinary.com/baptisthealth/image/upload/v1627323141/WolfsonChildrens/On%20Our%20Sleeves/WCH_39442_OOS_Military_Deployment_Countdown_Calendar_v01.pdf#:~:text=Page%201,27"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Free deployment countdown days military",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Free+deployment+countdown+days+military&sa=X&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+deployment+countdown+days+military"
+    },
+    {
+      "block_position": 1,
+      "query": "Deployment countdown days military pdf",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Deployment+countdown+days+military+pdf&sa=X&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deployment+countdown+days+military+pdf"
+    },
+    {
+      "block_position": 1,
+      "query": "Best deployment countdown days military",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Best+deployment+countdown+days+military&sa=X&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+deployment+countdown+days+military"
+    },
+    {
+      "block_position": 1,
+      "query": "Deployment Countdown Calendar",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Deployment+Countdown+Calendar&sa=X&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deployment+Countdown+Calendar"
+    },
+    {
+      "block_position": 1,
+      "query": "Deployment countdown app",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Deployment+countdown+app&sa=X&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deployment+countdown+app"
+    },
+    {
+      "block_position": 1,
+      "query": "Deployment Countdown for kids",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Deployment+Countdown+for+kids&sa=X&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deployment+Countdown+for+kids"
+    },
+    {
+      "block_position": 1,
+      "query": "Deployment countdown Ideas",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Deployment+countdown+Ideas&sa=X&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deployment+countdown+Ideas"
+    },
+    {
+      "block_position": 1,
+      "query": "Deployment countdown calendar printable",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Deployment+countdown+calendar+printable&sa=X&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deployment+countdown+calendar+printable"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "How long before you get sent home from deployment, will you know ...",
+      "link": "https://www.reddit.com/r/army/comments/1gryaep/how_long_before_you_get_sent_home_from_deployment/",
+      "date": "1 year ago",
+      "extensions": [
+        "r/army",
+        "70+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/army/comments/1gryaep/how_long_before_you_get_sent_home_from_deployment/lx9w3y7/",
+          "extensions": [
+            "Top answer",
+            "81 votes",
+            "a year ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/army/comments/1gryaep/how_long_before_you_get_sent_home_from_deployment/lx9vj12/",
+          "extensions": [
+            "59 votes",
+            "a year ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/army/comments/1gryaep/how_long_before_you_get_sent_home_from_deployment/lx9y4ko/",
+          "extensions": [
+            "10 votes",
+            "a year ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Military Deployment Countdown - Made on a Glowforge",
+      "link": "https://community.glowforge.com/t/military-deployment-countdown/103243",
+      "date": "4 years ago",
+      "source": "Glowforge Owners Forum",
+      "answers": [
+        {
+          "link": "https://community.glowforge.com/t/military-deployment-countdown/103243"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=deployment+countdown+days+military&sca_esv=c510ba4e6526f391&ei=cSA6asLnMLqqptQP2sfmuQU&start=10&sa=N&sstk=AU9db-DvHgz52ZtnHUPzZd75GfNz30miTaShY9UDKixG108i9xaVwFXPaze_ZKS2iPQn1ydy6HO6onS_Rf5kb8ZKHUXaoehxHYryrg&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ8NMDegQINxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=deployment+countdown+days+military&sca_esv=c510ba4e6526f391&ei=cSA6asLnMLqqptQP2sfmuQU&start=10&sa=N&sstk=AU9db-DvHgz52ZtnHUPzZd75GfNz30miTaShY9UDKixG108i9xaVwFXPaze_ZKS2iPQn1ydy6HO6onS_Rf5kb8ZKHUXaoehxHYryrg&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ8tMDegQINxAE",
+      "3": "https://www.google.com/search?q=deployment+countdown+days+military&sca_esv=c510ba4e6526f391&ei=cSA6asLnMLqqptQP2sfmuQU&start=20&sa=N&sstk=AU9db-DvHgz52ZtnHUPzZd75GfNz30miTaShY9UDKixG108i9xaVwFXPaze_ZKS2iPQn1ydy6HO6onS_Rf5kb8ZKHUXaoehxHYryrg&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ8tMDegQINxAG",
+      "4": "https://www.google.com/search?q=deployment+countdown+days+military&sca_esv=c510ba4e6526f391&ei=cSA6asLnMLqqptQP2sfmuQU&start=30&sa=N&sstk=AU9db-DvHgz52ZtnHUPzZd75GfNz30miTaShY9UDKixG108i9xaVwFXPaze_ZKS2iPQn1ydy6HO6onS_Rf5kb8ZKHUXaoehxHYryrg&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ8tMDegQINxAI",
+      "5": "https://www.google.com/search?q=deployment+countdown+days+military&sca_esv=c510ba4e6526f391&ei=cSA6asLnMLqqptQP2sfmuQU&start=40&sa=N&sstk=AU9db-DvHgz52ZtnHUPzZd75GfNz30miTaShY9UDKixG108i9xaVwFXPaze_ZKS2iPQn1ydy6HO6onS_Rf5kb8ZKHUXaoehxHYryrg&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ8tMDegQINxAK",
+      "6": "https://www.google.com/search?q=deployment+countdown+days+military&sca_esv=c510ba4e6526f391&ei=cSA6asLnMLqqptQP2sfmuQU&start=50&sa=N&sstk=AU9db-DvHgz52ZtnHUPzZd75GfNz30miTaShY9UDKixG108i9xaVwFXPaze_ZKS2iPQn1ydy6HO6onS_Rf5kb8ZKHUXaoehxHYryrg&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ8tMDegQINxAM",
+      "7": "https://www.google.com/search?q=deployment+countdown+days+military&sca_esv=c510ba4e6526f391&ei=cSA6asLnMLqqptQP2sfmuQU&start=60&sa=N&sstk=AU9db-DvHgz52ZtnHUPzZd75GfNz30miTaShY9UDKixG108i9xaVwFXPaze_ZKS2iPQn1ydy6HO6onS_Rf5kb8ZKHUXaoehxHYryrg&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ8tMDegQINxAO",
+      "8": "https://www.google.com/search?q=deployment+countdown+days+military&sca_esv=c510ba4e6526f391&ei=cSA6asLnMLqqptQP2sfmuQU&start=70&sa=N&sstk=AU9db-DvHgz52ZtnHUPzZd75GfNz30miTaShY9UDKixG108i9xaVwFXPaze_ZKS2iPQn1ydy6HO6onS_Rf5kb8ZKHUXaoehxHYryrg&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ8tMDegQINxAQ",
+      "9": "https://www.google.com/search?q=deployment+countdown+days+military&sca_esv=c510ba4e6526f391&ei=cSA6asLnMLqqptQP2sfmuQU&start=80&sa=N&sstk=AU9db-DvHgz52ZtnHUPzZd75GfNz30miTaShY9UDKixG108i9xaVwFXPaze_ZKS2iPQn1ydy6HO6onS_Rf5kb8ZKHUXaoehxHYryrg&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ8tMDegQINxAS",
+      "10": "https://www.google.com/search?q=deployment+countdown+days+military&sca_esv=c510ba4e6526f391&ei=cSA6asLnMLqqptQP2sfmuQU&start=90&sa=N&sstk=AU9db-DvHgz52ZtnHUPzZd75GfNz30miTaShY9UDKixG108i9xaVwFXPaze_ZKS2iPQn1ydy6HO6onS_Rf5kb8ZKHUXaoehxHYryrg&ved=2ahUKEwiC5MGM15yVAxU6lYkEHdqjOVcQ8tMDegQINxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+countdown+days+military&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+countdown+days+military&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+countdown+days+military&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+countdown+days+military&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+countdown+days+military&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+countdown+days+military&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+countdown+days+military&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+countdown+days+military&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+countdown+days+military&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+countdown+days+military&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+countdown+days+military&start=90"
+    }
+  }
+}

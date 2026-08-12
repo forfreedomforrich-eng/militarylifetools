@@ -1,0 +1,430 @@
+{
+  "search_metadata": {
+    "id": "6a3a18ade3e1768fe515c8ba",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Oo1E1c07v8AMKbhsWIsbfw/6a3a18ade3e1768fe515c8ba.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Oo1E1c07v8AMKbhsWIsbfw/6a3a18ade3e1768fe515c8ba.json_with_pixel_position",
+    "created_at": "2026-06-23 05:25:01 UTC",
+    "processed_at": "2026-06-23 05:25:01 UTC",
+    "google_url": "https://www.google.com/search?q=steering+ratio+calculator+car&oq=steering+ratio+calculator+car&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Oo1E1c07v8AMKbhsWIsbfw/6a3a18ade3e1768fe515c8ba.html",
+    "total_time_taken": 0.99
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "steering ratio calculator car",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "steering ratio calculator car",
+    "total_results": 107,
+    "time_taken_displayed": 0.19,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How do you calculate steering ratio?",
+      "type": "ai_overview",
+      "page_token": "el34HXicHdBRboIwAADQ7DJ-SgHHoolZRC2MSE0LLdCfBQqo0EKjKOrf7rJT7TRbdoKXvK9veeran5f0OAz6sjCMcRynh74_yGoqemXkl0cnDJFLWeSiXThvjvlei-X2MrrrfnQx1ZptCIgh5JH1YSMWsDjNnrt0ZWNqAt7IOFbaCf3SEQD6icdQ0iI7gVBlKZ1lKRrDDkkSu7pQpYtbTSKF70WDnOIJrxjobeG9XveUSGbyHWklxB01KxYoBOaQm7DBjNckJW4OZlbolZvCa-0qMhlryU4wlP-ZCd-4itr6xiyEmCJO5IsI2kHPn_woLH3GwBwKGwJhru6xp8OcQuSdApf46LFPeBSD-zmz8JDL8kobsq0gXGcx6gs670gyWlmr3Uktbkt78j-2_KzVsNDn_vAL9FF28g",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=el34HXicHdBRboIwAADQ7DJ-SgHHoolZRC2MSE0LLdCfBQqo0EKjKOrf7rJT7TRbdoKXvK9veeran5f0OAz6sjCMcRynh74_yGoqemXkl0cnDJFLWeSiXThvjvlei-X2MrrrfnQx1ZptCIgh5JH1YSMWsDjNnrt0ZWNqAt7IOFbaCf3SEQD6icdQ0iI7gVBlKZ1lKRrDDkkSu7pQpYtbTSKF70WDnOIJrxjobeG9XveUSGbyHWklxB01KxYoBOaQm7DBjNckJW4OZlbolZvCa-0qMhlryU4wlP-ZCd-4itr6xiyEmCJO5IsI2kHPn_woLH3GwBwKGwJhru6xp8OcQuSdApf46LFPeBSD-zmz8JDL8kobsq0gXGcx6gs670gyWlmr3Uktbkt78j-2_KzVsNDn_vAL9FF28g",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVVSkRTWGxyTW5SNWMzSktTMHBsY2t4SldHdEpYelJ5ZFRCWFlVOXVSMTloWjJwcFdYVkNVbTlYVjBkdWVXVkhZMU5TY2tOWU1rZGpTbEpJVGtSc1UwUjBaVTFpWTBKZlIwTnlWVmszWkMxaGRuUmhSbW8yV0ZoWlp4SVhjbWhuTm1GemFtdERUVzF2Y1hSelVERk1ha3hwUVUwYUlrRkVjM0k1WmxOTFNIbzBjREpEYVZkdlJYZEpSVVpWUzNOWFVWTnRhRmx2YVVFIiwiZmN2IjoiMyIsImVpIjoicmhnNmFzamtDTW1vcXRzUDFMakxpQU0iLCJxYyI6IkNoMXpkR1ZsY21sdVp5QnlZWFJwYnlCallXeGpkV3hoZEc5eUlHTmhjaEFBZmVEWDRqNCIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSBjYWxjdWxhdGUgc3RlZXJpbmcgcmF0aW8/IiwibGsiOiJHaGhqWVd4amRXeGhkR1VnYzNSbFpYSnBibWNnY21GMGFXOCIsImJzIjoiYy1OeTRsTHh5QzlYU01sWHFNd3ZWVWhPekVrdXpVa3NTVlVvTGtsTkxjck1TMWNvU2l6SnpMYzNrcEtTd0NYSkZjZWxIWjZSV0tLUVdheFFrb0V1cTVDZnBwQ29rSmRmbEp1WUF6U195RjdpV0lTUmpwUldPZEU2dU15NTVHRG1KeW9ZR2lrWVlyaE9WRW9ZaXppWEpaY0Nzc09TVW90THNHbkZJaTdBQ0FBIiwiaWQiOiJmY19yaGc2YXNqa0NNbW9xdHNQMUxqTGlBTV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVVSkRTWGxyTW5SNWMzSktTMHBsY2t4SldHdEpYelJ5ZFRCWFlVOXVSMTloWjJwcFdYVkNVbTlYVjBkdWVXVkhZMU5TY2tOWU1rZGpTbEpJVGtSc1UwUjBaVTFpWTBKZlIwTnlWVmszWkMxaGRuUmhSbW8yV0ZoWlp4SVhjbWhuTm1GemFtdERUVzF2Y1hSelVERk1ha3hwUVUwYUlrRkVjM0k1WmxOTFNIbzBjREpEYVZkdlJYZEpSVVpWUzNOWFVWTnRhRmx2YVVFIiwiZmN2IjoiMyIsImVpIjoicmhnNmFzamtDTW1vcXRzUDFMakxpQU0iLCJxYyI6IkNoMXpkR1ZsY21sdVp5QnlZWFJwYnlCallXeGpkV3hoZEc5eUlHTmhjaEFBZmVEWDRqNCIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSBjYWxjdWxhdGUgc3RlZXJpbmcgcmF0aW8%2FIiwibGsiOiJHaGhqWVd4amRXeGhkR1VnYzNSbFpYSnBibWNnY21GMGFXOCIsImJzIjoiYy1OeTRsTHh5QzlYU01sWHFNd3ZWVWhPekVrdXpVa3NTVlVvTGtsTkxjck1TMWNvU2l6SnpMYzNrcEtTd0NYSkZjZWxIWjZSV0tLUVdheFFrb0V1cTVDZnBwQ29rSmRmbEp1WUF6U195RjdpV0lTUmpwUldPZEU2dU15NTVHRG1KeW9ZR2lrWVlyaE9WRW9ZaXppWEpaY0Nzc09TVW90THNHbkZJaTdBQ0FBIiwiaWQiOiJmY19yaGc2YXNqa0NNbW9xdHNQMUxqTGlBTV80In0%3D"
+    },
+    {
+      "question": "What is the steering ratio of a normal car?",
+      "type": "featured_snippet",
+      "snippet": "In most passenger cars, the ratio is between 12:1 and 20:1. For example, if one and a half turns of the steering wheel, 540 degrees, causes the inner & outer wheel to turn 35 and 30 degrees respectively, due to Ackermann steering geometry, the ratio is then 540:((35+30)/2) = 16.6:1.",
+      "title": "Steering ratio - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Steering_ratio#:~:text=In%20most%20passenger%20cars%2C%20the,2)%20%3D%2016.6%3A1.",
+      "displayed_link": "https://en.wikipedia.org › wiki › Steering_ratio",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVVSkRTWGxyTW5SNWMzSktTMHBsY2t4SldHdEpYelJ5ZFRCWFlVOXVSMTloWjJwcFdYVkNVbTlYVjBkdWVXVkhZMU5TY2tOWU1rZGpTbEpJVGtSc1UwUjBaVTFpWTBKZlIwTnlWVmszWkMxaGRuUmhSbW8yV0ZoWlp4SVhjbWhuTm1GemFtdERUVzF2Y1hSelVERk1ha3hwUVUwYUlrRkVjM0k1WmxOTFNIbzBjREpEYVZkdlJYZEpSVVpWUzNOWFVWTnRhRmx2YVVFIiwiZmN2IjoiMyIsImVpIjoicmhnNmFzamtDTW1vcXRzUDFMakxpQU0iLCJxYyI6IkNoMXpkR1ZsY21sdVp5QnlZWFJwYnlCallXeGpkV3hoZEc5eUlHTmhjaEFBZmVEWDRqNCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc3RlZXJpbmcgcmF0aW8gb2YgYSBub3JtYWwgY2FyPyIsImxrIjoiR2lwM2FHRjBJR2x6SUhSb1pTQnpkR1ZsY21sdVp5QnlZWFJwYnlCdlppQmhJRzV2Y20xaGJDQmpZWEkiLCJicyI6ImMtTnk0bEx4eUM5WFNNbFhxTXd2VlVoT3pFa3V6VWtzU1ZVb0xrbE5MY3JNUzFjb1Npekp6TGMza3BLU3dDWEpGY2VsSFo2UldLS1FXYXhRa29FdXE1Q2ZwcENva0pkZmxKdVlBelNfeUY3aVdJU1JqcFJXT2RFNnVNeTU1R0RtSnlvWUdpa1lZcmhPVkVvWWl6aVhKWmNDc3NPU1VvdExzR25GSWk3QUNBQSIsImlkIjoiZmNfcmhnNmFzamtDTW1vcXRzUDFMakxpQU1fNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVVSkRTWGxyTW5SNWMzSktTMHBsY2t4SldHdEpYelJ5ZFRCWFlVOXVSMTloWjJwcFdYVkNVbTlYVjBkdWVXVkhZMU5TY2tOWU1rZGpTbEpJVGtSc1UwUjBaVTFpWTBKZlIwTnlWVmszWkMxaGRuUmhSbW8yV0ZoWlp4SVhjbWhuTm1GemFtdERUVzF2Y1hSelVERk1ha3hwUVUwYUlrRkVjM0k1WmxOTFNIbzBjREpEYVZkdlJYZEpSVVpWUzNOWFVWTnRhRmx2YVVFIiwiZmN2IjoiMyIsImVpIjoicmhnNmFzamtDTW1vcXRzUDFMakxpQU0iLCJxYyI6IkNoMXpkR1ZsY21sdVp5QnlZWFJwYnlCallXeGpkV3hoZEc5eUlHTmhjaEFBZmVEWDRqNCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc3RlZXJpbmcgcmF0aW8gb2YgYSBub3JtYWwgY2FyPyIsImxrIjoiR2lwM2FHRjBJR2x6SUhSb1pTQnpkR1ZsY21sdVp5QnlZWFJwYnlCdlppQmhJRzV2Y20xaGJDQmpZWEkiLCJicyI6ImMtTnk0bEx4eUM5WFNNbFhxTXd2VlVoT3pFa3V6VWtzU1ZVb0xrbE5MY3JNUzFjb1Npekp6TGMza3BLU3dDWEpGY2VsSFo2UldLS1FXYXhRa29FdXE1Q2ZwcENva0pkZmxKdVlBelNfeUY3aVdJU1JqcFJXT2RFNnVNeTU1R0RtSnlvWUdpa1lZcmhPVkVvWWl6aVhKWmNDc3NPU1VvdExzR25GSWk3QUNBQSIsImlkIjoiZmNfcmhnNmFzamtDTW1vcXRzUDFMakxpQU1fNCJ9"
+    },
+    {
+      "question": "What is a 12 1 steering ratio?",
+      "type": "ai_overview",
+      "page_token": "lMi1MXicHdBdboIwAADg7DI-jhbURROzyKAoiWX2h7-XBYpQoViGTMS33WWn2mmW7DvC9_2jzpfm9ymWw9Bd14YxjuNzpXWlTs9Ct0Z2nS7CEJlSeSaa9fJlCV9LsXGvo_2mR_vIuy50CKC1HIozDA7K9o-hmBcQNylMJbHUnjjVQij7HSOFaK2CLNQTj-4985Abg7sOIlUXCJm07W5Y4SVFfpgA5KSWZMwlXyLmixStHOKSfcaUWUDiHc2Vx8L9vKjt8YSKPm_kjvLVlDRyjsOtmVgySkwxEdbAvF08IkQAblCZu_6NKvyZMU6R5ev0kUphdv0RwCG3EBBwe2ded8g4wt7Zt8kOT0GUUsZhGgM05mEyMU9POYCteGCn4NzK2tDNkbRnpbhtrNn_2OajbId11-vqD9xCd8Q",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=lMi1MXicHdBdboIwAADg7DI-jhbURROzyKAoiWX2h7-XBYpQoViGTMS33WWn2mmW7DvC9_2jzpfm9ymWw9Bd14YxjuNzpXWlTs9Ct0Z2nS7CEJlSeSaa9fJlCV9LsXGvo_2mR_vIuy50CKC1HIozDA7K9o-hmBcQNylMJbHUnjjVQij7HSOFaK2CLNQTj-4985Abg7sOIlUXCJm07W5Y4SVFfpgA5KSWZMwlXyLmixStHOKSfcaUWUDiHc2Vx8L9vKjt8YSKPm_kjvLVlDRyjsOtmVgySkwxEdbAvF08IkQAblCZu_6NKvyZMU6R5ev0kUphdv0RwCG3EBBwe2ded8g4wt7Zt8kOT0GUUsZhGgM05mEyMU9POYCteGCn4NzK2tDNkbRnpbhtrNn_2OajbId11-vqD9xCd8Q",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVVSkRTWGxyTW5SNWMzSktTMHBsY2t4SldHdEpYelJ5ZFRCWFlVOXVSMTloWjJwcFdYVkNVbTlYVjBkdWVXVkhZMU5TY2tOWU1rZGpTbEpJVGtSc1UwUjBaVTFpWTBKZlIwTnlWVmszWkMxaGRuUmhSbW8yV0ZoWlp4SVhjbWhuTm1GemFtdERUVzF2Y1hSelVERk1ha3hwUVUwYUlrRkVjM0k1WmxOTFNIbzBjREpEYVZkdlJYZEpSVVpWUzNOWFVWTnRhRmx2YVVFIiwiZmN2IjoiMyIsImVpIjoicmhnNmFzamtDTW1vcXRzUDFMakxpQU0iLCJxYyI6IkNoMXpkR1ZsY21sdVp5QnlZWFJwYnlCallXeGpkV3hoZEc5eUlHTmhjaEFBZmVEWDRqNCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIDEyIDEgc3RlZXJpbmcgcmF0aW8/IiwibGsiOiJHaE14TWlBeElITjBaV1Z5YVc1bklISmhkR2x2IiwiYnMiOiJjLU55NGxMeHlDOVhTTWxYcU13dlZVaE96RWt1elVrc1NWVW9Ma2xOTGNyTVMxY29TaXpKekxjM2twS1N3Q1hKRmNlbEhaNlJXS0tRV2F4UWtvRXVxNUNmcHBDb2tKZGZsSnVZQXpTX3lGN2lXSVNSanBSV09kRTZ1TXk1NUdEbUp5b1lHaWtZWXJoT1ZFb1lpemlYSlpjQ3NzT1NVb3RMc0duRklpN0FDQUEiLCJpZCI6ImZjX3JoZzZhc2prQ01tb3F0c1AxTGpMaUFNXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVVSkRTWGxyTW5SNWMzSktTMHBsY2t4SldHdEpYelJ5ZFRCWFlVOXVSMTloWjJwcFdYVkNVbTlYVjBkdWVXVkhZMU5TY2tOWU1rZGpTbEpJVGtSc1UwUjBaVTFpWTBKZlIwTnlWVmszWkMxaGRuUmhSbW8yV0ZoWlp4SVhjbWhuTm1GemFtdERUVzF2Y1hSelVERk1ha3hwUVUwYUlrRkVjM0k1WmxOTFNIbzBjREpEYVZkdlJYZEpSVVpWUzNOWFVWTnRhRmx2YVVFIiwiZmN2IjoiMyIsImVpIjoicmhnNmFzamtDTW1vcXRzUDFMakxpQU0iLCJxYyI6IkNoMXpkR1ZsY21sdVp5QnlZWFJwYnlCallXeGpkV3hoZEc5eUlHTmhjaEFBZmVEWDRqNCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIDEyIDEgc3RlZXJpbmcgcmF0aW8%2FIiwibGsiOiJHaE14TWlBeElITjBaV1Z5YVc1bklISmhkR2x2IiwiYnMiOiJjLU55NGxMeHlDOVhTTWxYcU13dlZVaE96RWt1elVrc1NWVW9Ma2xOTGNyTVMxY29TaXpKekxjM2twS1N3Q1hKRmNlbEhaNlJXS0tRV2F4UWtvRXVxNUNmcHBDb2tKZGZsSnVZQXpTX3lGN2lXSVNSanBSV09kRTZ1TXk1NUdEbUp5b1lHaWtZWXJoT1ZFb1lpemlYSlpjQ3NzT1NVb3RMc0duRklpN0FDQUEiLCJpZCI6ImZjX3JoZzZhc2prQ01tb3F0c1AxTGpMaUFNXzQifQ%3D%3D"
+    },
+    {
+      "question": "What is the best steering ratio?",
+      "type": "ai_overview",
+      "page_token": "ss4sn3icHdDbboIwAADQ7Gf2qBTiFk3MEoQqunaDXri8LKWd4FpuiiK-7V_2VfuamX3BSc73jznU-vfhUvZ9e1pMp8MwTIqmKcznRDbVVJzGWk6lMCYXUi-enp_Ay14u_XPgrrrADVnbci-yyC3TYQJ1yqKRrYGLLGVHvna4Dc5pUjLh41Vu9TtMs4N0IA0ZfM19mCioOHIykGtMme7r2CscqkGX8u0VVa3HfQ7fGDhnHrRI1cZScw9D855q1KM62n0m2UyCMqAe78QNW5iZuzU7Kj1PMQGnu9uKKhrVV9ALex5TJke5aQFn-IwYIGgDScrnHYvLGNl4xj0DSa1cv1SjWEs7TXAnLIzzeH5VGxwidu3o2rg0ag4hi27yy1SsKgaeuDRMto6sDVA6I8SarcjaRCLeBoi6h2x43MvL0nn8_1x-7Kt-0R6b4g9k74Ke",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ss4sn3icHdDbboIwAADQ7Gf2qBTiFk3MEoQqunaDXri8LKWd4FpuiiK-7V_2VfuamX3BSc73jznU-vfhUvZ9e1pMp8MwTIqmKcznRDbVVJzGWk6lMCYXUi-enp_Ay14u_XPgrrrADVnbci-yyC3TYQJ1yqKRrYGLLGVHvna4Dc5pUjLh41Vu9TtMs4N0IA0ZfM19mCioOHIykGtMme7r2CscqkGX8u0VVa3HfQ7fGDhnHrRI1cZScw9D855q1KM62n0m2UyCMqAe78QNW5iZuzU7Kj1PMQGnu9uKKhrVV9ALex5TJke5aQFn-IwYIGgDScrnHYvLGNl4xj0DSa1cv1SjWEs7TXAnLIzzeH5VGxwidu3o2rg0ag4hi27yy1SsKgaeuDRMto6sDVA6I8SarcjaRCLeBoi6h2x43MvL0nn8_1x-7Kt-0R6b4g9k74Ke",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVVSkRTWGxyTW5SNWMzSktTMHBsY2t4SldHdEpYelJ5ZFRCWFlVOXVSMTloWjJwcFdYVkNVbTlYVjBkdWVXVkhZMU5TY2tOWU1rZGpTbEpJVGtSc1UwUjBaVTFpWTBKZlIwTnlWVmszWkMxaGRuUmhSbW8yV0ZoWlp4SVhjbWhuTm1GemFtdERUVzF2Y1hSelVERk1ha3hwUVUwYUlrRkVjM0k1WmxOTFNIbzBjREpEYVZkdlJYZEpSVVpWUzNOWFVWTnRhRmx2YVVFIiwiZmN2IjoiMyIsImVpIjoicmhnNmFzamtDTW1vcXRzUDFMakxpQU0iLCJxYyI6IkNoMXpkR1ZsY21sdVp5QnlZWFJwYnlCallXeGpkV3hoZEc5eUlHTmhjaEFBZmVEWDRqNCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBzdGVlcmluZyByYXRpbz8iLCJsayI6IkdoTmlaWE4wSUhOMFpXVnlhVzVuSUhKaGRHbHYiLCJicyI6ImMtTnk0bEx4eUM5WFNNbFhxTXd2VlVoT3pFa3V6VWtzU1ZVb0xrbE5MY3JNUzFjb1Npekp6TGMza3BLU3dDWEpGY2VsSFo2UldLS1FXYXhRa29FdXE1Q2ZwcENva0pkZmxKdVlBelNfeUY3aVdJU1JqcFJXT2RFNnVNeTU1R0RtSnlvWUdpa1lZcmhPVkVvWWl6aVhKWmNDc3NPU1VvdExzR25GSWk3QUNBQSIsImlkIjoiZmNfcmhnNmFzamtDTW1vcXRzUDFMakxpQU1fNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVVSkRTWGxyTW5SNWMzSktTMHBsY2t4SldHdEpYelJ5ZFRCWFlVOXVSMTloWjJwcFdYVkNVbTlYVjBkdWVXVkhZMU5TY2tOWU1rZGpTbEpJVGtSc1UwUjBaVTFpWTBKZlIwTnlWVmszWkMxaGRuUmhSbW8yV0ZoWlp4SVhjbWhuTm1GemFtdERUVzF2Y1hSelVERk1ha3hwUVUwYUlrRkVjM0k1WmxOTFNIbzBjREpEYVZkdlJYZEpSVVpWUzNOWFVWTnRhRmx2YVVFIiwiZmN2IjoiMyIsImVpIjoicmhnNmFzamtDTW1vcXRzUDFMakxpQU0iLCJxYyI6IkNoMXpkR1ZsY21sdVp5QnlZWFJwYnlCallXeGpkV3hoZEc5eUlHTmhjaEFBZmVEWDRqNCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBzdGVlcmluZyByYXRpbz8iLCJsayI6IkdoTmlaWE4wSUhOMFpXVnlhVzVuSUhKaGRHbHYiLCJicyI6ImMtTnk0bEx4eUM5WFNNbFhxTXd2VlVoT3pFa3V6VWtzU1ZVb0xrbE5MY3JNUzFjb1Npekp6TGMza3BLU3dDWEpGY2VsSFo2UldLS1FXYXhRa29FdXE1Q2ZwcENva0pkZmxKdVlBelNfeUY3aVdJU1JqcFJXT2RFNnVNeTU1R0RtSnlvWUdpa1lZcmhPVkVvWWl6aVhKWmNDc3NPU1VvdExzR25GSWk3QUNBQSIsImlkIjoiZmNfcmhnNmFzamtDTW1vcXRzUDFMakxpQU1fNCJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "pkDijnicxVbdkqo4EL7f9zjenDki_jtV1KkQ0UFFxPF3bigITJQfGQmKzt2-yz7V1j7MCQiKDs7UnqqtjUVCh6S_7k5_af_8y1lv7L__-GcVBG_kkWHCMCxiz8OOWUSey2jkuEHMq-cQH61-HvdcpYAIVyqYa85f4bpGLBtKrrcNyIgdWIM1kArxFk7VNWJaVOPBIozK0M7-VmlToUiK5qY4mk5Ynm30FwoqlktsqygzmksXgP-wCUDE0SjSnxDLt42n35WvtEAAaY8zUzjTJ60dwQAAYTwA7542PrYCAl6IcHlVajXpcFrexvd2AfB8Lc5jy0AYKaQuCLlO5KlL51ID-Tt4-abEMNNEqGY-fAxt1Gg0suHtU7VVgAAYJxNyui4Lh7EA2un8UyhLvCyMPzsk6nxXAk17BMVPVkXWi37YSd7D4ZKCMgamOVhidJ8OLLNGKxS_-CRKTThplTwBi9vebI-OkjCZt5fDZuD0Xsbse1W2QgbpdJ3jaYZpqCu19DOW2TJbK7UqjeZDzAlEzqQgWVJgaTkIdyEr_hCKgyLPZhgReytenQGNJM2ZfL_6cX91kjB9Ec8C_LAj2lOOFlz08pNjhC6lUYqOaAo-xDXCymFEBvMCnmQu7Fwcu9YkJvBZ7_jwBvECkKTCEvSVs8sCFa-MyyrjgR3fAd104qI70oqd-IKIGCEkCuWr_ThrWHSTKJg_IytZ62qZTRjwccStI-16wIPpLRRtEZMg9CPrsrndvWUSoaYQfOfgv2p3b6GMnWnu36RylgLd0Vq2Rz-O1tLGSB4OjZI9gy3ZmRvPYX7Ke67-LwoB-n9JkZaJfnJAnVxSKF-QQoD8p2XitLx9JkUsb--RghfzysTpxr2UiY-keL4mxf0ykSEFTrzKar0lBX-HFDjxLYcU0xxS2LmkSMpEhhSrqnJVJk5g5zKRkuK3ysT-d8pETBHzNFzXjJ2F79aOzng0etuTqa5LsOmIHtG6mkoqeKI-4S9rx6sbPLqa4Tyoa-ORL_eCo_Gg0gnv0TQKW44EpumvN_i7rwVr7zvSHLRztMDz6atfcB3f40pabUFMYCsbVtlPSpuXzqy_P7ZeuzvXKFuDgT0K6tZToxsesKRIh-Fkvqk_m8YClvXxVHQX3QNsDcee197NnsBgrsIXVRaas7JZQ1v4fuh5h4Hdm9iL9-V41PTktWZOzOHCEgy1e5zOjN6uNUX92tCqOAiReq2pbsTYMMKJumW9idN5tUYK1CVicmzB9RFHE6GKwVABc0z_J8AlUCCmj0efkKZIgSBNNcme03W9YdRZs2lUdL3SMAsuDo5vXJUtkI3Psb8A774YRA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pkDijnicxVbdkqo4EL7f9zjenDki_jtV1KkQ0UFFxPF3bigITJQfGQmKzt2-yz7V1j7MCQiKDs7UnqqtjUVCh6S_7k5_af_8y1lv7L__-GcVBG_kkWHCMCxiz8OOWUSey2jkuEHMq-cQH61-HvdcpYAIVyqYa85f4bpGLBtKrrcNyIgdWIM1kArxFk7VNWJaVOPBIozK0M7-VmlToUiK5qY4mk5Ynm30FwoqlktsqygzmksXgP-wCUDE0SjSnxDLt42n35WvtEAAaY8zUzjTJ60dwQAAYTwA7542PrYCAl6IcHlVajXpcFrexvd2AfB8Lc5jy0AYKaQuCLlO5KlL51ID-Tt4-abEMNNEqGY-fAxt1Gg0suHtU7VVgAAYJxNyui4Lh7EA2un8UyhLvCyMPzsk6nxXAk17BMVPVkXWi37YSd7D4ZKCMgamOVhidJ8OLLNGKxS_-CRKTThplTwBi9vebI-OkjCZt5fDZuD0Xsbse1W2QgbpdJ3jaYZpqCu19DOW2TJbK7UqjeZDzAlEzqQgWVJgaTkIdyEr_hCKgyLPZhgReytenQGNJM2ZfL_6cX91kjB9Ec8C_LAj2lOOFlz08pNjhC6lUYqOaAo-xDXCymFEBvMCnmQu7Fwcu9YkJvBZ7_jwBvECkKTCEvSVs8sCFa-MyyrjgR3fAd104qI70oqd-IKIGCEkCuWr_ThrWHSTKJg_IytZ62qZTRjwccStI-16wIPpLRRtEZMg9CPrsrndvWUSoaYQfOfgv2p3b6GMnWnu36RylgLd0Vq2Rz-O1tLGSB4OjZI9gy3ZmRvPYX7Ke67-LwoB-n9JkZaJfnJAnVxSKF-QQoD8p2XitLx9JkUsb--RghfzysTpxr2UiY-keL4mxf0ykSEFTrzKar0lBX-HFDjxLYcU0xxS2LmkSMpEhhSrqnJVJk5g5zKRkuK3ysT-d8pETBHzNFzXjJ2F79aOzng0etuTqa5LsOmIHtG6mkoqeKI-4S9rx6sbPLqa4Tyoa-ORL_eCo_Gg0gnv0TQKW44EpumvN_i7rwVr7zvSHLRztMDz6atfcB3f40pabUFMYCsbVtlPSpuXzqy_P7ZeuzvXKFuDgT0K6tZToxsesKRIh-Fkvqk_m8YClvXxVHQX3QNsDcee197NnsBgrsIXVRaas7JZQ1v4fuh5h4Hdm9iL9-V41PTktWZOzOHCEgy1e5zOjN6uNUX92tCqOAiReq2pbsTYMMKJumW9idN5tUYK1CVicmzB9RFHE6GKwVABc0z_J8AlUCCmj0efkKZIgSBNNcme03W9YdRZs2lUdL3SMAsuDo5vXJUtkI3Psb8A774YRA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Steering Ratio - an overview | ScienceDirect Topics",
+      "link": "https://www.sciencedirect.com/topics/engineering/steering-ratio",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/topics/engineering/steering-ratio&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQFnoECBwQAQ",
+      "displayed_link": "https://www.sciencedirect.com › topics › engineering › st...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABKElEQVR4AdzXAUQEQRTG8Y8KkThBUnAAAJEAkCIHEECAmH2zKYKIQAAEiCgFkCABBORAAFQoAMIFJMDX8xywaKpbH-Hvwc76GQMPazs9af8fQMMcM1aKAUzoRjXmfXaiGtN_AJwwg-WADLbQjwDH3iUNtz77Ph99vrULKKjgh41YYVYJiGgYqAH3WkDGqRqwScODAFBWawAaZriNRR0g48Cj8gau1YDXFgHl6QHCR_iifgNXasC-FlBhigldGaAJwnqcTehoABln3ofkBriFCRoG3pMGUGM1zhnuRgbgLiaLzxrOh4CLXwF4iPEGoMZy7AwbGGt87zgmLDBjiYY9n59DwNF3gNB6N8zoe8_eu8eRVCHJFpPI0CtezeIKvwbrmqUx8A_b3jEAhZpfRTDQgH4AAAAASUVORK5CYII.png",
+      "snippet": "The ratio of steering wheel radius to pinion pitch circle radius (tooth contact radius) determines the movement ratio. Thus the smaller the pitch circle radius ...",
+      "snippet_highlighted_words": [
+        "ratio",
+        "steering",
+        "ratio"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The ratio of steering wheel radius to pinion pitch circle radius (tooth contact radius) determines the movement ratio. Thus the smaller the pitch circle radius ...",
+          "source_info_link": "https://www.sciencedirect.com/topics/engineering/steering-ratio",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABKElEQVR4AdzXAUQEQRTG8Y8KkThBUnAAAJEAkCIHEECAmH2zKYKIQAAEiCgFkCABBORAAFQoAMIFJMDX8xywaKpbH-Hvwc76GQMPazs9af8fQMMcM1aKAUzoRjXmfXaiGtN_AJwwg-WADLbQjwDH3iUNtz77Ph99vrULKKjgh41YYVYJiGgYqAH3WkDGqRqwScODAFBWawAaZriNRR0g48Cj8gau1YDXFgHl6QHCR_iifgNXasC-FlBhigldGaAJwnqcTehoABln3ofkBriFCRoG3pMGUGM1zhnuRgbgLiaLzxrOh4CLXwF4iPEGoMZy7AwbGGt87zgmLDBjiYY9n59DwNF3gNB6N8zoe8_eu8eRVCHJFpPI0CtezeIKvwbrmqUx8A_b3jEAhZpfRTDQgH4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sciencedirect.com/topics/engineering/steering-ratio&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sciencedirect.com%2Ftopics%2Fengineering%2Fsteering-ratio",
+      "source": "ScienceDirect.com",
+      "read_more_link": "https://www.sciencedirect.com/topics/engineering/steering-ratio#:~:text=The%20ratio%20of%20steering%20wheel,the%20movement%20ratio%20(see%20Fig."
+    },
+    {
+      "position": 2,
+      "title": "Gear Ratio Calculator",
+      "link": "https://tremec.com/aftermarket/resources/gear-ratio-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tremec.com/aftermarket/resources/gear-ratio-calculator/&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQFnoECBYQAQ",
+      "displayed_link": "https://tremec.com › Aftermarket › Resources",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAmVBMVEX___-6urqvr6-srKzMzMzCwsK1tbXJycnT09Ourq7s7Oympqbx8fGRkZGYmJj4-PhRUVFbW1uEhIQAAADc3Nw5OTkfHx9CQkJiYmJ4eHgQEBD__v1wcHAmLi46QUAKGRicoKDPo6q6jpH40ta0hYnYrrKhbXKaZWmwf4TnwMOpd3yCQkry3eDWAADYAAraABLon6blgIr9___Nk5xEAAAAtElEQVR4Ae3GxaECURQD0OTpuOHO8gvef1m4ja2RAuBcSfD1BsFqc4iLuUHhnDvkCQ7vkhRwohhhnEdOmDth0EQUsZXDcXfSA5AoNIxu2UYYBv2u7kTdbmi7BgiAQSP2GlHHDzPlsJcOh6phbdDw4MRAcwTRQ2bGmc-ebpiJ05BTb5RFIzDOyDwXJMGL4U3yUta7Elch8TuvLebL5XJR_mqWy3n55iv8rp-aAZtnUM7gOXyIAp6dKfF6EvJUAAAAAElFTkSuQmCC.png",
+      "snippet": "Use this simple Gear Ratio Calculator to determine your gear ratio and vehicle's speed in any gear and any engine RPM for best performance.",
+      "snippet_highlighted_words": [
+        "Use this simple Gear Ratio Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this simple Gear Ratio Calculator to determine your gear ratio and vehicle's speed in any gear and any engine RPM for best performance.",
+          "source_info_link": "https://tremec.com/aftermarket/resources/gear-ratio-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAmVBMVEX___-6urqvr6-srKzMzMzCwsK1tbXJycnT09Ourq7s7Oympqbx8fGRkZGYmJj4-PhRUVFbW1uEhIQAAADc3Nw5OTkfHx9CQkJiYmJ4eHgQEBD__v1wcHAmLi46QUAKGRicoKDPo6q6jpH40ta0hYnYrrKhbXKaZWmwf4TnwMOpd3yCQkry3eDWAADYAAraABLon6blgIr9___Nk5xEAAAAtElEQVR4Ae3GxaECURQD0OTpuOHO8gvef1m4ja2RAuBcSfD1BsFqc4iLuUHhnDvkCQ7vkhRwohhhnEdOmDth0EQUsZXDcXfSA5AoNIxu2UYYBv2u7kTdbmi7BgiAQSP2GlHHDzPlsJcOh6phbdDw4MRAcwTRQ2bGmc-ebpiJ05BTb5RFIzDOyDwXJMGL4U3yUta7Elch8TuvLebL5XJR_mqWy3n55iv8rp-aAZtnUM7gOXyIAp6dKfF6EvJUAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://tremec.com/aftermarket/resources/gear-ratio-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftremec.com%2Faftermarket%2Fresources%2Fgear-ratio-calculator%2F",
+      "source": "Tremec"
+    },
+    {
+      "position": 3,
+      "title": "Steering Ratio Calculator",
+      "link": "https://calculator.academy/steering-ratio-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://calculator.academy/steering-ratio-calculator/&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQFnoECBcQAQ",
+      "displayed_link": "https://calculator.academy › Automotive Calculators",
+      "favicon": "https://serpapi.com/searches/6a3a18ade3e1768fe515c8ba/images/p5c_czeI9N-cruU8tanoqQQU6gFNQG8n2VPMfU3uVt4.png",
+      "date": "Mar 19, 2026",
+      "snippet": "Calculate steering ratio by entering steering wheel turn and wheel turn, or find the missing angle from any two values in degrees or radians ...",
+      "snippet_highlighted_words": [
+        "Calculate steering ratio"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculate steering ratio by entering steering wheel turn and wheel turn, or find the missing angle from any two values in degrees or radians ...",
+          "source_info_link": "https://calculator.academy/steering-ratio-calculator/",
+          "icon": "https://serpapi.com/searches/6a3a18ade3e1768fe515c8ba/images/p5c_czeI9N-cruU8tanoqZ87EDXc3_fgfWNvaUv3Rz1Wu0tDy8WfBUwieulk_AaV.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://calculator.academy/steering-ratio-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcalculator.academy%2Fsteering-ratio-calculator%2F",
+      "source": "Calculator Academy"
+    },
+    {
+      "position": 4,
+      "title": "What is a steering ratio and how do you calculate it?",
+      "link": "https://www.quora.com/What-is-a-steering-ratio-and-how-do-you-calculate-it",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-is-a-steering-ratio-and-how-do-you-calculate-it&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQFnoECCQQAQ",
+      "displayed_link": "10+ answers · 11 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+      "snippet": "What is a steering ratio and how do you calculate it?",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "How to calculate the steering ratio in mm/rev - Quora",
+            "link": "https://www.quora.com/How-do-I-calculate-the-steering-ratio-in-mm-rev",
+            "answer_count": 2,
+            "date": "Jun 22, 2018"
+          },
+          {
+            "title": "Do you know how to change a steering ratio of a ...",
+            "link": "https://www.quora.com/Do-you-know-how-to-change-a-steering-ratio-of-a-steering-box-or-how-to-change-the-steering-ratio-of-a-vehicle-by-changing-the-systems-geometry",
+            "answer_count": 3,
+            "date": "Jan 6, 2018"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "In simple terms, Steering ratio can be defined as the no. of degrees turned by the steering wheel to the no. of degrees the inner wheel turns.",
+          "source_info_link": "https://www.quora.com/What-is-a-steering-ratio-and-how-do-you-calculate-it",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/What-is-a-steering-ratio-and-how-do-you-calculate-it&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quora.com%2FWhat-is-a-steering-ratio-and-how-do-you-calculate-it",
+      "source": "Quora"
+    },
+    {
+      "position": 5,
+      "title": "Steering Geometry -Steering Ratio",
+      "link": "https://www.youtube.com/watch?v=PY7Lqte72mI",
+      "displayed_link": "10.9K+ views · 7 years ago",
+      "thumbnail": "https://serpapi.com/searches/6a3a18ade3e1768fe515c8ba/images/p5c_czeI9N-cruU8tanoqd1TZSu4pZqKmVM59drRhcA.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "In this short video, we will be understanding the concept called Steering ratio. Also, take a look at some of our top rated Mechanical ...",
+      "duration": "1:38",
+      "about_this_result": {
+        "source": {
+          "description": "In this short video, we will be understanding the concept called Steering ratio. Also, take a look at some of our top rated Mechanical ...",
+          "source_info_link": "https://www.youtube.com/watch?v=PY7Lqte72mI",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=PY7Lqte72mI&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPY7Lqte72mI",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQW1E2ciSS5lzj-V2zvR6mc0RHYjYyhpaLHqg",
+      "source": "YouTube · Skill Lync"
+    },
+    {
+      "position": 6,
+      "title": "Gear Ratio Calculator",
+      "link": "https://www.summitracing.com/newsandevents/calcsandtools/gear-ratio-calculator?srsltid=AfmBOoqoPHknPU5F7nGrA7x01_y1ZXKsmXLls8WNTxHlMySGmI2utiy3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.summitracing.com/newsandevents/calcsandtools/gear-ratio-calculator%3Fsrsltid%3DAfmBOoqoPHknPU5F7nGrA7x01_y1ZXKsmXLls8WNTxHlMySGmI2utiy3&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQFnoECDwQAQ",
+      "displayed_link": "https://www.summitracing.com › calcsandtools › gear-r...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEUhZ7siabweXrcAOqgRRawAAJWio9CortalqtWvrdQ8N6QAAJcjbL0AGZ-eoNH_9vD_tLD_u7j__fjg4fAAAJAKSq9JRan_____KCf_AAD_VVQia70eYrn1____goFqa7jCyOb_0s7_2dW6wOIAMqZ2dr3_jowSP6r_QEA9PacAJaLm7_z_wr_W3PAUVLP_6-ZcXbP_ysjIzuiUl8z_dHQuKKD_MDD_HByMi8YAEp3_pKPvQLnDAAAA-klEQVR4AXSQVZYDMQwEbWeYWWFmZrr_wXbAS1Kmfut1C9hf-B8YRjQkiiKw5aqm64ZhaKZlY-e4nh-EYRhEcSJwLs2g2cppg93oINdVe_1WAQxs5FjHHo5KN57Q0ukMSjfvJQtcKlRoF24JK5eUriehDKoLIu1NHizY7hJG5K5YtQBWeyyns0jKwzHl-MpkMpZJ-8Nfd9VGp7PaIX-9-KW7wo20piu4F-4Bz5eDt93foNqGHpLXqnFxyhvsPSeyM73kb2_Dcd2hSS7svBcMleaKqLq7njZJl5qy9xnBS8Glv70D12GfceyZyurgSiJ4rRSLDqvla1hyAAAPkhqf9WFBUAAAAABJRU5ErkJggg.png",
+      "snippet": "Just type in your info (example: 5000 RPM), press calculate, and you'll get the right ratio without the guesswork. Solve For. Gear Ratio (ex. 4.56).",
+      "snippet_highlighted_words": [
+        "Just type in your info (example: 5000 RPM), press calculate"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 20.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$20.00",
+            "Free delivery over $125",
+            "90-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Just type in your info (example: 5000 RPM), press calculate, and you'll get the right ratio without the guesswork. Solve For. Gear Ratio (ex. 4.56).",
+          "source_info_link": "https://www.summitracing.com/newsandevents/calcsandtools/gear-ratio-calculator?srsltid=AfmBOoqoPHknPU5F7nGrA7x01_y1ZXKsmXLls8WNTxHlMySGmI2utiy3",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEUhZ7siabweXrcAOqgRRawAAJWio9CortalqtWvrdQ8N6QAAJcjbL0AGZ-eoNH_9vD_tLD_u7j__fjg4fAAAJAKSq9JRan_____KCf_AAD_VVQia70eYrn1____goFqa7jCyOb_0s7_2dW6wOIAMqZ2dr3_jowSP6r_QEA9PacAJaLm7_z_wr_W3PAUVLP_6-ZcXbP_ysjIzuiUl8z_dHQuKKD_MDD_HByMi8YAEp3_pKPvQLnDAAAA-klEQVR4AXSQVZYDMQwEbWeYWWFmZrr_wXbAS1Kmfut1C9hf-B8YRjQkiiKw5aqm64ZhaKZlY-e4nh-EYRhEcSJwLs2g2cppg93oINdVe_1WAQxs5FjHHo5KN57Q0ukMSjfvJQtcKlRoF24JK5eUriehDKoLIu1NHizY7hJG5K5YtQBWeyyns0jKwzHl-MpkMpZJ-8Nfd9VGp7PaIX-9-KW7wo20piu4F-4Bz5eDt93foNqGHpLXqnFxyhvsPSeyM73kb2_Dcd2hSS7svBcMleaKqLq7njZJl5qy9xnBS8Glv70D12GfceyZyurgSiJ4rRSLDqvla1hyAAAPkhqf9WFBUAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.summitracing.com/newsandevents/calcsandtools/gear-ratio-calculator?srsltid=AfmBOoqoPHknPU5F7nGrA7x01_y1ZXKsmXLls8WNTxHlMySGmI2utiy3&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.summitracing.com%2Fnewsandevents%2Fcalcsandtools%2Fgear-ratio-calculator%3Fsrsltid%3DAfmBOoqoPHknPU5F7nGrA7x01_y1ZXKsmXLls8WNTxHlMySGmI2utiy3",
+      "source": "Summit Racing",
+      "read_more_link": "https://www.summitracing.com/newsandevents/calcsandtools/gear-ratio-calculator?srsltid=AfmBOoqoPHknPU5F7nGrA7x01_y1ZXKsmXLls8WNTxHlMySGmI2utiy3#:~:text=Just%20type%20in%20your%20info,(ex.%204.56)"
+    },
+    {
+      "position": 7,
+      "title": "Weddle Gear Ratio Calculator",
+      "link": "https://weddleindustries.com/gear-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://weddleindustries.com/gear-calculator&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQFnoECD8QAQ",
+      "displayed_link": "https://weddleindustries.com › gear-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEX5RSb5Rif5Rib1RCWaJxRuGgpQEQYrBQIAAAAYAgEIAABIDQRqGAvrQiX8Ria1LxejKhXJOB7jPyK8MhofAgAzBwN7Hg0vBwLwQyUkBAJaEwbLNhxiFgmoLBSuLRXaPiM-CwSGIA2uLRuuLRbEN-BYAAAAn0lEQVR4AU2KhQHDQAwD5Q-pDTPz_jv2oXRmS4BAiW5mgYIuEQUd9itKWeGv2YeIZ9GyGK8fhBH54DMOk1SQ5SxKZBkyVHXT6vkgGWQdM6EmgxRRT6YRy45RGwgGDsNAciT9YZhmVEsTzmu7zUlX-Ywq7HvZRP5cFnsZs993zJr6CE9_ahezI3fEx-kWrI5LhwXbvem8r_va7Ooe9-_xAqILDrjvwXJeAAAAAElFTkSuQmCC.png",
+      "snippet": "Use this gear ratio calculator to select the best ring & pinion and gear ratio combinations to serve your needs.",
+      "snippet_highlighted_words": [
+        "Use this gear ratio calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this gear ratio calculator to select the best ring & pinion and gear ratio combinations to serve your needs.",
+          "source_info_link": "https://weddleindustries.com/gear-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEX5RSb5Rif5Rib1RCWaJxRuGgpQEQYrBQIAAAAYAgEIAABIDQRqGAvrQiX8Ria1LxejKhXJOB7jPyK8MhofAgAzBwN7Hg0vBwLwQyUkBAJaEwbLNhxiFgmoLBSuLRXaPiM-CwSGIA2uLRuuLRbEN-BYAAAAn0lEQVR4AU2KhQHDQAwD5Q-pDTPz_jv2oXRmS4BAiW5mgYIuEQUd9itKWeGv2YeIZ9GyGK8fhBH54DMOk1SQ5SxKZBkyVHXT6vkgGWQdM6EmgxRRT6YRy45RGwgGDsNAciT9YZhmVEsTzmu7zUlX-Ywq7HvZRP5cFnsZs993zJr6CE9_ahezI3fEx-kWrI5LhwXbvem8r_va7Ooe9-_xAqILDrjvwXJeAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://weddleindustries.com/gear-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fweddleindustries.com%2Fgear-calculator",
+      "source": "Weddle Industries",
+      "read_more_link": "https://weddleindustries.com/gear-calculator#:~:text=Use%20this%20gear%20ratio%20calculator,combinations%20to%20serve%20your%20needs."
+    },
+    {
+      "position": 8,
+      "title": "RC Gear Ratio Calculator",
+      "link": "https://www.sodialed.com/utilities/rc-gear-ratio-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sodialed.com/utilities/rc-gear-ratio-calculator&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQFnoECDsQAQ",
+      "displayed_link": "https://www.sodialed.com › utilities › rc-gear-ratio-calcul...",
+      "favicon": "https://serpapi.com/searches/6a3a18ade3e1768fe515c8ba/images/p5c_czeI9N-cruU8tanoqWNtBFfUVdlfiXqsJJ3Qwo0.png",
+      "snippet": "Compare RC car gear ratio setups side by side. Calculate final drive ratio, rollout, and see the change impact across a full pinion/spur grid.",
+      "snippet_highlighted_words": [
+        "car gear ratio",
+        "Calculate",
+        "ratio"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Compare RC car gear ratio setups side by side. Calculate final drive ratio, rollout, and see the change impact across a full pinion/spur grid.",
+          "source_info_link": "https://www.sodialed.com/utilities/rc-gear-ratio-calculator",
+          "icon": "https://serpapi.com/searches/6a3a18ade3e1768fe515c8ba/images/p5c_czeI9N-cruU8tanoqSX2mTcEe4wpjHoFv21M8ErbWsXZTEjaDFG-fHWwjJ31.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sodialed.com/utilities/rc-gear-ratio-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sodialed.com%2Futilities%2Frc-gear-ratio-calculator",
+      "source": "So Dialed"
+    },
+    {
+      "position": 9,
+      "title": "Steering ratio",
+      "link": "https://en.wikipedia.org/wiki/Steering_ratio",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Steering_ratio&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQFnoECEMQAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Steering_ratio",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+      "snippet": "In most passenger cars, the ratio is between 12:1 and 20:1. For example, if one and a half turns of the steering wheel, 540 degrees, causes the inner & outer ...",
+      "snippet_highlighted_words": [
+        "cars",
+        "ratio",
+        "steering"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In most passenger cars, the ratio is between 12:1 and 20:1. For example, if one and a half turns of the steering wheel, 540 degrees, causes the inner & outer ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/Steering_ratio",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Steering_ratio&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSteering_ratio",
+      "source": "Wikipedia",
+      "read_more_link": "https://en.wikipedia.org/wiki/Steering_ratio#:~:text=In%20most%20passenger%20cars%2C%20the,causes%20the%20inner%20%26%20outer"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Steering ratio calculator car pdf",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Steering+ratio+calculator+car+pdf&sa=X&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steering+ratio+calculator+car+pdf"
+    },
+    {
+      "block_position": 1,
+      "query": "Free steering ratio calculator car",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Free+steering+ratio+calculator+car&sa=X&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+steering+ratio+calculator+car"
+    },
+    {
+      "block_position": 1,
+      "query": "RPM to gear ratio calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=RPM+to+gear+ratio+calculator&sa=X&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=RPM+to+gear+ratio+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Simple gear ratio calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Simple+gear+ratio+calculator&sa=X&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Simple+gear+ratio+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Steering ratio formula 1",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Steering+ratio+formula+1&sa=X&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Steering+ratio+formula+1"
+    },
+    {
+      "block_position": 1,
+      "query": "Tire size to gear ratio calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Tire+size+to+gear+ratio+calculator&sa=X&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tire+size+to+gear+ratio+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Gear ratio speed calculator formula",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Gear+ratio+speed+calculator+formula&sa=X&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Gear+ratio+speed+calculator+formula"
+    },
+    {
+      "block_position": 1,
+      "query": "Differential gear ratio Calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Differential+gear+ratio+Calculator&sa=X&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Differential+gear+ratio+Calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=steering+ratio+calculator+car&sca_esv=bbb7d61e8d3bb37e&ei=rhg6asjkCMmoqtsP1LjLiAM&start=10&sa=N&sstk=AU9db-DJcPuIKLM3MB8J4oZknS4oPj3bvTkp9-0jhqZYUAVFnmbklwF6OnwNupU9ONBfdSxzsuiVlf_IRrui1boPH1WaSXmlVNJ6mA&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ8NMDegQIMRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=steering+ratio+calculator+car&sca_esv=bbb7d61e8d3bb37e&ei=rhg6asjkCMmoqtsP1LjLiAM&start=10&sa=N&sstk=AU9db-DJcPuIKLM3MB8J4oZknS4oPj3bvTkp9-0jhqZYUAVFnmbklwF6OnwNupU9ONBfdSxzsuiVlf_IRrui1boPH1WaSXmlVNJ6mA&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ8tMDegQIMRAE",
+      "3": "https://www.google.com/search?q=steering+ratio+calculator+car&sca_esv=bbb7d61e8d3bb37e&ei=rhg6asjkCMmoqtsP1LjLiAM&start=20&sa=N&sstk=AU9db-DJcPuIKLM3MB8J4oZknS4oPj3bvTkp9-0jhqZYUAVFnmbklwF6OnwNupU9ONBfdSxzsuiVlf_IRrui1boPH1WaSXmlVNJ6mA&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ8tMDegQIMRAG",
+      "4": "https://www.google.com/search?q=steering+ratio+calculator+car&sca_esv=bbb7d61e8d3bb37e&ei=rhg6asjkCMmoqtsP1LjLiAM&start=30&sa=N&sstk=AU9db-DJcPuIKLM3MB8J4oZknS4oPj3bvTkp9-0jhqZYUAVFnmbklwF6OnwNupU9ONBfdSxzsuiVlf_IRrui1boPH1WaSXmlVNJ6mA&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ8tMDegQIMRAI",
+      "5": "https://www.google.com/search?q=steering+ratio+calculator+car&sca_esv=bbb7d61e8d3bb37e&ei=rhg6asjkCMmoqtsP1LjLiAM&start=40&sa=N&sstk=AU9db-DJcPuIKLM3MB8J4oZknS4oPj3bvTkp9-0jhqZYUAVFnmbklwF6OnwNupU9ONBfdSxzsuiVlf_IRrui1boPH1WaSXmlVNJ6mA&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ8tMDegQIMRAK",
+      "6": "https://www.google.com/search?q=steering+ratio+calculator+car&sca_esv=bbb7d61e8d3bb37e&ei=rhg6asjkCMmoqtsP1LjLiAM&start=50&sa=N&sstk=AU9db-DJcPuIKLM3MB8J4oZknS4oPj3bvTkp9-0jhqZYUAVFnmbklwF6OnwNupU9ONBfdSxzsuiVlf_IRrui1boPH1WaSXmlVNJ6mA&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ8tMDegQIMRAM",
+      "7": "https://www.google.com/search?q=steering+ratio+calculator+car&sca_esv=bbb7d61e8d3bb37e&ei=rhg6asjkCMmoqtsP1LjLiAM&start=60&sa=N&sstk=AU9db-DJcPuIKLM3MB8J4oZknS4oPj3bvTkp9-0jhqZYUAVFnmbklwF6OnwNupU9ONBfdSxzsuiVlf_IRrui1boPH1WaSXmlVNJ6mA&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ8tMDegQIMRAO",
+      "8": "https://www.google.com/search?q=steering+ratio+calculator+car&sca_esv=bbb7d61e8d3bb37e&ei=rhg6asjkCMmoqtsP1LjLiAM&start=70&sa=N&sstk=AU9db-DJcPuIKLM3MB8J4oZknS4oPj3bvTkp9-0jhqZYUAVFnmbklwF6OnwNupU9ONBfdSxzsuiVlf_IRrui1boPH1WaSXmlVNJ6mA&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ8tMDegQIMRAQ",
+      "9": "https://www.google.com/search?q=steering+ratio+calculator+car&sca_esv=bbb7d61e8d3bb37e&ei=rhg6asjkCMmoqtsP1LjLiAM&start=80&sa=N&sstk=AU9db-DJcPuIKLM3MB8J4oZknS4oPj3bvTkp9-0jhqZYUAVFnmbklwF6OnwNupU9ONBfdSxzsuiVlf_IRrui1boPH1WaSXmlVNJ6mA&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ8tMDegQIMRAS",
+      "10": "https://www.google.com/search?q=steering+ratio+calculator+car&sca_esv=bbb7d61e8d3bb37e&ei=rhg6asjkCMmoqtsP1LjLiAM&start=90&sa=N&sstk=AU9db-DJcPuIKLM3MB8J4oZknS4oPj3bvTkp9-0jhqZYUAVFnmbklwF6OnwNupU9ONBfdSxzsuiVlf_IRrui1boPH1WaSXmlVNJ6mA&ved=2ahUKEwjI89zYz5yVAxVJlGoFHVTcEjEQ8tMDegQIMRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=steering+ratio+calculator+car&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=steering+ratio+calculator+car&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=steering+ratio+calculator+car&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=steering+ratio+calculator+car&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=steering+ratio+calculator+car&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=steering+ratio+calculator+car&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=steering+ratio+calculator+car&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=steering+ratio+calculator+car&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=steering+ratio+calculator+car&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=steering+ratio+calculator+car&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=steering+ratio+calculator+car&start=90"
+    }
+  }
+}

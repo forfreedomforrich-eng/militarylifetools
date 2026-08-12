@@ -1,0 +1,433 @@
+{
+  "search_metadata": {
+    "id": "6a3a22865922f45aaaaf09aa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/JLNE_OW46zDMzSqC8d5C1Q/6a3a22865922f45aaaaf09aa.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/JLNE_OW46zDMzSqC8d5C1Q/6a3a22865922f45aaaaf09aa.json_with_pixel_position",
+    "created_at": "2026-06-23 06:07:02 UTC",
+    "processed_at": "2026-06-23 06:07:02 UTC",
+    "google_url": "https://www.google.com/search?q=military+benefits+after+8+years+marine+corps&oq=military+benefits+after+8+years+marine+corps&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/JLNE_OW46zDMzSqC8d5C1Q/6a3a22865922f45aaaaf09aa.html",
+    "total_time_taken": 7.28
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military benefits after 8 years marine corps",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military benefits after 8 years marine corps",
+    "total_results": 148,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What benefits do you get after serving 8 years in the military?",
+      "type": "ai_overview",
+      "page_token": "Y1tMB3icHdBRbpswGABg7TJ9bIxRMjVSNIk0LKBhZsNvbF4qsJuQ2IDTOIXkbXfZqXaaSf2O8P35a0-D-ffts_PeXdeLxTRNz8dxPNr3ZzX2i-Z6H9RCNda2jTLr1fdV8OOgNrtbEm0vSUTBOf7KUFERnOG5l9X8i-DrvRR8mw1OFLEelXWsRjUFIEiGcaMG96Ahowp2qDUqrCEYZSiXVIwzvPJD_tP-5gj5FnzyDt5U3CVNwAwdSAfY5y1mYc7THPbdpEFisPUqe1BEh_ohML_zypnGuKjEtSdBGsowRRz8xAXb6sp-tGeSaEhLFkS5DNylgJdED_pUC11ocLdW2GjX6Qsgg6Xge2lmQsLUl3FMBU6X_NwxzsYTBfZQZ9tDSbzaR4XuX0oQUdYiO5dcZ2UcLWnlkgJ3N0qfDupzEz59fW7eDr1fu4_x-B9ZyoNs",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Y1tMB3icHdBRbpswGABg7TJ9bIxRMjVSNIk0LKBhZsNvbF4qsJuQ2IDTOIXkbXfZqXaaSf2O8P35a0-D-ffts_PeXdeLxTRNz8dxPNr3ZzX2i-Z6H9RCNda2jTLr1fdV8OOgNrtbEm0vSUTBOf7KUFERnOG5l9X8i-DrvRR8mw1OFLEelXWsRjUFIEiGcaMG96Ahowp2qDUqrCEYZSiXVIwzvPJD_tP-5gj5FnzyDt5U3CVNwAwdSAfY5y1mYc7THPbdpEFisPUqe1BEh_ohML_zypnGuKjEtSdBGsowRRz8xAXb6sp-tGeSaEhLFkS5DNylgJdED_pUC11ocLdW2GjX6Qsgg6Xge2lmQsLUl3FMBU6X_NwxzsYTBfZQZ9tDSbzaR4XuX0oQUdYiO5dcZ2UcLWnlkgJ3N0qfDupzEz59fW7eDr1fu4_x-B9ZyoNs",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRsaDRkMjAyYnpnd2EydEtTVGx2VjJjMU9VRTFUSHBST0RaeFdWUk1Wa3M1YTFodk16QjVkRkkyVGt0VlNsVlNhbGhCT0RSamNFbHlXSGQ0UWtoallsUlZPRXN5UlZsV1NHTm5VRmhJZEMxWk5tcFBSekpUYTJaZmR4SVhhbE5KTm1GMVIySk1UVGR5YlV4UlVGOWllVlk0VVZVYUlrRkVjM0k1WmxKV1JrbEZkMGgwWmtKdlZuRldhMGRVTFdaMU9VSjFaekJZUlhjIiwiZmN2IjoiMyIsImVpIjoialNJNmF1R2JMTTdybUxRUF9ieVY4UVUiLCJxYyI6IkNpeHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBNElIbGxZWEp6SUcxaGNtbHVaU0JqYjNKd2N4QUFmZURYNGo0IiwicXVlc3Rpb24iOiJXaGF0IGJlbmVmaXRzIGRvIHlvdSBnZXQgYWZ0ZXIgc2VydmluZyA4IHllYXJzIGluIHRoZSBtaWxpdGFyeT8iLCJsayI6ImN3WEJRUTZBTUFnRXdIOTQybWQ0Nmw4d2Jsc1NwUW1naHQ4N3M3VnZTdUtnc1dzR3pvVmFEd1lUMHBPT29MOXFBenVLNGdFMTVDUnV2VFRGNndjIiwiYnMiOiJjNlhQTVF1Q1FCakdjVnh2YW5aNjFyUkpHcHF5c2FVNW91azFYNzFENzRTN00zSHVpeWNpSlVVZ3RQLWVQenppRVlqMExNa2pZOE9GOGc1NWc3NXBVYklIRlo0dEhOdTdNaVYyNkptc2d6THdrcUZWclR6WlBrME80Yjc3S3lFdUlqbzJIWFI3azhPWUhRaWFyRElEb1lxbnlEUk9remhjeTZWYVhFVThfck5rS2pqWnRIWC05dGxYZXhORzNXTC1pcy1mbjBiclp1LTNuX0U1MTdfNEtuZ0MiLCJpZCI6ImZjX2pTSTZhdUdiTE03cm1MUVBfYnlWOFFVXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRsaDRkMjAyYnpnd2EydEtTVGx2VjJjMU9VRTFUSHBST0RaeFdWUk1Wa3M1YTFodk16QjVkRkkyVGt0VlNsVlNhbGhCT0RSamNFbHlXSGQ0UWtoallsUlZPRXN5UlZsV1NHTm5VRmhJZEMxWk5tcFBSekpUYTJaZmR4SVhhbE5KTm1GMVIySk1UVGR5YlV4UlVGOWllVlk0VVZVYUlrRkVjM0k1WmxKV1JrbEZkMGgwWmtKdlZuRldhMGRVTFdaMU9VSjFaekJZUlhjIiwiZmN2IjoiMyIsImVpIjoialNJNmF1R2JMTTdybUxRUF9ieVY4UVUiLCJxYyI6IkNpeHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBNElIbGxZWEp6SUcxaGNtbHVaU0JqYjNKd2N4QUFmZURYNGo0IiwicXVlc3Rpb24iOiJXaGF0IGJlbmVmaXRzIGRvIHlvdSBnZXQgYWZ0ZXIgc2VydmluZyA4IHllYXJzIGluIHRoZSBtaWxpdGFyeT8iLCJsayI6ImN3WEJRUTZBTUFnRXdIOTQybWQ0Nmw4d2Jsc1NwUW1naHQ4N3M3VnZTdUtnc1dzR3pvVmFEd1lUMHBPT29MOXFBenVLNGdFMTVDUnV2VFRGNndjIiwiYnMiOiJjNlhQTVF1Q1FCakdjVnh2YW5aNjFyUkpHcHF5c2FVNW91azFYNzFENzRTN00zSHVpeWNpSlVVZ3RQLWVQenppRVlqMExNa2pZOE9GOGc1NWc3NXBVYklIRlo0dEhOdTdNaVYyNkptc2d6THdrcUZWclR6WlBrME80Yjc3S3lFdUlqbzJIWFI3azhPWUhRaWFyRElEb1lxbnlEUk9remhjeTZWYVhFVThfck5rS2pqWnRIWC05dGxYZXhORzNXTC1pcy1mbjBiclp1LTNuX0U1MTdfNEtuZ0MiLCJpZCI6ImZjX2pTSTZhdUdiTE03cm1MUVBfYnlWOFFVXzUifQ%3D%3D"
+    },
+    {
+      "question": "How much does a marine make after 8 years?",
+      "type": "ai_overview",
+      "page_token": "9N_ZinicHdBfboIwHADg7DJ71AJzUxOzzElBFmpa6Q_sy1KKitLyZyLI3naXnWqn2bIbfPm-vvWpLH7uurxt68t8PO77fnSsqqPej1RlxvIylGqspNapVMX88enRej6ohXtdL1-b9ZLyuoYVQ5GvTQy6iYGjDM02GWqX0WeG1KvVpTZplMsuMmFoH70Mit-GvcmDEAXdDgJBC2F2xa1mBYShL_KtrxwwQm68jCrr-BBqvd56k51YFc4-CifMzgfp1SXD02Hrw0DLvIq1agHDkFgzl0bBJvSAyxiuAojPbe1vuGDyjE98sN6EAwV3g07F2E1tfGJAaKqDhljLOkUTJwUo3TxrOCrsXQL-n40QJ2gjjGliBxM45wxYdaKcfaqzNhzWljBZKVa4z4zFCccG3Nk1iiCRNvGJN205vT-obuHc_38u3g-mndcf1fEXgaeDAw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9N_ZinicHdBfboIwHADg7DJ71AJzUxOzzElBFmpa6Q_sy1KKitLyZyLI3naXnWqn2bIbfPm-vvWpLH7uurxt68t8PO77fnSsqqPej1RlxvIylGqspNapVMX88enRej6ohXtdL1-b9ZLyuoYVQ5GvTQy6iYGjDM02GWqX0WeG1KvVpTZplMsuMmFoH70Mit-GvcmDEAXdDgJBC2F2xa1mBYShL_KtrxwwQm68jCrr-BBqvd56k51YFc4-CifMzgfp1SXD02Hrw0DLvIq1agHDkFgzl0bBJvSAyxiuAojPbe1vuGDyjE98sN6EAwV3g07F2E1tfGJAaKqDhljLOkUTJwUo3TxrOCrsXQL-n40QJ2gjjGliBxM45wxYdaKcfaqzNhzWljBZKVa4z4zFCccG3Nk1iiCRNvGJN205vT-obuHc_38u3g-mndcf1fEXgaeDAw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRsaDRkMjAyYnpnd2EydEtTVGx2VjJjMU9VRTFUSHBST0RaeFdWUk1Wa3M1YTFodk16QjVkRkkyVGt0VlNsVlNhbGhCT0RSamNFbHlXSGQ0UWtoallsUlZPRXN5UlZsV1NHTm5VRmhJZEMxWk5tcFBSekpUYTJaZmR4SVhhbE5KTm1GMVIySk1UVGR5YlV4UlVGOWllVlk0VVZVYUlrRkVjM0k1WmxKV1JrbEZkMGgwWmtKdlZuRldhMGRVTFdaMU9VSjFaekJZUlhjIiwiZmN2IjoiMyIsImVpIjoialNJNmF1R2JMTTdybUxRUF9ieVY4UVUiLCJxYyI6IkNpeHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBNElIbGxZWEp6SUcxaGNtbHVaU0JqYjNKd2N4QUFmZURYNGo0IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBkb2VzIGEgbWFyaW5lIG1ha2UgYWZ0ZXIgOCB5ZWFycz8iLCJsayI6IkdpbG9iM2NnYlhWamFDQmtiMlZ6SUdFZ2JXRnlhVzVsSUcxaGEyVWdZV1owWlhJZ09DQjVaV0Z5Y3ciLCJicyI6ImM2WFBNUXVDUUJqR2NWeHZhblo2MXJSSkdwcXlzYVU1b3VrMVg3MUQ3NFM3TTNIdWl5Y2lKVVVndFAtZVB6emlFWWowTE1ralk4T0Y4ZzU1Zzc1cFViSUhGWjR0SE51N01pVjI2Sm1zZ3pMd2txRlZyVHpaUGswTzRiNzdLeUV1SWpvMkhYUjdrOE9ZSFFpYXJESURvWXFueURST2t6aGN5NlZhWEVVOF9yTmtLampadEhYLTl0bFhleE5HM1dMLWlzLWZuMGJyWnUtM25fRTUxN180S25nQyIsImlkIjoiZmNfalNJNmF1R2JMTTdybUxRUF9ieVY4UVVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRsaDRkMjAyYnpnd2EydEtTVGx2VjJjMU9VRTFUSHBST0RaeFdWUk1Wa3M1YTFodk16QjVkRkkyVGt0VlNsVlNhbGhCT0RSamNFbHlXSGQ0UWtoallsUlZPRXN5UlZsV1NHTm5VRmhJZEMxWk5tcFBSekpUYTJaZmR4SVhhbE5KTm1GMVIySk1UVGR5YlV4UlVGOWllVlk0VVZVYUlrRkVjM0k1WmxKV1JrbEZkMGgwWmtKdlZuRldhMGRVTFdaMU9VSjFaekJZUlhjIiwiZmN2IjoiMyIsImVpIjoialNJNmF1R2JMTTdybUxRUF9ieVY4UVUiLCJxYyI6IkNpeHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBNElIbGxZWEp6SUcxaGNtbHVaU0JqYjNKd2N4QUFmZURYNGo0IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBkb2VzIGEgbWFyaW5lIG1ha2UgYWZ0ZXIgOCB5ZWFycz8iLCJsayI6IkdpbG9iM2NnYlhWamFDQmtiMlZ6SUdFZ2JXRnlhVzVsSUcxaGEyVWdZV1owWlhJZ09DQjVaV0Z5Y3ciLCJicyI6ImM2WFBNUXVDUUJqR2NWeHZhblo2MXJSSkdwcXlzYVU1b3VrMVg3MUQ3NFM3TTNIdWl5Y2lKVVVndFAtZVB6emlFWWowTE1ralk4T0Y4ZzU1Zzc1cFViSUhGWjR0SE51N01pVjI2Sm1zZ3pMd2txRlZyVHpaUGswTzRiNzdLeUV1SWpvMkhYUjdrOE9ZSFFpYXJESURvWXFueURST2t6aGN5NlZhWEVVOF9yTmtLampadEhYLTl0bFhleE5HM1dMLWlzLWZuMGJyWnUtM25fRTUxN180S25nQyIsImlkIjoiZmNfalNJNmF1R2JMTTdybUxRUF9ieVY4UVVfNSJ9"
+    },
+    {
+      "question": "What rank should a marine be after 8 years?",
+      "type": "ai_overview",
+      "page_token": "pvNJZnicHdBRbpswAABQ9TL9bLBpsjZSNC0DB5HG1GBs458JbIJjTKAJDU3-eoWdoafqaSbtHeF9frnDsf2--2vGcTgvZ7Npmh6avm9c_aD6blaer0c1U6VzVana5eLHAvzcq1V4UevfJ7Um-TCwIPUyH4kSYYcDHSmH36qNWVQhshWSL_oogRIGY86A2hiQhbpPBCvr7vm1buMyg5Lozfm24zERPpvELT7hyMSUGpd3w00JRpPAmUogKGADaDemGWcioXIrOer0AQAq2DaHz4Hw5riw2GLWeLU1Rd7G13Qz7jIbZ5I3sILskUfMqSCckyPxKvfrkcIUaT5PSn94z2BzpWi9rQUmCUt3KsITp9KrhF7k-QQSSrzQ6Lfca2EhWFS0Hxj78UgRIgLGc2ZNytL-QPL0pqzrWKCltNJpNFgG8WuN0Pklf_ILpy8ZB6VmKNbT_V5dVv79_-vVn303LodT3_wDw1qL2g",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pvNJZnicHdBRbpswAABQ9TL9bLBpsjZSNC0DB5HG1GBs458JbIJjTKAJDU3-eoWdoafqaSbtHeF9frnDsf2--2vGcTgvZ7Npmh6avm9c_aD6blaer0c1U6VzVana5eLHAvzcq1V4UevfJ7Um-TCwIPUyH4kSYYcDHSmH36qNWVQhshWSL_oogRIGY86A2hiQhbpPBCvr7vm1buMyg5Lozfm24zERPpvELT7hyMSUGpd3w00JRpPAmUogKGADaDemGWcioXIrOer0AQAq2DaHz4Hw5riw2GLWeLU1Rd7G13Qz7jIbZ5I3sILskUfMqSCckyPxKvfrkcIUaT5PSn94z2BzpWi9rQUmCUt3KsITp9KrhF7k-QQSSrzQ6Lfca2EhWFS0Hxj78UgRIgLGc2ZNytL-QPL0pqzrWKCltNJpNFgG8WuN0Pklf_ILpy8ZB6VmKNbT_V5dVv79_-vVn303LodT3_wDw1qL2g",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRsaDRkMjAyYnpnd2EydEtTVGx2VjJjMU9VRTFUSHBST0RaeFdWUk1Wa3M1YTFodk16QjVkRkkyVGt0VlNsVlNhbGhCT0RSamNFbHlXSGQ0UWtoallsUlZPRXN5UlZsV1NHTm5VRmhJZEMxWk5tcFBSekpUYTJaZmR4SVhhbE5KTm1GMVIySk1UVGR5YlV4UlVGOWllVlk0VVZVYUlrRkVjM0k1WmxKV1JrbEZkMGgwWmtKdlZuRldhMGRVTFdaMU9VSjFaekJZUlhjIiwiZmN2IjoiMyIsImVpIjoialNJNmF1R2JMTTdybUxRUF9ieVY4UVUiLCJxYyI6IkNpeHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBNElIbGxZWEp6SUcxaGNtbHVaU0JqYjNKd2N4QUFmZURYNGo0IiwicXVlc3Rpb24iOiJXaGF0IHJhbmsgc2hvdWxkIGEgbWFyaW5lIGJlIGFmdGVyIDggeWVhcnM/IiwibGsiOiJHaXAzYUdGMElISmhibXNnYzJodmRXeGtJR0VnYldGeWFXNWxJR0psSUdGbWRHVnlJRGdnZVdWaGNuTSIsImJzIjoiYzZYUE1RdUNRQmpHY1Z4dmFuWjYxclJKR3BxeXNhVTVvdWsxWDcxRDc0UzdNM0h1aXljaUpVVWd0UC1lUHp6aUVZajBMTWtqWThPRjhnNTVnNzVwVWJJSEZaNHRITnU3TWlWMjZKbXNnekx3a3FGVnJUelpQazBPNGI3N0t5RXVJam8ySFhSN2s4T1lIUWlhckRJRG9ZcW55RFJPa3poY3k2VmFYRVU4X3JOa0tqalp0SFgtOXRsWGV4TkczV0wtaXMtZm4wYnJadS0zbl9FNTE3XzRLbmdDIiwiaWQiOiJmY19qU0k2YXVHYkxNN3JtTFFQX2J5VjhRVV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRsaDRkMjAyYnpnd2EydEtTVGx2VjJjMU9VRTFUSHBST0RaeFdWUk1Wa3M1YTFodk16QjVkRkkyVGt0VlNsVlNhbGhCT0RSamNFbHlXSGQ0UWtoallsUlZPRXN5UlZsV1NHTm5VRmhJZEMxWk5tcFBSekpUYTJaZmR4SVhhbE5KTm1GMVIySk1UVGR5YlV4UlVGOWllVlk0VVZVYUlrRkVjM0k1WmxKV1JrbEZkMGgwWmtKdlZuRldhMGRVTFdaMU9VSjFaekJZUlhjIiwiZmN2IjoiMyIsImVpIjoialNJNmF1R2JMTTdybUxRUF9ieVY4UVUiLCJxYyI6IkNpeHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBNElIbGxZWEp6SUcxaGNtbHVaU0JqYjNKd2N4QUFmZURYNGo0IiwicXVlc3Rpb24iOiJXaGF0IHJhbmsgc2hvdWxkIGEgbWFyaW5lIGJlIGFmdGVyIDggeWVhcnM%2FIiwibGsiOiJHaXAzYUdGMElISmhibXNnYzJodmRXeGtJR0VnYldGeWFXNWxJR0psSUdGbWRHVnlJRGdnZVdWaGNuTSIsImJzIjoiYzZYUE1RdUNRQmpHY1Z4dmFuWjYxclJKR3BxeXNhVTVvdWsxWDcxRDc0UzdNM0h1aXljaUpVVWd0UC1lUHp6aUVZajBMTWtqWThPRjhnNTVnNzVwVWJJSEZaNHRITnU3TWlWMjZKbXNnekx3a3FGVnJUelpQazBPNGI3N0t5RXVJam8ySFhSN2s4T1lIUWlhckRJRG9ZcW55RFJPa3poY3k2VmFYRVU4X3JOa0tqalp0SFgtOXRsWGV4TkczV0wtaXMtZm4wYnJadS0zbl9FNTE3XzRLbmdDIiwiaWQiOiJmY19qU0k2YXVHYkxNN3JtTFFQX2J5VjhRVV81In0%3D"
+    },
+    {
+      "question": "What benefits do Marines get after 4 years?",
+      "type": "ai_overview",
+      "page_token": "2K9kWnicHdBfboIwHADg7DI-zhYGiyZmCRNEpl3a0h_gywKtilCgzs5_b7vLTrXTLNl3hO_7Rx_69vfhXFtrTtPx-HK5PO6HYa-3j3LoxuXp1suxLLWuStlO_Wcfv-zkLPxaBq_HZUCFMTBniDvkjWcersDwSodXIiiCBfMqoXraTfC6UU-iF9csNBQce-JzduMRRKWwPsuNhSyJmWNxilkhQgWA4VS15rjV9ZCGSVgAi-ld-Wmm_TRkuYJNwBFBqouCdTcpqwVkRa4WlfBuJaYua7RIW2BiYfptviESYcJxvdrE--t7FiEuvBVxgwvrNBE4sRwXSN2JQ6Iop3dww1odBWqdIoe4aK-EuIlNo4jmTuJBUzNgw4EKdpeN7iAOzhRDqtw65m3hQk9w6gaNxKxnCI4KkYbS0U6eZ-7o_3P2sevs1HwO-z_j7oDa",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2K9kWnicHdBfboIwHADg7DI-zhYGiyZmCRNEpl3a0h_gywKtilCgzs5_b7vLTrXTLNl3hO_7Rx_69vfhXFtrTtPx-HK5PO6HYa-3j3LoxuXp1suxLLWuStlO_Wcfv-zkLPxaBq_HZUCFMTBniDvkjWcersDwSodXIiiCBfMqoXraTfC6UU-iF9csNBQce-JzduMRRKWwPsuNhSyJmWNxilkhQgWA4VS15rjV9ZCGSVgAi-ld-Wmm_TRkuYJNwBFBqouCdTcpqwVkRa4WlfBuJaYua7RIW2BiYfptviESYcJxvdrE--t7FiEuvBVxgwvrNBE4sRwXSN2JQ6Iop3dww1odBWqdIoe4aK-EuIlNo4jmTuJBUzNgw4EKdpeN7iAOzhRDqtw65m3hQk9w6gaNxKxnCI4KkYbS0U6eZ-7o_3P2sevs1HwO-z_j7oDa",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRsaDRkMjAyYnpnd2EydEtTVGx2VjJjMU9VRTFUSHBST0RaeFdWUk1Wa3M1YTFodk16QjVkRkkyVGt0VlNsVlNhbGhCT0RSamNFbHlXSGQ0UWtoallsUlZPRXN5UlZsV1NHTm5VRmhJZEMxWk5tcFBSekpUYTJaZmR4SVhhbE5KTm1GMVIySk1UVGR5YlV4UlVGOWllVlk0VVZVYUlrRkVjM0k1WmxKV1JrbEZkMGgwWmtKdlZuRldhMGRVTFdaMU9VSjFaekJZUlhjIiwiZmN2IjoiMyIsImVpIjoialNJNmF1R2JMTTdybUxRUF9ieVY4UVUiLCJxYyI6IkNpeHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBNElIbGxZWEp6SUcxaGNtbHVaU0JqYjNKd2N4QUFmZURYNGo0IiwicXVlc3Rpb24iOiJXaGF0IGJlbmVmaXRzIGRvIE1hcmluZXMgZ2V0IGFmdGVyIDQgeWVhcnM/IiwibGsiOiJHaXAzYUdGMElHSmxibVZtYVhSeklHUnZJRzFoY21sdVpYTWdaMlYwSUdGbWRHVnlJRFFnZVdWaGNuTSIsImJzIjoiYzZYUE1RdUNRQmpHY1Z4dmFuWjYxclJKR3BxeXNhVTVvdWsxWDcxRDc0UzdNM0h1aXljaUpVVWd0UC1lUHp6aUVZajBMTWtqWThPRjhnNTVnNzVwVWJJSEZaNHRITnU3TWlWMjZKbXNnekx3a3FGVnJUelpQazBPNGI3N0t5RXVJam8ySFhSN2s4T1lIUWlhckRJRG9ZcW55RFJPa3poY3k2VmFYRVU4X3JOa0tqalp0SFgtOXRsWGV4TkczV0wtaXMtZm4wYnJadS0zbl9FNTE3XzRLbmdDIiwiaWQiOiJmY19qU0k2YXVHYkxNN3JtTFFQX2J5VjhRVV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVRsaDRkMjAyYnpnd2EydEtTVGx2VjJjMU9VRTFUSHBST0RaeFdWUk1Wa3M1YTFodk16QjVkRkkyVGt0VlNsVlNhbGhCT0RSamNFbHlXSGQ0UWtoallsUlZPRXN5UlZsV1NHTm5VRmhJZEMxWk5tcFBSekpUYTJaZmR4SVhhbE5KTm1GMVIySk1UVGR5YlV4UlVGOWllVlk0VVZVYUlrRkVjM0k1WmxKV1JrbEZkMGgwWmtKdlZuRldhMGRVTFdaMU9VSjFaekJZUlhjIiwiZmN2IjoiMyIsImVpIjoialNJNmF1R2JMTTdybUxRUF9ieVY4UVUiLCJxYyI6IkNpeHRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBNElIbGxZWEp6SUcxaGNtbHVaU0JqYjNKd2N4QUFmZURYNGo0IiwicXVlc3Rpb24iOiJXaGF0IGJlbmVmaXRzIGRvIE1hcmluZXMgZ2V0IGFmdGVyIDQgeWVhcnM%2FIiwibGsiOiJHaXAzYUdGMElHSmxibVZtYVhSeklHUnZJRzFoY21sdVpYTWdaMlYwSUdGbWRHVnlJRFFnZVdWaGNuTSIsImJzIjoiYzZYUE1RdUNRQmpHY1Z4dmFuWjYxclJKR3BxeXNhVTVvdWsxWDcxRDc0UzdNM0h1aXljaUpVVWd0UC1lUHp6aUVZajBMTWtqWThPRjhnNTVnNzVwVWJJSEZaNHRITnU3TWlWMjZKbXNnekx3a3FGVnJUelpQazBPNGI3N0t5RXVJam8ySFhSN2s4T1lIUWlhckRJRG9ZcW55RFJPa3poY3k2VmFYRVU4X3JOa0tqalp0SFgtOXRsWGV4TkczV0wtaXMtZm4wYnJadS0zbl9FNTE3XzRLbmdDIiwiaWQiOiJmY19qU0k2YXVHYkxNN3JtTFFQX2J5VjhRVV81In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "eLEGqXicxZZZcvI4EIDf5x7DCwEbDISkyvWXZAwoQIjDksCLy6uM8cJvmRh4m7vMqeYMc4iRNzABkpq_ampEobXV6pb6o_njT2flrf_67W8rDDfkkWGiKKpi38eOUdV8l1HI3tMY03dIoFk_9h88V9IIz5aMFW9PUEvZ9tTh6D5wh9KLrO7nbWlWSrbwsqoQw6YadzZhZIZW69-5Dh1USdXwquqLtjL7YT-a4WqdrT1Ux4ziUgHwHxYRvCatRD-ItuhCIj4ef6NFQvHGSWFGKNR5GaWKEEoa4aZSIbNCWMQincoyaEDQkZK5_hdWTM6Hb3ElgggAGJsoStf2XDMin_OzFt48UbycSoRhdlanqP6Wv7D4wFKsc9oGwukhcpchyD2gIpj2YaqxCWDjJRJ6whfPRFc2uC9aFemq0YXSHYibKOsPFz1qEaNjGoQsowa0qTErzdKSTkDi2BSmD6zf9cDyubW1BlNuJMgyNxt4yLccr75pS4ymUjnHV3RDly2Z_ZGMa_Vak33g7tt3CRQaOVJBilQsWyMHcE8m1wXVYRXWCkgkl4HOfI7DDd5wb5Dd4SdxkGpJ6uxu8lue5WLQz-nIJux1HFWL40Q7fgrr84mxrksk8oKLHYpEYjaaHXcWxeMuggVT09L5_N6ncebDAgyko8tiweL0IsTieB0rR718IjouxVqxAxLEKRJipnB8th8XDaOXBQUg5stHC2KZzvooJiYWxssLSVoA1KWI0ufDufPZU1Ik0PndAfts1MXxV8BXAf-uwNOD3yoiyGP_UyifIXDvz-vdsNJBM6k_JvXd4dB_PnT3YyvA10Ped9V_kQm0_xeKWZYnZhkJg6tQ4G-gkJD4ZZ5I7T7liThWBP8WFEIGxXmeSAP3lCcuoZicQ3E7TxSgSLV8DQW8CUX6s3IJRZwnLqDAN6BI80QRivM84R01xx4UoPilPCH9Qp5IGDHS5jxpbG18M3n0IhU57_2w29qGU4cjQaVbOczFChn-BN8mD9MNH11Fd-7klf4I60_hXr-T6YT_aOiln7y7clahEuzLquEZ5iokZcUMjaDcLu8NJSBlVwlWnlHW_GBDSq4T-DyrNMMnWRuBj92-44VRNIXSCFnh-N12IwkvgzmC8A2ZlWiBFv3g3Zv6LcjNm_pkwrVaL2CxszB4IlPzFXyo7xN7N9Bt0VTnrLNrvdYPr_fjgb1QWNXqbYecgnQWDFgTGj5uTF9Jc24duvXaBDx07HVzb019px4ldhF-x62nZPMGjCW1VNGJwddKbqDxFIkGBs8SeMNAoywAif6zkgSffiMaCSWiKbJBPnitWWNVpWG0mvWWyT3QzTjcb_hGrUS8gK_9AzR4HH4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eLEGqXicxZZZcvI4EIDf5x7DCwEbDISkyvWXZAwoQIjDksCLy6uM8cJvmRh4m7vMqeYMc4iRNzABkpq_ampEobXV6pb6o_njT2flrf_67W8rDDfkkWGiKKpi38eOUdV8l1HI3tMY03dIoFk_9h88V9IIz5aMFW9PUEvZ9tTh6D5wh9KLrO7nbWlWSrbwsqoQw6YadzZhZIZW69-5Dh1USdXwquqLtjL7YT-a4WqdrT1Ux4ziUgHwHxYRvCatRD-ItuhCIj4ef6NFQvHGSWFGKNR5GaWKEEoa4aZSIbNCWMQincoyaEDQkZK5_hdWTM6Hb3ElgggAGJsoStf2XDMin_OzFt48UbycSoRhdlanqP6Wv7D4wFKsc9oGwukhcpchyD2gIpj2YaqxCWDjJRJ6whfPRFc2uC9aFemq0YXSHYibKOsPFz1qEaNjGoQsowa0qTErzdKSTkDi2BSmD6zf9cDyubW1BlNuJMgyNxt4yLccr75pS4ymUjnHV3RDly2Z_ZGMa_Vak33g7tt3CRQaOVJBilQsWyMHcE8m1wXVYRXWCkgkl4HOfI7DDd5wb5Dd4SdxkGpJ6uxu8lue5WLQz-nIJux1HFWL40Q7fgrr84mxrksk8oKLHYpEYjaaHXcWxeMuggVT09L5_N6ncebDAgyko8tiweL0IsTieB0rR718IjouxVqxAxLEKRJipnB8th8XDaOXBQUg5stHC2KZzvooJiYWxssLSVoA1KWI0ufDufPZU1Ik0PndAfts1MXxV8BXAf-uwNOD3yoiyGP_UyifIXDvz-vdsNJBM6k_JvXd4dB_PnT3YyvA10Ped9V_kQm0_xeKWZYnZhkJg6tQ4G-gkJD4ZZ5I7T7liThWBP8WFEIGxXmeSAP3lCcuoZicQ3E7TxSgSLV8DQW8CUX6s3IJRZwnLqDAN6BI80QRivM84R01xx4UoPilPCH9Qp5IGDHS5jxpbG18M3n0IhU57_2w29qGU4cjQaVbOczFChn-BN8mD9MNH11Fd-7klf4I60_hXr-T6YT_aOiln7y7clahEuzLquEZ5iokZcUMjaDcLu8NJSBlVwlWnlHW_GBDSq4T-DyrNMMnWRuBj92-44VRNIXSCFnh-N12IwkvgzmC8A2ZlWiBFv3g3Zv6LcjNm_pkwrVaL2CxszB4IlPzFXyo7xN7N9Bt0VTnrLNrvdYPr_fjgb1QWNXqbYecgnQWDFgTGj5uTF9Jc24duvXaBDx07HVzb019px4ldhF-x62nZPMGjCW1VNGJwddKbqDxFIkGBs8SeMNAoywAif6zkgSffiMaCSWiKbJBPnitWWNVpWG0mvWWyT3QzTjcb_hGrUS8gK_9AzR4HH4"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Marine Corps Benefits",
+      "link": "https://www.marines.com/become/benefits.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.marines.com/become/benefits.html&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4QFnoECBwQAQ",
+      "displayed_link": "https://www.marines.com › become › benefits",
+      "favicon": "https://serpapi.com/searches/6a3a22865922f45aaaaf09aa/images/aOlMzXW9TYuEAhDRFFtj4F4PFHc1qqL-sYXpckEw86U.png",
+      "snippet": "Marine Corps benefits include 100% education coverage, full healthcare, salary, and housing—plus the honor and purpose that define a Marine.",
+      "snippet_highlighted_words": [
+        "100% education coverage, full healthcare, salary, and housing"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Marine Corps benefits include 100% education coverage, full healthcare, salary, and housing—plus the honor and purpose that define a Marine.",
+          "source_info_link": "https://www.marines.com/become/benefits.html",
+          "icon": "https://serpapi.com/searches/6a3a22865922f45aaaaf09aa/images/aOlMzXW9TYuEAhDRFFtj4EgvKpT-eYR3o0pGX8dK2DbNqN2eMzSBRT3RxGIdoEF5.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.marines.com/become/benefits.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.marines.com%2Fbecome%2Fbenefits.html",
+      "source": "Marines"
+    },
+    {
+      "position": 2,
+      "title": "Those of you who got out after 4 years what do you do now ...",
+      "link": "https://www.reddit.com/r/USMC/comments/16qy6bm/those_of_you_who_got_out_after_4_years_what_do/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/USMC/comments/16qy6bm/those_of_you_who_got_out_after_4_years_what_do/&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4QFnoECCcQAQ",
+      "displayed_link": "130+ comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Got out a few months ago and just wondering how other people’s experiences have been. When I say better I mean mentally, physically, financially stuff ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "what benefits do i get after serving 4 years? : r ...",
+            "link": "https://www.reddit.com/r/AirForceRecruits/comments/1e93dsp/what_benefits_do_i_get_after_serving_4_years/",
+            "answer_count": 11,
+            "date": "Jul 22, 2024"
+          },
+          {
+            "title": "Is a 20 years in the military worth it? - Reddit",
+            "link": "https://www.reddit.com/r/Military/comments/1ejg9vp/is_a_20_years_in_the_military_worth_it/",
+            "answer_count": 16,
+            "date": "Aug 3, 2024"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "I have plenty of regrets, but joining the Marine Corps or leaving after my time was up are not part of them. I joined the USMC hoping that ...",
+          "source_info_link": "https://www.reddit.com/r/USMC/comments/16qy6bm/those_of_you_who_got_out_after_4_years_what_do/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/USMC/comments/16qy6bm/those_of_you_who_got_out_after_4_years_what_do/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FUSMC%2Fcomments%2F16qy6bm%2Fthose_of_you_who_got_out_after_4_years_what_do%2F",
+      "source": "Reddit · r/USMC"
+    },
+    {
+      "position": 3,
+      "title": "Military Compensation",
+      "link": "https://www.manpower.marines.mil/Divisions/Plans-and-Policies/Manpower-Plans-and-Policy/Manpower-Military-Policy-MPO/Military-Compensation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.manpower.marines.mil/Divisions/Plans-and-Policies/Manpower-Plans-and-Policy/Manpower-Military-Policy-MPO/Military-Compensation/&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4QFnoECB0QAQ",
+      "displayed_link": "https://www.manpower.marines.mil › Plans-and-Policies",
+      "favicon": "https://serpapi.com/searches/6a3a22865922f45aaaaf09aa/images/aOlMzXW9TYuEAhDRFFtj4N3CWk1GGMI8S1mZrJZxnjE.png",
+      "snippet": "Regular Military Compensation (RMC) is a comprehensive package designed to support Marines and their families while during their service.",
+      "snippet_highlighted_words": [
+        "Military",
+        "Marines"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Regular Military Compensation (RMC) is a comprehensive package designed to support Marines and their families while during their service.",
+          "source_info_link": "https://www.manpower.marines.mil/Divisions/Plans-and-Policies/Manpower-Plans-and-Policy/Manpower-Military-Policy-MPO/Military-Compensation/",
+          "icon": "https://serpapi.com/searches/6a3a22865922f45aaaaf09aa/images/aOlMzXW9TYuEAhDRFFtj4A3V3LebJ6eeTkRsl-RaVwY2jBbiAheYRZDQAHRQrmP1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.manpower.marines.mil/Divisions/Plans-and-Policies/Manpower-Plans-and-Policy/Manpower-Military-Policy-MPO/Military-Compensation/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.manpower.marines.mil%2FDivisions%2FPlans-and-Policies%2FManpower-Plans-and-Policy%2FManpower-Military-Policy-MPO%2FMilitary-Compensation%2F",
+      "source": "Manpower & Reserve Affairs (.mil)",
+      "read_more_link": "https://www.manpower.marines.mil/Divisions/Plans-and-Policies/Manpower-Plans-and-Policy/Manpower-Military-Policy-MPO/Military-Compensation/#:~:text=Regular%20Military%20Compensation%20(RMC)%20is,families%20while%20during%20their%20service."
+    },
+    {
+      "position": 4,
+      "title": "Military Benefits When Your Service is Up",
+      "link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarybenefit.org/get-educated/military-benefits-after-separation/&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4QFnoECCMQAQ",
+      "displayed_link": "https://www.militarybenefit.org › get-educated › military...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png",
+      "snippet": "An overview of the main educational, housing, medical, and other benefit programs available to veterans.",
+      "snippet_highlighted_words": [
+        "educational"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "An overview of the main educational, housing, medical, and other benefit programs available to veterans.",
+          "source_info_link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarybenefit.org/get-educated/military-benefits-after-separation/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarybenefit.org%2Fget-educated%2Fmilitary-benefits-after-separation%2F",
+      "source": "Military Benefit Association"
+    },
+    {
+      "position": 5,
+      "title": "After 4-6 years of the Marine Corps, will I still get paid ...",
+      "link": "https://www.quora.com/After-4-6-years-of-the-Marine-Corps-will-I-still-get-paid-monthly",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/After-4-6-years-of-the-Marine-Corps-will-I-still-get-paid-monthly&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4QFnoECB4QAQ",
+      "displayed_link": "10+ answers · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+      "snippet": "There is no pension for 4–6 years of military service. If you have a service connected disability, then you'd get disability payments. If you ...",
+      "snippet_highlighted_words": [
+        "There is no pension for 4–6 years of military service"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Do you get any benefits if you leave the Marines after ...",
+            "link": "https://www.quora.com/Do-you-get-any-benefits-if-you-leave-the-Marines-after-4-years",
+            "answer_count": 14,
+            "date": "Aug 5, 2019"
+          },
+          {
+            "title": "What are the differences of the benefits if you serve in ...",
+            "link": "https://www.quora.com/What-are-the-differences-of-the-benefits-if-you-serve-in-the-Marine-Corps-for-4-years-and-6-years",
+            "answer_count": 10,
+            "date": "Jul 17, 2022"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "There is no pension for 4–6 years of military service. If you have a service connected disability, then you'd get disability payments. If you ...",
+          "source_info_link": "https://www.quora.com/After-4-6-years-of-the-Marine-Corps-will-I-still-get-paid-monthly",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/After-4-6-years-of-the-Marine-Corps-will-I-still-get-paid-monthly&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quora.com%2FAfter-4-6-years-of-the-Marine-Corps-will-I-still-get-paid-monthly",
+      "source": "Quora",
+      "read_more_link": "https://www.quora.com/After-4-6-years-of-the-Marine-Corps-will-I-still-get-paid-monthly#:~:text=There%20is%20no%20pension%20for,be%20paid%20twice%20a%20month."
+    },
+    {
+      "position": 6,
+      "title": "Marine Corps benefits and career information",
+      "link": "https://www.facebook.com/groups/378738092230794/posts/9864938183610690/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/378738092230794/posts/9864938183610690/&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4QFnoECEcQAQ",
+      "displayed_link": "30+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "Benefits • Competitive Salary: Earn a steady income with potential bonuses for specialized roles. ... Healthcare: Full medical, dental, and vision ...",
+      "snippet_highlighted_words": [
+        "Competitive Salary"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Benefits • Competitive Salary: Earn a steady income with potential bonuses for specialized roles. ... Healthcare: Full medical, dental, and vision ...",
+          "source_info_link": "https://www.facebook.com/groups/378738092230794/posts/9864938183610690/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/378738092230794/posts/9864938183610690/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F378738092230794%2Fposts%2F9864938183610690%2F",
+      "source": "Facebook · 19th Ward News",
+      "read_more_link": "https://www.facebook.com/groups/378738092230794/posts/9864938183610690/#:~:text=Benefits%20%E2%80%A2%20Competitive%20Salary%3A%20Earn,potential%20bonuses%20for%20specialized%20roles.&text=%E2%80%A2%20Healthcare%3A%20Full%20medical%2C%20dental%2C,for%20you%20and%20your%20family."
+    },
+    {
+      "position": 7,
+      "title": "Military Retirement",
+      "link": "https://militarypay.defense.gov/Portals/3/Documents/USMC/CMT%20Handouts/USAA-EF%20FEAP%20Handout-Military%20Retirement-Marines.pdf?ver=Oczo1eE1QB7UZidnEPYqyg%3D%3D",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/Portals/3/Documents/USMC/CMT%2520Handouts/USAA-EF%2520FEAP%2520Handout-Military%2520Retirement-Marines.pdf%3Fver%3DOczo1eE1QB7UZidnEPYqyg%253D%253D&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4QFnoECD0QAQ",
+      "displayed_link": "https://militarypay.defense.gov › Portals › USMC",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "Continuation Pay is a one-time, mid-career payment (currently at 12 years of service) in exchange for additional service. Depending on the needs of the Marine ...",
+      "snippet_highlighted_words": [
+        "years",
+        "Marine"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Continuation Pay is a one-time, mid-career payment (currently at 12 years of service) in exchange for additional service. Depending on the needs of the Marine ...",
+          "source_info_link": "https://militarypay.defense.gov/Portals/3/Documents/USMC/CMT%20Handouts/USAA-EF%20FEAP%20Handout-Military%20Retirement-Marines.pdf?ver=Oczo1eE1QB7UZidnEPYqyg%3D%3D",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/Portals/3/Documents/USMC/CMT%20Handouts/USAA-EF%20FEAP%20Handout-Military%20Retirement-Marines.pdf?ver=Oczo1eE1QB7UZidnEPYqyg%3D%3D&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2FPortals%2F3%2FDocuments%2FUSMC%2FCMT%2520Handouts%2FUSAA-EF%2520FEAP%2520Handout-Military%2520Retirement-Marines.pdf%3Fver%3DOczo1eE1QB7UZidnEPYqyg%253D%253D",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/Portals/3/Documents/USMC/CMT%20Handouts/USAA-EF%20FEAP%20Handout-Military%20Retirement-Marines.pdf?ver=Oczo1eE1QB7UZidnEPYqyg%3D%3D#:~:text=Continuation%20Pay%20is%20a%20one%2Dtime%2C,monthly%20basic%20pay%20for%20Active"
+    },
+    {
+      "position": 8,
+      "title": "Learn About Marine Corps Benefits",
+      "link": "https://www.military.com/benefits/learn-about-marine-corps-benefits.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/benefits/learn-about-marine-corps-benefits.html&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4QFnoECEQQAQ",
+      "displayed_link": "https://www.military.com › benefits › learn-about-mari...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "date": "May 23, 2023",
+      "snippet": "Joining the Marine Corps comes with benefits you may never have considered, including allowances to help offset the cost of uniforms, food, housing, college ...",
+      "snippet_highlighted_words": [
+        "Marine Corps",
+        "benefits"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Joining the Marine Corps comes with benefits you may never have considered, including allowances to help offset the cost of uniforms, food, housing, college ...",
+          "source_info_link": "https://www.military.com/benefits/learn-about-marine-corps-benefits.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/benefits/learn-about-marine-corps-benefits.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fbenefits%2Flearn-about-marine-corps-benefits.html",
+      "source": "Military.com",
+      "read_more_link": "https://www.military.com/benefits/learn-about-marine-corps-benefits.html#:~:text=Joining%20the%20Marine%20Corps%20comes,courses%20and%20even%20family%20separation."
+    },
+    {
+      "position": 9,
+      "title": "Do Marines qualify for pension after 5 years of service?",
+      "link": "https://www.facebook.com/groups/6030683278/posts/10161336977998279/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/6030683278/posts/10161336977998279/&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4QFnoECEEQAQ",
+      "displayed_link": "10+ comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "Quick question, do you qualify for a pension if you did 5 years in the marines 80 to 85 ? asking for a friend. Cheers",
+      "about_this_result": {
+        "source": {
+          "description": "Benefits vary depending on the branch of service and individual circumstances and can include a pension, health care coverage, access to a ...",
+          "source_info_link": "https://www.facebook.com/groups/6030683278/posts/10161336977998279/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/6030683278/posts/10161336977998279/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F6030683278%2Fposts%2F10161336977998279%2F",
+      "source": "Facebook · Commando Association - CA"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Marine benefits after 8 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Marine+benefits+after+8+years+of+service&sa=X&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Marine+benefits+after+8+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "Marine benefits after 10 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Marine+benefits+after+10+years+of+service&sa=X&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Marine+benefits+after+10+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits after 8 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+8+years+of+service&sa=X&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+8+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits after 4 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+4+years+of+service&sa=X&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+4+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits after 2 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+2+years+of+service&sa=X&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+2+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "Marine benefits after 20 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Marine+benefits+after+20+years+of+service&sa=X&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Marine+benefits+after+20+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits after 10 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+10+years+of+service&sa=X&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+10+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "Marine benefits after 2 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Marine+benefits+after+2+years+of+service&sa=X&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Marine+benefits+after+2+years+of+service"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+benefits+after+8+years+marine+corps&sca_esv=c510ba4e6526f391&ei=jSI6auGbLM7rmLQP_byV8QU&start=10&sa=N&sstk=AU9db-BEhlcVxjZW6wa3aEeDmBqAP2mTPu1VY24ghEWYEKXKM4IhzgbWOJjfztFOcyTEsYQIW56f_7t7tP9q2m9ianuYjz7ZpFjhzA&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q8NMDegQIMxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+benefits+after+8+years+marine+corps&sca_esv=c510ba4e6526f391&ei=jSI6auGbLM7rmLQP_byV8QU&start=10&sa=N&sstk=AU9db-BEhlcVxjZW6wa3aEeDmBqAP2mTPu1VY24ghEWYEKXKM4IhzgbWOJjfztFOcyTEsYQIW56f_7t7tP9q2m9ianuYjz7ZpFjhzA&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q8tMDegQIMxAE",
+      "3": "https://www.google.com/search?q=military+benefits+after+8+years+marine+corps&sca_esv=c510ba4e6526f391&ei=jSI6auGbLM7rmLQP_byV8QU&start=20&sa=N&sstk=AU9db-BEhlcVxjZW6wa3aEeDmBqAP2mTPu1VY24ghEWYEKXKM4IhzgbWOJjfztFOcyTEsYQIW56f_7t7tP9q2m9ianuYjz7ZpFjhzA&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q8tMDegQIMxAG",
+      "4": "https://www.google.com/search?q=military+benefits+after+8+years+marine+corps&sca_esv=c510ba4e6526f391&ei=jSI6auGbLM7rmLQP_byV8QU&start=30&sa=N&sstk=AU9db-BEhlcVxjZW6wa3aEeDmBqAP2mTPu1VY24ghEWYEKXKM4IhzgbWOJjfztFOcyTEsYQIW56f_7t7tP9q2m9ianuYjz7ZpFjhzA&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q8tMDegQIMxAI",
+      "5": "https://www.google.com/search?q=military+benefits+after+8+years+marine+corps&sca_esv=c510ba4e6526f391&ei=jSI6auGbLM7rmLQP_byV8QU&start=40&sa=N&sstk=AU9db-BEhlcVxjZW6wa3aEeDmBqAP2mTPu1VY24ghEWYEKXKM4IhzgbWOJjfztFOcyTEsYQIW56f_7t7tP9q2m9ianuYjz7ZpFjhzA&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q8tMDegQIMxAK",
+      "6": "https://www.google.com/search?q=military+benefits+after+8+years+marine+corps&sca_esv=c510ba4e6526f391&ei=jSI6auGbLM7rmLQP_byV8QU&start=50&sa=N&sstk=AU9db-BEhlcVxjZW6wa3aEeDmBqAP2mTPu1VY24ghEWYEKXKM4IhzgbWOJjfztFOcyTEsYQIW56f_7t7tP9q2m9ianuYjz7ZpFjhzA&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q8tMDegQIMxAM",
+      "7": "https://www.google.com/search?q=military+benefits+after+8+years+marine+corps&sca_esv=c510ba4e6526f391&ei=jSI6auGbLM7rmLQP_byV8QU&start=60&sa=N&sstk=AU9db-BEhlcVxjZW6wa3aEeDmBqAP2mTPu1VY24ghEWYEKXKM4IhzgbWOJjfztFOcyTEsYQIW56f_7t7tP9q2m9ianuYjz7ZpFjhzA&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q8tMDegQIMxAO",
+      "8": "https://www.google.com/search?q=military+benefits+after+8+years+marine+corps&sca_esv=c510ba4e6526f391&ei=jSI6auGbLM7rmLQP_byV8QU&start=70&sa=N&sstk=AU9db-BEhlcVxjZW6wa3aEeDmBqAP2mTPu1VY24ghEWYEKXKM4IhzgbWOJjfztFOcyTEsYQIW56f_7t7tP9q2m9ianuYjz7ZpFjhzA&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q8tMDegQIMxAQ",
+      "9": "https://www.google.com/search?q=military+benefits+after+8+years+marine+corps&sca_esv=c510ba4e6526f391&ei=jSI6auGbLM7rmLQP_byV8QU&start=80&sa=N&sstk=AU9db-BEhlcVxjZW6wa3aEeDmBqAP2mTPu1VY24ghEWYEKXKM4IhzgbWOJjfztFOcyTEsYQIW56f_7t7tP9q2m9ianuYjz7ZpFjhzA&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q8tMDegQIMxAS",
+      "10": "https://www.google.com/search?q=military+benefits+after+8+years+marine+corps&sca_esv=c510ba4e6526f391&ei=jSI6auGbLM7rmLQP_byV8QU&start=90&sa=N&sstk=AU9db-BEhlcVxjZW6wa3aEeDmBqAP2mTPu1VY24ghEWYEKXKM4IhzgbWOJjfztFOcyTEsYQIW56f_7t7tP9q2m9ianuYjz7ZpFjhzA&ved=2ahUKEwihlvyN2ZyVAxXONYYAHX1eJV4Q8tMDegQIMxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+8+years+marine+corps&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+8+years+marine+corps&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+8+years+marine+corps&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+8+years+marine+corps&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+8+years+marine+corps&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+8+years+marine+corps&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+8+years+marine+corps&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+8+years+marine+corps&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+8+years+marine+corps&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+8+years+marine+corps&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+8+years+marine+corps&start=90"
+    }
+  }
+}

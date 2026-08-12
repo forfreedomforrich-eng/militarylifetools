@@ -1,0 +1,429 @@
+{
+  "search_metadata": {
+    "id": "6a3a2193532a17bb8c704e0b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/GRI3liB0lOBeI0jNAtQSpg/6a3a2193532a17bb8c704e0b.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/GRI3liB0lOBeI0jNAtQSpg/6a3a2193532a17bb8c704e0b.json_with_pixel_position",
+    "created_at": "2026-06-23 06:02:59 UTC",
+    "processed_at": "2026-06-23 06:02:59 UTC",
+    "google_url": "https://www.google.com/search?q=military+combat+zone+tax+exclusion+calculator&oq=military+combat+zone+tax+exclusion+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/GRI3liB0lOBeI0jNAtQSpg/6a3a2193532a17bb8c704e0b.html",
+    "total_time_taken": 0.82
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military combat zone tax exclusion calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military combat zone tax exclusion calculator",
+    "total_results": 103,
+    "time_taken_displayed": 0.18,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What taxes are exempt in a combat zone?",
+      "type": "featured_snippet",
+      "snippet": "The Combat Zone Tax Exclusion (CZTE) is a provision that exempts all or a portion of earnings from federal income taxes while a Service member is deployed to a designated combat zone. This can mean more money in your pocket or more to achieve your financial goals.",
+      "title": "COMBAT ZONE TAX EXCLUSION",
+      "link": "https://militarypay.defense.gov/Portals/3/Documents/USMC/CMT%20Handouts/USAA-EF%20FEAP%20Handout-Combat%20Zone%20Tax%20Exclusion-Marines.pdf?ver=e4sQNf-tgoX3t0CoSA6W4g%3D%3D#:~:text=The%20Combat%20Zone%20Tax%20Exclusion,to%20achieve%20your%20financial%20goals.",
+      "displayed_link": "https://militarypay.defense.gov › Documents › USMC",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlVVmlUVXBqTUZaU1JFUjRhMU5xT1VSNE9FNXhiVEo1VWt0TVJ6WlJTSGxtWm1kcmNGVTBMVXRqUjA1dGFsQjJkVjkzY2taVlRsQkZTV0pTWWtwb1FXaHViMGxyTm5JM1UzVnljRlJITTBoSlUxcE1hVVY2Wm1KM1p4SVhiRU5GTm1Gdlh6RkNOMHhRYTFCSlVEaG1WRk56UVZrYUlrRkVjM0k1WmxOR2RVdEhkMGxJZG5kRk5sWkZialp6Vm5FeFNHeFJRV3BtVFdjIiwiZmN2IjoiMyIsImVpIjoibENFNmFvXzFCN0xQa1BJUDhmVFNzQVkiLCJxYyI6IkNpMXRhV3hwZEdGeWVTQmpiMjFpWVhRZ2VtOXVaU0IwWVhnZ1pYaGpiSFZ6YVc5dUlHTmhiR04xYkdGMGIzSVFBSDJTaFZjXyIsInF1ZXN0aW9uIjoiV2hhdCB0YXhlcyBhcmUgZXhlbXB0IGluIGEgY29tYmF0IHpvbmU/IiwibGsiOiJHaVozYUdGMElIUmhlR1Z6SUdGeVpTQmxlR1Z0Y0hRZ2FXNGdZU0JqYjIxaVlYUWdlbTl1WlEiLCJicyI6ImMtTUs0MUlQejBnc1VTaEpyRWd0Vmtnc1NsVklyVWpOTFNoUnlNeFRTRlJJenM5TkFrcFc1ZWVsMmt0Y1pqYlNrRklySjBvMVZ3R1hDZGpjekdLRmtveFVoZHpFaXN6YzBseWdPcUFpa0s3a25OTGl6UHc4aGJUOElwaS1nc1JLZTRrdmpFYW1Vc2JscEd2bEN1QlNnZG1ZbTVtVFdaSllWSW1rR0lqQWpyYVgyS2RncENxbFhFNVlLVmNrbHhiTXhPVDh2T0xNbE5TaTFCU2dQLUY2a0lQSFNGdEtzNXhZMVFLTUFBIiwiaWQiOiJmY19sQ0U2YW9fMUI3TFBrUElQOGZUU3NBWV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlVVmlUVXBqTUZaU1JFUjRhMU5xT1VSNE9FNXhiVEo1VWt0TVJ6WlJTSGxtWm1kcmNGVTBMVXRqUjA1dGFsQjJkVjkzY2taVlRsQkZTV0pTWWtwb1FXaHViMGxyTm5JM1UzVnljRlJITTBoSlUxcE1hVVY2Wm1KM1p4SVhiRU5GTm1Gdlh6RkNOMHhRYTFCSlVEaG1WRk56UVZrYUlrRkVjM0k1WmxOR2RVdEhkMGxJZG5kRk5sWkZialp6Vm5FeFNHeFJRV3BtVFdjIiwiZmN2IjoiMyIsImVpIjoibENFNmFvXzFCN0xQa1BJUDhmVFNzQVkiLCJxYyI6IkNpMXRhV3hwZEdGeWVTQmpiMjFpWVhRZ2VtOXVaU0IwWVhnZ1pYaGpiSFZ6YVc5dUlHTmhiR04xYkdGMGIzSVFBSDJTaFZjXyIsInF1ZXN0aW9uIjoiV2hhdCB0YXhlcyBhcmUgZXhlbXB0IGluIGEgY29tYmF0IHpvbmU%2FIiwibGsiOiJHaVozYUdGMElIUmhlR1Z6SUdGeVpTQmxlR1Z0Y0hRZ2FXNGdZU0JqYjIxaVlYUWdlbTl1WlEiLCJicyI6ImMtTUs0MUlQejBnc1VTaEpyRWd0Vmtnc1NsVklyVWpOTFNoUnlNeFRTRlJJenM5TkFrcFc1ZWVsMmt0Y1pqYlNrRklySjBvMVZ3R1hDZGpjekdLRmtveFVoZHpFaXN6YzBseWdPcUFpa0s3a25OTGl6UHc4aGJUOElwaS1nc1JLZTRrdmpFYW1Vc2JscEd2bEN1QlNnZG1ZbTVtVFdaSllWSW1rR0lqQWpyYVgyS2RncENxbFhFNVlLVmNrbHhiTXhPVDh2T0xNbE5TaTFCU2dQLUY2a0lQSFNGdEtzNXhZMVFLTUFBIiwiaWQiOiJmY19sQ0U2YW9fMUI3TFBrUElQOGZUU3NBWV8yIn0%3D"
+    },
+    {
+      "question": "What is the maximum income exclusion for combat pay?",
+      "type": "featured_snippet",
+      "snippet": "The limit for 2023 is $10,011 per month, which consists of $9,786 for the highest enlisted pay and $225 for imminent danger pay. Income excluded from hospitalization after serving in a combat zone is limited to two years from the last month of presence in the combat zone.",
+      "title": "Income Exclusions for Members of the U.S. Armed Forces - U of I Tax School",
+      "date": "Jul 1, 2024",
+      "link": "https://taxschool.illinois.edu/post/income-exclusions-for-members-of-the-u-s-armed-forces/#:~:text=The%20limit%20for%202023%20is,presence%20in%20the%20combat%20zone.",
+      "displayed_link": "https://taxschool.illinois.edu › post › income-exclusions-f...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAj0lEQVR4AWN46a0GwixAvAGI_wPxH3wYqqYBqo8B2YBNIEkicSNNDfiHR-M_XAYwAbETEMcCcTcQ_8ai-TUQFwJxHBAbwAxAAVBBTyD-icWA-0Asj6YJqwFeOAx4MDwNoDgQUaLRFojDgLgdRzS-AuJsIA4HYh1sCWkjVOFfPAnp76DJC3UwA8jNztWwwAQAj0y2mERADCEAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlVVmlUVXBqTUZaU1JFUjRhMU5xT1VSNE9FNXhiVEo1VWt0TVJ6WlJTSGxtWm1kcmNGVTBMVXRqUjA1dGFsQjJkVjkzY2taVlRsQkZTV0pTWWtwb1FXaHViMGxyTm5JM1UzVnljRlJITTBoSlUxcE1hVVY2Wm1KM1p4SVhiRU5GTm1Gdlh6RkNOMHhRYTFCSlVEaG1WRk56UVZrYUlrRkVjM0k1WmxOR2RVdEhkMGxJZG5kRk5sWkZialp6Vm5FeFNHeFJRV3BtVFdjIiwiZmN2IjoiMyIsImVpIjoibENFNmFvXzFCN0xQa1BJUDhmVFNzQVkiLCJxYyI6IkNpMXRhV3hwZEdGeWVTQmpiMjFpWVhRZ2VtOXVaU0IwWVhnZ1pYaGpiSFZ6YVc5dUlHTmhiR04xYkdGMGIzSVFBSDJTaFZjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWF4aW11bSBpbmNvbWUgZXhjbHVzaW9uIGZvciBjb21iYXQgcGF5PyIsImxrIjoiR2pOM2FHRjBJR2x6SUhSb1pTQnRZWGhwYlhWdElHbHVZMjl0WlNCbGVHTnNkWE5wYjI0Z1ptOXlJR052YldKaGRDQndZWGsiLCJicyI6ImMtTUs0MUlQejBnc1VTaEpyRWd0Vmtnc1NsVklyVWpOTFNoUnlNeFRTRlJJenM5TkFrcFc1ZWVsMmt0Y1pqYlNrRklySjBvMVZ3R1hDZGpjekdLRmtveFVoZHpFaXN6YzBseWdPcUFpa0s3a25OTGl6UHc4aGJUOElwaS1nc1JLZTRrdmpFYW1Vc2JscEd2bEN1QlNnZG1ZbTVtVFdaSllWSW1rR0lqQWpyYVgyS2RncENxbFhFNVlLVmNrbHhiTXhPVDh2T0xNbE5TaTFCU2dQLUY2a0lQSFNGdEtzNXhZMVFLTUFBIiwiaWQiOiJmY19sQ0U2YW9fMUI3TFBrUElQOGZUU3NBWV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlVVmlUVXBqTUZaU1JFUjRhMU5xT1VSNE9FNXhiVEo1VWt0TVJ6WlJTSGxtWm1kcmNGVTBMVXRqUjA1dGFsQjJkVjkzY2taVlRsQkZTV0pTWWtwb1FXaHViMGxyTm5JM1UzVnljRlJITTBoSlUxcE1hVVY2Wm1KM1p4SVhiRU5GTm1Gdlh6RkNOMHhRYTFCSlVEaG1WRk56UVZrYUlrRkVjM0k1WmxOR2RVdEhkMGxJZG5kRk5sWkZialp6Vm5FeFNHeFJRV3BtVFdjIiwiZmN2IjoiMyIsImVpIjoibENFNmFvXzFCN0xQa1BJUDhmVFNzQVkiLCJxYyI6IkNpMXRhV3hwZEdGeWVTQmpiMjFpWVhRZ2VtOXVaU0IwWVhnZ1pYaGpiSFZ6YVc5dUlHTmhiR04xYkdGMGIzSVFBSDJTaFZjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWF4aW11bSBpbmNvbWUgZXhjbHVzaW9uIGZvciBjb21iYXQgcGF5PyIsImxrIjoiR2pOM2FHRjBJR2x6SUhSb1pTQnRZWGhwYlhWdElHbHVZMjl0WlNCbGVHTnNkWE5wYjI0Z1ptOXlJR052YldKaGRDQndZWGsiLCJicyI6ImMtTUs0MUlQejBnc1VTaEpyRWd0Vmtnc1NsVklyVWpOTFNoUnlNeFRTRlJJenM5TkFrcFc1ZWVsMmt0Y1pqYlNrRklySjBvMVZ3R1hDZGpjekdLRmtveFVoZHpFaXN6YzBseWdPcUFpa0s3a25OTGl6UHc4aGJUOElwaS1nc1JLZTRrdmpFYW1Vc2JscEd2bEN1QlNnZG1ZbTVtVFdaSllWSW1rR0lqQWpyYVgyS2RncENxbFhFNVlLVmNrbHhiTXhPVDh2T0xNbE5TaTFCU2dQLUY2a0lQSFNGdEtzNXhZMVFLTUFBIiwiaWQiOiJmY19sQ0U2YW9fMUI3TFBrUElQOGZUU3NBWV8yIn0%3D"
+    },
+    {
+      "question": "What is military exclusion on taxes?",
+      "type": "featured_snippet",
+      "snippet": "One of the most notable military tax benefits is the exclusion of combat pay from taxable income. Combat Zone Tax Exclusions (CZTE) ensure that additional income earned in designated combat zones is not subject to federal income tax.",
+      "title": "2025 Military Tax Return Benefits | First Command",
+      "date": "Jan 26, 2026",
+      "link": "https://www.firstcommand.com/coaching-center/financial-resources/military-tax-tips/#:~:text=One%20of%20the%20most%20notable,subject%20to%20federal%20income%20tax.",
+      "displayed_link": "https://www.firstcommand.com › financial-resources › m...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABeklEQVR4AWIYfOCSgj4PoFlygK00iMJouN6wGyzjtW3balC3Qa2gtm1bYW27UW3btge989JJHv5YneTE35kr4G7zmSvPxi2dnlFKnzNCs5qfnfjq_5xz8pv_OaGwXMuFG4nAYt8f5ZWNts4VCK8xbGJrVo599l2D4Po-ijICCGqBhI7om5KdiUlC9x_a2SV_bDLw0c9-9MQ3fwrhReC-kCCx_dYLOuUZiBZSMtHu_IJIMjqzgq9rxGIIc0EbICdTPtAE0OZz12jn0094Z2wCM0FZ0wg-9SeYiAmShPq_y3rngkFlLcxKZwK_lHrEyhcTGAsJ1FmYC1gbfAaqbnni_a8Db4UEgSzMWcotwiw8u7RBHuokiQv6gHNCu6_iYTbIrd5-kaCuewqfkQ8V7z8bOCwtuARM8PLhBjBeWxP1H1vQhlmQc_yLn6NQ-X_F-4cLJLx_g8BSIlZ-G3BdRsDOFjbgxJmNiHeErNP2DnL6aZXuyH6FoCkPH6y3B-9IShkOwvIbAAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlVVmlUVXBqTUZaU1JFUjRhMU5xT1VSNE9FNXhiVEo1VWt0TVJ6WlJTSGxtWm1kcmNGVTBMVXRqUjA1dGFsQjJkVjkzY2taVlRsQkZTV0pTWWtwb1FXaHViMGxyTm5JM1UzVnljRlJITTBoSlUxcE1hVVY2Wm1KM1p4SVhiRU5GTm1Gdlh6RkNOMHhRYTFCSlVEaG1WRk56UVZrYUlrRkVjM0k1WmxOR2RVdEhkMGxJZG5kRk5sWkZialp6Vm5FeFNHeFJRV3BtVFdjIiwiZmN2IjoiMyIsImVpIjoibENFNmFvXzFCN0xQa1BJUDhmVFNzQVkiLCJxYyI6IkNpMXRhV3hwZEdGeWVTQmpiMjFpWVhRZ2VtOXVaU0IwWVhnZ1pYaGpiSFZ6YVc5dUlHTmhiR04xYkdGMGIzSVFBSDJTaFZjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBtaWxpdGFyeSBleGNsdXNpb24gb24gdGF4ZXM/IiwibGsiOiJHaU4zYUdGMElHbHpJRzFwYkdsMFlYSjVJR1Y0WTJ4MWMybHZiaUJ2YmlCMFlYaGxjdyIsImJzIjoiYy1NSzQxSVB6MGdzVVNoSnJFZ3RWa2dzU2xWSXJVak5MU2hSeU14VFNGUkl6czlOQWtwVzVlZWwya3RjWmpiU2tGSXJKMG8xVndHWENkamN6R0tGa294VWhkekVpc3pjMGx5Z09xQWlrSzdrbk5MaXpQdzhoYlQ4SXBpLWdzUktlNGt2akVhbVVzYmxwR3ZsQ3VCU2dkbVltNW1UV1pKWVZJbWtHSWpBanJhWDJLZGdwQ3FsWEU1WUtWY2tseGJNeE9UOHZPTE1sTlNpMUJTZ1AtRjZrSVBIU0Z0S3M1eFkxUUtNQUEiLCJpZCI6ImZjX2xDRTZhb18xQjdMUGtQSVA4ZlRTc0FZXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlVVmlUVXBqTUZaU1JFUjRhMU5xT1VSNE9FNXhiVEo1VWt0TVJ6WlJTSGxtWm1kcmNGVTBMVXRqUjA1dGFsQjJkVjkzY2taVlRsQkZTV0pTWWtwb1FXaHViMGxyTm5JM1UzVnljRlJITTBoSlUxcE1hVVY2Wm1KM1p4SVhiRU5GTm1Gdlh6RkNOMHhRYTFCSlVEaG1WRk56UVZrYUlrRkVjM0k1WmxOR2RVdEhkMGxJZG5kRk5sWkZialp6Vm5FeFNHeFJRV3BtVFdjIiwiZmN2IjoiMyIsImVpIjoibENFNmFvXzFCN0xQa1BJUDhmVFNzQVkiLCJxYyI6IkNpMXRhV3hwZEdGeWVTQmpiMjFpWVhRZ2VtOXVaU0IwWVhnZ1pYaGpiSFZ6YVc5dUlHTmhiR04xYkdGMGIzSVFBSDJTaFZjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBtaWxpdGFyeSBleGNsdXNpb24gb24gdGF4ZXM%2FIiwibGsiOiJHaU4zYUdGMElHbHpJRzFwYkdsMFlYSjVJR1Y0WTJ4MWMybHZiaUJ2YmlCMFlYaGxjdyIsImJzIjoiYy1NSzQxSVB6MGdzVVNoSnJFZ3RWa2dzU2xWSXJVak5MU2hSeU14VFNGUkl6czlOQWtwVzVlZWwya3RjWmpiU2tGSXJKMG8xVndHWENkamN6R0tGa294VWhkekVpc3pjMGx5Z09xQWlrSzdrbk5MaXpQdzhoYlQ4SXBpLWdzUktlNGt2akVhbVVzYmxwR3ZsQ3VCU2dkbVltNW1UV1pKWVZJbWtHSWpBanJhWDJLZGdwQ3FsWEU1WUtWY2tseGJNeE9UOHZPTE1sTlNpMUJTZ1AtRjZrSVBIU0Z0S3M1eFkxUUtNQUEiLCJpZCI6ImZjX2xDRTZhb18xQjdMUGtQSVA4ZlRTc0FZXzIifQ%3D%3D"
+    },
+    {
+      "question": "What is considered a military combat zone?",
+      "type": "ai_overview",
+      "page_token": "Vw4vfnicHdBRboIwAADQ7DJ-KlR008QsQymuCxhKaaU_C7QgQoFuEov-7S471U6zZRd4H-_rW5275ufhWA2DvqxnM2PM9NT3J1VMRd_OssutEzORKZVnolkvH5f2cyk23sW42964UaI13WGL-KvuCKBJ7tKjjSSZFThJLQ1tK1QQ3km1UoVna7nnd9zgOtynI260dWD2PFUwEKpf5AQ6GcMfEXUPcae3CbPLEHKUMp1mgPZpByEh0kmVPnO_ApxUb8EdgdDTALfoM7UqT7IBMIrqkK0gTextQV_n-b26_hlBsFOjOMqB2voatl4MwbjDhFe5_TRGtQwSf4hi-uJwhYmwIPfPyMX78HZgPMaAG7bzFmGNEFPY0CYdWWyPcdM7GCwadkTupBTXzXzyP7Z5L9thrT_70y8DxHkp",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Vw4vfnicHdBRboIwAADQ7DJ-KlR008QsQymuCxhKaaU_C7QgQoFuEov-7S471U6zZRd4H-_rW5275ufhWA2DvqxnM2PM9NT3J1VMRd_OssutEzORKZVnolkvH5f2cyk23sW42964UaI13WGL-KvuCKBJ7tKjjSSZFThJLQ1tK1QQ3km1UoVna7nnd9zgOtynI260dWD2PFUwEKpf5AQ6GcMfEXUPcae3CbPLEHKUMp1mgPZpByEh0kmVPnO_ApxUb8EdgdDTALfoM7UqT7IBMIrqkK0gTextQV_n-b26_hlBsFOjOMqB2voatl4MwbjDhFe5_TRGtQwSf4hi-uJwhYmwIPfPyMX78HZgPMaAG7bzFmGNEFPY0CYdWWyPcdM7GCwadkTupBTXzXzyP7Z5L9thrT_70y8DxHkp",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlVVmlUVXBqTUZaU1JFUjRhMU5xT1VSNE9FNXhiVEo1VWt0TVJ6WlJTSGxtWm1kcmNGVTBMVXRqUjA1dGFsQjJkVjkzY2taVlRsQkZTV0pTWWtwb1FXaHViMGxyTm5JM1UzVnljRlJITTBoSlUxcE1hVVY2Wm1KM1p4SVhiRU5GTm1Gdlh6RkNOMHhRYTFCSlVEaG1WRk56UVZrYUlrRkVjM0k1WmxOR2RVdEhkMGxJZG5kRk5sWkZialp6Vm5FeFNHeFJRV3BtVFdjIiwiZmN2IjoiMyIsImVpIjoibENFNmFvXzFCN0xQa1BJUDhmVFNzQVkiLCJxYyI6IkNpMXRhV3hwZEdGeWVTQmpiMjFpWVhRZ2VtOXVaU0IwWVhnZ1pYaGpiSFZ6YVc5dUlHTmhiR04xYkdGMGIzSVFBSDJTaFZjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBjb25zaWRlcmVkIGEgbWlsaXRhcnkgY29tYmF0IHpvbmU/IiwibGsiOiJjNVBTTE05SUxGSElMRlpJenM4cnpreEpMVXBOVVVoVXlNM015U3hKTEtvRWl1WW1BZVdyOHZOU0FRIiwiYnMiOiJjLU1LNDFJUHowZ3NVU2hKckVndFZrZ3NTbFZJclVqTkxTaFJ5TXhUU0ZSSXpzOU5Ba3BXNWVlbDJrdGNaamJTa0ZJckowbzFWd0dYQ2RqY3pHS0Zrb3hVaGR6RWlzemMwbHlnT3FBaWtLN2tuTkxpelB3OGhiVDhJcGktZ3NSS2U0a3ZqRWFtVXNibHBHdmxDdUJTZ2RtWW01bVRXWkpZVklta0dJakFqcmFYMktkZ3BDcWxYRTVZS1Zja2x4Yk14T1Q4dk9MTWxOU2kxQlNnUC1GNmtJUEhTRnRLczV4WTFRS01BQSIsImlkIjoiZmNfbENFNmFvXzFCN0xQa1BJUDhmVFNzQVlfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFlVVmlUVXBqTUZaU1JFUjRhMU5xT1VSNE9FNXhiVEo1VWt0TVJ6WlJTSGxtWm1kcmNGVTBMVXRqUjA1dGFsQjJkVjkzY2taVlRsQkZTV0pTWWtwb1FXaHViMGxyTm5JM1UzVnljRlJITTBoSlUxcE1hVVY2Wm1KM1p4SVhiRU5GTm1Gdlh6RkNOMHhRYTFCSlVEaG1WRk56UVZrYUlrRkVjM0k1WmxOR2RVdEhkMGxJZG5kRk5sWkZialp6Vm5FeFNHeFJRV3BtVFdjIiwiZmN2IjoiMyIsImVpIjoibENFNmFvXzFCN0xQa1BJUDhmVFNzQVkiLCJxYyI6IkNpMXRhV3hwZEdGeWVTQmpiMjFpWVhRZ2VtOXVaU0IwWVhnZ1pYaGpiSFZ6YVc5dUlHTmhiR04xYkdGMGIzSVFBSDJTaFZjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBjb25zaWRlcmVkIGEgbWlsaXRhcnkgY29tYmF0IHpvbmU%2FIiwibGsiOiJjNVBTTE05SUxGSElMRlpJenM4cnpreEpMVXBOVVVoVXlNM015U3hKTEtvRWl1WW1BZVdyOHZOU0FRIiwiYnMiOiJjLU1LNDFJUHowZ3NVU2hKckVndFZrZ3NTbFZJclVqTkxTaFJ5TXhUU0ZSSXpzOU5Ba3BXNWVlbDJrdGNaamJTa0ZJckowbzFWd0dYQ2RqY3pHS0Zrb3hVaGR6RWlzemMwbHlnT3FBaWtLN2tuTkxpelB3OGhiVDhJcGktZ3NSS2U0a3ZqRWFtVXNibHBHdmxDdUJTZ2RtWW01bVRXWkpZVklta0dJakFqcmFYMktkZ3BDcWxYRTVZS1Zja2x4Yk14T1Q4dk9MTWxOU2kxQlNnUC1GNmtJUEhTRnRLczV4WTFRS01BQSIsImlkIjoiZmNfbENFNmFvXzFCN0xQa1BJUDhmVFNzQVlfMiJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "_IS3qnicxZbdkqo4EIDv9z3WG0cBFX-mijqVRFR0nJFVx2FuKAREFIgSFJ278y77VPsqe7PhT3HUmdpTtbWxIH-dTnfSH-3PPx3bW__129_LINiQR4YJw7BsYWw5ZlnHLqORo6czC-wQX1_-IHjn66ZtCPrSx65ZOO6FakEnAlswbcFBYl3DKgcbT6P1SBo1F5MxAUohViGoc42YK7rDYUUYlaGv9e_VNu2USdn0yvORbi96QS-cWuUKy7XKL4zmUgHwHxYR_BHXMv1JtJauJKLtrW-0yFK0cJwbQbl3VoaJIkmKK3RXKUqtQEok0i69-zUI2nI81vvCivFldxa9RBACACMTRfnWmltGZGM4reHdHcXroVgYpnu18-rv-QvzFyxHOidNgM4XkbkMQeYBFbFoGyYaeQBroxB10RfXRGc2Vk9cluSbRudKZyBuwrT9pHSpRYxh0SBkmblPK46x9aUeN3wSxSaatFjc8cD7c323HEyqQ6Sq1enAk_DS8SqbpszocyrnYM0wDXWpsj_iPlfheLZVbTQfYih0cqKC5Kl4rw8dUO0vqh1QfipDLodEfBhJKGUuReHWuemeCAbpGeYKyhbGZy3307PJTnmaiUGc0ZEOrNZRVCmngWZ0FUvwKcAiXddIZMXKNygSsSXS9LQyL06bSIJnU9PS_nzf535qigIG8sllMWdxchBivr-OXJS62UB4moq0Wg6IEadIiKnCl4v1Vt4wqgkiIGbTJwsimfb6JCbGFkbTiiwrQOpQRKGYfBzidWKqTZQuzw6sLnodK3qQdRPw7woEn-_tqoggi_1PoZxHoFf6MOa79l6abt6wPTeIq0DQqs8a6zC8HfLYnf-LTKD_v1BM0zwxTUkY3ITC-gYKWRK_zBNJAJ_zRBQrCN-DAqVQXOaJJHDPeeIaivElFPfzRA6KRMvXUMC7UCSflWsoojxxBYV1B4okT-ShuMwT3klz5EEOil_KE_Iv5ImYETOpLpPGbmXdTR5iuNYHpW3lZbvnrVVpb_c51rAm9ty0w2-Tx8INHl3NcB5U23iElX5wNB5UOoAfTaOwFVzbsQPNPxYj2rSg-IE9sxhoh6J50J0dsbFX1DVH3zlagP2C6_hYYLV6_23RlxAygIpGL2pl5k22HLYmL7av9MxhN5x2Gx-cxh0-Avbd8xznrfva57kxQqjBL44Nr3sIlI2rsD3d4MNaBUqEgwdoq8_t8ZjtodFk5XZ3wxJi-dmQGJ39dDXdcrxd5SV_zqMhnIDSbHRst-XXRdOOrSKCPNl-oBZ8lcCwQP0jpsAVXF8XKBE1CzzLYGYBnaIAZPrHSkaYPiENhALRNdUke0HnOXau1cw6X6kvqi262AqOG6HGFYjnC9w_-LghBQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_IS3qnicxZbdkqo4EIDv9z3WG0cBFX-mijqVRFR0nJFVx2FuKAREFIgSFJ278y77VPsqe7PhT3HUmdpTtbWxIH-dTnfSH-3PPx3bW__129_LINiQR4YJw7BsYWw5ZlnHLqORo6czC-wQX1_-IHjn66ZtCPrSx65ZOO6FakEnAlswbcFBYl3DKgcbT6P1SBo1F5MxAUohViGoc42YK7rDYUUYlaGv9e_VNu2USdn0yvORbi96QS-cWuUKy7XKL4zmUgHwHxYR_BHXMv1JtJauJKLtrW-0yFK0cJwbQbl3VoaJIkmKK3RXKUqtQEok0i69-zUI2nI81vvCivFldxa9RBACACMTRfnWmltGZGM4reHdHcXroVgYpnu18-rv-QvzFyxHOidNgM4XkbkMQeYBFbFoGyYaeQBroxB10RfXRGc2Vk9cluSbRudKZyBuwrT9pHSpRYxh0SBkmblPK46x9aUeN3wSxSaatFjc8cD7c323HEyqQ6Sq1enAk_DS8SqbpszocyrnYM0wDXWpsj_iPlfheLZVbTQfYih0cqKC5Kl4rw8dUO0vqh1QfipDLodEfBhJKGUuReHWuemeCAbpGeYKyhbGZy3307PJTnmaiUGc0ZEOrNZRVCmngWZ0FUvwKcAiXddIZMXKNygSsSXS9LQyL06bSIJnU9PS_nzf535qigIG8sllMWdxchBivr-OXJS62UB4moq0Wg6IEadIiKnCl4v1Vt4wqgkiIGbTJwsimfb6JCbGFkbTiiwrQOpQRKGYfBzidWKqTZQuzw6sLnodK3qQdRPw7woEn-_tqoggi_1PoZxHoFf6MOa79l6abt6wPTeIq0DQqs8a6zC8HfLYnf-LTKD_v1BM0zwxTUkY3ITC-gYKWRK_zBNJAJ_zRBQrCN-DAqVQXOaJJHDPeeIaivElFPfzRA6KRMvXUMC7UCSflWsoojxxBYV1B4okT-ShuMwT3klz5EEOil_KE_Iv5ImYETOpLpPGbmXdTR5iuNYHpW3lZbvnrVVpb_c51rAm9ty0w2-Tx8INHl3NcB5U23iElX5wNB5UOoAfTaOwFVzbsQPNPxYj2rSg-IE9sxhoh6J50J0dsbFX1DVH3zlagP2C6_hYYLV6_23RlxAygIpGL2pl5k22HLYmL7av9MxhN5x2Gx-cxh0-Avbd8xznrfva57kxQqjBL44Nr3sIlI2rsD3d4MNaBUqEgwdoq8_t8ZjtodFk5XZ3wxJi-dmQGJ39dDXdcrxd5SV_zqMhnIDSbHRst-XXRdOOrSKCPNl-oBZ8lcCwQP0jpsAVXF8XKBE1CzzLYGYBnaIAZPrHSkaYPiENhALRNdUke0HnOXau1cw6X6kvqi262AqOG6HGFYjnC9w_-LghBQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Deployment Calculator | The Official Army Benefits Website",
+      "link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Deployment-Calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Deployment-Calculator&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQFnoECBoQAQ",
+      "displayed_link": "https://myarmybenefits.us.army.mil › Deployment-Calc...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png",
+      "snippet": "Deployment Calculator. MAB calculators are back online. Prepare for the pay changes that occur due to deployment by estimating monthly income before departure, ...",
+      "snippet_highlighted_words": [
+        "Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Deployment Calculator. MAB calculators are back online. Prepare for the pay changes that occur due to deployment by estimating monthly income before departure, ...",
+          "source_info_link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Deployment-Calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Deployment-Calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyarmybenefits.us.army.mil%2FNEW-Benefit-Calculators%2FDeployment-Calculator",
+      "source": "MyArmyBenefits (.mil)",
+      "read_more_link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Deployment-Calculator#:~:text=Deployment%20Calculator,during%20deployment%2C%20and%20after%20return."
+    },
+    {
+      "position": 2,
+      "title": "Deployment Calculator",
+      "link": "https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Deployment-Calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Deployment-Calculator&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQFnoECBsQAQ",
+      "displayed_link": "https://myairforcebenefits.us.af.mil › Deployment-Calcul...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWOgGBw-eEhs957dWlevXmUmVs_z58-Zjxw5ovPo4SN-ht6enoTQ0LCVp06dEj577hxBQ758-cJ0_PhxLW8vr63bt263Z0hPT69SU1W709benhocHCJMyIBz587xuLq6rlRSVHqyeNFiT4awsLBiCXGJ15oamucE-AVs8Gl-8uQJY21trZaUpNRzoKX3165dp8-wefNmbWkp6SdAzT_ERMVm2NrYWm_dsgWrV06eOMFtaWW5WlBA8EeAf8DCEydO8DKkpqYyOzk6FoMEgfirvp7-nuVLl0lOmzqNH6YxMyNDauOGDVp-vn7rREVFPygpKN6dMmWKOdzkZcuWSvh4e6_k5-P_IyQo9MPI0Ohcf1-_w6IFC3k72zt4rSytcs3NzE9JSkh-EBYS_hwZEdm3dNkydrgB_f39bHPnzo3V0tS8CzTkN9A7v_V09a62trTG5-fmZSspKt4TERb5CnKlgb7B-YULFzpi-C88LFy2sbGxUlVZ5TLQFe9VlJUf1NfVFVdVVpUDwwhkwGNdHZ2zU6dMSYmLi-PHGspRUVFiwDAodHZynp2Xm5dVXFScWlJcEg8Mp1w3V9cJkyZO9ElPS-fBG8-9PX3S5WUVsZkZmXk21tbr7O3slyQmJuaVl5eFHT58WJBgMgUGnqebq9uW5KSk9piY6O7Q0NAJwUHB_UCxZWtWr7YiaMDePXtEgU73ALqgChiQ57W1tM_HxcTmpaWmmZ84fpyX6EyWm5Orl5CQ0BcTHdMG9LcqA60AAOJP2MG383GbAAAAAElFTkSuQmCC.png",
+      "snippet": "Prepare for the pay changes that occur due to deployment by estimating monthly income before departure, during deployment, and after return.",
+      "about_this_result": {
+        "source": {
+          "description": "Prepare for the pay changes that occur due to deployment by estimating monthly income before departure, during deployment, and after return.",
+          "source_info_link": "https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Deployment-Calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWOgGBw-eEhs957dWlevXmUmVs_z58-Zjxw5ovPo4SN-ht6enoTQ0LCVp06dEj577hxBQ758-cJ0_PhxLW8vr63bt263Z0hPT69SU1W709benhocHCJMyIBz587xuLq6rlRSVHqyeNFiT4awsLBiCXGJ15oamucE-AVs8Gl-8uQJY21trZaUpNRzoKX3165dp8-wefNmbWkp6SdAzT_ERMVm2NrYWm_dsgWrV06eOMFtaWW5WlBA8EeAf8DCEydO8DKkpqYyOzk6FoMEgfirvp7-nuVLl0lOmzqNH6YxMyNDauOGDVp-vn7rREVFPygpKN6dMmWKOdzkZcuWSvh4e6_k5-P_IyQo9MPI0Ohcf1-_w6IFC3k72zt4rSytcs3NzE9JSkh-EBYS_hwZEdm3dNkydrgB_f39bHPnzo3V0tS8CzTkN9A7v_V09a62trTG5-fmZSspKt4TERb5CnKlgb7B-YULFzpi-C88LFy2sbGxUlVZ5TLQFe9VlJUf1NfVFVdVVpUDwwhkwGNdHZ2zU6dMSYmLi-PHGspRUVFiwDAodHZynp2Xm5dVXFScWlJcEg8Mp1w3V9cJkyZO9ElPS-fBG8-9PX3S5WUVsZkZmXk21tbr7O3slyQmJuaVl5eFHT58WJBgMgUGnqebq9uW5KSk9piY6O7Q0NAJwUHB_UCxZWtWr7YiaMDePXtEgU73ALqgChiQ57W1tM_HxcTmpaWmmZ84fpyX6EyWm5Orl5CQ0BcTHdMG9LcqA60AAOJP2MG383GbAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Deployment-Calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyairforcebenefits.us.af.mil%2FNEW-Benefit-Calculators%2FDeployment-Calculator",
+      "source": "My Air Force Benefits (.mil)",
+      "read_more_link": "https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Deployment-Calculator#:~:text=Prepare%20for%20the%20pay%20changes,during%20deployment%2C%20and%20after%20return."
+    },
+    {
+      "position": 3,
+      "title": "MilTaxcaster - Estimate Military Tax, Calculator, CZTE",
+      "link": "https://militarymoneymanual.com/military-tax-estimator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarymoneymanual.com/military-tax-estimator/&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQFnoECCAQAQ",
+      "displayed_link": "https://militarymoneymanual.com › military-tax-estimator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEw3c7g3c7g3c7g3c7g3c7g3c7g3c7g3c7g3c7gwcLdxlshjj8Yla7UXZbOzxeDJ1urX4O_6_f43c7iSrdTr9ftJfr1ZuuYwqN6HzO0Ant1MtOTS6_iw3fN9pdEG3y7VAAAAH3RSTlMAL4C87v9dE-FK__7____-_v7_1f7-__7__v_-_v7-sm8zQgAAATpJREFUeAFlkwWChDAMRavY1iFo4f7H3DSMdeaPQPKiCHuJC6m0VlJw9q0GwVOqqVDb6Upd-2b90zkMzzP-y_7MN22ftnXeO_u07sqvfiGmFMPTGmnOV7chpBTsq3OZWREzk9XWp-TxMN2dO9ydmAYwg43zHOxgANBBMwkaBZY1lXqoOa0LuOIVTBYWtx099o471n0L5VwyVdbLe4Z9ixjvMA7QNENpSrufmw95P71z_tyz99tZoLohxCsEdF8XhoR4ZSB4l00rmFwKluLZwJruspLKwgo0ynrgoGhQWckEZR5gaAlcaMBFD8oUjFNmviz1pl52yphJN0aVTE9b22miXZ0vmV258Aijq2-2iwh7hhr1TL5Ksx7rm12rZST-S2iaX1ozqjzWaGzrh7p7o65nteh16JTqPl-Hf-03Gckz0miDAAAAAElFTkSuQmCC.png",
+      "date": "Feb 15, 2026",
+      "snippet": "Disclaimer: Educational estimate only. Uses 2026 federal tax rates (post-OBBB), standard deduction, and simplified credit calculations.",
+      "snippet_highlighted_words": [
+        "Uses 2026 federal tax rates"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Disclaimer: Educational estimate only. Uses 2026 federal tax rates (post-OBBB), standard deduction, and simplified credit calculations.",
+          "source_info_link": "https://militarymoneymanual.com/military-tax-estimator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEw3c7g3c7g3c7g3c7g3c7g3c7g3c7g3c7g3c7gwcLdxlshjj8Yla7UXZbOzxeDJ1urX4O_6_f43c7iSrdTr9ftJfr1ZuuYwqN6HzO0Ant1MtOTS6_iw3fN9pdEG3y7VAAAAH3RSTlMAL4C87v9dE-FK__7____-_v7_1f7-__7__v_-_v7-sm8zQgAAATpJREFUeAFlkwWChDAMRavY1iFo4f7H3DSMdeaPQPKiCHuJC6m0VlJw9q0GwVOqqVDb6Upd-2b90zkMzzP-y_7MN22ftnXeO_u07sqvfiGmFMPTGmnOV7chpBTsq3OZWREzk9XWp-TxMN2dO9ydmAYwg43zHOxgANBBMwkaBZY1lXqoOa0LuOIVTBYWtx099o471n0L5VwyVdbLe4Z9ixjvMA7QNENpSrufmw95P71z_tyz99tZoLohxCsEdF8XhoR4ZSB4l00rmFwKluLZwJruspLKwgo0ynrgoGhQWckEZR5gaAlcaMBFD8oUjFNmviz1pl52yphJN0aVTE9b22miXZ0vmV258Aijq2-2iwh7hhr1TL5Ksx7rm12rZST-S2iaX1ozqjzWaGzrh7p7o65nteh16JTqPl-Hf-03Gckz0miDAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarymoneymanual.com/military-tax-estimator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarymoneymanual.com%2Fmilitary-tax-estimator%2F",
+      "source": "Military Money Manual",
+      "read_more_link": "https://militarymoneymanual.com/military-tax-estimator/#:~:text=Disclaimer%3A%20Educational%20estimate%20only.%20Uses,deduction%2C%20and%20simplified%20credit%20calculations."
+    },
+    {
+      "position": 4,
+      "title": "Military - Combat Zone Designation",
+      "link": "https://www.taxact.com/support/1287/military-combat-zone-designation",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.taxact.com/support/1287/military-combat-zone-designation&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQFnoECBgQAQ",
+      "displayed_link": "https://www.taxact.com › support › military-combat-zon...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEXT0dk0LlEXEDglH0Tw7_L___-1s8BCPV1RTGpgW3ZuaoPh4OWnpLOKhprEwsyYlad9eY9Z5SGgAAAAEXRSTlMw3v_uDwBQz7-unx9ggT9wjkUQq6gAAABrSURBVHgBZU9FAsAgDGuB4Pb_126ZS0_QRkXUPEY_f27MZx4L6wBnHwsPIKyIEGOkUAKQSYkAyk6ou0bjiQQ5RTtQEiD2WBAtLT5tQ_jnSLXovbCtuKdGLKgRdOVCzWBi2iKznPA1jyZBZQGtsgOTMXl8lAAAAABJRU5ErkJggg.png",
+      "snippet": "Military pay received for this service will qualify for the combat pay exclusion if all of the requirements discussed under Service Eligible for Combat Pay ...",
+      "snippet_highlighted_words": [
+        "Military",
+        "combat",
+        "exclusion",
+        "Combat"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military pay received for this service will qualify for the combat pay exclusion if all of the requirements discussed under Service Eligible for Combat Pay ...",
+          "source_info_link": "https://www.taxact.com/support/1287/military-combat-zone-designation",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEXT0dk0LlEXEDglH0Tw7_L___-1s8BCPV1RTGpgW3ZuaoPh4OWnpLOKhprEwsyYlad9eY9Z5SGgAAAAEXRSTlMw3v_uDwBQz7-unx9ggT9wjkUQq6gAAABrSURBVHgBZU9FAsAgDGuB4Pb_126ZS0_QRkXUPEY_f27MZx4L6wBnHwsPIKyIEGOkUAKQSYkAyk6ou0bjiQQ5RTtQEiD2WBAtLT5tQ_jnSLXovbCtuKdGLKgRdOVCzWBi2iKznPA1jyZBZQGtsgOTMXl8lAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.taxact.com/support/1287/military-combat-zone-designation&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.taxact.com%2Fsupport%2F1287%2Fmilitary-combat-zone-designation",
+      "source": "TaxAct",
+      "read_more_link": "https://www.taxact.com/support/1287/military-combat-zone-designation#:~:text=Military%20pay%20received%20for%20this,Service%20Eligible%20for%20Combat%20Pay"
+    },
+    {
+      "position": 5,
+      "title": "Regular Military Compensation (RMC) Calculator",
+      "link": "https://militarypay.defense.gov/calculators/rmc-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/calculators/rmc-calculator/&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQFnoECB8QAQ",
+      "displayed_link": "https://militarypay.defense.gov › calculators › rmc-calcul...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "This calculator will compute your regular military compensation based on your inputs. Regular military compensation is the approximate amount of an equivalent ...",
+      "snippet_highlighted_words": [
+        "compute your regular military compensation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator will compute your regular military compensation based on your inputs. Regular military compensation is the approximate amount of an equivalent ...",
+          "source_info_link": "https://militarypay.defense.gov/calculators/rmc-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/calculators/rmc-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2Fcalculators%2Frmc-calculator%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/calculators/rmc-calculator/#:~:text=This%20calculator%20will%20compute%20your,of%20an%20equivalent%20civilian%20salary."
+    },
+    {
+      "position": 6,
+      "title": "Combat Zone Tax Exclusion For Active Soldiers",
+      "link": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Combat-Zone-Tax-Exclusion-(CZTE)-?serv=122",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Combat-Zone-Tax-Exclusion-(CZTE)-%3Fserv%3D122&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQFnoECEYQAQ",
+      "displayed_link": "https://myarmybenefits.us.army.mil › Federal-Benefits",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png",
+      "snippet": "Soldiers who serve in a combat zone can exclude certain pay from their taxable income. The Combat Zone Tax Exclusion (CZTE) is unlimited for enlisted ...",
+      "snippet_highlighted_words": [
+        "combat zone",
+        "Combat Zone Tax Exclusion"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Soldiers who serve in a combat zone can exclude certain pay from their taxable income. The Combat Zone Tax Exclusion (CZTE) is unlimited for enlisted ...",
+          "source_info_link": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Combat-Zone-Tax-Exclusion-(CZTE)-?serv=122",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Combat-Zone-Tax-Exclusion-(CZTE)-?serv=122&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyarmybenefits.us.army.mil%2FBenefit-Library%2FFederal-Benefits%2FCombat-Zone-Tax-Exclusion-%28CZTE%29-%3Fserv%3D122",
+      "source": "MyArmyBenefits (.mil)",
+      "read_more_link": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Combat-Zone-Tax-Exclusion-(CZTE)-?serv=122#:~:text=Soldiers%20who%20serve%20in%20a,(CZTE)%20is%20unlimited%20for%20enlisted"
+    },
+    {
+      "position": 7,
+      "title": "Military Pay Calculator",
+      "link": "https://www.military.com/benefits/military-pay/calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/benefits/military-pay/calculator&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQFnoECD4QAQ",
+      "displayed_link": "https://www.military.com › benefits › calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "snippet": "With a few taps or clicks, the Military.com Military Pay Calculator can help you easily determine how much you will earn before taxes, now and in the future.",
+      "snippet_highlighted_words": [
+        "easily determine how much you will earn before taxes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "With a few taps or clicks, the Military.com Military Pay Calculator can help you easily determine how much you will earn before taxes, now and in the future.",
+          "source_info_link": "https://www.military.com/benefits/military-pay/calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/benefits/military-pay/calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fbenefits%2Fmilitary-pay%2Fcalculator",
+      "source": "Military.com",
+      "read_more_link": "https://www.military.com/benefits/military-pay/calculator#:~:text=With%20a%20few%20taps%20or,now%20and%20in%20the%20future."
+    },
+    {
+      "position": 8,
+      "title": "Combat Pay, Tax Style: Benefits When Serving in a Hot Zone",
+      "link": "https://turbotax.intuit.com/tax-tips/military/combat-pay-tax-style-benefits-when-serving-in-a-hot-zone/L6GU08lPe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://turbotax.intuit.com/tax-tips/military/combat-pay-tax-style-benefits-when-serving-in-a-hot-zone/L6GU08lPe&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQFnoECD0QAQ",
+      "displayed_link": "https://turbotax.intuit.com › ... › Military",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAMAAADHso01AAAAaVBMVEX______Pz0ycXle3PdU0nZQjbWLyPXNCjaRDneWlDpkYr54d_-9_frnJbVKx7yurbuqqXXNyvcT0T20M3nh3_WMiX0xMH42df98fDql5Dto57wsa3ha2HYPDDmgnr76-ngY1rkd2_yv7sasIjjAAABC0lEQVR4AW3SBXKEQABE0Y97ry9uuf8dI0PVwE54uNMNWJ4fhFGcpFle4KKsIlnZhU_Xmz7cHxw85Xq9sQKdsA-odCauMd46FzUmUKr_2lzSE6A7uW8PgxQXwChX4gNFLE3wkCs2medUiiA_T1SbEmsWOToAf2vxyl2fniZrLCPHKTvzgMdLm5WXjsYZKOwlC6mOHkC5P28lM8tq2R-8ysq3r_VqvOffrUvgol2_bQVAH-sKNMcWGxr98gHqwbm1Mkz3Cjw2vN2GapOgYZNpl3r2V4r87WK3fJszB1i0m_hjWxpKCrdeo97CpNfn4WiJVURyLCUHzaSj8YqjDmxdYd5wou7zYW2_jsd-APUEJuR5hAqpAAAAAElFTkSuQmCC.png",
+      "date": "Feb 4, 2026",
+      "snippet": "Most income is taxed, but you may not have to pay federal income tax if you're a military member serving in an active combat zone.",
+      "snippet_highlighted_words": [
+        "tax",
+        "military",
+        "combat zone"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Most income is taxed, but you may not have to pay federal income tax if you're a military member serving in an active combat zone.",
+          "source_info_link": "https://turbotax.intuit.com/tax-tips/military/combat-pay-tax-style-benefits-when-serving-in-a-hot-zone/L6GU08lPe",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAMAAADHso01AAAAaVBMVEX______Pz0ycXle3PdU0nZQjbWLyPXNCjaRDneWlDpkYr54d_-9_frnJbVKx7yurbuqqXXNyvcT0T20M3nh3_WMiX0xMH42df98fDql5Dto57wsa3ha2HYPDDmgnr76-ngY1rkd2_yv7sasIjjAAABC0lEQVR4AW3SBXKEQABE0Y97ry9uuf8dI0PVwE54uNMNWJ4fhFGcpFle4KKsIlnZhU_Xmz7cHxw85Xq9sQKdsA-odCauMd46FzUmUKr_2lzSE6A7uW8PgxQXwChX4gNFLE3wkCs2medUiiA_T1SbEmsWOToAf2vxyl2fniZrLCPHKTvzgMdLm5WXjsYZKOwlC6mOHkC5P28lM8tq2R-8ysq3r_VqvOffrUvgol2_bQVAH-sKNMcWGxr98gHqwbm1Mkz3Cjw2vN2GapOgYZNpl3r2V4r87WK3fJszB1i0m_hjWxpKCrdeo97CpNfn4WiJVURyLCUHzaSj8YqjDmxdYd5wou7zYW2_jsd-APUEJuR5hAqpAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://turbotax.intuit.com/tax-tips/military/combat-pay-tax-style-benefits-when-serving-in-a-hot-zone/L6GU08lPe&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fturbotax.intuit.com%2Ftax-tips%2Fmilitary%2Fcombat-pay-tax-style-benefits-when-serving-in-a-hot-zone%2FL6GU08lPe",
+      "source": "TurboTax",
+      "read_more_link": "https://turbotax.intuit.com/tax-tips/military/combat-pay-tax-style-benefits-when-serving-in-a-hot-zone/L6GU08lPe#:~:text=%22%20Most%20income%20is%20taxed%2C,in%20an%20active%20combat%20zone."
+    },
+    {
+      "position": 9,
+      "title": "Combat zones approved for tax benefits - Military",
+      "link": "https://www.irs.gov/individuals/military/combat-zones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.irs.gov/individuals/military/combat-zones&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQFnoECD8QAQ",
+      "displayed_link": "https://www.irs.gov › individuals › combat-zones",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAMFBMVEX____3-fvW4evF1OPu8vexxdlchrAyZ5sMS4l3m72Xss0AN3wBQILl6_IgWZJFdaVEQFbiAAAB2ElEQVR4AWLABYRMkHmiAW4VzQyWi2B8ruoF2acn8L4-U2kI4jIpANoiB9hAAgAI7vFt27Zthm_btlXbtm3rXR7Ka1Tbtq24s9EiXE9hdjw3kY298j3UG6Ct9L6LKxP1sbb2yBGbf6fB_rbWKmvzBlILr9kRXm9wUsv4n-FEAExIZu2G5ZFYEGf-AkC6hYPlo4ZrFsGgNJuwCJNLun_O-LWz0jEW0s3cHbdHfyo7VEKWeKntE9HAtGnqjShYpfdYstJyv6uCaul53Gm2pPqN52kv1dE_ZfGt8Tsv0fPEiXv1rHyX_fyE71xlAUCLmP-mNfXpzxY8VxM2ArQ62KiatU9_dmNnvDIp9S9Gc-Je81_dYDRv31zYH1BqUZ7ufQEuO6sdBCEClUrPL8bIwIjpDiW2XFDZtu9Zbet6BRmUJFdylBCvJXDLz6iurCpBR4NWLPvHPMknfiEjXm_UxfMkrbqTlU7i_Eq9UcGe1rrw1OIXevm-d_S8lDdBydKBw15BAa2zAiEzK3hkbeeyn5j-R5HiBhSy87zOrGDQj3-OCobMqGBC5iwTMkoPoB5lF8LSVRuWdqN-jRs45jLfUtnNt1TUTtfHAFNeCg_mmQpfJBpD0OsAYh2GpxdVc8w7WhPboAAAAABJRU5ErkJggg.png",
+      "date": "Sep 10, 2025",
+      "snippet": "This page provides a list of IRS recognized combat zones. IRS Publication 3, Armed Forces Tax Guide, is another source for military-specific tax matters.",
+      "snippet_highlighted_words": [
+        "IRS",
+        "combat zones",
+        "IRS",
+        "Tax",
+        "military",
+        "tax"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This page provides a list of IRS recognized combat zones. IRS Publication 3, Armed Forces Tax Guide, is another source for military-specific tax matters.",
+          "source_info_link": "https://www.irs.gov/individuals/military/combat-zones",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAMFBMVEX____3-fvW4evF1OPu8vexxdlchrAyZ5sMS4l3m72Xss0AN3wBQILl6_IgWZJFdaVEQFbiAAAB2ElEQVR4AWLABYRMkHmiAW4VzQyWi2B8ruoF2acn8L4-U2kI4jIpANoiB9hAAgAI7vFt27Zthm_btlXbtm3rXR7Ka1Tbtq24s9EiXE9hdjw3kY298j3UG6Ct9L6LKxP1sbb2yBGbf6fB_rbWKmvzBlILr9kRXm9wUsv4n-FEAExIZu2G5ZFYEGf-AkC6hYPlo4ZrFsGgNJuwCJNLun_O-LWz0jEW0s3cHbdHfyo7VEKWeKntE9HAtGnqjShYpfdYstJyv6uCaul53Gm2pPqN52kv1dE_ZfGt8Tsv0fPEiXv1rHyX_fyE71xlAUCLmP-mNfXpzxY8VxM2ArQ62KiatU9_dmNnvDIp9S9Gc-Je81_dYDRv31zYH1BqUZ7ufQEuO6sdBCEClUrPL8bIwIjpDiW2XFDZtu9Zbet6BRmUJFdylBCvJXDLz6iurCpBR4NWLPvHPMknfiEjXm_UxfMkrbqTlU7i_Eq9UcGe1rrw1OIXevm-d_S8lDdBydKBw15BAa2zAiEzK3hkbeeyn5j-R5HiBhSy87zOrGDQj3-OCobMqGBC5iwTMkoPoB5lF8LSVRuWdqN-jRs45jLfUtnNt1TUTtfHAFNeCg_mmQpfJBpD0OsAYh2GpxdVc8w7WhPboAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.irs.gov/individuals/military/combat-zones&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.irs.gov%2Findividuals%2Fmilitary%2Fcombat-zones",
+      "source": "IRS (.gov)",
+      "read_more_link": "https://www.irs.gov/individuals/military/combat-zones#:~:text=This%20page%20provides%20a%20list,source%20for%20military%2Dspecific%20tax%20matters."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Deployment pay calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Deployment+pay+calculator&sa=X&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deployment+pay+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Air Force deployment pay calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Air+Force+deployment+pay+calculator&sa=X&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Air+Force+deployment+pay+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Army deployment pay calculator 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Army+deployment+pay+calculator+2026&sa=X&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Army+deployment+pay+calculator+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "National Guard deployment pay calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=National+Guard+deployment+pay+calculator&sa=X&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=National+Guard+deployment+pay+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Deployment pay calculator army",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Deployment+pay+calculator+army&sa=X&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deployment+pay+calculator+army"
+    },
+    {
+      "block_position": 1,
+      "query": "Combat zone tax exclusion for civilians",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Combat+zone+tax+exclusion+for+civilians&sa=X&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Combat+zone+tax+exclusion+for+civilians"
+    },
+    {
+      "block_position": 1,
+      "query": "List of military Tax free zones",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=List+of+military+Tax+free+zones&sa=X&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=List+of+military+Tax+free+zones"
+    },
+    {
+      "block_position": 1,
+      "query": "Army deployment pay chart",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Army+deployment+pay+chart&sa=X&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Army+deployment+pay+chart"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+combat+zone+tax+exclusion+calculator&sca_esv=c510ba4e6526f391&ei=lCE6ao_1B7LPkPIP8fTSsAY&start=10&sa=N&sstk=AU9db-Aomv0cn6RFXKq157bFjysx0Ugu7YoDVJVjiupcp8is1BIJzIY4dyGIlA2ccOFz9Kqs0oNMYH_IBxZxwjgqUK-qV-Rp9noVrA&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ8NMDegQIMxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+combat+zone+tax+exclusion+calculator&sca_esv=c510ba4e6526f391&ei=lCE6ao_1B7LPkPIP8fTSsAY&start=10&sa=N&sstk=AU9db-Aomv0cn6RFXKq157bFjysx0Ugu7YoDVJVjiupcp8is1BIJzIY4dyGIlA2ccOFz9Kqs0oNMYH_IBxZxwjgqUK-qV-Rp9noVrA&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ8tMDegQIMxAE",
+      "3": "https://www.google.com/search?q=military+combat+zone+tax+exclusion+calculator&sca_esv=c510ba4e6526f391&ei=lCE6ao_1B7LPkPIP8fTSsAY&start=20&sa=N&sstk=AU9db-Aomv0cn6RFXKq157bFjysx0Ugu7YoDVJVjiupcp8is1BIJzIY4dyGIlA2ccOFz9Kqs0oNMYH_IBxZxwjgqUK-qV-Rp9noVrA&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ8tMDegQIMxAG",
+      "4": "https://www.google.com/search?q=military+combat+zone+tax+exclusion+calculator&sca_esv=c510ba4e6526f391&ei=lCE6ao_1B7LPkPIP8fTSsAY&start=30&sa=N&sstk=AU9db-Aomv0cn6RFXKq157bFjysx0Ugu7YoDVJVjiupcp8is1BIJzIY4dyGIlA2ccOFz9Kqs0oNMYH_IBxZxwjgqUK-qV-Rp9noVrA&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ8tMDegQIMxAI",
+      "5": "https://www.google.com/search?q=military+combat+zone+tax+exclusion+calculator&sca_esv=c510ba4e6526f391&ei=lCE6ao_1B7LPkPIP8fTSsAY&start=40&sa=N&sstk=AU9db-Aomv0cn6RFXKq157bFjysx0Ugu7YoDVJVjiupcp8is1BIJzIY4dyGIlA2ccOFz9Kqs0oNMYH_IBxZxwjgqUK-qV-Rp9noVrA&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ8tMDegQIMxAK",
+      "6": "https://www.google.com/search?q=military+combat+zone+tax+exclusion+calculator&sca_esv=c510ba4e6526f391&ei=lCE6ao_1B7LPkPIP8fTSsAY&start=50&sa=N&sstk=AU9db-Aomv0cn6RFXKq157bFjysx0Ugu7YoDVJVjiupcp8is1BIJzIY4dyGIlA2ccOFz9Kqs0oNMYH_IBxZxwjgqUK-qV-Rp9noVrA&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ8tMDegQIMxAM",
+      "7": "https://www.google.com/search?q=military+combat+zone+tax+exclusion+calculator&sca_esv=c510ba4e6526f391&ei=lCE6ao_1B7LPkPIP8fTSsAY&start=60&sa=N&sstk=AU9db-Aomv0cn6RFXKq157bFjysx0Ugu7YoDVJVjiupcp8is1BIJzIY4dyGIlA2ccOFz9Kqs0oNMYH_IBxZxwjgqUK-qV-Rp9noVrA&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ8tMDegQIMxAO",
+      "8": "https://www.google.com/search?q=military+combat+zone+tax+exclusion+calculator&sca_esv=c510ba4e6526f391&ei=lCE6ao_1B7LPkPIP8fTSsAY&start=70&sa=N&sstk=AU9db-Aomv0cn6RFXKq157bFjysx0Ugu7YoDVJVjiupcp8is1BIJzIY4dyGIlA2ccOFz9Kqs0oNMYH_IBxZxwjgqUK-qV-Rp9noVrA&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ8tMDegQIMxAQ",
+      "9": "https://www.google.com/search?q=military+combat+zone+tax+exclusion+calculator&sca_esv=c510ba4e6526f391&ei=lCE6ao_1B7LPkPIP8fTSsAY&start=80&sa=N&sstk=AU9db-Aomv0cn6RFXKq157bFjysx0Ugu7YoDVJVjiupcp8is1BIJzIY4dyGIlA2ccOFz9Kqs0oNMYH_IBxZxwjgqUK-qV-Rp9noVrA&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ8tMDegQIMxAS",
+      "10": "https://www.google.com/search?q=military+combat+zone+tax+exclusion+calculator&sca_esv=c510ba4e6526f391&ei=lCE6ao_1B7LPkPIP8fTSsAY&start=90&sa=N&sstk=AU9db-Aomv0cn6RFXKq157bFjysx0Ugu7YoDVJVjiupcp8is1BIJzIY4dyGIlA2ccOFz9Kqs0oNMYH_IBxZxwjgqUK-qV-Rp9noVrA&ved=2ahUKEwiPj_qW2JyVAxWyJ0QIHXG6FGYQ8tMDegQIMxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+combat+zone+tax+exclusion+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+combat+zone+tax+exclusion+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+combat+zone+tax+exclusion+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+combat+zone+tax+exclusion+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+combat+zone+tax+exclusion+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+combat+zone+tax+exclusion+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+combat+zone+tax+exclusion+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+combat+zone+tax+exclusion+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+combat+zone+tax+exclusion+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+combat+zone+tax+exclusion+calculator&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+combat+zone+tax+exclusion+calculator&start=90"
+    }
+  }
+}

@@ -1,0 +1,570 @@
+{
+  "search_metadata": {
+    "id": "6a3a1809b9e869394e3d1b0d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eVVMaAMXJ1fLyEbl5VgnLQ/6a3a1809b9e869394e3d1b0d.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/eVVMaAMXJ1fLyEbl5VgnLQ/6a3a1809b9e869394e3d1b0d.json_with_pixel_position",
+    "created_at": "2026-06-23 05:22:17 UTC",
+    "processed_at": "2026-06-23 05:22:17 UTC",
+    "google_url": "https://www.google.com/search?q=FERS+retirement+calculator&oq=FERS+retirement+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/eVVMaAMXJ1fLyEbl5VgnLQ/6a3a1809b9e869394e3d1b0d.html",
+    "total_time_taken": 0.92
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "FERS retirement calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "FERS retirement calculator",
+    "total_results": 95,
+    "time_taken_displayed": 0.14,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How much retirement will I get from FERS?",
+      "type": "featured_snippet",
+      "snippet": "FERS pension uses the formula High-3 Average Salary x Years of Service x Multiplier. The multiplier is 1.0 percent per year, or 1.1 percent if you retire at age 62 or later with at least 20 years of service.",
+      "title": "FERS Pension Calculator - PlanWell Financial Planning",
+      "link": "https://planwellfp.com/fers-retirement-calculator#:~:text=FERS%20pension%20uses%20the%20formula,least%2020%20years%20of%20service.",
+      "displayed_link": "https://planwellfp.com › fers-retirement-calculator",
+      "source_logo": "https://serpapi.com/searches/6a3a1809b9e869394e3d1b0d/images/22OrsCiOaSd4wKDeL4RM_HTWqe0yIuzWvr7OLwwMktg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRYRnplRTFpWkVscFdtTXlYMU0zZGs5UGNscFlSekZXU0doak5rSXdObFZMUW14Mk4yTTVTV1JSUm5SUE5teEJlbUpPVTFSbWFGRjNUVU5pZFhSb04zaHdZVkZ2UkZsVlF6UnVWRmg0WW5CeVpXSjVlbTloWnpSUFVSSVhRMmhuTm1Gd015MUhjakl6Y0hSUlVERkpRMU5wVVVVYUlrRkVjM0k1WmxObVZGOTVhRWhGZGtGbE16aGZkRkJ0UmxwQlNHSkJXa3hJVlZFIiwiZmN2IjoiMyIsImVpIjoiQ2hnNmFwMy1HcjIzcHRRUDFJQ1NpUUUiLCJxYyI6IkNocG1aWEp6SUhKbGRHbHlaVzFsYm5RZ1kyRnNZM1ZzWVhSdmNoQUFmYWZ2TVQ4IiwicXVlc3Rpb24iOiJIb3cgbXVjaCByZXRpcmVtZW50IHdpbGwgSSBnZXQgZnJvbSBGRVJTPyIsImxrIjoiR2lob2IzY2diWFZqYUNCeVpYUnBjbVZ0Wlc1MElIZHBiR3dnYVNCblpYUWdabkp2YlNCbVpYSnoiLCJicyI6ImM1V1F2Ml9DTUJCRzFkVlQ1MHhmS1FNd1ZhR0lNUVBpbDlqb3dIeUtMOWhTYkV2T2hZal9Ib2Nnb1E2dHhQN2UtM1NuVG1xNkN4MWNXeHBFRmh2WnNSZDB0cTZ4eDVrRlZRd09tX1h4cDhobjJjVDhCZHNuWEhGczFGWjk5R0VkVXFheVhpTzBBbmU5bDBBdXRGNktmSlRCREpEOUJmV0ZCNlNjLWw2UlQ1VmhFU1JZTE5PbUdPUmZ1RElsTkZSSjBSeXBSc1B4WWtzdThrVTJMNU5uWF9QVVFYMmVUR0lwS1dJWTJqYWtMLVNGem53WGhsZU1zMUgzTDlhZjhQNTJBdyIsImlkIjoiZmNfQ2hnNmFwMy1HcjIzcHRRUDFJQ1NpUUVfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRYRnplRTFpWkVscFdtTXlYMU0zZGs5UGNscFlSekZXU0doak5rSXdObFZMUW14Mk4yTTVTV1JSUm5SUE5teEJlbUpPVTFSbWFGRjNUVU5pZFhSb04zaHdZVkZ2UkZsVlF6UnVWRmg0WW5CeVpXSjVlbTloWnpSUFVSSVhRMmhuTm1Gd015MUhjakl6Y0hSUlVERkpRMU5wVVVVYUlrRkVjM0k1WmxObVZGOTVhRWhGZGtGbE16aGZkRkJ0UmxwQlNHSkJXa3hJVlZFIiwiZmN2IjoiMyIsImVpIjoiQ2hnNmFwMy1HcjIzcHRRUDFJQ1NpUUUiLCJxYyI6IkNocG1aWEp6SUhKbGRHbHlaVzFsYm5RZ1kyRnNZM1ZzWVhSdmNoQUFmYWZ2TVQ4IiwicXVlc3Rpb24iOiJIb3cgbXVjaCByZXRpcmVtZW50IHdpbGwgSSBnZXQgZnJvbSBGRVJTPyIsImxrIjoiR2lob2IzY2diWFZqYUNCeVpYUnBjbVZ0Wlc1MElIZHBiR3dnYVNCblpYUWdabkp2YlNCbVpYSnoiLCJicyI6ImM1V1F2Ml9DTUJCRzFkVlQ1MHhmS1FNd1ZhR0lNUVBpbDlqb3dIeUtMOWhTYkV2T2hZal9Ib2Nnb1E2dHhQN2UtM1NuVG1xNkN4MWNXeHBFRmh2WnNSZDB0cTZ4eDVrRlZRd09tX1h4cDhobjJjVDhCZHNuWEhGczFGWjk5R0VkVXFheVhpTzBBbmU5bDBBdXRGNktmSlRCREpEOUJmV0ZCNlNjLWw2UlQ1VmhFU1JZTE5PbUdPUmZ1RElsTkZSSjBSeXBSc1B4WWtzdThrVTJMNU5uWF9QVVFYMmVUR0lwS1dJWTJqYWtMLVNGem53WGhsZU1zMUgzTDlhZjhQNTJBdyIsImlkIjoiZmNfQ2hnNmFwMy1HcjIzcHRRUDFJQ1NpUUVfMiJ9"
+    },
+    {
+      "question": "How do I find out my FERS amount?",
+      "type": "ai_overview",
+      "page_token": "wRQ_v3icHdDbboIwGADg7GW8VCiDZSZmGSooCUzavy30ZqFFxVEOUyaHu73LnmpPs2TfI3zfP_pSl78PSdF17W25WPR9Pz83zVkf56qpFtltrNVCZVrLTJVL58kxX05qtb317rrp3Zi2Ldtgg5ieAzodxM51ZKkdiQIaTwXHSNvSEgn-cHs85YROQkSIJcc631GffQLL77DFOK5bQ_l2hCk-yCTf4wkj4vcWZ-463MYo491XjnSUlRoYKoIc8rWkw1VO4nDkbRBOOATedIwxmyBjPFY5pDXmoJ8PwNpHob0T0LDjUFgA6cA2W-IZUSMmUahN2GFrP4aWa1D2OhAaQcY8z78ELt5F4xsXRF5MWyURgkp1wO1GGIWWlUihpjYtcUrMtp6d1H1lzf7HVu-nqlu21-b8B8DGeV4",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wRQ_v3icHdDbboIwGADg7GW8VCiDZSZmGSooCUzavy30ZqFFxVEOUyaHu73LnmpPs2TfI3zfP_pSl78PSdF17W25WPR9Pz83zVkf56qpFtltrNVCZVrLTJVL58kxX05qtb317rrp3Zi2Ldtgg5ieAzodxM51ZKkdiQIaTwXHSNvSEgn-cHs85YROQkSIJcc631GffQLL77DFOK5bQ_l2hCk-yCTf4wkj4vcWZ-463MYo491XjnSUlRoYKoIc8rWkw1VO4nDkbRBOOATedIwxmyBjPFY5pDXmoJ8PwNpHob0T0LDjUFgA6cA2W-IZUSMmUahN2GFrP4aWa1D2OhAaQcY8z78ELt5F4xsXRF5MWyURgkp1wO1GGIWWlUihpjYtcUrMtp6d1H1lzf7HVu-nqlu21-b8B8DGeV4",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRYRnplRTFpWkVscFdtTXlYMU0zZGs5UGNscFlSekZXU0doak5rSXdObFZMUW14Mk4yTTVTV1JSUm5SUE5teEJlbUpPVTFSbWFGRjNUVU5pZFhSb04zaHdZVkZ2UkZsVlF6UnVWRmg0WW5CeVpXSjVlbTloWnpSUFVSSVhRMmhuTm1Gd015MUhjakl6Y0hSUlVERkpRMU5wVVVVYUlrRkVjM0k1WmxObVZGOTVhRWhGZGtGbE16aGZkRkJ0UmxwQlNHSkJXa3hJVlZFIiwiZmN2IjoiMyIsImVpIjoiQ2hnNmFwMy1HcjIzcHRRUDFJQ1NpUUUiLCJxYyI6IkNocG1aWEp6SUhKbGRHbHlaVzFsYm5RZ1kyRnNZM1ZzWVhSdmNoQUFmYWZ2TVQ4IiwicXVlc3Rpb24iOiJIb3cgZG8gSSBmaW5kIG91dCBteSBGRVJTIGFtb3VudD8iLCJsayI6IkdpQm9iM2NnWkc4Z2FTQm1hVzVrSUc5MWRDQnRlU0JtWlhKeklHRnRiM1Z1ZEEiLCJicyI6ImM1V1F2Ml9DTUJCRzFkVlQ1MHhmS1FNd1ZhR0lNUVBpbDlqb3dIeUtMOWhTYkV2T2hZal9Ib2Nnb1E2dHhQN2UtM1NuVG1xNkN4MWNXeHBFRmh2WnNSZDB0cTZ4eDVrRlZRd09tX1h4cDhobjJjVDhCZHNuWEhGczFGWjk5R0VkVXFheVhpTzBBbmU5bDBBdXRGNktmSlRCREpEOUJmV0ZCNlNjLWw2UlQ1VmhFU1JZTE5PbUdPUmZ1RElsTkZSSjBSeXBSc1B4WWtzdThrVTJMNU5uWF9QVVFYMmVUR0lwS1dJWTJqYWtMLVNGem53WGhsZU1zMUgzTDlhZjhQNTJBdyIsImlkIjoiZmNfQ2hnNmFwMy1HcjIzcHRRUDFJQ1NpUUVfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRYRnplRTFpWkVscFdtTXlYMU0zZGs5UGNscFlSekZXU0doak5rSXdObFZMUW14Mk4yTTVTV1JSUm5SUE5teEJlbUpPVTFSbWFGRjNUVU5pZFhSb04zaHdZVkZ2UkZsVlF6UnVWRmg0WW5CeVpXSjVlbTloWnpSUFVSSVhRMmhuTm1Gd015MUhjakl6Y0hSUlVERkpRMU5wVVVVYUlrRkVjM0k1WmxObVZGOTVhRWhGZGtGbE16aGZkRkJ0UmxwQlNHSkJXa3hJVlZFIiwiZmN2IjoiMyIsImVpIjoiQ2hnNmFwMy1HcjIzcHRRUDFJQ1NpUUUiLCJxYyI6IkNocG1aWEp6SUhKbGRHbHlaVzFsYm5RZ1kyRnNZM1ZzWVhSdmNoQUFmYWZ2TVQ4IiwicXVlc3Rpb24iOiJIb3cgZG8gSSBmaW5kIG91dCBteSBGRVJTIGFtb3VudD8iLCJsayI6IkdpQm9iM2NnWkc4Z2FTQm1hVzVrSUc5MWRDQnRlU0JtWlhKeklHRnRiM1Z1ZEEiLCJicyI6ImM1V1F2Ml9DTUJCRzFkVlQ1MHhmS1FNd1ZhR0lNUVBpbDlqb3dIeUtMOWhTYkV2T2hZal9Ib2Nnb1E2dHhQN2UtM1NuVG1xNkN4MWNXeHBFRmh2WnNSZDB0cTZ4eDVrRlZRd09tX1h4cDhobjJjVDhCZHNuWEhGczFGWjk5R0VkVXFheVhpTzBBbmU5bDBBdXRGNktmSlRCREpEOUJmV0ZCNlNjLWw2UlQ1VmhFU1JZTE5PbUdPUmZ1RElsTkZSSjBSeXBSc1B4WWtzdThrVTJMNU5uWF9QVVFYMmVUR0lwS1dJWTJqYWtMLVNGem53WGhsZU1zMUgzTDlhZjhQNTJBdyIsImlkIjoiZmNfQ2hnNmFwMy1HcjIzcHRRUDFJQ1NpUUVfMiJ9"
+    },
+    {
+      "question": "Can I retire at 57 with 20 years of federal service?",
+      "type": "ai_overview",
+      "page_token": "n5nG73icHZBNToNAGEDjZVxaGGrVJo0p5UexHTJTvgFmY2CgpTADpJIis_MKnsFTeRobN2_7Xt7Xjzy1ze_NdzUM_cdyNhvH8e7YdUdZ3olOzbKPqRUzkUmZZ6JZLh4W5vNBrNyLsDdnYRPoe-ZQI3KrTQzGWLrUDv3HKXKot09g3EOhSEsxbsyJIJ7xms8xY2-5tocw4nrf9G_USHUYkftSGbqsWZXKo0lfZJTXYk4tbonWDq-8h1ggVtteCMEu82mS6sYsED1vE45ixx6Y-zQA4xfsVClVONiyoMJXH0eBCwl-zdTwmUKQgfHk7tu1ydDjRFgPzGIsjQMVoT7JY-YRo0BE9iFuPR75XJUQqLzmG3EyTfwSMLcqnMwXKE3WegvFtKvxWHge2YF0AElKaXciQLWopYJYnkBhhfW12WKLSEtS-GKeM6_NpdfsYjrx8fYgLivr9v_16v2ghmV_7o5_w-iMuQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=n5nG73icHZBNToNAGEDjZVxaGGrVJo0p5UexHTJTvgFmY2CgpTADpJIis_MKnsFTeRobN2_7Xt7Xjzy1ze_NdzUM_cdyNhvH8e7YdUdZ3olOzbKPqRUzkUmZZ6JZLh4W5vNBrNyLsDdnYRPoe-ZQI3KrTQzGWLrUDv3HKXKot09g3EOhSEsxbsyJIJ7xms8xY2-5tocw4nrf9G_USHUYkftSGbqsWZXKo0lfZJTXYk4tbonWDq-8h1ggVtteCMEu82mS6sYsED1vE45ixx6Y-zQA4xfsVClVONiyoMJXH0eBCwl-zdTwmUKQgfHk7tu1ydDjRFgPzGIsjQMVoT7JY-YRo0BE9iFuPR75XJUQqLzmG3EyTfwSMLcqnMwXKE3WegvFtKvxWHge2YF0AElKaXciQLWopYJYnkBhhfW12WKLSEtS-GKeM6_NpdfsYjrx8fYgLivr9v_16v2ghmV_7o5_w-iMuQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRYRnplRTFpWkVscFdtTXlYMU0zZGs5UGNscFlSekZXU0doak5rSXdObFZMUW14Mk4yTTVTV1JSUm5SUE5teEJlbUpPVTFSbWFGRjNUVU5pZFhSb04zaHdZVkZ2UkZsVlF6UnVWRmg0WW5CeVpXSjVlbTloWnpSUFVSSVhRMmhuTm1Gd015MUhjakl6Y0hSUlVERkpRMU5wVVVVYUlrRkVjM0k1WmxObVZGOTVhRWhGZGtGbE16aGZkRkJ0UmxwQlNHSkJXa3hJVlZFIiwiZmN2IjoiMyIsImVpIjoiQ2hnNmFwMy1HcjIzcHRRUDFJQ1NpUUUiLCJxYyI6IkNocG1aWEp6SUhKbGRHbHlaVzFsYm5RZ1kyRnNZM1ZzWVhSdmNoQUFmYWZ2TVQ4IiwicXVlc3Rpb24iOiJDYW4gSSByZXRpcmUgYXQgNTcgd2l0aCAyMCB5ZWFycyBvZiBmZWRlcmFsIHNlcnZpY2U/IiwibGsiOiJHak5qWVc0Z2FTQnlaWFJwY21VZ1lYUWdOVGNnZDJsMGFDQXlNQ0I1WldGeWN5QnZaaUJtWldSbGNtRnNJSE5sY25acFkyVSIsImJzIjoiYzVXUXYyX0NNQkJHMWRWVDUweGZLUU13VmFHSU1RUGlsOWpvd0h5S0w5aFNiRXZPaFlqX0hvY2dvUTZ0eFA3ZS0zU25UbXE2Q3gxY1d4cEVGaHZac1JkMHRxNnh4NWtGVlF3T21fWHhwOGhuMmNUOEJkc25YSEZzMUZaOTlHRWRVcWF5WGlPMEFuZTlsMEF1dEY2S2ZKVEJESkQ5QmZXRkI2U2MtbDZSVDVWaEVTUllMTk9tR09SZnVESWxORlJKMFJ5cFJzUHhZa3N1OGtVMkw1Tm5YX1BVUVgyZVRHSXBLV0lZMmpha0wtU0Z6bndYaGxlTXMxSDNMOWFmOFA1MkF3IiwiaWQiOiJmY19DaGc2YXAzLUdyMjNwdFFQMUlDU2lRRV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRYRnplRTFpWkVscFdtTXlYMU0zZGs5UGNscFlSekZXU0doak5rSXdObFZMUW14Mk4yTTVTV1JSUm5SUE5teEJlbUpPVTFSbWFGRjNUVU5pZFhSb04zaHdZVkZ2UkZsVlF6UnVWRmg0WW5CeVpXSjVlbTloWnpSUFVSSVhRMmhuTm1Gd015MUhjakl6Y0hSUlVERkpRMU5wVVVVYUlrRkVjM0k1WmxObVZGOTVhRWhGZGtGbE16aGZkRkJ0UmxwQlNHSkJXa3hJVlZFIiwiZmN2IjoiMyIsImVpIjoiQ2hnNmFwMy1HcjIzcHRRUDFJQ1NpUUUiLCJxYyI6IkNocG1aWEp6SUhKbGRHbHlaVzFsYm5RZ1kyRnNZM1ZzWVhSdmNoQUFmYWZ2TVQ4IiwicXVlc3Rpb24iOiJDYW4gSSByZXRpcmUgYXQgNTcgd2l0aCAyMCB5ZWFycyBvZiBmZWRlcmFsIHNlcnZpY2U%2FIiwibGsiOiJHak5qWVc0Z2FTQnlaWFJwY21VZ1lYUWdOVGNnZDJsMGFDQXlNQ0I1WldGeWN5QnZaaUJtWldSbGNtRnNJSE5sY25acFkyVSIsImJzIjoiYzVXUXYyX0NNQkJHMWRWVDUweGZLUU13VmFHSU1RUGlsOWpvd0h5S0w5aFNiRXZPaFlqX0hvY2dvUTZ0eFA3ZS0zU25UbXE2Q3gxY1d4cEVGaHZac1JkMHRxNnh4NWtGVlF3T21fWHhwOGhuMmNUOEJkc25YSEZzMUZaOTlHRWRVcWF5WGlPMEFuZTlsMEF1dEY2S2ZKVEJESkQ5QmZXRkI2U2MtbDZSVDVWaEVTUllMTk9tR09SZnVESWxORlJKMFJ5cFJzUHhZa3N1OGtVMkw1Tm5YX1BVUVgyZVRHSXBLV0lZMmpha0wtU0Z6bndYaGxlTXMxSDNMOWFmOFA1MkF3IiwiaWQiOiJmY19DaGc2YXAzLUdyMjNwdFFQMUlDU2lRRV8yIn0%3D"
+    },
+    {
+      "question": "What are the disadvantages of FERS?",
+      "type": "ai_overview",
+      "page_token": "X0_aZnicHdBfTsIwHADgeBkfZWURAwkxjm3gZMWWtht9MeNXoa7tNv64wd68i6fyNBpv8OX7-rYflfm5afX53Jwmg0HXdXf7ut7b9zuo3aA4XSsYQGHttgAzGT2M0OMOptHnczA7PAeEN40IqcciJVWsX2SYNDIeE-zJuRQ2gKxx4OtXyUTLw4ASofrCuxxyv_ahxxfM0WqTNwZ8RcDThhlp1pmqgItW9qLdIK0Z4p2c64ownUqTOBXZ3ZrZAps4SW0SYYcz4nAv4iDfmntvW6YeLpMjZ1oWC1mybHzksRT0ivJihhZ4iBtwthecbiS3HUZ2xqoAvTvBwSCeuTGNtAqLOQw3-VO_5OqalrhTcUxSbkM-tJTS-oNw2kNpHfcxzapkqZxa_bkCNdQIfHsVIjkph1dioUpCbnfQTv3b_8_p286dJ82x3v8CicOFKg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=X0_aZnicHdBfTsIwHADgeBkfZWURAwkxjm3gZMWWtht9MeNXoa7tNv64wd68i6fyNBpv8OX7-rYflfm5afX53Jwmg0HXdXf7ut7b9zuo3aA4XSsYQGHttgAzGT2M0OMOptHnczA7PAeEN40IqcciJVWsX2SYNDIeE-zJuRQ2gKxx4OtXyUTLw4ASofrCuxxyv_ahxxfM0WqTNwZ8RcDThhlp1pmqgItW9qLdIK0Z4p2c64ownUqTOBXZ3ZrZAps4SW0SYYcz4nAv4iDfmntvW6YeLpMjZ1oWC1mybHzksRT0ivJihhZ4iBtwthecbiS3HUZ2xqoAvTvBwSCeuTGNtAqLOQw3-VO_5OqalrhTcUxSbkM-tJTS-oNw2kNpHfcxzapkqZxa_bkCNdQIfHsVIjkph1dioUpCbnfQTv3b_8_p286dJ82x3v8CicOFKg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRYRnplRTFpWkVscFdtTXlYMU0zZGs5UGNscFlSekZXU0doak5rSXdObFZMUW14Mk4yTTVTV1JSUm5SUE5teEJlbUpPVTFSbWFGRjNUVU5pZFhSb04zaHdZVkZ2UkZsVlF6UnVWRmg0WW5CeVpXSjVlbTloWnpSUFVSSVhRMmhuTm1Gd015MUhjakl6Y0hSUlVERkpRMU5wVVVVYUlrRkVjM0k1WmxObVZGOTVhRWhGZGtGbE16aGZkRkJ0UmxwQlNHSkJXa3hJVlZFIiwiZmN2IjoiMyIsImVpIjoiQ2hnNmFwMy1HcjIzcHRRUDFJQ1NpUUUiLCJxYyI6IkNocG1aWEp6SUhKbGRHbHlaVzFsYm5RZ1kyRnNZM1ZzWVhSdmNoQUFmYWZ2TVQ4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgZGlzYWR2YW50YWdlcyBvZiBGRVJTPyIsImxrIjoiR2lKM2FHRjBJR0Z5WlNCMGFHVWdaR2x6WVdSMllXNTBZV2RsY3lCdlppQm1aWEp6IiwiYnMiOiJjNVdRdjJfQ01CQkcxZFZUNTB4ZktRTXdWYUdJTVFQaWw5am93SHlLTDloU2JFdk9oWWpfSG9jZ29RNnR4UDdlLTNTblRtcTZDeDFjV3hwRUZodlpzUmQwdHE2eHg1a0ZWUXdPbV9YeHA4aG4yY1Q4QmRzblhIRnMxRlo5OUdFZFVxYXlYaU8wQW5lOWwwQXV0RjZLZkpUQkRKRDlCZldGQjZTYy1sNlJUNVZoRVNSWUxOT21HT1JmdURJbE5GUkowUnlwUnNQeFlrc3U4a1UyTDVOblhfUFVRWDJlVEdJcEtXSVkyamFrTC1TRnpud1hobGVNczFIM0w5YWY4UDUyQXciLCJpZCI6ImZjX0NoZzZhcDMtR3IyM3B0UVAxSUNTaVFFXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRYRnplRTFpWkVscFdtTXlYMU0zZGs5UGNscFlSekZXU0doak5rSXdObFZMUW14Mk4yTTVTV1JSUm5SUE5teEJlbUpPVTFSbWFGRjNUVU5pZFhSb04zaHdZVkZ2UkZsVlF6UnVWRmg0WW5CeVpXSjVlbTloWnpSUFVSSVhRMmhuTm1Gd015MUhjakl6Y0hSUlVERkpRMU5wVVVVYUlrRkVjM0k1WmxObVZGOTVhRWhGZGtGbE16aGZkRkJ0UmxwQlNHSkJXa3hJVlZFIiwiZmN2IjoiMyIsImVpIjoiQ2hnNmFwMy1HcjIzcHRRUDFJQ1NpUUUiLCJxYyI6IkNocG1aWEp6SUhKbGRHbHlaVzFsYm5RZ1kyRnNZM1ZzWVhSdmNoQUFmYWZ2TVQ4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgZGlzYWR2YW50YWdlcyBvZiBGRVJTPyIsImxrIjoiR2lKM2FHRjBJR0Z5WlNCMGFHVWdaR2x6WVdSMllXNTBZV2RsY3lCdlppQm1aWEp6IiwiYnMiOiJjNVdRdjJfQ01CQkcxZFZUNTB4ZktRTXdWYUdJTVFQaWw5am93SHlLTDloU2JFdk9oWWpfSG9jZ29RNnR4UDdlLTNTblRtcTZDeDFjV3hwRUZodlpzUmQwdHE2eHg1a0ZWUXdPbV9YeHA4aG4yY1Q4QmRzblhIRnMxRlo5OUdFZFVxYXlYaU8wQW5lOWwwQXV0RjZLZkpUQkRKRDlCZldGQjZTYy1sNlJUNVZoRVNSWUxOT21HT1JmdURJbE5GUkowUnlwUnNQeFlrc3U4a1UyTDVOblhfUFVRWDJlVEdJcEtXSVkyamFrTC1TRnpud1hobGVNczFIM0w5YWY4UDUyQXciLCJpZCI6ImZjX0NoZzZhcDMtR3IyM3B0UVAxSUNTaVFFXzIifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "A FERS retirement calculator estimates your federal pension annuity. The basic formula uses your High-3 average salary multiplied by your years of creditable service and a multiplier (typically 1% or 1.1%). The 1.1% multiplier applies if you retire at age 62 or later with 20 or more years of service. Serving Those Who Serve +2",
+        "snippet_links": [
+          {
+            "link": "https://stwserve.com/fers-retirement-calculator/"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "estimates your federal pension annuity"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "You can calculate your estimated annuity by estimating how these three factors apply to you:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "High-3 Salary: Your highest average basic pay earned during any 3 consecutive years of service. Capital Wealth +1",
+            "snippet_links": [
+              {
+                "link": "https://www.capitalwealth.com/services/federal-benefits/fers-calculator/"
+              }
+            ]
+          },
+          {
+            "snippet": "Creditable Service: Your total years and months of federal service. Unused sick leave also counts as additional time towards this total."
+          },
+          {
+            "snippet": "Multiplier: Usually 1.0%. This bumps to 1.1% if you are age 62 or older at the time of retirement with at least 20 years of service. Law enforcement officers, firefighters, and air traffic controllers use 1.7% for their first 20 years. Capital Wealth +2",
+            "snippet_links": [
+              {
+                "link": "https://www.capitalwealth.com/services/federal-benefits/fers-calculator/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Explore the following online options to receive a personalized estimate based on your specific age, service date, and salary:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "FEDweek FERS & CSRS Calculator: Provides a quick, straightforward assessment of your potential annuity.",
+            "snippet_links": [
+              {
+                "text": "FEDweek FERS & CSRS Calculator",
+                "link": "https://www.fedweek.com/fers-csrs-calculator-get-a-ballpark-estimate-your-annuity/"
+              }
+            ]
+          },
+          {
+            "snippet": "STWS FERS Retirement Calculator: Allows you to factor in specific retirement types (like regular, MRA+10, or VERA) and sick leave balances.",
+            "snippet_links": [
+              {
+                "text": "STWS FERS Retirement Calculator",
+                "link": "https://stwserve.com/fers-retirement-calculator/"
+              }
+            ]
+          },
+          {
+            "snippet": "MyFEDBenefits MRA Calculator: Helps you identify your exact Minimum Retirement Age and your earliest eligible retirement date.",
+            "snippet_links": [
+              {
+                "text": "MyFEDBenefits MRA Calculator",
+                "link": "https://myfedbenefitshelp.com/calculators/fers-retirement-date-mra/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Disclaimer: Online calculators provide estimates for your educational planning. You should always obtain an official certified estimate from your agency's Human Resources department before submitting your retirement packet. www.myfeba.org",
+        "snippet_links": [
+          {
+            "link": "https://www.myfeba.org/fers-retirement-calculator/"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "Calculate Your FERS Pension: Free Federal Retirement Calculator",
+        "link": "https://stwserve.com/fers-retirement-calculator/",
+        "snippet": "And potentially much more! If this is your first stop, welcome! We have been helping Feds since 1988, and we are happy to assist y...",
+        "source": "Serving Those Who Serve",
+        "index": 0
+      },
+      {
+        "title": "Federal Employee Retirement Calculator (FERS) | FEBA",
+        "link": "https://www.myfeba.org/fers-retirement-calculator/",
+        "snippet": "1% of your High-3 Average Salary for every year of service. 1.1% of your High-3 Average Salary for every year of service if you re...",
+        "source": "www.myfeba.org",
+        "index": 1
+      },
+      {
+        "title": "FERS Retirement Calculator Estimate Your Federal Pension.",
+        "link": "https://www.capitalwealth.com/services/federal-benefits/fers-calculator/",
+        "snippet": "How to Calculate Your FERS Pension in 4 Steps. Your FERS annuity follows one formula set by the Office of Personnel Management (OP...",
+        "source": "Capital Wealth",
+        "index": 2
+      },
+      {
+        "title": "The FERS Pension Calculation is Simple - Here's Why - FEDweek",
+        "link": "https://www.fedweek.com/retirement-financial-planning/the-fers-pension-calculation-is-simple-heres-why/",
+        "snippet": "Determining Your Pension Multiplie The final number you need is your pension multiplier. For traditional FERS employees, this mult...",
+        "source": "FEDweek",
+        "index": 3
+      },
+      {
+        "title": "Federal Law Enforcement & Fire: See Your Annuity Estimate",
+        "link": "https://www.fedweek.com/federal-leo-retirement-calculator-fers-csrs/",
+        "snippet": "How the annuity is calculated * 1.7% × high-3 × first 20 years of LEO-covered service, plus. * 1.0% × high-3 × all remaining years...",
+        "source": "FEDweek",
+        "index": 4
+      },
+      {
+        "title": "Quick explainer on goes into your FERS annuity and how to calculate a ...",
+        "link": "https://www.facebook.com/FEDweek/videos/quick-explainer-on-goes-into-your-fers-annuity-and-how-to-calculate-a-ballpark-a/800898294884853/",
+        "snippet": "welcome to your quick guide to FUR's annuity calculations. your federal government furs annuity is based on your high3 average sal...",
+        "source": "Facebook",
+        "index": 5
+      },
+      {
+        "title": "FERS & CSRS Calculator: See Your Annuity Estimate! - FEDweek",
+        "link": "https://www.fedweek.com/fers-csrs-calculator-get-a-ballpark-estimate-your-annuity/",
+        "snippet": "FERS & CSRS Calculator: See Your Annuity Estimate! - FEDweek. FERS & CSRS Calculator: See Your Annuity Estimate! 1) Calculation Type: Calculate. CSRS. FERS. Under ...",
+        "source": "FEDweek",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQ32Rk6FnFpiR3suLoqBsUECdxZdAw4XNbEjxqlZOLBS8hRpeTl4iqpa6idnBn7pey3IBs3hdjShwATmw",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.fedweek.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "How to Calculate Your FERS Pension Step by Step",
+        "link": "https://www.youtube.com/watch?v=h-9HaPLOhys",
+        "snippet": "if you weren't sure how to calculate your first pension or how easy it might be make sure you watch this video because today I'm going to be trying to break this d",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQH4tOv6Pm2ZB0ggI0kxtmEH-VRgmAchxEAdMPqx3imQSFss8FDu-X3D7xzeBNuZvI0fTT2Z4wLq-iclWI",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "FERS Retirement Date Calculator & Minimum Retirement Age",
+        "link": "https://myfedbenefitshelp.com/calculators/fers-retirement-date-mra/",
+        "snippet": "And potentially much more! If this is your first stop, welcome! We have been helping Feds since 1988, and we are happy to assist you on your retirement journey. Pl...",
+        "source": "MyFEDBenefits",
+        "thumbnail": "https://myfedbenefitshelp.com/calculators/fers-retirement-date-mra/",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://myfedbenefitshelp.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Computation",
+      "link": "https://www.opm.gov/retirement-center/fers-information/computation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opm.gov/retirement-center/fers-information/computation/&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQFnoECCUQAQ",
+      "displayed_link": "https://www.opm.gov › ... › Computation",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAApUlEQVR4AW3NIQzDIBCF4fOpxmKQVaSKBIudmqs32Kl5n1okBjc1L-tr5_GCBIF52dE2Fct-d18ueTT99B-UT9FPQo0dtJRiBlffTmgG5aNPcMKhVDsy3D9ASpuLDVhkhxpLTSWDW4nBTRRK2u9Wwr4iXXi1DnUJtoMeNI4eZBg4sR5QLe0wyoyzuYOhJ47aujHYwTScLcONtFAZV3ciazKuj1bcFyfQjeTNZaWkAAAAAElFTkSuQmCC.png",
+      "snippet": "Transferred to the Federal Employees Retirement System (FERS) ; First 5 years of CSRS service, 1.5% of your high-3 average salary for each year of service.",
+      "snippet_highlighted_words": [
+        "Federal",
+        "Retirement",
+        "FERS"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Transferred to the Federal Employees Retirement System (FERS) ; First 5 years of CSRS service, 1.5% of your high-3 average salary for each year of service.",
+          "source_info_link": "https://www.opm.gov/retirement-center/fers-information/computation/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAApUlEQVR4AW3NIQzDIBCF4fOpxmKQVaSKBIudmqs32Kl5n1okBjc1L-tr5_GCBIF52dE2Fct-d18ueTT99B-UT9FPQo0dtJRiBlffTmgG5aNPcMKhVDsy3D9ASpuLDVhkhxpLTSWDW4nBTRRK2u9Wwr4iXXi1DnUJtoMeNI4eZBg4sR5QLe0wyoyzuYOhJ47aujHYwTScLcONtFAZV3ciazKuj1bcFyfQjeTNZaWkAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opm.gov/retirement-center/fers-information/computation/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opm.gov%2Fretirement-center%2Ffers-information%2Fcomputation%2F",
+      "source": "OPM.gov",
+      "read_more_link": "https://www.opm.gov/retirement-center/fers-information/computation/#:~:text=Transferred%20to%20the%20Federal%20Employees,Retirement%20System%20(FERS)&text=First%205%20years%20of%20CSRS,for%20each%20year%20of%20service"
+    },
+    {
+      "position": 2,
+      "title": "Calculate Your FERS Pension: Free Federal Retirement ...",
+      "link": "https://stwserve.com/fers-retirement-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stwserve.com/fers-retirement-calculator/&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQFnoECCYQAQ",
+      "displayed_link": "https://stwserve.com › fers-retirement-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEX____a3f-Hkv54hP5yfv7Cx__Xe3vSbG3NZGXcj5D56ektP_4AGv4CIf4ACv6hpf66BQWwAADCTEz02dk1Rv4PJv4WK_6xAACyAAHEUVHL0P5UZf06T_2psP3FPj6_KCi5HBz14OD29__89vb88_Pw0dHQe3vKcHDpvb378vLtyMjGR0e_Kyt0pnO-AAAAnElEQVR4AbXTAxIDQRAAwImNs238_32ZWsa-Lqy9A2g0nqDpDLPzBbVcrYGabba73W5_wOxRYVSNN-qGaZpb0mjZhOK817jZGYbBprUI2eh6PtIDzIYRFS8TYFIKc5kAA8vyG2LNoqxuiOurY0W4ub46YvciKc7zxufTPt0Qkzc3hr--O4Bpu6i_EonHriPFuqI4A1-fxoKAkeFwArPaLKlgydhOAAAAAElFTkSuQmCC.png",
+      "snippet": "Instantly calculate your FERS retirement annuity. Input your high-3 salary, years of service, and age to get your estimated monthly and annual pension.",
+      "snippet_highlighted_words": [
+        "Instantly calculate your FERS retirement annuity"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Instantly calculate your FERS retirement annuity. Input your high-3 salary, years of service, and age to get your estimated monthly and annual pension.",
+          "source_info_link": "https://stwserve.com/fers-retirement-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEX____a3f-Hkv54hP5yfv7Cx__Xe3vSbG3NZGXcj5D56ektP_4AGv4CIf4ACv6hpf66BQWwAADCTEz02dk1Rv4PJv4WK_6xAACyAAHEUVHL0P5UZf06T_2psP3FPj6_KCi5HBz14OD29__89vb88_Pw0dHQe3vKcHDpvb378vLtyMjGR0e_Kyt0pnO-AAAAnElEQVR4AbXTAxIDQRAAwImNs238_32ZWsa-Lqy9A2g0nqDpDLPzBbVcrYGabba73W5_wOxRYVSNN-qGaZpb0mjZhOK817jZGYbBprUI2eh6PtIDzIYRFS8TYFIKc5kAA8vyG2LNoqxuiOurY0W4ub46YvciKc7zxufTPt0Qkzc3hr--O4Bpu6i_EonHriPFuqI4A1-fxoKAkeFwArPaLKlgydhOAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://stwserve.com/fers-retirement-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fstwserve.com%2Ffers-retirement-calculator%2F",
+      "source": "Serving Those Who Serve"
+    },
+    {
+      "position": 3,
+      "title": "FERS Estimated Pension Calculator",
+      "link": "https://myfedbenefitshelp.com/calculators/fers-estimated-pension/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myfedbenefitshelp.com/calculators/fers-estimated-pension/&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQFnoECDEQAQ",
+      "displayed_link": "https://myfedbenefitshelp.com › Calculators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAApVBMVEX____09PXg4OHr6erm6On14eDf5efp7_C5LSTy7u78_PysAADUjovn6-zr2tqvAADo7O3nxcSyGg_AT0rPz9Heq6mzIBfiuLfjvLr2396zHhSyFgjt0dDPgH3GYl3BV1LVk5DanZvu1dTrzs336unMy8uNjIxLSEnBxcWVlJRzcnKanJzIb2vfr6789_fM0tI7ODgdGBmura21uLiCgIDOfHi6NzD8b7nPAAABOElEQVR4AX2SBbLDIBBAF4lB6VKLe-ru97_Z13qbvBnGHrAKDxBogLIGyXmTNMx6adlObVjBZEvVSdJGadSF1R3s9izxd09x3n-WA3TRM7W2dNsP-Es-LXTDKB4kPZSpJg_xlLZI1nXdEBG72CPkKriyWCfvYeT-03UddXGUQtGVUuKdx2YQKKsLnd8zFPd2c6AKIChjoyyHZWkA7fevcjQWE4foTjI0UMSDgZdPZ_ORMyJ99iNnoxmfLuJlAWEOg9Xa3czndDue7gSI_YwupqOFv4Q1rosiH6wOx9l-y_kOgHBgpL-nwyGs18P1cLgGSzsgqGCXvBgDELHnexUEK8_viLe-LyVGjPLyJGXFX6SVoe1wAK3YIFWv8twdmpd-cvHyVOGvu8D74nlJ2vXrRTSFetngQMA73wZIGTwoO3sLAAAAAElFTkSuQmCC.png",
+      "snippet": "CALCULATE YOUR RETIREMENT DATE. Annual Base Rate of Pay: Estimated ... Federal Retirement News. Department of the Interior DRP 2026 – Full Details ...",
+      "snippet_highlighted_words": [
+        "CALCULATE YOUR RETIREMENT DATE"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "CALCULATE YOUR RETIREMENT DATE. Annual Base Rate of Pay: Estimated ... Federal Retirement News. Department of the Interior DRP 2026 – Full Details ...",
+          "source_info_link": "https://myfedbenefitshelp.com/calculators/fers-estimated-pension/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAApVBMVEX____09PXg4OHr6erm6On14eDf5efp7_C5LSTy7u78_PysAADUjovn6-zr2tqvAADo7O3nxcSyGg_AT0rPz9Heq6mzIBfiuLfjvLr2396zHhSyFgjt0dDPgH3GYl3BV1LVk5DanZvu1dTrzs336unMy8uNjIxLSEnBxcWVlJRzcnKanJzIb2vfr6789_fM0tI7ODgdGBmura21uLiCgIDOfHi6NzD8b7nPAAABOElEQVR4AX2SBbLDIBBAF4lB6VKLe-ru97_Z13qbvBnGHrAKDxBogLIGyXmTNMx6adlObVjBZEvVSdJGadSF1R3s9izxd09x3n-WA3TRM7W2dNsP-Es-LXTDKB4kPZSpJg_xlLZI1nXdEBG72CPkKriyWCfvYeT-03UddXGUQtGVUuKdx2YQKKsLnd8zFPd2c6AKIChjoyyHZWkA7fevcjQWE4foTjI0UMSDgZdPZ_ORMyJ99iNnoxmfLuJlAWEOg9Xa3czndDue7gSI_YwupqOFv4Q1rosiH6wOx9l-y_kOgHBgpL-nwyGs18P1cLgGSzsgqGCXvBgDELHnexUEK8_viLe-LyVGjPLyJGXFX6SVoe1wAK3YIFWv8twdmpd-cvHyVOGvu8D74nlJ2vXrRTSFetngQMA73wZIGTwoO3sLAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myfedbenefitshelp.com/calculators/fers-estimated-pension/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyfedbenefitshelp.com%2Fcalculators%2Ffers-estimated-pension%2F",
+      "source": "MyFEDBenefits",
+      "read_more_link": "https://myfedbenefitshelp.com/calculators/fers-estimated-pension/#:~:text=Annual%20Base%20Rate%20of%20Pay%3A,Estimated%20Retirement%20Date%3A&text=Federal%20Retirement%20News,Resignation%20Means%20for%20Federal%20Employees"
+    },
+    {
+      "position": 4,
+      "title": "Federal Employee Retirement Calculator (FERS) | FEBA",
+      "link": "https://www.myfeba.org/fers-retirement-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.myfeba.org/fers-retirement-calculator/&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQFnoECCcQAQ",
+      "displayed_link": "https://www.myfeba.org › fers-retirement-calculator",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Mjc3Nzc3Kzc3ODc3LTU1NTU1Ny03LTU1NTU1NS01LTYtNTUtNS03NTU4LS0tKy4rK__AABEIACAAIAMBEQACEQEDEQH_xAAXAAEBAQEAAAAAAAAAAAAAAAAGBQEA_8QAKxAAAgECBAMHBQAAAAAAAAAAAQIDBBEAEhMhBjJBByJRYXGBwQUUFjGR_8QAGgEAAgMBAQAAAAAAAAAAAAAAAAUBAgMGBP_EACARAAICAwADAAMAAAAAAAAAAAECAAMEERIhMUEFEyL_2gAMAwEAAhEDEQA_ADnZ9PwpEtcOKYwjSR6EUuo_eEgIbugHKABz9L4bX_tJHErCc2SarYQQaCM9li1M-TyzdfXGvXK7aWVS7BR9mQhYatBUQa6K9ni1MmfyzdPXEhul6WDKUYqfkW9oU_Ckq0I4WjDtHH9vLLqP3RGAF7pAvcHn62xjQLAT3KwcmUsA7FV6kC9sbuWA_kSyBS2mOhK9F9PRJEnWcSKNxZbfOFGVmsylCup0OH-NVHFofoTK36cjyvO04jU7m63-cRjZrKBWF3IzfxqO5uL8iSZAoYhGLL0JFr4cKSRthOfcKG0p2JmLSsp0U8dHRF33eQkqo_mFOVS192l9CPMLIrxMfp_Z-Tq6eOtoxJHs0Zuyn9i-JxaWou0w8GGbkV5eP0nsfJMw1iOMuzyk4XqxXjiWZqZigghkaYBWaS42FtmFua9hfe2PPe1ikcQhGpMZqJNGN4o81lSR8zKPAkAXPtjcevMJ1MYhURmeN5Ys1mSNwjMPAEg2PtgPrxAGLu0Ok4YoxQ_jUzVLaehNKswKq0VhuLbs1-a9jba-MKDYd9wn_9k.jpeg",
+      "snippet": "Use our free federal employee retirement calculator to estimate your FERS pension. Simply enter your service years and High-3 salary for an instant ...",
+      "snippet_highlighted_words": [
+        "Use our free federal employee retirement calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our free federal employee retirement calculator to estimate your FERS pension. Simply enter your service years and High-3 salary for an instant ...",
+          "source_info_link": "https://www.myfeba.org/fers-retirement-calculator/",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Mjc3Nzc3Kzc3ODc3LTU1NTU1Ny03LTU1NTU1NS01LTYtNTUtNS03NTU4LS0tKy4rK__AABEIACAAIAMBEQACEQEDEQH_xAAXAAEBAQEAAAAAAAAAAAAAAAAGBQEA_8QAKxAAAgECBAMHBQAAAAAAAAAAAQIDBBEAEhMhBjJBByJRYXGBwQUUFjGR_8QAGgEAAgMBAQAAAAAAAAAAAAAAAAUBAgMGBP_EACARAAICAwADAAMAAAAAAAAAAAECAAMEERIhMUEFEyL_2gAMAwEAAhEDEQA_ADnZ9PwpEtcOKYwjSR6EUuo_eEgIbugHKABz9L4bX_tJHErCc2SarYQQaCM9li1M-TyzdfXGvXK7aWVS7BR9mQhYatBUQa6K9ni1MmfyzdPXEhul6WDKUYqfkW9oU_Ckq0I4WjDtHH9vLLqP3RGAF7pAvcHn62xjQLAT3KwcmUsA7FV6kC9sbuWA_kSyBS2mOhK9F9PRJEnWcSKNxZbfOFGVmsylCup0OH-NVHFofoTK36cjyvO04jU7m63-cRjZrKBWF3IzfxqO5uL8iSZAoYhGLL0JFr4cKSRthOfcKG0p2JmLSsp0U8dHRF33eQkqo_mFOVS192l9CPMLIrxMfp_Z-Tq6eOtoxJHs0Zuyn9i-JxaWou0w8GGbkV5eP0nsfJMw1iOMuzyk4XqxXjiWZqZigghkaYBWaS42FtmFua9hfe2PPe1ikcQhGpMZqJNGN4o81lSR8zKPAkAXPtjcevMJ1MYhURmeN5Ys1mSNwjMPAEg2PtgPrxAGLu0Ok4YoxQ_jUzVLaehNKswKq0VhuLbs1-a9jba-MKDYd9wn_9k.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.myfeba.org/fers-retirement-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.myfeba.org%2Ffers-retirement-calculator%2F",
+      "source": "myfeba.org"
+    },
+    {
+      "position": 5,
+      "title": "FERS & CSRS Calculator: See Your Annuity Estimate!",
+      "link": "https://www.fedweek.com/fers-csrs-calculator-get-a-ballpark-estimate-your-annuity/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fedweek.com/fers-csrs-calculator-get-a-ballpark-estimate-your-annuity/&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQFnoECCgQAQ",
+      "displayed_link": "https://www.fedweek.com › fers-csrs-calculator-get-a-b...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAp0lEQVR4Ae3WAQaAMBTG8QC7QkAAguoKg6ArdIfu0JF2kd3hHWQ9hA_WxL63EP4wqx958rr12ExrCy7z5LRUs0cQ4F4LDy86NQ_t95m8BrEMJoVnfG0w5u4jSgCLaDABYfg8DYS7Ds9ooJ4NGXBkgSeCGAtMVBA_mSY0EEIksUHBX5kFGDMDYzo00Rr0NiDUAhQ-WGmn-UGpBSLkSktUyzUxfH8RtuwCpyl7xTd07kwAAAAASUVORK5CYII.png",
+      "snippet": "This calculator is meant to give you a rough idea of an unreduced annuity – in reality, you could have your annuity reduced or enhanced in various ways.",
+      "snippet_highlighted_words": [
+        "meant to give you a rough idea of an unreduced annuity"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator is meant to give you a rough idea of an unreduced annuity – in reality, you could have your annuity reduced or enhanced in various ways.",
+          "source_info_link": "https://www.fedweek.com/fers-csrs-calculator-get-a-ballpark-estimate-your-annuity/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAp0lEQVR4Ae3WAQaAMBTG8QC7QkAAguoKg6ArdIfu0JF2kd3hHWQ9hA_WxL63EP4wqx958rr12ExrCy7z5LRUs0cQ4F4LDy86NQ_t95m8BrEMJoVnfG0w5u4jSgCLaDABYfg8DYS7Ds9ooJ4NGXBkgSeCGAtMVBA_mSY0EEIksUHBX5kFGDMDYzo00Rr0NiDUAhQ-WGmn-UGpBSLkSktUyzUxfH8RtuwCpyl7xTd07kwAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fedweek.com/fers-csrs-calculator-get-a-ballpark-estimate-your-annuity/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fedweek.com%2Ffers-csrs-calculator-get-a-ballpark-estimate-your-annuity%2F",
+      "source": "FEDweek",
+      "read_more_link": "https://www.fedweek.com/fers-csrs-calculator-get-a-ballpark-estimate-your-annuity/#:~:text=This%20calculator%20is%20meant%20to,or%20enhanced%20in%20various%20ways."
+    },
+    {
+      "position": 6,
+      "title": "FERS Retirement Calculator",
+      "link": "https://www.fedelaw.com/fers-retirement-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fedelaw.com/fers-retirement-calculator/&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQFnoECDsQAQ",
+      "displayed_link": "https://www.fedelaw.com › fers-retirement-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVHcEwdHEY_NkYdHEaIcUodHEaKc0odHEYdHEYdHEaLc0qJckodHEYdHEYdHEYdHEYdHEYdHEYdHEaXZa19AAAAE3RSTlMAIhDcZMn_tv9UJ7-Fepk9qvZwMRlFzQAAAKZJREFUeAHdzUUChTAMRdGXIr1Yhf3v9bvgzDmjeHQNdtZ2hSZcWWqqcFJVuMlAXU_HCy_JoNFX23VOXw2YHnqoTCtWwaCXAFSNZqIHwuTWQ2rcNw8ZJp9TH98VvDmlgqcc4pD0UcC7Gk2Rt5wp9DN-io1XwdeoqSYUQEHgpUiNFnqm8qA183wk044A5F4Hehh0JMDhAceD076hgGLUgZR80CEzXdEdLK0HD7x8yXIAAAAASUVORK5CYII.png",
+      "snippet": "A FERS disability retirement calculator is a computational tool that estimates your total retirement income from all three components of the Federal Employees ...",
+      "snippet_highlighted_words": [
+        "estimates your total retirement income"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A FERS disability retirement calculator is a computational tool that estimates your total retirement income from all three components of the Federal Employees ...",
+          "source_info_link": "https://www.fedelaw.com/fers-retirement-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVHcEwdHEY_NkYdHEaIcUodHEaKc0odHEYdHEYdHEaLc0qJckodHEYdHEYdHEYdHEYdHEYdHEYdHEaXZa19AAAAE3RSTlMAIhDcZMn_tv9UJ7-Fepk9qvZwMRlFzQAAAKZJREFUeAHdzUUChTAMRdGXIr1Yhf3v9bvgzDmjeHQNdtZ2hSZcWWqqcFJVuMlAXU_HCy_JoNFX23VOXw2YHnqoTCtWwaCXAFSNZqIHwuTWQ2rcNw8ZJp9TH98VvDmlgqcc4pD0UcC7Gk2Rt5wp9DN-io1XwdeoqSYUQEHgpUiNFnqm8qA183wk044A5F4Hehh0JMDhAceD076hgGLUgZR80CEzXdEdLK0HD7x8yXIAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fedelaw.com/fers-retirement-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fedelaw.com%2Ffers-retirement-calculator%2F",
+      "source": "The Law Office of Justin Schnitzer",
+      "read_more_link": "https://www.fedelaw.com/fers-retirement-calculator/#:~:text=A%20FERS%20disability%20retirement%20calculator,and%20Thrift%20Savings%20Plan%20withdrawals."
+    },
+    {
+      "position": 7,
+      "title": "FERS Pension Calculator",
+      "link": "https://planwellfp.com/fers-retirement-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://planwellfp.com/fers-retirement-calculator&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQFnoECD8QAQ",
+      "displayed_link": "https://planwellfp.com › fers-retirement-calculator",
+      "favicon": "https://serpapi.com/searches/6a3a1809b9e869394e3d1b0d/images/jly83JowG38lBXDze4dt5tcu4USFWAG6PqcmFDba30M.png",
+      "snippet": "FERS pension uses the formula High-3 Average Salary x Years of Service x Multiplier. The multiplier is 1.0 percent per year, or 1.1 percent if you retire at age ...",
+      "snippet_highlighted_words": [
+        "FERS pension uses the formula High-3 Average Salary x Years of Service x Multiplier"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "FERS pension uses the formula High-3 Average Salary x Years of Service x Multiplier. The multiplier is 1.0 percent per year, or 1.1 percent if you retire at age ...",
+          "source_info_link": "https://planwellfp.com/fers-retirement-calculator",
+          "icon": "https://serpapi.com/searches/6a3a1809b9e869394e3d1b0d/images/jly83JowG38lBXDze4dt5hmTgKficnSCnUxG9C0XA4-FKb8jcpPXtARQPk4rBRLj.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://planwellfp.com/fers-retirement-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fplanwellfp.com%2Ffers-retirement-calculator",
+      "source": "PlanWell Financial Planning",
+      "read_more_link": "https://planwellfp.com/fers-retirement-calculator#:~:text=FERS%20pension%20uses%20the%20formula,if%20you%20retire%20at%20age"
+    },
+    {
+      "position": 8,
+      "title": "FERS Retirement Calculator Estimate Your Federal Pension.",
+      "link": "https://www.capitalwealth.com/services/federal-benefits/fers-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.capitalwealth.com/services/federal-benefits/fers-calculator/&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQFnoECD0QAQ",
+      "displayed_link": "https://www.capitalwealth.com › services › federal-benefits",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAARVBMVEVHcEx5hYt5hYt5hYt5hYskVpAtWpB5hYt5hYsVT5EVT5EVT5EVT5EVT5F5hYsVT5EVT5EVT5EVT5EVT5EVT5EVT5EVT5FxVN6SAAAAF3RSTlMAYv_rnB4EyC4xEf-1RRPd6otib_qfyAeqD-MAAADpSURBVHgBrc_hlkYgGATg0UfUaFG4_0vdnUOnw8qf3ecPUW8z-HdNg3fmg1etMa8jOvPDoq7XhhZ1H9O2xgyoGgysMT0qHDDANtWcnp0e9lOrOnKENJWYjmSA9F94MpGccVrwSyQnMkEQGHCn4zNpITNX3CwKEMhNi0RyuVfkDmAnOy3E3yrqDzrtU5xIdS40u9yEecRGumtFHFZVDR1ATsgUKpW2S_4WcbI6hjLM56oWh00XZy7HC3mWoo_XQq40k_3a2Z_xrFfnPMoWqhqB4yVAYbheUfEc9TKrzpNNESQhpkeATxLxZ9-Z0Q88DVwCkQAAAABJRU5ErkJggg.png",
+      "snippet": "Complimentary FERS retirement calculator for federal employees. Estimate your pension using your high-3 salary, years of service, and sick leave credit.",
+      "snippet_highlighted_words": [
+        "Complimentary FERS retirement calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Complimentary FERS retirement calculator for federal employees. Estimate your pension using your high-3 salary, years of service, and sick leave credit.",
+          "source_info_link": "https://www.capitalwealth.com/services/federal-benefits/fers-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAARVBMVEVHcEx5hYt5hYt5hYt5hYskVpAtWpB5hYt5hYsVT5EVT5EVT5EVT5EVT5F5hYsVT5EVT5EVT5EVT5EVT5EVT5EVT5EVT5FxVN6SAAAAF3RSTlMAYv_rnB4EyC4xEf-1RRPd6otib_qfyAeqD-MAAADpSURBVHgBrc_hlkYgGATg0UfUaFG4_0vdnUOnw8qf3ecPUW8z-HdNg3fmg1etMa8jOvPDoq7XhhZ1H9O2xgyoGgysMT0qHDDANtWcnp0e9lOrOnKENJWYjmSA9F94MpGccVrwSyQnMkEQGHCn4zNpITNX3CwKEMhNi0RyuVfkDmAnOy3E3yrqDzrtU5xIdS40u9yEecRGumtFHFZVDR1ATsgUKpW2S_4WcbI6hjLM56oWh00XZy7HC3mWoo_XQq40k_3a2Z_xrFfnPMoWqhqB4yVAYbheUfEc9TKrzpNNESQhpkeATxLxZ9-Z0Q88DVwCkQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.capitalwealth.com/services/federal-benefits/fers-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.capitalwealth.com%2Fservices%2Ffederal-benefits%2Ffers-calculator%2F",
+      "source": "Capital Wealth"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "r/govfire",
+      "source": "Reddit",
+      "extensions": [
+        "20+ comments "
+      ],
+      "title": "FERS calculator feedback",
+      "snippet": "Popular comment · I don't see where i elect that i'm a special category employee and will receive the supplement.",
+      "link": "https://www.reddit.com/r/govfire/comments/1tdiii6/fers_calculator_feedback/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Federal Employees and Retirees",
+      "source": "Facebook",
+      "extensions": [
+        "2 reactions "
+      ],
+      "thumbnails": [
+        "https://serpapi.com/searches/6a3a1809b9e869394e3d1b0d/images/sls7LCitAaPshNBYAYQHb1CmanQ4acVS_Kby9zWsaRE.jpeg"
+      ],
+      "title": "USPS annuity estimate (on E-retire) seems accurate from what I've calculated but the FERS supplement seems way lower than it should be. Is that just normal on the estimate? I'm 2 years from retirement and I'll have 32 years in at age 57. It looks to me like it sh",
+      "link": "https://www.facebook.com/groups/580299619558510/posts/2040857866836004/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "FEDweek",
+      "source": "Facebook",
+      "thumbnails": [
+        "https://serpapi.com/searches/6a3a1809b9e869394e3d1b0d/images/RULDpmRogx3DaZcpTeT1mKMFgASGFEzwVSRQ2f76NBI.jpeg"
+      ],
+      "title": "The FERS Pension Calculation is Simple – Here’s Why One of the most valuable benefits you receive as a federal employee is your pension, yet many feds—especially those in the early or middle stages of their careers—have no idea how much they will actu",
+      "link": "https://www.facebook.com/FEDweek/photos/the-fers-pension-calculation-is-simple-heres-whyone-of-the-most-valuable-benefit/1411380577672051/",
+      "date": "Apr 16, 2026"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "FERS retirement Calculator Excel",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=FERS+retirement+Calculator+Excel&sa=X&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+retirement+Calculator+Excel"
+    },
+    {
+      "block_position": 1,
+      "query": "Fers retirement calculator for retirees",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Fers+retirement+calculator+for+retirees&sa=X&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fers+retirement+calculator+for+retirees"
+    },
+    {
+      "block_position": 1,
+      "query": "FERS retirement calculator with military service",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=FERS+retirement+calculator+with+military+service&sa=X&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+retirement+calculator+with+military+service"
+    },
+    {
+      "block_position": 1,
+      "query": "OPM Retirement Calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=OPM+Retirement+Calculator&sa=X&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=OPM+Retirement+Calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "FERS annuity Calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=FERS+annuity+Calculator&sa=X&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+annuity+Calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "FERS calculator app",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=FERS+calculator+app&sa=X&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+calculator+app"
+    },
+    {
+      "block_position": 1,
+      "query": "OPM FERS retirement Calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=OPM+FERS+retirement+Calculator&sa=X&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=OPM+FERS+retirement+Calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "FERS retirement calculator law enforcement",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=FERS+retirement+calculator+law+enforcement&sa=X&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+retirement+calculator+law+enforcement"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=FERS+retirement+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Chg6ap3-Gr23ptQP1ICSiQE&start=10&sa=N&sstk=AU9db-CfiNOL2XWXxr6CN__LIjL35ef7vLsMlm0VmTeMplAhLDU8HftTpWwpB66W8au8l8ixiQ0q-_PeRwNysmJgYqU4GH3E9M3_Aw&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ8NMDegQINBAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=FERS+retirement+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Chg6ap3-Gr23ptQP1ICSiQE&start=10&sa=N&sstk=AU9db-CfiNOL2XWXxr6CN__LIjL35ef7vLsMlm0VmTeMplAhLDU8HftTpWwpB66W8au8l8ixiQ0q-_PeRwNysmJgYqU4GH3E9M3_Aw&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ8tMDegQINBAE",
+      "3": "https://www.google.com/search?q=FERS+retirement+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Chg6ap3-Gr23ptQP1ICSiQE&start=20&sa=N&sstk=AU9db-CfiNOL2XWXxr6CN__LIjL35ef7vLsMlm0VmTeMplAhLDU8HftTpWwpB66W8au8l8ixiQ0q-_PeRwNysmJgYqU4GH3E9M3_Aw&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ8tMDegQINBAG",
+      "4": "https://www.google.com/search?q=FERS+retirement+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Chg6ap3-Gr23ptQP1ICSiQE&start=30&sa=N&sstk=AU9db-CfiNOL2XWXxr6CN__LIjL35ef7vLsMlm0VmTeMplAhLDU8HftTpWwpB66W8au8l8ixiQ0q-_PeRwNysmJgYqU4GH3E9M3_Aw&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ8tMDegQINBAI",
+      "5": "https://www.google.com/search?q=FERS+retirement+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Chg6ap3-Gr23ptQP1ICSiQE&start=40&sa=N&sstk=AU9db-CfiNOL2XWXxr6CN__LIjL35ef7vLsMlm0VmTeMplAhLDU8HftTpWwpB66W8au8l8ixiQ0q-_PeRwNysmJgYqU4GH3E9M3_Aw&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ8tMDegQINBAK",
+      "6": "https://www.google.com/search?q=FERS+retirement+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Chg6ap3-Gr23ptQP1ICSiQE&start=50&sa=N&sstk=AU9db-CfiNOL2XWXxr6CN__LIjL35ef7vLsMlm0VmTeMplAhLDU8HftTpWwpB66W8au8l8ixiQ0q-_PeRwNysmJgYqU4GH3E9M3_Aw&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ8tMDegQINBAM",
+      "7": "https://www.google.com/search?q=FERS+retirement+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Chg6ap3-Gr23ptQP1ICSiQE&start=60&sa=N&sstk=AU9db-CfiNOL2XWXxr6CN__LIjL35ef7vLsMlm0VmTeMplAhLDU8HftTpWwpB66W8au8l8ixiQ0q-_PeRwNysmJgYqU4GH3E9M3_Aw&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ8tMDegQINBAO",
+      "8": "https://www.google.com/search?q=FERS+retirement+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Chg6ap3-Gr23ptQP1ICSiQE&start=70&sa=N&sstk=AU9db-CfiNOL2XWXxr6CN__LIjL35ef7vLsMlm0VmTeMplAhLDU8HftTpWwpB66W8au8l8ixiQ0q-_PeRwNysmJgYqU4GH3E9M3_Aw&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ8tMDegQINBAQ",
+      "9": "https://www.google.com/search?q=FERS+retirement+calculator&sca_esv=bbb7d61e8d3bb37e&ei=Chg6ap3-Gr23ptQP1ICSiQE&start=80&sa=N&sstk=AU9db-CfiNOL2XWXxr6CN__LIjL35ef7vLsMlm0VmTeMplAhLDU8HftTpWwpB66W8au8l8ixiQ0q-_PeRwNysmJgYqU4GH3E9M3_Aw&ved=2ahUKEwidq9WKz5yVAxW9m4kEHVSAJBEQ8tMDegQINBAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+retirement+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+retirement+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+retirement+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+retirement+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+retirement+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+retirement+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+retirement+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+retirement+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+retirement+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FERS+retirement+calculator&start=80"
+    }
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "search_metadata": {
+    "id": "6a3a22783d365649894a81d7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/tNSySqeRO7Cg2PFxgE-NAw/6a3a22783d365649894a81d7.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/tNSySqeRO7Cg2PFxgE-NAw/6a3a22783d365649894a81d7.json_with_pixel_position",
+    "created_at": "2026-06-23 06:06:48 UTC",
+    "processed_at": "2026-06-23 06:06:48 UTC",
+    "google_url": "https://www.google.com/search?q=military+benefits+after+6+years+navy&oq=military+benefits+after+6+years+navy&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/tNSySqeRO7Cg2PFxgE-NAw/6a3a22783d365649894a81d7.html",
+    "total_time_taken": 3.04
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military benefits after 6 years navy",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military benefits after 6 years navy",
+    "total_results": 140,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What benefits do you get after 6 years of military service?",
+      "type": "ai_overview",
+      "page_token": "WyBQ9XicHdBbbqMwFABQzWb62WBoWiVSVA2FPGhyK4wfgZ8KbIKDbSCpJyT56166qlnNSHOWcL5_zLHTf39dlHPD13wyGcfxsen7xtSPoreT8uvWiYkojalKoefPL8_o9SAW8Z9N-HbahCkdBhZhL7OmKFdFBsESZ9ScwVNjHYUKiMScOwMMFGmNhqjItwROnMmex1NDW5UxnfTET-gHK4JMzzYQmSl9QycWp4hYdSv3AmU39JG3ENK1cBSZPvfQFoIkAovX1T0kqVfcRJzw3LuS6m62eK-vwh8wjqGrzfJY3SWpiOwADZqsZu8MFZauIJe0eZLsdyDanSdiB0y7PuOsi5U0NdV-vt_4uVdcao6D3LpUrhJVBoDLa39MKb6L1ljqjVOCZlqum5FQAOFLvDPqvLPLXc0Rp0vh5PhwEJdF8PD_c_F5sG4-nPvmH5-QhEA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WyBQ9XicHdBbbqMwFABQzWb62WBoWiVSVA2FPGhyK4wfgZ8KbIKDbSCpJyT56166qlnNSHOWcL5_zLHTf39dlHPD13wyGcfxsen7xtSPoreT8uvWiYkojalKoefPL8_o9SAW8Z9N-HbahCkdBhZhL7OmKFdFBsESZ9ScwVNjHYUKiMScOwMMFGmNhqjItwROnMmex1NDW5UxnfTET-gHK4JMzzYQmSl9QycWp4hYdSv3AmU39JG3ENK1cBSZPvfQFoIkAovX1T0kqVfcRJzw3LuS6m62eK-vwh8wjqGrzfJY3SWpiOwADZqsZu8MFZauIJe0eZLsdyDanSdiB0y7PuOsi5U0NdV-vt_4uVdcao6D3LpUrhJVBoDLa39MKb6L1ljqjVOCZlqum5FQAOFLvDPqvLPLXc0Rp0vh5PhwEJdF8PD_c_F5sG4-nPvmH5-QhEA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZGFSMk5rTXpaemNuQlJZalZzY1dSNmRHTjBTRVI1VFRCM2FsZ3RhMmRNT0hOV1JHNXhVMDFTVms1VU1XOWtSMnBpVFRGNWJYRlhWMkl5WVd0Wk1UQk1kRVpvTjBkS2R5MDJTWEI0ZVU1U1MzVkRjME5EZGswMVFSSVhaWGxKTm1GeU5tTkdiM2xrZDJKclVIUmlZV3R6VVdzYUlrRkVjM0k1WmxSaFMweGxhMlZXWW1VM2QwODBiV2RVU21nM1NGUktaalJSZWxFIiwiZmN2IjoiMyIsImVpIjoiZXlJNmFyNmNGb3lkd2JrUHRiYWtzUWsiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMklIbGxZWEp6SUc1aGRua1FBSDFramdJXyIsInF1ZXN0aW9uIjoiV2hhdCBiZW5lZml0cyBkbyB5b3UgZ2V0IGFmdGVyIDYgeWVhcnMgb2YgbWlsaXRhcnkgc2VydmljZT8iLCJsayI6ImN3WEJ3UTJBUUFnRXdENThiUlUtN0FaMVVSSTlFa0FOM1RzekxkOHBoWldEYXBYWUhlMFBEaFpFaTRFWlRZbUVLMjY3ckNRYXlYaHQ0dzgiLCJicyI6ImMtT3E1cklPejBnc1VVaEt6VXROeXl3cFZrakpWNmpNTDFWSVR5MVJTRXdyU1MxU01GT29URTBzS2xiSVQxUEl6Y3pKTEVrc3FsUW9UaTBxeTB4T3RUZXlrYklxSjFzN2x3T1hHdGp5ekdLRmtveFVxRktGcFB5ODBtS0Z0UHdpc0tCZllsbWx2Y1RMZkNOaEtjRThJQnRGRlZjMGw3WkhmcmxDYm1KZUpkU2V6RHl3TnJEU2tueXdRMkNPc3pmU2tkTEtJRm81Vnh5WHRndkNPM0F2UXZ5Vms1cFlscG1YRHRkdEwzRmVFV1ItQ3RFNkJCZ0IiLCJpZCI6ImZjX2V5STZhcjZjRm95ZHdia1B0YmFrc1FrXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZGFSMk5rTXpaemNuQlJZalZzY1dSNmRHTjBTRVI1VFRCM2FsZ3RhMmRNT0hOV1JHNXhVMDFTVms1VU1XOWtSMnBpVFRGNWJYRlhWMkl5WVd0Wk1UQk1kRVpvTjBkS2R5MDJTWEI0ZVU1U1MzVkRjME5EZGswMVFSSVhaWGxKTm1GeU5tTkdiM2xrZDJKclVIUmlZV3R6VVdzYUlrRkVjM0k1WmxSaFMweGxhMlZXWW1VM2QwODBiV2RVU21nM1NGUktaalJSZWxFIiwiZmN2IjoiMyIsImVpIjoiZXlJNmFyNmNGb3lkd2JrUHRiYWtzUWsiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMklIbGxZWEp6SUc1aGRua1FBSDFramdJXyIsInF1ZXN0aW9uIjoiV2hhdCBiZW5lZml0cyBkbyB5b3UgZ2V0IGFmdGVyIDYgeWVhcnMgb2YgbWlsaXRhcnkgc2VydmljZT8iLCJsayI6ImN3WEJ3UTJBUUFnRXdENThiUlUtN0FaMVVSSTlFa0FOM1RzekxkOHBoWldEYXBYWUhlMFBEaFpFaTRFWlRZbUVLMjY3ckNRYXlYaHQ0dzgiLCJicyI6ImMtT3E1cklPejBnc1VVaEt6VXROeXl3cFZrakpWNmpNTDFWSVR5MVJTRXdyU1MxU01GT29URTBzS2xiSVQxUEl6Y3pKTEVrc3FsUW9UaTBxeTB4T3RUZXlrYklxSjFzN2x3T1hHdGp5ekdLRmtveFVxRktGcFB5ODBtS0Z0UHdpc0tCZllsbWx2Y1RMZkNOaEtjRThJQnRGRlZjMGw3WkhmcmxDYm1KZUpkU2V6RHl3TnJEU2tueXdRMkNPc3pmU2tkTEtJRm81Vnh5WHRndkNPM0F2UXZ5Vms1cFlscG1YRHRkdEwzRmVFV1ItQ3RFNkJCZ0IiLCJpZCI6ImZjX2V5STZhcjZjRm95ZHdia1B0YmFrc1FrXzIifQ%3D%3D"
+    },
+    {
+      "question": "What is the 6 year bonus for the Navy?",
+      "type": "featured_snippet",
+      "snippet": "Qualified E-7 to E-9s with at least 20 YOS can execute a written agreement to remain on Active Duty for service obligations of two to six years. The maximum bonus amount for a single retention bonus contract is $150,000 for a six-year commitment.",
+      "title": "N130D - Bonus Programs; Special & Incentive Pays - MyNavyHR",
+      "link": "https://www.mynavyhr.navy.mil/References/Pay-Benefits/N130D/#:~:text=Qualified%20E%2D7%20to%20E,for%20a%20six%2Dyear%20commitment.",
+      "displayed_link": "https://www.mynavyhr.navy.mil › Pay-Benefits",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAq1BMVEUsKipLSkoWEhRqUyydezxdSilGQ0R4dnciHB4kHiCrhkf8xWCVd0IbFhgsJB9DNSDxvV1cSCCEZiChgUa2kUzPpFPqtUPUoiCiexk3MjSEaz5zXjnDmUNlThklHyG8urvzu0PosCGxhxmDZyBkYGJva23GomLYpSDAo3DvxHKbhFo9OT0mISOqqKmEgYKgnp-TkZKPcS-Nah2koqPCwcKadB1VRzBhUzlHPjE8A_AFAAAAoElEQVR4AVWNNRYCQRBEq0Yad4twsiVF7n8HIiI8xd1W0N-v3QgSvoI3uCgRCf0QU_jBCqDesWe0_hY0XXM8AAYBjOyj9LxyTdrbFisXF0thiQtD2EvhPTE-59zogqtyuVAqBDgDEMu4ZkW23j_omQHC7T_C6kg1PGpllKIVmVtVgS1HuDJW0WjUgIrjSMsRT7rdXj-MRMSlUqm0K75JPAFSex45fRfolgAAAABJRU5ErkJggg.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZGFSMk5rTXpaemNuQlJZalZzY1dSNmRHTjBTRVI1VFRCM2FsZ3RhMmRNT0hOV1JHNXhVMDFTVms1VU1XOWtSMnBpVFRGNWJYRlhWMkl5WVd0Wk1UQk1kRVpvTjBkS2R5MDJTWEI0ZVU1U1MzVkRjME5EZGswMVFSSVhaWGxKTm1GeU5tTkdiM2xrZDJKclVIUmlZV3R6VVdzYUlrRkVjM0k1WmxSaFMweGxhMlZXWW1VM2QwODBiV2RVU21nM1NGUktaalJSZWxFIiwiZmN2IjoiMyIsImVpIjoiZXlJNmFyNmNGb3lkd2JrUHRiYWtzUWsiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMklIbGxZWEp6SUc1aGRua1FBSDFramdJXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgNiB5ZWFyIGJvbnVzIGZvciB0aGUgTmF2eT8iLCJsayI6IkdoRnVZWFo1SURZZ2VXVmhjaUJpYjI1MWN3IiwiYnMiOiJjLU9xNXJJT3owZ3NVVWhLelV0Tnl5d3BWa2pKVjZqTUwxVklUeTFSU0V3clNTMVNNRk9vVEUwc0tsYklUMVBJemN6SkxFa3NxbFFvVGkwcXkweE90VGV5a2JJcUoxczdsd09YR3RqeXpHS0Zrb3hVcUZLRnBQeTgwbUtGdFB3aXNLQmZZbG1sdmNUTGZDTmhLY0U4SUJ0RkZWYzBsN1pIZnJsQ2JtSmVKZFNlekR5d05yRFNrbnl3UTJDT3N6ZlNrZExLSUZvNVZ4eVh0Z3ZDTzNBdlF2eVZrNXBZbHBtWER0ZHRMM0ZlRVdSLUN0RTZCQmdCIiwiaWQiOiJmY19leUk2YXI2Y0ZveWR3YmtQdGJha3NRa18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZGFSMk5rTXpaemNuQlJZalZzY1dSNmRHTjBTRVI1VFRCM2FsZ3RhMmRNT0hOV1JHNXhVMDFTVms1VU1XOWtSMnBpVFRGNWJYRlhWMkl5WVd0Wk1UQk1kRVpvTjBkS2R5MDJTWEI0ZVU1U1MzVkRjME5EZGswMVFSSVhaWGxKTm1GeU5tTkdiM2xrZDJKclVIUmlZV3R6VVdzYUlrRkVjM0k1WmxSaFMweGxhMlZXWW1VM2QwODBiV2RVU21nM1NGUktaalJSZWxFIiwiZmN2IjoiMyIsImVpIjoiZXlJNmFyNmNGb3lkd2JrUHRiYWtzUWsiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMklIbGxZWEp6SUc1aGRua1FBSDFramdJXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgNiB5ZWFyIGJvbnVzIGZvciB0aGUgTmF2eT8iLCJsayI6IkdoRnVZWFo1SURZZ2VXVmhjaUJpYjI1MWN3IiwiYnMiOiJjLU9xNXJJT3owZ3NVVWhLelV0Tnl5d3BWa2pKVjZqTUwxVklUeTFSU0V3clNTMVNNRk9vVEUwc0tsYklUMVBJemN6SkxFa3NxbFFvVGkwcXkweE90VGV5a2JJcUoxczdsd09YR3RqeXpHS0Zrb3hVcUZLRnBQeTgwbUtGdFB3aXNLQmZZbG1sdmNUTGZDTmhLY0U4SUJ0RkZWYzBsN1pIZnJsQ2JtSmVKZFNlekR5d05yRFNrbnl3UTJDT3N6ZlNrZExLSUZvNVZ4eVh0Z3ZDTzNBdlF2eVZrNXBZbHBtWER0ZHRMM0ZlRVdSLUN0RTZCQmdCIiwiaWQiOiJmY19leUk2YXI2Y0ZveWR3YmtQdGJha3NRa18yIn0%3D"
+    },
+    {
+      "question": "How many years in the navy to get benefits?",
+      "type": "ai_overview",
+      "page_token": "vpKXl3icHdBdToMwAADgeJk9ulK2mSxZTBQ6mRumtT_Aiykto64toMPBePMunsrTmPgd4fv-ce-N_b25mL7vzuv5fBiG27pta1fdqtbP5fnaqLmSzpVS2fXqbhXcH9Um_koeHj-SB8y6jkcE0O1hsReGUWaB8DtIswQIhqi0O8Fddy59MuTQwdSjXsTEVE9s8dqkSwoLpGjxmU_8mUTOEt_hHHLDIhQwVo_a4rBkS8StWcjQ4Zc4kKQhohIxZFbLDAZbaolRWUFTQMxe6IiLkZSxezqEO4eB8SpOo1ygYwbGnme8xwGaXk-a00lfuAhwyQujafpYnpJeXgPEPWpio13FLMyzBOaguFSChLnvsd7ujAxTIsf2HTMyqZPzPErTYqv3HBVShhrvsxpwkMOKjcsDHCYmLCiG2VFdNuHs_3PzdvT9uvts6z_TqoMp",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vpKXl3icHdBdToMwAADgeJk9ulK2mSxZTBQ6mRumtT_Aiykto64toMPBePMunsrTmPgd4fv-ce-N_b25mL7vzuv5fBiG27pta1fdqtbP5fnaqLmSzpVS2fXqbhXcH9Um_koeHj-SB8y6jkcE0O1hsReGUWaB8DtIswQIhqi0O8Fddy59MuTQwdSjXsTEVE9s8dqkSwoLpGjxmU_8mUTOEt_hHHLDIhQwVo_a4rBkS8StWcjQ4Zc4kKQhohIxZFbLDAZbaolRWUFTQMxe6IiLkZSxezqEO4eB8SpOo1ygYwbGnme8xwGaXk-a00lfuAhwyQujafpYnpJeXgPEPWpio13FLMyzBOaguFSChLnvsd7ujAxTIsf2HTMyqZPzPErTYqv3HBVShhrvsxpwkMOKjcsDHCYmLCiG2VFdNuHs_3PzdvT9uvts6z_TqoMp",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZGFSMk5rTXpaemNuQlJZalZzY1dSNmRHTjBTRVI1VFRCM2FsZ3RhMmRNT0hOV1JHNXhVMDFTVms1VU1XOWtSMnBpVFRGNWJYRlhWMkl5WVd0Wk1UQk1kRVpvTjBkS2R5MDJTWEI0ZVU1U1MzVkRjME5EZGswMVFSSVhaWGxKTm1GeU5tTkdiM2xrZDJKclVIUmlZV3R6VVdzYUlrRkVjM0k1WmxSaFMweGxhMlZXWW1VM2QwODBiV2RVU21nM1NGUktaalJSZWxFIiwiZmN2IjoiMyIsImVpIjoiZXlJNmFyNmNGb3lkd2JrUHRiYWtzUWsiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMklIbGxZWEp6SUc1aGRua1FBSDFramdJXyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgeWVhcnMgaW4gdGhlIG5hdnkgdG8gZ2V0IGJlbmVmaXRzPyIsImxrIjoiR2lwb2IzY2diV0Z1ZVNCNVpXRnljeUJwYmlCMGFHVWdibUYyZVNCMGJ5Qm5aWFFnWW1WdVpXWnBkSE0iLCJicyI6ImMtT3E1cklPejBnc1VVaEt6VXROeXl3cFZrakpWNmpNTDFWSVR5MVJTRXdyU1MxU01GT29URTBzS2xiSVQxUEl6Y3pKTEVrc3FsUW9UaTBxeTB4T3RUZXlrYklxSjFzN2x3T1hHdGp5ekdLRmtveFVxRktGcFB5ODBtS0Z0UHdpc0tCZllsbWx2Y1RMZkNOaEtjRThJQnRGRlZjMGw3WkhmcmxDYm1KZUpkU2V6RHl3TnJEU2tueXdRMkNPc3pmU2tkTEtJRm81Vnh5WHRndkNPM0F2UXZ5Vms1cFlscG1YRHRkdEwzRmVFV1ItQ3RFNkJCZ0IiLCJpZCI6ImZjX2V5STZhcjZjRm95ZHdia1B0YmFrc1FrXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZGFSMk5rTXpaemNuQlJZalZzY1dSNmRHTjBTRVI1VFRCM2FsZ3RhMmRNT0hOV1JHNXhVMDFTVms1VU1XOWtSMnBpVFRGNWJYRlhWMkl5WVd0Wk1UQk1kRVpvTjBkS2R5MDJTWEI0ZVU1U1MzVkRjME5EZGswMVFSSVhaWGxKTm1GeU5tTkdiM2xrZDJKclVIUmlZV3R6VVdzYUlrRkVjM0k1WmxSaFMweGxhMlZXWW1VM2QwODBiV2RVU21nM1NGUktaalJSZWxFIiwiZmN2IjoiMyIsImVpIjoiZXlJNmFyNmNGb3lkd2JrUHRiYWtzUWsiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMklIbGxZWEp6SUc1aGRua1FBSDFramdJXyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgeWVhcnMgaW4gdGhlIG5hdnkgdG8gZ2V0IGJlbmVmaXRzPyIsImxrIjoiR2lwb2IzY2diV0Z1ZVNCNVpXRnljeUJwYmlCMGFHVWdibUYyZVNCMGJ5Qm5aWFFnWW1WdVpXWnBkSE0iLCJicyI6ImMtT3E1cklPejBnc1VVaEt6VXROeXl3cFZrakpWNmpNTDFWSVR5MVJTRXdyU1MxU01GT29URTBzS2xiSVQxUEl6Y3pKTEVrc3FsUW9UaTBxeTB4T3RUZXlrYklxSjFzN2x3T1hHdGp5ekdLRmtveFVxRktGcFB5ODBtS0Z0UHdpc0tCZllsbWx2Y1RMZkNOaEtjRThJQnRGRlZjMGw3WkhmcmxDYm1KZUpkU2V6RHl3TnJEU2tueXdRMkNPc3pmU2tkTEtJRm81Vnh5WHRndkNPM0F2UXZ5Vms1cFlscG1YRHRkdEwzRmVFV1ItQ3RFNkJCZ0IiLCJpZCI6ImZjX2V5STZhcjZjRm95ZHdia1B0YmFrc1FrXzIifQ%3D%3D"
+    },
+    {
+      "question": "Do you get benefits after leaving the navy?",
+      "type": "featured_snippet",
+      "snippet": "If you're serving on active duty in the United States uniformed services, including active National Guard and Reserve with federal pay, you may be eligible for VA benefits both during service and after separation or retirement.",
+      "title": "VA Benefits For Service Members | Veterans Affairs",
+      "date": "Apr 29, 2026",
+      "link": "https://www.va.gov/service-member-benefits/#:~:text=If%20you're%20serving%20on,and%20after%20separation%20or%20retirement.",
+      "displayed_link": "https://www.va.gov › service-member-benefits",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEUWHEwNFUgLE0cUGksTGUpPU3VTV3gfJVMlK1dGSm4AAD7LzNb___-dn64AAEKpq7iytL-GiJoAC0V3epHT1N0AADoAADbi4-ozOGLq6_AFEkzy8vYAAB7Gx9IcIlVlZ4OUlaYAABMAAEYvNWAv-iENAAAAkElEQVR4AY1P1QEDUQy658a5u-2_Y5Mu0PITD5D9ASFVlmkplJT6WxvrlPY2CGs8d2JCXhQlqhooC2o0Lbp-GDElYB6ooQqgWLBu2BMOvukTzhrliatGzjcFVRWmClVFx9TQC7oV9wrGo_imA6oX4_N0aBu-yYFQooyUpMg8ytoiWK9VZo1gsSSaDGhOuP6FD0m5CBU-Ake7AAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZGFSMk5rTXpaemNuQlJZalZzY1dSNmRHTjBTRVI1VFRCM2FsZ3RhMmRNT0hOV1JHNXhVMDFTVms1VU1XOWtSMnBpVFRGNWJYRlhWMkl5WVd0Wk1UQk1kRVpvTjBkS2R5MDJTWEI0ZVU1U1MzVkRjME5EZGswMVFSSVhaWGxKTm1GeU5tTkdiM2xrZDJKclVIUmlZV3R6VVdzYUlrRkVjM0k1WmxSaFMweGxhMlZXWW1VM2QwODBiV2RVU21nM1NGUktaalJSZWxFIiwiZmN2IjoiMyIsImVpIjoiZXlJNmFyNmNGb3lkd2JrUHRiYWtzUWsiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMklIbGxZWEp6SUc1aGRua1FBSDFramdJXyIsInF1ZXN0aW9uIjoiRG8geW91IGdldCBiZW5lZml0cyBhZnRlciBsZWF2aW5nIHRoZSBuYXZ5PyIsImxrIjoiR2lwa2J5QjViM1VnWjJWMElHSmxibVZtYVhSeklHRm1kR1Z5SUd4bFlYWnBibWNnZEdobElHNWhkbmsiLCJicyI6ImMtT3E1cklPejBnc1VVaEt6VXROeXl3cFZrakpWNmpNTDFWSVR5MVJTRXdyU1MxU01GT29URTBzS2xiSVQxUEl6Y3pKTEVrc3FsUW9UaTBxeTB4T3RUZXlrYklxSjFzN2x3T1hHdGp5ekdLRmtveFVxRktGcFB5ODBtS0Z0UHdpc0tCZllsbWx2Y1RMZkNOaEtjRThJQnRGRlZjMGw3WkhmcmxDYm1KZUpkU2V6RHl3TnJEU2tueXdRMkNPc3pmU2tkTEtJRm81Vnh5WHRndkNPM0F2UXZ5Vms1cFlscG1YRHRkdEwzRmVFV1ItQ3RFNkJCZ0IiLCJpZCI6ImZjX2V5STZhcjZjRm95ZHdia1B0YmFrc1FrXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlp6ZGFSMk5rTXpaemNuQlJZalZzY1dSNmRHTjBTRVI1VFRCM2FsZ3RhMmRNT0hOV1JHNXhVMDFTVms1VU1XOWtSMnBpVFRGNWJYRlhWMkl5WVd0Wk1UQk1kRVpvTjBkS2R5MDJTWEI0ZVU1U1MzVkRjME5EZGswMVFSSVhaWGxKTm1GeU5tTkdiM2xrZDJKclVIUmlZV3R6VVdzYUlrRkVjM0k1WmxSaFMweGxhMlZXWW1VM2QwODBiV2RVU21nM1NGUktaalJSZWxFIiwiZmN2IjoiMyIsImVpIjoiZXlJNmFyNmNGb3lkd2JrUHRiYWtzUWsiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQmlaVzVsWm1sMGN5QmhablJsY2lBMklIbGxZWEp6SUc1aGRua1FBSDFramdJXyIsInF1ZXN0aW9uIjoiRG8geW91IGdldCBiZW5lZml0cyBhZnRlciBsZWF2aW5nIHRoZSBuYXZ5PyIsImxrIjoiR2lwa2J5QjViM1VnWjJWMElHSmxibVZtYVhSeklHRm1kR1Z5SUd4bFlYWnBibWNnZEdobElHNWhkbmsiLCJicyI6ImMtT3E1cklPejBnc1VVaEt6VXROeXl3cFZrakpWNmpNTDFWSVR5MVJTRXdyU1MxU01GT29URTBzS2xiSVQxUEl6Y3pKTEVrc3FsUW9UaTBxeTB4T3RUZXlrYklxSjFzN2x3T1hHdGp5ekdLRmtveFVxRktGcFB5ODBtS0Z0UHdpc0tCZllsbWx2Y1RMZkNOaEtjRThJQnRGRlZjMGw3WkhmcmxDYm1KZUpkU2V6RHl3TnJEU2tueXdRMkNPc3pmU2tkTEtJRm81Vnh5WHRndkNPM0F2UXZ5Vms1cFlscG1YRHRkdEwzRmVFV1ItQ3RFNkJCZ0IiLCJpZCI6ImZjX2V5STZhcjZjRm95ZHdia1B0YmFrc1FrXzIifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "igACrHicxVbdcqpIEL7f91hujAL-YEwVdWpAVOIPEs1JPDcUwjjy5xiGSDh3-y77VPsY-wQ7ICgmmNSeqq0dixl6mOmvu6e_af_403d23l-__b2Noj25Y9k4jhsIY-TDhoUD1iTJzmI32Cehtf1G8GtoQccWrW2IA8gkB7HFWETkGOiIMFEFMxSsAU7seO3No7XpEd1jMhWisTYJdCnCm0tYg6Wd93urT4UGacBdwwd6H4WBpizURpPjew2NNQO6APyHTQEqSkeV_pRMft8k-l3_SosMZNqj0hQq9XnrpzAAyHI2AHxNm5RZIQNJSXElY9q7pcNxeR9d2wXA4lJ8yiwDcaqQuqBUOlGlrpgrDJSu4FWbksE85kK79OFjaNNGo1EO75iqbQMLgId8QivWleEQUkC_mB_F2lTSlIfPDok6P5yCW28uq5-sSq1Xw3iQv8ezFQVlbURzkGPXIR141rG2VvYSkjQ15WWPw6PJuNXSsSt3hZ7bWWw6b4N9LxhBG2mItdZ0nY9NG9rG1uC-ZTLf5Dtcr9W9vck4YZETKUiZFGi6msSvMa_WlcakIfElRmTeqhdnQCNJc6bar3HWX5ykXLyoJ0H-sCPd00wXnPVKyyRFnxZRSo_oEXyIa4pVwYgS5hk8z1x5cHbsUpOaw5e9k-J3iGeAPBVWYKyfXFaoeGFcWZkEvOwOGBYTZ92pVuRnF0TKCCVXqF3sR2XD0ptER9IJWS9b1yltQkDKIu4mtLsHWC5uoXSLmgdhnFpXzu3heyYRagpBVw7-q3b1FirZWeT-u1QuU2A4dzRvXk_clYcsbTazOe-73NP8J3sRV6c8Dtb_ohBY_y8pijIxzg9oUEkK_QtSKLL0aZk4Lu-fSJHJL9dIIalVZeJ4457LxEdSLC5Jcb1MlEiBcq_KWt-TQrpCCpT7VkGKxwpSeJWkyMtEiRTbtn5RJo5gpzJRkOKXysThV8pERhF4HC5rxquLrtcOM1IOdZ3r6LrvSfumo3Dh85ukjfgO-LJ2bILoLjBt_8Zw7DupeR8l9o1BJ_AdtJkXMXB8JzLDpLaGO7hxIlIzNxEMa0ItgWZIajvzkDCBH2KRM4VmUreNjR52TPdt-NoyFuPObOkqkxd17vmyP8Iv7rwLpwK3jLvB_UR4MVZW_Sl6CB3VqzsK6Hqy-2OHfqhhj7cEMOO4WeBi2EfqKlK6q70ufd8tJrasj3C4XDmR1Fw-_xy1cbB1yM-x8rS47UIv3r49z7emsIgzu4jIcwd9VD_ct03MUMcIFHkmCC2RpkMbgZkOnhD9tyCvgC4j-mD6xDRRGGKZBiQH0erw3NpsQ6HTFDatHt2MomQvtnmG7EKR_wda5B67",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=igACrHicxVbdcqpIEL7f91hujAL-YEwVdWpAVOIPEs1JPDcUwjjy5xiGSDh3-y77VPsY-wQ7ICgmmNSeqq0dixl6mOmvu6e_af_403d23l-__b2Noj25Y9k4jhsIY-TDhoUD1iTJzmI32Cehtf1G8GtoQccWrW2IA8gkB7HFWETkGOiIMFEFMxSsAU7seO3No7XpEd1jMhWisTYJdCnCm0tYg6Wd93urT4UGacBdwwd6H4WBpizURpPjew2NNQO6APyHTQEqSkeV_pRMft8k-l3_SosMZNqj0hQq9XnrpzAAyHI2AHxNm5RZIQNJSXElY9q7pcNxeR9d2wXA4lJ8yiwDcaqQuqBUOlGlrpgrDJSu4FWbksE85kK79OFjaNNGo1EO75iqbQMLgId8QivWleEQUkC_mB_F2lTSlIfPDok6P5yCW28uq5-sSq1Xw3iQv8ezFQVlbURzkGPXIR141rG2VvYSkjQ15WWPw6PJuNXSsSt3hZ7bWWw6b4N9LxhBG2mItdZ0nY9NG9rG1uC-ZTLf5Dtcr9W9vck4YZETKUiZFGi6msSvMa_WlcakIfElRmTeqhdnQCNJc6bar3HWX5ykXLyoJ0H-sCPd00wXnPVKyyRFnxZRSo_oEXyIa4pVwYgS5hk8z1x5cHbsUpOaw5e9k-J3iGeAPBVWYKyfXFaoeGFcWZkEvOwOGBYTZ92pVuRnF0TKCCVXqF3sR2XD0ptER9IJWS9b1yltQkDKIu4mtLsHWC5uoXSLmgdhnFpXzu3heyYRagpBVw7-q3b1FirZWeT-u1QuU2A4dzRvXk_clYcsbTazOe-73NP8J3sRV6c8Dtb_ohBY_y8pijIxzg9oUEkK_QtSKLL0aZk4Lu-fSJHJL9dIIalVZeJ4457LxEdSLC5Jcb1MlEiBcq_KWt-TQrpCCpT7VkGKxwpSeJWkyMtEiRTbtn5RJo5gpzJRkOKXysThV8pERhF4HC5rxquLrtcOM1IOdZ3r6LrvSfumo3Dh85ukjfgO-LJ2bILoLjBt_8Zw7DupeR8l9o1BJ_AdtJkXMXB8JzLDpLaGO7hxIlIzNxEMa0ItgWZIajvzkDCBH2KRM4VmUreNjR52TPdt-NoyFuPObOkqkxd17vmyP8Iv7rwLpwK3jLvB_UR4MVZW_Sl6CB3VqzsK6Hqy-2OHfqhhj7cEMOO4WeBi2EfqKlK6q70ufd8tJrasj3C4XDmR1Fw-_xy1cbB1yM-x8rS47UIv3r49z7emsIgzu4jIcwd9VD_ct03MUMcIFHkmCC2RpkMbgZkOnhD9tyCvgC4j-mD6xDRRGGKZBiQH0erw3NpsQ6HTFDatHt2MomQvtnmG7EKR_wda5B67"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "U.S. Navy Pay and Benefits",
+      "link": "https://www.navy.com/careers-benefits/pay",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.navy.com/careers-benefits/pay&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQFnoECBoQAQ",
+      "displayed_link": "https://www.navy.com › Careers Benefits",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEX___-8wcR7hYs8Tln29_dqdX3W2twAAAXQ1Nbq7O0AFy1AUl0oP0yYoKXKztDj5ufd4eOutLi2u74ACCVwe4I0SFQAABHz9PVVZG2MlJpJWGIAGy8YM0JhbnaUnKIAABgAIjSkqq4IKzsAABwAESgACSSfpqsOLTyAiZAAAABjb3cjOkcAABvUBMBrAAABSklEQVR4AaXQhYKsIBQG4B-UMyYKsjOCBU7H-7_eBrc79qM78B7sd908SfEjkcSCxCbDd_KipLikqpnkiJoWUc2U7vCmNU96-7QDIGqt8arfWtNTHHQ8y7thBCYzw76NFQtR7eNgakeTDR17rQAhRbsMel55HgfzXknaHxTQcy4ksu7IpJ4IEXHH-mUHuem6rQV8lSWG4SNuleoAOZ9OdQASLq1I8QnT-bpKP67r2bPqSEx_GUNzYaerXP2h8F5eTcsJ39LSXqQ2igX8RMNvOvSB4XukCC0XPx8U24XS06SD0w1wzfCVy-pSAEGfZrzyEl-kV4rfODdUzy3gM3xxOva36Za0mZtU7qabd7exwUdhL_irwfWuvBt-8RMvc3wSt1VqUhcj-Xfbwp57QGRlfbto8d2FALN5EFim7S4AuH472GrCqx0hFnivFxxuF-CIHFFgAAAAAElFTkSuQmCC.png",
+      "snippet": "Receive reliable insurance, retirement coverage, education opportunities and even housing stipends. Just as you dedicate your life to the nation's cause, we ...",
+      "about_this_result": {
+        "source": {
+          "description": "Receive reliable insurance, retirement coverage, education opportunities and even housing stipends. Just as you dedicate your life to the nation's cause, we ...",
+          "source_info_link": "https://www.navy.com/careers-benefits/pay",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEX___-8wcR7hYs8Tln29_dqdX3W2twAAAXQ1Nbq7O0AFy1AUl0oP0yYoKXKztDj5ufd4eOutLi2u74ACCVwe4I0SFQAABHz9PVVZG2MlJpJWGIAGy8YM0JhbnaUnKIAABgAIjSkqq4IKzsAABwAESgACSSfpqsOLTyAiZAAAABjb3cjOkcAABvUBMBrAAABSklEQVR4AaXQhYKsIBQG4B-UMyYKsjOCBU7H-7_eBrc79qM78B7sd908SfEjkcSCxCbDd_KipLikqpnkiJoWUc2U7vCmNU96-7QDIGqt8arfWtNTHHQ8y7thBCYzw76NFQtR7eNgakeTDR17rQAhRbsMel55HgfzXknaHxTQcy4ksu7IpJ4IEXHH-mUHuem6rQV8lSWG4SNuleoAOZ9OdQASLq1I8QnT-bpKP67r2bPqSEx_GUNzYaerXP2h8F5eTcsJ39LSXqQ2igX8RMNvOvSB4XukCC0XPx8U24XS06SD0w1wzfCVy-pSAEGfZrzyEl-kV4rfODdUzy3gM3xxOva36Za0mZtU7qabd7exwUdhL_irwfWuvBt-8RMvc3wSt1VqUhcj-Xfbwp57QGRlfbto8d2FALN5EFim7S4AuH472GrCqx0hFnivFxxuF-CIHFFgAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.navy.com/careers-benefits/pay&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.navy.com%2Fcareers-benefits%2Fpay",
+      "source": "Navy.com",
+      "read_more_link": "https://www.navy.com/careers-benefits/pay#:~:text=Receive%20reliable%20insurance%2C%20retirement%20coverage%2C,our%20world%2Dclass%20benefits%20to%20you."
+    },
+    {
+      "position": 2,
+      "title": "Those who only served 4 years : r/newtothenavy",
+      "link": "https://www.reddit.com/r/newtothenavy/comments/vvrs6p/those_who_only_served_4_years/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/newtothenavy/comments/vvrs6p/those_who_only_served_4_years/&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQFnoECCQQAQ",
+      "displayed_link": "40+ comments · 3 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Must have served 6 years and still have 4 years remaining on contract to initiate the transfer. Not 47 months, you must have at least 48 months ...",
+      "snippet_highlighted_words": [
+        "6 years",
+        "years"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What benefits would I receive after completing 6 years ...",
+            "link": "https://www.reddit.com/r/Airforcereserves/comments/1gbznyq/what_benefits_would_i_receive_after_completing_6/",
+            "answer_count": 9,
+            "date": "Oct 25, 2024"
+          },
+          {
+            "title": "What are the actual benefits of staying in for 20 years ...",
+            "link": "https://www.reddit.com/r/navy/comments/1iyrt0y/what_are_the_actual_benefits_of_staying_in_for_20/",
+            "answer_count": 96,
+            "date": "Feb 26, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Must have served 6 years and still have 4 years remaining on contract to initiate the transfer. Not 47 months, you must have at least 48 months ...",
+          "source_info_link": "https://www.reddit.com/r/newtothenavy/comments/vvrs6p/those_who_only_served_4_years/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/newtothenavy/comments/vvrs6p/those_who_only_served_4_years/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fnewtothenavy%2Fcomments%2Fvvrs6p%2Fthose_who_only_served_4_years%2F",
+      "source": "Reddit · r/newtothenavy",
+      "read_more_link": "https://www.reddit.com/r/newtothenavy/comments/vvrs6p/those_who_only_served_4_years/#:~:text=Must%20have%20served%206%20years,least%2048%20months%20to%20transfer."
+    },
+    {
+      "position": 3,
+      "title": "Military Benefits When Your Service is Up",
+      "link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarybenefit.org/get-educated/military-benefits-after-separation/&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQFnoECBkQAQ",
+      "displayed_link": "https://www.militarybenefit.org › get-educated › military...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png",
+      "snippet": "Active duty members with six years of service, and Purple Heart recipients, may also transfer their benefits to a dependent. Fortunately, the Department of ...",
+      "snippet_highlighted_words": [
+        "may also transfer their benefits to a dependent"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Active duty members with six years of service, and Purple Heart recipients, may also transfer their benefits to a dependent. Fortunately, the Department of ...",
+          "source_info_link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABP0lEQVR4Aa3TA28gQRgA0Gtwts2wDc62bdu2ffHZtm3bthUcqt_RV9vd5K0-LGYmV45tAYHLqvMIgA98IpzhTOAhRVJqMIRNKZjHVgZyg9kMS6lBLVqm4AvdOcVR6nE5aXEN_vIIgEYsZBK_6cFC7lE0YYO59Ez66gmaP2E9_XnARMYkbHCPfhymZYygBPGKFKQUT2nK9dhgZc5yiDZsISCFf1SO-8xlMY9iA3MYyQ96sZ4r5E1QnIfHdOYOq5jMoMjgM7qxh3304nFMYWGKxJy35zM9OccO2kYGVrCJLnxmErOpTH2e0YT6dOIjgznMudhXHEsTDrAtxkTuUJ-rnOMRHfnAhKQ_KYiPTGYJr-nCc6bSlem8ITC19VCQnVylI5-ZwkaC2UrejCysjnxiAPvYSMXMrs7inGQk-VLLiwD3McZRsvtzKgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarybenefit.org/get-educated/military-benefits-after-separation/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarybenefit.org%2Fget-educated%2Fmilitary-benefits-after-separation%2F",
+      "source": "Military Benefit Association",
+      "read_more_link": "https://www.militarybenefit.org/get-educated/military-benefits-after-separation/#:~:text=Active%20duty%20members%20with%20six,The%20GI%20Bill%20Comparison%20Tool."
+    },
+    {
+      "position": 4,
+      "title": "Your Benefits: Active Guard Reserve - National ...",
+      "link": "https://www.benefits.va.gov/guardreserve/active-reserve.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.benefits.va.gov/guardreserve/active-reserve.asp&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQFnoECBgQAQ",
+      "displayed_link": "https://www.benefits.va.gov › guardreserve › active-reser...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUBI1hQaIz-_v_O1eC_x9Vwg6FgdZcRMWLe4-qvucufrMAhPm0xTHdAWoLu8PWPnrZb9tf9AAAAX0lEQVR4AWPAA4QMGJwEgtQYGIrU2ZUYLDQZGDjVGDXZNY0KGNi0uNTYVBcJMHBrcKhz6QgtYGAwujSBT8XoAQND0KSES0_8dBgYDikVfArg0mdg4NBkaDrAqMFABAAAdWkQmYKBiOwAAAAASUVORK5CYII.png",
+      "snippet": "Montgomery GI Bill-Selected Reserve (MGIB-SR) - must have 6-year obligation to serve in the Selected Reserve, completed Initial Active Duty for Training (IADT), ...",
+      "snippet_highlighted_words": [
+        "must have 6-year obligation to serve in the Selected Reserve"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Montgomery GI Bill-Selected Reserve (MGIB-SR) - must have 6-year obligation to serve in the Selected Reserve, completed Initial Active Duty for Training (IADT), ...",
+          "source_info_link": "https://www.benefits.va.gov/guardreserve/active-reserve.asp",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUBI1hQaIz-_v_O1eC_x9Vwg6FgdZcRMWLe4-qvucufrMAhPm0xTHdAWoLu8PWPnrZb9tf9AAAAX0lEQVR4AWPAA4QMGJwEgtQYGIrU2ZUYLDQZGDjVGDXZNY0KGNi0uNTYVBcJMHBrcKhz6QgtYGAwujSBT8XoAQND0KSES0_8dBgYDikVfArg0mdg4NBkaDrAqMFABAAAdWkQmYKBiOwAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.benefits.va.gov/guardreserve/active-reserve.asp&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.benefits.va.gov%2Fguardreserve%2Factive-reserve.asp",
+      "source": "Veterans Benefits Administration (.gov)",
+      "read_more_link": "https://www.benefits.va.gov/guardreserve/active-reserve.asp#:~:text=Montgomery%20GI%20Bill%2DSelected%20Reserve%20(MGIB%2DSR),high%20school%20diploma%20or%20equivalency."
+    },
+    {
+      "position": 5,
+      "title": "Why do people who serve 5-6 years in the military get ...",
+      "link": "https://www.quora.com/Why-do-people-who-serve-5-6-years-in-the-military-get-benefits-for-life-I-worked-several-jobs-for-5-6-years-and-get-nothing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Why-do-people-who-serve-5-6-years-in-the-military-get-benefits-for-life-I-worked-several-jobs-for-5-6-years-and-get-nothing&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQFnoECC8QAQ",
+      "displayed_link": "50+ answers · 7 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+      "snippet": "Why do people who serve 5-6 years in the military get benefits for life? I worked several jobs for 5/6 years and get nothing.",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What benefits do you get after 4 years in the Navy ...",
+            "link": "https://www.quora.com/What-benefits-do-you-get-after-4-years-in-the-Navy",
+            "answer_count": 10,
+            "date": "Sep 12, 2021"
+          },
+          {
+            "title": "What exactly are your benefits after a 4-year (or 1 ...",
+            "link": "https://www.quora.com/What-exactly-are-your-benefits-after-a-4-year-or-1-contract-active-duty-service-in-the-military",
+            "answer_count": 10,
+            "date": "Apr 16, 2020"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "People who serve 5–6 years may get VA benefits for life, that is their ability to take out a VA loan on a house, they may have education ...",
+          "source_info_link": "https://www.quora.com/Why-do-people-who-serve-5-6-years-in-the-military-get-benefits-for-life-I-worked-several-jobs-for-5-6-years-and-get-nothing",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/Why-do-people-who-serve-5-6-years-in-the-military-get-benefits-for-life-I-worked-several-jobs-for-5-6-years-and-get-nothing&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quora.com%2FWhy-do-people-who-serve-5-6-years-in-the-military-get-benefits-for-life-I-worked-several-jobs-for-5-6-years-and-get-nothing",
+      "source": "Quora"
+    },
+    {
+      "position": 6,
+      "title": "Benefits of Navy Service",
+      "link": "https://www.cool.osd.mil/usn/benefits/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cool.osd.mil/usn/benefits/index.html&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQFnoECEAQAQ",
+      "displayed_link": "https://www.cool.osd.mil › usn › benefits",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAclBMVEUAIUQTMlI8VXBJYHlCWnQeO1pWbIMzTWkNLE0jP10qRmMXNVVccYdQZn4GJkgOKkFTWTYVL0BdYDWrlSjovx7NrCO9oSXzxh3twh2Jfi1mZjOYiCt8dS9GUDjZtCEfNj6mkil0cDGGlqZ1h5pkeI2Qnq7rJPUuAAAAlElEQVR4AUzJsQ6CQBBF0TsDs4ugy2pjZ6Li_3-ahbGRIC4TVU_1bp6wkAIZfQK2lMhD7c5iFTqcrVvvdcObbBLgf59zD3QBsea2lYK5uAbV6YF9UYvqE2OuihljHGk78mHvDpkuKhX9tHJTz1SRWtgdXYaYQPnxSPrXiUJiLRRmUXDpdB7qcL4MDR8a4mZoXwOrBwB9VBgb28Cs0gAAAABJRU5ErkJggg.png",
+      "snippet": "30 days annual paid vacation (Military Leave: what it is and how it works) · A guaranteed paycheck and Cash Bonuses · Options for full-or part-time service · Low ...",
+      "snippet_highlighted_words": [
+        "30 days annual paid vacation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "30 days annual paid vacation (Military Leave: what it is and how it works) · A guaranteed paycheck and Cash Bonuses · Options for full-or part-time service · Low ...",
+          "source_info_link": "https://www.cool.osd.mil/usn/benefits/index.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAclBMVEUAIUQTMlI8VXBJYHlCWnQeO1pWbIMzTWkNLE0jP10qRmMXNVVccYdQZn4GJkgOKkFTWTYVL0BdYDWrlSjovx7NrCO9oSXzxh3twh2Jfi1mZjOYiCt8dS9GUDjZtCEfNj6mkil0cDGGlqZ1h5pkeI2Qnq7rJPUuAAAAlElEQVR4AUzJsQ6CQBBF0TsDs4ugy2pjZ6Li_3-ahbGRIC4TVU_1bp6wkAIZfQK2lMhD7c5iFTqcrVvvdcObbBLgf59zD3QBsea2lYK5uAbV6YF9UYvqE2OuihljHGk78mHvDpkuKhX9tHJTz1SRWtgdXYaYQPnxSPrXiUJiLRRmUXDpdB7qcL4MDR8a4mZoXwOrBwB9VBgb28Cs0gAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.cool.osd.mil/usn/benefits/index.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.cool.osd.mil%2Fusn%2Fbenefits%2Findex.html",
+      "source": "cool.osd.mil",
+      "read_more_link": "https://www.cool.osd.mil/usn/benefits/index.html#:~:text=30%20days%20annual%20paid%20vacation,is%20and%20how%20it%20works)&text=A%20guaranteed%20paycheck%20and%20Cash,Bonuses&text=Options%20for%20full%2Dor%20part%2Dtime%20service&text=Low%20Cost%20Life%20Insurance%20(Service,Member's%20Group%20Life%20Insurance)"
+    },
+    {
+      "position": 7,
+      "title": "Navy GI bill education benefits explained",
+      "link": "https://www.facebook.com/groups/746888227255482/posts/1167634878514146/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/746888227255482/posts/1167634878514146/&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQFnoECEIQAQ",
+      "displayed_link": "40+ comments · 9 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "Parents - I highly recommend talking to your son or daughter about contributing to the GI Bill so that when their enlistment is up, they'll have money ...",
+      "about_this_result": {
+        "source": {
+          "description": "It provides financial assistance for tuition and fees, a monthly housing allowance, and a stipend for books and supplies, with the amount of ...",
+          "source_info_link": "https://www.facebook.com/groups/746888227255482/posts/1167634878514146/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/746888227255482/posts/1167634878514146/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F746888227255482%2Fposts%2F1167634878514146%2F",
+      "source": "Facebook · NAVY BOOT CAMP 101 (GREAT LAKES)"
+    },
+    {
+      "position": 8,
+      "title": "Are Military Benefits for Life? How Long do Benefits Last?",
+      "link": "https://www.aafmaa.com/resource-center/are-military-benefits-for-life-how-long-do-benefits-last",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aafmaa.com/resource-center/are-military-benefits-for-life-how-long-do-benefits-last&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQFnoECD8QAQ",
+      "displayed_link": "https://www.aafmaa.com › resource-center › are-militar...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEX____n0NCzW1zlzc2UAAClLzHkysuuTE2XAACaAAD7-Pj27u7Hjo_u39_KlZbUqqqIAAC2ZWaRAADPoKCjGRn8-fn77euwusXW2-HAfH3m19m-wMmeqbYfRWpMY37XsLCPAADBy9Q9V3YzUHC3aGndvb3Eh4eoPD6hHiGtR0jY1dX_7dvAAAAAoElEQVR4AbXPxwGDQAwEwDVezOlEdM7k2H-BbkD4xzyVhY3tgj3WkeEBayInDDxsGjsRt4MpSZBSmMGieeF95JjCkh55wul49jBcEjmGuN7uMDwyPF_vzxeWsipQN68apoBywK2FRTUmO9hw1J7iTjCFfKqIC2Hxjj2Co93aKxmjVNiPJnSRwvTMe5VjD9tQZYiwZmSHVZfp2P_Jzgs29wMG-AhBzlbORgAAAABJRU5ErkJggg.png",
+      "snippet": "Servicemembers who have committed to a six-year obligation in the Selected Reserve can receive up to 36 months of education benefits at a reduced rate:.",
+      "snippet_highlighted_words": [
+        "a six",
+        "year",
+        "benefits"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Va Education And Training...",
+            "link": "https://www.aafmaa.com/resource-center/are-military-benefits-for-life-how-long-do-benefits-last#:~:text=VA%20Education%20and%20Training%20Benefits"
+          },
+          {
+            "title": "Military Healthcare Benefits",
+            "link": "https://www.aafmaa.com/resource-center/are-military-benefits-for-life-how-long-do-benefits-last#:~:text=Military%20Healthcare%20Benefits"
+          },
+          {
+            "title": "Military Retirement Benefits",
+            "link": "https://www.aafmaa.com/resource-center/are-military-benefits-for-life-how-long-do-benefits-last#:~:text=Military%20Retirement%20Benefits,-Military%20retirement%20benefits%20secure%20your"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Servicemembers who have committed to a six-year obligation in the Selected Reserve can receive up to 36 months of education benefits at a reduced rate:.",
+          "source_info_link": "https://www.aafmaa.com/resource-center/are-military-benefits-for-life-how-long-do-benefits-last",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEX____n0NCzW1zlzc2UAAClLzHkysuuTE2XAACaAAD7-Pj27u7Hjo_u39_KlZbUqqqIAAC2ZWaRAADPoKCjGRn8-fn77euwusXW2-HAfH3m19m-wMmeqbYfRWpMY37XsLCPAADBy9Q9V3YzUHC3aGndvb3Eh4eoPD6hHiGtR0jY1dX_7dvAAAAAoElEQVR4AbXPxwGDQAwEwDVezOlEdM7k2H-BbkD4xzyVhY3tgj3WkeEBayInDDxsGjsRt4MpSZBSmMGieeF95JjCkh55wul49jBcEjmGuN7uMDwyPF_vzxeWsipQN68apoBywK2FRTUmO9hw1J7iTjCFfKqIC2Hxjj2Co93aKxmjVNiPJnSRwvTMe5VjD9tQZYiwZmSHVZfp2P_Jzgs29wMG-AhBzlbORgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.aafmaa.com/resource-center/are-military-benefits-for-life-how-long-do-benefits-last&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.aafmaa.com%2Fresource-center%2Fare-military-benefits-for-life-how-long-do-benefits-last",
+      "source": "American Armed Forces Mutual Aid Association",
+      "read_more_link": "https://www.aafmaa.com/resource-center/are-military-benefits-for-life-how-long-do-benefits-last#:~:text=Servicemembers%20who%20have%20committed%20to,benefits%20at%20a%20reduced%20rate%3A"
+    },
+    {
+      "position": 9,
+      "title": "Who Is Eligible for Veterans Benefits?",
+      "link": "https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQFnoECEEQAQ",
+      "displayed_link": "https://veteransaidbenefit.org › who-is-eligible-for-vetera...",
+      "snippet": "To be eligible for veterans benefits the applicant must meet the definition of a veteran or the survivor of a veteran.",
+      "snippet_highlighted_words": [
+        "for",
+        "benefits"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Definition Of A Veteran",
+            "link": "https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm#:~:text=Definition%20of%20a%20Veteran,-One%20must%20be%20a%20veteran"
+          },
+          {
+            "title": "Other Groups Eligible For...",
+            "link": "https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm#:~:text=Other%20Groups%20Eligible%20for%20Veterans%20Benefits"
+          },
+          {
+            "title": "In The Line Of Duty And...",
+            "link": "https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm#:~:text=In%20the%20Line%20of%20Duty%20and%20Willful%20Misconduct"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "To be eligible for veterans benefits the applicant must meet the definition of a veteran or the survivor of a veteran.",
+          "source_info_link": "https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://veteransaidbenefit.org/who-is-eligible-for-veterans-benefits.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fveteransaidbenefit.org%2Fwho-is-eligible-for-veterans-benefits.htm",
+      "source": "The Senior Veterans Service Alliance"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Military benefits after 6 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+6+years+of+service&sa=X&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+6+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "National Guard benefits after 6 years",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=National+Guard+benefits+after+6+years&sa=X&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=National+Guard+benefits+after+6+years"
+    },
+    {
+      "block_position": 1,
+      "query": "Navy benefits after 4 years",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Navy+benefits+after+4+years&sa=X&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Navy+benefits+after+4+years"
+    },
+    {
+      "block_position": 1,
+      "query": "Navy benefits after 5 years",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Navy+benefits+after+5+years&sa=X&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Navy+benefits+after+5+years"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits after 4 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+4+years+of+service&sa=X&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+4+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "Navy benefits after 6 years",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Navy+benefits+after+6+years&sa=X&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Navy+benefits+after+6+years"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits after 10 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+10+years+of+service&sa=X&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+10+years+of+service"
+    },
+    {
+      "block_position": 1,
+      "query": "Military benefits after 2 years of service",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+benefits+after+2+years+of+service&sa=X&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+benefits+after+2+years+of+service"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+benefits+after+6+years+navy&sca_esv=c510ba4e6526f391&ei=eyI6ar6cFoydwbkPtbaksQk&start=10&sa=N&sstk=AU9db-CHW7QDj6ID6H-vHcQtwUoWq616rLD1sKUz-WMkIUh93D2U8VNklA85Stib6944IyMQc9R0k0g15T2Vj7mRo9X81VI94GQlRw&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ8NMDegQINRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+benefits+after+6+years+navy&sca_esv=c510ba4e6526f391&ei=eyI6ar6cFoydwbkPtbaksQk&start=10&sa=N&sstk=AU9db-CHW7QDj6ID6H-vHcQtwUoWq616rLD1sKUz-WMkIUh93D2U8VNklA85Stib6944IyMQc9R0k0g15T2Vj7mRo9X81VI94GQlRw&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ8tMDegQINRAE",
+      "3": "https://www.google.com/search?q=military+benefits+after+6+years+navy&sca_esv=c510ba4e6526f391&ei=eyI6ar6cFoydwbkPtbaksQk&start=20&sa=N&sstk=AU9db-CHW7QDj6ID6H-vHcQtwUoWq616rLD1sKUz-WMkIUh93D2U8VNklA85Stib6944IyMQc9R0k0g15T2Vj7mRo9X81VI94GQlRw&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ8tMDegQINRAG",
+      "4": "https://www.google.com/search?q=military+benefits+after+6+years+navy&sca_esv=c510ba4e6526f391&ei=eyI6ar6cFoydwbkPtbaksQk&start=30&sa=N&sstk=AU9db-CHW7QDj6ID6H-vHcQtwUoWq616rLD1sKUz-WMkIUh93D2U8VNklA85Stib6944IyMQc9R0k0g15T2Vj7mRo9X81VI94GQlRw&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ8tMDegQINRAI",
+      "5": "https://www.google.com/search?q=military+benefits+after+6+years+navy&sca_esv=c510ba4e6526f391&ei=eyI6ar6cFoydwbkPtbaksQk&start=40&sa=N&sstk=AU9db-CHW7QDj6ID6H-vHcQtwUoWq616rLD1sKUz-WMkIUh93D2U8VNklA85Stib6944IyMQc9R0k0g15T2Vj7mRo9X81VI94GQlRw&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ8tMDegQINRAK",
+      "6": "https://www.google.com/search?q=military+benefits+after+6+years+navy&sca_esv=c510ba4e6526f391&ei=eyI6ar6cFoydwbkPtbaksQk&start=50&sa=N&sstk=AU9db-CHW7QDj6ID6H-vHcQtwUoWq616rLD1sKUz-WMkIUh93D2U8VNklA85Stib6944IyMQc9R0k0g15T2Vj7mRo9X81VI94GQlRw&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ8tMDegQINRAM",
+      "7": "https://www.google.com/search?q=military+benefits+after+6+years+navy&sca_esv=c510ba4e6526f391&ei=eyI6ar6cFoydwbkPtbaksQk&start=60&sa=N&sstk=AU9db-CHW7QDj6ID6H-vHcQtwUoWq616rLD1sKUz-WMkIUh93D2U8VNklA85Stib6944IyMQc9R0k0g15T2Vj7mRo9X81VI94GQlRw&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ8tMDegQINRAO",
+      "8": "https://www.google.com/search?q=military+benefits+after+6+years+navy&sca_esv=c510ba4e6526f391&ei=eyI6ar6cFoydwbkPtbaksQk&start=70&sa=N&sstk=AU9db-CHW7QDj6ID6H-vHcQtwUoWq616rLD1sKUz-WMkIUh93D2U8VNklA85Stib6944IyMQc9R0k0g15T2Vj7mRo9X81VI94GQlRw&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ8tMDegQINRAQ",
+      "9": "https://www.google.com/search?q=military+benefits+after+6+years+navy&sca_esv=c510ba4e6526f391&ei=eyI6ar6cFoydwbkPtbaksQk&start=80&sa=N&sstk=AU9db-CHW7QDj6ID6H-vHcQtwUoWq616rLD1sKUz-WMkIUh93D2U8VNklA85Stib6944IyMQc9R0k0g15T2Vj7mRo9X81VI94GQlRw&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ8tMDegQINRAS",
+      "10": "https://www.google.com/search?q=military+benefits+after+6+years+navy&sca_esv=c510ba4e6526f391&ei=eyI6ar6cFoydwbkPtbaksQk&start=90&sa=N&sstk=AU9db-CHW7QDj6ID6H-vHcQtwUoWq616rLD1sKUz-WMkIUh93D2U8VNklA85Stib6944IyMQc9R0k0g15T2Vj7mRo9X81VI94GQlRw&ved=2ahUKEwj-xZuF2ZyVAxWMTjABHTUbKZYQ8tMDegQINRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+6+years+navy&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+6+years+navy&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+6+years+navy&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+6+years+navy&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+6+years+navy&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+6+years+navy&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+6+years+navy&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+6+years+navy&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+6+years+navy&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+6+years+navy&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+benefits+after+6+years+navy&start=90"
+    }
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "search_metadata": {
+    "id": "6a3a18ca71577fa32ac0fb57",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/C2cylhA96cZqEwuebi-xRg/6a3a18ca71577fa32ac0fb57.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/C2cylhA96cZqEwuebi-xRg/6a3a18ca71577fa32ac0fb57.json_with_pixel_position",
+    "created_at": "2026-06-23 05:25:30 UTC",
+    "processed_at": "2026-06-23 05:25:30 UTC",
+    "google_url": "https://www.google.com/search?q=blood+alcohol+calculator+weight+gender&oq=blood+alcohol+calculator+weight+gender&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/C2cylhA96cZqEwuebi-xRg/6a3a18ca71577fa32ac0fb57.html",
+    "total_time_taken": 1.47
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "blood alcohol calculator weight gender",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "blood alcohol calculator weight gender",
+    "total_results": 104,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "pivngHicxVZZk6JIEH7f_zG-dCsKnh1BTFQBAl4tg043vhhcFipayiE6b_Nf9lftw_6WLS7FUbtjJ2Jj05CqysrKyusj-fmnu9yu__rjbycIdv4LRUVRVEEYI9eumHhD6f5pa1IL7Pqe6Xw9HVimZPpstWQv2dMRNfVwMIRea78ZKON2-YezV7RScoSdG7pvr4jG48qn5hR5rL8wPFlU_Iq9rXBO3Th-x_3jcVqhq7VO5ZXSN0QA_IckgG_JqJCfTEb5RiK-Hn2iRZHjg2qBwxWeOQ1TRbKcDNxDpVxmBafFInx55tUh4JWEJ31ghXq9fIsfAogAgLGJgnLvzD0jch7ORvjwRuGWlQjD7C6-qP6Rv7CYYCXWOWkD7pKI3GUIcg-ICCJzmGpsAFgfR5zIfZAmsrNDkuCUlbtGF6jbF3ZRNh9oIrGIshApwipleGSoUUvTMZOJ58e1yU06Vdwde9bsKPFeQ30_-Z5QlcLhcnYMt8FQoUyDyLlYt2xr7syrX5N1ja41qh2m1X5OQGH6Z1T4RVTMmkMXML0F0wWVQQXWCpBIgpGWUu5SXG7du-4JoJ_FsEBcfjCJtdLLYpNHeZqLQZyjI2Os1nFVaWdGO06Fc3vnPUjkhIoTAonEEnl6PlkUJ1Mow4upGfG_5vuyznzQQF85uywULE4DIRTX61i5LOaM6LwVa0UuSCBOICHAVOPr1XlUNIwEC3JAyLfPFsQy_PosJiQWxtuaomhA7hKIQiF9OSTnhEybIF_HDqyuVl0U_zl0F-CfEbwk_BEJIK_9X0r5CgJNpveqr93efDqutYUBT3dPa5WhgdEB90seb4x_0QnM_xcU06xPTDMk9O-CAn0CCkUWPuwTaQFf-kRcKxx-BAouA8V1n0gL99InbkGhXoPicZ8ogCLV8jEo4ENQpK-VW1DEfeIGFOgBKNI-UQTFdZ_YnjXHHhRA8Vt9QvmNPpFgxE6H66YRrtDD5iFIfQcPRvP3erkv8bghjTS8CJmeDmjwafNYbIKXjW65z_Ol9QLpXnCynueEgV9sq7RnDRdj60l3Texg98kkk9DVA-w9RfYSOcETsreW7ZU2rofZql4fQf2bXx90Q7XmLBlLjXjRK6_o4GCvO020CIHYZhpbrP7Ag9574JZFba918MxTF7jFTbd8_01GaH-cNRZTsdxeVCeieHibSKE78laS6vRNH7pGq773X9_cRhhNuktfah3eJ6ue4XPmaDiWJc3WRzQ_RCK9UhK7fDYsA92eb3bjxbS08UyWfB_V12CkABEBk1Q_UMi3lMJh8o9I7ku-qc9t_8AahtGymjW7bTGGwbTs0gYFpx1Ld0r-1mNr_wCyoBeU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pivngHicxVZZk6JIEH7f_zG-dCsKnh1BTFQBAl4tg043vhhcFipayiE6b_Nf9lftw_6WLS7FUbtjJ2Jj05CqysrKyusj-fmnu9yu__rjbycIdv4LRUVRVEEYI9eumHhD6f5pa1IL7Pqe6Xw9HVimZPpstWQv2dMRNfVwMIRea78ZKON2-YezV7RScoSdG7pvr4jG48qn5hR5rL8wPFlU_Iq9rXBO3Th-x_3jcVqhq7VO5ZXSN0QA_IckgG_JqJCfTEb5RiK-Hn2iRZHjg2qBwxWeOQ1TRbKcDNxDpVxmBafFInx55tUh4JWEJ31ghXq9fIsfAogAgLGJgnLvzD0jch7ORvjwRuGWlQjD7C6-qP6Rv7CYYCXWOWkD7pKI3GUIcg-ICCJzmGpsAFgfR5zIfZAmsrNDkuCUlbtGF6jbF3ZRNh9oIrGIshApwipleGSoUUvTMZOJ58e1yU06Vdwde9bsKPFeQ30_-Z5QlcLhcnYMt8FQoUyDyLlYt2xr7syrX5N1ja41qh2m1X5OQGH6Z1T4RVTMmkMXML0F0wWVQQXWCpBIgpGWUu5SXG7du-4JoJ_FsEBcfjCJtdLLYpNHeZqLQZyjI2Os1nFVaWdGO06Fc3vnPUjkhIoTAonEEnl6PlkUJ1Mow4upGfG_5vuyznzQQF85uywULE4DIRTX61i5LOaM6LwVa0UuSCBOICHAVOPr1XlUNIwEC3JAyLfPFsQy_PosJiQWxtuaomhA7hKIQiF9OSTnhEybIF_HDqyuVl0U_zl0F-CfEbwk_BEJIK_9X0r5CgJNpveqr93efDqutYUBT3dPa5WhgdEB90seb4x_0QnM_xcU06xPTDMk9O-CAn0CCkUWPuwTaQFf-kRcKxx-BAouA8V1n0gL99InbkGhXoPicZ8ogCLV8jEo4ENQpK-VW1DEfeIGFOgBKNI-UQTFdZ_YnjXHHhRA8Vt9QvmNPpFgxE6H66YRrtDD5iFIfQcPRvP3erkv8bghjTS8CJmeDmjwafNYbIKXjW65z_Ol9QLpXnCynueEgV9sq7RnDRdj60l3Texg98kkk9DVA-w9RfYSOcETsreW7ZU2rofZql4fQf2bXx90Q7XmLBlLjXjRK6_o4GCvO020CIHYZhpbrP7Ag9574JZFba918MxTF7jFTbd8_01GaH-cNRZTsdxeVCeieHibSKE78laS6vRNH7pGq773X9_cRhhNuktfah3eJ6ue4XPmaDiWJc3WRzQ_RCK9UhK7fDYsA92eb3bjxbS08UyWfB_V12CkABEBk1Q_UMi3lMJh8o9I7ku-qc9t_8AahtGymjW7bTGGwbTs0gYFpx1Ld0r-1mNr_wCyoBeU"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Blood Alcohol Concentration (BAC) Calculator",
+      "link": "https://www.calculator.net/bac-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calculator.net/bac-calculator.html&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQFnoECBQQAQ",
+      "displayed_link": "https://www.calculator.net › fitness & health",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png",
+      "snippet": "Online calculator to estimate the Blood Alcohol Concentration (BAC) level based on the amount of alcohol consumed, the time elapsed, gender, and body weight.",
+      "snippet_highlighted_words": [
+        "Online calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Online calculator to estimate the Blood Alcohol Concentration (BAC) level based on the amount of alcohol consumed, the time elapsed, gender, and body weight.",
+          "source_info_link": "https://www.calculator.net/bac-calculator.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.calculator.net/bac-calculator.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.calculator.net%2Fbac-calculator.html",
+      "source": "Calculator.net"
+    },
+    {
+      "position": 2,
+      "title": "Blood Alcohol Content (BAC) Calculator",
+      "link": "https://alcohol.org/bac-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alcohol.org/bac-calculator/&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQFnoECC8QAQ",
+      "displayed_link": "https://alcohol.org › bac-calculator",
+      "favicon": "https://serpapi.com/searches/6a3a18ca71577fa32ac0fb57/images/2tPrMgoOR_kjqXbtif-kBKc9g_9-02u-QCFODYlq8NI.png",
+      "snippet": "Use our calculator to estimate, Our calculator can give you an approximate BAC level, you're fit to drive or work. to the gender, body weight and amount of ...",
+      "snippet_highlighted_words": [
+        "Use our calculator to estimate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our calculator to estimate, Our calculator can give you an approximate BAC level, you're fit to drive or work. to the gender, body weight and amount of  ...",
+          "source_info_link": "https://alcohol.org/bac-calculator/",
+          "icon": "https://serpapi.com/searches/6a3a18ca71577fa32ac0fb57/images/2tPrMgoOR_kjqXbtif-kBKDID2hFbR0xMrgq5NYkUUmVymCCuM1D02Gs507eQdLF.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://alcohol.org/bac-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Falcohol.org%2Fbac-calculator%2F",
+      "source": "Alcohol.org"
+    },
+    {
+      "position": 3,
+      "title": "Blood Alcohol Calculator",
+      "link": "https://aod.wellbeing.wfu.edu/resources/blood-alcohol-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aod.wellbeing.wfu.edu/resources/blood-alcohol-calculator/&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQFnoECBIQAQ",
+      "displayed_link": "https://aod.wellbeing.wfu.edu › resources › blood-alcoho...",
+      "favicon": "https://serpapi.com/searches/6a3a18ca71577fa32ac0fb57/images/2tPrMgoOR_kjqXbtif-kBE8w8U8stkFPD_VsbT1MhBI.png",
+      "snippet": "Enter the length of time you plan to drink, the number of standard drinks you plan to consume, your current weight, and select your birth/biological sex. The ...",
+      "snippet_highlighted_words": [
+        "weight"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Enter the length of time you plan to drink, the number of standard drinks you plan to consume, your current weight, and select your birth/biological sex. The ...",
+          "source_info_link": "https://aod.wellbeing.wfu.edu/resources/blood-alcohol-calculator/",
+          "icon": "https://serpapi.com/searches/6a3a18ca71577fa32ac0fb57/images/2tPrMgoOR_kjqXbtif-kBHHLS56o_y80m-pAR9Ox7CaiE1Dii_DyHduohSZ42-i7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://aod.wellbeing.wfu.edu/resources/blood-alcohol-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Faod.wellbeing.wfu.edu%2Fresources%2Fblood-alcohol-calculator%2F",
+      "source": "Wake Forest University",
+      "read_more_link": "https://aod.wellbeing.wfu.edu/resources/blood-alcohol-calculator/#:~:text=Enter%20the%20length%20of%20time,BAC%20to%20return%20to%20zero."
+    },
+    {
+      "position": 4,
+      "title": "Drunk Calc: BAC Calculator - Blood Alcohol Calculator",
+      "link": "https://drunkcalc.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://drunkcalc.com/&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQFnoECBMQAQ",
+      "displayed_link": "https://drunkcalc.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEX___-suf91jf-Pov-NoP8xWf9Xd_81Xf9kgP8dUv9Kbv9mgf97kv9_lf88Y_85YP8sV_-l1f-q2_9Tev-n2P9KbP9Caf8-Zf9Zgf9Lcv-l2v-Crv-Fsv-Hs_9fiP9hi_-WqP-CIDDkAAAAsElEQVR4AbSQVQKDQAxEa4uT4L5y_1M2wanrfDxk4rv_aX-4oeNonoR1JdsZzaN7Xc3z_2zawaVCmE20bRsvMJtRHCepTbAgixMPCfnazMgkkJl5SG_Fa5kohICSAROWnnZVVQVMKBmwlM0yKsuAJEtqKttc9mT0Pe3NEUTbyRoZ0LUy35iXA11mth1lEiizu8h80PNyWm87ra2ULpABWumS3-Y9TU7yvA3yw3m0S9AAj3gVzp2tqE8AAAAASUVORK5CYII.png",
+      "snippet": "Our BAC calculator takes important pieces of information such as your height, weight, biological sex, hunger level, how many drinks you've consumed, and how ...",
+      "snippet_highlighted_words": [
+        "BAC calculator",
+        "weight"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Our BAC calculator takes important pieces of information such as your height, weight, biological sex, hunger level, how many drinks you've consumed, and how ...",
+          "source_info_link": "https://drunkcalc.com/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEX___-suf91jf-Pov-NoP8xWf9Xd_81Xf9kgP8dUv9Kbv9mgf97kv9_lf88Y_85YP8sV_-l1f-q2_9Tev-n2P9KbP9Caf8-Zf9Zgf9Lcv-l2v-Crv-Fsv-Hs_9fiP9hi_-WqP-CIDDkAAAAsElEQVR4AbSQVQKDQAxEa4uT4L5y_1M2wanrfDxk4rv_aX-4oeNonoR1JdsZzaN7Xc3z_2zawaVCmE20bRsvMJtRHCepTbAgixMPCfnazMgkkJl5SG_Fa5kohICSAROWnnZVVQVMKBmwlM0yKsuAJEtqKttc9mT0Pe3NEUTbyRoZ0LUy35iXA11mth1lEiizu8h80PNyWm87ra2ULpABWumS3-Y9TU7yvA3yw3m0S9AAj3gVzp2tqE8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://drunkcalc.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdrunkcalc.com%2F",
+      "source": "Drunk Calc"
+    },
+    {
+      "position": 5,
+      "title": "Blood Alcohol Content (BAC) Calculator",
+      "link": "https://www.drinkfox.com/tools/bac-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.drinkfox.com/tools/bac-calculator&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQFnoECBUQAQ",
+      "displayed_link": "https://www.drinkfox.com › tools › bac-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA9lBMVEX___-_v7_l5eXx8fHi4uJ3d3dsbGzX19eoqKiysrJwcHChoaElIyIrJyWVnJ7LWShFODTo6OhjQje6USWUlJT7azVsNCB0gYOBgYF5enuFOx-YRSZkNCb_ZzPOVCtbOC5TVVVgNSlLVFVtOy3bWCo5KSQNJir4XjC5TzGRhoSgPybzVSzhUi2mOSHwTCmFMyFlc3TSOx_uRCS-OSGHlJXHKQzyOh_sOyCrJhCcFgDxKArsMhyBNC2uMyafMid4EgD9yMXuc2znAADWIxJgUE85MTGSLSdLRERoSUjlGhL74uHpNi3nSEPVAAD50NDsh4diYmIyQULfX3__AAABGklEQVR4AbXM02IDQRQG4H89u-E0Zhnbtp28_8PUnZ7iNt94DnBVkgxCUUFpOghdB2Ew0yKZps0gQZPZJU3EJAdjJGhzutymroJzGLp542FeEmROj88fCIa8tqA3EPZFaBCSMxqLxW_vovcPj0-xWIKZJMi9yXhKSCe9Mggtk819yWeDGijTWSgKJWYDoVjlSlWolYOcBIP1RrPVbLZeve7NtjMEQQ50ur1af9B7NexXet0RKfWy8WQ6my9eo8vVejOdjJ02EdQ4sN1Nu5tX3eluC3BNBHW82U83h81museb7yCzNJsCbKaHw3QDKDbNYiDUoBfHw-l0OMIbUvGbcYZyuSg4G_gHP4PZcOYgaGtJChqgCIMxA9f3AqqpJq6lp9TQAAAAAElFTkSuQmCC.png",
+      "snippet": "A = liquid ounces of alcohol consumed, W = your weight in pounds, r = a sex constant (.73 for men and .66 for women) and H = hours since your first drink.",
+      "snippet_highlighted_words": [
+        "alcohol",
+        "weight"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A = liquid ounces of alcohol consumed, W = your weight in pounds, r = a sex constant (.73 for men and .66 for women) and H = hours since your first drink.",
+          "source_info_link": "https://www.drinkfox.com/tools/bac-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA9lBMVEX___-_v7_l5eXx8fHi4uJ3d3dsbGzX19eoqKiysrJwcHChoaElIyIrJyWVnJ7LWShFODTo6OhjQje6USWUlJT7azVsNCB0gYOBgYF5enuFOx-YRSZkNCb_ZzPOVCtbOC5TVVVgNSlLVFVtOy3bWCo5KSQNJir4XjC5TzGRhoSgPybzVSzhUi2mOSHwTCmFMyFlc3TSOx_uRCS-OSGHlJXHKQzyOh_sOyCrJhCcFgDxKArsMhyBNC2uMyafMid4EgD9yMXuc2znAADWIxJgUE85MTGSLSdLRERoSUjlGhL74uHpNi3nSEPVAAD50NDsh4diYmIyQULfX3__AAABGklEQVR4AbXM02IDQRQG4H89u-E0Zhnbtp28_8PUnZ7iNt94DnBVkgxCUUFpOghdB2Ew0yKZps0gQZPZJU3EJAdjJGhzutymroJzGLp542FeEmROj88fCIa8tqA3EPZFaBCSMxqLxW_vovcPj0-xWIKZJMi9yXhKSCe9Mggtk819yWeDGijTWSgKJWYDoVjlSlWolYOcBIP1RrPVbLZeve7NtjMEQQ50ur1af9B7NexXet0RKfWy8WQ6my9eo8vVejOdjJ02EdQ4sN1Nu5tX3eluC3BNBHW82U83h81museb7yCzNJsCbKaHw3QDKDbNYiDUoBfHw-l0OMIbUvGbcYZyuSg4G_gHP4PZcOYgaGtJChqgCIMxA9f3AqqpJq6lp9TQAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.drinkfox.com/tools/bac-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.drinkfox.com%2Ftools%2Fbac-calculator",
+      "source": "DrinkFox"
+    },
+    {
+      "position": 6,
+      "title": "BAC Estimator :: Center on Alcohol, Substance use, And ...",
+      "link": "https://casaa.unm.edu/tools/baccalc.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://casaa.unm.edu/tools/baccalc.html&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQFnoECBoQAQ",
+      "displayed_link": "https://casaa.unm.edu › tools › baccalc",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAkFBMVEX____vxM7hlKbuv8vkm6zbfJK5AAC-ACfZdYvsu8jfiJ3DADfBADbbepHrtMLFAELAADPEAD3RT27UXXr-9PjQRGi8ABi9ACPAADC_ACvHGUr88PW9ACH55Ov76fD21uDXboXcdJDmp7bYbIfLNVq9AB3ijqXpr76_AC3loLHVX3zYZ4TJJFHmnrLzzdn33eVkQ9ETAAABTElEQVR4AdWRB5aDIBgGv9iw_IsYC-BiOunl_rdbNLr9Ahnq8OZV8ELMvB5_kiAIJhkJI8ZYFP8jI0maEb3xUcJJvpOL4ksKkWFi7ijHt6p2UvMx4L3N0UildPv-DCInynROCJ1xd9nADzWRyhalzIBkkBaZUGgFkQ59gBtSQrDlysCJJEVszaPNVrub4cObTnea7Gzv5CCPa0WW84MlsT7KZ8BOqBk1myFgB94QS5zzDZuCADgbatI-cPWFkRtbBN8DpJbs5RmgVaSu-BUcNg3J8sD6oJOCLX4Heu9bOmbUB0giH1PQ3ZhOOyC3b0sp6Bmc7jegSzW7dbCMSEcVcpHhoRTJPmCeQhVpl1sUPaoPcuC9FawPCpmjUkXPvx9YCVHgN1sjco4BnguzxR_WzdFk8zCckzk2W_zDbGfNgN3N8D_dIV2t0kOHV-MD38ofSRUnQwoAAAAASUVORK5CYII.png",
+      "snippet": "Enter your gender, your weight, the amount of time in hours that you spent drinking, the number of drinks, ounces per drink, and then select the drink from the ...",
+      "snippet_highlighted_words": [
+        "Enter your gender, your weight"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Enter your gender, your weight, the amount of time in hours that you spent drinking, the number of drinks, ounces per drink, and then select the drink from the ...",
+          "source_info_link": "https://casaa.unm.edu/tools/baccalc.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAkFBMVEX____vxM7hlKbuv8vkm6zbfJK5AAC-ACfZdYvsu8jfiJ3DADfBADbbepHrtMLFAELAADPEAD3RT27UXXr-9PjQRGi8ABi9ACPAADC_ACvHGUr88PW9ACH55Ov76fD21uDXboXcdJDmp7bYbIfLNVq9AB3ijqXpr76_AC3loLHVX3zYZ4TJJFHmnrLzzdn33eVkQ9ETAAABTElEQVR4AdWRB5aDIBgGv9iw_IsYC-BiOunl_rdbNLr9Ahnq8OZV8ELMvB5_kiAIJhkJI8ZYFP8jI0maEb3xUcJJvpOL4ksKkWFi7ijHt6p2UvMx4L3N0UildPv-DCInynROCJ1xd9nADzWRyhalzIBkkBaZUGgFkQ59gBtSQrDlysCJJEVszaPNVrub4cObTnea7Gzv5CCPa0WW84MlsT7KZ8BOqBk1myFgB94QS5zzDZuCADgbatI-cPWFkRtbBN8DpJbs5RmgVaSu-BUcNg3J8sD6oJOCLX4Heu9bOmbUB0giH1PQ3ZhOOyC3b0sp6Bmc7jegSzW7dbCMSEcVcpHhoRTJPmCeQhVpl1sUPaoPcuC9FawPCpmjUkXPvx9YCVHgN1sjco4BnguzxR_WzdFk8zCckzk2W_zDbGfNgN3N8D_dIV2t0kOHV-MD38ofSRUnQwoAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://casaa.unm.edu/tools/baccalc.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcasaa.unm.edu%2Ftools%2Fbaccalc.html",
+      "source": "unm casaa",
+      "read_more_link": "https://casaa.unm.edu/tools/baccalc.html#:~:text=Enter%20your%20gender%2C%20your%20weight%2C,drink%20from%20the%20drop%2Ddown%20menu."
+    },
+    {
+      "position": 7,
+      "title": "BAC Calculator - Indiana University Indianapolis",
+      "link": "https://alcohol.indianapolis.iu.edu/calculators/bac.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alcohol.indianapolis.iu.edu/calculators/bac.html&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQFnoECBkQAQ",
+      "displayed_link": "https://alcohol.indianapolis.iu.edu › Calculators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAMFBMVEVHcEyYAACZAACYAACZAACaAACZAACZAACZAACZAACdAACWAACZAACaAACZAACYAAAv7H4OAAAAEHRSTlMAQf8ifMAYqfXTAy3eXkdPFoNOMQAAAJxJREFUeAFjAANGJSAQADNxCDC7KimFJDAgARYlJQc4OzQ0NAQk4ApkgETZgdpVQQJBQEYBSEUEUD9IAGhOK1ifpJKSFUhgsZLSxAUggZ1KSgkgATYlpdkMQ18gNEZJ6WgoQgAKYAJrm2B8jVtgAS4PmEALNFR5OzqAijo6Oi5ABbje__-upFT__98CjGjALcB2XUmpNgEjbokUAADXsktGOrWzCQAAAABJRU5ErkJggg.png",
+      "snippet": "(Dose in grams/(Body weight in grams x Distribution ratio \"r\"))x100 where r(male)=.68 r(female)=.55 and assuming an average constant rate of -0.016 BAC per hour ...",
+      "snippet_highlighted_words": [
+        "weight",
+        "BAC"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "(Dose in grams/(Body weight in grams x Distribution ratio \"r\"))x100 where r(male)=.68 r(female)=.55 and assuming an average constant rate of -0.016 BAC per hour ...",
+          "source_info_link": "https://alcohol.indianapolis.iu.edu/calculators/bac.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAMFBMVEVHcEyYAACZAACYAACZAACaAACZAACZAACZAACZAACdAACWAACZAACaAACZAACYAAAv7H4OAAAAEHRSTlMAQf8ifMAYqfXTAy3eXkdPFoNOMQAAAJxJREFUeAFjAANGJSAQADNxCDC7KimFJDAgARYlJQc4OzQ0NAQk4ApkgETZgdpVQQJBQEYBSEUEUD9IAGhOK1ifpJKSFUhgsZLSxAUggZ1KSgkgATYlpdkMQ18gNEZJ6WgoQgAKYAJrm2B8jVtgAS4PmEALNFR5OzqAijo6Oi5ABbje__-upFT__98CjGjALcB2XUmpNgEjbokUAADXsktGOrWzCQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://alcohol.indianapolis.iu.edu/calculators/bac.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Falcohol.indianapolis.iu.edu%2Fcalculators%2Fbac.html",
+      "source": "iu.edu",
+      "read_more_link": "https://alcohol.indianapolis.iu.edu/calculators/bac.html#:~:text=(Dose%20in%20grams%2F(Body%20weight%20in,of%20%2D0.016%20BAC%20per%20hour."
+    },
+    {
+      "position": 8,
+      "title": "Blood Alcohol Content (BAC) Calculator | Stonewall Institute",
+      "link": "https://www.stonewallinstitute.com/bac-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.stonewallinstitute.com/bac-calculator/&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQFnoECBcQAQ",
+      "displayed_link": "https://www.stonewallinstitute.com › bac-calculator",
+      "favicon": "https://serpapi.com/searches/6a3a18ca71577fa32ac0fb57/images/2tPrMgoOR_kjqXbtif-kBPgTdltHuwreOg1l0Gn0p_A.jpeg",
+      "snippet": "You can use a BAC calculator to estimate the volume of alcohol per 100 ml of blood based on factors like weight, gender, and drink consumption.",
+      "snippet_highlighted_words": [
+        "estimate the volume of alcohol per 100 ml of blood"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You can use a BAC calculator to estimate the volume of alcohol per 100 ml of blood based on factors like weight, gender, and drink consumption.",
+          "source_info_link": "https://www.stonewallinstitute.com/bac-calculator/",
+          "icon": "https://serpapi.com/searches/6a3a18ca71577fa32ac0fb57/images/2tPrMgoOR_kjqXbtif-kBMVmCj2Qqw03kDj7BnvCaFVgJirokMJN7zmQxM9SmCer.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.stonewallinstitute.com/bac-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.stonewallinstitute.com%2Fbac-calculator%2F",
+      "source": "stonewallinstitute.com"
+    },
+    {
+      "position": 9,
+      "title": "Blood Alcohol Calculator (BAC) app – wine, beer, and ...",
+      "link": "https://globalrph.com/medcalcs/blood-alcohol-calculator-bac-metric-of-alcohol-intoxication/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://globalrph.com/medcalcs/blood-alcohol-calculator-bac-metric-of-alcohol-intoxication/&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQFnoECEoQAQ",
+      "displayed_link": "https://globalrph.com › medcalcs › blood-alcohol-calcula...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEX_AAD_AAD_AAD_AAD_Skr_jo7_mZn_e3v_MTH_T0__a2v_Gxv_DAz_W1v_qqr_____hIT_5ub_2Nj_9PT_QED_Jib_zs7_wsJQel3OAAAAA3RSTlMCfOYzEWEHAAAA30lEQVR4AeTPRWLAIBQEUJJJ8DA4979pP9VN5QCdCPYwpY4TP-Y8ZBy_5lDn7-BU-CP_CFy3NhbWGOMAeGN8QHwuyM9tkCjJeFgKE1Bbbc123oClFmDo4zBBwCU2YM49YJmBIUrFloAdx477DUQmSyNAlOo0GM5ZXPSuCF4zGLrButbawAm4SY1OckYBZDMInEknGijLBKDdAnpuVsAaEQI8EDdAYd9gnyGWGgVAMmi2ygJ646zU2LfwzPuQkq9bSJH1_QRYMwAf4T0kwfT9u_Cy0RQFAQSzHsHMSzD7AwBUzxUHHTWCowAAAABJRU5ErkJggg.png",
+      "date": "Sep 7, 2017",
+      "snippet": "An individual's BAC depends upon that person's gender, weight, metabolism, time period over which the alcohol was consumed and the amount of ...",
+      "snippet_highlighted_words": [
+        "An individual's BAC depends upon that person's gender, weight"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "An individual's BAC depends upon that person's gender, weight, metabolism, time period over which the alcohol was consumed and the amount of ...",
+          "source_info_link": "https://globalrph.com/medcalcs/blood-alcohol-calculator-bac-metric-of-alcohol-intoxication/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEX_AAD_AAD_AAD_AAD_Skr_jo7_mZn_e3v_MTH_T0__a2v_Gxv_DAz_W1v_qqr_____hIT_5ub_2Nj_9PT_QED_Jib_zs7_wsJQel3OAAAAA3RSTlMCfOYzEWEHAAAA30lEQVR4AeTPRWLAIBQEUJJJ8DA4979pP9VN5QCdCPYwpY4TP-Y8ZBy_5lDn7-BU-CP_CFy3NhbWGOMAeGN8QHwuyM9tkCjJeFgKE1Bbbc123oClFmDo4zBBwCU2YM49YJmBIUrFloAdx477DUQmSyNAlOo0GM5ZXPSuCF4zGLrButbawAm4SY1OckYBZDMInEknGijLBKDdAnpuVsAaEQI8EDdAYd9gnyGWGgVAMmi2ygJ646zU2LfwzPuQkq9bSJH1_QRYMwAf4T0kwfT9u_Cy0RQFAQSzHsHMSzD7AwBUzxUHHTWCowAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://globalrph.com/medcalcs/blood-alcohol-calculator-bac-metric-of-alcohol-intoxication/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fglobalrph.com%2Fmedcalcs%2Fblood-alcohol-calculator-bac-metric-of-alcohol-intoxication%2F",
+      "source": "GlobalRPH",
+      "read_more_link": "https://globalrph.com/medcalcs/blood-alcohol-calculator-bac-metric-of-alcohol-intoxication/#:~:text=An%20individual's%20BAC%20depends%20upon,the%20stomach%20prior%20to%20drinking."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Most accurate BAC calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Most+accurate+BAC+calculator&sa=X&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Most+accurate+BAC+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Time to zero BAC calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Time+to+zero+BAC+calculator&sa=X&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Time+to+zero+BAC+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Body weight alcohol tolerance calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Body+weight+alcohol+tolerance+calculator&sa=X&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Body+weight+alcohol+tolerance+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "BAC chart",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=BAC+chart&sa=X&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAC+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "BAC calculator Female",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=BAC+calculator+Female&sa=X&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAC+calculator+Female"
+    },
+    {
+      "block_position": 1,
+      "query": "BAC calculator time since last drink",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=BAC+calculator+time+since+last+drink&sa=X&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=BAC+calculator+time+since+last+drink"
+    },
+    {
+      "block_position": 1,
+      "query": "Alcohol calculator driving",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Alcohol+calculator+driving&sa=X&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Alcohol+calculator+driving"
+    },
+    {
+      "block_position": 1,
+      "query": "Alcohol org BAC calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Alcohol+org+BAC+calculator&sa=X&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Alcohol+org+BAC+calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=blood+alcohol+calculator+weight+gender&sca_esv=bbb7d61e8d3bb37e&ei=yxg6auLMBr7qmLQP8-zhqQY&start=10&sa=N&sstk=AU9db-DgZGtdJliXngyOF3e-blEd9mFHVktMEM5ZZi48Ixr6Iq3fySgJac6ypmhDDj7gx1WE9wgMbHEYpjqFINe_nFT7LPOlEnVgyw&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ8NMDegQINhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=blood+alcohol+calculator+weight+gender&sca_esv=bbb7d61e8d3bb37e&ei=yxg6auLMBr7qmLQP8-zhqQY&start=10&sa=N&sstk=AU9db-DgZGtdJliXngyOF3e-blEd9mFHVktMEM5ZZi48Ixr6Iq3fySgJac6ypmhDDj7gx1WE9wgMbHEYpjqFINe_nFT7LPOlEnVgyw&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ8tMDegQINhAE",
+      "3": "https://www.google.com/search?q=blood+alcohol+calculator+weight+gender&sca_esv=bbb7d61e8d3bb37e&ei=yxg6auLMBr7qmLQP8-zhqQY&start=20&sa=N&sstk=AU9db-DgZGtdJliXngyOF3e-blEd9mFHVktMEM5ZZi48Ixr6Iq3fySgJac6ypmhDDj7gx1WE9wgMbHEYpjqFINe_nFT7LPOlEnVgyw&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ8tMDegQINhAG",
+      "4": "https://www.google.com/search?q=blood+alcohol+calculator+weight+gender&sca_esv=bbb7d61e8d3bb37e&ei=yxg6auLMBr7qmLQP8-zhqQY&start=30&sa=N&sstk=AU9db-DgZGtdJliXngyOF3e-blEd9mFHVktMEM5ZZi48Ixr6Iq3fySgJac6ypmhDDj7gx1WE9wgMbHEYpjqFINe_nFT7LPOlEnVgyw&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ8tMDegQINhAI",
+      "5": "https://www.google.com/search?q=blood+alcohol+calculator+weight+gender&sca_esv=bbb7d61e8d3bb37e&ei=yxg6auLMBr7qmLQP8-zhqQY&start=40&sa=N&sstk=AU9db-DgZGtdJliXngyOF3e-blEd9mFHVktMEM5ZZi48Ixr6Iq3fySgJac6ypmhDDj7gx1WE9wgMbHEYpjqFINe_nFT7LPOlEnVgyw&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ8tMDegQINhAK",
+      "6": "https://www.google.com/search?q=blood+alcohol+calculator+weight+gender&sca_esv=bbb7d61e8d3bb37e&ei=yxg6auLMBr7qmLQP8-zhqQY&start=50&sa=N&sstk=AU9db-DgZGtdJliXngyOF3e-blEd9mFHVktMEM5ZZi48Ixr6Iq3fySgJac6ypmhDDj7gx1WE9wgMbHEYpjqFINe_nFT7LPOlEnVgyw&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ8tMDegQINhAM",
+      "7": "https://www.google.com/search?q=blood+alcohol+calculator+weight+gender&sca_esv=bbb7d61e8d3bb37e&ei=yxg6auLMBr7qmLQP8-zhqQY&start=60&sa=N&sstk=AU9db-DgZGtdJliXngyOF3e-blEd9mFHVktMEM5ZZi48Ixr6Iq3fySgJac6ypmhDDj7gx1WE9wgMbHEYpjqFINe_nFT7LPOlEnVgyw&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ8tMDegQINhAO",
+      "8": "https://www.google.com/search?q=blood+alcohol+calculator+weight+gender&sca_esv=bbb7d61e8d3bb37e&ei=yxg6auLMBr7qmLQP8-zhqQY&start=70&sa=N&sstk=AU9db-DgZGtdJliXngyOF3e-blEd9mFHVktMEM5ZZi48Ixr6Iq3fySgJac6ypmhDDj7gx1WE9wgMbHEYpjqFINe_nFT7LPOlEnVgyw&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ8tMDegQINhAQ",
+      "9": "https://www.google.com/search?q=blood+alcohol+calculator+weight+gender&sca_esv=bbb7d61e8d3bb37e&ei=yxg6auLMBr7qmLQP8-zhqQY&start=80&sa=N&sstk=AU9db-DgZGtdJliXngyOF3e-blEd9mFHVktMEM5ZZi48Ixr6Iq3fySgJac6ypmhDDj7gx1WE9wgMbHEYpjqFINe_nFT7LPOlEnVgyw&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ8tMDegQINhAS",
+      "10": "https://www.google.com/search?q=blood+alcohol+calculator+weight+gender&sca_esv=bbb7d61e8d3bb37e&ei=yxg6auLMBr7qmLQP8-zhqQY&start=90&sa=N&sstk=AU9db-DgZGtdJliXngyOF3e-blEd9mFHVktMEM5ZZi48Ixr6Iq3fySgJac6ypmhDDj7gx1WE9wgMbHEYpjqFINe_nFT7LPOlEnVgyw&ved=2ahUKEwii3sTmz5yVAxU-NYYAHXN2OGUQ8tMDegQINhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=blood+alcohol+calculator+weight+gender&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=blood+alcohol+calculator+weight+gender&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=blood+alcohol+calculator+weight+gender&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=blood+alcohol+calculator+weight+gender&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=blood+alcohol+calculator+weight+gender&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=blood+alcohol+calculator+weight+gender&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=blood+alcohol+calculator+weight+gender&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=blood+alcohol+calculator+weight+gender&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=blood+alcohol+calculator+weight+gender&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=blood+alcohol+calculator+weight+gender&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=blood+alcohol+calculator+weight+gender&start=90"
+    }
+  }
+}

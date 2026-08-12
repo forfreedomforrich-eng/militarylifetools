@@ -1,0 +1,414 @@
+{
+  "search_metadata": {
+    "id": "6a3a19510e4be0fee2cd703c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/xviBOsO8b1RLw-rZ2hAYeg/6a3a19510e4be0fee2cd703c.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/xviBOsO8b1RLw-rZ2hAYeg/6a3a19510e4be0fee2cd703c.json_with_pixel_position",
+    "created_at": "2026-06-23 05:27:45 UTC",
+    "processed_at": "2026-06-23 05:27:45 UTC",
+    "google_url": "https://www.google.com/search?q=401k+calculator+contribution+limit+2026&oq=401k+calculator+contribution+limit+2026&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/xviBOsO8b1RLw-rZ2hAYeg/6a3a19510e4be0fee2cd703c.html",
+    "total_time_taken": 1.13
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "401k calculator contribution limit 2026",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "401k calculator contribution limit 2026",
+    "total_results": 97,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What are the projected 401K contribution limits for 2026?",
+      "type": "ai_overview",
+      "page_token": "TegnrXicHdBdbpswAABg7TJ9bDDQTI0UTXL4SVFwi8E25mUyNoSADV5gScvbrrAz7FQ9TaV9R_j-_NOXcfj89rdbFjvvNpv7_f54nqazbh7lZDZi_hjlRgqtayGH3fb7Fvxo5T68SXi4SpgRa2mAnZySdxxznwbpXQ3vN65thEqYNoN64zR5kSwKFO22nHVjHSfHdD1_vMbPttFwQjQZal2FaYAZiTtSenhpNDoJd_KwUW3qIFO5wOJjtKgQQTJm64mBQJnKRwGchJdscQ9_1QdA2QXcVIhbTCSQIWapa3_LWGWF1k-kT3JeVr7wJp8MtM-9qGLHbm4IWFlPZ1REJxF1cR4_X_M-4ny0a031yI2G1KOcHYBPTOSFnaLEzC4vuVuEi1bMXkmos9SDnJYIIjhdMoJX2WtDGMISYFg4uGAE9WIATLmdLl0rhFYOIYlDsodW3vbew__r_c_WLDt7nc5fvW2MwA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TegnrXicHdBdbpswAABg7TJ9bDDQTI0UTXL4SVFwi8E25mUyNoSADV5gScvbrrAz7FQ9TaV9R_j-_NOXcfj89rdbFjvvNpv7_f54nqazbh7lZDZi_hjlRgqtayGH3fb7Fvxo5T68SXi4SpgRa2mAnZySdxxznwbpXQ3vN65thEqYNoN64zR5kSwKFO22nHVjHSfHdD1_vMbPttFwQjQZal2FaYAZiTtSenhpNDoJd_KwUW3qIFO5wOJjtKgQQTJm64mBQJnKRwGchJdscQ9_1QdA2QXcVIhbTCSQIWapa3_LWGWF1k-kT3JeVr7wJp8MtM-9qGLHbm4IWFlPZ1REJxF1cR4_X_M-4ny0a031yI2G1KOcHYBPTOSFnaLEzC4vuVuEi1bMXkmos9SDnJYIIjhdMoJX2WtDGMISYFg4uGAE9WIATLmdLl0rhFYOIYlDsodW3vbew__r_c_WLDt7nc5fvW2MwA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FNXlVMU0wY21scVVWaHFSMXBXVUZCWFExQkJVM014V0dsalNUTTJjRFIzT1RkMmMyTlNkM2RtTkZkV01qWXRkek0xVERnMWRuVTRPSHA0UzFoQ1EybEVjbTlTTXpoUmRYRlZha2xDV1VWS1JWa3dhRXBFWms4M2R4SVhWVkpyTm1GMk5reExaWFZxYTFCSlVETndXRlZ6UVRRYUlrRkVjM0k1WmxGbGIyUm1ReTEwYWs1aVNtcHliRFJTWWxGNk9VSXpWelJOU21jIiwiZmN2IjoiMyIsImVpIjoiVVJrNmF2NkxLZXVqa1BJUDNwWFVzQTQiLCJxYyI6IkNpYzBNREZySUdOaGJHTjFiR0YwYjNJZ1kyOXVkSEpwWW5WMGFXOXVJR3hwYldsMElESXdNallRQUgxXzNEZ18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBwcm9qZWN0ZWQgNDAxSyBjb250cmlidXRpb24gbGltaXRzIGZvciAyMDI2PyIsImxrIjoiR2pkM2FHRjBJR2x6SUhSb1pTQndjbTlxWldOMFpXUWdOREF4YXlCamIyNTBjbWxpZFhScGIyNGdiR2x0YVhSeklHWnZjaUF5TURJMiIsImJzIjoiYzMyUXNVN0RNQkJBeGVxSk9WTEZEUjFMdWJpSXFsUEVWcWtUVS1lTGU4VkhFaHM1cGxiX3Z0Z1NwVUNGSlNfV3ZTZV9Vd2UxMmxxS1FJRWhXb2IzNE5fWVJON0JJOVliTU43RklPMUhGTy1nbDBIaUNIc2ZRS04tYXZTcVdxWU15X2lYN2Y1bEZhdDY3Uk1NNUk3d1BIQVFRMjRFU3dlR2FUMUR4SHhCWEJaTEtKOXBORlp6LXdYUmJ3akwtWUYweWlnc2VVbjZIcWFMYjIycGF4bVNEOUhtQjQxd1pBcGpveC1xLTNSbUZtZHJhYnBHcUJjMTMxNnNvYWdIZmlWb3lYUTdfNWxjNmk4V2QxZE5pdTdhVko2NHZUa0IiLCJpZCI6ImZjX1VSazZhdjZMS2V1amtQSVAzcFhVc0E0XzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FNXlVMU0wY21scVVWaHFSMXBXVUZCWFExQkJVM014V0dsalNUTTJjRFIzT1RkMmMyTlNkM2RtTkZkV01qWXRkek0xVERnMWRuVTRPSHA0UzFoQ1EybEVjbTlTTXpoUmRYRlZha2xDV1VWS1JWa3dhRXBFWms4M2R4SVhWVkpyTm1GMk5reExaWFZxYTFCSlVETndXRlZ6UVRRYUlrRkVjM0k1WmxGbGIyUm1ReTEwYWs1aVNtcHliRFJTWWxGNk9VSXpWelJOU21jIiwiZmN2IjoiMyIsImVpIjoiVVJrNmF2NkxLZXVqa1BJUDNwWFVzQTQiLCJxYyI6IkNpYzBNREZySUdOaGJHTjFiR0YwYjNJZ1kyOXVkSEpwWW5WMGFXOXVJR3hwYldsMElESXdNallRQUgxXzNEZ18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBwcm9qZWN0ZWQgNDAxSyBjb250cmlidXRpb24gbGltaXRzIGZvciAyMDI2PyIsImxrIjoiR2pkM2FHRjBJR2x6SUhSb1pTQndjbTlxWldOMFpXUWdOREF4YXlCamIyNTBjbWxpZFhScGIyNGdiR2x0YVhSeklHWnZjaUF5TURJMiIsImJzIjoiYzMyUXNVN0RNQkJBeGVxSk9WTEZEUjFMdWJpSXFsUEVWcWtUVS1lTGU4VkhFaHM1cGxiX3Z0Z1NwVUNGSlNfV3ZTZV9Vd2UxMmxxS1FJRWhXb2IzNE5fWVJON0JJOVliTU43RklPMUhGTy1nbDBIaUNIc2ZRS04tYXZTcVdxWU15X2lYN2Y1bEZhdDY3Uk1NNUk3d1BIQVFRMjRFU3dlR2FUMUR4SHhCWEJaTEtKOXBORlp6LXdYUmJ3akwtWUYweWlnc2VVbjZIcWFMYjIycGF4bVNEOUhtQjQxd1pBcGpveC1xLTNSbUZtZHJhYnBHcUJjMTMxNnNvYWdIZmlWb3lYUTdfNWxjNmk4V2QxZE5pdTdhVko2NHZUa0IiLCJpZCI6ImZjX1VSazZhdjZMS2V1amtQSVAzcFhVc0E0XzUifQ%3D%3D"
+    },
+    {
+      "question": "How many Americans have $1,000,000 in their 401K?",
+      "type": "ai_overview",
+      "page_token": "Kn3iEnicHdBLbuIwAABQzWW6LHFcOgIJVTXEDG5tGuMPzmaUOEAgthNBlLTZ9Qo9Q0_V04w07wjv89udQ_3z66vquvY2n0yGYbg_Nc3JHe5t4yf57SPYic2dK3Jbzx9_P4Kno10kvUXLq0WpbFu14pFYgn7nGUw13hSOUeGqbVFP3RZnSO3xZrfmwJ6BSffPo1hjmEqCcpg9aE0yIVivLrwRFzxNNf8jZBW4nEHpkM9DpUSokiJmy1JwXK5nFxUDvcXE57oNDLKYC6YOuH7PRw5etdoax2kByduurlAWs8DkrBECvaSBtGI8PZiaHUsNoIjwRoWMFIC_H0KVmZr0ArarMiJvVJDNzruRR11OPXgxckpV1K4YToekKpX0t9jsTSySzpW6vcrEpRQio_YMMdScU8lHe3Fe4WdAo8pnyo0FRs2rll3pXEcdodLjmq6YyYa7o-0X8O7_9eLv0Xfz9tqc_gGzcIu2",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Kn3iEnicHdBLbuIwAABQzWW6LHFcOgIJVTXEDG5tGuMPzmaUOEAgthNBlLTZ9Qo9Q0_V04w07wjv89udQ_3z66vquvY2n0yGYbg_Nc3JHe5t4yf57SPYic2dK3Jbzx9_P4Kno10kvUXLq0WpbFu14pFYgn7nGUw13hSOUeGqbVFP3RZnSO3xZrfmwJ6BSffPo1hjmEqCcpg9aE0yIVivLrwRFzxNNf8jZBW4nEHpkM9DpUSokiJmy1JwXK5nFxUDvcXE57oNDLKYC6YOuH7PRw5etdoax2kByduurlAWs8DkrBECvaSBtGI8PZiaHUsNoIjwRoWMFIC_H0KVmZr0ArarMiJvVJDNzruRR11OPXgxckpV1K4YToekKpX0t9jsTSySzpW6vcrEpRQio_YMMdScU8lHe3Fe4WdAo8pnyo0FRs2rll3pXEcdodLjmq6YyYa7o-0X8O7_9eLv0Xfz9tqc_gGzcIu2",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FNXlVMU0wY21scVVWaHFSMXBXVUZCWFExQkJVM014V0dsalNUTTJjRFIzT1RkMmMyTlNkM2RtTkZkV01qWXRkek0xVERnMWRuVTRPSHA0UzFoQ1EybEVjbTlTTXpoUmRYRlZha2xDV1VWS1JWa3dhRXBFWms4M2R4SVhWVkpyTm1GMk5reExaWFZxYTFCSlVETndXRlZ6UVRRYUlrRkVjM0k1WmxGbGIyUm1ReTEwYWs1aVNtcHliRFJTWWxGNk9VSXpWelJOU21jIiwiZmN2IjoiMyIsImVpIjoiVVJrNmF2NkxLZXVqa1BJUDNwWFVzQTQiLCJxYyI6IkNpYzBNREZySUdOaGJHTjFiR0YwYjNJZ1kyOXVkSEpwWW5WMGFXOXVJR3hwYldsMElESXdNallRQUgxXzNEZ18iLCJxdWVzdGlvbiI6IkhvdyBtYW55IEFtZXJpY2FucyBoYXZlICQxLDAwMCwwMDAgaW4gdGhlaXIgNDAxSz8iLCJsayI6ImM1UFN5OGd2VjhoTnpLdFVTTXhOTGNwTVRzd3JWc2hJTEV0VlVERTBBQU9GekR5RmtvelV6Q0lGRXdQRGJBQSIsImJzIjoiYzMyUXNVN0RNQkJBeGVxSk9WTEZEUjFMdWJpSXFsUEVWcWtUVS1lTGU4VkhFaHM1cGxiX3Z0Z1NwVUNGSlNfV3ZTZV9Vd2UxMmxxS1FJRWhXb2IzNE5fWVJON0JJOVliTU43RklPMUhGTy1nbDBIaUNIc2ZRS04tYXZTcVdxWU15X2lYN2Y1bEZhdDY3Uk1NNUk3d1BIQVFRMjRFU3dlR2FUMUR4SHhCWEJaTEtKOXBORlp6LXdYUmJ3akwtWUYweWlnc2VVbjZIcWFMYjIycGF4bVNEOUhtQjQxd1pBcGpveC1xLTNSbUZtZHJhYnBHcUJjMTMxNnNvYWdIZmlWb3lYUTdfNWxjNmk4V2QxZE5pdTdhVko2NHZUa0IiLCJpZCI6ImZjX1VSazZhdjZMS2V1amtQSVAzcFhVc0E0XzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FNXlVMU0wY21scVVWaHFSMXBXVUZCWFExQkJVM014V0dsalNUTTJjRFIzT1RkMmMyTlNkM2RtTkZkV01qWXRkek0xVERnMWRuVTRPSHA0UzFoQ1EybEVjbTlTTXpoUmRYRlZha2xDV1VWS1JWa3dhRXBFWms4M2R4SVhWVkpyTm1GMk5reExaWFZxYTFCSlVETndXRlZ6UVRRYUlrRkVjM0k1WmxGbGIyUm1ReTEwYWs1aVNtcHliRFJTWWxGNk9VSXpWelJOU21jIiwiZmN2IjoiMyIsImVpIjoiVVJrNmF2NkxLZXVqa1BJUDNwWFVzQTQiLCJxYyI6IkNpYzBNREZySUdOaGJHTjFiR0YwYjNJZ1kyOXVkSEpwWW5WMGFXOXVJR3hwYldsMElESXdNallRQUgxXzNEZ18iLCJxdWVzdGlvbiI6IkhvdyBtYW55IEFtZXJpY2FucyBoYXZlICQxLDAwMCwwMDAgaW4gdGhlaXIgNDAxSz8iLCJsayI6ImM1UFN5OGd2VjhoTnpLdFVTTXhOTGNwTVRzd3JWc2hJTEV0VlVERTBBQU9GekR5RmtvelV6Q0lGRXdQRGJBQSIsImJzIjoiYzMyUXNVN0RNQkJBeGVxSk9WTEZEUjFMdWJpSXFsUEVWcWtUVS1lTGU4VkhFaHM1cGxiX3Z0Z1NwVUNGSlNfV3ZTZV9Vd2UxMmxxS1FJRWhXb2IzNE5fWVJON0JJOVliTU43RklPMUhGTy1nbDBIaUNIc2ZRS04tYXZTcVdxWU15X2lYN2Y1bEZhdDY3Uk1NNUk3d1BIQVFRMjRFU3dlR2FUMUR4SHhCWEJaTEtKOXBORlp6LXdYUmJ3akwtWUYweWlnc2VVbjZIcWFMYjIycGF4bVNEOUhtQjQxd1pBcGpveC1xLTNSbUZtZHJhYnBHcUJjMTMxNnNvYWdIZmlWb3lYUTdfNWxjNmk4V2QxZE5pdTdhVko2NHZUa0IiLCJpZCI6ImZjX1VSazZhdjZMS2V1amtQSVAzcFhVc0E0XzUifQ%3D%3D"
+    },
+    {
+      "question": "What will $300,000 in 401K be worth in 20 years?",
+      "type": "ai_overview",
+      "page_token": "YlXsinicHdBfbpswHABg7TJ9bGxIshIpmkQwdKyYAvbP4JeJ2iEQzJ8SVBbedoWdYafaaTbt4bvA9_O3afr2z6df9TyPt8NmsyzL42UYLub8qIZuU97uvdqo0pi3UrWH_ec9_lKpI_lQ7mlSbsLHEbwUZaiuSv_JlmTOAJtJkHkqCW0yTPOXDE8RcarChFfIEBJe-pVjPp_5D8banc1AV_9YEsk6EzSOn_295rqJenoCy1kF8S3W6xflpXeOw5i27Rau7Y4FT7ayHFcGu1y2Dj73GnTuxzHntspBsJXWCUqXN8-XCvsMRLFA3y4KO3Eh0JZ14RyLMVZiR89eSsCk72WD3wthvukOLQVWM-0cyVf5mvThq-AQsFVTUmvg3c0q8sJiZDZajBMnJolst4CcutQdmoSnq7qaDoLwJHn9rJC5i4DeBQHEbJlEEJLIgq22UsaTh0p9HO2H_9fH71U3H8ZpuPwFXAKKfw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YlXsinicHdBfbpswHABg7TJ9bGxIshIpmkQwdKyYAvbP4JeJ2iEQzJ8SVBbedoWdYafaaTbt4bvA9_O3afr2z6df9TyPt8NmsyzL42UYLub8qIZuU97uvdqo0pi3UrWH_ec9_lKpI_lQ7mlSbsLHEbwUZaiuSv_JlmTOAJtJkHkqCW0yTPOXDE8RcarChFfIEBJe-pVjPp_5D8banc1AV_9YEsk6EzSOn_295rqJenoCy1kF8S3W6xflpXeOw5i27Rau7Y4FT7ayHFcGu1y2Dj73GnTuxzHntspBsJXWCUqXN8-XCvsMRLFA3y4KO3Eh0JZ14RyLMVZiR89eSsCk72WD3wthvukOLQVWM-0cyVf5mvThq-AQsFVTUmvg3c0q8sJiZDZajBMnJolst4CcutQdmoSnq7qaDoLwJHn9rJC5i4DeBQHEbJlEEJLIgq22UsaTh0p9HO2H_9fH71U3H8ZpuPwFXAKKfw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FNXlVMU0wY21scVVWaHFSMXBXVUZCWFExQkJVM014V0dsalNUTTJjRFIzT1RkMmMyTlNkM2RtTkZkV01qWXRkek0xVERnMWRuVTRPSHA0UzFoQ1EybEVjbTlTTXpoUmRYRlZha2xDV1VWS1JWa3dhRXBFWms4M2R4SVhWVkpyTm1GMk5reExaWFZxYTFCSlVETndXRlZ6UVRRYUlrRkVjM0k1WmxGbGIyUm1ReTEwYWs1aVNtcHliRFJTWWxGNk9VSXpWelJOU21jIiwiZmN2IjoiMyIsImVpIjoiVVJrNmF2NkxLZXVqa1BJUDNwWFVzQTQiLCJxYyI6IkNpYzBNREZySUdOaGJHTjFiR0YwYjNJZ1kyOXVkSEpwWW5WMGFXOXVJR3hwYldsMElESXdNallRQUgxXzNEZ18iLCJxdWVzdGlvbiI6IldoYXQgd2lsbCAkMzAwLDAwMCBpbiA0MDFLIGJlIHdvcnRoIGluIDIwIHllYXJzPyIsImxrIjoiYzVQU0xjOUlMRkVvejh6SlVUQTJBQUdGekR3RkV3UERiSVdrVklYeV9LS1NESkNBa1lGQ1pXcGlVVEVBIiwiYnMiOiJjMzJRc1U3RE1CQkF4ZXFKT1ZMRkRSMUx1YmlJcWxQRVZxa1RVLWVMZThWSEVoczVwbGJfdnRnU3BVQ0ZKU19XdlNlX1V3ZTEybHFLUUlFaFdvYjM0Tl9ZUk43Qkk5WWJNTjdGSU8xSEZPLWdsMEhpQ0hzZlFLTi1hdlNxV3FZTXlfaVg3ZjVsRmF0NjdSTU01STd3UEhBUVEyNEVTd2VHYVQxRHhIeEJYQlpMS0o5cE5GWnotd1hSYndqTC1ZRjB5aWdzZVVuNkhxYUxiMjJwYXhtU0Q5SG1CNDF3WkFwam94LXEtM1JtRm1kcmFicEdxQmMxMzE2c29hZ0hmaVZveVhRN181bGM2aThXZDFkTml1N2FWSjY0dlRrQiIsImlkIjoiZmNfVVJrNmF2NkxLZXVqa1BJUDNwWFVzQTRfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FNXlVMU0wY21scVVWaHFSMXBXVUZCWFExQkJVM014V0dsalNUTTJjRFIzT1RkMmMyTlNkM2RtTkZkV01qWXRkek0xVERnMWRuVTRPSHA0UzFoQ1EybEVjbTlTTXpoUmRYRlZha2xDV1VWS1JWa3dhRXBFWms4M2R4SVhWVkpyTm1GMk5reExaWFZxYTFCSlVETndXRlZ6UVRRYUlrRkVjM0k1WmxGbGIyUm1ReTEwYWs1aVNtcHliRFJTWWxGNk9VSXpWelJOU21jIiwiZmN2IjoiMyIsImVpIjoiVVJrNmF2NkxLZXVqa1BJUDNwWFVzQTQiLCJxYyI6IkNpYzBNREZySUdOaGJHTjFiR0YwYjNJZ1kyOXVkSEpwWW5WMGFXOXVJR3hwYldsMElESXdNallRQUgxXzNEZ18iLCJxdWVzdGlvbiI6IldoYXQgd2lsbCAkMzAwLDAwMCBpbiA0MDFLIGJlIHdvcnRoIGluIDIwIHllYXJzPyIsImxrIjoiYzVQU0xjOUlMRkVvejh6SlVUQTJBQUdGekR3RkV3UERiSVdrVklYeV9LS1NESkNBa1lGQ1pXcGlVVEVBIiwiYnMiOiJjMzJRc1U3RE1CQkF4ZXFKT1ZMRkRSMUx1YmlJcWxQRVZxa1RVLWVMZThWSEVoczVwbGJfdnRnU3BVQ0ZKU19XdlNlX1V3ZTEybHFLUUlFaFdvYjM0Tl9ZUk43Qkk5WWJNTjdGSU8xSEZPLWdsMEhpQ0hzZlFLTi1hdlNxV3FZTXlfaVg3ZjVsRmF0NjdSTU01STd3UEhBUVEyNEVTd2VHYVQxRHhIeEJYQlpMS0o5cE5GWnotd1hSYndqTC1ZRjB5aWdzZVVuNkhxYUxiMjJwYXhtU0Q5SG1CNDF3WkFwam94LXEtM1JtRm1kcmFicEdxQmMxMzE2c29hZ0hmaVZveVhRN181bGM2aThXZDFkTml1N2FWSjY0dlRrQiIsImlkIjoiZmNfVVJrNmF2NkxLZXVqa1BJUDNwWFVzQTRfNSJ9"
+    },
+    {
+      "question": "What is the 401K mega backdoor limit for 2026?",
+      "type": "ai_overview",
+      "page_token": "3f6tUHicHZBLbsIwFADVy7AsOAGqIqGqAZuPiNt8np14UwU7_GwnKbiksOtdeqqepojVaJYzP79mX-m_h_POueY06nbbtn3c1vXWlI-ytt3idKlkVxbGrAupR8OnIXrZyDH-WgSTz0UQQdOwadxLCdHyzp3Os_wSWnXl82VQQJwXnqkKjYTCYhhOUCv3vUHaC69rAgM40GMyZ190HiRUu5XCLkoqSnJNfc7FMuEqVzh2YuZoWVGdkFcEzDRKC5RCfFij8LKCmFAtLPgx5N62fcuoL7CaZn4jlK9oiIIBt7qfpGrBtL6WxOgSyPt6tiTUIhr1FOPwDYU9eZnnDmWmKrxTDG5-a_FS7IzizRGwiUI_yFlGAxrU-wjiqzwYC_zZKyxDzIiIY9EXmXblvIEoo2LFB7MQCFJtZyPPY79z_zn-2Fg3ao719h8G7YMH",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3f6tUHicHZBLbsIwFADVy7AsOAGqIqGqAZuPiNt8np14UwU7_GwnKbiksOtdeqqepojVaJYzP79mX-m_h_POueY06nbbtn3c1vXWlI-ytt3idKlkVxbGrAupR8OnIXrZyDH-WgSTz0UQQdOwadxLCdHyzp3Os_wSWnXl82VQQJwXnqkKjYTCYhhOUCv3vUHaC69rAgM40GMyZ190HiRUu5XCLkoqSnJNfc7FMuEqVzh2YuZoWVGdkFcEzDRKC5RCfFij8LKCmFAtLPgx5N62fcuoL7CaZn4jlK9oiIIBt7qfpGrBtL6WxOgSyPt6tiTUIhr1FOPwDYU9eZnnDmWmKrxTDG5-a_FS7IzizRGwiUI_yFlGAxrU-wjiqzwYC_zZKyxDzIiIY9EXmXblvIEoo2LFB7MQCFJtZyPPY79z_zn-2Fg3ao719h8G7YMH",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FNXlVMU0wY21scVVWaHFSMXBXVUZCWFExQkJVM014V0dsalNUTTJjRFIzT1RkMmMyTlNkM2RtTkZkV01qWXRkek0xVERnMWRuVTRPSHA0UzFoQ1EybEVjbTlTTXpoUmRYRlZha2xDV1VWS1JWa3dhRXBFWms4M2R4SVhWVkpyTm1GMk5reExaWFZxYTFCSlVETndXRlZ6UVRRYUlrRkVjM0k1WmxGbGIyUm1ReTEwYWs1aVNtcHliRFJTWWxGNk9VSXpWelJOU21jIiwiZmN2IjoiMyIsImVpIjoiVVJrNmF2NkxLZXVqa1BJUDNwWFVzQTQiLCJxYyI6IkNpYzBNREZySUdOaGJHTjFiR0YwYjNJZ1kyOXVkSEpwWW5WMGFXOXVJR3hwYldsMElESXdNallRQUgxXzNEZ18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDQwMUsgbWVnYSBiYWNrZG9vciBsaW1pdCBmb3IgMjAyNj8iLCJsayI6IkdoMDBNREZySUcxbFoyRWdZbUZqYTJSdmIzSWdiR2x0YVhRZ01qQXlOZyIsImJzIjoiYzMyUXNVN0RNQkJBeGVxSk9WTEZEUjFMdWJpSXFsUEVWcWtUVS1lTGU4VkhFaHM1cGxiX3Z0Z1NwVUNGSlNfV3ZTZV9Vd2UxMmxxS1FJRWhXb2IzNE5fWVJON0JJOVliTU43RklPMUhGTy1nbDBIaUNIc2ZRS04tYXZTcVdxWU15X2lYN2Y1bEZhdDY3Uk1NNUk3d1BIQVFRMjRFU3dlR2FUMUR4SHhCWEJaTEtKOXBORlp6LXdYUmJ3akwtWUYweWlnc2VVbjZIcWFMYjIycGF4bVNEOUhtQjQxd1pBcGpveC1xLTNSbUZtZHJhYnBHcUJjMTMxNnNvYWdIZmlWb3lYUTdfNWxjNmk4V2QxZE5pdTdhVko2NHZUa0IiLCJpZCI6ImZjX1VSazZhdjZMS2V1amtQSVAzcFhVc0E0XzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5FNXlVMU0wY21scVVWaHFSMXBXVUZCWFExQkJVM014V0dsalNUTTJjRFIzT1RkMmMyTlNkM2RtTkZkV01qWXRkek0xVERnMWRuVTRPSHA0UzFoQ1EybEVjbTlTTXpoUmRYRlZha2xDV1VWS1JWa3dhRXBFWms4M2R4SVhWVkpyTm1GMk5reExaWFZxYTFCSlVETndXRlZ6UVRRYUlrRkVjM0k1WmxGbGIyUm1ReTEwYWs1aVNtcHliRFJTWWxGNk9VSXpWelJOU21jIiwiZmN2IjoiMyIsImVpIjoiVVJrNmF2NkxLZXVqa1BJUDNwWFVzQTQiLCJxYyI6IkNpYzBNREZySUdOaGJHTjFiR0YwYjNJZ1kyOXVkSEpwWW5WMGFXOXVJR3hwYldsMElESXdNallRQUgxXzNEZ18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDQwMUsgbWVnYSBiYWNrZG9vciBsaW1pdCBmb3IgMjAyNj8iLCJsayI6IkdoMDBNREZySUcxbFoyRWdZbUZqYTJSdmIzSWdiR2x0YVhRZ01qQXlOZyIsImJzIjoiYzMyUXNVN0RNQkJBeGVxSk9WTEZEUjFMdWJpSXFsUEVWcWtUVS1lTGU4VkhFaHM1cGxiX3Z0Z1NwVUNGSlNfV3ZTZV9Vd2UxMmxxS1FJRWhXb2IzNE5fWVJON0JJOVliTU43RklPMUhGTy1nbDBIaUNIc2ZRS04tYXZTcVdxWU15X2lYN2Y1bEZhdDY3Uk1NNUk3d1BIQVFRMjRFU3dlR2FUMUR4SHhCWEJaTEtKOXBORlp6LXdYUmJ3akwtWUYweWlnc2VVbjZIcWFMYjIycGF4bVNEOUhtQjQxd1pBcGpveC1xLTNSbUZtZHJhYnBHcUJjMTMxNnNvYWdIZmlWb3lYUTdfNWxjNmk4V2QxZE5pdTdhVko2NHZUa0IiLCJpZCI6ImZjX1VSazZhdjZMS2V1amtQSVAzcFhVc0E0XzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "I35Hc3icxVbZbupIEH2f_xheEvDGGsm6am-xYzazJIEX5C2NwcZct8HA2_zLfNVI8y_T3sAOkGiuNJpG9FJdXV3VVYfDH3-6zmb9129_L8Nwi54IIoqiGvR96No10_cIHR03JvHhuygwlz-Oe5apmIglK7bDTkfrpr5vdlV7t1oPlSGzfZ8iUK8kR9iFoSN7hS0eVohYELhb_84IeFFDNXtT45d14_Dqq4fDtEaTVKc2IHQPK4D_sIlglIwa_ih4VK404uvhN1Y0JT44Lkj4Qp-3XmpIUZKBv2uUz7zgZ7GKUJ0HdQ4IWiKTv_BiXF6-xZ0IIgC42EVRu3XmlhO5zM9G7u6N4rUoUeayu4Si-XvxcsUEa7HNSRvwl0TkIXMgjwCrQDznUosNwNWHEf_Mf5EmvLOFsrisajedLjRJFbdRNu_OnrFHhAVxEZKEEeCBIhxzaSaTAMW1yU86pC8NA2t-kIWgMX4_okAk5V3PmR92m7CnEaaB9Vxft2xrsVyQP5I1RVMNssO02o8JKEx0RgUqomLe7LmAeflgJFDr1jiqAInkMZRSzHG5cXfCU7M3_KQOUitJn71N_srTXI3zc3RkgtU6rqrZWdCOU7H8fGNs6xoSeYPFCYZE4rYyPZ8sqsdThSu4mjbhc74v6yyGGVC1c8hiweP0IcTieh0bV55zQXTeiq1CFyQQx5AQM4OD0nlYdAw_FscDMd8-exDrCOuzmph4GG_PNG0GFAlDFKcP5sFnqcSQUMpvB1allQTjLw9vAvy7xl0Sfq-JIK_9T6VcgkDLf6WlsCooU00eIPpwOsn9k3QcLAN4u-R9z_gXTGD-v6CYZjwxzZCg3gQF_AYUmiJ-yROp3xeeiGuF9--Bgs9AUeaJtHAvPHENinEZFPd5ogCK1MrXoODugiL9WbkGRcwTV6CAd0CR8kQRFGWe2JwtxxEUQPFLPKH9Ak8kGLHToUwauxW8Sx7Pe57xREGCozDUJHMlTFpe34XewVzBb8njwwufPN1yHxeO9cTRL-HRelxggf9kW5WfbJ2k1g-m7po7Vw_94MH0N2HgGLvQ8TcPruM54QNN0s2K5wY-S-oNYyrtVnxD4PX3el3snka0piv9at9beDSahfzE0zr72akBXtCagssmanEqNWyPKXvbVnQjeHP8WY-a2yPrtSVv5FZn042OzPPepMP5S5UaKWs5PHD6GE26tAkFWR1sZXqkDj3u9Nrqc7Iydc2fc3IYfDTaRuIVYieSox5IXUUwqniByWIM1CHoa-ANAhMXP9DwXymN9_E3wqmvIFNf2GjPGobRspqU3bYYw2BadsWD4XHL1qkK2gQs9Q_fdRYx",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=I35Hc3icxVbZbupIEH2f_xheEvDGGsm6am-xYzazJIEX5C2NwcZct8HA2_zLfNVI8y_T3sAOkGiuNJpG9FJdXV3VVYfDH3-6zmb9129_L8Nwi54IIoqiGvR96No10_cIHR03JvHhuygwlz-Oe5apmIglK7bDTkfrpr5vdlV7t1oPlSGzfZ8iUK8kR9iFoSN7hS0eVohYELhb_84IeFFDNXtT45d14_Dqq4fDtEaTVKc2IHQPK4D_sIlglIwa_ih4VK404uvhN1Y0JT44Lkj4Qp-3XmpIUZKBv2uUz7zgZ7GKUJ0HdQ4IWiKTv_BiXF6-xZ0IIgC42EVRu3XmlhO5zM9G7u6N4rUoUeayu4Si-XvxcsUEa7HNSRvwl0TkIXMgjwCrQDznUosNwNWHEf_Mf5EmvLOFsrisajedLjRJFbdRNu_OnrFHhAVxEZKEEeCBIhxzaSaTAMW1yU86pC8NA2t-kIWgMX4_okAk5V3PmR92m7CnEaaB9Vxft2xrsVyQP5I1RVMNssO02o8JKEx0RgUqomLe7LmAeflgJFDr1jiqAInkMZRSzHG5cXfCU7M3_KQOUitJn71N_srTXI3zc3RkgtU6rqrZWdCOU7H8fGNs6xoSeYPFCYZE4rYyPZ8sqsdThSu4mjbhc74v6yyGGVC1c8hiweP0IcTieh0bV55zQXTeiq1CFyQQx5AQM4OD0nlYdAw_FscDMd8-exDrCOuzmph4GG_PNG0GFAlDFKcP5sFnqcSQUMpvB1allQTjLw9vAvy7xl0Sfq-JIK_9T6VcgkDLf6WlsCooU00eIPpwOsn9k3QcLAN4u-R9z_gXTGD-v6CYZjwxzZCg3gQF_AYUmiJ-yROp3xeeiGuF9--Bgs9AUeaJtHAvPHENinEZFPd5ogCK1MrXoODugiL9WbkGRcwTV6CAd0CR8kQRFGWe2JwtxxEUQPFLPKH9Ak8kGLHToUwauxW8Sx7Pe57xREGCozDUJHMlTFpe34XewVzBb8njwwufPN1yHxeO9cTRL-HRelxggf9kW5WfbJ2k1g-m7po7Vw_94MH0N2HgGLvQ8TcPruM54QNN0s2K5wY-S-oNYyrtVnxD4PX3el3snka0piv9at9beDSahfzE0zr72akBXtCagssmanEqNWyPKXvbVnQjeHP8WY-a2yPrtSVv5FZn042OzPPepMP5S5UaKWs5PHD6GE26tAkFWR1sZXqkDj3u9Nrqc7Iydc2fc3IYfDTaRuIVYieSox5IXUUwqniByWIM1CHoa-ANAhMXP9DwXymN9_E3wqmvIFNf2GjPGobRspqU3bYYw2BadsWD4XHL1qkK2gQs9Q_fdRYx"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Your Contribution Maximizer",
+      "link": "https://contributionmaximizer.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://contributionmaximizer.com/&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQFnoECCEQAQ",
+      "displayed_link": "https://contributionmaximizer.com",
+      "favicon": "https://serpapi.com/searches/6a3a19510e4be0fee2cd703c/images/EZ1CUvHnvyvjPS0dC-jP0ru5ttu5SJsYR2XcpDSgLwk.png",
+      "snippet": "To maximize your contributions in 2026, consider the following contribution amounts for the remainder of the year: ; 10% on a pre-tax/Roth basis ; 20% on a catch- ...",
+      "snippet_highlighted_words": [
+        "contributions",
+        "2026",
+        "contribution"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "To maximize your contributions in 2026, consider the following contribution amounts for the remainder of the year: ; 10% on a pre-tax/Roth basis ; 20% on a catch- ...",
+          "source_info_link": "https://contributionmaximizer.com/",
+          "icon": "https://serpapi.com/searches/6a3a19510e4be0fee2cd703c/images/EZ1CUvHnvyvjPS0dC-jP0p6pCFgLS5ETcnRD7NZ4vgndUeHaEtyvJLYuEhuRImyI.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://contributionmaximizer.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcontributionmaximizer.com%2F",
+      "source": "Contribution Maximizer",
+      "read_more_link": "https://contributionmaximizer.com/#:~:text=To%20maximize%20your%20contributions%20in,the%20remainder%20of%20the%20year%3A&text=10%25%20on%20a%20pre%2Dtax%2FRoth%20basis&text=20%25%20on%20a%20catch%2Dup%20basis"
+    },
+    {
+      "position": 2,
+      "title": "401(K) Save the Max Calculator | Tools & Calculators",
+      "link": "https://max401kcalculator.nga.finra.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://max401kcalculator.nga.finra.org/&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQFnoECCAQAQ",
+      "displayed_link": "https://max401kcalculator.nga.finra.org",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3UlEQVR4Ae2VgQbCUBSGl0JQVdUo6GECMQIS9hCBVmKQQgI0gCJgLCmgh1hAFpGChCEChD-3GgcRZhecjwPg-xz3uArDMMw_AISa0HBAutZGMFmtB9WwUZ7tEV_6UBwf0jZwuD_RcDwUhlvkLFfI5QaIOV6uyc3pgdLcQ-IbQDdUbI5QNNfIWDso9u0TGcUbEBHKjwBVn6Bk2EhNXcQWZ4itRRJAI2hAtTVAxVyh0nfe8sivQETQAFXrQtXHgVzOGdKAfL1D5PIDiFx6AJXLD6By-QFCzp9RmACGYZgXCwLUhn_ujIgAAAAASUVORK5CYII.png",
+      "snippet": "Use this calculator to determine if you are on track to 'Save the Max' in your 401(k). Note: Beginning on January 1, 2026, eligible employees in qualified ...",
+      "snippet_highlighted_words": [
+        "calculator",
+        "401(k",
+        "2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this calculator to determine if you are on track to 'Save the Max' in your 401(k). Note: Beginning on January 1, 2026, eligible employees in qualified ...",
+          "source_info_link": "https://max401kcalculator.nga.finra.org/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3UlEQVR4Ae2VgQbCUBSGl0JQVdUo6GECMQIS9hCBVmKQQgI0gCJgLCmgh1hAFpGChCEChD-3GgcRZhecjwPg-xz3uArDMMw_AISa0HBAutZGMFmtB9WwUZ7tEV_6UBwf0jZwuD_RcDwUhlvkLFfI5QaIOV6uyc3pgdLcQ-IbQDdUbI5QNNfIWDso9u0TGcUbEBHKjwBVn6Bk2EhNXcQWZ4itRRJAI2hAtTVAxVyh0nfe8sivQETQAFXrQtXHgVzOGdKAfL1D5PIDiFx6AJXLD6By-QFCzp9RmACGYZgXCwLUhn_ujIgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://max401kcalculator.nga.finra.org/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmax401kcalculator.nga.finra.org%2F",
+      "source": "FINRA",
+      "read_more_link": "https://max401kcalculator.nga.finra.org/#:~:text=Use%20this%20calculator%20to%20determine,2026%2C%20eligible%20employees%20in%20qualified"
+    },
+    {
+      "position": 3,
+      "title": "401(k) contribution limits 2026",
+      "link": "https://www.fidelity.com/learning-center/smart-money/401k-contribution-limits",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fidelity.com/learning-center/smart-money/401k-contribution-limits&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQFnoECCYQAQ",
+      "displayed_link": "https://www.fidelity.com › learning-center › smart-money",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz________3-vb4-vf4-_f0-PT8_vva6NjD27-OuodloVo_jTEhgAgwhR-awZPQ4s3____c69moyKIpghVLkz41hyZ1q2y10LDC2r-Ds3tWmUrN4Mna6Nfp8ef8_vzz-PL7_fr____w9vD___80m3RzAAAAJXRSTlMABRZPi7PJNaH-_________x2C_v______tv__v___O____8rJ_wmpQAAAAadJREFUeAFUkkeCwyAMAF3SQLIgBoQCcd3__3Gx0-c6oF69qJv2cDydjoe2qatf6vNFacCOEIy9nH_0tXfgfUBmRk9R-uvHnW-JiAkycwBiInM_v90dKIQiI3JORQYfX_Z6A-JQ_gaHnCL5GJjjfY9c95GYOZoOh4CSfdTITLqvt6Buq4SyxG6MeSRQQFtdMpWPl0wYY_DahsGZIVhDlAEYLnXVSMfstUtZiR2sFZuzNkDsVVO1yRNRF5XIOI_LPDujBInZm7Y6ZIQIoQsyLota13kctO-2D3CojowBtBoHO6_OrsWKcSIaEI_VX8fMiGCGdYR53aw1EBDZn6o__5JLSsv-MyMT8SaPyHtYpVRWS2EeR5XKV8bjo6CMXRaTjXNOlM6gTQxcCmr1o5VBCJyIEzs79p6QdFs1yjP7ZF3uZN2ZrWLibQj7-EgbYAp2fWCSZKIyvn3wOSMxxfEpZwwx74MvK0uemNm79YXqiFJfv5fNHNT6Bjzcrq8Tgu-ohQFu568D82TWL-7FvWh6ierLHa4_Rz1d5pdZjtP_oIkaNTuoqKBkBwCc8jMtTOktcQAAAABJRU5ErkJggg.png",
+      "snippet": "For tax year 2026, the most you can contribute to a Roth 401(k), a traditional 401(k), or a combination of the two is $24,500. Those 50 and older can contribute ...",
+      "snippet_highlighted_words": [
+        "24,500"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "For tax year 2026, the most you can contribute to a Roth 401(k), a traditional 401(k), or a combination of the two is $24,500. Those 50 and older can contribute ...",
+          "source_info_link": "https://www.fidelity.com/learning-center/smart-money/401k-contribution-limits",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz________3-vb4-vf4-_f0-PT8_vva6NjD27-OuodloVo_jTEhgAgwhR-awZPQ4s3____c69moyKIpghVLkz41hyZ1q2y10LDC2r-Ds3tWmUrN4Mna6Nfp8ef8_vzz-PL7_fr____w9vD___80m3RzAAAAJXRSTlMABRZPi7PJNaH-_________x2C_v______tv__v___O____8rJ_wmpQAAAAadJREFUeAFUkkeCwyAMAF3SQLIgBoQCcd3__3Gx0-c6oF69qJv2cDydjoe2qatf6vNFacCOEIy9nH_0tXfgfUBmRk9R-uvHnW-JiAkycwBiInM_v90dKIQiI3JORQYfX_Z6A-JQ_gaHnCL5GJjjfY9c95GYOZoOh4CSfdTITLqvt6Buq4SyxG6MeSRQQFtdMpWPl0wYY_DahsGZIVhDlAEYLnXVSMfstUtZiR2sFZuzNkDsVVO1yRNRF5XIOI_LPDujBInZm7Y6ZIQIoQsyLota13kctO-2D3CojowBtBoHO6_OrsWKcSIaEI_VX8fMiGCGdYR53aw1EBDZn6o__5JLSsv-MyMT8SaPyHtYpVRWS2EeR5XKV8bjo6CMXRaTjXNOlM6gTQxcCmr1o5VBCJyIEzs79p6QdFs1yjP7ZF3uZN2ZrWLibQj7-EgbYAp2fWCSZKIyvn3wOSMxxfEpZwwx74MvK0uemNm79YXqiFJfv5fNHNT6Bjzcrq8Tgu-ohQFu568D82TWL-7FvWh6ierLHa4_Rz1d5pdZjtP_oIkaNTuoqKBkBwCc8jMtTOktcQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fidelity.com/learning-center/smart-money/401k-contribution-limits&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fidelity.com%2Flearning-center%2Fsmart-money%2F401k-contribution-limits",
+      "source": "Fidelity",
+      "read_more_link": "https://www.fidelity.com/learning-center/smart-money/401k-contribution-limits#:~:text=For%20tax%20year%202026%2C%20the,an%20additional%20%248%2C000%20in%202026."
+    },
+    {
+      "position": 4,
+      "title": "401(k) Calculator",
+      "link": "https://www.federatedhermes.com/us/calculators/Retire401k.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.federatedhermes.com/us/calculators/Retire401k.html&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQFnoECCUQAQ",
+      "displayed_link": "https://www.federatedhermes.com › Retire401k",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEX____y-v3t9_zQ6fcAm94Amt5Ar-QAoN8AouBvvegAnd83reT4-fuAxutZt-dhu-gAn99RtObj8vogp-Kl1fCTzO2Hx-y63_TY7fnZ7vnh4-rFydarsMQAAFMAAF5DT4AAGWYBImkAAFiIj6wZMHC2uss8LCkmAAAAhklEQVR4Aa3QQwIEUQwA0bRt2_c_4hj5GTTftnYFu3EsHiVBJCQUZUVlKAqKmq4wdANF09IYFg9H4G35xXBItHXlxbVJ9Fz1xdVI9AP3xfDhMGF0FQvfmiW5V1JCAxqvf42JpF-IKgff8Gl2ARvkRWH-amVVVz9j03b9zzj09Qg_TaUJRzoDsXII2gz11R4AAAAASUVORK5CYII.png",
+      "snippet": "... 401(k) plan each year. Your annual 401(k) contribution is subject to maximum limits established by the IRS. The annual maximum for 2026 is $24,500. If you ...",
+      "snippet_highlighted_words": [
+        "The annual maximum for 2026 is $24,500"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... 401(k) plan each year. Your annual 401(k) contribution is subject to maximum limits established by the IRS. The annual maximum for 2026 is $24,500. If you ...",
+          "source_info_link": "https://www.federatedhermes.com/us/calculators/Retire401k.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEX____y-v3t9_zQ6fcAm94Amt5Ar-QAoN8AouBvvegAnd83reT4-fuAxutZt-dhu-gAn99RtObj8vogp-Kl1fCTzO2Hx-y63_TY7fnZ7vnh4-rFydarsMQAAFMAAF5DT4AAGWYBImkAAFiIj6wZMHC2uss8LCkmAAAAhklEQVR4Aa3QQwIEUQwA0bRt2_c_4hj5GTTftnYFu3EsHiVBJCQUZUVlKAqKmq4wdANF09IYFg9H4G35xXBItHXlxbVJ9Fz1xdVI9AP3xfDhMGF0FQvfmiW5V1JCAxqvf42JpF-IKgff8Gl2ARvkRWH-amVVVz9j03b9zzj09Qg_TaUJRzoDsXII2gz11R4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.federatedhermes.com/us/calculators/Retire401k.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.federatedhermes.com%2Fus%2Fcalculators%2FRetire401k.html",
+      "source": "Federated Hermes",
+      "read_more_link": "https://www.federatedhermes.com/us/calculators/Retire401k.html#:~:text=This%20is%20the%20percentage%20of,additional%20%248%2C000%20into%20your%20account."
+    },
+    {
+      "position": 5,
+      "title": "401K Calculator",
+      "link": "https://www.calculator.net/401k-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calculator.net/401k-calculator.html&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQFnoECCcQAQ",
+      "displayed_link": "https://www.calculator.net › financial",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png",
+      "snippet": "The same annual contribution limits for 2026 still apply: $24,500 for individuals under 50, $32,500 for those aged 50 or older, and $35,750 for those aged 60 to ...",
+      "snippet_highlighted_words": [
+        "24,500 for individuals under 50"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The same annual contribution limits for 2026 still apply: $24,500 for individuals under 50, $32,500 for those aged 50 or older, and $35,750 for those aged 60 to ...",
+          "source_info_link": "https://www.calculator.net/401k-calculator.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.calculator.net/401k-calculator.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.calculator.net%2F401k-calculator.html",
+      "source": "Calculator.net",
+      "read_more_link": "https://www.calculator.net/401k-calculator.html#:~:text=The%20same%20annual%20contribution%20limits,those%20aged%2060%20to%2063."
+    },
+    {
+      "position": 6,
+      "title": "Solo 401(k) contribution limits 2025 and 2026",
+      "link": "https://www.fidelity.com/learning-center/smart-money/solo-401k-contribution-limits",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fidelity.com/learning-center/smart-money/solo-401k-contribution-limits&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQFnoECCMQAQ",
+      "displayed_link": "https://www.fidelity.com › learning-center › smart-money",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz________3-vb4-vf4-_f0-PT8_vva6NjD27-OuodloVo_jTEhgAgwhR-awZPQ4s3____c69moyKIpghVLkz41hyZ1q2y10LDC2r-Ds3tWmUrN4Mna6Nfp8ef8_vzz-PL7_fr____w9vD___80m3RzAAAAJXRSTlMABRZPi7PJNaH-_________x2C_v______tv__v___O____8rJ_wmpQAAAAadJREFUeAFUkkeCwyAMAF3SQLIgBoQCcd3__3Gx0-c6oF69qJv2cDydjoe2qatf6vNFacCOEIy9nH_0tXfgfUBmRk9R-uvHnW-JiAkycwBiInM_v90dKIQiI3JORQYfX_Z6A-JQ_gaHnCL5GJjjfY9c95GYOZoOh4CSfdTITLqvt6Buq4SyxG6MeSRQQFtdMpWPl0wYY_DahsGZIVhDlAEYLnXVSMfstUtZiR2sFZuzNkDsVVO1yRNRF5XIOI_LPDujBInZm7Y6ZIQIoQsyLota13kctO-2D3CojowBtBoHO6_OrsWKcSIaEI_VX8fMiGCGdYR53aw1EBDZn6o__5JLSsv-MyMT8SaPyHtYpVRWS2EeR5XKV8bjo6CMXRaTjXNOlM6gTQxcCmr1o5VBCJyIEzs79p6QdFs1yjP7ZF3uZN2ZrWLibQj7-EgbYAp2fWCSZKIyvn3wOSMxxfEpZwwx74MvK0uemNm79YXqiFJfv5fNHNT6Bjzcrq8Tgu-ohQFu568D82TWL-7FvWh6ierLHa4_Rz1d5pdZjtP_oIkaNTuoqKBkBwCc8jMtTOktcQAAAABJRU5ErkJggg.png",
+      "snippet": "Use the Fidelity Small Business Retirement Plan Contribution Calculator to help determine your contribution limit. Solo 401(k) contribution limits for 2026. In ...",
+      "snippet_highlighted_words": [
+        "Solo 401(k) contribution limits for 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use the Fidelity Small Business Retirement Plan Contribution Calculator to help determine your contribution limit. Solo 401(k) contribution limits for 2026. In ...",
+          "source_info_link": "https://www.fidelity.com/learning-center/smart-money/solo-401k-contribution-limits",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz________3-vb4-vf4-_f0-PT8_vva6NjD27-OuodloVo_jTEhgAgwhR-awZPQ4s3____c69moyKIpghVLkz41hyZ1q2y10LDC2r-Ds3tWmUrN4Mna6Nfp8ef8_vzz-PL7_fr____w9vD___80m3RzAAAAJXRSTlMABRZPi7PJNaH-_________x2C_v______tv__v___O____8rJ_wmpQAAAAadJREFUeAFUkkeCwyAMAF3SQLIgBoQCcd3__3Gx0-c6oF69qJv2cDydjoe2qatf6vNFacCOEIy9nH_0tXfgfUBmRk9R-uvHnW-JiAkycwBiInM_v90dKIQiI3JORQYfX_Z6A-JQ_gaHnCL5GJjjfY9c95GYOZoOh4CSfdTITLqvt6Buq4SyxG6MeSRQQFtdMpWPl0wYY_DahsGZIVhDlAEYLnXVSMfstUtZiR2sFZuzNkDsVVO1yRNRF5XIOI_LPDujBInZm7Y6ZIQIoQsyLota13kctO-2D3CojowBtBoHO6_OrsWKcSIaEI_VX8fMiGCGdYR53aw1EBDZn6o__5JLSsv-MyMT8SaPyHtYpVRWS2EeR5XKV8bjo6CMXRaTjXNOlM6gTQxcCmr1o5VBCJyIEzs79p6QdFs1yjP7ZF3uZN2ZrWLibQj7-EgbYAp2fWCSZKIyvn3wOSMxxfEpZwwx74MvK0uemNm79YXqiFJfv5fNHNT6Bjzcrq8Tgu-ohQFu568D82TWL-7FvWh6ierLHa4_Rz1d5pdZjtP_oIkaNTuoqKBkBwCc8jMtTOktcQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fidelity.com/learning-center/smart-money/solo-401k-contribution-limits&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fidelity.com%2Flearning-center%2Fsmart-money%2Fsolo-401k-contribution-limits",
+      "source": "Fidelity",
+      "read_more_link": "https://www.fidelity.com/learning-center/smart-money/solo-401k-contribution-limits#:~:text=Use%20the%20Fidelity%20Small%20Business,%2472%2C000%20if%20you're%20under%2050."
+    },
+    {
+      "position": 7,
+      "title": "401(k) and profit-sharing plan contribution limits",
+      "link": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQFnoECEEQAQ",
+      "displayed_link": "https://www.irs.gov › plan-participant-employee › retire...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAMFBMVEX____3-fvW4evF1OPu8vexxdlchrAyZ5sMS4l3m72Xss0AN3wBQILl6_IgWZJFdaVEQFbiAAAB2ElEQVR4AWLABYRMkHmiAW4VzQyWi2B8ruoF2acn8L4-U2kI4jIpANoiB9hAAgAI7vFt27Zthm_btlXbtm3rXR7Ka1Tbtq24s9EiXE9hdjw3kY298j3UG6Ct9L6LKxP1sbb2yBGbf6fB_rbWKmvzBlILr9kRXm9wUsv4n-FEAExIZu2G5ZFYEGf-AkC6hYPlo4ZrFsGgNJuwCJNLun_O-LWz0jEW0s3cHbdHfyo7VEKWeKntE9HAtGnqjShYpfdYstJyv6uCaul53Gm2pPqN52kv1dE_ZfGt8Tsv0fPEiXv1rHyX_fyE71xlAUCLmP-mNfXpzxY8VxM2ArQ62KiatU9_dmNnvDIp9S9Gc-Je81_dYDRv31zYH1BqUZ7ufQEuO6sdBCEClUrPL8bIwIjpDiW2XFDZtu9Zbet6BRmUJFdylBCvJXDLz6iurCpBR4NWLPvHPMknfiEjXm_UxfMkrbqTlU7i_Eq9UcGe1rrw1OIXevm-d_S8lDdBydKBw15BAa2zAiEzK3hkbeeyn5j-R5HiBhSy87zOrGDQj3-OCobMqGBC5iwTMkoPoB5lF8LSVRuWdqN-jRs45jLfUtnNt1TUTtfHAFNeCg_mmQpfJBpD0OsAYh2GpxdVc8w7WhPboAAAAABJRU5ErkJggg.png",
+      "date": "Apr 8, 2026",
+      "snippet": "For 2026, this higher catch-up contribution limit is $11,250. $4000 in 2026 to SIMPLE 401(k) plans. Under a change made in SECURE 2.0, a ...",
+      "snippet_highlighted_words": [
+        "2026",
+        "contribution limit",
+        "2026",
+        "401(k"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "For 2026, this higher catch-up contribution limit is $11,250. $4000 in 2026 to SIMPLE 401(k) plans. Under a change made in SECURE 2.0, a ...",
+          "source_info_link": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAMFBMVEX____3-fvW4evF1OPu8vexxdlchrAyZ5sMS4l3m72Xss0AN3wBQILl6_IgWZJFdaVEQFbiAAAB2ElEQVR4AWLABYRMkHmiAW4VzQyWi2B8ruoF2acn8L4-U2kI4jIpANoiB9hAAgAI7vFt27Zthm_btlXbtm3rXR7Ka1Tbtq24s9EiXE9hdjw3kY298j3UG6Ct9L6LKxP1sbb2yBGbf6fB_rbWKmvzBlILr9kRXm9wUsv4n-FEAExIZu2G5ZFYEGf-AkC6hYPlo4ZrFsGgNJuwCJNLun_O-LWz0jEW0s3cHbdHfyo7VEKWeKntE9HAtGnqjShYpfdYstJyv6uCaul53Gm2pPqN52kv1dE_ZfGt8Tsv0fPEiXv1rHyX_fyE71xlAUCLmP-mNfXpzxY8VxM2ArQ62KiatU9_dmNnvDIp9S9Gc-Je81_dYDRv31zYH1BqUZ7ufQEuO6sdBCEClUrPL8bIwIjpDiW2XFDZtu9Zbet6BRmUJFdylBCvJXDLz6iurCpBR4NWLPvHPMknfiEjXm_UxfMkrbqTlU7i_Eq9UcGe1rrw1OIXevm-d_S8lDdBydKBw15BAa2zAiEzK3hkbeeyn5j-R5HiBhSy87zOrGDQj3-OCobMqGBC5iwTMkoPoB5lF8LSVRuWdqN-jRs45jLfUtnNt1TUTtfHAFNeCg_mmQpfJBpD0OsAYh2GpxdVc8w7WhPboAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.irs.gov%2Fretirement-plans%2Fplan-participant-employee%2Fretirement-topics-401k-and-profit-sharing-plan-contribution-limits",
+      "source": "IRS (.gov)",
+      "read_more_link": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits#:~:text=For%202026%2C%20this%20higher%20catch%2Dup,who%20participate%20in%20SIMPLE%20plans."
+    },
+    {
+      "position": 8,
+      "title": "401(k) Contribution Limits for 2026, 2025, and More",
+      "link": "https://www.sharebuilder401k.com/blog/401k-contribution-limits",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sharebuilder401k.com/blog/401k-contribution-limits&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQFnoECEAQAQ",
+      "displayed_link": "https://www.sharebuilder401k.com › blog › 401k-contri...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABp0lEQVR4Ae3RAURDQRzH8X8Vil5VZe9WSSABIFTBGwARKiFI8lYY292rAAYJhQBAgGRp7e5AQiQCiqQKIBKEFAWx_k-B3K0Lf4Z9-QO4j99BVVXLC9IlLxXe_3lBuAEV6tFiiClxy6S4_32-Ehmw1RKEl14qXXa4HbBVmGlgip8joGy4u75CrpkUwHRuxfL4Z6LExwAjA_xM_2EEaLEFGB3AYXoHQHovRnxf-soN4DC9jkbh3wXz7ZUBjtOraBMwEoDD9LcDJ_kmIoDD9MXsz_QEANfpyQAu05MC8PHINr2v-AhgZIDW2eUzfOjdBEgqsQsYLWBiSTItniwLvHYeZPoAI_2C5CGfsgDKvuRFcgBgTIp9K0JFk-QA_yhKIOLZgnjolqseKSAuocWc_SvENjkgjimuzQj-mZS5YXJAl871-lK8GBFSXEA-aCQFxPlKLNq-Iik5JwdgdbjCsQXx1qPW-qkBwA6zA_FjZgTXJADDV2TMALxSdpocAPl8PdP81ARA3GNHIWwDp8YXvJYgvDFeamkdKtRd5IM4-TXeze9LaM6hVjX1BS_DEtqyQ4U6AAAAAElFTkSuQmCC.png",
+      "date": "Feb 26, 2026",
+      "snippet": "You can put up to $24,500 to your 401(k) as an employee in 2026, but your employer can also contribute up to an additional $47,500 depending on ...",
+      "snippet_highlighted_words": [
+        "You can put up to $24,500 to your 401(k) as an employee in 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You can put up to $24,500 to your 401(k) as an employee in 2026, but your employer can also contribute up to an additional $47,500 depending on ...",
+          "source_info_link": "https://www.sharebuilder401k.com/blog/401k-contribution-limits",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABp0lEQVR4Ae3RAURDQRzH8X8Vil5VZe9WSSABIFTBGwARKiFI8lYY292rAAYJhQBAgGRp7e5AQiQCiqQKIBKEFAWx_k-B3K0Lf4Z9-QO4j99BVVXLC9IlLxXe_3lBuAEV6tFiiClxy6S4_32-Ehmw1RKEl14qXXa4HbBVmGlgip8joGy4u75CrpkUwHRuxfL4Z6LExwAjA_xM_2EEaLEFGB3AYXoHQHovRnxf-soN4DC9jkbh3wXz7ZUBjtOraBMwEoDD9LcDJ_kmIoDD9MXsz_QEANfpyQAu05MC8PHINr2v-AhgZIDW2eUzfOjdBEgqsQsYLWBiSTItniwLvHYeZPoAI_2C5CGfsgDKvuRFcgBgTIp9K0JFk-QA_yhKIOLZgnjolqseKSAuocWc_SvENjkgjimuzQj-mZS5YXJAl871-lK8GBFSXEA-aCQFxPlKLNq-Iik5JwdgdbjCsQXx1qPW-qkBwA6zA_FjZgTXJADDV2TMALxSdpocAPl8PdP81ARA3GNHIWwDp8YXvJYgvDFeamkdKtRd5IM4-TXeze9LaM6hVjX1BS_DEtqyQ4U6AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sharebuilder401k.com/blog/401k-contribution-limits&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sharebuilder401k.com%2Fblog%2F401k-contribution-limits",
+      "source": "ShareBuilder 401k",
+      "read_more_link": "https://www.sharebuilder401k.com/blog/401k-contribution-limits#:~:text=You%20can%20put%20up%20to,income%20and%20401(k)%20plan%20structure."
+    },
+    {
+      "position": 9,
+      "title": "401(k) Contribution Limits |2026, 2025 and Earlier",
+      "link": "https://www.adp.com/resources/articles-and-insights/articles/4/401k-contribution-limits.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.adp.com/resources/articles-and-insights/articles/4/401k-contribution-limits.aspx&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQFnoECD8QAQ",
+      "displayed_link": "https://www.adp.com › articles-and-insights › articles",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEX____--_v12tn23dz34N_99vXhiITKAADMAADfgHzed3P45uXwxsX9-Pj01NPTOzPRLSTYXVjXVU_IAADURT777u7xzMvoqqjPHA3jlJHturjeenbqsa_moJ3jjovuv73ccm3WTUfRKR_aY17URD33syvAAAAAv0lEQVR4AWIYaYCRiRkIAOVOhQHDMAxTqHYxSZn5_xvHdMNkZmsAN8f8FgO6g0PwzUbftZgSYUSaZtayFEI7_1XMPXSR3gZLjh0HgrJ3LaEKMYmsdpEqlM5I58272HYqjCgFJKFPu4FSO75qE2MewkgANd-eG2RN1bNmaJHLkizoG-6q0dRLQO-t6wZu951EaxvsrDY-3u9ISqITqEhX1ciek7MXeMExkwY0XdE2IKZxfk-aNE1vNn3Ymxb4J1wA5FcKAsAdxw0AAAAASUVORK5CYII.png",
+      "snippet": "For 2026, the combined employee and employer contributions can reach $72,000, or more when catch-up contributions are included. Roth vs. after-tax contributions.",
+      "snippet_highlighted_words": [
+        "For 2026, the combined employee and employer contributions can reach $72,000"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "For 2026, the combined employee and employer contributions can reach $72,000, or more when catch-up contributions are included. Roth vs. after-tax contributions.",
+          "source_info_link": "https://www.adp.com/resources/articles-and-insights/articles/4/401k-contribution-limits.aspx",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEX____--_v12tn23dz34N_99vXhiITKAADMAADfgHzed3P45uXwxsX9-Pj01NPTOzPRLSTYXVjXVU_IAADURT777u7xzMvoqqjPHA3jlJHturjeenbqsa_moJ3jjovuv73ccm3WTUfRKR_aY17URD33syvAAAAAv0lEQVR4AWIYaYCRiRkIAOVOhQHDMAxTqHYxSZn5_xvHdMNkZmsAN8f8FgO6g0PwzUbftZgSYUSaZtayFEI7_1XMPXSR3gZLjh0HgrJ3LaEKMYmsdpEqlM5I58272HYqjCgFJKFPu4FSO75qE2MewkgANd-eG2RN1bNmaJHLkizoG-6q0dRLQO-t6wZu951EaxvsrDY-3u9ISqITqEhX1ciek7MXeMExkwY0XdE2IKZxfk-aNE1vNn3Ymxb4J1wA5FcKAsAdxw0AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.adp.com/resources/articles-and-insights/articles/4/401k-contribution-limits.aspx&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.adp.com%2Fresources%2Farticles-and-insights%2Farticles%2F4%2F401k-contribution-limits.aspx",
+      "source": "ADP",
+      "read_more_link": "https://www.adp.com/resources/articles-and-insights/articles/4/401k-contribution-limits.aspx#:~:text=For%202026%2C%20the%20combined%20employee,Roth%20vs.%20after%2Dtax%20contributions"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "401k calculator contribution limit 2026 over 60",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=401k+calculator+contribution+limit+2026+over+60&sa=X&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+calculator+contribution+limit+2026+over+60"
+    },
+    {
+      "block_position": 1,
+      "query": "401k contribution calculator to max out",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=401k+contribution+calculator+to+max+out&sa=X&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+contribution+calculator+to+max+out"
+    },
+    {
+      "block_position": 1,
+      "query": "401k contribution limit 2026",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=401k+contribution+limit+2026&sa=X&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+contribution+limit+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "401k calculator contribution limit 2026 fidelity",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=401k+calculator+contribution+limit+2026+fidelity&sa=X&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+calculator+contribution+limit+2026+fidelity"
+    },
+    {
+      "block_position": 1,
+      "query": "401k contribution calculator to max out with employer match",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=401k+contribution+calculator+to+max+out+with+employer+match&sa=X&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+contribution+calculator+to+max+out+with+employer+match"
+    },
+    {
+      "block_position": 1,
+      "query": "401k 2026 contribution limit over 50",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=401k+2026+contribution+limit+over+50&sa=X&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+2026+contribution+limit+over+50"
+    },
+    {
+      "block_position": 1,
+      "query": "401k contribution calculator per paycheck",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=401k+contribution+calculator+per+paycheck&sa=X&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+contribution+calculator+per+paycheck"
+    },
+    {
+      "block_position": 1,
+      "query": "401k 2026 contribution limit IRS",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=401k+2026+contribution+limit+IRS&sa=X&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+2026+contribution+limit+IRS"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=401k+calculator+contribution+limit+2026&sca_esv=bbb7d61e8d3bb37e&ei=URk6av6LKeujkPIP3pXUsA4&start=10&sa=N&sstk=AU9db-BqoxfR_y2BNtH4RSpjX2OrimD6epVgu3Mpby7a5RPniHFvxr9WUkRwT7vBzK9gt1P2At_7B7QLeI7CttDuXZLWuLAW2gh7Iw&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ8NMDegQIMxAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=401k+calculator+contribution+limit+2026&sca_esv=bbb7d61e8d3bb37e&ei=URk6av6LKeujkPIP3pXUsA4&start=10&sa=N&sstk=AU9db-BqoxfR_y2BNtH4RSpjX2OrimD6epVgu3Mpby7a5RPniHFvxr9WUkRwT7vBzK9gt1P2At_7B7QLeI7CttDuXZLWuLAW2gh7Iw&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ8tMDegQIMxAE",
+      "3": "https://www.google.com/search?q=401k+calculator+contribution+limit+2026&sca_esv=bbb7d61e8d3bb37e&ei=URk6av6LKeujkPIP3pXUsA4&start=20&sa=N&sstk=AU9db-BqoxfR_y2BNtH4RSpjX2OrimD6epVgu3Mpby7a5RPniHFvxr9WUkRwT7vBzK9gt1P2At_7B7QLeI7CttDuXZLWuLAW2gh7Iw&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ8tMDegQIMxAG",
+      "4": "https://www.google.com/search?q=401k+calculator+contribution+limit+2026&sca_esv=bbb7d61e8d3bb37e&ei=URk6av6LKeujkPIP3pXUsA4&start=30&sa=N&sstk=AU9db-BqoxfR_y2BNtH4RSpjX2OrimD6epVgu3Mpby7a5RPniHFvxr9WUkRwT7vBzK9gt1P2At_7B7QLeI7CttDuXZLWuLAW2gh7Iw&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ8tMDegQIMxAI",
+      "5": "https://www.google.com/search?q=401k+calculator+contribution+limit+2026&sca_esv=bbb7d61e8d3bb37e&ei=URk6av6LKeujkPIP3pXUsA4&start=40&sa=N&sstk=AU9db-BqoxfR_y2BNtH4RSpjX2OrimD6epVgu3Mpby7a5RPniHFvxr9WUkRwT7vBzK9gt1P2At_7B7QLeI7CttDuXZLWuLAW2gh7Iw&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ8tMDegQIMxAK",
+      "6": "https://www.google.com/search?q=401k+calculator+contribution+limit+2026&sca_esv=bbb7d61e8d3bb37e&ei=URk6av6LKeujkPIP3pXUsA4&start=50&sa=N&sstk=AU9db-BqoxfR_y2BNtH4RSpjX2OrimD6epVgu3Mpby7a5RPniHFvxr9WUkRwT7vBzK9gt1P2At_7B7QLeI7CttDuXZLWuLAW2gh7Iw&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ8tMDegQIMxAM",
+      "7": "https://www.google.com/search?q=401k+calculator+contribution+limit+2026&sca_esv=bbb7d61e8d3bb37e&ei=URk6av6LKeujkPIP3pXUsA4&start=60&sa=N&sstk=AU9db-BqoxfR_y2BNtH4RSpjX2OrimD6epVgu3Mpby7a5RPniHFvxr9WUkRwT7vBzK9gt1P2At_7B7QLeI7CttDuXZLWuLAW2gh7Iw&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ8tMDegQIMxAO",
+      "8": "https://www.google.com/search?q=401k+calculator+contribution+limit+2026&sca_esv=bbb7d61e8d3bb37e&ei=URk6av6LKeujkPIP3pXUsA4&start=70&sa=N&sstk=AU9db-BqoxfR_y2BNtH4RSpjX2OrimD6epVgu3Mpby7a5RPniHFvxr9WUkRwT7vBzK9gt1P2At_7B7QLeI7CttDuXZLWuLAW2gh7Iw&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ8tMDegQIMxAQ",
+      "9": "https://www.google.com/search?q=401k+calculator+contribution+limit+2026&sca_esv=bbb7d61e8d3bb37e&ei=URk6av6LKeujkPIP3pXUsA4&start=80&sa=N&sstk=AU9db-BqoxfR_y2BNtH4RSpjX2OrimD6epVgu3Mpby7a5RPniHFvxr9WUkRwT7vBzK9gt1P2At_7B7QLeI7CttDuXZLWuLAW2gh7Iw&ved=2ahUKEwi--Nmm0JyVAxXrEUQIHd4KFeYQ8tMDegQIMxAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+calculator+contribution+limit+2026&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+calculator+contribution+limit+2026&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+calculator+contribution+limit+2026&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+calculator+contribution+limit+2026&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+calculator+contribution+limit+2026&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+calculator+contribution+limit+2026&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+calculator+contribution+limit+2026&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+calculator+contribution+limit+2026&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+calculator+contribution+limit+2026&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=401k+calculator+contribution+limit+2026&start=80"
+    }
+  }
+}

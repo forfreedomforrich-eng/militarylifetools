@@ -1,0 +1,319 @@
+{
+  "search_metadata": {
+    "id": "6a3a20fe69819d38600f206f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/HYqFvdo3l7VTCjmEUkR2cg/6a3a20fe69819d38600f206f.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/HYqFvdo3l7VTCjmEUkR2cg/6a3a20fe69819d38600f206f.json_with_pixel_position",
+    "created_at": "2026-06-23 06:00:30 UTC",
+    "processed_at": "2026-06-23 06:00:30 UTC",
+    "google_url": "https://www.google.com/search?q=va+loan+payment+calculator+military&oq=va+loan+payment+calculator+military&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/HYqFvdo3l7VTCjmEUkR2cg/6a3a20fe69819d38600f206f.html",
+    "total_time_taken": 2.23
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "va loan payment calculator military",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "va loan payment calculator military",
+    "total_results": 92,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "WAjognicxVbbcrJIEL7f91hvEgU8oKaK-muGg8FDDJps1BsKAUcRRBmU4N3_LvtSu0-zA4IZDSa1f9XWjuUM3Uwfp79pfv7prjbrv3_7axmGW_zAMFEUVZDvI9eumL7HGDjemMzCd3FgLn_EB6FWMrHAluyVAESZN7Z9VxoM-V2In3FzV22BaSkVEfS5gW2HaHx3MKMzZFr_XpMIUcEVe1NxgSahwBvKY7VSZbl2ZcgYHtkA_sMhAxUlq0p-ckpfD0jea99pEYFIZkSxEDVnQ0rMACCK6QL8W9pg6oUIoJzYhfqg3SLLabuEbkkBML4k31LPQJQoJCHIhUEUqct5uYPwhr1iV1IzrxlRp158Tm0ySDbo9PaI2jowARhljGG-jzaHkAyknP8YDQdwKI--OiQSfGcAWutnUf1iV-K9GkRK9hw9TYlRxkKkBllmHpCFY1bm0kwfApyUpvjSZv3Hfq9W03xHbPJtpzFeNN6Vbdt7tC00RIw5J_tc37BsS1_q7I-U5qpcg23Xmq37FBMmPoMC06BAg2k_2kecWpYr_QrkKESk0aqnpMh5KgBQCrMsJ3kFVycp5oJpUaaqROp1L1shqKqAPj34EifWB3mWkiN6BZ_ymtgqQEQ2VPpBzCpXVD4Cu9TUlfNAKHZ0ZfHDQFYKU9DTziHLhLxwjlYGwVpL7oBOzvjQnWhFbnpBJIiQM4XDC3lEO5bcJBqCZ8sa7V2DEkIAphl3YjJ1gS_mt1AiomZJ6CXe0bXduUYSJq5gVAyvb8fNW4jyM6_9q1KmISCjYxWrq2qI3_9o7N19PAt3O-9Vbm1noLjkfW_-LxqB-f-CIm8TveyAlEJQaN-AQhbhl23itF06gyKld7dAAbtFbeJ04360ic-gGF-C4naboECBsqhordeggDdAgbLYCkDxWgCKdSEosjZBgWJZ1y7axMnYuU3koPilNnH4lTaRQsQ-LZc9Y--gm72jU24ZHUle1meabE3wYPDUbTmSPZuER_Bt71h44YNnWO69vrIeYLUbxta9Thj-g22VdsLBuCPCm7utEXv2JrwzDdfcu0boB3feyl2FRhCXPDfwBdaoq7XY9cLtozZh-bAmjifbI88HesOIFX0vjsytY721W9Pj88umqZVH7BRsONsx7NHx2FnGlg90cLB4qfz8DsdyPGotlBdrN-hL7FSZ9x2eVeBBC5vlN2AYiq7sjPpsvPemb7bkbjbzZrc5m5hqGa5gzS07BEupX1jYT58Xw2j1Dnlc8gJTIJ9O9TV4IseEyEeCOAWaiMjfJ_-I1EcJm4Zu44NgNjh2btRtvlHlF7U2V_JQGG-FOlfCm0Dg_gHBpBW_",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WAjognicxVbbcrJIEL7f91hvEgU8oKaK-muGg8FDDJps1BsKAUcRRBmU4N3_LvtSu0-zA4IZDSa1f9XWjuUM3Uwfp79pfv7prjbrv3_7axmGW_zAMFEUVZDvI9eumL7HGDjemMzCd3FgLn_EB6FWMrHAluyVAESZN7Z9VxoM-V2In3FzV22BaSkVEfS5gW2HaHx3MKMzZFr_XpMIUcEVe1NxgSahwBvKY7VSZbl2ZcgYHtkA_sMhAxUlq0p-ckpfD0jea99pEYFIZkSxEDVnQ0rMACCK6QL8W9pg6oUIoJzYhfqg3SLLabuEbkkBML4k31LPQJQoJCHIhUEUqct5uYPwhr1iV1IzrxlRp158Tm0ySDbo9PaI2jowARhljGG-jzaHkAyknP8YDQdwKI--OiQSfGcAWutnUf1iV-K9GkRK9hw9TYlRxkKkBllmHpCFY1bm0kwfApyUpvjSZv3Hfq9W03xHbPJtpzFeNN6Vbdt7tC00RIw5J_tc37BsS1_q7I-U5qpcg23Xmq37FBMmPoMC06BAg2k_2kecWpYr_QrkKESk0aqnpMh5KgBQCrMsJ3kFVycp5oJpUaaqROp1L1shqKqAPj34EifWB3mWkiN6BZ_ymtgqQEQ2VPpBzCpXVD4Cu9TUlfNAKHZ0ZfHDQFYKU9DTziHLhLxwjlYGwVpL7oBOzvjQnWhFbnpBJIiQM4XDC3lEO5bcJBqCZ8sa7V2DEkIAphl3YjJ1gS_mt1AiomZJ6CXe0bXduUYSJq5gVAyvb8fNW4jyM6_9q1KmISCjYxWrq2qI3_9o7N19PAt3O-9Vbm1noLjkfW_-LxqB-f-CIm8TveyAlEJQaN-AQhbhl23itF06gyKld7dAAbtFbeJ04360ic-gGF-C4naboECBsqhordeggDdAgbLYCkDxWgCKdSEosjZBgWJZ1y7axMnYuU3koPilNnH4lTaRQsQ-LZc9Y--gm72jU24ZHUle1meabE3wYPDUbTmSPZuER_Bt71h44YNnWO69vrIeYLUbxta9Thj-g22VdsLBuCPCm7utEXv2JrwzDdfcu0boB3feyl2FRhCXPDfwBdaoq7XY9cLtozZh-bAmjifbI88HesOIFX0vjsytY721W9Pj88umqZVH7BRsONsx7NHx2FnGlg90cLB4qfz8DsdyPGotlBdrN-hL7FSZ9x2eVeBBC5vlN2AYiq7sjPpsvPemb7bkbjbzZrc5m5hqGa5gzS07BEupX1jYT58Xw2j1Dnlc8gJTIJ9O9TV4IseEyEeCOAWaiMjfJ_-I1EcJm4Zu44NgNjh2btRtvlHlF7U2V_JQGG-FOlfCm0Dg_gHBpBW_"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "VA Mortgage Loan Calculator",
+      "link": "https://www.navyfederal.org/makingcents/tools/va-loan-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.navyfederal.org/makingcents/tools/va-loan-calculator.html&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4QFnoECBMQAQ",
+      "displayed_link": "https://www.navyfederal.org › ... › Tools & Calculators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA4ElEQVR4AWJAB8oJSwCdUwENxCAMnAQkTMJLQAISkDAJczAJSHgJSKgEJCCBb5NrcuGfZPskF9rrtZQCWfFWDEVXNNjG5VnPiUFRKbHDL-QPcOErmQQJu0YkH7AbYr5B4AIVOD3RePdhF7PBien5zNxyA9yWmSd93nw4iou62X90sJsW9uXDNkcgTF7A1rkAx0yLWNuoreIk1pN5joGrXkB42vAjwDzHDsQEHTw-QkZM_h1i4SHyNcqNaxTSR35IcuMhvWiYdfUP8uIpd9j0H559prFKngslDLZzMXBx1n8AuU1izRJUOrMAAAAASUVORK5CYII.png",
+      "snippet": "Use this calculator to estimate how much your monthly payment could be, based on your home's purchase price and the terms of your loan.",
+      "snippet_highlighted_words": [
+        "Use this calculator to estimate how much your monthly payment could be"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this calculator to estimate how much your monthly payment could be, based on your home's purchase price and the terms of your loan.",
+          "source_info_link": "https://www.navyfederal.org/makingcents/tools/va-loan-calculator.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAA4ElEQVR4AWJAB8oJSwCdUwENxCAMnAQkTMJLQAISkDAJczAJSHgJSKgEJCCBb5NrcuGfZPskF9rrtZQCWfFWDEVXNNjG5VnPiUFRKbHDL-QPcOErmQQJu0YkH7AbYr5B4AIVOD3RePdhF7PBien5zNxyA9yWmSd93nw4iou62X90sJsW9uXDNkcgTF7A1rkAx0yLWNuoreIk1pN5joGrXkB42vAjwDzHDsQEHTw-QkZM_h1i4SHyNcqNaxTSR35IcuMhvWiYdfUP8uIpd9j0H559prFKngslDLZzMXBx1n8AuU1izRJUOrMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.navyfederal.org/makingcents/tools/va-loan-calculator.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.navyfederal.org%2Fmakingcents%2Ftools%2Fva-loan-calculator.html",
+      "source": "Navy Federal Credit Union",
+      "read_more_link": "https://www.navyfederal.org/makingcents/tools/va-loan-calculator.html#:~:text=Use%20this%20calculator%20to%20estimate,the%20terms%20of%20your%20loan."
+    },
+    {
+      "position": 2,
+      "title": "VA Mortgage Loan Calculator – Estimate Your Payment",
+      "link": "https://www.veteransunited.com/education/tools/mortgage-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.veteransunited.com/education/tools/mortgage-calculator/&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4QFnoECBUQAQ",
+      "displayed_link": "https://www.veteransunited.com › education › tools › m...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABPUlEQVR4AWJwL_ChKx61EAPzuKQBaCtbGAZhIAp7MYOdRODmEfMavKzApz6hXtTgXe28Yl7gM4nHzbMTb8vLpSFH0okvGQf0u7-MRthA8zchZEHYFaGoEKKrsLKIwb0rPw8udqGuykbAOxuuo1nIVZ1kMQtJNtABOekGMq09nq8WXYSFD4A8CSvFAuBYwrMsXfQcc1Uxke7PiCWKJcRmikXEmOEn5KoYal0DKH4Yy88d1X63MFKbdEv5tzlGksAOmqFqSQFMWwrhjKx64U7QAhUR2sHseySWiIjEmtN_ba_6VgsdaIW66NcCEie8hf2Ap-CF9iBRJ3QW4aQFJvJJThahh9ShjRWoce1R4W5gLLY0asYj4XSrGcthHjhcV6WXZjTO68Ftx7sVJToJ3rw0hTAtjUP2JXCfjbZLaY4BRRj23tmJ2XwAAAAASUVORK5CYII.png",
+      "snippet": "Calculate your monthly VA loan payments with taxes, insurance, HOA fees and the VA Funding Fee with this VA mortgage calculator from Veterans United.",
+      "snippet_highlighted_words": [
+        "Calculate your monthly VA loan payments"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculate your monthly VA loan payments with taxes, insurance, HOA fees and the VA Funding Fee with this VA mortgage calculator from Veterans United.",
+          "source_info_link": "https://www.veteransunited.com/education/tools/mortgage-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABPUlEQVR4AWJwL_ChKx61EAPzuKQBaCtbGAZhIAp7MYOdRODmEfMavKzApz6hXtTgXe28Yl7gM4nHzbMTb8vLpSFH0okvGQf0u7-MRthA8zchZEHYFaGoEKKrsLKIwb0rPw8udqGuykbAOxuuo1nIVZ1kMQtJNtABOekGMq09nq8WXYSFD4A8CSvFAuBYwrMsXfQcc1Uxke7PiCWKJcRmikXEmOEn5KoYal0DKH4Yy88d1X63MFKbdEv5tzlGksAOmqFqSQFMWwrhjKx64U7QAhUR2sHseySWiIjEmtN_ba_6VgsdaIW66NcCEie8hf2Ap-CF9iBRJ3QW4aQFJvJJThahh9ShjRWoce1R4W5gLLY0asYj4XSrGcthHjhcV6WXZjTO68Ftx7sVJToJ3rw0hTAtjUP2JXCfjbZLaY4BRRj23tmJ2XwAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.veteransunited.com/education/tools/mortgage-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.veteransunited.com%2Feducation%2Ftools%2Fmortgage-calculator%2F",
+      "source": "Veterans United Home Loans"
+    },
+    {
+      "position": 3,
+      "title": "Guaranty Percentage Calculator",
+      "link": "https://lgy.va.gov/lgyhub/guaranty-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lgy.va.gov/lgyhub/guaranty-calculator&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4QFnoECBQQAQ",
+      "displayed_link": "https://lgy.va.gov › lgyhub › guaranty-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEUWHEwNFUgLE0gUGksTGUpPU3VTV3gfJVMlK1dGSm4AAD7LzNb___-dn64AAEKpq7iytL-GiJoAC0V3epHT1N0AADoAADbi4-ozOGLq6_AFEkzy8vYAAB7Gx9IbIlVlaIOUlaYAABQAAEYvNWDUVc7pAAAAkElEQVR4AY1P1QEDUQy658a5u-2_Y5Mu0PITD5D9ASFVlmkplJT6WxvrlPY2CGs8d2JCXhQlqhooC2o0Lbp-GDElYB6ooQqgWLBu2BMOvukTzhrliatGzjcFVRWmClVFx9TQC7oV9wrGo_imA6oX4_N0aBu-yYFQooyUpMg8ytoiWK9VZo1gsSSaDGhOuP6FD0m5CBU-Ake7AAAAAElFTkSuQmCC.png",
+      "snippet": "This calculator is for estimation purposes only. For more accurate and detailed information, please refer to the veteran's COE record.",
+      "snippet_highlighted_words": [
+        "calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator is for estimation purposes only. For more accurate and detailed information, please refer to the veteran's COE record.",
+          "source_info_link": "https://lgy.va.gov/lgyhub/guaranty-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEUWHEwNFUgLE0gUGksTGUpPU3VTV3gfJVMlK1dGSm4AAD7LzNb___-dn64AAEKpq7iytL-GiJoAC0V3epHT1N0AADoAADbi4-ozOGLq6_AFEkzy8vYAAB7Gx9IbIlVlaIOUlaYAABQAAEYvNWDUVc7pAAAAkElEQVR4AY1P1QEDUQy658a5u-2_Y5Mu0PITD5D9ASFVlmkplJT6WxvrlPY2CGs8d2JCXhQlqhooC2o0Lbp-GDElYB6ooQqgWLBu2BMOvukTzhrliatGzjcFVRWmClVFx9TQC7oV9wrGo_imA6oX4_N0aBu-yYFQooyUpMg8ytoiWK9VZo1gsSSaDGhOuP6FD0m5CBU-Ake7AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://lgy.va.gov/lgyhub/guaranty-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Flgy.va.gov%2Flgyhub%2Fguaranty-calculator",
+      "source": "VA Loan Guaranty (.gov)",
+      "read_more_link": "https://lgy.va.gov/lgyhub/guaranty-calculator#:~:text=This%20calculator%20is%20for%20estimation,to%20the%20veteran's%20COE%20record."
+    },
+    {
+      "position": 4,
+      "title": "VA Mortgage Calculator - Calculate VA Loan Payments",
+      "link": "https://www.zillow.com/mortgage-calculator/va/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zillow.com/mortgage-calculator/va/&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4QFnoECBoQAQ",
+      "displayed_link": "https://www.zillow.com › Mortgage Calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEUEav8AZv93of8AW_8AY_8rd__u9P____-5zf8AaP8AXf9omP_j6_8DbP8AWv-kv_9Siv8AX__V4v-OsP8AYv9Bgf_4-__Q3v9-pf-zyf_E1f9ynf8ecf8AYP9jkv9fkP84ff-at__K2f9Hhf_B0f-Rsv_y9_96yIHuAAAAv0lEQVR4Ac3PUwIDQRBF0VTrjY1ojP0vMbad-3saVYOvRFeIGL9kQipoXD9rhol5lk1nzHGxyvOPiUSATaFzaFGcrCAdjoCxoe8ZTbDICnVDOCmgpnuYjeekxTybn7MtADkdoDswMr_QRZngCGmi-wZVKo5KzAtcebA_lxowFTESzcyMaN_0sgYgyR55PCMSPh0P5In5C0SZ0VRBQXvYAuFi1Cwz2wTAMeaZ4EWLeWcQTdcDl3DewzhXftjc_rEZvDgN-gNB6YkAAAAASUVORK5CYII.png",
+      "snippet": "Use our VA home loan calculator to estimate your monthly mortgage payment with taxes and insurance. Simply enter the purchase price of the home, your down ...",
+      "snippet_highlighted_words": [
+        "Use our VA home loan calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our VA home loan calculator to estimate your monthly mortgage payment with taxes and insurance. Simply enter the purchase price of the home, your down ...",
+          "source_info_link": "https://www.zillow.com/mortgage-calculator/va/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEUEav8AZv93of8AW_8AY_8rd__u9P____-5zf8AaP8AXf9omP_j6_8DbP8AWv-kv_9Siv8AX__V4v-OsP8AYv9Bgf_4-__Q3v9-pf-zyf_E1f9ynf8ecf8AYP9jkv9fkP84ff-at__K2f9Hhf_B0f-Rsv_y9_96yIHuAAAAv0lEQVR4Ac3PUwIDQRBF0VTrjY1ojP0vMbad-3saVYOvRFeIGL9kQipoXD9rhol5lk1nzHGxyvOPiUSATaFzaFGcrCAdjoCxoe8ZTbDICnVDOCmgpnuYjeekxTybn7MtADkdoDswMr_QRZngCGmi-wZVKo5KzAtcebA_lxowFTESzcyMaN_0sgYgyR55PCMSPh0P5In5C0SZ0VRBQXvYAuFi1Cwz2wTAMeaZ4EWLeWcQTdcDl3DewzhXftjc_rEZvDgN-gNB6YkAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.zillow.com/mortgage-calculator/va/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.zillow.com%2Fmortgage-calculator%2Fva%2F",
+      "source": "Zillow",
+      "read_more_link": "https://www.zillow.com/mortgage-calculator/va/#:~:text=Use%20our%20VA%20home%20loan,payment%20breakdown%2C%20schedule%20and%20more."
+    },
+    {
+      "position": 5,
+      "title": "Military Mortgage Calculator",
+      "link": "https://wevett.com/calculator/military-mortgage-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wevett.com/calculator/military-mortgage-calculator/&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4QFnoECBsQAQ",
+      "displayed_link": "https://wevett.com › calculator › military-mortgage-calc...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEVHcExhtORhtORhtORhtORhtORhtORhtORgs-Ngs-RhtORhtORhtORhtORhtOQYKqjmAAAADnRSTlMA7W4j2atJNQcWxoqbW7cR6poAAACdSURBVCiR1VBLEoUgDGsLCCpy_-NKP0hxxv17XWWS0pAA_MlsGMOXtrc-K0XbQAeLxWvYWrKjrEWvnfMUMvSeYqMiMUr-odhcjEp7O-ZpkxiSsij7YpOhGwVGqE-UNBvqZGSooYrumU0_JzEO_xE5ekIdcMTQCBLjgXWWZsxldmurSnGMoBo5UanwVIi-G6HSbDUvIlQcTe4RCX52bhVoCjSR06yeAAAAAElFTkSuQmCC.png",
+      "snippet": "The only military mortgage calculator on the market that pulls in your BAH rate and compares it to your mortgage payment. The end goal?",
+      "snippet_highlighted_words": [
+        "military",
+        "calculator",
+        "payment"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The only military mortgage calculator on the market that pulls in your BAH rate and compares it to your mortgage payment. The end goal?",
+          "source_info_link": "https://wevett.com/calculator/military-mortgage-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEVHcExhtORhtORhtORhtORhtORhtORhtORgs-Ngs-RhtORhtORhtORhtORhtOQYKqjmAAAADnRSTlMA7W4j2atJNQcWxoqbW7cR6poAAACdSURBVCiR1VBLEoUgDGsLCCpy_-NKP0hxxv17XWWS0pAA_MlsGMOXtrc-K0XbQAeLxWvYWrKjrEWvnfMUMvSeYqMiMUr-odhcjEp7O-ZpkxiSsij7YpOhGwVGqE-UNBvqZGSooYrumU0_JzEO_xE5ekIdcMTQCBLjgXWWZsxldmurSnGMoBo5UanwVIi-G6HSbDUvIlQcTe4RCX52bhVoCjSR06yeAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://wevett.com/calculator/military-mortgage-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwevett.com%2Fcalculator%2Fmilitary-mortgage-calculator%2F",
+      "source": "WeVett Home Loans"
+    },
+    {
+      "position": 6,
+      "title": "VA Mortgage Calculator",
+      "link": "https://www.calculator.net/va-mortgage-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calculator.net/va-mortgage-calculator.html&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4QFnoECBkQAQ",
+      "displayed_link": "https://www.calculator.net › financial",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png",
+      "snippet": "Free VA mortgage calculator to find the monthly payment, total interest, funding fee, and amortization details of a VA loan, or to learn more about VA ...",
+      "snippet_highlighted_words": [
+        "Free VA mortgage calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Free VA mortgage calculator to find the monthly payment, total interest, funding fee, and amortization details of a VA loan, or to learn more about VA ...",
+          "source_info_link": "https://www.calculator.net/va-mortgage-calculator.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.calculator.net/va-mortgage-calculator.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.calculator.net%2Fva-mortgage-calculator.html",
+      "source": "Calculator.net"
+    },
+    {
+      "position": 7,
+      "title": "VA loan calculator | VA home mortgage payments",
+      "link": "https://www.usbank.com/home-loans/mortgage/mortgage-calculators/va-mortgage-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usbank.com/home-loans/mortgage/mortgage-calculators/va-mortgage-calculator.html&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4QFnoECBcQAQ",
+      "displayed_link": "https://www.usbank.com › home-loans › va-mortgage-ca...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2QAURDURSGD5IwEPd5BgByD8ATgIRMCAAwkIQAgQABCMMQEggQEghAQjKEMHGeDIGZPJnJqA8Chm3b9oZz-O5593r3_J8rlmg1T3SnDCzETCxonU1REo_Ccgi_JdFyARdwARdwARdwARdwARdYCYEavMNgyeEF3AhLCscW9Ir-DF8LDu5Yog_0C9iT_-Jwk4MDaEKLfXdeoczq09twD2eQwYaMKgu6ngfd54cGPFkSO_ThVOFBe_RXuIUjqMokxYUtOEUCEUVEv8cIHkIP2nCZh7jL3YrMUIjECsPqDLpD5oPvYkTwD3ThzUJs0rdlEcXgDBo87ye9DwMokHvh7MSCprKM4lVSgs_hGmqwJlPUH6DEbIL-rKJMAAAAAElFTkSuQmCC.png",
+      "snippet": "Use our VA mortgage calculator to estimate your monthly payments. With a VA Home Loan from U.S. Bank, eligible veterans can buy a home with little or no ...",
+      "snippet_highlighted_words": [
+        "Use our VA mortgage calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use our VA mortgage calculator to estimate your monthly payments. With a VA Home Loan from U.S. Bank, eligible veterans can buy a home with little or no ...",
+          "source_info_link": "https://www.usbank.com/home-loans/mortgage/mortgage-calculators/va-mortgage-calculator.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2QAURDURSGD5IwEPd5BgByD8ATgIRMCAAwkIQAgQABCMMQEggQEghAQjKEMHGeDIGZPJnJqA8Chm3b9oZz-O5593r3_J8rlmg1T3SnDCzETCxonU1REo_Ccgi_JdFyARdwARdwARdwARdwARdYCYEavMNgyeEF3AhLCscW9Ir-DF8LDu5Yog_0C9iT_-Jwk4MDaEKLfXdeoczq09twD2eQwYaMKgu6ngfd54cGPFkSO_ThVOFBe_RXuIUjqMokxYUtOEUCEUVEv8cIHkIP2nCZh7jL3YrMUIjECsPqDLpD5oPvYkTwD3ThzUJs0rdlEcXgDBo87ye9DwMokHvh7MSCprKM4lVSgs_hGmqwJlPUH6DEbIL-rKJMAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.usbank.com/home-loans/mortgage/mortgage-calculators/va-mortgage-calculator.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.usbank.com%2Fhome-loans%2Fmortgage%2Fmortgage-calculators%2Fva-mortgage-calculator.html",
+      "source": "U.S. Bank"
+    },
+    {
+      "position": 8,
+      "title": "VA Mortgage Calculator",
+      "link": "https://veteranslendinggroup.com/va-resources/mortgage-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://veteranslendinggroup.com/va-resources/mortgage-calculator/&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4QFnoECBYQAQ",
+      "displayed_link": "https://veteranslendinggroup.com › VA Resources",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVHcEwEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwfPQ97fAAAAE3RSTlMAOIjv_6WvSZgJY27OIhd53IG6WIaxbQAAARNJREFUeAGd0sF2gyAQRuEL_DqgCOj7P2wraayJsYt-G49n7swKzpwPUvCOj9wgaTQbJcVLY_t0sOtPd1pK05RO59jNUnhOsyTlnyYGaQa8lj6dsw557s0i3wMotelNqwWeQdJH6V9BaH8HFeo5WIH1NxgTZqTxLjBK_lawm2CJMjDF5SaQh3UFr7sL-_Z-5e6Cy61AadndBMFI4wgWjqA-AtQVqiTNFHU8LpgcUbspqAuTdhEnA9BG0ZUKm9hVLURdRBZVOmW4vgfI4sFUSUEvQqLK-DHISE0nLWEaOWQZrDqsYMpwLjyUTd1WwCvzIqot4LKUHSxNkTcmDQmcgzRIjisv-dP3qm_W2i_dKYM0FM6-AMecD3nHIQN0AAAAAElFTkSuQmCC.png",
+      "snippet": "Mortgage Calculator | Service Member, Veteran, or Military Spouse ... Use this calculator to get an idea of what your mortgage payment could look like with the VA ...",
+      "snippet_highlighted_words": [
+        "Use this calculator to get an idea of what your mortgage payment could look like"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Mortgage Calculator | Service Member, Veteran, or Military Spouse ... Use this calculator to get an idea of what your mortgage payment could look like with the VA ...",
+          "source_info_link": "https://veteranslendinggroup.com/va-resources/mortgage-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVHcEwEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwcEBwfPQ97fAAAAE3RSTlMAOIjv_6WvSZgJY27OIhd53IG6WIaxbQAAARNJREFUeAGd0sF2gyAQRuEL_DqgCOj7P2wraayJsYt-G49n7swKzpwPUvCOj9wgaTQbJcVLY_t0sOtPd1pK05RO59jNUnhOsyTlnyYGaQa8lj6dsw557s0i3wMotelNqwWeQdJH6V9BaH8HFeo5WIH1NxgTZqTxLjBK_lawm2CJMjDF5SaQh3UFr7sL-_Z-5e6Cy61AadndBMFI4wgWjqA-AtQVqiTNFHU8LpgcUbspqAuTdhEnA9BG0ZUKm9hVLURdRBZVOmW4vgfI4sFUSUEvQqLK-DHISE0nLWEaOWQZrDqsYMpwLjyUTd1WwCvzIqot4LKUHSxNkTcmDQmcgzRIjisv-dP3qm_W2i_dKYM0FM6-AMecD3nHIQN0AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://veteranslendinggroup.com/va-resources/mortgage-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fveteranslendinggroup.com%2Fva-resources%2Fmortgage-calculator%2F",
+      "source": "Veterans Lending Group",
+      "read_more_link": "https://veteranslendinggroup.com/va-resources/mortgage-calculator/#:~:text=Use%20this%20calculator%20to%20get,like%20with%20the%20VA%20loan!"
+    },
+    {
+      "position": 9,
+      "title": "VA Loan Calculator",
+      "link": "https://www.allstate.com/resources/home-insurance/va-loan-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allstate.com/resources/home-insurance/va-loan-calculator&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4QFnoECDAQAQ",
+      "displayed_link": "https://www.allstate.com › Resources › Home",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABJElEQVR4AWMgBjh6p1QxGC_4j45t_UqnEdSsAAQQDZjYIaBwAkEDjP3adsA0SDpOf8xtOfcL0QaY2boFwBRzmM_7bm7rFcxqNv8XsQawCtnOfgNTbO-TXAkUYyPaC_Z-eZ0whUJ2s16DxGRlVZSJMkBZU1MHWaGNU0giSFxDQ0OXKAO0vfpOwhQZ-nbsgomrqGhpEzTA1ikoAVmRgoKaBrLLCBnAyms95yNMASjKFFyn3BS0mf1WzH7mc1Cg4jXAxr90Bo5EQzgh6RqaWYIEyTZA06vvNEzCPKBpA0hMRkZGGghkQBjIZTc0tXXGaoCde0w-soSYmJg4ttiRV1XVxDBAQkJCFEXQN60am2ac6UDPp_swTEDKccYjfGlbQ1fXGD07AwBcnwFAM3tzvQAAAABJRU5ErkJggg.png",
+      "snippet": "The Allstate® Veterans Affair (VA) loan calculator gives you an idea of how much monthly payments on your new house will be, including property taxes and ...",
+      "snippet_highlighted_words": [
+        "Allstate® Veterans Affair (VA) loan calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Allstate® Veterans Affair (VA) loan calculator gives you an idea of how much monthly payments on your new house will be, including property taxes and ...",
+          "source_info_link": "https://www.allstate.com/resources/home-insurance/va-loan-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABJElEQVR4AWMgBjh6p1QxGC_4j45t_UqnEdSsAAQQDZjYIaBwAkEDjP3adsA0SDpOf8xtOfcL0QaY2boFwBRzmM_7bm7rFcxqNv8XsQawCtnOfgNTbO-TXAkUYyPaC_Z-eZ0whUJ2s16DxGRlVZSJMkBZU1MHWaGNU0giSFxDQ0OXKAO0vfpOwhQZ-nbsgomrqGhpEzTA1ikoAVmRgoKaBrLLCBnAyms95yNMASjKFFyn3BS0mf1WzH7mc1Cg4jXAxr90Bo5EQzgh6RqaWYIEyTZA06vvNEzCPKBpA0hMRkZGGghkQBjIZTc0tXXGaoCde0w-soSYmJg4ttiRV1XVxDBAQkJCFEXQN60am2ac6UDPp_swTEDKccYjfGlbQ1fXGD07AwBcnwFAM3tzvQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.allstate.com/resources/home-insurance/va-loan-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.allstate.com%2Fresources%2Fhome-insurance%2Fva-loan-calculator",
+      "source": "Allstate",
+      "read_more_link": "https://www.allstate.com/resources/home-insurance/va-loan-calculator#:~:text=The%20Allstate%C2%AE%20Veterans%20Affair%20(VA),property%20taxes%20and%20homeowners%20insurance."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=va+loan+payment+calculator+military&sca_esv=c510ba4e6526f391&ei=ACE6apLlDMO6qtsPs7q28AY&start=10&sa=N&sstk=AU9db-CJF7DB6Yuffdr9lFGP4RvTYZLm8XzKPB7r8v0hDfOBLY_Bp8XMX9qY0wlZK3tXD-k_cnIcmj1uyL4cwreL_N83cpaff5_yAQ&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4Q8NMDegQILxAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=va+loan+payment+calculator+military&sca_esv=c510ba4e6526f391&ei=ACE6apLlDMO6qtsPs7q28AY&start=10&sa=N&sstk=AU9db-CJF7DB6Yuffdr9lFGP4RvTYZLm8XzKPB7r8v0hDfOBLY_Bp8XMX9qY0wlZK3tXD-k_cnIcmj1uyL4cwreL_N83cpaff5_yAQ&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4Q8tMDegQILxAE",
+      "3": "https://www.google.com/search?q=va+loan+payment+calculator+military&sca_esv=c510ba4e6526f391&ei=ACE6apLlDMO6qtsPs7q28AY&start=20&sa=N&sstk=AU9db-CJF7DB6Yuffdr9lFGP4RvTYZLm8XzKPB7r8v0hDfOBLY_Bp8XMX9qY0wlZK3tXD-k_cnIcmj1uyL4cwreL_N83cpaff5_yAQ&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4Q8tMDegQILxAG",
+      "4": "https://www.google.com/search?q=va+loan+payment+calculator+military&sca_esv=c510ba4e6526f391&ei=ACE6apLlDMO6qtsPs7q28AY&start=30&sa=N&sstk=AU9db-CJF7DB6Yuffdr9lFGP4RvTYZLm8XzKPB7r8v0hDfOBLY_Bp8XMX9qY0wlZK3tXD-k_cnIcmj1uyL4cwreL_N83cpaff5_yAQ&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4Q8tMDegQILxAI",
+      "5": "https://www.google.com/search?q=va+loan+payment+calculator+military&sca_esv=c510ba4e6526f391&ei=ACE6apLlDMO6qtsPs7q28AY&start=40&sa=N&sstk=AU9db-CJF7DB6Yuffdr9lFGP4RvTYZLm8XzKPB7r8v0hDfOBLY_Bp8XMX9qY0wlZK3tXD-k_cnIcmj1uyL4cwreL_N83cpaff5_yAQ&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4Q8tMDegQILxAK",
+      "6": "https://www.google.com/search?q=va+loan+payment+calculator+military&sca_esv=c510ba4e6526f391&ei=ACE6apLlDMO6qtsPs7q28AY&start=50&sa=N&sstk=AU9db-CJF7DB6Yuffdr9lFGP4RvTYZLm8XzKPB7r8v0hDfOBLY_Bp8XMX9qY0wlZK3tXD-k_cnIcmj1uyL4cwreL_N83cpaff5_yAQ&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4Q8tMDegQILxAM",
+      "7": "https://www.google.com/search?q=va+loan+payment+calculator+military&sca_esv=c510ba4e6526f391&ei=ACE6apLlDMO6qtsPs7q28AY&start=60&sa=N&sstk=AU9db-CJF7DB6Yuffdr9lFGP4RvTYZLm8XzKPB7r8v0hDfOBLY_Bp8XMX9qY0wlZK3tXD-k_cnIcmj1uyL4cwreL_N83cpaff5_yAQ&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4Q8tMDegQILxAO",
+      "8": "https://www.google.com/search?q=va+loan+payment+calculator+military&sca_esv=c510ba4e6526f391&ei=ACE6apLlDMO6qtsPs7q28AY&start=70&sa=N&sstk=AU9db-CJF7DB6Yuffdr9lFGP4RvTYZLm8XzKPB7r8v0hDfOBLY_Bp8XMX9qY0wlZK3tXD-k_cnIcmj1uyL4cwreL_N83cpaff5_yAQ&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4Q8tMDegQILxAQ",
+      "9": "https://www.google.com/search?q=va+loan+payment+calculator+military&sca_esv=c510ba4e6526f391&ei=ACE6apLlDMO6qtsPs7q28AY&start=80&sa=N&sstk=AU9db-CJF7DB6Yuffdr9lFGP4RvTYZLm8XzKPB7r8v0hDfOBLY_Bp8XMX9qY0wlZK3tXD-k_cnIcmj1uyL4cwreL_N83cpaff5_yAQ&ved=2ahUKEwiS5bXQ15yVAxVDnWoFHTOdDW4Q8tMDegQILxAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=va+loan+payment+calculator+military&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=va+loan+payment+calculator+military&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=va+loan+payment+calculator+military&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=va+loan+payment+calculator+military&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=va+loan+payment+calculator+military&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=va+loan+payment+calculator+military&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=va+loan+payment+calculator+military&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=va+loan+payment+calculator+military&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=va+loan+payment+calculator+military&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=va+loan+payment+calculator+military&start=80"
+    }
+  }
+}

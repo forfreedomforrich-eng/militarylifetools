@@ -1,0 +1,442 @@
+{
+  "search_metadata": {
+    "id": "6a3a20cba3ce84ef27d117ac",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/20ER4AVwWvOYWL6pseSssg/6a3a20cba3ce84ef27d117ac.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/20ER4AVwWvOYWL6pseSssg/6a3a20cba3ce84ef27d117ac.json_with_pixel_position",
+    "created_at": "2026-06-23 05:59:39 UTC",
+    "processed_at": "2026-06-23 05:59:39 UTC",
+    "google_url": "https://www.google.com/search?q=military+promotion+points+calculator&oq=military+promotion+points+calculator&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/20ER4AVwWvOYWL6pseSssg/6a3a20cba3ce84ef27d117ac.html",
+    "total_time_taken": 0.8
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military promotion points calculator",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military promotion points calculator",
+    "total_results": 95,
+    "time_taken_displayed": 0.16,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How to calculate Army promotion points?",
+      "type": "ai_overview",
+      "page_token": "CrXO1nicHdBdbpswAABg7TJ9bPjpmIgUTXIKCRZ4w7GN8ctk7OYHbHAaGhq_7S471U4zad8Rvt9_zGUc_n65n-fZ3dar1bIsz6dpOpm3ZzXZlbw9RrVS0phOqmGdfEvC70e1yT4KsL0WoKbOsVcckAzmiOaFHNGjIcKrGJguUp-a4JeucfmBgLLzGiAjbjpzl5LDtrOsb-kQHPbQHiK4kAg-cG_eW2ZkRdnc2HOMOExYnn5I40pmcfLWpADTuUAj2vIQXilLEx3TT2Jnx1i6U7twrwNsqWEtsSJUg65-0MqLIDy31JWS47vgADcU7ssmm7GHPePDV7lLtzrXFfO1p68YZGed1EEWtZzZmqKf7Yhnkud1x9mVbENQgelSU-xVbyylxvEIUUGURzG6trxYDr24yxgPIktfhDeC1k9Hdd_ET_8_N7-Odl679-n0D5esg6Q",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=CrXO1nicHdBdbpswAABg7TJ9bPjpmIgUTXIKCRZ4w7GN8ctk7OYHbHAaGhq_7S471U4zad8Rvt9_zGUc_n65n-fZ3dar1bIsz6dpOpm3ZzXZlbw9RrVS0phOqmGdfEvC70e1yT4KsL0WoKbOsVcckAzmiOaFHNGjIcKrGJguUp-a4JeucfmBgLLzGiAjbjpzl5LDtrOsb-kQHPbQHiK4kAg-cG_eW2ZkRdnc2HOMOExYnn5I40pmcfLWpADTuUAj2vIQXilLEx3TT2Jnx1i6U7twrwNsqWEtsSJUg65-0MqLIDy31JWS47vgADcU7ssmm7GHPePDV7lLtzrXFfO1p68YZGed1EEWtZzZmqKf7Yhnkud1x9mVbENQgelSU-xVbyylxvEIUUGURzG6trxYDr24yxgPIktfhDeC1k9Hdd_ET_8_N7-Odl679-n0D5esg6Q",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6QXhaVk5aYUZaNVQyeFJWVUpmVldSRWFYQmpjMng2UVRZdE1HRm9WR2RxTXpCSldDMXdaazl1TlRjeFVGSkhaRFZQYmxCRlluWkpTRzVIU21GNlYwMUtlV3RQYkdkNFppMUhVMWg0YlZSdVEzWnZRbUk0VHpkcVVSSVhla05CTm1GMVprRkRUMkowYlV4UlVHMTFha3d0UVRBYUlrRkVjM0k1WmxKRlNGaDVZM1phYldkeVFrbG5jM1J0WWpsTFRYZE1WVTFqWW1jIiwiZmN2IjoiMyIsImVpIjoiekNBNmF1ZkFDT2J0bUxRUG11akwtQTAiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQndjbTl0YjNScGIyNGdjRzlwYm5SeklHTmhiR04xYkdGMGIzSVFBSDNhR01vLSIsInF1ZXN0aW9uIjoiSG93IHRvIGNhbGN1bGF0ZSBBcm15IHByb21vdGlvbiBwb2ludHM/IiwibGsiOiJHaVpvYjNjZ2RHOGdZMkZzWTNWc1lYUmxJR0Z5YlhrZ2NISnZiVzkwYVc5dUlIQnZhVzUwY3ciLCJicyI6ImM0M1B2UXZDUUF5SFlWeHZjdTcwMDhIUFJhcldzVGdVM1IzRU1aWXJWMmd2NVM2bC1OOXJwVGhvUmJkQUhoSmVkVkxUSXpjUVJrcEZXaGNrR250WDNsQTVMbGx5dHFnNHQtTGpjQlpNekR1bFBxb3VhdEVlTGNsLUxwRjdySGZnV3NBWk5xczRYQVp6ODY5V0J6VTZHeEpjSGRuVWRGNTdpTkhJeUQ5R2ljTnhnT1lIVWwxNF85ZU1IWkp0bTVwRXJfRHZWRC1wam9hRE93IiwiaWQiOiJmY196Q0E2YXVmQUNPYnRtTFFQbXVqTC1BMF81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6QXhaVk5aYUZaNVQyeFJWVUpmVldSRWFYQmpjMng2UVRZdE1HRm9WR2RxTXpCSldDMXdaazl1TlRjeFVGSkhaRFZQYmxCRlluWkpTRzVIU21GNlYwMUtlV3RQYkdkNFppMUhVMWg0YlZSdVEzWnZRbUk0VHpkcVVSSVhla05CTm1GMVprRkRUMkowYlV4UlVHMTFha3d0UVRBYUlrRkVjM0k1WmxKRlNGaDVZM1phYldkeVFrbG5jM1J0WWpsTFRYZE1WVTFqWW1jIiwiZmN2IjoiMyIsImVpIjoiekNBNmF1ZkFDT2J0bUxRUG11akwtQTAiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQndjbTl0YjNScGIyNGdjRzlwYm5SeklHTmhiR04xYkdGMGIzSVFBSDNhR01vLSIsInF1ZXN0aW9uIjoiSG93IHRvIGNhbGN1bGF0ZSBBcm15IHByb21vdGlvbiBwb2ludHM%2FIiwibGsiOiJHaVpvYjNjZ2RHOGdZMkZzWTNWc1lYUmxJR0Z5YlhrZ2NISnZiVzkwYVc5dUlIQnZhVzUwY3ciLCJicyI6ImM0M1B2UXZDUUF5SFlWeHZjdTcwMDhIUFJhcldzVGdVM1IzRU1aWXJWMmd2NVM2bC1OOXJwVGhvUmJkQUhoSmVkVkxUSXpjUVJrcEZXaGNrR250WDNsQTVMbGx5dHFnNHQtTGpjQlpNekR1bFBxb3VhdEVlTGNsLUxwRjdySGZnV3NBWk5xczRYQVp6ODY5V0J6VTZHeEpjSGRuVWRGNTdpTkhJeUQ5R2ljTnhnT1lIVWwxNF85ZU1IWkp0bTVwRXJfRHZWRC1wam9hRE93IiwiaWQiOiJmY196Q0E2YXVmQUNPYnRtTFFQbXVqTC1BMF81In0%3D"
+    },
+    {
+      "question": "How many promotion points is 37 out of 40?",
+      "type": "ai_overview",
+      "page_token": "-1Hi83icHdDbTsIwAADQ-DM-yi6ASkJMiusGWKRdL1tfTNsBlXUXtbK4N__Fr_JrTDyfcL5_3Gtb_15drPf9x2IyGYbh5tR1J3e4MV0zUR9frZkY5ZxWpl7Mb-fhw9Esk881WL2tAWZ9zx9JkEcbZbgLRCrb3Sjls7gvniiZcbeOZNxjJGZc1BxqYROW3g0alp6lfsZ5j2QmC3O2RcWspZljmkqJeJ9p7lIUywjVoXouNjmOyTYPCdEhyKrobsoaP1UUBbuWF4raUXEYlCOsuUgG9AgoDfy-WoVPUkjGv8I4FxUoR1maqJprVzUynUY6A5RA0ueQ-cN5dxGZa1C9AYmt5jhIorLgDWa7fdkSTyHEuuBvdBUCBLpXzMhozq7hma3puUImQDPd2q1pOKZObg-Z3Ch432JKEMbXR3NZxtf_n8uXY-MX_Xt3-gPZToGS",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-1Hi83icHdDbTsIwAADQ-DM-yi6ASkJMiusGWKRdL1tfTNsBlXUXtbK4N__Fr_JrTDyfcL5_3Gtb_15drPf9x2IyGYbh5tR1J3e4MV0zUR9frZkY5ZxWpl7Mb-fhw9Esk881WL2tAWZ9zx9JkEcbZbgLRCrb3Sjls7gvniiZcbeOZNxjJGZc1BxqYROW3g0alp6lfsZ5j2QmC3O2RcWspZljmkqJeJ9p7lIUywjVoXouNjmOyTYPCdEhyKrobsoaP1UUBbuWF4raUXEYlCOsuUgG9AgoDfy-WoVPUkjGv8I4FxUoR1maqJprVzUynUY6A5RA0ueQ-cN5dxGZa1C9AYmt5jhIorLgDWa7fdkSTyHEuuBvdBUCBLpXzMhozq7hma3puUImQDPd2q1pOKZObg-Z3Ch432JKEMbXR3NZxtf_n8uXY-MX_Xt3-gPZToGS",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6QXhaVk5aYUZaNVQyeFJWVUpmVldSRWFYQmpjMng2UVRZdE1HRm9WR2RxTXpCSldDMXdaazl1TlRjeFVGSkhaRFZQYmxCRlluWkpTRzVIU21GNlYwMUtlV3RQYkdkNFppMUhVMWg0YlZSdVEzWnZRbUk0VHpkcVVSSVhla05CTm1GMVprRkRUMkowYlV4UlVHMTFha3d0UVRBYUlrRkVjM0k1WmxKRlNGaDVZM1phYldkeVFrbG5jM1J0WWpsTFRYZE1WVTFqWW1jIiwiZmN2IjoiMyIsImVpIjoiekNBNmF1ZkFDT2J0bUxRUG11akwtQTAiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQndjbTl0YjNScGIyNGdjRzlwYm5SeklHTmhiR04xYkdGMGIzSVFBSDNhR01vLSIsInF1ZXN0aW9uIjoiSG93IG1hbnkgcHJvbW90aW9uIHBvaW50cyBpcyAzNyBvdXQgb2YgNDA/IiwibGsiOiJHaWxvYjNjZ2JXRnVlU0J3Y205dGIzUnBiMjRnY0c5cGJuUnpJR2x6SURNM0lHOTFkQ0J2WmlBME1BIiwiYnMiOiJjNDNQdlF2Q1FBeUhZVnh2Y3U3MDA4SFBSYXJXc1RnVTNSM0VNWllyVjJndjVTNmwtTjlycFRob1JiZEFIaEplZFZMVEl6Y1FSa3BGV2hja0dudFgzbEE1TGxseXRxZzR0LUxqY0JaTXpEdWxQcW91YXRFZUxjbC1McEY3ckhmZ1dzQVpOcXM0WEFaejg2OVdCelU2R3hKY0hkblVkRjU3aU5ISXlEOUdpY054Z09ZSFVsMTRfOWVNSFpKdG01cEVyX0R2VkQtcGpvYURPdyIsImlkIjoiZmNfekNBNmF1ZkFDT2J0bUxRUG11akwtQTBfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6QXhaVk5aYUZaNVQyeFJWVUpmVldSRWFYQmpjMng2UVRZdE1HRm9WR2RxTXpCSldDMXdaazl1TlRjeFVGSkhaRFZQYmxCRlluWkpTRzVIU21GNlYwMUtlV3RQYkdkNFppMUhVMWg0YlZSdVEzWnZRbUk0VHpkcVVSSVhla05CTm1GMVprRkRUMkowYlV4UlVHMTFha3d0UVRBYUlrRkVjM0k1WmxKRlNGaDVZM1phYldkeVFrbG5jM1J0WWpsTFRYZE1WVTFqWW1jIiwiZmN2IjoiMyIsImVpIjoiekNBNmF1ZkFDT2J0bUxRUG11akwtQTAiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQndjbTl0YjNScGIyNGdjRzlwYm5SeklHTmhiR04xYkdGMGIzSVFBSDNhR01vLSIsInF1ZXN0aW9uIjoiSG93IG1hbnkgcHJvbW90aW9uIHBvaW50cyBpcyAzNyBvdXQgb2YgNDA%2FIiwibGsiOiJHaWxvYjNjZ2JXRnVlU0J3Y205dGIzUnBiMjRnY0c5cGJuUnpJR2x6SURNM0lHOTFkQ0J2WmlBME1BIiwiYnMiOiJjNDNQdlF2Q1FBeUhZVnh2Y3U3MDA4SFBSYXJXc1RnVTNSM0VNWllyVjJndjVTNmwtTjlycFRob1JiZEFIaEplZFZMVEl6Y1FSa3BGV2hja0dudFgzbEE1TGxseXRxZzR0LUxqY0JaTXpEdWxQcW91YXRFZUxjbC1McEY3ckhmZ1dzQVpOcXM0WEFaejg2OVdCelU2R3hKY0hkblVkRjU3aU5ISXlEOUdpY054Z09ZSFVsMTRfOWVNSFpKdG01cEVyX0R2VkQtcGpvYURPdyIsImlkIjoiZmNfekNBNmF1ZkFDT2J0bUxRUG11akwtQTBfNSJ9"
+    },
+    {
+      "question": "What branch promotes the fastest?",
+      "type": "ai_overview",
+      "page_token": "kJ0a2XicHdDBcqIwGADg2ZfpsZKo7OqM0ymKrt0NNmn4E7jsYKiAJEAllZRb36VP1adpZ8_f7Xv_0FVTf_64ltZ2_XIyGYbhtmjbQj_fqtZMsv6tUROVaX3MVL30f_ro7qRW4es-WL_sAxp3HWyY9yQ7_rwrG14nCDZQZefoAqKscqkxnwYnKmaWcDJyrrXYzeYSlSTC7gohAMOLPtF7q8ZyJmT3m4X5H9gUjkggDB5MipiItwGHETphPPwkCqeARRE8nBlnlpyhJ1udUVQPfwV1KVr4uU4l0cFcYeSSOB9g_HaB1knljUlzjw8yRhFeuLQuNffC-WGX9tSzfjplNgtZE5a5T70QJxIMjaPHpGGWb7f0KOGFr1FAgraiMRvVWZsYRwaMmzEdrI-iuyjPukT8wsLAjnuOUTwPY3pzUtfV9Ob_5-rfydhld2mLL0Ebgoo",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kJ0a2XicHdDBcqIwGADg2ZfpsZKo7OqM0ymKrt0NNmn4E7jsYKiAJEAllZRb36VP1adpZ8_f7Xv_0FVTf_64ltZ2_XIyGYbhtmjbQj_fqtZMsv6tUROVaX3MVL30f_ro7qRW4es-WL_sAxp3HWyY9yQ7_rwrG14nCDZQZefoAqKscqkxnwYnKmaWcDJyrrXYzeYSlSTC7gohAMOLPtF7q8ZyJmT3m4X5H9gUjkggDB5MipiItwGHETphPPwkCqeARRE8nBlnlpyhJ1udUVQPfwV1KVr4uU4l0cFcYeSSOB9g_HaB1knljUlzjw8yRhFeuLQuNffC-WGX9tSzfjplNgtZE5a5T70QJxIMjaPHpGGWb7f0KOGFr1FAgraiMRvVWZsYRwaMmzEdrI-iuyjPukT8wsLAjnuOUTwPY3pzUtfV9Ob_5-rfydhld2mLL0Ebgoo",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6QXhaVk5aYUZaNVQyeFJWVUpmVldSRWFYQmpjMng2UVRZdE1HRm9WR2RxTXpCSldDMXdaazl1TlRjeFVGSkhaRFZQYmxCRlluWkpTRzVIU21GNlYwMUtlV3RQYkdkNFppMUhVMWg0YlZSdVEzWnZRbUk0VHpkcVVSSVhla05CTm1GMVprRkRUMkowYlV4UlVHMTFha3d0UVRBYUlrRkVjM0k1WmxKRlNGaDVZM1phYldkeVFrbG5jM1J0WWpsTFRYZE1WVTFqWW1jIiwiZmN2IjoiMyIsImVpIjoiekNBNmF1ZkFDT2J0bUxRUG11akwtQTAiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQndjbTl0YjNScGIyNGdjRzlwYm5SeklHTmhiR04xYkdGMGIzSVFBSDNhR01vLSIsInF1ZXN0aW9uIjoiV2hhdCBicmFuY2ggcHJvbW90ZXMgdGhlIGZhc3Rlc3Q/IiwibGsiOiJHaUIzYUdGMElHSnlZVzVqYUNCd2NtOXRiM1JsY3lCMGFHVWdabUZ6ZEdWemRBIiwiYnMiOiJjNDNQdlF2Q1FBeUhZVnh2Y3U3MDA4SFBSYXJXc1RnVTNSM0VNWllyVjJndjVTNmwtTjlycFRob1JiZEFIaEplZFZMVEl6Y1FSa3BGV2hja0dudFgzbEE1TGxseXRxZzR0LUxqY0JaTXpEdWxQcW91YXRFZUxjbC1McEY3ckhmZ1dzQVpOcXM0WEFaejg2OVdCelU2R3hKY0hkblVkRjU3aU5ISXlEOUdpY054Z09ZSFVsMTRfOWVNSFpKdG01cEVyX0R2VkQtcGpvYURPdyIsImlkIjoiZmNfekNBNmF1ZkFDT2J0bUxRUG11akwtQTBfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6QXhaVk5aYUZaNVQyeFJWVUpmVldSRWFYQmpjMng2UVRZdE1HRm9WR2RxTXpCSldDMXdaazl1TlRjeFVGSkhaRFZQYmxCRlluWkpTRzVIU21GNlYwMUtlV3RQYkdkNFppMUhVMWg0YlZSdVEzWnZRbUk0VHpkcVVSSVhla05CTm1GMVprRkRUMkowYlV4UlVHMTFha3d0UVRBYUlrRkVjM0k1WmxKRlNGaDVZM1phYldkeVFrbG5jM1J0WWpsTFRYZE1WVTFqWW1jIiwiZmN2IjoiMyIsImVpIjoiekNBNmF1ZkFDT2J0bUxRUG11akwtQTAiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQndjbTl0YjNScGIyNGdjRzlwYm5SeklHTmhiR04xYkdGMGIzSVFBSDNhR01vLSIsInF1ZXN0aW9uIjoiV2hhdCBicmFuY2ggcHJvbW90ZXMgdGhlIGZhc3Rlc3Q%2FIiwibGsiOiJHaUIzYUdGMElHSnlZVzVqYUNCd2NtOXRiM1JsY3lCMGFHVWdabUZ6ZEdWemRBIiwiYnMiOiJjNDNQdlF2Q1FBeUhZVnh2Y3U3MDA4SFBSYXJXc1RnVTNSM0VNWllyVjJndjVTNmwtTjlycFRob1JiZEFIaEplZFZMVEl6Y1FSa3BGV2hja0dudFgzbEE1TGxseXRxZzR0LUxqY0JaTXpEdWxQcW91YXRFZUxjbC1McEY3ckhmZ1dzQVpOcXM0WEFaejg2OVdCelU2R3hKY0hkblVkRjU3aU5ISXlEOUdpY054Z09ZSFVsMTRfOWVNSFpKdG01cEVyX0R2VkQtcGpvYURPdyIsImlkIjoiZmNfekNBNmF1ZkFDT2J0bUxRUG11akwtQTBfNSJ9"
+    },
+    {
+      "question": "How many promotion points for E5 to E6?",
+      "type": "ai_overview",
+      "page_token": "XJkYqHicHdBdboIwAADg7DI-isBk0cQsq_yokbqWlmpfFix_QguNdoJ72112qp1myb4jfN8_8tK1v0_H2hh9W1rWMAzTqu8rWUxFr6zs9uiEJTIpz5lol96LZ7-WYhXcBrDuB4Co1qmPZ8lMe4jOPWhr76zSK2PjVihdxpKDpB39dINNEeAs2_CBb8KWre2aNWFzdOU7snc-UaOm8s3QDjzHLGzYMbbFxb5jwm-JrJxCVWZPanJqoE4cDKGDRkwgFZH5OqRyxAE3lMD5aTYHqMNXEvD4wDSloZ6n4c4-EPCJHNwTXzaoXSgWnZLQ1T4ivM4ZB2i2uOSRHdMUmJzpeE-DIbrsAN7Ax4FxktPwGge8PrNcJUFaFirfkQ5sIcUubLVDVI0npbiv3Mn_2OqjVGapr331B8VQeS0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XJkYqHicHdBdboIwAADg7DI-isBk0cQsq_yokbqWlmpfFix_QguNdoJ72112qp1myb4jfN8_8tK1v0_H2hh9W1rWMAzTqu8rWUxFr6zs9uiEJTIpz5lol96LZ7-WYhXcBrDuB4Co1qmPZ8lMe4jOPWhr76zSK2PjVihdxpKDpB39dINNEeAs2_CBb8KWre2aNWFzdOU7snc-UaOm8s3QDjzHLGzYMbbFxb5jwm-JrJxCVWZPanJqoE4cDKGDRkwgFZH5OqRyxAE3lMD5aTYHqMNXEvD4wDSloZ6n4c4-EPCJHNwTXzaoXSgWnZLQ1T4ivM4ZB2i2uOSRHdMUmJzpeE-DIbrsAN7Ax4FxktPwGge8PrNcJUFaFirfkQ5sIcUubLVDVI0npbiv3Mn_2OqjVGapr331B8VQeS0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6QXhaVk5aYUZaNVQyeFJWVUpmVldSRWFYQmpjMng2UVRZdE1HRm9WR2RxTXpCSldDMXdaazl1TlRjeFVGSkhaRFZQYmxCRlluWkpTRzVIU21GNlYwMUtlV3RQYkdkNFppMUhVMWg0YlZSdVEzWnZRbUk0VHpkcVVSSVhla05CTm1GMVprRkRUMkowYlV4UlVHMTFha3d0UVRBYUlrRkVjM0k1WmxKRlNGaDVZM1phYldkeVFrbG5jM1J0WWpsTFRYZE1WVTFqWW1jIiwiZmN2IjoiMyIsImVpIjoiekNBNmF1ZkFDT2J0bUxRUG11akwtQTAiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQndjbTl0YjNScGIyNGdjRzlwYm5SeklHTmhiR04xYkdGMGIzSVFBSDNhR01vLSIsInF1ZXN0aW9uIjoiSG93IG1hbnkgcHJvbW90aW9uIHBvaW50cyBmb3IgRTUgdG8gRTY/IiwibGsiOiJHaVpvYjNjZ2JXRnVlU0J3Y205dGIzUnBiMjRnY0c5cGJuUnpJR1p2Y2lCbE5TQjBieUJsTmciLCJicyI6ImM0M1B2UXZDUUF5SFlWeHZjdTcwMDhIUFJhcldzVGdVM1IzRU1aWXJWMmd2NVM2bC1OOXJwVGhvUmJkQUhoSmVkVkxUSXpjUVJrcEZXaGNrR250WDNsQTVMbGx5dHFnNHQtTGpjQlpNekR1bFBxb3VhdEVlTGNsLUxwRjdySGZnV3NBWk5xczRYQVp6ODY5V0J6VTZHeEpjSGRuVWRGNTdpTkhJeUQ5R2ljTnhnT1lIVWwxNF85ZU1IWkp0bTVwRXJfRHZWRC1wam9hRE93IiwiaWQiOiJmY196Q0E2YXVmQUNPYnRtTFFQbXVqTC1BMF81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1l6QXhaVk5aYUZaNVQyeFJWVUpmVldSRWFYQmpjMng2UVRZdE1HRm9WR2RxTXpCSldDMXdaazl1TlRjeFVGSkhaRFZQYmxCRlluWkpTRzVIU21GNlYwMUtlV3RQYkdkNFppMUhVMWg0YlZSdVEzWnZRbUk0VHpkcVVSSVhla05CTm1GMVprRkRUMkowYlV4UlVHMTFha3d0UVRBYUlrRkVjM0k1WmxKRlNGaDVZM1phYldkeVFrbG5jM1J0WWpsTFRYZE1WVTFqWW1jIiwiZmN2IjoiMyIsImVpIjoiekNBNmF1ZkFDT2J0bUxRUG11akwtQTAiLCJxYyI6IkNpUnRhV3hwZEdGeWVTQndjbTl0YjNScGIyNGdjRzlwYm5SeklHTmhiR04xYkdGMGIzSVFBSDNhR01vLSIsInF1ZXN0aW9uIjoiSG93IG1hbnkgcHJvbW90aW9uIHBvaW50cyBmb3IgRTUgdG8gRTY%2FIiwibGsiOiJHaVpvYjNjZ2JXRnVlU0J3Y205dGIzUnBiMjRnY0c5cGJuUnpJR1p2Y2lCbE5TQjBieUJsTmciLCJicyI6ImM0M1B2UXZDUUF5SFlWeHZjdTcwMDhIUFJhcldzVGdVM1IzRU1aWXJWMmd2NVM2bC1OOXJwVGhvUmJkQUhoSmVkVkxUSXpjUVJrcEZXaGNrR250WDNsQTVMbGx5dHFnNHQtTGpjQlpNekR1bFBxb3VhdEVlTGNsLUxwRjdySGZnV3NBWk5xczRYQVp6ODY5V0J6VTZHeEpjSGRuVWRGNTdpTkhJeUQ5R2ljTnhnT1lIVWwxNF85ZU1IWkp0bTVwRXJfRHZWRC1wam9hRE93IiwiaWQiOiJmY196Q0E2YXVmQUNPYnRtTFFQbXVqTC1BMF81In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "error": "An AI Overview is not available for this search"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Army Promotion Points Calculator 2026 | Boost Your Rank ...",
+      "link": "https://aftcalculatorscore.com/army-promotion-points-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aftcalculatorscore.com/army-promotion-points-calculator/&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8QFnoECBkQAQ",
+      "displayed_link": "https://aftcalculatorscore.com › army-promotion-points-...",
+      "favicon": "https://serpapi.com/searches/6a3a20cba3ce84ef27d117ac/images/22wKgeoON5tEBOj0WlAtdeWTJxbi_7A1KbDJREPoFiE.jpeg",
+      "snippet": "Use the Army Promotion Points Calculator 2026 to instantly calculate your E-5 or E-6 score, compare MOS cutoffs, and find quick wins to get promoted faster.",
+      "snippet_highlighted_words": [
+        "instantly calculate your E-5 or E-6 score"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Total Promotion Points",
+            "link": "https://aftcalculatorscore.com/army-promotion-points-calculator/#total-promotion-points"
+          },
+          {
+            "title": "What Are Army Promotion...",
+            "link": "https://aftcalculatorscore.com/army-promotion-points-calculator/#what-are-army-promotion-points"
+          },
+          {
+            "title": "How to Calculate Your...",
+            "link": "https://aftcalculatorscore.com/army-promotion-points-calculator/#how-to-calculate-your-promotion-points-stepbystep"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Use the Army Promotion Points Calculator 2026 to instantly calculate your E-5 or E-6 score, compare MOS cutoffs, and find quick wins to get promoted faster.",
+          "source_info_link": "https://aftcalculatorscore.com/army-promotion-points-calculator/",
+          "icon": "https://serpapi.com/searches/6a3a20cba3ce84ef27d117ac/images/22wKgeoON5tEBOj0WlAtdTwXsRp7j6SmMw29QY-sPssd0GvFNpfW8mRqkhNw5Mwk.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://aftcalculatorscore.com/army-promotion-points-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Faftcalculatorscore.com%2Farmy-promotion-points-calculator%2F",
+      "source": "aftcalculatorscore.com"
+    },
+    {
+      "position": 2,
+      "title": "Using an Army Promotion Points Calculator",
+      "link": "https://cutoffscores.com/promotion-points/using-an-army-promotion-points-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cutoffscores.com/promotion-points/using-an-army-promotion-points-calculator.html&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8QFnoECBoQAQ",
+      "displayed_link": "https://cutoffscores.com › promotion-points › using-an-a...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABsAAAAgCAMAAADUt_MJAAAAY1BMVEVHcEwSQzsjTT0ZSDwTRTsQQzsaRzwKQToVRTspTz4gSz0APTknUT8kTD0jSz3_0WfzyGT_1Gj9zWYAOTjZuF9gakVKXUKtm1W-plnnwWI0UT7Lr1yaj1GDgExydUl8fEuJhU5c9BgHAAAADnRSTlMAvx91hqIx_GMNQ9sH7xH70m0AAAGvSURBVCiRdVNZsqMwDMwCiGzavC9A7n_KZyCZyZuaqIoPqt2tdks-HFrdT4evdTl-x07Yf8WuPp-_YefFmvGzx8fJY6DyCfYf_cEyFezevyP-xa5ZrdXkb_tVriY8Ln8knlKNJZ1Mt0Pkry_oDlazNVXJejg3SHV564-eiiN2PhFFhKis8fbCbpFcZKYA1bpsiXNiPL1pKXPxSSyaidWiD7KL3qHQHMTNZgJnlYIpqfmG1Wm_kEWyIClXoeQ9q7oibo2mC-Jbw6DkbFowkAYtnjbiMAdHpam47LCyJGeK-qJzG839gazYRI45smg1tWQpmRIOLehIz5nKbazCwbh2SR_FBand2tACcx76OjejopEtMhueG29wYGnqDw9fk7SETKTlSdH7ZuYCQVpGJ0-N4wwiKmM7vc3paBMMh3HiZwZca5FiNGwr1D3zuFrilZPbZ4pUN217MGwT76tMG21FE82wpX3Zch1yM7sjiJ7Te0r7Qi2SEHaisfHXxq5-eTYA0AKQ6XMnmypUFY4htmgC_PNEhpuPTEJcHPymrXPuIHvnMvT_e1j3YTyfr6_t_AExmCTYZmoy4AAAAABJRU5ErkJggg.png",
+      "snippet": "Using an Army Promotion Points Calculator to tally up your points haul is a great alternative to wading through complicated regulations.",
+      "snippet_highlighted_words": [
+        "Using an Army Promotion Points Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Using an Army Promotion Points Calculator to tally up your points haul is a great alternative to wading through complicated regulations.",
+          "source_info_link": "https://cutoffscores.com/promotion-points/using-an-army-promotion-points-calculator.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABsAAAAgCAMAAADUt_MJAAAAY1BMVEVHcEwSQzsjTT0ZSDwTRTsQQzsaRzwKQToVRTspTz4gSz0APTknUT8kTD0jSz3_0WfzyGT_1Gj9zWYAOTjZuF9gakVKXUKtm1W-plnnwWI0UT7Lr1yaj1GDgExydUl8fEuJhU5c9BgHAAAADnRSTlMAvx91hqIx_GMNQ9sH7xH70m0AAAGvSURBVCiRdVNZsqMwDMwCiGzavC9A7n_KZyCZyZuaqIoPqt2tdks-HFrdT4evdTl-x07Yf8WuPp-_YefFmvGzx8fJY6DyCfYf_cEyFezevyP-xa5ZrdXkb_tVriY8Ln8knlKNJZ1Mt0Pkry_oDlazNVXJejg3SHV564-eiiN2PhFFhKis8fbCbpFcZKYA1bpsiXNiPL1pKXPxSSyaidWiD7KL3qHQHMTNZgJnlYIpqfmG1Wm_kEWyIClXoeQ9q7oibo2mC-Jbw6DkbFowkAYtnjbiMAdHpam47LCyJGeK-qJzG839gazYRI45smg1tWQpmRIOLehIz5nKbazCwbh2SR_FBand2tACcx76OjejopEtMhueG29wYGnqDw9fk7SETKTlSdH7ZuYCQVpGJ0-N4wwiKmM7vc3paBMMh3HiZwZca5FiNGwr1D3zuFrilZPbZ4pUN217MGwT76tMG21FE82wpX3Zch1yM7sjiJ7Te0r7Qi2SEHaisfHXxq5-eTYA0AKQ6XMnmypUFY4htmgC_PNEhpuPTEJcHPymrXPuIHvnMvT_e1j3YTyfr6_t_AExmCTYZmoy4AAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cutoffscores.com/promotion-points/using-an-army-promotion-points-calculator.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcutoffscores.com%2Fpromotion-points%2Fusing-an-army-promotion-points-calculator.html",
+      "source": "Army Cutoff Scores",
+      "read_more_link": "https://cutoffscores.com/promotion-points/using-an-army-promotion-points-calculator.html#:~:text=Using%20an%20Army%20Promotion%20Points,600%2D8%2D19%20(Enlisted%20Promotions%20and%20Reductions)."
+    },
+    {
+      "position": 3,
+      "title": "Weapons Qualification/Promotion Points to E5/SGT for ...",
+      "link": "https://ec.militarytimes.com/static/pdfs/STEP_Weapons_Qual_SGT_SSG.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ec.militarytimes.com/static/pdfs/STEP_Weapons_Qual_SGT_SSG.pdf&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8QFnoECBsQAQ",
+      "displayed_link": "https://ec.militarytimes.com › static › pdfs › STEP...",
+      "snippet": "Weapons Qualification/Promotion Points to E5/SGT for 1JAN16 Promotion Selections. DA Form 3595-R (SEP. 08) & 5790-R (JAN. 11)(M16/M4). DA Form 85-R (AUG 06).",
+      "snippet_highlighted_words": [
+        "Promotion Points"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 2
+          },
+          "extensions": [
+            "2 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Weapons Qualification/Promotion Points to E5/SGT for 1JAN16 Promotion Selections. DA Form 3595-R (SEP. 08) & 5790-R (JAN. 11)(M16/M4). DA Form 85-R (AUG 06).",
+          "source_info_link": "https://ec.militarytimes.com/static/pdfs/STEP_Weapons_Qual_SGT_SSG.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://ec.militarytimes.com/static/pdfs/STEP_Weapons_Qual_SGT_SSG.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fec.militarytimes.com%2Fstatic%2Fpdfs%2FSTEP_Weapons_Qual_SGT_SSG.pdf",
+      "source": "Military Times",
+      "read_more_link": "https://ec.militarytimes.com/static/pdfs/STEP_Weapons_Qual_SGT_SSG.pdf#:~:text=Weapons%20Qualification%2FPromotion%20Points%20to%20E5%2FSGT,DA%20Form%2085%2DR%20(AUG%2006)"
+    },
+    {
+      "position": 4,
+      "title": "FYSA: new promotion point calculation is now in effect. ...",
+      "link": "https://www.reddit.com/r/army/comments/12dk5ng/fysa_new_promotion_point_calculation_is_now_in/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/army/comments/12dk5ng/fysa_new_promotion_point_calculation_is_now_in/&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8QFnoECEMQAQ",
+      "displayed_link": "330+ comments · 3 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "New promotion point calculation is now in effect. Rewarding military training, awards, and weapons qual (for SGT) over high PT score.",
+      "snippet_highlighted_words": [
+        "New promotion point calculation is now in effect"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "New AFT promotion point scale : r/army - Reddit",
+            "link": "https://www.reddit.com/r/army/comments/1nhm8v8/new_aft_promotion_point_scale/",
+            "answer_count": 47,
+            "date": "Sep 15, 2025"
+          },
+          {
+            "title": "PPW calculator : r/army - Reddit",
+            "link": "https://www.reddit.com/r/army/comments/13ri8zp/ppw_calculator/",
+            "answer_count": 5,
+            "date": "May 25, 2023"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "New promotion point calculation is now in effect. Rewarding military training, awards, and weapons qual (for SGT) over high PT score.",
+          "source_info_link": "https://www.reddit.com/r/army/comments/12dk5ng/fysa_new_promotion_point_calculation_is_now_in/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/army/comments/12dk5ng/fysa_new_promotion_point_calculation_is_now_in/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Farmy%2Fcomments%2F12dk5ng%2Ffysa_new_promotion_point_calculation_is_now_in%2F",
+      "source": "Reddit · r/army",
+      "read_more_link": "https://www.reddit.com/r/army/comments/12dk5ng/fysa_new_promotion_point_calculation_is_now_in/#:~:text=FYSA%3A%20new%20promotion%20point%20calculation,SGT)%20over%20high%20PT%20score."
+    },
+    {
+      "position": 5,
+      "title": "Army Cutoff Scores",
+      "link": "https://cutoffscores.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cutoffscores.com/&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8QFnoECCwQAQ",
+      "displayed_link": "https://cutoffscores.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABsAAAAgCAMAAADUt_MJAAAAY1BMVEVHcEwSQzsjTT0ZSDwTRTsQQzsaRzwKQToVRTspTz4gSz0APTknUT8kTD0jSz3_0WfzyGT_1Gj9zWYAOTjZuF9gakVKXUKtm1W-plnnwWI0UT7Lr1yaj1GDgExydUl8fEuJhU5c9BgHAAAADnRSTlMAvx91hqIx_GMNQ9sH7xH70m0AAAGvSURBVCiRdVNZsqMwDMwCiGzavC9A7n_KZyCZyZuaqIoPqt2tdks-HFrdT4evdTl-x07Yf8WuPp-_YefFmvGzx8fJY6DyCfYf_cEyFezevyP-xa5ZrdXkb_tVriY8Ln8knlKNJZ1Mt0Pkry_oDlazNVXJejg3SHV564-eiiN2PhFFhKis8fbCbpFcZKYA1bpsiXNiPL1pKXPxSSyaidWiD7KL3qHQHMTNZgJnlYIpqfmG1Wm_kEWyIClXoeQ9q7oibo2mC-Jbw6DkbFowkAYtnjbiMAdHpam47LCyJGeK-qJzG839gazYRI45smg1tWQpmRIOLehIz5nKbazCwbh2SR_FBand2tACcx76OjejopEtMhueG29wYGnqDw9fk7SETKTlSdH7ZuYCQVpGJ0-N4wwiKmM7vc3paBMMh3HiZwZca5FiNGwr1D3zuFrilZPbZ4pUN217MGwT76tMG21FE82wpX3Zch1yM7sjiJ7Te0r7Qi2SEHaisfHXxq5-eTYA0AKQ6XMnmypUFY4htmgC_PNEhpuPTEJcHPymrXPuIHvnMvT_e1j3YTyfr6_t_AExmCTYZmoy4AAAAABJRU5ErkJggg.png",
+      "snippet": "Army Cutoff Scores provides immediate access to current promotion point Cutoff Scores and provides years of archived data to better understand trends within ...",
+      "snippet_highlighted_words": [
+        "current promotion point Cutoff Scores"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Army Cutoff Scores provides immediate access to current promotion point Cutoff Scores and provides years of archived data to better understand trends within ...",
+          "source_info_link": "https://cutoffscores.com/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABsAAAAgCAMAAADUt_MJAAAAY1BMVEVHcEwSQzsjTT0ZSDwTRTsQQzsaRzwKQToVRTspTz4gSz0APTknUT8kTD0jSz3_0WfzyGT_1Gj9zWYAOTjZuF9gakVKXUKtm1W-plnnwWI0UT7Lr1yaj1GDgExydUl8fEuJhU5c9BgHAAAADnRSTlMAvx91hqIx_GMNQ9sH7xH70m0AAAGvSURBVCiRdVNZsqMwDMwCiGzavC9A7n_KZyCZyZuaqIoPqt2tdks-HFrdT4evdTl-x07Yf8WuPp-_YefFmvGzx8fJY6DyCfYf_cEyFezevyP-xa5ZrdXkb_tVriY8Ln8knlKNJZ1Mt0Pkry_oDlazNVXJejg3SHV564-eiiN2PhFFhKis8fbCbpFcZKYA1bpsiXNiPL1pKXPxSSyaidWiD7KL3qHQHMTNZgJnlYIpqfmG1Wm_kEWyIClXoeQ9q7oibo2mC-Jbw6DkbFowkAYtnjbiMAdHpam47LCyJGeK-qJzG839gazYRI45smg1tWQpmRIOLehIz5nKbazCwbh2SR_FBand2tACcx76OjejopEtMhueG29wYGnqDw9fk7SETKTlSdH7ZuYCQVpGJ0-N4wwiKmM7vc3paBMMh3HiZwZca5FiNGwr1D3zuFrilZPbZ4pUN217MGwT76tMG21FE82wpX3Zch1yM7sjiJ7Te0r7Qi2SEHaisfHXxq5-eTYA0AKQ6XMnmypUFY4htmgC_PNEhpuPTEJcHPymrXPuIHvnMvT_e1j3YTyfr6_t_AExmCTYZmoy4AAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cutoffscores.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcutoffscores.com%2F",
+      "source": "Army Cutoff Scores",
+      "read_more_link": "https://cutoffscores.com/#:~:text=Army%20Cutoff%20Scores%20provides%20immediate,understand%20trends%20within%20your%20MOS."
+    },
+    {
+      "position": 6,
+      "title": "Army Promotion Points Calculator",
+      "link": "https://tool.teamzlab.com/military/promotion-point-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tool.teamzlab.com/military/promotion-point-calculator/&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8QFnoECC4QAQ",
+      "displayed_link": "https://tool.teamzlab.com › Military Tools",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAulBMVEXk_Ajk_Afk-wjk-wf0_bL-_v71_bzu_Yjw_Zbp_FP7_uf____-__Hr_GP2_cbHx8iVlpfs6-74_tHm_CtOT1IAAAD8-v_z_arr_G1pamyNjo_t_HqDhIUAAAwAAAkUFx75_tbc8wjW1tchIynLy8wsKkfj4-RcXV8nKS03NU8AABe4uLlzdHaZmpsAAB8VGB7q_wVPVRtITRvj-wedqxQLDh6VohTj-wjU6AqntRM7PxyPmxVLURsyNR2DKoO5AAABfUlEQVR4AVWQBWLEMAwELbus0oF6zEyO22P6_7e6ChxsSNFoHDDGEBkNzhabFi7p4IaQtHRGD00KFWTwLnTtkDOW4qQkWYRS6IgeHh-ftFJgMwcDUJ4f47wQpQ6408rR61vCmN8_iK5vAs1-ZujrO8f5AumyuluilwQBFuWL-YdLKgMSld8vLCfylatU-fGxRqQwnyEsWm80RVo5wMc23pQ6P5wS7vZEqv0ua4MfOwQ4GOodf1VGImOQGHFuEsOpVNGZjXPD3lxJzBYyjaGPpNfnWW84lC4nqDuWyKcwasmc-5V5xurSimJowq9H2Wx-ZU_rR4Jx_xeWxlBY-anKoxwoP85VW_tNMFv9Q6ETyw2ZMX81mrG2C9utNdvt0lHYJ7I0Mo2W2yWWdUtcUznSwx92AT0LuNwi1qi8BoF2DITlsAMqNUblk2-1_BnaFkSDLh7rdBav3VINXWUKzdK42AQOCFgWhddJDFhMXeHyLnj1exO7vjQKrWzS1T79Ayq9RBAI4QDOAAAAAElFTkSuQmCC.png",
+      "snippet": "Use this Army promotion points calculator to total E-5 and E-6 promotion points from weapons, ACFT, awards, education, and training scores against cutoff.",
+      "snippet_highlighted_words": [
+        "total E-5 and E-6 promotion points"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this Army promotion points calculator to total E-5 and E-6 promotion points from weapons, ACFT, awards, education, and training scores against cutoff.",
+          "source_info_link": "https://tool.teamzlab.com/military/promotion-point-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAulBMVEXk_Ajk_Afk-wjk-wf0_bL-_v71_bzu_Yjw_Zbp_FP7_uf____-__Hr_GP2_cbHx8iVlpfs6-74_tHm_CtOT1IAAAD8-v_z_arr_G1pamyNjo_t_HqDhIUAAAwAAAkUFx75_tbc8wjW1tchIynLy8wsKkfj4-RcXV8nKS03NU8AABe4uLlzdHaZmpsAAB8VGB7q_wVPVRtITRvj-wedqxQLDh6VohTj-wjU6AqntRM7PxyPmxVLURsyNR2DKoO5AAABfUlEQVR4AVWQBWLEMAwELbus0oF6zEyO22P6_7e6ChxsSNFoHDDGEBkNzhabFi7p4IaQtHRGD00KFWTwLnTtkDOW4qQkWYRS6IgeHh-ftFJgMwcDUJ4f47wQpQ6408rR61vCmN8_iK5vAs1-ZujrO8f5AumyuluilwQBFuWL-YdLKgMSld8vLCfylatU-fGxRqQwnyEsWm80RVo5wMc23pQ6P5wS7vZEqv0ua4MfOwQ4GOodf1VGImOQGHFuEsOpVNGZjXPD3lxJzBYyjaGPpNfnWW84lC4nqDuWyKcwasmc-5V5xurSimJowq9H2Wx-ZU_rR4Jx_xeWxlBY-anKoxwoP85VW_tNMFv9Q6ETyw2ZMX81mrG2C9utNdvt0lHYJ7I0Mo2W2yWWdUtcUznSwx92AT0LuNwi1qi8BoF2DITlsAMqNUblk2-1_BnaFkSDLh7rdBav3VINXWUKzdK42AQOCFgWhddJDFhMXeHyLnj1exO7vjQKrWzS1T79Ayq9RBAI4QDOAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://tool.teamzlab.com/military/promotion-point-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftool.teamzlab.com%2Fmilitary%2Fpromotion-point-calculator%2F",
+      "source": "Teamz Lab"
+    },
+    {
+      "position": 7,
+      "title": "Army Promotion Points 68W (Calculator + 2026 Guide)",
+      "link": "https://aftcalculatorscore.com/army-promotion-points-68w/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aftcalculatorscore.com/army-promotion-points-68w/&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8QFnoECC0QAQ",
+      "displayed_link": "https://aftcalculatorscore.com › army-promotion-points-...",
+      "favicon": "https://serpapi.com/searches/6a3a20cba3ce84ef27d117ac/images/22wKgeoON5tEBOj0WlAtdRsfZrrhFK2TrPWPldLglWE.jpeg",
+      "date": "Apr 23, 2026",
+      "snippet": "Calculate 68W Combat Medic promotion points for 2026. See exact SGT and SSG cutoff scores, AFT impact, weapons qual points, and education ...",
+      "snippet_highlighted_words": [
+        "Calculate 68W Combat Medic promotion points for 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculate 68W Combat Medic promotion points for 2026. See exact SGT and SSG cutoff scores, AFT impact, weapons qual points, and education ...",
+          "source_info_link": "https://aftcalculatorscore.com/army-promotion-points-68w/",
+          "icon": "https://serpapi.com/searches/6a3a20cba3ce84ef27d117ac/images/22wKgeoON5tEBOj0WlAtdY5cpeGfYo2H_uOipRiS6rMyPuLTOM3M2zThuVm2ySf_.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://aftcalculatorscore.com/army-promotion-points-68w/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Faftcalculatorscore.com%2Farmy-promotion-points-68w%2F",
+      "source": "aftcalculatorscore.com"
+    },
+    {
+      "position": 8,
+      "title": "Army Enlisted Cutoff Scores",
+      "link": "https://www.ncoonfire.com/enlisted-cutoff-scores",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncoonfire.com/enlisted-cutoff-scores&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8QFnoECCoQAQ",
+      "displayed_link": "https://www.ncoonfire.com › enlisted-cutoff-scores",
+      "favicon": "https://serpapi.com/searches/6a3a20cba3ce84ef27d117ac/images/22wKgeoON5tEBOj0WlAtdUezwc1wQdGWgQQLelGV8zs.png",
+      "snippet": "Enlisted Cutoff Scores and By Name Lists for Promotion to SGT and SSG. Includes Active Component | AGR | USAR Cutoff Scores | Trend Report. Free PPW Calculator.",
+      "snippet_highlighted_words": [
+        "Free PPW Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Enlisted Cutoff Scores and By Name Lists for Promotion to SGT and SSG. Includes Active Component | AGR | USAR Cutoff Scores | Trend Report. Free PPW Calculator.",
+          "source_info_link": "https://www.ncoonfire.com/enlisted-cutoff-scores",
+          "icon": "https://serpapi.com/searches/6a3a20cba3ce84ef27d117ac/images/22wKgeoON5tEBOj0WlAtdUHGPQdLvctRuiAmQNibUyHvm_N99I9wFlsjC6L0dp6H.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ncoonfire.com/enlisted-cutoff-scores&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ncoonfire.com%2Fenlisted-cutoff-scores",
+      "source": "NCO's On Fire!",
+      "read_more_link": "https://www.ncoonfire.com/enlisted-cutoff-scores#:~:text=Enlisted%20Cutoff%20Scores%20and%20By,Promotion%20to%20SGT%20and%20SSG&text=Includes%20Active%20Component%20%7C%20AGR,Cutoff%20Scores%20%7C%20Trend%20Report&text=Free%20PPW%20Calculator%20%3E%3E"
+    },
+    {
+      "position": 9,
+      "title": "Army Promotion calculator",
+      "link": "https://resolutestandards.sliderblob.com/EnterDateAndRankArmy.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://resolutestandards.sliderblob.com/EnterDateAndRankArmy.php&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8QFnoECCsQAQ",
+      "displayed_link": "https://resolutestandards.sliderblob.com › EnterDateAnd...",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3NzcsNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Kzc3Nzc3Nzc3Ky01Nzc1N__AABEIACAAGQMBIgACEQEDEQH_xAAXAAEBAQEAAAAAAAAAAAAAAAAFBwYE_8QALhAAAQMCBQIEBQUAAAAAAAAAAQIDEQQSAAUTITFBUWFxkqEGB1OBkRQVIiMy_8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH_xAAZEQADAQEBAAAAAAAAAAAAAAABAhEA0TH_2gAMAwEAAhEDEQA_AKi84uloWahykoVoNgUp1ZSf5QASQhUkk-_OCVZowurbfQ1loWEgaYr1aa5nkBq2fHw8sOM12nUUdHpqN7KFX3bDbt9vY8bTg6z5mVbNaqlOQL1EXps1VhaiJiE2bgwPyeY3AemDMITtnQvv1qrqfLsrdZDlpcRUyIu7aXNkHtJieuDtZ36znqOFKPMA5WoplNuNuqZQ7vxJ3Ke-wgz4xzgC5Xc4qsGFGJE2hbfzFNZlyWWUKy8sS-srAKVW7ACN-mJhm3y_zFfxU8xT07Ro3alNgM2qZXcVrUZmUwQY6qTEbRSjTMuNoUczqWCUISptt9ICYABgEEg45VtLhQFfVlVwVf8Aq0dExH-Yjk8c4hU-qZzJXm6m0Z4x8RU7DApv2JtoIMq_s2QRxHN1vXidsFYTo2ENLbdczSpJvvU2qqQU-XHHhgrTc-g76ThBYMSbv__Z.jpeg",
+      "snippet": "Select your current rank and the date you joined or intend to join. Sarting Rank: E1 Private E2 Private 2nd class E3 Private First Class (PFC)",
+      "snippet_highlighted_words": [
+        "Select your current rank and the date you joined or intend to join"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Select your current rank and the date you joined or intend to join. Sarting Rank: E1 Private E2 Private 2nd class E3 Private First Class (PFC)",
+          "source_info_link": "https://resolutestandards.sliderblob.com/EnterDateAndRankArmy.php",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3NzcsNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Kzc3Nzc3Nzc3Ky01Nzc1N__AABEIACAAGQMBIgACEQEDEQH_xAAXAAEBAQEAAAAAAAAAAAAAAAAFBwYE_8QALhAAAQMCBQIEBQUAAAAAAAAAAQIDEQQSAAUTITFBUWFxkqEGB1OBkRQVIiMy_8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH_xAAZEQADAQEBAAAAAAAAAAAAAAABAhEA0TH_2gAMAwEAAhEDEQA_AKi84uloWahykoVoNgUp1ZSf5QASQhUkk-_OCVZowurbfQ1loWEgaYr1aa5nkBq2fHw8sOM12nUUdHpqN7KFX3bDbt9vY8bTg6z5mVbNaqlOQL1EXps1VhaiJiE2bgwPyeY3AemDMITtnQvv1qrqfLsrdZDlpcRUyIu7aXNkHtJieuDtZ36znqOFKPMA5WoplNuNuqZQ7vxJ3Ke-wgz4xzgC5Xc4qsGFGJE2hbfzFNZlyWWUKy8sS-srAKVW7ACN-mJhm3y_zFfxU8xT07Ro3alNgM2qZXcVrUZmUwQY6qTEbRSjTMuNoUczqWCUISptt9ICYABgEEg45VtLhQFfVlVwVf8Aq0dExH-Yjk8c4hU-qZzJXm6m0Z4x8RU7DApv2JtoIMq_s2QRxHN1vXidsFYTo2ENLbdczSpJvvU2qqQU-XHHhgrTc-g76ThBYMSbv__Z.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://resolutestandards.sliderblob.com/EnterDateAndRankArmy.php&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fresolutestandards.sliderblob.com%2FEnterDateAndRankArmy.php",
+      "source": "sliderblob.com",
+      "read_more_link": "https://resolutestandards.sliderblob.com/EnterDateAndRankArmy.php#:~:text=Select%20your%20current%20rank%20and,joined%20or%20intend%20to%20join&text=Sarting%20Rank%3A,E1%20Private"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "AFT promotion points Calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=AFT+promotion+points+Calculator&sa=X&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q1QJ6BAgkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AFT+promotion+points+Calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Army promotion points list",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Army+promotion+points+list&sa=X&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Army+promotion+points+list"
+    },
+    {
+      "block_position": 1,
+      "query": "ACFT promotion points Calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=ACFT+promotion+points+Calculator&sa=X&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=ACFT+promotion+points+Calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "AFT promotion points chart",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=AFT+promotion+points+chart&sa=X&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AFT+promotion+points+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "AFT promotion points chart 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=AFT+promotion+points+chart+2026&sa=X&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AFT+promotion+points+chart+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Weapons qual promotion points 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Weapons+qual+promotion+points+2026&sa=X&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Weapons+qual+promotion+points+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Army promotion points HRC",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Army+promotion+points+HRC&sa=X&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q1QJ6BAgoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Army+promotion+points+HRC"
+    },
+    {
+      "block_position": 1,
+      "query": "Army promotion by name list",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Army+promotion+by+name+list&sa=X&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q1QJ6BAgnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Army+promotion+by+name+list"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+promotion+points+calculator&sca_esv=c510ba4e6526f391&ei=zCA6aufACObtmLQPmujL-A0&start=10&sa=N&sstk=AU9db-Bt3i_z55aRL3imXvWF7cmzuuzqMvgdMrL0Kv3rD6fiz3FFIYdSFQf2hrou0-JokxDWtYH7V4IWJst89dXlaZR637bYieKMeg&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q8NMDegQIIhAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+promotion+points+calculator&sca_esv=c510ba4e6526f391&ei=zCA6aufACObtmLQPmujL-A0&start=10&sa=N&sstk=AU9db-Bt3i_z55aRL3imXvWF7cmzuuzqMvgdMrL0Kv3rD6fiz3FFIYdSFQf2hrou0-JokxDWtYH7V4IWJst89dXlaZR637bYieKMeg&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q8tMDegQIIhAE",
+      "3": "https://www.google.com/search?q=military+promotion+points+calculator&sca_esv=c510ba4e6526f391&ei=zCA6aufACObtmLQPmujL-A0&start=20&sa=N&sstk=AU9db-Bt3i_z55aRL3imXvWF7cmzuuzqMvgdMrL0Kv3rD6fiz3FFIYdSFQf2hrou0-JokxDWtYH7V4IWJst89dXlaZR637bYieKMeg&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q8tMDegQIIhAG",
+      "4": "https://www.google.com/search?q=military+promotion+points+calculator&sca_esv=c510ba4e6526f391&ei=zCA6aufACObtmLQPmujL-A0&start=30&sa=N&sstk=AU9db-Bt3i_z55aRL3imXvWF7cmzuuzqMvgdMrL0Kv3rD6fiz3FFIYdSFQf2hrou0-JokxDWtYH7V4IWJst89dXlaZR637bYieKMeg&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q8tMDegQIIhAI",
+      "5": "https://www.google.com/search?q=military+promotion+points+calculator&sca_esv=c510ba4e6526f391&ei=zCA6aufACObtmLQPmujL-A0&start=40&sa=N&sstk=AU9db-Bt3i_z55aRL3imXvWF7cmzuuzqMvgdMrL0Kv3rD6fiz3FFIYdSFQf2hrou0-JokxDWtYH7V4IWJst89dXlaZR637bYieKMeg&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q8tMDegQIIhAK",
+      "6": "https://www.google.com/search?q=military+promotion+points+calculator&sca_esv=c510ba4e6526f391&ei=zCA6aufACObtmLQPmujL-A0&start=50&sa=N&sstk=AU9db-Bt3i_z55aRL3imXvWF7cmzuuzqMvgdMrL0Kv3rD6fiz3FFIYdSFQf2hrou0-JokxDWtYH7V4IWJst89dXlaZR637bYieKMeg&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q8tMDegQIIhAM",
+      "7": "https://www.google.com/search?q=military+promotion+points+calculator&sca_esv=c510ba4e6526f391&ei=zCA6aufACObtmLQPmujL-A0&start=60&sa=N&sstk=AU9db-Bt3i_z55aRL3imXvWF7cmzuuzqMvgdMrL0Kv3rD6fiz3FFIYdSFQf2hrou0-JokxDWtYH7V4IWJst89dXlaZR637bYieKMeg&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q8tMDegQIIhAO",
+      "8": "https://www.google.com/search?q=military+promotion+points+calculator&sca_esv=c510ba4e6526f391&ei=zCA6aufACObtmLQPmujL-A0&start=70&sa=N&sstk=AU9db-Bt3i_z55aRL3imXvWF7cmzuuzqMvgdMrL0Kv3rD6fiz3FFIYdSFQf2hrou0-JokxDWtYH7V4IWJst89dXlaZR637bYieKMeg&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q8tMDegQIIhAQ",
+      "9": "https://www.google.com/search?q=military+promotion+points+calculator&sca_esv=c510ba4e6526f391&ei=zCA6aufACObtmLQPmujL-A0&start=80&sa=N&sstk=AU9db-Bt3i_z55aRL3imXvWF7cmzuuzqMvgdMrL0Kv3rD6fiz3FFIYdSFQf2hrou0-JokxDWtYH7V4IWJst89dXlaZR637bYieKMeg&ved=2ahUKEwjn1su315yVAxXmNoYAHRr0Et8Q8tMDegQIIhAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+promotion+points+calculator&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+promotion+points+calculator&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+promotion+points+calculator&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+promotion+points+calculator&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+promotion+points+calculator&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+promotion+points+calculator&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+promotion+points+calculator&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+promotion+points+calculator&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+promotion+points+calculator&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+promotion+points+calculator&start=80"
+    }
+  }
+}

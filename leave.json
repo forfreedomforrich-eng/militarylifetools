@@ -1,0 +1,429 @@
+{
+  "search_metadata": {
+    "id": "6a3a20bc4de49aecd02c243f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BoADOMujlSOguQwi87v2eA/6a3a20bc4de49aecd02c243f.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/BoADOMujlSOguQwi87v2eA/6a3a20bc4de49aecd02c243f.json_with_pixel_position",
+    "created_at": "2026-06-23 05:59:24 UTC",
+    "processed_at": "2026-06-23 05:59:24 UTC",
+    "google_url": "https://www.google.com/search?q=leave+days+calculator+military+per+year&oq=leave+days+calculator+military+per+year&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/BoADOMujlSOguQwi87v2eA/6a3a20bc4de49aecd02c243f.html",
+    "total_time_taken": 2.5
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "leave days calculator military per year",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "leave days calculator military per year",
+    "total_results": 132,
+    "time_taken_displayed": 0.2,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How many leave days per year in the military?",
+      "type": "featured_snippet",
+      "snippet": "These requirements may also impact the scheduling of annual leave. Annual Leave: Active duty Soldiers earn 2.5 days of annual (chargeable) leave for each month of service, for a total of 30 days per year. Currently, Soldiers can bank up to 60 days of leave at the end of the fiscal year.",
+      "title": "30 days",
+      "date": "Feb 25, 2026",
+      "link": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Leave?serv=121#:~:text=These%20requirements%20may%20also%20impact,end%20of%20the%20fiscal%20year.",
+      "displayed_link": "https://myarmybenefits.us.army.mil › Federal-Benefits",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWJ0NOTqdjAA1DkPzHItURiG37Wnxz68tm37xrad_JuUklJs27Zt23Yynt0rTuZMJU9bX3WwdyprPaqoUkIphwICEgqIbtyfm2h--izc-ODpbOWy7WkchzqMRwAoFhXkeYKr8McXAb790P-bATGHz-a5dtul3J9fBVGFdXszlDt2ocD7r_vEKCK8RIMfghTcOgHlxAGEF6hNOkTjVcQTFVTGHF7G6AMCBH2CMYKgFF3lm_c9vP91Y2wxy1fvnmLLYYvxOKhCwVUEAMGotYpA_R9CdP4_yulrfiKJ14iFDe980ZxiPk3v9vtok7Kkb5_nrco8Ixbe4eL1IgBGAWthweY0xgP__hzn_R-68PUvraiqrkUVqt_8ml3rJnFs82DGLL7G8h1pPn3LB4BBFREefXvG2hSHz56gX74_8XiSV1_rigJHd81l3-oBDJ1zheMXipQyVpVS-08VOH8lSzAU5sDujXi8PkKhEMfPpeo-FkBQo9ZSqjru8NprNRzbv4GrR-dgjJ_oW_V5541KIsE73MtoaYYYynz9QYC3k7dZt2Q4k5bfwu8TOv1_gR8_CfDhGz52Hs1RQg1l3qo1TF99i2mr75EvKAADp1-ne_3YgzNvWYCIKVp4rdJw4kIB4xFW7MhwO-USDjhEggCgyqPASMihMubBtcrrVQYRXLPtcH7xP98E3I_f8omCqiICiDxupaw-2Qf8XtH1-wsbRMQEQwFNxMKOOI6DtRZVxRF5FqAqKI_THxPuZRDHhKruAwIP8g3dJkR-AAAAAElFTkSuQmCC.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNHMUZOME5NV2pobU5pMW1NVm93WTFodFNEQjFhRzVKZGxvMFRXbDZjWE5zY1dkSmVrbFBhekZUVms4MWEwUkJha1ZsVEdwTGNqZHlUM2RIU0ZoRFIxSTRRamQwUVhrNVpURTVOamxJZDFvMGNHbENaM2h0WDFWZlFSSVhkbWxCTm1Gek4xSkZOM3BsY25WRlVHOWlaVUk0UVZFYUlrRkVjM0k1WmxOUFRUbEVjUzFuUm04eE9WOWtPV05XV25WaFh6QkNSMlJoVkdjIiwiZmN2IjoiMyIsImVpIjoidmlBNmFzN1JFN3plcnVFUG9iZUI4QVEiLCJxYyI6IkNpZHNaV0YyWlNCa1lYbHpJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtnY0dWeUlIbGxZWElRQUgwR2d3Z18iLCJxdWVzdGlvbiI6IkhvdyBtYW55IGxlYXZlIGRheXMgcGVyIHllYXIgaW4gdGhlIG1pbGl0YXJ5PyIsImxrIjoiR2lkb2IzY2diV0Z1ZVNCc1pXRjJaU0JrWVhrZ2NHVnlJSGxsWVhJZ2FXNGdiV2xzYVhSaGNuayIsImJzIjoiYzQyT3ZRNkNNQlJHNDNvblI4TjBOMzlKRER4QUZ3ZDlBT1BFY0ZOcTJxUzBwTFNTdm84UEt2NUFOQTZ3bi05OEJ3cElqN2JGaWt4RUxlZ21zS1RZWUMwY1JrRU9sVUV2QlZaS0swOHVzc1g5a0syVHBmemJfRXg2SE02d2V1cExpeWZrcEhuUTVEdGJSRElta1A2NlpMMjJZOVVJQ3dYc1h0V0JTMVFONXZ0M3RiME96eC02dGM1TGxxWEpWazduNFFLYkNkVTFSUnY4ME8zdEtEdWZQUUEiLCJpZCI6ImZjX3ZpQTZhczdSRTd6ZXJ1RVBvYmVCOEFRXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNHMUZOME5NV2pobU5pMW1NVm93WTFodFNEQjFhRzVKZGxvMFRXbDZjWE5zY1dkSmVrbFBhekZUVms4MWEwUkJha1ZsVEdwTGNqZHlUM2RIU0ZoRFIxSTRRamQwUVhrNVpURTVOamxJZDFvMGNHbENaM2h0WDFWZlFSSVhkbWxCTm1Gek4xSkZOM3BsY25WRlVHOWlaVUk0UVZFYUlrRkVjM0k1WmxOUFRUbEVjUzFuUm04eE9WOWtPV05XV25WaFh6QkNSMlJoVkdjIiwiZmN2IjoiMyIsImVpIjoidmlBNmFzN1JFN3plcnVFUG9iZUI4QVEiLCJxYyI6IkNpZHNaV0YyWlNCa1lYbHpJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtnY0dWeUlIbGxZWElRQUgwR2d3Z18iLCJxdWVzdGlvbiI6IkhvdyBtYW55IGxlYXZlIGRheXMgcGVyIHllYXIgaW4gdGhlIG1pbGl0YXJ5PyIsImxrIjoiR2lkb2IzY2diV0Z1ZVNCc1pXRjJaU0JrWVhrZ2NHVnlJSGxsWVhJZ2FXNGdiV2xzYVhSaGNuayIsImJzIjoiYzQyT3ZRNkNNQlJHNDNvblI4TjBOMzlKRER4QUZ3ZDlBT1BFY0ZOcTJxUzBwTFNTdm84UEt2NUFOQTZ3bi05OEJ3cElqN2JGaWt4RUxlZ21zS1RZWUMwY1JrRU9sVUV2QlZaS0swOHVzc1g5a0syVHBmemJfRXg2SE02d2V1cExpeWZrcEhuUTVEdGJSRElta1A2NlpMMjJZOVVJQ3dYc1h0V0JTMVFONXZ0M3RiME96eC02dGM1TGxxWEpWazduNFFLYkNkVTFSUnY4ME8zdEtEdWZQUUEiLCJpZCI6ImZjX3ZpQTZhczdSRTd6ZXJ1RVBvYmVCOEFRXzQifQ%3D%3D"
+    },
+    {
+      "question": "How do I calculate my annual leave days?",
+      "type": "ai_overview",
+      "page_token": "bZhZYnicHdBbbuIwFABQdTP9LAZXjEBClVLyIJVD7eTaxD8jJw645OZRSBvI3-xlVjWrGalnCefPX_xo638P324Y-ut6NhvH8enUdSesnsqumZnrvS1npUEsTFmvl7-W85djufG_dt7r587j0PdyK0jaClW1ciwarfZRAAcaUxW5nT17bwwZsWTVmwBbVSfA1e0Avk5F7SIIcZk3yNIJjxztmKFdQoSxycQ8JbdtoQbHtkkHrX7fq24siOWaBpdM2bAgerCkIxpXsQb5nhPHtFrdIRzvpY8mUX2mm9WXmUSUhnjZB_q8l2ySJA5gMYS8Pj2zqB-qVjhDrjSncWKgptAEnu_swoC_yA-MQg20auTdguTFIkZ-dh6I7oODmMozNqBiX0gba-nSCvN5PrGbDGStJz7PAqES4j8DfzyW3xv6-PO5-X1shnV_6U7_ARH_hAo",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bZhZYnicHdBbbuIwFABQdTP9LAZXjEBClVLyIJVD7eTaxD8jJw645OZRSBvI3-xlVjWrGalnCefPX_xo638P324Y-ut6NhvH8enUdSesnsqumZnrvS1npUEsTFmvl7-W85djufG_dt7r587j0PdyK0jaClW1ciwarfZRAAcaUxW5nT17bwwZsWTVmwBbVSfA1e0Avk5F7SIIcZk3yNIJjxztmKFdQoSxycQ8JbdtoQbHtkkHrX7fq24siOWaBpdM2bAgerCkIxpXsQb5nhPHtFrdIRzvpY8mUX2mm9WXmUSUhnjZB_q8l2ySJA5gMYS8Pj2zqB-qVjhDrjSncWKgptAEnu_swoC_yA-MQg20auTdguTFIkZ-dh6I7oODmMozNqBiX0gba-nSCvN5PrGbDGStJz7PAqES4j8DfzyW3xv6-PO5-X1shnV_6U7_ARH_hAo",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNHMUZOME5NV2pobU5pMW1NVm93WTFodFNEQjFhRzVKZGxvMFRXbDZjWE5zY1dkSmVrbFBhekZUVms4MWEwUkJha1ZsVEdwTGNqZHlUM2RIU0ZoRFIxSTRRamQwUVhrNVpURTVOamxJZDFvMGNHbENaM2h0WDFWZlFSSVhkbWxCTm1Gek4xSkZOM3BsY25WRlVHOWlaVUk0UVZFYUlrRkVjM0k1WmxOUFRUbEVjUzFuUm04eE9WOWtPV05XV25WaFh6QkNSMlJoVkdjIiwiZmN2IjoiMyIsImVpIjoidmlBNmFzN1JFN3plcnVFUG9iZUI4QVEiLCJxYyI6IkNpZHNaV0YyWlNCa1lYbHpJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtnY0dWeUlIbGxZWElRQUgwR2d3Z18iLCJxdWVzdGlvbiI6IkhvdyBkbyBJIGNhbGN1bGF0ZSBteSBhbm51YWwgbGVhdmUgZGF5cz8iLCJsayI6IkdpZG9iM2NnWkc4Z2FTQmpZV3hqZFd4aGRHVWdiWGtnWVc1dWRXRnNJR3hsWVhabElHUmhlWE0iLCJicyI6ImM0Mk92UTZDTUJSRzQzb25SOE4wTjM5SkREeEFGd2Q5QU9QRWNGTnEycVMwcExTU3ZvOFBLdjVBTkE2d24tOThCd3BJajdiRmlreEVMZWdtc0tUWVlDMGNSa0VPbFVFdkJWWktLMDh1c3NYOWtLMlRwZnpiX0V4NkhNNndldXBMaXlma3BIblE1RHRiUkRJbWtQNjZaTDIyWTlVSUN3WHNYdFdCUzFRTjV2dDN0YjBPengtNnRjNUxscVhKVms3bjRRS2JDZFUxUlJ2ODBPM3RLRHVmUFFBIiwiaWQiOiJmY192aUE2YXM3UkU3emVydUVQb2JlQjhBUV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNHMUZOME5NV2pobU5pMW1NVm93WTFodFNEQjFhRzVKZGxvMFRXbDZjWE5zY1dkSmVrbFBhekZUVms4MWEwUkJha1ZsVEdwTGNqZHlUM2RIU0ZoRFIxSTRRamQwUVhrNVpURTVOamxJZDFvMGNHbENaM2h0WDFWZlFSSVhkbWxCTm1Gek4xSkZOM3BsY25WRlVHOWlaVUk0UVZFYUlrRkVjM0k1WmxOUFRUbEVjUzFuUm04eE9WOWtPV05XV25WaFh6QkNSMlJoVkdjIiwiZmN2IjoiMyIsImVpIjoidmlBNmFzN1JFN3plcnVFUG9iZUI4QVEiLCJxYyI6IkNpZHNaV0YyWlNCa1lYbHpJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtnY0dWeUlIbGxZWElRQUgwR2d3Z18iLCJxdWVzdGlvbiI6IkhvdyBkbyBJIGNhbGN1bGF0ZSBteSBhbm51YWwgbGVhdmUgZGF5cz8iLCJsayI6IkdpZG9iM2NnWkc4Z2FTQmpZV3hqZFd4aGRHVWdiWGtnWVc1dWRXRnNJR3hsWVhabElHUmhlWE0iLCJicyI6ImM0Mk92UTZDTUJSRzQzb25SOE4wTjM5SkREeEFGd2Q5QU9QRWNGTnEycVMwcExTU3ZvOFBLdjVBTkE2d24tOThCd3BJajdiRmlreEVMZWdtc0tUWVlDMGNSa0VPbFVFdkJWWktLMDh1c3NYOWtLMlRwZnpiX0V4NkhNNndldXBMaXlma3BIblE1RHRiUkRJbWtQNjZaTDIyWTlVSUN3WHNYdFdCUzFRTjV2dDN0YjBPengtNnRjNUxscVhKVms3bjRRS2JDZFUxUlJ2ODBPM3RLRHVmUFFBIiwiaWQiOiJmY192aUE2YXM3UkU3emVydUVQb2JlQjhBUV80In0%3D"
+    },
+    {
+      "question": "How much is 30 days of military leave worth?",
+      "type": "ai_overview",
+      "page_token": "HcgrtnicHdDPToMwHADg-DIeHaUw45LFpLO4P1kVaMvWi2EtG6M_oDocYzffxafyaTRev-P39Q3Hxv7cnMuuc6fJaNT3_d2hbQ9Q3Om2HuWnodEjnQPscm0n4_sxetzrKf1ckNn7gsTCOfmUeGkt-i0-XE1EPkxFNgnYIKsgYIgG67lDCuvBZJdmR0PFs8uS035gVNm1XwYayZlCwlO-mvEITmLu1gbLVuLyvEUmzKibaw485Qlj8HCUUHrKlpECYpkXBoVY9nHdvecy2he0D5Nn9ppxtpVZ7_8ZlQOy4gor5T04KeUqBigldS4dPFQI1qSStJqTV1OpJt1AzG1HaGn8XFB_u1ljYQUuajkYIeOdv4S4KolI2mMskquuoBYewju0wHKjAhZFXUrNSxIlZ2W7hXliqRFBKOLbvT5P8e3_5_RtX3cT99EefgEFMoKj",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HcgrtnicHdDPToMwHADg-DIeHaUw45LFpLO4P1kVaMvWi2EtG6M_oDocYzffxafyaTRev-P39Q3Hxv7cnMuuc6fJaNT3_d2hbQ9Q3Om2HuWnodEjnQPscm0n4_sxetzrKf1ckNn7gsTCOfmUeGkt-i0-XE1EPkxFNgnYIKsgYIgG67lDCuvBZJdmR0PFs8uS035gVNm1XwYayZlCwlO-mvEITmLu1gbLVuLyvEUmzKibaw485Qlj8HCUUHrKlpECYpkXBoVY9nHdvecy2he0D5Nn9ppxtpVZ7_8ZlQOy4gor5T04KeUqBigldS4dPFQI1qSStJqTV1OpJt1AzG1HaGn8XFB_u1ljYQUuajkYIeOdv4S4KolI2mMskquuoBYewju0wHKjAhZFXUrNSxIlZ2W7hXliqRFBKOLbvT5P8e3_5_RtX3cT99EefgEFMoKj",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNHMUZOME5NV2pobU5pMW1NVm93WTFodFNEQjFhRzVKZGxvMFRXbDZjWE5zY1dkSmVrbFBhekZUVms4MWEwUkJha1ZsVEdwTGNqZHlUM2RIU0ZoRFIxSTRRamQwUVhrNVpURTVOamxJZDFvMGNHbENaM2h0WDFWZlFSSVhkbWxCTm1Gek4xSkZOM3BsY25WRlVHOWlaVUk0UVZFYUlrRkVjM0k1WmxOUFRUbEVjUzFuUm04eE9WOWtPV05XV25WaFh6QkNSMlJoVkdjIiwiZmN2IjoiMyIsImVpIjoidmlBNmFzN1JFN3plcnVFUG9iZUI4QVEiLCJxYyI6IkNpZHNaV0YyWlNCa1lYbHpJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtnY0dWeUlIbGxZWElRQUgwR2d3Z18iLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGlzIDMwIGRheXMgb2YgbWlsaXRhcnkgbGVhdmUgd29ydGg/IiwibGsiOiJHaXRvYjNjZ2JYVmphQ0JwY3lBek1DQmtZWGx6SUc5bUlHMXBiR2wwWVhKNUlHeGxZWFpsSUhkdmNuUm8iLCJicyI6ImM0Mk92UTZDTUJSRzQzb25SOE4wTjM5SkREeEFGd2Q5QU9QRWNGTnEycVMwcExTU3ZvOFBLdjVBTkE2d24tOThCd3BJajdiRmlreEVMZWdtc0tUWVlDMGNSa0VPbFVFdkJWWktLMDh1c3NYOWtLMlRwZnpiX0V4NkhNNndldXBMaXlma3BIblE1RHRiUkRJbWtQNjZaTDIyWTlVSUN3WHNYdFdCUzFRTjV2dDN0YjBPengtNnRjNUxscVhKVms3bjRRS2JDZFUxUlJ2ODBPM3RLRHVmUFFBIiwiaWQiOiJmY192aUE2YXM3UkU3emVydUVQb2JlQjhBUV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNHMUZOME5NV2pobU5pMW1NVm93WTFodFNEQjFhRzVKZGxvMFRXbDZjWE5zY1dkSmVrbFBhekZUVms4MWEwUkJha1ZsVEdwTGNqZHlUM2RIU0ZoRFIxSTRRamQwUVhrNVpURTVOamxJZDFvMGNHbENaM2h0WDFWZlFSSVhkbWxCTm1Gek4xSkZOM3BsY25WRlVHOWlaVUk0UVZFYUlrRkVjM0k1WmxOUFRUbEVjUzFuUm04eE9WOWtPV05XV25WaFh6QkNSMlJoVkdjIiwiZmN2IjoiMyIsImVpIjoidmlBNmFzN1JFN3plcnVFUG9iZUI4QVEiLCJxYyI6IkNpZHNaV0YyWlNCa1lYbHpJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtnY0dWeUlIbGxZWElRQUgwR2d3Z18iLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGlzIDMwIGRheXMgb2YgbWlsaXRhcnkgbGVhdmUgd29ydGg%2FIiwibGsiOiJHaXRvYjNjZ2JYVmphQ0JwY3lBek1DQmtZWGx6SUc5bUlHMXBiR2wwWVhKNUlHeGxZWFpsSUhkdmNuUm8iLCJicyI6ImM0Mk92UTZDTUJSRzQzb25SOE4wTjM5SkREeEFGd2Q5QU9QRWNGTnEycVMwcExTU3ZvOFBLdjVBTkE2d24tOThCd3BJajdiRmlreEVMZWdtc0tUWVlDMGNSa0VPbFVFdkJWWktLMDh1c3NYOWtLMlRwZnpiX0V4NkhNNndldXBMaXlma3BIblE1RHRiUkRJbWtQNjZaTDIyWTlVSUN3WHNYdFdCUzFRTjV2dDN0YjBPengtNnRjNUxscVhKVms3bjRRS2JDZFUxUlJ2ODBPM3RLRHVmUFFBIiwiaWQiOiJmY192aUE2YXM3UkU3emVydUVQb2JlQjhBUV80In0%3D"
+    },
+    {
+      "question": "How do I calculate my annual leave payout?",
+      "type": "ai_overview",
+      "page_token": "_qz66XicHdDRbqowGADg7GV2OZEKS0zMEo6FSc5gFP-_6s1JaVGkLXSTDeVu77Kn2tMsOd8jfF_f5tzpn7vPZhjcZTmbjeP4cOr7k6kfZG9n4nLr5EwKYyoh9TJ8DOdPR7miH5voz9smKsA5XDOv9OMRrEr-ogzy3WaQduNliRsK20TCHkqm07Y0hy3yZqcShWCHADld1F02iDj1kLhJoIIX3i_4NkXADCqYc-UHOfPiUFnE-pl1_Dz3qzhyHDQpLIaCOgS4XvbmULA1dqpVa67TcAsYALgReSpYOXc54HOWoEDr8r3OTB43XGlGlM12FTVXmFIooXGq06RqFaGN8gVQf797IaCB1BZvCrCo_NQUbRMB688FsEm2xoJ3XUjCXgWNKU6naUuxraEJasg4Sw6T9AMDxf1Rfq7I_f_P1b-jHZbuvT_9ArgZhC0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_qz66XicHdDRbqowGADg7GV2OZEKS0zMEo6FSc5gFP-_6s1JaVGkLXSTDeVu77Kn2tMsOd8jfF_f5tzpn7vPZhjcZTmbjeP4cOr7k6kfZG9n4nLr5EwKYyoh9TJ8DOdPR7miH5voz9smKsA5XDOv9OMRrEr-ogzy3WaQduNliRsK20TCHkqm07Y0hy3yZqcShWCHADld1F02iDj1kLhJoIIX3i_4NkXADCqYc-UHOfPiUFnE-pl1_Dz3qzhyHDQpLIaCOgS4XvbmULA1dqpVa67TcAsYALgReSpYOXc54HOWoEDr8r3OTB43XGlGlM12FTVXmFIooXGq06RqFaGN8gVQf797IaCB1BZvCrCo_NQUbRMB688FsEm2xoJ3XUjCXgWNKU6naUuxraEJasg4Sw6T9AMDxf1Rfq7I_f_P1b-jHZbuvT_9ArgZhC0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNHMUZOME5NV2pobU5pMW1NVm93WTFodFNEQjFhRzVKZGxvMFRXbDZjWE5zY1dkSmVrbFBhekZUVms4MWEwUkJha1ZsVEdwTGNqZHlUM2RIU0ZoRFIxSTRRamQwUVhrNVpURTVOamxJZDFvMGNHbENaM2h0WDFWZlFSSVhkbWxCTm1Gek4xSkZOM3BsY25WRlVHOWlaVUk0UVZFYUlrRkVjM0k1WmxOUFRUbEVjUzFuUm04eE9WOWtPV05XV25WaFh6QkNSMlJoVkdjIiwiZmN2IjoiMyIsImVpIjoidmlBNmFzN1JFN3plcnVFUG9iZUI4QVEiLCJxYyI6IkNpZHNaV0YyWlNCa1lYbHpJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtnY0dWeUlIbGxZWElRQUgwR2d3Z18iLCJxdWVzdGlvbiI6IkhvdyBkbyBJIGNhbGN1bGF0ZSBteSBhbm51YWwgbGVhdmUgcGF5b3V0PyIsImxrIjoiR2lkb2IzY2dkRzhnWTJGc1kzVnNZWFJsSUcxNUlHRnViblZoYkNCc1pXRjJaU0J3WVhsdmRYUSIsImJzIjoiYzQyT3ZRNkNNQlJHNDNvblI4TjBOMzlKRER4QUZ3ZDlBT1BFY0ZOcTJxUzBwTFNTdm84UEt2NUFOQTZ3bi05OEJ3cElqN2JGaWt4RUxlZ21zS1RZWUMwY1JrRU9sVUV2QlZaS0swOHVzc1g5a0syVHBmemJfRXg2SE02d2V1cExpeWZrcEhuUTVEdGJSRElta1A2NlpMMjJZOVVJQ3dYc1h0V0JTMVFONXZ0M3RiME96eC02dGM1TGxxWEpWazduNFFLYkNkVTFSUnY4ME8zdEtEdWZQUUEiLCJpZCI6ImZjX3ZpQTZhczdSRTd6ZXJ1RVBvYmVCOEFRXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNHMUZOME5NV2pobU5pMW1NVm93WTFodFNEQjFhRzVKZGxvMFRXbDZjWE5zY1dkSmVrbFBhekZUVms4MWEwUkJha1ZsVEdwTGNqZHlUM2RIU0ZoRFIxSTRRamQwUVhrNVpURTVOamxJZDFvMGNHbENaM2h0WDFWZlFSSVhkbWxCTm1Gek4xSkZOM3BsY25WRlVHOWlaVUk0UVZFYUlrRkVjM0k1WmxOUFRUbEVjUzFuUm04eE9WOWtPV05XV25WaFh6QkNSMlJoVkdjIiwiZmN2IjoiMyIsImVpIjoidmlBNmFzN1JFN3plcnVFUG9iZUI4QVEiLCJxYyI6IkNpZHNaV0YyWlNCa1lYbHpJR05oYkdOMWJHRjBiM0lnYldsc2FYUmhjbmtnY0dWeUlIbGxZWElRQUgwR2d3Z18iLCJxdWVzdGlvbiI6IkhvdyBkbyBJIGNhbGN1bGF0ZSBteSBhbm51YWwgbGVhdmUgcGF5b3V0PyIsImxrIjoiR2lkb2IzY2dkRzhnWTJGc1kzVnNZWFJsSUcxNUlHRnViblZoYkNCc1pXRjJaU0J3WVhsdmRYUSIsImJzIjoiYzQyT3ZRNkNNQlJHNDNvblI4TjBOMzlKRER4QUZ3ZDlBT1BFY0ZOcTJxUzBwTFNTdm84UEt2NUFOQTZ3bi05OEJ3cElqN2JGaWt4RUxlZ21zS1RZWUMwY1JrRU9sVUV2QlZaS0swOHVzc1g5a0syVHBmemJfRXg2SE02d2V1cExpeWZrcEhuUTVEdGJSRElta1A2NlpMMjJZOVVJQ3dYc1h0V0JTMVFONXZ0M3RiME96eC02dGM1TGxxWEpWazduNFFLYkNkVTFSUnY4ME8zdEtEdWZQUUEiLCJpZCI6ImZjX3ZpQTZhczdSRTd6ZXJ1RVBvYmVCOEFRXzQifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "45Q6EXicxZbbcrJIEIDv9z3WG6MIeEwV9ddwUn5NdDTG4A2FgICCGAYlerfvsk-1L7CvscNJIUpS-1dt7VjOsaene6Y_2z_-dOzd9q_f_raCYI8eCSIMw7rpeaZj1DXPJVR02mnE2nOQr1k_TkeGrmiIaVQMmznaoK2izlTonA3_IEy8lcF2AazEWxhlpSJjgzV-bBChELja_k7zeFBHdWNXX000ez0IBuHcrFMNslcfE6qLBcB_WAQwjVuIPxJupRuJ6HjzGy1QijbOcjNcrs7KU6JIkuKGK1XKpVZwciTC15Z-kwU8jOcGX1gxKw4XUSWAEAA2MlGA9_bcMyKb89KWLT1RuJ2Khdn0LD6vvsxfNv_AMNL50gXc9SEyl1mQeYBFTNxnE40twDYnIdfnvngmvLI3B4JVg3eNzhVxKOzDtD-S-9giQjdxEDaIlY8bkrA1S4s7Popik3vpNTxxB5bP7YM1fKGfOEWh58Od5FnOjtp3IaGtsJzjqbqhK5bS-BGPSYpsNXp0p_sQQ6GhCxUoT8Wy_eQA-ueaFkF9VGfJHBLxZUgFn6NwY0vcG6Z3-EkcJFriOr2b7JbnmRjrZXSkE5ttFFXyZaIbPYX1-cRI1y0SWTHzHYxEbLY0v-zMi0ddic2ZmhT-83tfx6kPMhjCi8tCzuLkIoT8eBspl_rZRHhZirSaDogRx0gIqcJxYb-ZNwxfFssBIVu-WBDJ8NuLmBBbGC3LEMpAEjGi-PnMzPn0KTESUvHuwKYwEs3oy5l3Af-usNcHLysCyGL_UygXEOh4r5QY1HhpDgdjRH2cz4Pns3gaW755P-Q9d_UvMoH2_0IxT_PEPCVheBcK8xsooCR8mScSu695IooVziuDgkuhKOaJJHCveeIWilkRivI8kYMi0fI1FGwpFMnPyi0UUZ64gcIsgSLJE3koinlid9EceZCD4pfyBPyFPBEzYiRNMWkcNmZp8uiHK8l5GwRi-xC8ODTya2Lt_CrU0OgdfJs81m7w6Kq686DY-iNL_QxO-oOCJ7xHQ6-8M46hHo2qrp5QVVMd7eCogedXXduxA9U_VfeGXz0Zql9xHd9jGmrnXf8AOrXujvgJnIuTpr3ZSFLfXb12h2DUmS2O6ya9P693B8WqBWLD9mF_oRj9iTB-pxXeOOpPhjWDx-3RGdtBq9aTO2-vlLP1pxqU2_3hdsaefJcEwpSynm1ths0fbWkZgQVtUNvxcdJetzn5bfmxZIc8rcHYLsSMAOu7S6RNB0IF-4YMhqy4vsZgGpomeIZgYQINYwAg_lMFOQ9_QxwEFaSpioGOjNYiGyu1abRbVHtN9_BmMzjtmSZZQTufIf8B-EcZ1w",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=45Q6EXicxZbbcrJIEIDv9z3WG6MIeEwV9ddwUn5NdDTG4A2FgICCGAYlerfvsk-1L7CvscNJIUpS-1dt7VjOsaene6Y_2z_-dOzd9q_f_raCYI8eCSIMw7rpeaZj1DXPJVR02mnE2nOQr1k_TkeGrmiIaVQMmznaoK2izlTonA3_IEy8lcF2AazEWxhlpSJjgzV-bBChELja_k7zeFBHdWNXX000ez0IBuHcrFMNslcfE6qLBcB_WAQwjVuIPxJupRuJ6HjzGy1QijbOcjNcrs7KU6JIkuKGK1XKpVZwciTC15Z-kwU8jOcGX1gxKw4XUSWAEAA2MlGA9_bcMyKb89KWLT1RuJ2Khdn0LD6vvsxfNv_AMNL50gXc9SEyl1mQeYBFTNxnE40twDYnIdfnvngmvLI3B4JVg3eNzhVxKOzDtD-S-9giQjdxEDaIlY8bkrA1S4s7Popik3vpNTxxB5bP7YM1fKGfOEWh58Od5FnOjtp3IaGtsJzjqbqhK5bS-BGPSYpsNXp0p_sQQ6GhCxUoT8Wy_eQA-ueaFkF9VGfJHBLxZUgFn6NwY0vcG6Z3-EkcJFriOr2b7JbnmRjrZXSkE5ttFFXyZaIbPYX1-cRI1y0SWTHzHYxEbLY0v-zMi0ddic2ZmhT-83tfx6kPMhjCi8tCzuLkIoT8eBspl_rZRHhZirSaDogRx0gIqcJxYb-ZNwxfFssBIVu-WBDJ8NuLmBBbGC3LEMpAEjGi-PnMzPn0KTESUvHuwKYwEs3oy5l3Af-usNcHLysCyGL_UygXEOh4r5QY1HhpDgdjRH2cz4Pns3gaW755P-Q9d_UvMoH2_0IxT_PEPCVheBcK8xsooCR8mScSu695IooVziuDgkuhKOaJJHCveeIWilkRivI8kYMi0fI1FGwpFMnPyi0UUZ64gcIsgSLJE3koinlid9EceZCD4pfyBPyFPBEzYiRNMWkcNmZp8uiHK8l5GwRi-xC8ODTya2Lt_CrU0OgdfJs81m7w6Kq686DY-iNL_QxO-oOCJ7xHQ6-8M46hHo2qrp5QVVMd7eCogedXXduxA9U_VfeGXz0Zql9xHd9jGmrnXf8AOrXujvgJnIuTpr3ZSFLfXb12h2DUmS2O6ya9P693B8WqBWLD9mF_oRj9iTB-pxXeOOpPhjWDx-3RGdtBq9aTO2-vlLP1pxqU2_3hdsaefJcEwpSynm1ths0fbWkZgQVtUNvxcdJetzn5bfmxZIc8rcHYLsSMAOu7S6RNB0IF-4YMhqy4vsZgGpomeIZgYQINYwAg_lMFOQ9_QxwEFaSpioGOjNYiGyu1abRbVHtN9_BmMzjtmSZZQTufIf8B-EcZ1w"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Final Pay Calculator",
+      "link": "https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4QFnoECBQQAQ",
+      "displayed_link": "https://militarypay.defense.gov › Calculators › Final-Pay-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png",
+      "snippet": "This calculator is designed to assist Service members in projecting their pension under the Final Pay retirement plan. I am in the. Active Component. Reserve ...",
+      "snippet_highlighted_words": [
+        "calculator",
+        "in the"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator is designed to assist Service members in projecting their pension under the Final Pay retirement plan. I am in the. Active Component. Reserve ...",
+          "source_info_link": "https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACqklEQVR4AXWTQ3gdQBCA3_3cXGq7jW27tm3bto3Ytm3btnmpka9_kz3EOeyOPSORSBjzqFVlhvFjZFfdQ2HNfaYbP4EmLcbTHWnYYcT2iw7I6h2mt7sH6ZX3UF9_j9bWTtRM9iC_-h50azOug_tPdvLSNhxnnyRO3T2C8dNsjjjHs8s2Ge1bSWhtuomF5QYi0qvxcl3NCAe0GvGv7y_KmhaYvSmiPVeZ2y4feONnjcG7ai7Z2NFTaoD6lVgiolORWrwKmiwYdLD5nB0unpHC-IBTBPvsUjB7X47B-1osPpRxwCaK114f2OUQhdFlHxztbFhicArhgAY5AC4_PMbfSlVM31cMGg68_Z8jBfzg_hC9fn5e5m7Rmymyq6BBH8lAtz1DsrG8GcTGm17su_SS3XvP9htV0NcRJYxXXnJky8GbPHx0lnUn36JwwIk_v38hpfcUySz9qxRVNQ9GvLrDnBOGipwzUkTZZCfaxtu4u0qZd1tVWH3ZGaH3rgQd851ixJKBb-Dpvw4bdGJu1cxlM0X-pGTw9cRxHqxVGZRdtH6J-dsSllvcRjiYbvhEIMbPcvo91w0qhmfUc1RfmvOGcoIOjb0hoMZxK_SPvENm5V0m6TxDQrcqyubH2XjsPLKHLgulvnxpHN2uE-h9hUiPTXTEag06Vjr3BPnVd3n1yQuqNcUyiDJWrt2O0ZMslp86LxRHP-fw5yic82XHnefQ9weR_uAiNehguucl8_VOonMjHtmb-1G_tBqL9xWc_miN5kkb9F5bseXmG97bh7FcYzPNeWuaR6yyh_dmlukfEp7nmd5D5exgU5HfZy_SXmh2F2mNtdSVGTP-MTUaCQePHz9lifF5AEw3XaC6ooygkAgha85b2TzRNQ4-quWR0n0qDPqf6DZVqoyn-x_TMD-sFo9YggAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarypay.defense.gov%2FCalculators%2FFinal-Pay-Calculator%2F",
+      "source": "U.S. Department of War (.gov)",
+      "read_more_link": "https://militarypay.defense.gov/Calculators/Final-Pay-Calculator/#:~:text=This%20calculator%20is%20designed%20to,Reserve%20Component"
+    },
+    {
+      "position": 2,
+      "title": "Terminal Leave Calculator",
+      "link": "https://www.militarytransitiontoolkit.com/calculator/terminal-leave",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militarytransitiontoolkit.com/calculator/terminal-leave&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4QFnoECBcQAQ",
+      "displayed_link": "https://www.militarytransitiontoolkit.com › Tools",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABo0lEQVR4Ac3XAWcCcRgG8Au2PkGxJoCyDgj6BgnM1AAEkAB9g4umJIDtU1T6HAWmL5A7LBLchUqePea10Wr_3urmHn6Q3t435727v6XMDdn0TA59CEc-s-U7V88Dteid1oQj1vKdltRcnHt6JZ-g5EvtPZ2VJ5oRLjST31KlQVvClWypoWmOcJiHeNT_c5Wt9DiYO3IJIfMoRb_yRtDI5_OoVqvQD8Fee8lQQNAYjUZYLBZIJpPaAVaUpe-8EDSKxSJ2ux0Y9Ho9Ta1gT8ktTTXF8Xgc4_EYkARBANu2tQNMpbeVo42muFarYT_D4RCxWEwzwEZ6WxVN80QiAdd1sR9eDpRKJc0AxN6Moynqdrs4lslkAl4ezQBNsuanFuRyOfi-j79Sr9c1A8xVA_T7fZjieR64lqoBmpq1M0S7lg5ZFcXaGaJey4p5DWXttBkMBieuoeFGlE6nsVwucU7K5bL5RmS6FRcKha_Va7fbKp1Ox_SgYs-fZGlF-CcBZQyP4zCx14GkyCOEzKVUJF_JIvFSGv5refQPJhE6mkXicBr68fwTVWYuwEfZOWcAAAAASUVORK5CYII.png",
+      "snippet": "Calculate terminal leave dates, pay, and benefits. Compare taking leave vs selling back to maximize transition income.",
+      "snippet_highlighted_words": [
+        "Calculate terminal leave dates"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculate terminal leave dates, pay, and benefits. Compare taking leave vs selling back to maximize transition income.",
+          "source_info_link": "https://www.militarytransitiontoolkit.com/calculator/terminal-leave",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABo0lEQVR4Ac3XAWcCcRgG8Au2PkGxJoCyDgj6BgnM1AAEkAB9g4umJIDtU1T6HAWmL5A7LBLchUqePea10Wr_3urmHn6Q3t435727v6XMDdn0TA59CEc-s-U7V88Dteid1oQj1vKdltRcnHt6JZ-g5EvtPZ2VJ5oRLjST31KlQVvClWypoWmOcJiHeNT_c5Wt9DiYO3IJIfMoRb_yRtDI5_OoVqvQD8Fee8lQQNAYjUZYLBZIJpPaAVaUpe-8EDSKxSJ2ux0Y9Ho9Ta1gT8ktTTXF8Xgc4_EYkARBANu2tQNMpbeVo42muFarYT_D4RCxWEwzwEZ6WxVN80QiAdd1sR9eDpRKJc0AxN6Moynqdrs4lslkAl4ezQBNsuanFuRyOfi-j79Sr9c1A8xVA_T7fZjieR64lqoBmpq1M0S7lg5ZFcXaGaJey4p5DWXttBkMBieuoeFGlE6nsVwucU7K5bL5RmS6FRcKha_Va7fbKp1Ox_SgYs-fZGlF-CcBZQyP4zCx14GkyCOEzKVUJF_JIvFSGv5refQPJhE6mkXicBr68fwTVWYuwEfZOWcAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militarytransitiontoolkit.com/calculator/terminal-leave&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militarytransitiontoolkit.com%2Fcalculator%2Fterminal-leave",
+      "source": "Military Transition Toolkit"
+    },
+    {
+      "position": 3,
+      "title": "How do you calculate selling leave days? : r/AirForce",
+      "link": "https://www.reddit.com/r/AirForce/comments/165mmrg/how_do_you_calculate_selling_leave_days/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/AirForce/comments/165mmrg/how_do_you_calculate_selling_leave_days/&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4QFnoECCMQAQ",
+      "displayed_link": "30+ comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Finance told me it was your base pay, divided by 30%, times the number of days you’re selling, with 22% tax. I did that and it came up with like over ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Leave calculator/planner? : r/army - Reddit",
+            "link": "https://www.reddit.com/r/army/comments/1ks1p59/leave_calculatorplanner/",
+            "answer_count": 7,
+            "date": "May 21, 2025"
+          },
+          {
+            "title": "How can you calculate how much $ you can get from ...",
+            "link": "https://www.reddit.com/r/army/comments/pl8oye/how_can_you_calculate_how_much_you_can_get_from/",
+            "answer_count": 20,
+            "date": "Sep 9, 2021"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The calculation is based on 30 days per month. So you take your monthly base pay and divide it by 30, then multiply it by the number of days ...",
+          "source_info_link": "https://www.reddit.com/r/AirForce/comments/165mmrg/how_do_you_calculate_selling_leave_days/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/AirForce/comments/165mmrg/how_do_you_calculate_selling_leave_days/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FAirForce%2Fcomments%2F165mmrg%2Fhow_do_you_calculate_selling_leave_days%2F",
+      "source": "Reddit · r/AirForce"
+    },
+    {
+      "position": 4,
+      "title": "Leave Calculator",
+      "link": "https://www.hqrio.afrc.af.mil/Portals/149/Documents/Leave%20Calculator.xlsx?ver=O4kBL0g6bzc24SOtsEj4nQ%3D%3D",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hqrio.afrc.af.mil/Portals/149/Documents/Leave%2520Calculator.xlsx%3Fver%3DO4kBL0g6bzc24SOtsEj4nQ%253D%253D&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4QFnoECBYQAQ",
+      "displayed_link": "https://www.hqrio.afrc.af.mil › Portals › Documents",
+      "favicon": "https://serpapi.com/searches/6a3a20bc4de49aecd02c243f/images/vG7UJ4hjEt2PPquQ2Y8UOhfdu4XcmrUv122tuA1oEJQ.png",
+      "snippet": "A, B, C, D, E, F, G, H, I. 1. 2, Leave Calculator for Orders Specialists fill in yellow cells only. 3, First day of duty/travel, 42556. 4, Last day of duty/ ...",
+      "snippet_highlighted_words": [
+        "A",
+        "Leave Calculator",
+        "day",
+        "day"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A, B, C, D, E, F, G, H, I. 1. 2, Leave Calculator for Orders Specialists fill in yellow cells only. 3, First day of duty/travel, 42556. 4, Last day of duty/ ...",
+          "source_info_link": "https://www.hqrio.afrc.af.mil/Portals/149/Documents/Leave%20Calculator.xlsx?ver=O4kBL0g6bzc24SOtsEj4nQ%3D%3D",
+          "icon": "https://serpapi.com/searches/6a3a20bc4de49aecd02c243f/images/vG7UJ4hjEt2PPquQ2Y8UOp-BgQjdp8ZIC-Z9boiO7PZsh7pmUyp5tHabxtEb1cmQ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.hqrio.afrc.af.mil/Portals/149/Documents/Leave%20Calculator.xlsx?ver=O4kBL0g6bzc24SOtsEj4nQ%3D%3D&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.hqrio.afrc.af.mil%2FPortals%2F149%2FDocuments%2FLeave%2520Calculator.xlsx%3Fver%3DO4kBL0g6bzc24SOtsEj4nQ%253D%253D",
+      "source": "HQ RIO (.mil)",
+      "read_more_link": "https://www.hqrio.afrc.af.mil/Portals/149/Documents/Leave%20Calculator.xlsx?ver=O4kBL0g6bzc24SOtsEj4nQ%3D%3D#:~:text=A,Last%20day%20of%20duty%2Ftravel%2Fdowntime"
+    },
+    {
+      "position": 5,
+      "title": "Terminal Leave Calculator",
+      "link": "https://mountainhomefss.com/wp-content/uploads/2024/09/Terminal-Leave-Calculator.xlsx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mountainhomefss.com/wp-content/uploads/2024/09/Terminal-Leave-Calculator.xlsx&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4QFnoECBgQAQ",
+      "displayed_link": "https://mountainhomefss.com › uploads › 2024/09",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEVHcEyur7Gtr7Ktr7KwsLK2tbOtr7KtrrGtr7Kur7KrrbGtr7KTn6yur7Ktr7Ktr7Ktr7IAUZoAUZsAUZsAT5qtr7IAUJkKUpsBUpsAUpsAUJueprCys7M6aKBMc6IIe-lyAAAAH3RSTlMAQML_KTCNXMxUGWULnnbZsDxtn0_mGcn_8f_9__9HP8HTQwAAAPxJREFUeAGVkQWyhDAQBSe8BHeHL_c_5s7gTm2XIN0Qo29Rb4H1FkA_ewP7OXCA1-B5FgqA--Q9CP5tYFtjcRsECBwwzl0Qsos4iOX-KkgUIgk89ia2InMM4CRmMwcX6XEObpiw99YRjxub6t1GAMkh8PXmB6Su9tUzIVGY5UVJVAHB0ddlXjQtUxClQEWCDsVkbDo2fbv6cdMdTfUoVxoalqPFq2Ul3C0-YF2Nh7Y9u3LQfaMq9hENxNtg-oPoyizbGdFCMUxStEO0BLAUjeimZ__zm7BeCCBUrpsAv389-0jTjhgLEvzTGSeyksRNo9h0bUaPtOWzD3P6ng9CUA7qn5H_7AAAAABJRU5ErkJggg.png",
+      "snippet": "Military members wishing to estimate their terminal leave dates in conjunction with separation or retirement. This is an estimate only, please see your local ...",
+      "snippet_highlighted_words": [
+        "Military",
+        "leave"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military members wishing to estimate their terminal leave dates in conjunction with separation or retirement. This is an estimate only, please see your local ...",
+          "source_info_link": "https://mountainhomefss.com/wp-content/uploads/2024/09/Terminal-Leave-Calculator.xlsx",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEVHcEyur7Gtr7Ktr7KwsLK2tbOtr7KtrrGtr7Kur7KrrbGtr7KTn6yur7Ktr7Ktr7Ktr7IAUZoAUZsAUZsAT5qtr7IAUJkKUpsBUpsAUpsAUJueprCys7M6aKBMc6IIe-lyAAAAH3RSTlMAQML_KTCNXMxUGWULnnbZsDxtn0_mGcn_8f_9__9HP8HTQwAAAPxJREFUeAGVkQWyhDAQBSe8BHeHL_c_5s7gTm2XIN0Qo29Rb4H1FkA_ewP7OXCA1-B5FgqA--Q9CP5tYFtjcRsECBwwzl0Qsos4iOX-KkgUIgk89ia2InMM4CRmMwcX6XEObpiw99YRjxub6t1GAMkh8PXmB6Su9tUzIVGY5UVJVAHB0ddlXjQtUxClQEWCDsVkbDo2fbv6cdMdTfUoVxoalqPFq2Ul3C0-YF2Nh7Y9u3LQfaMq9hENxNtg-oPoyizbGdFCMUxStEO0BLAUjeimZ__zm7BeCCBUrpsAv389-0jTjhgLEvzTGSeyksRNo9h0bUaPtOWzD3P6ng9CUA7qn5H_7AAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://mountainhomefss.com/wp-content/uploads/2024/09/Terminal-Leave-Calculator.xlsx&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmountainhomefss.com%2Fwp-content%2Fuploads%2F2024%2F09%2FTerminal-Leave-Calculator.xlsx",
+      "source": "366th Force Support Squadron",
+      "read_more_link": "https://mountainhomefss.com/wp-content/uploads/2024/09/Terminal-Leave-Calculator.xlsx#:~:text=Military%20members%20wishing%20to%20estimate,for%20assistance%20with%20actual%20authorization."
+    },
+    {
+      "position": 6,
+      "title": "Military Pay Calculator",
+      "link": "https://www.military.com/benefits/military-pay/calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/benefits/military-pay/calculator&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4QFnoECBUQAQ",
+      "displayed_link": "https://www.military.com › benefits › calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "snippet": "2026 Military Pay. The Military Pay Calculator is the perfect tool to help you figure out how much you make as a U.S. military service member.",
+      "snippet_highlighted_words": [
+        "Military",
+        "Military",
+        "Calculator",
+        "a",
+        "military"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "2026 Military Pay. The Military Pay Calculator is the perfect tool to help you figure out how much you make as a U.S. military service member.",
+          "source_info_link": "https://www.military.com/benefits/military-pay/calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/benefits/military-pay/calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fbenefits%2Fmilitary-pay%2Fcalculator",
+      "source": "Military.com",
+      "read_more_link": "https://www.military.com/benefits/military-pay/calculator#:~:text=2026%20Military%20Pay,a%20U.S.%20military%20service%20member."
+    },
+    {
+      "position": 7,
+      "title": "Types of Military Leave & How It Works",
+      "link": "https://www.militaryonesource.mil/military-basics/new-to-the-military/military-leave-and-how-it-works/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militaryonesource.mil/military-basics/new-to-the-military/military-leave-and-how-it-works/&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4QFnoECBkQAQ",
+      "displayed_link": "https://www.militaryonesource.mil › new-to-the-military",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png",
+      "date": "Jun 9, 2026",
+      "snippet": "As part of the military pay and benefits package, military service members earn 30 days of paid leave per year. This includes members of the ...",
+      "snippet_highlighted_words": [
+        "30 days of paid leave per year"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "As part of the military pay and benefits package, military service members earn 30 days of paid leave per year. This includes members of the ...",
+          "source_info_link": "https://www.militaryonesource.mil/military-basics/new-to-the-military/military-leave-and-how-it-works/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militaryonesource.mil/military-basics/new-to-the-military/military-leave-and-how-it-works/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militaryonesource.mil%2Fmilitary-basics%2Fnew-to-the-military%2Fmilitary-leave-and-how-it-works%2F",
+      "source": "Military OneSource (.mil)",
+      "read_more_link": "https://www.militaryonesource.mil/military-basics/new-to-the-military/military-leave-and-how-it-works/#:~:text=As%20part%20of%20the%20military,members%20of%20the%20Coast%20Guard."
+    },
+    {
+      "position": 8,
+      "title": "Cashing in Military Leave",
+      "link": "https://www.military-divorce-guide.com/pay-records/cashing-military-leave",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military-divorce-guide.com/pay-records/cashing-military-leave&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4QFnoECEQQAQ",
+      "displayed_link": "https://www.military-divorce-guide.com › pay-records",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEX____-_v76-_zj6vK3yOCFpM1tksVskcjo7vPw8_a6y-Gku9qtwdzG0-ZwlshOfcBPfsBXg8Nhi8PM2OdficRVgsNYhMOMqNCYstRbhsOftNfO2uh_ns3F0ubc5O3W3-zwUQbhAAABCElEQVR4AXXTgYqAIAwG4DKrLNOt3NKrq_d_y1sEhB79BC2_xAlavamVpJa3pMpTN7rt-lYPZpwmW9jsPCACOOu8X-6RF9dAQhIKganLUPXEyJvWcSEucQTmpI2qzdphiY4YftTzXypwCIT9_tRzwBzXhHQ0T_1b4ii4mS9kQfWN3zPne83hA89A2F0fWHXEaJ_PMZVoPWO_Khk6D-ICTSKm3u67dsAl3v0yAicA-o9KB2BGgr4NJYpecfE-xHMsu31YGWOUdMvoimNyqqcwERhijjvH4WajE7K_MlOByNn1miMTQ1tlMQcgArE8DO6s8jTTvUVEAtzEiqjTtgsHN10mh_c6SKo3f1uuFXg5290gAAAAAElFTkSuQmCC.png",
+      "snippet": "Military members accrue 30 days of leave per year and may cash out up to 60 days upon discharge from the military, or (for enlisted) upon reenlistment.",
+      "snippet_highlighted_words": [
+        "30 days of leave per year"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Military members accrue 30 days of leave per year and may cash out up to 60 days upon discharge from the military, or (for enlisted) upon reenlistment.",
+          "source_info_link": "https://www.military-divorce-guide.com/pay-records/cashing-military-leave",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEX____-_v76-_zj6vK3yOCFpM1tksVskcjo7vPw8_a6y-Gku9qtwdzG0-ZwlshOfcBPfsBXg8Nhi8PM2OdficRVgsNYhMOMqNCYstRbhsOftNfO2uh_ns3F0ubc5O3W3-zwUQbhAAABCElEQVR4AXXTgYqAIAwG4DKrLNOt3NKrq_d_y1sEhB79BC2_xAlavamVpJa3pMpTN7rt-lYPZpwmW9jsPCACOOu8X-6RF9dAQhIKganLUPXEyJvWcSEucQTmpI2qzdphiY4YftTzXypwCIT9_tRzwBzXhHQ0T_1b4ii4mS9kQfWN3zPne83hA89A2F0fWHXEaJ_PMZVoPWO_Khk6D-ICTSKm3u67dsAl3v0yAicA-o9KB2BGgr4NJYpecfE-xHMsu31YGWOUdMvoimNyqqcwERhijjvH4WajE7K_MlOByNn1miMTQ1tlMQcgArE8DO6s8jTTvUVEAtzEiqjTtgsHN10mh_c6SKo3f1uuFXg5290gAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military-divorce-guide.com/pay-records/cashing-military-leave&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military-divorce-guide.com%2Fpay-records%2Fcashing-military-leave",
+      "source": "military-divorce-guide.com"
+    },
+    {
+      "position": 9,
+      "title": "Terminal Leave Calculator",
+      "link": "https://www.scott.af.mil/Portals/28/Attachment%203_%20Terminal%20Leave%20Calculator.xlsx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.scott.af.mil/Portals/28/Attachment%25203_%2520Terminal%2520Leave%2520Calculator.xlsx&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4QFnoECEcQAQ",
+      "displayed_link": "https://www.scott.af.mil › Portals › Attachment 3_...",
+      "snippet": "Calculator. A, B, C, D, E, F. 1, TERMINAL LEAVE CALCULATOR. 2. 3, START HERE ↓ Enter Current LES Month & Year (based on any LES you are using) (Fill in Yellow ...",
+      "snippet_highlighted_words": [
+        "Enter Current LES Month & Year"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculator. A, B, C, D, E, F. 1, TERMINAL LEAVE CALCULATOR. 2. 3, START HERE ↓ Enter Current LES Month & Year (based on any LES you are using) (Fill in Yellow ...",
+          "source_info_link": "https://www.scott.af.mil/Portals/28/Attachment%203_%20Terminal%20Leave%20Calculator.xlsx"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.scott.af.mil/Portals/28/Attachment%203_%20Terminal%20Leave%20Calculator.xlsx&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.scott.af.mil%2FPortals%2F28%2FAttachment%25203_%2520Terminal%2520Leave%2520Calculator.xlsx",
+      "source": "Scott Air Force Base (.mil)",
+      "read_more_link": "https://www.scott.af.mil/Portals/28/Attachment%203_%20Terminal%20Leave%20Calculator.xlsx#:~:text=Calculator,(Fill%20in%20Yellow%20Blocks%20only!)"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Paid leave days calculator military per year",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Paid+leave+days+calculator+military+per+year&sa=X&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paid+leave+days+calculator+military+per+year"
+    },
+    {
+      "block_position": 1,
+      "query": "Leave days calculator military per year reddit",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Leave+days+calculator+military+per+year+reddit&sa=X&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Leave+days+calculator+military+per+year+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Leave days calculator military per year army",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Leave+days+calculator+military+per+year+army&sa=X&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Leave+days+calculator+military+per+year+army"
+    },
+    {
+      "block_position": 1,
+      "query": "Military leave days calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+leave+days+calculator&sa=X&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+leave+days+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Military leave Pay Calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+leave+Pay+Calculator&sa=X&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+leave+Pay+Calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Selling leave days calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Selling+leave+days+calculator&sa=X&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Selling+leave+days+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Military Leave calculator Air Force",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+Leave+calculator+Air+Force&sa=X&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+Leave+calculator+Air+Force"
+    },
+    {
+      "block_position": 1,
+      "query": "Military Terminal leave Calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+Terminal+leave+Calculator&sa=X&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+Terminal+leave+Calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=leave+days+calculator+military+per+year&sca_esv=c510ba4e6526f391&ei=viA6as7RE7zeruEPobeB8AQ&start=10&sa=N&sstk=AU9db-Ag6Z-CYrt7QdSCcwsIZtvYvCQ2nPd3VerD9v2zGahZiMAzrI0Z-l0IlqN-lnAhsqgYni-SpCWU1rnqsbqTcTZn0FDmR94nBg&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q8NMDegQIOhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=leave+days+calculator+military+per+year&sca_esv=c510ba4e6526f391&ei=viA6as7RE7zeruEPobeB8AQ&start=10&sa=N&sstk=AU9db-Ag6Z-CYrt7QdSCcwsIZtvYvCQ2nPd3VerD9v2zGahZiMAzrI0Z-l0IlqN-lnAhsqgYni-SpCWU1rnqsbqTcTZn0FDmR94nBg&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q8tMDegQIOhAE",
+      "3": "https://www.google.com/search?q=leave+days+calculator+military+per+year&sca_esv=c510ba4e6526f391&ei=viA6as7RE7zeruEPobeB8AQ&start=20&sa=N&sstk=AU9db-Ag6Z-CYrt7QdSCcwsIZtvYvCQ2nPd3VerD9v2zGahZiMAzrI0Z-l0IlqN-lnAhsqgYni-SpCWU1rnqsbqTcTZn0FDmR94nBg&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q8tMDegQIOhAG",
+      "4": "https://www.google.com/search?q=leave+days+calculator+military+per+year&sca_esv=c510ba4e6526f391&ei=viA6as7RE7zeruEPobeB8AQ&start=30&sa=N&sstk=AU9db-Ag6Z-CYrt7QdSCcwsIZtvYvCQ2nPd3VerD9v2zGahZiMAzrI0Z-l0IlqN-lnAhsqgYni-SpCWU1rnqsbqTcTZn0FDmR94nBg&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q8tMDegQIOhAI",
+      "5": "https://www.google.com/search?q=leave+days+calculator+military+per+year&sca_esv=c510ba4e6526f391&ei=viA6as7RE7zeruEPobeB8AQ&start=40&sa=N&sstk=AU9db-Ag6Z-CYrt7QdSCcwsIZtvYvCQ2nPd3VerD9v2zGahZiMAzrI0Z-l0IlqN-lnAhsqgYni-SpCWU1rnqsbqTcTZn0FDmR94nBg&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q8tMDegQIOhAK",
+      "6": "https://www.google.com/search?q=leave+days+calculator+military+per+year&sca_esv=c510ba4e6526f391&ei=viA6as7RE7zeruEPobeB8AQ&start=50&sa=N&sstk=AU9db-Ag6Z-CYrt7QdSCcwsIZtvYvCQ2nPd3VerD9v2zGahZiMAzrI0Z-l0IlqN-lnAhsqgYni-SpCWU1rnqsbqTcTZn0FDmR94nBg&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q8tMDegQIOhAM",
+      "7": "https://www.google.com/search?q=leave+days+calculator+military+per+year&sca_esv=c510ba4e6526f391&ei=viA6as7RE7zeruEPobeB8AQ&start=60&sa=N&sstk=AU9db-Ag6Z-CYrt7QdSCcwsIZtvYvCQ2nPd3VerD9v2zGahZiMAzrI0Z-l0IlqN-lnAhsqgYni-SpCWU1rnqsbqTcTZn0FDmR94nBg&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q8tMDegQIOhAO",
+      "8": "https://www.google.com/search?q=leave+days+calculator+military+per+year&sca_esv=c510ba4e6526f391&ei=viA6as7RE7zeruEPobeB8AQ&start=70&sa=N&sstk=AU9db-Ag6Z-CYrt7QdSCcwsIZtvYvCQ2nPd3VerD9v2zGahZiMAzrI0Z-l0IlqN-lnAhsqgYni-SpCWU1rnqsbqTcTZn0FDmR94nBg&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q8tMDegQIOhAQ",
+      "9": "https://www.google.com/search?q=leave+days+calculator+military+per+year&sca_esv=c510ba4e6526f391&ei=viA6as7RE7zeruEPobeB8AQ&start=80&sa=N&sstk=AU9db-Ag6Z-CYrt7QdSCcwsIZtvYvCQ2nPd3VerD9v2zGahZiMAzrI0Z-l0IlqN-lnAhsqgYni-SpCWU1rnqsbqTcTZn0FDmR94nBg&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q8tMDegQIOhAS",
+      "10": "https://www.google.com/search?q=leave+days+calculator+military+per+year&sca_esv=c510ba4e6526f391&ei=viA6as7RE7zeruEPobeB8AQ&start=90&sa=N&sstk=AU9db-Ag6Z-CYrt7QdSCcwsIZtvYvCQ2nPd3VerD9v2zGahZiMAzrI0Z-l0IlqN-lnAhsqgYni-SpCWU1rnqsbqTcTZn0FDmR94nBg&ved=2ahUKEwjOqICx15yVAxU8rysGHaFbAE4Q8tMDegQIOhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leave+days+calculator+military+per+year&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leave+days+calculator+military+per+year&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leave+days+calculator+military+per+year&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leave+days+calculator+military+per+year&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leave+days+calculator+military+per+year&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leave+days+calculator+military+per+year&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leave+days+calculator+military+per+year&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leave+days+calculator+military+per+year&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leave+days+calculator+military+per+year&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leave+days+calculator+military+per+year&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leave+days+calculator+military+per+year&start=90"
+    }
+  }
+}

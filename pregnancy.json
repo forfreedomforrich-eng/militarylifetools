@@ -1,0 +1,438 @@
+{
+  "search_metadata": {
+    "id": "6a3a1898ff7aa2ff7efdaec6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ZOq_1il2AYxZK197EBrToA/6a3a1898ff7aa2ff7efdaec6.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/ZOq_1il2AYxZK197EBrToA/6a3a1898ff7aa2ff7efdaec6.json_with_pixel_position",
+    "created_at": "2026-06-23 05:24:40 UTC",
+    "processed_at": "2026-06-23 05:24:40 UTC",
+    "google_url": "https://www.google.com/search?q=pregnancy+due+date+calculator+weeks&oq=pregnancy+due+date+calculator+weeks&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ZOq_1il2AYxZK197EBrToA/6a3a1898ff7aa2ff7efdaec6.html",
+    "total_time_taken": 0.87
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "pregnancy due date calculator weeks",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "pregnancy due date calculator weeks",
+    "total_results": 112,
+    "time_taken_displayed": 0.17,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How many weeks pregnant based on my due date?",
+      "type": "ai_overview",
+      "page_token": "8lD8lXicHdDBbpswGABg7WV6bAgknRIpqkawC9Vigh3_GF8msEtIsIO3eoVw27vsqfY0m3b_Tt-v3-Zy6_98-ui8d-_bxWIcx8fzMJzN26Ma7KJ-v9_UQtXGNLXqt0-fn5bPrdqhn1m8_57FBXcOEhqwm-Osx4Rc6Z4Z2eYnXevQ2Tr0jkckbdBreTCbjAjoD9yvuECjivCpCN1ezPGRWzTXKfVFLwewrm_Kaa34xipBvOqnQHMsWARSlm71dkJhjknLDCQ8xBeF4Kjhdc5RBzSliURmVlYLHqz3YNde3mgG18MdoBt1Ql807noGZipLvSSJXrJIXxnGUcXX1T8T0LSLUKc9tyqsBJ2qAEZiN3fNoWhE7GVKaDUNl4LTWV2N5daU9CS_NmkscoQzBtkqF-Yo8Zcgf9lUkOpOjg-t-thFD_8_d99a67fux3D-C_Dxg9o",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8lD8lXicHdDBbpswGABg7WV6bAgknRIpqkawC9Vigh3_GF8msEtIsIO3eoVw27vsqfY0m3b_Tt-v3-Zy6_98-ui8d-_bxWIcx8fzMJzN26Ma7KJ-v9_UQtXGNLXqt0-fn5bPrdqhn1m8_57FBXcOEhqwm-Osx4Rc6Z4Z2eYnXevQ2Tr0jkckbdBreTCbjAjoD9yvuECjivCpCN1ezPGRWzTXKfVFLwewrm_Kaa34xipBvOqnQHMsWARSlm71dkJhjknLDCQ8xBeF4Kjhdc5RBzSliURmVlYLHqz3YNde3mgG18MdoBt1Ql807noGZipLvSSJXrJIXxnGUcXX1T8T0LSLUKc9tyqsBJ2qAEZiN3fNoWhE7GVKaDUNl4LTWV2N5daU9CS_NmkscoQzBtkqF-Yo8Zcgf9lUkOpOjg-t-thFD_8_d99a67fux3D-C_Dxg9o",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFUlBiRVpZYms1cFdIZHdNbGwyYVVOUVRqTnlhMnhxYlU1dlZtZzNTVVZHZW05bVNGQXdjRVkyY1U0d00yYzRaRFp5WVZSQ1RFRlpPRk5KUzNCd2VqZEdTRXRQWjNWWFNuTnVaMVk0VEhseWVFWnhNaTFOT1Rac1p4SVhiVkpuTm1GMGNXTkZjRFp2Y25WRlVHMXdiV1J6VVdNYUlrRkVjM0k1WmxSSmMwcEpZa2xJYVhNelNFVmtkVVp1UTIxNFkxaHZkMFJXYUZFIiwiZmN2IjoiMyIsImVpIjoibVJnNmF0cWNFcDZvcnVFUG1wbWRzUWMiLCJxYyI6IkNpTndjbVZuYm1GdVkza2daSFZsSUdSaGRHVWdZMkZzWTNWc1lYUnZjaUIzWldWcmN4QUFHQUY5T1BvdlB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSB3ZWVrcyBwcmVnbmFudCBiYXNlZCBvbiBteSBkdWUgZGF0ZT8iLCJsayI6IkdpeG9iM2NnYldGdWVTQjNaV1ZyY3lCd2NtVm5ibUZ1ZENCaVlYTmxaQ0J2YmlCdGVTQmtkV1VnWkdGMFpRIiwiYnMiOiJjNVdPUFF2Q01CUkZjYzNrM09tQ3VtZ1ZxUTQ2RlRjN09EczRTR3dlVFpBbWtxU0dfbnNyQlcwWFA4YkhPX2R3MkpuTjl5YWc1THBHSUxvNjNDd1ZtbXVQQzNja1lEVEtHcUlpQ080cFRSWlJMUDhZc0FNYlotNTF2cG5WQnNaaXZXd2xhVEtKUnVvN3gwNXN0ck9FMmxUWW9qVGF5MDVBZ3pjUDI2bU5veW5fR1hfS2o1TDd0a0FvZ1F5NTBUbXBleWVvSnc4OVhIM0FoNE1IIiwiaWQiOiJmY19tUmc2YXRxY0VwNm9ydUVQbXBtZHNRY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFUlBiRVpZYms1cFdIZHdNbGwyYVVOUVRqTnlhMnhxYlU1dlZtZzNTVVZHZW05bVNGQXdjRVkyY1U0d00yYzRaRFp5WVZSQ1RFRlpPRk5KUzNCd2VqZEdTRXRQWjNWWFNuTnVaMVk0VEhseWVFWnhNaTFOT1Rac1p4SVhiVkpuTm1GMGNXTkZjRFp2Y25WRlVHMXdiV1J6VVdNYUlrRkVjM0k1WmxSSmMwcEpZa2xJYVhNelNFVmtkVVp1UTIxNFkxaHZkMFJXYUZFIiwiZmN2IjoiMyIsImVpIjoibVJnNmF0cWNFcDZvcnVFUG1wbWRzUWMiLCJxYyI6IkNpTndjbVZuYm1GdVkza2daSFZsSUdSaGRHVWdZMkZzWTNWc1lYUnZjaUIzWldWcmN4QUFHQUY5T1BvdlB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSB3ZWVrcyBwcmVnbmFudCBiYXNlZCBvbiBteSBkdWUgZGF0ZT8iLCJsayI6IkdpeG9iM2NnYldGdWVTQjNaV1ZyY3lCd2NtVm5ibUZ1ZENCaVlYTmxaQ0J2YmlCdGVTQmtkV1VnWkdGMFpRIiwiYnMiOiJjNVdPUFF2Q01CUkZjYzNrM09tQ3VtZ1ZxUTQ2RlRjN09EczRTR3dlVFpBbWtxU0dfbnNyQlcwWFA4YkhPX2R3MkpuTjl5YWc1THBHSUxvNjNDd1ZtbXVQQzNja1lEVEtHcUlpQ080cFRSWlJMUDhZc0FNYlotNTF2cG5WQnNaaXZXd2xhVEtKUnVvN3gwNXN0ck9FMmxUWW9qVGF5MDVBZ3pjUDI2bU5veW5fR1hfS2o1TDd0a0FvZ1F5NTBUbXBleWVvSnc4OVhIM0FoNE1IIiwiaWQiOiJmY19tUmc2YXRxY0VwNm9ydUVQbXBtZHNRY181In0%3D"
+    },
+    {
+      "question": "Is due date based on 38 or 40 weeks?",
+      "type": "ai_overview",
+      "page_token": "fYHPS3icHZDLboJAGEbTl3GpDF6ampgmyEWoM4YZf2Zg0-CgYJkRqijIru_Sp-rT1Hb7Lc45-b6-1fFU_jzdiqapL_PRqG3bYV5VudoPZaVH6eV-kiOZKrVLZTmfPc_Q60EunKtvLT99K4S6jmxqMJ5g1gdOyPM7nHIzNguxVdmMiTpNIOu553JsOh0gGmYOum6F2xHdGbw0JnKl_LAMLpFwBQZkrUVxTnVHpC7wmk-nUU_teKy2xMn7JCpS7BHn4VOJpgROFCQnauPhCYsCwiIy4wIj0IQDICYdcha9ZXJNWmxnf02Yl4FHeuonXuBSWz2Y8Tgxu2A7TvBjMwiyqFNkDWhpxoJ2sRG1RL_cM4jCnbCaZEVo3FXHEGgvP5QG8Hu2RIfMptVeBW-YEwDhxgxZG8bdq2RoHYaDg7wtxoP_PxfvB93M63OV_wIM3IK0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fYHPS3icHZDLboJAGEbTl3GpDF6ampgmyEWoM4YZf2Zg0-CgYJkRqijIru_Sp-rT1Hb7Lc45-b6-1fFU_jzdiqapL_PRqG3bYV5VudoPZaVH6eV-kiOZKrVLZTmfPc_Q60EunKtvLT99K4S6jmxqMJ5g1gdOyPM7nHIzNguxVdmMiTpNIOu553JsOh0gGmYOum6F2xHdGbw0JnKl_LAMLpFwBQZkrUVxTnVHpC7wmk-nUU_teKy2xMn7JCpS7BHn4VOJpgROFCQnauPhCYsCwiIy4wIj0IQDICYdcha9ZXJNWmxnf02Yl4FHeuonXuBSWz2Y8Tgxu2A7TvBjMwiyqFNkDWhpxoJ2sRG1RL_cM4jCnbCaZEVo3FXHEGgvP5QG8Hu2RIfMptVeBW-YEwDhxgxZG8bdq2RoHYaDg7wtxoP_PxfvB93M63OV_wIM3IK0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFUlBiRVpZYms1cFdIZHdNbGwyYVVOUVRqTnlhMnhxYlU1dlZtZzNTVVZHZW05bVNGQXdjRVkyY1U0d00yYzRaRFp5WVZSQ1RFRlpPRk5KUzNCd2VqZEdTRXRQWjNWWFNuTnVaMVk0VEhseWVFWnhNaTFOT1Rac1p4SVhiVkpuTm1GMGNXTkZjRFp2Y25WRlVHMXdiV1J6VVdNYUlrRkVjM0k1WmxSSmMwcEpZa2xJYVhNelNFVmtkVVp1UTIxNFkxaHZkMFJXYUZFIiwiZmN2IjoiMyIsImVpIjoibVJnNmF0cWNFcDZvcnVFUG1wbWRzUWMiLCJxYyI6IkNpTndjbVZuYm1GdVkza2daSFZsSUdSaGRHVWdZMkZzWTNWc1lYUnZjaUIzWldWcmN4QUFHQUY5T1BvdlB3IiwicXVlc3Rpb24iOiJJcyBkdWUgZGF0ZSBiYXNlZCBvbiAzOCBvciA0MCB3ZWVrcz8iLCJsayI6IkdpTnBjeUJrZFdVZ1pHRjBaU0JpWVhObFpDQnZiaUF6T0NCdmNpQTBNQ0IzWldWcmN3IiwiYnMiOiJjNVdPUFF2Q01CUkZjYzNrM09tQ3VtZ1ZxUTQ2RlRjN09EczRTR3dlVFpBbWtxU0dfbnNyQlcwWFA4YkhPX2R3MkpuTjl5YWc1THBHSUxvNjNDd1ZtbXVQQzNja1lEVEtHcUlpQ080cFRSWlJMUDhZc0FNYlotNTF2cG5WQnNaaXZXd2xhVEtKUnVvN3gwNXN0ck9FMmxUWW9qVGF5MDVBZ3pjUDI2bU5veW5fR1hfS2o1TDd0a0FvZ1F5NTBUbXBleWVvSnc4OVhIM0FoNE1IIiwiaWQiOiJmY19tUmc2YXRxY0VwNm9ydUVQbXBtZHNRY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFUlBiRVpZYms1cFdIZHdNbGwyYVVOUVRqTnlhMnhxYlU1dlZtZzNTVVZHZW05bVNGQXdjRVkyY1U0d00yYzRaRFp5WVZSQ1RFRlpPRk5KUzNCd2VqZEdTRXRQWjNWWFNuTnVaMVk0VEhseWVFWnhNaTFOT1Rac1p4SVhiVkpuTm1GMGNXTkZjRFp2Y25WRlVHMXdiV1J6VVdNYUlrRkVjM0k1WmxSSmMwcEpZa2xJYVhNelNFVmtkVVp1UTIxNFkxaHZkMFJXYUZFIiwiZmN2IjoiMyIsImVpIjoibVJnNmF0cWNFcDZvcnVFUG1wbWRzUWMiLCJxYyI6IkNpTndjbVZuYm1GdVkza2daSFZsSUdSaGRHVWdZMkZzWTNWc1lYUnZjaUIzWldWcmN4QUFHQUY5T1BvdlB3IiwicXVlc3Rpb24iOiJJcyBkdWUgZGF0ZSBiYXNlZCBvbiAzOCBvciA0MCB3ZWVrcz8iLCJsayI6IkdpTnBjeUJrZFdVZ1pHRjBaU0JpWVhObFpDQnZiaUF6T0NCdmNpQTBNQ0IzWldWcmN3IiwiYnMiOiJjNVdPUFF2Q01CUkZjYzNrM09tQ3VtZ1ZxUTQ2RlRjN09EczRTR3dlVFpBbWtxU0dfbnNyQlcwWFA4YkhPX2R3MkpuTjl5YWc1THBHSUxvNjNDd1ZtbXVQQzNja1lEVEtHcUlpQ080cFRSWlJMUDhZc0FNYlotNTF2cG5WQnNaaXZXd2xhVEtKUnVvN3gwNXN0ck9FMmxUWW9qVGF5MDVBZ3pjUDI2bU5veW5fR1hfS2o1TDd0a0FvZ1F5NTBUbXBleWVvSnc4OVhIM0FoNE1IIiwiaWQiOiJmY19tUmc2YXRxY0VwNm9ydUVQbXBtZHNRY181In0%3D"
+    },
+    {
+      "question": "Are you 9 months pregnant on your due date?",
+      "type": "ai_overview",
+      "page_token": "mxLWJXicHdBRcqIwAADQ2cv0sxps3dEZp7NUELFkhjQJSX46mIAREsiuqSB_vUtP1dN0th_vAu_j05y79uvXVXvvLuvZbBiG-1Pfn0x1L3s7Ky-3Ts5kacyxlO16-XsJnmq5id734fPffZgT5-gWzXEiltjQDjV_QNbqSCycU5MoKioSTh6DIoaHwvqRbnVWMcRyqw9li3De7W8Em62aa1M26pJRajkO2WsL32HktlmwuhKQ6hcGOxw9PJY7msEiBhLr-GjHoMJxmLF-qGxaQ0v_8xnLPZ5CXNh45FM8KRABhI2jC3rAZGSqGOMqQaXCuiGJCCRID9BGowTixkl6VVO8iLTyxMqAMzTyOR2gXd0UofmRhV4kEPGxP-cETbIxllDIK-tN1rmGzwFUTACyS221g-AFi_qV6i7P72p53Szufj43b7X1a_evP30DkwmFnQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mxLWJXicHdBRcqIwAADQ2cv0sxps3dEZp7NUELFkhjQJSX46mIAREsiuqSB_vUtP1dN0th_vAu_j05y79uvXVXvvLuvZbBiG-1Pfn0x1L3s7Ky-3Ts5kacyxlO16-XsJnmq5id734fPffZgT5-gWzXEiltjQDjV_QNbqSCycU5MoKioSTh6DIoaHwvqRbnVWMcRyqw9li3De7W8Em62aa1M26pJRajkO2WsL32HktlmwuhKQ6hcGOxw9PJY7msEiBhLr-GjHoMJxmLF-qGxaQ0v_8xnLPZ5CXNh45FM8KRABhI2jC3rAZGSqGOMqQaXCuiGJCCRID9BGowTixkl6VVO8iLTyxMqAMzTyOR2gXd0UofmRhV4kEPGxP-cETbIxllDIK-tN1rmGzwFUTACyS221g-AFi_qV6i7P72p53Szufj43b7X1a_evP30DkwmFnQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFUlBiRVpZYms1cFdIZHdNbGwyYVVOUVRqTnlhMnhxYlU1dlZtZzNTVVZHZW05bVNGQXdjRVkyY1U0d00yYzRaRFp5WVZSQ1RFRlpPRk5KUzNCd2VqZEdTRXRQWjNWWFNuTnVaMVk0VEhseWVFWnhNaTFOT1Rac1p4SVhiVkpuTm1GMGNXTkZjRFp2Y25WRlVHMXdiV1J6VVdNYUlrRkVjM0k1WmxSSmMwcEpZa2xJYVhNelNFVmtkVVp1UTIxNFkxaHZkMFJXYUZFIiwiZmN2IjoiMyIsImVpIjoibVJnNmF0cWNFcDZvcnVFUG1wbWRzUWMiLCJxYyI6IkNpTndjbVZuYm1GdVkza2daSFZsSUdSaGRHVWdZMkZzWTNWc1lYUnZjaUIzWldWcmN4QUFHQUY5T1BvdlB3IiwicXVlc3Rpb24iOiJBcmUgeW91IDkgbW9udGhzIHByZWduYW50IG9uIHlvdXIgZHVlIGRhdGU/IiwibGsiOiJHaXBoY21VZ2VXOTFJRGtnYlc5dWRHaHpJSEJ5WldkdVlXNTBJRzl1SUhsdmRYSWdaSFZsSUdSaGRHVSIsImJzIjoiYzVXT1BRdkNNQlJGY2MzazNPbUN1bWdWcVE0NkZUYzdPRHM0U0d3ZVRaQW1rcVNHX25zckJXMFhQOGJIT19kdzJKbk45eWFnNUxwR0lMbzYzQ3dWbW11UEMzY2tZRFRLR3FJaUNPNHBUUlpSTFA4WXNBTWJaLTUxdnBuVkJzWml2V3dsYVRLSlJ1bzd4MDVzdHJPRTJsVFlvalRheTA1QWd6Y1AyNm1Ob3luX0dYX0tqNUw3dGtBb2dReTUwVG1wZXllb0p3ODlYSDNBaDRNSCIsImlkIjoiZmNfbVJnNmF0cWNFcDZvcnVFUG1wbWRzUWNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFUlBiRVpZYms1cFdIZHdNbGwyYVVOUVRqTnlhMnhxYlU1dlZtZzNTVVZHZW05bVNGQXdjRVkyY1U0d00yYzRaRFp5WVZSQ1RFRlpPRk5KUzNCd2VqZEdTRXRQWjNWWFNuTnVaMVk0VEhseWVFWnhNaTFOT1Rac1p4SVhiVkpuTm1GMGNXTkZjRFp2Y25WRlVHMXdiV1J6VVdNYUlrRkVjM0k1WmxSSmMwcEpZa2xJYVhNelNFVmtkVVp1UTIxNFkxaHZkMFJXYUZFIiwiZmN2IjoiMyIsImVpIjoibVJnNmF0cWNFcDZvcnVFUG1wbWRzUWMiLCJxYyI6IkNpTndjbVZuYm1GdVkza2daSFZsSUdSaGRHVWdZMkZzWTNWc1lYUnZjaUIzWldWcmN4QUFHQUY5T1BvdlB3IiwicXVlc3Rpb24iOiJBcmUgeW91IDkgbW9udGhzIHByZWduYW50IG9uIHlvdXIgZHVlIGRhdGU%2FIiwibGsiOiJHaXBoY21VZ2VXOTFJRGtnYlc5dWRHaHpJSEJ5WldkdVlXNTBJRzl1SUhsdmRYSWdaSFZsSUdSaGRHVSIsImJzIjoiYzVXT1BRdkNNQlJGY2MzazNPbUN1bWdWcVE0NkZUYzdPRHM0U0d3ZVRaQW1rcVNHX25zckJXMFhQOGJIT19kdzJKbk45eWFnNUxwR0lMbzYzQ3dWbW11UEMzY2tZRFRLR3FJaUNPNHBUUlpSTFA4WXNBTWJaLTUxdnBuVkJzWml2V3dsYVRLSlJ1bzd4MDVzdHJPRTJsVFlvalRheTA1QWd6Y1AyNm1Ob3luX0dYX0tqNUw3dGtBb2dReTUwVG1wZXllb0p3ODlYSDNBaDRNSCIsImlkIjoiZmNfbVJnNmF0cWNFcDZvcnVFUG1wbWRzUWNfNSJ9"
+    },
+    {
+      "question": "What date did I conceive based on due date?",
+      "type": "ai_overview",
+      "page_token": "VyQIXnicHdBRToMwAADQeJl9ug7HzJYsxg3Khq6k0BbKj4F2G4NSqlZh_HkXT-VpNJ7gJe_rW11083PzWVlr3lfTad_3t-euO6vjrejaafF-1WIqCqXKQjSrxf1i9nASa_9jv9m-7jeYGsO8GBB_iUkCQJT2btyGLvMerwWjjnSqKFcQyyDMjv58SEgeEseOZBdCkjbu0TcfKbVP0S7kJVjuD1AVPHVHpGO3CORWQjXjIIRprSJU51sKkcaE9TiDAwbx5ZihAmtIWGuHRIm5YGiL_szSwU4esENCWJT79sJBZZAnPcIYSpreEoDnzxRy4j0Oh2wzIsfFdFY1MoBGahj7lbS0FQ7P4oED1qN2eZWU4TLb2HyHYj50F0zjUdSqpZqZkhottT-Qxmhe5xbXamQBesoZe6U75VA8OYnP9d3k_3P9cmrtyrx1518UmIOe",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VyQIXnicHdBRToMwAADQeJl9ug7HzJYsxg3Khq6k0BbKj4F2G4NSqlZh_HkXT-VpNJ7gJe_rW11083PzWVlr3lfTad_3t-euO6vjrejaafF-1WIqCqXKQjSrxf1i9nASa_9jv9m-7jeYGsO8GBB_iUkCQJT2btyGLvMerwWjjnSqKFcQyyDMjv58SEgeEseOZBdCkjbu0TcfKbVP0S7kJVjuD1AVPHVHpGO3CORWQjXjIIRprSJU51sKkcaE9TiDAwbx5ZihAmtIWGuHRIm5YGiL_szSwU4esENCWJT79sJBZZAnPcIYSpreEoDnzxRy4j0Oh2wzIsfFdFY1MoBGahj7lbS0FQ7P4oED1qN2eZWU4TLb2HyHYj50F0zjUdSqpZqZkhottT-Qxmhe5xbXamQBesoZe6U75VA8OYnP9d3k_3P9cmrtyrx1518UmIOe",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFUlBiRVpZYms1cFdIZHdNbGwyYVVOUVRqTnlhMnhxYlU1dlZtZzNTVVZHZW05bVNGQXdjRVkyY1U0d00yYzRaRFp5WVZSQ1RFRlpPRk5KUzNCd2VqZEdTRXRQWjNWWFNuTnVaMVk0VEhseWVFWnhNaTFOT1Rac1p4SVhiVkpuTm1GMGNXTkZjRFp2Y25WRlVHMXdiV1J6VVdNYUlrRkVjM0k1WmxSSmMwcEpZa2xJYVhNelNFVmtkVVp1UTIxNFkxaHZkMFJXYUZFIiwiZmN2IjoiMyIsImVpIjoibVJnNmF0cWNFcDZvcnVFUG1wbWRzUWMiLCJxYyI6IkNpTndjbVZuYm1GdVkza2daSFZsSUdSaGRHVWdZMkZzWTNWc1lYUnZjaUIzWldWcmN4QUFHQUY5T1BvdlB3IiwicXVlc3Rpb24iOiJXaGF0IGRhdGUgZGlkIEkgY29uY2VpdmUgYmFzZWQgb24gZHVlIGRhdGU/IiwibGsiOiJjNVBTS3M5SUxGRklTU3hKVlVqSlRGSElWRWpPejB0T3pTeExWVWhLTEU1TlVjalBVMGdwVFFVckFBQSIsImJzIjoiYzVXT1BRdkNNQlJGY2MzazNPbUN1bWdWcVE0NkZUYzdPRHM0U0d3ZVRaQW1rcVNHX25zckJXMFhQOGJIT19kdzJKbk45eWFnNUxwR0lMbzYzQ3dWbW11UEMzY2tZRFRLR3FJaUNPNHBUUlpSTFA4WXNBTWJaLTUxdnBuVkJzWml2V3dsYVRLSlJ1bzd4MDVzdHJPRTJsVFlvalRheTA1QWd6Y1AyNm1Ob3luX0dYX0tqNUw3dGtBb2dReTUwVG1wZXllb0p3ODlYSDNBaDRNSCIsImlkIjoiZmNfbVJnNmF0cWNFcDZvcnVFUG1wbWRzUWNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVFUlBiRVpZYms1cFdIZHdNbGwyYVVOUVRqTnlhMnhxYlU1dlZtZzNTVVZHZW05bVNGQXdjRVkyY1U0d00yYzRaRFp5WVZSQ1RFRlpPRk5KUzNCd2VqZEdTRXRQWjNWWFNuTnVaMVk0VEhseWVFWnhNaTFOT1Rac1p4SVhiVkpuTm1GMGNXTkZjRFp2Y25WRlVHMXdiV1J6VVdNYUlrRkVjM0k1WmxSSmMwcEpZa2xJYVhNelNFVmtkVVp1UTIxNFkxaHZkMFJXYUZFIiwiZmN2IjoiMyIsImVpIjoibVJnNmF0cWNFcDZvcnVFUG1wbWRzUWMiLCJxYyI6IkNpTndjbVZuYm1GdVkza2daSFZsSUdSaGRHVWdZMkZzWTNWc1lYUnZjaUIzWldWcmN4QUFHQUY5T1BvdlB3IiwicXVlc3Rpb24iOiJXaGF0IGRhdGUgZGlkIEkgY29uY2VpdmUgYmFzZWQgb24gZHVlIGRhdGU%2FIiwibGsiOiJjNVBTS3M5SUxGRklTU3hKVlVqSlRGSElWRWpPejB0T3pTeExWVWhLTEU1TlVjalBVMGdwVFFVckFBQSIsImJzIjoiYzVXT1BRdkNNQlJGY2MzazNPbUN1bWdWcVE0NkZUYzdPRHM0U0d3ZVRaQW1rcVNHX25zckJXMFhQOGJIT19kdzJKbk45eWFnNUxwR0lMbzYzQ3dWbW11UEMzY2tZRFRLR3FJaUNPNHBUUlpSTFA4WXNBTWJaLTUxdnBuVkJzWml2V3dsYVRLSlJ1bzd4MDVzdHJPRTJsVFlvalRheTA1QWd6Y1AyNm1Ob3luX0dYX0tqNUw3dGtBb2dReTUwVG1wZXllb0p3ODlYSDNBaDRNSCIsImlkIjoiZmNfbVJnNmF0cWNFcDZvcnVFUG1wbWRzUWNfNSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Due Date Calculator: Estimate Your Delivery | APA",
+      "link": "https://americanpregnancy.org/resources/pregnancy-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://americanpregnancy.org/resources/pregnancy-calculator/&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQFnoECA0QAQ",
+      "displayed_link": "https://americanpregnancy.org › pregnancy-calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEVHcExgjqhgjqhgjqhgjqhgjqhgjqhgjqhgjqhgjqhgjqhgjqhgjqjulYVgjqjuVagpAAAADnRSTlMAwXkeUrAKN9hk8JmNU7xPemUAAADJSURBVCiR1VJBEgMhCFNBRdfy_-cWFRbbTnsvhx2YAElwQ_i_qNiwfIEiS3RcBbTranBjiTXQi6FYm0WukHoMIVsjbbBLemkjzvUJSs0crWYTI-S0-S5uShIVK5JXzZlkYkxGB61P2HHrIQeTe5CROjnVV-mMBg7u8iX2_uggLXDtLWbF2oAXuEabjaZ7cMuE6dyvqTbNFB5uTI1fLR2a5qp54VjOTnd4Xjuo5IgVasv7kV5Y4H4spvGmTqJmIooD4cv_8hGPH9gTBF8KALHSGJMAAAAASUVORK5CYII.png",
+      "date": "Jun 1, 2026",
+      "snippet": "Calculated by adding 280 days (40 weeks) to the first day of your last menstrual period (LMP), this standard clinical method provides a helpful ...",
+      "snippet_highlighted_words": [
+        "Calculated by adding 280 days (40 weeks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Calculated by adding 280 days (40 weeks) to the first day of your last menstrual period (LMP), this standard clinical method provides a helpful ...",
+          "source_info_link": "https://americanpregnancy.org/resources/pregnancy-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEVHcExgjqhgjqhgjqhgjqhgjqhgjqhgjqhgjqhgjqhgjqhgjqhgjqjulYVgjqjuVagpAAAADnRSTlMAwXkeUrAKN9hk8JmNU7xPemUAAADJSURBVCiR1VJBEgMhCFNBRdfy_-cWFRbbTnsvhx2YAElwQ_i_qNiwfIEiS3RcBbTranBjiTXQi6FYm0WukHoMIVsjbbBLemkjzvUJSs0crWYTI-S0-S5uShIVK5JXzZlkYkxGB61P2HHrIQeTe5CROjnVV-mMBg7u8iX2_uggLXDtLWbF2oAXuEabjaZ7cMuE6dyvqTbNFB5uTI1fLR2a5qp54VjOTnd4Xjuo5IgVasv7kV5Y4H4spvGmTqJmIooD4cv_8hGPH9gTBF8KALHSGJMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://americanpregnancy.org/resources/pregnancy-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Famericanpregnancy.org%2Fresources%2Fpregnancy-calculator%2F",
+      "source": "American Pregnancy Association",
+      "read_more_link": "https://americanpregnancy.org/resources/pregnancy-calculator/#:~:text=What%20if%20I%20don't%20know"
+    },
+    {
+      "position": 2,
+      "title": "Pregnancy Calculator",
+      "link": "https://www.calculator.net/pregnancy-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calculator.net/pregnancy-calculator.html&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQFnoECCMQAQ",
+      "displayed_link": "https://www.calculator.net › fitness & health",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png",
+      "snippet": "This calculator provides an estimated pregnancy schedule based on the due date, last period date, ultrasound date, conception date, or IVF transfer date.",
+      "snippet_highlighted_words": [
+        "calculator",
+        "pregnancy",
+        "due date",
+        "date",
+        "date",
+        "date",
+        "date"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator provides an estimated pregnancy schedule based on the due date, last period date, ultrasound date, conception date, or IVF transfer date.",
+          "source_info_link": "https://www.calculator.net/pregnancy-calculator.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.calculator.net/pregnancy-calculator.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.calculator.net%2Fpregnancy-calculator.html",
+      "source": "Calculator.net"
+    },
+    {
+      "position": 3,
+      "title": "Estimated date of delivery (EDD) (Patient education)",
+      "link": "https://www.uptodate.com/contents/calculator-estimated-date-of-delivery-edd-patient-education",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uptodate.com/contents/calculator-estimated-date-of-delivery-edd-patient-education&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQFnoECCAQAQ",
+      "displayed_link": "https://www.uptodate.com › contents › calculator-estim...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEXvPkLmVkiU1HCazW6bzmyNxYQ7m9tCntbzMD_pTESN0WaTymKruWeuvnDu9-Xx-Ovl8tp0vzd_w0l6wUPg79J7wkBstmIGg88Xh8mg0Hf8_vv___9puiRtvC1rtmEAfcwAgcYAgMf6_fWHxljQ6L243J6h0X6e0GZ3wSXJ5qHA4pR_xTZvulxPpMwgibo2j8Qwha9ibnpBndckfbhuamhqa27qOpHKAAAAuElEQVR4AdXMgxYDMRRF0dQYG7e23f__tc5NrcVyD5OzXoSUSmcuZXP5An0lFqlUVpRDUPh3jCppumFaNjm64Xq2H4Qk5DFRDKPikAXoVa9WbzST6y7GjH69Qf8W6XmkFlr76OEuZg2g7XEwAsybqHQ4ULWqjgF0rZtJD0Cr0-3EQGw5N7Haw0GseOfYlwaDwdBsxS13NBgnJvUmiak0o_l8PttbLCWxShRWzWvrzZZEgVbNxpX3xh2sMEC9XpLhugAAAABJRU5ErkJggg.png",
+      "snippet": "This calculator helps you estimate your date of delivery (\"due date\") Most pregnancies last about 40 weeks from the first day of the last menstrual period.",
+      "snippet_highlighted_words": [
+        "about 40 weeks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator helps you estimate your date of delivery (\"due date\") Most pregnancies last about 40 weeks from the first day of the last menstrual period.",
+          "source_info_link": "https://www.uptodate.com/contents/calculator-estimated-date-of-delivery-edd-patient-education",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEXvPkLmVkiU1HCazW6bzmyNxYQ7m9tCntbzMD_pTESN0WaTymKruWeuvnDu9-Xx-Ovl8tp0vzd_w0l6wUPg79J7wkBstmIGg88Xh8mg0Hf8_vv___9puiRtvC1rtmEAfcwAgcYAgMf6_fWHxljQ6L243J6h0X6e0GZ3wSXJ5qHA4pR_xTZvulxPpMwgibo2j8Qwha9ibnpBndckfbhuamhqa27qOpHKAAAAuElEQVR4AdXMgxYDMRRF0dQYG7e23f__tc5NrcVyD5OzXoSUSmcuZXP5An0lFqlUVpRDUPh3jCppumFaNjm64Xq2H4Qk5DFRDKPikAXoVa9WbzST6y7GjH69Qf8W6XmkFlr76OEuZg2g7XEwAsybqHQ4ULWqjgF0rZtJD0Cr0-3EQGw5N7Haw0GseOfYlwaDwdBsxS13NBgnJvUmiak0o_l8PttbLCWxShRWzWvrzZZEgVbNxpX3xh2sMEC9XpLhugAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.uptodate.com/contents/calculator-estimated-date-of-delivery-edd-patient-education&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.uptodate.com%2Fcontents%2Fcalculator-estimated-date-of-delivery-edd-patient-education",
+      "source": "UpToDate"
+    },
+    {
+      "position": 4,
+      "title": "Pregnancy Due Date and Gestational Age Calculator",
+      "link": "https://www.perinatology.com/calculators/Due-Date.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.perinatology.com/calculators/Due-Date.htm&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQFnoECCEQAQ",
+      "displayed_link": "https://www.perinatology.com › calculators › Due-Date",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3NzcrNzc3NzcrNzc3Nzc3Nzc3Nzc3NzcrKzc3Nzc3Nzc3Nys3Nzc3N__AABEIABAAEAMBIgACEQEDEQH_xAAWAAADAAAAAAAAAAAAAAAAAAABAwb_xAAmEAACAQIEBQUAAAAAAAAAAAABAgMEEgARISIFMaGx8BNBUWGB_8QAFAEBAAAAAAAAAAAAAAAAAAAABf_EABgRAAIDAAAAAAAAAAAAAAAAAAABEUFR_9oADAMBAAIRAxEAPwCxW6Jb0UtAdSoBDKfr5_MK9aNrnRVWRhnA423a6gn3Hbng0lVVU0TQcRVmaMbJAM7wOQOXhwJ-FTVtPTurSb2D3KoIAOufXA0YLpqz_9k.jpeg",
+      "date": "Jun 13, 2026",
+      "snippet": "EDD = conception + 266 days. EDD is typically calculated as the first day of the LMP plus 280 days (40 weeks). EDD is calculated by adding 280 ...",
+      "snippet_highlighted_words": [
+        "weeks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "EDD = conception + 266 days. EDD is typically calculated as the first day of the LMP plus 280 days (40 weeks). EDD is calculated by adding 280 ...",
+          "source_info_link": "https://www.perinatology.com/calculators/Due-Date.htm",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3NzcrNzc3NzcrNzc3Nzc3Nzc3Nzc3NzcrKzc3Nzc3Nzc3Nys3Nzc3N__AABEIABAAEAMBIgACEQEDEQH_xAAWAAADAAAAAAAAAAAAAAAAAAABAwb_xAAmEAACAQIEBQUAAAAAAAAAAAABAgMEEgARISIFMaGx8BNBUWGB_8QAFAEBAAAAAAAAAAAAAAAAAAAABf_EABgRAAIDAAAAAAAAAAAAAAAAAAABEUFR_9oADAMBAAIRAxEAPwCxW6Jb0UtAdSoBDKfr5_MK9aNrnRVWRhnA423a6gn3Hbng0lVVU0TQcRVmaMbJAM7wOQOXhwJ-FTVtPTurSb2D3KoIAOufXA0YLpqz_9k.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.perinatology.com/calculators/Due-Date.htm&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.perinatology.com%2Fcalculators%2FDue-Date.htm",
+      "source": "Perinatology.com"
+    },
+    {
+      "position": 5,
+      "title": "Due Date Calculator",
+      "link": "https://www.womans.org/services/pregnancy-childbirth/resources/due-date-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.womans.org/services/pregnancy-childbirth/resources/due-date-calculator&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQFnoECB8QAQ",
+      "displayed_link": "https://www.womans.org › services › resources › due-dat...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAilBMVEX-_____v_____4tNn0mdL6rtz_8vv___v-__3zdsLpDI_0b773g8zzZbf7zuX3jc389fz___372_LvI57sAYz85vPycrz2mNT5udz_9vn1Wrb7zerwT6_95vD5pdb5otfrAIn2hcf_0-rxQKj_5PP3pdX7yeb3lMv5sN32fsb7wuP1i831V7TyNKKC3xY2AAAAzUlEQVR4AQ1PA5YEQQxNMo3CtgttG_e_3tZj8AmAgIQ_z_MDopAhsBADLuRfFCdJmhEBy_JCKW2sLKu6yRxCu73FjveDlxQ5AEajAwAF0-x7aiFYhVJj4mQ3XWuudhhGh-AhIy_Jj1NdwJUSo4juDK_z3kQNUilVTLzeGzvLbGnhUeqdjaSL-N0cNoJbSabliiajKb-OHtiCTbQiXMiCZ4oqoLvus6YrfWLz8G0IGPYJwjsQg8k4GCDSGTWbTzQvJbkugETVNi0msgG5tv_D5RGnMeyEpgAAAABJRU5ErkJggg.png",
+      "snippet": "This interactive Due Date Calculator will help you estimate the date your baby will arrive. Pregnancy usually lasts 40 weeks (280 days) from the first day of ...",
+      "snippet_highlighted_words": [
+        "Due Date Calculator",
+        "Pregnancy",
+        "weeks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This interactive Due Date Calculator will help you estimate the date your baby will arrive. Pregnancy usually lasts 40 weeks (280 days) from the first day of ...",
+          "source_info_link": "https://www.womans.org/services/pregnancy-childbirth/resources/due-date-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAilBMVEX-_____v_____4tNn0mdL6rtz_8vv___v-__3zdsLpDI_0b773g8zzZbf7zuX3jc389fz___372_LvI57sAYz85vPycrz2mNT5udz_9vn1Wrb7zerwT6_95vD5pdb5otfrAIn2hcf_0-rxQKj_5PP3pdX7yeb3lMv5sN32fsb7wuP1i831V7TyNKKC3xY2AAAAzUlEQVR4AQ1PA5YEQQxNMo3CtgttG_e_3tZj8AmAgIQ_z_MDopAhsBADLuRfFCdJmhEBy_JCKW2sLKu6yRxCu73FjveDlxQ5AEajAwAF0-x7aiFYhVJj4mQ3XWuudhhGh-AhIy_Jj1NdwJUSo4juDK_z3kQNUilVTLzeGzvLbGnhUeqdjaSL-N0cNoJbSabliiajKb-OHtiCTbQiXMiCZ4oqoLvus6YrfWLz8G0IGPYJwjsQg8k4GCDSGTWbTzQvJbkugETVNi0msgG5tv_D5RGnMeyEpgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.womans.org/services/pregnancy-childbirth/resources/due-date-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.womans.org%2Fservices%2Fpregnancy-childbirth%2Fresources%2Fdue-date-calculator",
+      "source": "Woman's Hospital",
+      "read_more_link": "https://www.womans.org/services/pregnancy-childbirth/resources/due-date-calculator#:~:text=This%20interactive%20Due%20Date%20Calculator,of%20your%20last%20menstrual%20period."
+    },
+    {
+      "position": 6,
+      "title": "Pregnancy due date calculator",
+      "link": "https://www.nhs.uk/pregnancy/finding-out/due-date-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nhs.uk/pregnancy/finding-out/due-date-calculator/&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQFnoECB0QAQ",
+      "displayed_link": "https://www.nhs.uk › ... › Finding out you're pregnant",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwcabwTZrsAXLgCYLoDX7kAWbZFe8OwxOOpv-CdttwAULQkar1wls7L2OzBz-iLqdb___9RgsbX4fHv8_oAQa9jjsvdPdxgAAAABXRSTlMAv7-_v3H7_ToAAADOSURBVHgB5VCHcQQhEAPfo9sji_D9l2rhUMWLsDmM3KfA-6_rennvr-tXeemTdnQXcNsTUwhmOVoBisWUY62tQ8FIMmCQiexIk1W6UJMLqUrpqXPeZEaSMTnV8IaCi0rejdbJhEyOxZUTENyxVLIXS-MvfgbNfIKFa5ODDGrRmqpSek9KKPj89JSVyJL2ZEvA7me-S5MxFZJz_O9TRsiVVKWsN0AyRtnQeN2DopnZLAD9sbtbB4YZutUWs3hxos2LM5F3eDvEHUOmvO5D8A3RmQ8H2O7IfgAAAABJRU5ErkJggg.png",
+      "snippet": "Use the pregnancy due date calculator to work out roughly when your baby is due to be born, working from the first day of your last period.",
+      "snippet_highlighted_words": [
+        "Use the pregnancy due date calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use the pregnancy due date calculator to work out roughly when your baby is due to be born, working from the first day of your last period.",
+          "source_info_link": "https://www.nhs.uk/pregnancy/finding-out/due-date-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwcabwTZrsAXLgCYLoDX7kAWbZFe8OwxOOpv-CdttwAULQkar1wls7L2OzBz-iLqdb___9RgsbX4fHv8_oAQa9jjsvdPdxgAAAABXRSTlMAv7-_v3H7_ToAAADOSURBVHgB5VCHcQQhEAPfo9sji_D9l2rhUMWLsDmM3KfA-6_rennvr-tXeemTdnQXcNsTUwhmOVoBisWUY62tQ8FIMmCQiexIk1W6UJMLqUrpqXPeZEaSMTnV8IaCi0rejdbJhEyOxZUTENyxVLIXS-MvfgbNfIKFa5ODDGrRmqpSek9KKPj89JSVyJL2ZEvA7me-S5MxFZJz_O9TRsiVVKWsN0AyRtnQeN2DopnZLAD9sbtbB4YZutUWs3hxos2LM5F3eDvEHUOmvO5D8A3RmQ8H2O7IfgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.nhs.uk/pregnancy/finding-out/due-date-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nhs.uk%2Fpregnancy%2Ffinding-out%2Fdue-date-calculator%2F",
+      "source": "nhs.uk"
+    },
+    {
+      "position": 7,
+      "title": "How Far Along Am I? | Pregnancy Calculator - First Response",
+      "link": "https://www.firstresponse.com/en/online-tools/how-far-along-am-i",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.firstresponse.com/en/online-tools/how-far-along-am-i&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQFnoECCQQAQ",
+      "displayed_link": "https://www.firstresponse.com › online-tools › how-far-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEX____--fv98vf74uz1qMT1mL3y6e7v7-_y8vL19fXs7Oz5-fn0n8TpK4HuHXXvlbSXl5ewsLCAgICSkpKgoKDFxcXKysphYWH3y9ryN4Dtobm3t7dJSUlTU1NsbGx1dXV9fX0kJCT63OZcY15MTEzX19c-Pj6oqKjrAGyZpJ7i4uLT09P3rcO4w773wthsdnEVFRVmZmYAAADzRIgcIyGLlpL1ts7kAGH1rcpsPmwUAAAA3UlEQVR4AeWMxYHDMAAEFTNbrNiCoOQwU_-NBV7HDVzmuzsD_he9PxfPD8IoTtI4y_MkyeIvY1FWNUQIYkIp4wLmn8d-3bRCMqXNQA3TEQVfGFft5DlOR9A6NO2-jv1ZO88SQiWUckGW38fVmlhOLWeSorRDFgMr2fPLAdg0q63QyrAdw_v9AXZut2eHjjqbPsfjCp86vM-l004qInfS7ZHTevHKNu0ZCjHgjGoBlkOIF0uxJHsjn-PlWi8AREtrs8XzbG0ag4VdZEsLwO14bUIvz8Fv-OPx2O-Bt-YBt-QXBrtKQxIAAAAASUVORK5CYII.png",
+      "snippet": "Find out how many weeks pregnant you are and how to calculate pregnancy weeks with the First Response Pregnancy Calculator.",
+      "snippet_highlighted_words": [
+        "how to calculate pregnancy weeks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Find out how many weeks pregnant you are and how to calculate pregnancy weeks with the First Response Pregnancy Calculator.",
+          "source_info_link": "https://www.firstresponse.com/en/online-tools/how-far-along-am-i",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEX____--fv98vf74uz1qMT1mL3y6e7v7-_y8vL19fXs7Oz5-fn0n8TpK4HuHXXvlbSXl5ewsLCAgICSkpKgoKDFxcXKysphYWH3y9ryN4Dtobm3t7dJSUlTU1NsbGx1dXV9fX0kJCT63OZcY15MTEzX19c-Pj6oqKjrAGyZpJ7i4uLT09P3rcO4w773wthsdnEVFRVmZmYAAADzRIgcIyGLlpL1ts7kAGH1rcpsPmwUAAAA3UlEQVR4AeWMxYHDMAAEFTNbrNiCoOQwU_-NBV7HDVzmuzsD_he9PxfPD8IoTtI4y_MkyeIvY1FWNUQIYkIp4wLmn8d-3bRCMqXNQA3TEQVfGFft5DlOR9A6NO2-jv1ZO88SQiWUckGW38fVmlhOLWeSorRDFgMr2fPLAdg0q63QyrAdw_v9AXZut2eHjjqbPsfjCp86vM-l004qInfS7ZHTevHKNu0ZCjHgjGoBlkOIF0uxJHsjn-PlWi8AREtrs8XzbG0ag4VdZEsLwO14bUIvz8Fv-OPx2O-Bt-YBt-QXBrtKQxIAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.firstresponse.com/en/online-tools/how-far-along-am-i&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.firstresponse.com%2Fen%2Fonline-tools%2Fhow-far-along-am-i",
+      "source": "firstresponse.com"
+    },
+    {
+      "position": 8,
+      "title": "Due date calculator",
+      "link": "https://www.pregnancyinfo.ca/your-pregnancy/healthy-pregnancy/due-date-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pregnancyinfo.ca/your-pregnancy/healthy-pregnancy/due-date-calculator/&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQFnoECB4QAQ",
+      "displayed_link": "https://www.pregnancyinfo.ca › healthy-pregnancy › d...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEV0aKhzZ6h4bKqVjLyQh7l9cq5vYqVtYKVyZaeJf7T____x8PbPzOBtYKSHfbTBvNdwY6bNyN_9_P7w7_aposjb2ehoWqKjm8SNhLfh3-u3sdChmcPo5_C8t9Sxq82DeLBexrqPAAAArElEQVR4AdXTwQ6CMAyA4RVg6xyDOVSYoLz_W7rGGJsyDx75TytfQkjJFAVV_alptUHFQ3v65jrrgWPPMDcEibyzBoFxdM7Ft160wOvNa19Njs6jAoGGHpgm0jCjREWZRMMUytjRcNf_o080LGGHAGDqSEOPEhGhXRydVwSxhDVHxN9aWN9Dq18YnwHKGNdhK_yyZOfcBh4Zsa_NAXCRS1DHRkuYdsiuwwxK9AL2hBHKTEapzAAAAABJRU5ErkJggg.png",
+      "snippet": "Use this calculator to find your due date. This is just an estimate – not a guarantee! Most women, but not all, will deliver their babies within a week on ...",
+      "snippet_highlighted_words": [
+        "Use this calculator to find your due date"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use this calculator to find your due date. This is just an estimate – not a guarantee! Most women, but not all, will deliver their babies within a week on ...",
+          "source_info_link": "https://www.pregnancyinfo.ca/your-pregnancy/healthy-pregnancy/due-date-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEV0aKhzZ6h4bKqVjLyQh7l9cq5vYqVtYKVyZaeJf7T____x8PbPzOBtYKSHfbTBvNdwY6bNyN_9_P7w7_aposjb2ehoWqKjm8SNhLfh3-u3sdChmcPo5_C8t9Sxq82DeLBexrqPAAAArElEQVR4AdXTwQ6CMAyA4RVg6xyDOVSYoLz_W7rGGJsyDx75TytfQkjJFAVV_alptUHFQ3v65jrrgWPPMDcEibyzBoFxdM7Ft160wOvNa19Njs6jAoGGHpgm0jCjREWZRMMUytjRcNf_o080LGGHAGDqSEOPEhGhXRydVwSxhDVHxN9aWN9Dq18YnwHKGNdhK_yyZOfcBh4Zsa_NAXCRS1DHRkuYdsiuwwxK9AL2hBHKTEapzAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pregnancyinfo.ca/your-pregnancy/healthy-pregnancy/due-date-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pregnancyinfo.ca%2Fyour-pregnancy%2Fhealthy-pregnancy%2Fdue-date-calculator%2F",
+      "source": "Pregnancy Info",
+      "read_more_link": "https://www.pregnancyinfo.ca/your-pregnancy/healthy-pregnancy/due-date-calculator/#:~:text=Use%20this%20calculator%20to%20find,either%20side%20of%20this%20date."
+    },
+    {
+      "position": 9,
+      "title": "Pregnancy Week-by-Week Calculator",
+      "link": "https://www.healthystartflorida.com/pregnancy-week-by-week-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthystartflorida.com/pregnancy-week-by-week-calculator/&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQFnoECEUQAQ",
+      "displayed_link": "https://www.healthystartflorida.com › pregnancy-week-b...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAXVBMVEVHcEzkj7PjjrDnjbXjjrPpjLjfkqzNmqnkj7XXlbLhjrDikLLjj7TvirqZsmuNuFiPtFyXs16NtV7heKjpg7aNuVaLu1SujnTSU5C5cnuio2jXYZmMuleOt2KOuFepT34fAAAAH3RSTlMAUt7_cP-WDf8tP_W6_xiqMP9N______n_____7GHU35GTEwAAAXBJREFUeAF10geOhDAMBVCDYzC9hqEs3P-Y-xPC9Pmq8OQmhd4TxRwb-hnDLMzJL07ZR7MPyeOiTClSp6rmo7DA35Kis5zfHYVIEfrrZ_9clTUmMmCpEvpICYjcAV_uS1M3wYSmKSF1Uj41L0z9Oi0p9NmxWoLqkKhU1ldHuMx9dxOrypvjmxGD2oLPSPCm9S6MqDF8McPrpqaua_pc1LMM492lbBtra5qmyd4G8SXVPEjQalg6UE12snadt1Hcv3mrvMq4zUtnrXMLXwAo3-a58p3Az97dZnRWmZ0Lq4Dn0B88db6BjsFlmF99chOGywVzkJu9HCuiw8NHx9sKtmc9YrukfPGba2-J_nCf953ybfM-gJcVXac_ogZu4XanrJIBzAMY3eENUe84OCPCOoRqO7VEdECDqw_Ha3fWNITUFhicGQ8l7Z0hR0ou9QEO9f5p7md1YGQ_TvcvyDtW3-kpbQNHLj96ekvd0pW-qenKP9DSJGL5WRYmAAAAAElFTkSuQmCC.png",
+      "snippet": "Tools. Pregnancy Week-by-Week Calculator. Enter the date of your last menstrual period (LMP):. MM slash DD slash YYYY. Navigation.",
+      "snippet_highlighted_words": [
+        "Pregnancy Week",
+        "Week Calculator",
+        "date"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tools. Pregnancy Week-by-Week Calculator. Enter the date of your last menstrual period (LMP):. MM slash DD slash YYYY. Navigation.",
+          "source_info_link": "https://www.healthystartflorida.com/pregnancy-week-by-week-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAXVBMVEVHcEzkj7PjjrDnjbXjjrPpjLjfkqzNmqnkj7XXlbLhjrDikLLjj7TvirqZsmuNuFiPtFyXs16NtV7heKjpg7aNuVaLu1SujnTSU5C5cnuio2jXYZmMuleOt2KOuFepT34fAAAAH3RSTlMAUt7_cP-WDf8tP_W6_xiqMP9N______n_____7GHU35GTEwAAAXBJREFUeAF10geOhDAMBVCDYzC9hqEs3P-Y-xPC9Pmq8OQmhd4TxRwb-hnDLMzJL07ZR7MPyeOiTClSp6rmo7DA35Kis5zfHYVIEfrrZ_9clTUmMmCpEvpICYjcAV_uS1M3wYSmKSF1Uj41L0z9Oi0p9NmxWoLqkKhU1ldHuMx9dxOrypvjmxGD2oLPSPCm9S6MqDF8McPrpqaua_pc1LMM492lbBtra5qmyd4G8SXVPEjQalg6UE12snadt1Hcv3mrvMq4zUtnrXMLXwAo3-a58p3Az97dZnRWmZ0Lq4Dn0B88db6BjsFlmF99chOGywVzkJu9HCuiw8NHx9sKtmc9YrukfPGba2-J_nCf953ybfM-gJcVXac_ogZu4XanrJIBzAMY3eENUe84OCPCOoRqO7VEdECDqw_Ha3fWNITUFhicGQ8l7Z0hR0ou9QEO9f5p7md1YGQ_TvcvyDtW3-kpbQNHLj96ekvd0pW-qenKP9DSJGL5WRYmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.healthystartflorida.com/pregnancy-week-by-week-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.healthystartflorida.com%2Fpregnancy-week-by-week-calculator%2F",
+      "source": "Florida Association of Healthy Start Coalitions",
+      "read_more_link": "https://www.healthystartflorida.com/pregnancy-week-by-week-calculator/#:~:text=Tools,Navigation"
+    },
+    {
+      "position": 10,
+      "title": "Pregnancy Due Date Calculator | How Far Along Am I?",
+      "link": "https://www.pampers.com/en-us/pregnancy/due-date-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pampers.com/en-us/pregnancy/due-date-calculator&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQFnoECEIQAQ",
+      "displayed_link": "https://www.pampers.com › Home › Pregnancy",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAflBMVEUAsqkAsaoAsasAr68Zs6U9t50AsK5rvYzq2Cz_4AD_3wDEz1UArrGyy2P_3gD_3QD63BDg1Tl0v4eXxnVFuJpeu5H12hzM0U5YupR6wIWBwYEArrLx2iLa1D8ttaGpyWnm1zG_zlnR0km2zGCJw30AqruSxXitymefx3Buvot05j4eAAABZElEQVR4AbVTB3LEIBDjwF5be87qeu_9_v_BGIf03jSVkRBCsO6_0PqQ9SHLRd7nQ1EC2nb-Hb66gZG0TvbO_huwgXWrN8_vgVRVkij8U8LfrYSk9QfDEWljeaTDZFq44J30lZ1MvExA8uEMmRKq6M7CfEFMote8QyJLvC_ACNPRTG0cmqxLo-apr1AaSYWaKbU2SAKsksAh8rOQr82oQ2kEGyMS38pB2rZyLZGtEb2oqIy0h5BRsJaYZqhmGHrnMtCWwT1msF2zWqG_B6XOrWlPhD8oU6LKlsc1Tl7Olu7bICyMtpzHRna4TNCWqiQ7KUITM1qcpDabqaleZAXaWdwDJFaFoUQz1W6Q9WMLSdE84kBcK2tfggsdpkYfFUNNJYk4qVMj9fyoWC2UOM2ba5G6Da-_6h6GXRb8fGfsePcaYVKq6X6609TBK_hqNoKqETN5dyR6OwWv8tHUSC7-N3P3bdwClfwWrrogw1EAAAAASUVORK5CYII.png",
+      "snippet": "Want to know how far along you are? Use Pampers' due date calculator to estimate how many weeks pregnant you are and discover your estimated due date.",
+      "snippet_highlighted_words": [
+        "Use Pampers' due date calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Want to know how far along you are? Use Pampers' due date calculator to estimate how many weeks pregnant you are and discover your estimated due date.",
+          "source_info_link": "https://www.pampers.com/en-us/pregnancy/due-date-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAflBMVEUAsqkAsaoAsasAr68Zs6U9t50AsK5rvYzq2Cz_4AD_3wDEz1UArrGyy2P_3gD_3QD63BDg1Tl0v4eXxnVFuJpeu5H12hzM0U5YupR6wIWBwYEArrLx2iLa1D8ttaGpyWnm1zG_zlnR0km2zGCJw30AqruSxXitymefx3Buvot05j4eAAABZElEQVR4AbVTB3LEIBDjwF5be87qeu_9_v_BGIf03jSVkRBCsO6_0PqQ9SHLRd7nQ1EC2nb-Hb66gZG0TvbO_huwgXWrN8_vgVRVkij8U8LfrYSk9QfDEWljeaTDZFq44J30lZ1MvExA8uEMmRKq6M7CfEFMote8QyJLvC_ACNPRTG0cmqxLo-apr1AaSYWaKbU2SAKsksAh8rOQr82oQ2kEGyMS38pB2rZyLZGtEb2oqIy0h5BRsJaYZqhmGHrnMtCWwT1msF2zWqG_B6XOrWlPhD8oU6LKlsc1Tl7Olu7bICyMtpzHRna4TNCWqiQ7KUITM1qcpDabqaleZAXaWdwDJFaFoUQz1W6Q9WMLSdE84kBcK2tfggsdpkYfFUNNJYk4qVMj9fyoWC2UOM2ba5G6Da-_6h6GXRb8fGfsePcaYVKq6X6609TBK_hqNoKqETN5dyR6OwWv8tHUSC7-N3P3bdwClfwWrrogw1EAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pampers.com/en-us/pregnancy/due-date-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pampers.com%2Fen-us%2Fpregnancy%2Fdue-date-calculator",
+      "source": "Pampers"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Pregnancy week calculator by LMP",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Pregnancy+week+calculator+by+LMP&sa=X&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pregnancy+week+calculator+by+LMP"
+    },
+    {
+      "block_position": 1,
+      "query": "How many weeks pregnant Calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+many+weeks+pregnant+Calculator&sa=X&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+weeks+pregnant+Calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Pregnancy month calculator by week",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Pregnancy+month+calculator+by+week&sa=X&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pregnancy+month+calculator+by+week"
+    },
+    {
+      "block_position": 1,
+      "query": "Pregnancy Calculator week by week pictures",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Pregnancy+Calculator+week+by+week+pictures&sa=X&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pregnancy+Calculator+week+by+week+pictures"
+    },
+    {
+      "block_position": 1,
+      "query": "Pregnancy due date calculator weeks based on ovulation",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Pregnancy+due+date+calculator+weeks+based+on+ovulation&sa=X&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pregnancy+due+date+calculator+weeks+based+on+ovulation"
+    },
+    {
+      "block_position": 1,
+      "query": "Accurate due date Calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Accurate+due+date+Calculator&sa=X&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Accurate+due+date+Calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "How many weeks am I pregnant from my last period",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=How+many+weeks+am+I+pregnant+from+my+last+period&sa=X&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+weeks+am+I+pregnant+from+my+last+period"
+    },
+    {
+      "block_position": 1,
+      "query": "Last period date to delivery date calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Last+period+date+to+delivery+date+calculator&sa=X&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Last+period+date+to+delivery+date+calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pregnancy+due+date+calculator+weeks&sca_esv=bbb7d61e8d3bb37e&ei=mRg6atqcEp6oruEPmpmdsQc&start=10&sa=N&sstk=AU9db-Bfw_hkY6H-XVHQcSjXFERRnyY6p_8jD3D2xvJZ53FUYEgtBo3MN7Xy0FLrBi5y8XrwI5PBQiEp0D0QOkVKlaKESuN3ty_oJw&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ8NMDegQIOBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pregnancy+due+date+calculator+weeks&sca_esv=bbb7d61e8d3bb37e&ei=mRg6atqcEp6oruEPmpmdsQc&start=10&sa=N&sstk=AU9db-Bfw_hkY6H-XVHQcSjXFERRnyY6p_8jD3D2xvJZ53FUYEgtBo3MN7Xy0FLrBi5y8XrwI5PBQiEp0D0QOkVKlaKESuN3ty_oJw&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ8tMDegQIOBAE",
+      "3": "https://www.google.com/search?q=pregnancy+due+date+calculator+weeks&sca_esv=bbb7d61e8d3bb37e&ei=mRg6atqcEp6oruEPmpmdsQc&start=20&sa=N&sstk=AU9db-Bfw_hkY6H-XVHQcSjXFERRnyY6p_8jD3D2xvJZ53FUYEgtBo3MN7Xy0FLrBi5y8XrwI5PBQiEp0D0QOkVKlaKESuN3ty_oJw&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ8tMDegQIOBAG",
+      "4": "https://www.google.com/search?q=pregnancy+due+date+calculator+weeks&sca_esv=bbb7d61e8d3bb37e&ei=mRg6atqcEp6oruEPmpmdsQc&start=30&sa=N&sstk=AU9db-Bfw_hkY6H-XVHQcSjXFERRnyY6p_8jD3D2xvJZ53FUYEgtBo3MN7Xy0FLrBi5y8XrwI5PBQiEp0D0QOkVKlaKESuN3ty_oJw&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ8tMDegQIOBAI",
+      "5": "https://www.google.com/search?q=pregnancy+due+date+calculator+weeks&sca_esv=bbb7d61e8d3bb37e&ei=mRg6atqcEp6oruEPmpmdsQc&start=40&sa=N&sstk=AU9db-Bfw_hkY6H-XVHQcSjXFERRnyY6p_8jD3D2xvJZ53FUYEgtBo3MN7Xy0FLrBi5y8XrwI5PBQiEp0D0QOkVKlaKESuN3ty_oJw&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ8tMDegQIOBAK",
+      "6": "https://www.google.com/search?q=pregnancy+due+date+calculator+weeks&sca_esv=bbb7d61e8d3bb37e&ei=mRg6atqcEp6oruEPmpmdsQc&start=50&sa=N&sstk=AU9db-Bfw_hkY6H-XVHQcSjXFERRnyY6p_8jD3D2xvJZ53FUYEgtBo3MN7Xy0FLrBi5y8XrwI5PBQiEp0D0QOkVKlaKESuN3ty_oJw&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ8tMDegQIOBAM",
+      "7": "https://www.google.com/search?q=pregnancy+due+date+calculator+weeks&sca_esv=bbb7d61e8d3bb37e&ei=mRg6atqcEp6oruEPmpmdsQc&start=60&sa=N&sstk=AU9db-Bfw_hkY6H-XVHQcSjXFERRnyY6p_8jD3D2xvJZ53FUYEgtBo3MN7Xy0FLrBi5y8XrwI5PBQiEp0D0QOkVKlaKESuN3ty_oJw&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ8tMDegQIOBAO",
+      "8": "https://www.google.com/search?q=pregnancy+due+date+calculator+weeks&sca_esv=bbb7d61e8d3bb37e&ei=mRg6atqcEp6oruEPmpmdsQc&start=70&sa=N&sstk=AU9db-Bfw_hkY6H-XVHQcSjXFERRnyY6p_8jD3D2xvJZ53FUYEgtBo3MN7Xy0FLrBi5y8XrwI5PBQiEp0D0QOkVKlaKESuN3ty_oJw&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ8tMDegQIOBAQ",
+      "9": "https://www.google.com/search?q=pregnancy+due+date+calculator+weeks&sca_esv=bbb7d61e8d3bb37e&ei=mRg6atqcEp6oruEPmpmdsQc&start=80&sa=N&sstk=AU9db-Bfw_hkY6H-XVHQcSjXFERRnyY6p_8jD3D2xvJZ53FUYEgtBo3MN7Xy0FLrBi5y8XrwI5PBQiEp0D0QOkVKlaKESuN3ty_oJw&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ8tMDegQIOBAS",
+      "10": "https://www.google.com/search?q=pregnancy+due+date+calculator+weeks&sca_esv=bbb7d61e8d3bb37e&ei=mRg6atqcEp6oruEPmpmdsQc&start=90&sa=N&sstk=AU9db-Bfw_hkY6H-XVHQcSjXFERRnyY6p_8jD3D2xvJZ53FUYEgtBo3MN7Xy0FLrBi5y8XrwI5PBQiEp0D0QOkVKlaKESuN3ty_oJw&ved=2ahUKEwiazeTOz5yVAxUelCsGHZpMJ3YQ8tMDegQIOBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pregnancy+due+date+calculator+weeks&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pregnancy+due+date+calculator+weeks&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pregnancy+due+date+calculator+weeks&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pregnancy+due+date+calculator+weeks&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pregnancy+due+date+calculator+weeks&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pregnancy+due+date+calculator+weeks&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pregnancy+due+date+calculator+weeks&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pregnancy+due+date+calculator+weeks&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pregnancy+due+date+calculator+weeks&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pregnancy+due+date+calculator+weeks&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pregnancy+due+date+calculator+weeks&start=90"
+    }
+  }
+}

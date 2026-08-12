@@ -1,0 +1,383 @@
+{
+  "search_metadata": {
+    "id": "6a3a212105bb59ee2b931a13",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ehBOntoWonKm3VSzRvvQxQ/6a3a212105bb59ee2b931a13.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/ehBOntoWonKm3VSzRvvQxQ/6a3a212105bb59ee2b931a13.json_with_pixel_position",
+    "created_at": "2026-06-23 06:01:05 UTC",
+    "processed_at": "2026-06-23 06:01:05 UTC",
+    "google_url": "https://www.google.com/search?q=deployment+savings+calculator+military&oq=deployment+savings+calculator+military&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ehBOntoWonKm3VSzRvvQxQ/6a3a212105bb59ee2b931a13.html",
+    "total_time_taken": 2.33
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "deployment savings calculator military",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "deployment savings calculator military",
+    "total_results": 110,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "m3Hc63icxVbdcqo6FL4_73G8aRXw384wexLEiqiIWq29YRAwyo9YglAuz7ucpzrX50F2QFC02M7eM2dOOk1MTNa31sr68vnX3_Zub_3zx79b3z_gJ4oKw7CCXBfZRkVzHUrF0V6jNq6NPW37IwrYWknDLF0ydqwQ8U31EECu5fDh2pq0DrUWAvVScoRV1io2TGLxw8SUQpHO-rPWJZMKrhj7ig3kLvIciZ8JlSrNdCoSpTpkA_gPGw8EFI8C-eOT-W2D5Hv5Oysc4EiPckso16etG8MAwHHJANx71mDiBQcgH-NCZdRpk-G0vYvunQJgdj1dJp6BMDZIQuALgygyl61lDsI7eMWuJDAv6aSe--JzauNGspFPr0jM1oEGwDRdkLJ9eTiEeNDN1vuhNIISP_3qkkjwzyPQtiac8MWu2HvBC3vp53C8IqCUjkgN0tTaIwND7bStlnzwcFya3LxDu_2hWKvJrsm1mh2zMds0PnqHjtM3dCQhSluTfbar6oaubBX6RzJnqkyD7tRa7ceEExo-kwLnSYFGq2F4DBmhzFeGFcjkGJFEK1zdAckkqZniuMSkv7pJLjubFGViKp8dMR0hqMarF7twHsXooyxL8RW9gE95jbEKGJHDvICnlcv1LoFdWxJS-Hx0MLxBvACkpbAConwOmSfTMyi8MQaBJcdvwHO2cLEdW0V28kDEjOBTg9LVeZR3LH5JZATPyHLeu0buEAIwvjNgRqQbAJfLXqH4iJAmQYy9y9f28y2TMHEFozsX_127-wrl_Mxq_6aU8xTgRV_U0dE6cLVhOHlbHqwqmr1Pl_r4DRWXvOusf0EItP-XFJlMiOkF9QpJIX9DCp6DX8rEaXv3TIpk_n6PFFAokonTi3uRic-kmF2T4iwTwq1M5EiB0qjyVm9JAe-QAqWxFZDipYAUViEpUpnIkWJbl69k4gR2lomMFL8lE8HvyERCEeM0XGvG0UR3tYMP6tJiUG33RUelRx_BsDdZL8f6vidNwm-1Y-P4T46q24_KTn-C1YEf6Y8KWXCfDL30zurGwXYjx9j7D1gNdnuEHzTV1o626rveg7Ozd77qRSXH9lyWVutt03QGGrTAdjGz6EXboyVvZb_Zx8Cjvcbza9vHI3s08_ow4rFgeK_KfE3LeDAyFtPXfW_-ethZ62jrGWvdH2_KodtXyoYx3pu7shi46k7SA3ownja7Qa9VFluLLUniZhk6bcNTtKUKX5pMa7bsTGrLZ2R1w8QvzB7mQ5GZmdA26yUSGjZYpuR4GksKoo7AWAZLRH4vcCsgE-7KnEv-Q1IqJaypioEDVmsw9FqtG81Gtbmpdchh5EcHts6U8N5jmZ-TchuO",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=m3Hc63icxVbdcqo6FL4_73G8aRXw384wexLEiqiIWq29YRAwyo9YglAuz7ucpzrX50F2QFC02M7eM2dOOk1MTNa31sr68vnX3_Zub_3zx79b3z_gJ4oKw7CCXBfZRkVzHUrF0V6jNq6NPW37IwrYWknDLF0ydqwQ8U31EECu5fDh2pq0DrUWAvVScoRV1io2TGLxw8SUQpHO-rPWJZMKrhj7ig3kLvIciZ8JlSrNdCoSpTpkA_gPGw8EFI8C-eOT-W2D5Hv5Oysc4EiPckso16etG8MAwHHJANx71mDiBQcgH-NCZdRpk-G0vYvunQJgdj1dJp6BMDZIQuALgygyl61lDsI7eMWuJDAv6aSe--JzauNGspFPr0jM1oEGwDRdkLJ9eTiEeNDN1vuhNIISP_3qkkjwzyPQtiac8MWu2HvBC3vp53C8IqCUjkgN0tTaIwND7bStlnzwcFya3LxDu_2hWKvJrsm1mh2zMds0PnqHjtM3dCQhSluTfbar6oaubBX6RzJnqkyD7tRa7ceEExo-kwLnSYFGq2F4DBmhzFeGFcjkGJFEK1zdAckkqZniuMSkv7pJLjubFGViKp8dMR0hqMarF7twHsXooyxL8RW9gE95jbEKGJHDvICnlcv1LoFdWxJS-Hx0MLxBvACkpbAConwOmSfTMyi8MQaBJcdvwHO2cLEdW0V28kDEjOBTg9LVeZR3LH5JZATPyHLeu0buEAIwvjNgRqQbAJfLXqH4iJAmQYy9y9f28y2TMHEFozsX_127-wrl_Mxq_6aU8xTgRV_U0dE6cLVhOHlbHqwqmr1Pl_r4DRWXvOusf0EItP-XFJlMiOkF9QpJIX9DCp6DX8rEaXv3TIpk_n6PFFAokonTi3uRic-kmF2T4iwTwq1M5EiB0qjyVm9JAe-QAqWxFZDipYAUViEpUpnIkWJbl69k4gR2lomMFL8lE8HvyERCEeM0XGvG0UR3tYMP6tJiUG33RUelRx_BsDdZL8f6vidNwm-1Y-P4T46q24_KTn-C1YEf6Y8KWXCfDL30zurGwXYjx9j7D1gNdnuEHzTV1o626rveg7Ozd77qRSXH9lyWVutt03QGGrTAdjGz6EXboyVvZb_Zx8Cjvcbza9vHI3s08_ow4rFgeK_KfE3LeDAyFtPXfW_-ethZ62jrGWvdH2_KodtXyoYx3pu7shi46k7SA3ownja7Qa9VFluLLUniZhk6bcNTtKUKX5pMa7bsTGrLZ2R1w8QvzB7mQ5GZmdA26yUSGjZYpuR4GksKoo7AWAZLRH4vcCsgE-7KnEv-Q1IqJaypioEDVmsw9FqtG81Gtbmpdchh5EcHts6U8N5jmZ-TchuO"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Deployment Calculator | The Official Army Benefits Website",
+      "link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Deployment-Calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Deployment-Calculator&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQFnoECBcQAQ",
+      "displayed_link": "https://myarmybenefits.us.army.mil › Deployment-Calc...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png",
+      "snippet": "Prepare for the pay changes that occur due to deployment by estimating monthly income before departure, during deployment, and after return.",
+      "snippet_highlighted_words": [
+        "estimating monthly income"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Prepare for the pay changes that occur due to deployment by estimating monthly income before departure, during deployment, and after return.",
+          "source_info_link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Deployment-Calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____29vdcXFuOcjlPSDrZ2tuBhYzkqAC4iRSHZQyJZgyXcA78uxJfW1R7fHzdpA8AAACugQ6Dc1bQmw1LOQt7XRKnfAymfRjFkxziqiBCMglnTQ6qkWOpmoGys7S_wseDYxPPmx7NlQDAiQDs7_SzgAD3uSNLNwCioqOzsKqTbhU7LAmaeCvS19_BjwCYmJeig0ZxcnKNiYSOd0pWQAzepiAxJgf_yScgGQVxVhGWl5iqIZc_AAAA3UlEQVR4AaWSAwIDMRAAt7Z1Rm339P9_nR1Uc0g2EyfwD4ViCUO54stqrd5oejRStNodX3Z7fQyDYSBHccl4EmeniJwxFMmyZMkxA54op4JYJ8qaJNdQqaiMOp_PF8vCajSfu0Ez3bK53mx3OwlA2u223Hqf7fawPp7A53Rcc8iYzPniRdsFg5tQ_epF13pmQrdQ1iSQZZBqOHmYL--93n05P2DkrPRYP5_rR6mFkSzjpyPmhUpNbwaD7XUDkRMuPlQzLbE3gQlkddo7I4zmVfDZWiEXFysOgEIF_sABnP8tPkvtyhAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Deployment-Calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyarmybenefits.us.army.mil%2FNEW-Benefit-Calculators%2FDeployment-Calculator",
+      "source": "MyArmyBenefits (.mil)",
+      "read_more_link": "https://myarmybenefits.us.army.mil/NEW-Benefit-Calculators/Deployment-Calculator#:~:text=Prepare%20for%20the%20pay%20changes,during%20deployment%2C%20and%20after%20return."
+    },
+    {
+      "position": 2,
+      "title": "Deployment Calculator",
+      "link": "https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Deployment-Calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Deployment-Calculator&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQFnoECBsQAQ",
+      "displayed_link": "https://myairforcebenefits.us.af.mil › Deployment-Calcul...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWOgGBw-eEhs957dWlevXmUmVs_z58-Zjxw5ovPo4SN-ht6enoTQ0LCVp06dEj577hxBQ758-cJ0_PhxLW8vr63bt263Z0hPT69SU1W709benhocHCJMyIBz587xuLq6rlRSVHqyeNFiT4awsLBiCXGJ15oamucE-AVs8Gl-8uQJY21trZaUpNRzoKX3165dp8-wefNmbWkp6SdAzT_ERMVm2NrYWm_dsgWrV06eOMFtaWW5WlBA8EeAf8DCEydO8DKkpqYyOzk6FoMEgfirvp7-nuVLl0lOmzqNH6YxMyNDauOGDVp-vn7rREVFPygpKN6dMmWKOdzkZcuWSvh4e6_k5-P_IyQo9MPI0Ohcf1-_w6IFC3k72zt4rSytcs3NzE9JSkh-EBYS_hwZEdm3dNkydrgB_f39bHPnzo3V0tS8CzTkN9A7v_V09a62trTG5-fmZSspKt4TERb5CnKlgb7B-YULFzpi-C88LFy2sbGxUlVZ5TLQFe9VlJUf1NfVFVdVVpUDwwhkwGNdHZ2zU6dMSYmLi-PHGspRUVFiwDAodHZynp2Xm5dVXFScWlJcEg8Mp1w3V9cJkyZO9ElPS-fBG8-9PX3S5WUVsZkZmXk21tbr7O3slyQmJuaVl5eFHT58WJBgMgUGnqebq9uW5KSk9piY6O7Q0NAJwUHB_UCxZWtWr7YiaMDePXtEgU73ALqgChiQ57W1tM_HxcTmpaWmmZ84fpyX6EyWm5Orl5CQ0BcTHdMG9LcqA60AAOJP2MG383GbAAAAAElFTkSuQmCC.png",
+      "snippet": "Prepare for the pay changes that occur due to deployment by estimating monthly income before departure, during deployment, and after return.",
+      "snippet_highlighted_words": [
+        "estimating monthly income"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Prepare for the pay changes that occur due to deployment by estimating monthly income before departure, during deployment, and after return.",
+          "source_info_link": "https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Deployment-Calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACQ0lEQVR4AWOgGBw-eEhs957dWlevXmUmVs_z58-Zjxw5ovPo4SN-ht6enoTQ0LCVp06dEj577hxBQ758-cJ0_PhxLW8vr63bt263Z0hPT69SU1W709benhocHCJMyIBz587xuLq6rlRSVHqyeNFiT4awsLBiCXGJ15oamucE-AVs8Gl-8uQJY21trZaUpNRzoKX3165dp8-wefNmbWkp6SdAzT_ERMVm2NrYWm_dsgWrV06eOMFtaWW5WlBA8EeAf8DCEydO8DKkpqYyOzk6FoMEgfirvp7-nuVLl0lOmzqNH6YxMyNDauOGDVp-vn7rREVFPygpKN6dMmWKOdzkZcuWSvh4e6_k5-P_IyQo9MPI0Ohcf1-_w6IFC3k72zt4rSytcs3NzE9JSkh-EBYS_hwZEdm3dNkydrgB_f39bHPnzo3V0tS8CzTkN9A7v_V09a62trTG5-fmZSspKt4TERb5CnKlgb7B-YULFzpi-C88LFy2sbGxUlVZ5TLQFe9VlJUf1NfVFVdVVpUDwwhkwGNdHZ2zU6dMSYmLi-PHGspRUVFiwDAodHZynp2Xm5dVXFScWlJcEg8Mp1w3V9cJkyZO9ElPS-fBG8-9PX3S5WUVsZkZmXk21tbr7O3slyQmJuaVl5eFHT58WJBgMgUGnqebq9uW5KSk9piY6O7Q0NAJwUHB_UCxZWtWr7YiaMDePXtEgU73ALqgChiQ57W1tM_HxcTmpaWmmZ84fpyX6EyWm5Orl5CQ0BcTHdMG9LcqA60AAOJP2MG383GbAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Deployment-Calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmyairforcebenefits.us.af.mil%2FNEW-Benefit-Calculators%2FDeployment-Calculator",
+      "source": "My Air Force Benefits (.mil)",
+      "read_more_link": "https://myairforcebenefits.us.af.mil/NEW-Benefit-Calculators/Deployment-Calculator#:~:text=Prepare%20for%20the%20pay%20changes,during%20deployment%2C%20and%20after%20return."
+    },
+    {
+      "position": 3,
+      "title": "The Savings Deposit Program",
+      "link": "https://www.militaryonesource.mil/benefits/the-savings-deposit-program/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.militaryonesource.mil/benefits/the-savings-deposit-program/&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQFnoECBoQAQ",
+      "displayed_link": "https://www.militaryonesource.mil › benefits › the-savi...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png",
+      "snippet": "How this benefit helps. The SDP earns you 10% interest on every dollar saved during a combat deployment, up to $10,000. Most commercial savings accounts earn ...",
+      "snippet_highlighted_words": [
+        "deployment",
+        "savings"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "How this benefit helps. The SDP earns you 10% interest on every dollar saved during a combat deployment, up to $10,000. Most commercial savings accounts earn ...",
+          "source_info_link": "https://www.militaryonesource.mil/benefits/the-savings-deposit-program/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-qsLV0gIh7h4_j5uj23eDegIrgiJHnqK4AKD4AM0cAGzXX3N_yzdLRHTrVN03TKkPdeYMOPU_WP1PUM0rccn734uTikZrkmKDqs7jaaHXbb3vBw8Slp6jfp6jmvL7aYG7WO1Dkn6UC3w-5AAAAf0lEQVR4AbXQUwIDQQwA0Ky9Y9S4_x2LYe2-3zjwjSTNjDSHoqyC2gSzpjW6HoYReZjYYEuN5hDEzEO_DI7cw-IyKJUOJpfBS68Hi6nwZvp6IeTxvz4h9Y-_NXO-cHKQy2gF39Hrm5QJVnxzg1uoQuwG9EoQoxtc21qQW7bwhT1QgiGOvCM9RQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.militaryonesource.mil/benefits/the-savings-deposit-program/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.militaryonesource.mil%2Fbenefits%2Fthe-savings-deposit-program%2F",
+      "source": "Military OneSource (.mil)",
+      "read_more_link": "https://www.militaryonesource.mil/benefits/the-savings-deposit-program/#:~:text=How%20this%20benefit%20helps,more%20than%201%25%20or%202%25."
+    },
+    {
+      "position": 4,
+      "title": "SDP Calculator — 10% Savings Deposit Program (Deployed)",
+      "link": "https://www.garrisonledger.com/dashboard/tools/sdp-strategist",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.garrisonledger.com/dashboard/tools/sdp-strategist&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQFnoECB4QAQ",
+      "displayed_link": "https://www.garrisonledger.com › tools › sdp-strategist",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX____-_v7c3-Pr7vG5v8aUnKaEj5vy8_TN0taMlqJ3g5KzucGcpbCLlaCrsbpWZnp-i5lKXXJod4ZhcYJTYnT39_gAKEs3SF3Cx835-vq6wcddbH6jq7U_UGcAHERve4oAETkAIEPh4-YFJkRqeYsWMU1vfo0lOVUADTssQVobOFYbNVIiPFTT1toxSGIAFz-qGjE4AAABXElEQVR4Aa1S12KDIBQ9uEXcWiFuJJid__-71tA93nrY3D3wHyDE7H-RLOuD_PG7LdtxPc91fPPctvc9CKkbMRaFNA7eZeyEgCBKaeRkeVHmmRPRKgIBSWzUTw0XcHasbTsf8LuyZNyB4P3gQ4zTXMhuDt99sbwlkeMwKQHwfD9ptfobxTb7qtVh33MAQdEelV7t7ZtFhkjbY1s8iKe-8dRqEwHkChCwz5Q2-SkASM3WedQvxF1R7C_jyCFXWs5nt9584DTN6FmidvfLcu4E5JnqNOMP767NnIaLA4JxefJA4CxhO9-uJj_XounuGWDlYVbZQHZPbm0AA8Eu7JgGCBwgsRBUl-62WTSQcUi1J40emSkdexbeUctAdVQ-gqRMBdL_UkzCvKS4AtciiV1B8AXE9zJedV2-8zz_nfZB7spA62vJfu0T8DKJSv5Hg8F2XRvkL6rZ_mxOgn_BMxgzGXdMDpRdAAAAAElFTkSuQmCC.png",
+      "snippet": "Free Savings Deposit Program calculator. Project your 10% guaranteed return on up to $10000 during deployment plus the 90-day post-deployment grace period.",
+      "snippet_highlighted_words": [
+        "Free Savings Deposit Program calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Free Savings Deposit Program calculator. Project your 10% guaranteed return on up to $10000 during deployment plus the 90-day post-deployment grace period.",
+          "source_info_link": "https://www.garrisonledger.com/dashboard/tools/sdp-strategist",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX____-_v7c3-Pr7vG5v8aUnKaEj5vy8_TN0taMlqJ3g5KzucGcpbCLlaCrsbpWZnp-i5lKXXJod4ZhcYJTYnT39_gAKEs3SF3Cx835-vq6wcddbH6jq7U_UGcAHERve4oAETkAIEPh4-YFJkRqeYsWMU1vfo0lOVUADTssQVobOFYbNVIiPFTT1toxSGIAFz-qGjE4AAABXElEQVR4Aa1S12KDIBQ9uEXcWiFuJJid__-71tA93nrY3D3wHyDE7H-RLOuD_PG7LdtxPc91fPPctvc9CKkbMRaFNA7eZeyEgCBKaeRkeVHmmRPRKgIBSWzUTw0XcHasbTsf8LuyZNyB4P3gQ4zTXMhuDt99sbwlkeMwKQHwfD9ptfobxTb7qtVh33MAQdEelV7t7ZtFhkjbY1s8iKe-8dRqEwHkChCwz5Q2-SkASM3WedQvxF1R7C_jyCFXWs5nt9584DTN6FmidvfLcu4E5JnqNOMP767NnIaLA4JxefJA4CxhO9-uJj_XounuGWDlYVbZQHZPbm0AA8Eu7JgGCBwgsRBUl-62WTSQcUi1J40emSkdexbeUctAdVQ-gqRMBdL_UkzCvKS4AtciiV1B8AXE9zJedV2-8zz_nfZB7spA62vJfu0T8DKJSv5Hg8F2XRvkL6rZ_mxOgn_BMxgzGXdMDpRdAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.garrisonledger.com/dashboard/tools/sdp-strategist&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.garrisonledger.com%2Fdashboard%2Ftools%2Fsdp-strategist",
+      "source": "Garrison Ledger"
+    },
+    {
+      "position": 5,
+      "title": "Military Deployment Pay Calculator",
+      "link": "https://www.usaa.com/advice/deployment-pay-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usaa.com/advice/deployment-pay-calculator/&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQFnoECB0QAQ",
+      "displayed_link": "https://www.usaa.com › advice › deployment-pay-calcu...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEUROVsINVgAHUoAJ1AAMFUsSmft7_G_xcyHlKL____c4OR2hZbR1tvIzdQABz-krbj29_izu8RkdopKYHiWoq7b5-FgAAAA_UlEQVR4Ab2QV2LFIAzAnrExmL3uf9aaTnd9ttmJpCTw-IcFnEP6jXnmEL9RQgQ9RpGUv0LKUjw-sCauDb7BKtKxjTmlevzyscV9ysiSd1fLkYUUWcZJIn7LtZbzptz1FCmHHU7ha0UypSga-ghfrLrBlP2wzHmIulyLv5Szi3gAr2j2sWy5FZ2iOlxrBDsVAOiLVB0hXquKhZe7de6Ta6W-wBDSmJxCArXYDgX2or3wdE95g95tsjNUXQ5hxuU4IE5pjy9whkq4k6Bj3mBh0NJN2XOVvEIMaOAarXff6hmJa2XNzXtxjoJhlD0bldJa3WCpw7uDFnh3ZX-3PAGCSg0ZHfipWAAAAABJRU5ErkJggg.png",
+      "snippet": "You could receive deployment pay along with your monthly pay. Find out more with our military deployment pay calculator.",
+      "snippet_highlighted_words": [
+        "military deployment pay calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You could receive deployment pay along with your monthly pay. Find out more with our military deployment pay calculator.",
+          "source_info_link": "https://www.usaa.com/advice/deployment-pay-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEUROVsINVgAHUoAJ1AAMFUsSmft7_G_xcyHlKL____c4OR2hZbR1tvIzdQABz-krbj29_izu8RkdopKYHiWoq7b5-FgAAAA_UlEQVR4Ab2QV2LFIAzAnrExmL3uf9aaTnd9ttmJpCTw-IcFnEP6jXnmEL9RQgQ9RpGUv0LKUjw-sCauDb7BKtKxjTmlevzyscV9ysiSd1fLkYUUWcZJIn7LtZbzptz1FCmHHU7ha0UypSga-ghfrLrBlP2wzHmIulyLv5Szi3gAr2j2sWy5FZ2iOlxrBDsVAOiLVB0hXquKhZe7de6Ta6W-wBDSmJxCArXYDgX2or3wdE95g95tsjNUXQ5hxuU4IE5pjy9whkq4k6Bj3mBh0NJN2XOVvEIMaOAarXff6hmJa2XNzXtxjoJhlD0bldJa3WCpw7uDFnh3ZX-3PAGCSg0ZHfipWAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.usaa.com/advice/deployment-pay-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.usaa.com%2Fadvice%2Fdeployment-pay-calculator%2F",
+      "source": "USAA"
+    },
+    {
+      "position": 6,
+      "title": "Military Pay Calculator",
+      "link": "https://www.military.com/benefits/military-pay/calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/benefits/military-pay/calculator&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQFnoECBkQAQ",
+      "displayed_link": "https://www.military.com › benefits › calculator",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "snippet": "2026 Military Pay. The Military Pay Calculator is the perfect tool to help you figure out how much you make as a U.S. military service member.",
+      "snippet_highlighted_words": [
+        "The Military Pay Calculator"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "2026 Military Pay. The Military Pay Calculator is the perfect tool to help you figure out how much you make as a U.S. military service member.",
+          "source_info_link": "https://www.military.com/benefits/military-pay/calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/benefits/military-pay/calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fbenefits%2Fmilitary-pay%2Fcalculator",
+      "source": "Military.com",
+      "read_more_link": "https://www.military.com/benefits/military-pay/calculator#:~:text=2026%20Military%20Pay,a%20U.S.%20military%20service%20member."
+    },
+    {
+      "position": 7,
+      "title": "Savings Deposit Program (SDP) 10% Return Deployment ...",
+      "link": "https://militarymoneymanual.com/savings-deposit-program/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://militarymoneymanual.com/savings-deposit-program/&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQFnoECCIQAQ",
+      "displayed_link": "https://militarymoneymanual.com › savings-deposit-pro...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEw3c7g3c7g3c7g3c7g3c7g3c7g3c7g3c7g3c7gwcLdxlshjj8Yla7UXZbOzxeDJ1urX4O_6_f43c7iSrdTr9ftJfr1ZuuYwqN6HzO0Ant1MtOTS6_iw3fN9pdEG3y7VAAAAH3RSTlMAL4C87v9dE-FK__7____-_v7_1f7-__7__v_-_v7-sm8zQgAAATpJREFUeAFlkwWChDAMRavY1iFo4f7H3DSMdeaPQPKiCHuJC6m0VlJw9q0GwVOqqVDb6Upd-2b90zkMzzP-y_7MN22ftnXeO_u07sqvfiGmFMPTGmnOV7chpBTsq3OZWREzk9XWp-TxMN2dO9ydmAYwg43zHOxgANBBMwkaBZY1lXqoOa0LuOIVTBYWtx099o471n0L5VwyVdbLe4Z9ixjvMA7QNENpSrufmw95P71z_tyz99tZoLohxCsEdF8XhoR4ZSB4l00rmFwKluLZwJruspLKwgo0ynrgoGhQWckEZR5gaAlcaMBFD8oUjFNmviz1pl52yphJN0aVTE9b22miXZ0vmV258Aijq2-2iwh7hhr1TL5Ksx7rm12rZST-S2iaX1ozqjzWaGzrh7p7o65nteh16JTqPl-Hf-03Gckz0miDAAAAAElFTkSuQmCC.png",
+      "date": "Apr 20, 2020",
+      "snippet": "The Savings Deposit Program or SDP offers deployed military servicemembers a 10% guaranteed return on up to $10,000 of invested cash.",
+      "snippet_highlighted_words": [
+        "Savings",
+        "deployed military"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How The Savings Deposit...",
+            "link": "https://militarymoneymanual.com/savings-deposit-program/#How_The_Savings_Deposit_Program_Works"
+          },
+          {
+            "title": "Use the SDP as an Emergency...",
+            "link": "https://militarymoneymanual.com/savings-deposit-program/#Use_the_SDP_as_an_Emergency_Fund"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Savings Deposit Program or SDP offers deployed military servicemembers a 10% guaranteed return on up to $10,000 of invested cash.",
+          "source_info_link": "https://militarymoneymanual.com/savings-deposit-program/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEw3c7g3c7g3c7g3c7g3c7g3c7g3c7g3c7g3c7gwcLdxlshjj8Yla7UXZbOzxeDJ1urX4O_6_f43c7iSrdTr9ftJfr1ZuuYwqN6HzO0Ant1MtOTS6_iw3fN9pdEG3y7VAAAAH3RSTlMAL4C87v9dE-FK__7____-_v7_1f7-__7__v_-_v7-sm8zQgAAATpJREFUeAFlkwWChDAMRavY1iFo4f7H3DSMdeaPQPKiCHuJC6m0VlJw9q0GwVOqqVDb6Upd-2b90zkMzzP-y_7MN22ftnXeO_u07sqvfiGmFMPTGmnOV7chpBTsq3OZWREzk9XWp-TxMN2dO9ydmAYwg43zHOxgANBBMwkaBZY1lXqoOa0LuOIVTBYWtx099o471n0L5VwyVdbLe4Z9ixjvMA7QNENpSrufmw95P71z_tyz99tZoLohxCsEdF8XhoR4ZSB4l00rmFwKluLZwJruspLKwgo0ynrgoGhQWckEZR5gaAlcaMBFD8oUjFNmviz1pl52yphJN0aVTE9b22miXZ0vmV258Aijq2-2iwh7hhr1TL5Ksx7rm12rZST-S2iaX1ozqjzWaGzrh7p7o65nteh16JTqPl-Hf-03Gckz0miDAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://militarymoneymanual.com/savings-deposit-program/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmilitarymoneymanual.com%2Fsavings-deposit-program%2F",
+      "source": "Military Money Manual",
+      "read_more_link": "https://militarymoneymanual.com/savings-deposit-program/#:~:text=The%20Savings%20Deposit%20Program%20or,to%20%2410%2C000%20of%20invested%20cash."
+    },
+    {
+      "position": 8,
+      "title": "Military Savings Deposit Program",
+      "link": "https://usaaef.org/budget-savings/savings/save-for-emergencies/military-savings-opportunity-the-savings-deposit-program/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://usaaef.org/budget-savings/savings/save-for-emergencies/military-savings-opportunity-the-savings-deposit-program/&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQFnoECDgQAQ",
+      "displayed_link": "https://usaaef.org › ... › Savings › Save for Emergencies",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAwUlEQVR4AWNgtMo4DsT_Bwj_Y2CwyogYWAc4NLAwWqY_HjAHgIFlRsUAO6BQCMj5OlAOgIXCjIF1gHm6FjBBfqQ7HpxgFIwC63QTBou0KrpgrMA0SxaYR3_TsxzABFbpKwbaAZZ0dgAmACo4OaAOYLBMjxxYBxinsQIVPaGvAzBDwYOm2XAogVEwChiBTahTA9sks0rPomc5gAn0YrmBmt7R1wGYBVPXwDrAKlke1lagvwMQnZhVA-sAiwxrkGZqYAAZ3m0a07NBuAAAAABJRU5ErkJggg.png",
+      "snippet": "Service members can deposit funds in the program to earn an annual return of 10%, compounded quarterly, up to $10,000 in savings. Interest will continue to ...",
+      "snippet_highlighted_words": [
+        "savings"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Service members can deposit funds in the program to earn an annual return of 10%, compounded quarterly, up to $10,000 in savings. Interest will continue to ...",
+          "source_info_link": "https://usaaef.org/budget-savings/savings/save-for-emergencies/military-savings-opportunity-the-savings-deposit-program/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAwUlEQVR4AWNgtMo4DsT_Bwj_Y2CwyogYWAc4NLAwWqY_HjAHgIFlRsUAO6BQCMj5OlAOgIXCjIF1gHm6FjBBfqQ7HpxgFIwC63QTBou0KrpgrMA0SxaYR3_TsxzABFbpKwbaAZZ0dgAmACo4OaAOYLBMjxxYBxinsQIVPaGvAzBDwYOm2XAogVEwChiBTahTA9sks0rPomc5gAn0YrmBmt7R1wGYBVPXwDrAKlke1lagvwMQnZhVA-sAiwxrkGZqYAAZ3m0a07NBuAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://usaaef.org/budget-savings/savings/save-for-emergencies/military-savings-opportunity-the-savings-deposit-program/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fusaaef.org%2Fbudget-savings%2Fsavings%2Fsave-for-emergencies%2Fmilitary-savings-opportunity-the-savings-deposit-program%2F",
+      "source": "USAA Educational Foundation",
+      "read_more_link": "https://usaaef.org/budget-savings/savings/save-for-emergencies/military-savings-opportunity-the-savings-deposit-program/#:~:text=Service%20members%20can%20deposit%20funds,days%20after%20return%20from%20deployment."
+    },
+    {
+      "position": 9,
+      "title": "Participate in the Savings Deposit Program",
+      "link": "https://www.finra.org/investors/military/deployment/sdp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.finra.org/investors/military/deployment/sdp&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQFnoECDoQAQ",
+      "displayed_link": "https://www.finra.org › military › deployment › sdp",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3UlEQVR4Ae2VgQbCUBSGl0JQVdUo6GECMQIS9hCBVmKQQgI0gCJgLCmgh1hAFpGChCEChD-3GgcRZhecjwPg-xz3uArDMMw_AISa0HBAutZGMFmtB9WwUZ7tEV_6UBwf0jZwuD_RcDwUhlvkLFfI5QaIOV6uyc3pgdLcQ-IbQDdUbI5QNNfIWDso9u0TGcUbEBHKjwBVn6Bk2EhNXcQWZ4itRRJAI2hAtTVAxVyh0nfe8sivQETQAFXrQtXHgVzOGdKAfL1D5PIDiFx6AJXLD6By-QFCzp9RmACGYZgXCwLUhn_ujIgAAAAASUVORK5CYII.png",
+      "snippet": "Once you have made your SDP deposit, interest accrues at the 10 percent annual rate for as long as you are in a combat zone and for up to 90 days after you ...",
+      "about_this_result": {
+        "source": {
+          "description": "Once you have made your SDP deposit, interest accrues at the 10 percent annual rate for as long as you are in a combat zone and for up to 90 days after you ...",
+          "source_info_link": "https://www.finra.org/investors/military/deployment/sdp",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3UlEQVR4Ae2VgQbCUBSGl0JQVdUo6GECMQIS9hCBVmKQQgI0gCJgLCmgh1hAFpGChCEChD-3GgcRZhecjwPg-xz3uArDMMw_AISa0HBAutZGMFmtB9WwUZ7tEV_6UBwf0jZwuD_RcDwUhlvkLFfI5QaIOV6uyc3pgdLcQ-IbQDdUbI5QNNfIWDso9u0TGcUbEBHKjwBVn6Bk2EhNXcQWZ4itRRJAI2hAtTVAxVyh0nfe8sivQETQAFXrQtXHgVzOGdKAfL1D5PIDiFx6AJXLD6By-QFCzp9RmACGYZgXCwLUhn_ujIgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.finra.org/investors/military/deployment/sdp&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.finra.org%2Finvestors%2Fmilitary%2Fdeployment%2Fsdp",
+      "source": "FINRA",
+      "read_more_link": "https://www.finra.org/investors/military/deployment/sdp#:~:text=Once%20you%20have%20made%20your,you%20leave%20the%20combat%20zone."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Free deployment savings calculator military",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Free+deployment+savings+calculator+military&sa=X&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+deployment+savings+calculator+military"
+    },
+    {
+      "block_position": 1,
+      "query": "Deployment pay calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Deployment+pay+calculator&sa=X&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deployment+pay+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Deployment savings calculator military army",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Deployment+savings+calculator+military+army&sa=X&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deployment+savings+calculator+military+army"
+    },
+    {
+      "block_position": 1,
+      "query": "Deployment Calculator army",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Deployment+Calculator+army&sa=X&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Deployment+Calculator+army"
+    },
+    {
+      "block_position": 1,
+      "query": "Military Savings Deposit Program calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Military+Savings+Deposit+Program+calculator&sa=X&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Military+Savings+Deposit+Program+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Air Force deployment pay calculator",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Air+Force+deployment+pay+calculator&sa=X&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Air+Force+deployment+pay+calculator"
+    },
+    {
+      "block_position": 1,
+      "query": "Army deployment pay chart",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Army+deployment+pay+chart&sa=X&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Army+deployment+pay+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Army deployment pay calculator 2026",
+      "link": "https://www.google.com/search?sca_esv=c510ba4e6526f391&q=Army+deployment+pay+calculator+2026&sa=X&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Army+deployment+pay+calculator+2026"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=deployment+savings+calculator+military&sca_esv=c510ba4e6526f391&ei=IyE6apvBC7mEwbkP7p37gA4&start=10&sa=N&sstk=AU9db-AihhLjwkx7RiNk8zYD0X331nwaKRKkVE_o23G7eM3jKg6aG3Id2bSNlWGfsfPHK9-_2QtOM59vInrvOFhYyfLB6mvVoBcFXw&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ8NMDegQILhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=deployment+savings+calculator+military&sca_esv=c510ba4e6526f391&ei=IyE6apvBC7mEwbkP7p37gA4&start=10&sa=N&sstk=AU9db-AihhLjwkx7RiNk8zYD0X331nwaKRKkVE_o23G7eM3jKg6aG3Id2bSNlWGfsfPHK9-_2QtOM59vInrvOFhYyfLB6mvVoBcFXw&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ8tMDegQILhAE",
+      "3": "https://www.google.com/search?q=deployment+savings+calculator+military&sca_esv=c510ba4e6526f391&ei=IyE6apvBC7mEwbkP7p37gA4&start=20&sa=N&sstk=AU9db-AihhLjwkx7RiNk8zYD0X331nwaKRKkVE_o23G7eM3jKg6aG3Id2bSNlWGfsfPHK9-_2QtOM59vInrvOFhYyfLB6mvVoBcFXw&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ8tMDegQILhAG",
+      "4": "https://www.google.com/search?q=deployment+savings+calculator+military&sca_esv=c510ba4e6526f391&ei=IyE6apvBC7mEwbkP7p37gA4&start=30&sa=N&sstk=AU9db-AihhLjwkx7RiNk8zYD0X331nwaKRKkVE_o23G7eM3jKg6aG3Id2bSNlWGfsfPHK9-_2QtOM59vInrvOFhYyfLB6mvVoBcFXw&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ8tMDegQILhAI",
+      "5": "https://www.google.com/search?q=deployment+savings+calculator+military&sca_esv=c510ba4e6526f391&ei=IyE6apvBC7mEwbkP7p37gA4&start=40&sa=N&sstk=AU9db-AihhLjwkx7RiNk8zYD0X331nwaKRKkVE_o23G7eM3jKg6aG3Id2bSNlWGfsfPHK9-_2QtOM59vInrvOFhYyfLB6mvVoBcFXw&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ8tMDegQILhAK",
+      "6": "https://www.google.com/search?q=deployment+savings+calculator+military&sca_esv=c510ba4e6526f391&ei=IyE6apvBC7mEwbkP7p37gA4&start=50&sa=N&sstk=AU9db-AihhLjwkx7RiNk8zYD0X331nwaKRKkVE_o23G7eM3jKg6aG3Id2bSNlWGfsfPHK9-_2QtOM59vInrvOFhYyfLB6mvVoBcFXw&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ8tMDegQILhAM",
+      "7": "https://www.google.com/search?q=deployment+savings+calculator+military&sca_esv=c510ba4e6526f391&ei=IyE6apvBC7mEwbkP7p37gA4&start=60&sa=N&sstk=AU9db-AihhLjwkx7RiNk8zYD0X331nwaKRKkVE_o23G7eM3jKg6aG3Id2bSNlWGfsfPHK9-_2QtOM59vInrvOFhYyfLB6mvVoBcFXw&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ8tMDegQILhAO",
+      "8": "https://www.google.com/search?q=deployment+savings+calculator+military&sca_esv=c510ba4e6526f391&ei=IyE6apvBC7mEwbkP7p37gA4&start=70&sa=N&sstk=AU9db-AihhLjwkx7RiNk8zYD0X331nwaKRKkVE_o23G7eM3jKg6aG3Id2bSNlWGfsfPHK9-_2QtOM59vInrvOFhYyfLB6mvVoBcFXw&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ8tMDegQILhAQ",
+      "9": "https://www.google.com/search?q=deployment+savings+calculator+military&sca_esv=c510ba4e6526f391&ei=IyE6apvBC7mEwbkP7p37gA4&start=80&sa=N&sstk=AU9db-AihhLjwkx7RiNk8zYD0X331nwaKRKkVE_o23G7eM3jKg6aG3Id2bSNlWGfsfPHK9-_2QtOM59vInrvOFhYyfLB6mvVoBcFXw&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ8tMDegQILhAS",
+      "10": "https://www.google.com/search?q=deployment+savings+calculator+military&sca_esv=c510ba4e6526f391&ei=IyE6apvBC7mEwbkP7p37gA4&start=90&sa=N&sstk=AU9db-AihhLjwkx7RiNk8zYD0X331nwaKRKkVE_o23G7eM3jKg6aG3Id2bSNlWGfsfPHK9-_2QtOM59vInrvOFhYyfLB6mvVoBcFXw&ved=2ahUKEwjb3ozh15yVAxU5QjABHe7OHuAQ8tMDegQILhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+savings+calculator+military&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+savings+calculator+military&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+savings+calculator+military&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+savings+calculator+military&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+savings+calculator+military&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+savings+calculator+military&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+savings+calculator+military&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+savings+calculator+military&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+savings+calculator+military&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+savings+calculator+military&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=deployment+savings+calculator+military&start=90"
+    }
+  }
+}

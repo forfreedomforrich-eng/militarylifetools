@@ -1,0 +1,414 @@
+{
+  "search_metadata": {
+    "id": "6a3a19418c60ca2c8cf16dce",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4d3smalrM-KhFTan8bE7Eg/6a3a19418c60ca2c8cf16dce.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/4d3smalrM-KhFTan8bE7Eg/6a3a19418c60ca2c8cf16dce.json_with_pixel_position",
+    "created_at": "2026-06-23 05:27:29 UTC",
+    "processed_at": "2026-06-23 05:27:29 UTC",
+    "google_url": "https://www.google.com/search?q=age+retirement+calculator+born+1960&oq=age+retirement+calculator+born+1960&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/4d3smalrM-KhFTan8bE7Eg/6a3a19418c60ca2c8cf16dce.html",
+    "total_time_taken": 3.32
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "age retirement calculator born 1960",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "age retirement calculator born 1960",
+    "total_results": 148,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How old do I have to be for full retirement if I was born in 1960?",
+      "type": "ai_overview",
+      "page_token": "aKxGfHicHdBRboIwAADQ7DJ-SinqNhOzDKFFFqsUaLE_C7YgQrE4iah_u8tOtdMs2TvC-_7Rx1Pz-5RVfd9d5pY1DMP4YMxBF2NpWiu_3E_SkrnW-1w289nzzH4r5cK_DO7SDG6Udh3zKIiZ3kSsOic1QiKhRjFqeHvTglFNAoKEjUoaaCG8sEtAAyhUPoV9lWQRJHaod04F89rd7sBtRR2xTB_-fQ_VtmCmFyfpJEF4VQh9rGuGirqqJUZOnLFpge3JulW9xCnctYQkDfVZ8woEVnWUUsaZQDvmpmuIzgyDCeV2pjDhBLzEyA6X-UNUexhS6us0zkKbsneQ4M7b-IjhY-jSgNw3XMTK06ngaJUHwuEN28QAdeRkYII1l566c3_qjkp5XTij_7HFZ9n28-7LHP4AbMN2Ig",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=aKxGfHicHdBRboIwAADQ7DJ-SinqNhOzDKFFFqsUaLE_C7YgQrE4iah_u8tOtdMs2TvC-_7Rx1Pz-5RVfd9d5pY1DMP4YMxBF2NpWiu_3E_SkrnW-1w289nzzH4r5cK_DO7SDG6Udh3zKIiZ3kSsOic1QiKhRjFqeHvTglFNAoKEjUoaaCG8sEtAAyhUPoV9lWQRJHaod04F89rd7sBtRR2xTB_-fQ_VtmCmFyfpJEF4VQh9rGuGirqqJUZOnLFpge3JulW9xCnctYQkDfVZ8woEVnWUUsaZQDvmpmuIzgyDCeV2pjDhBLzEyA6X-UNUexhS6us0zkKbsneQ4M7b-IjhY-jSgNw3XMTK06ngaJUHwuEN28QAdeRkYII1l566c3_qjkp5XTij_7HFZ9n28-7LHP4AbMN2Ig",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YzTmhaVjlxUVVwNWFUVnZZbWhpYVhJMFMxVktlSGxsU1dWc1NWRllWMXBTZURWaE0wUk5SRk01UVRnd2MxWk9RMUp2VVRsMWJrMVVWMXBMVURsU1UyZElkRWhtUlRsQmFtWjRVRFpyTkRKTmJVRlNlakZuYnpObVp4SVhVa0pyTm1GdllsRkVTVlJKY25WRlVEUk1ha000UVZVYUlrRkVjM0k1WmxSMk0yb3RWbFV5Um5SVU1TMXNhbGRMUTNNdFEwRTBSVEZvWm1jIiwiZmN2IjoiMyIsImVpIjoiUkJrNmFvYlFESVRJcnVFUDRMakM4QVUiLCJxYyI6IkNpTmhaMlVnY21WMGFYSmxiV1Z1ZENCallXeGpkV3hoZEc5eUlHSnZjbTRnTVRrMk1CQUFmU0RTZGo4IiwicXVlc3Rpb24iOiJIb3cgb2xkIGRvIEkgaGF2ZSB0byBiZSBmb3IgZnVsbCByZXRpcmVtZW50IGlmIEkgd2FzIGJvcm4gaW4gMTk2MD8iLCJsayI6ImN3M0t3UTJBSUF4QTBUMDhfUkgwWXVMUlVTQ1UwQVRicEtLc3ItXzhsclA1eEh1aE9FcExyekNjTEZRUDZ0TTdJVU5ETHJHQjF2X01kSk05RERXMlkxOF8iLCJicyI6ImM1V1FNV19DTUJTRWxkVVRjNmFiS3NhMkFxUk9DR2lsZG1CaVlNVWtMOG1URWpfSmRtcnhFeGo2bnh0SXBWcEdsY3I2M3QxM3AxUG5USzNmSlVEYUVxWGdBNDMtSkhqQmtWQ0pSZFczTFN4NXR0U1I4ZUJxMEFUdGNCUnJ3QVpQTDR2SDVmTW1YeldfRlA0SGhXOG82cUJtLTBZUFh3ZmZVS3pYOWNoeDBwRVlTc0tuLVVOOFFQaUJkS2VFb2I0eTlScEg3S1JnM1dKSFJXX1pwX0pMelpQMENHVFR5TGQ4RXlLT0d6bnVUbzRTTlZfNXNlOUZWMmd6ckZ1VHg1WktMclNsdl9aZTVET2RHUGxxN0NMajdjU1Q3QnMiLCJpZCI6ImZjX1JCazZhb2JRRElUSXJ1RVA0TGpDOEFVXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YzTmhaVjlxUVVwNWFUVnZZbWhpYVhJMFMxVktlSGxsU1dWc1NWRllWMXBTZURWaE0wUk5SRk01UVRnd2MxWk9RMUp2VVRsMWJrMVVWMXBMVURsU1UyZElkRWhtUlRsQmFtWjRVRFpyTkRKTmJVRlNlakZuYnpObVp4SVhVa0pyTm1GdllsRkVTVlJKY25WRlVEUk1ha000UVZVYUlrRkVjM0k1WmxSMk0yb3RWbFV5Um5SVU1TMXNhbGRMUTNNdFEwRTBSVEZvWm1jIiwiZmN2IjoiMyIsImVpIjoiUkJrNmFvYlFESVRJcnVFUDRMakM4QVUiLCJxYyI6IkNpTmhaMlVnY21WMGFYSmxiV1Z1ZENCallXeGpkV3hoZEc5eUlHSnZjbTRnTVRrMk1CQUFmU0RTZGo4IiwicXVlc3Rpb24iOiJIb3cgb2xkIGRvIEkgaGF2ZSB0byBiZSBmb3IgZnVsbCByZXRpcmVtZW50IGlmIEkgd2FzIGJvcm4gaW4gMTk2MD8iLCJsayI6ImN3M0t3UTJBSUF4QTBUMDhfUkgwWXVMUlVTQ1UwQVRicEtLc3ItXzhsclA1eEh1aE9FcExyekNjTEZRUDZ0TTdJVU5ETHJHQjF2X01kSk05RERXMlkxOF8iLCJicyI6ImM1V1FNV19DTUJTRWxkVVRjNmFiS3NhMkFxUk9DR2lsZG1CaVlNVWtMOG1URWpfSmRtcnhFeGo2bnh0SXBWcEdsY3I2M3QxM3AxUG5USzNmSlVEYUVxWGdBNDMtSkhqQmtWQ0pSZFczTFN4NXR0U1I4ZUJxMEFUdGNCUnJ3QVpQTDR2SDVmTW1YeldfRlA0SGhXOG82cUJtLTBZUFh3ZmZVS3pYOWNoeDBwRVlTc0tuLVVOOFFQaUJkS2VFb2I0eTlScEg3S1JnM1dKSFJXX1pwX0pMelpQMENHVFR5TGQ4RXlLT0d6bnVUbzRTTlZfNXNlOUZWMmd6ckZ1VHg1WktMclNsdl9aZTVET2RHUGxxN0NMajdjU1Q3QnMiLCJpZCI6ImZjX1JCazZhb2JRRElUSXJ1RVA0TGpDOEFVXzUifQ%3D%3D"
+    },
+    {
+      "question": "What is the retirement age for someone born in 1960?",
+      "type": "ai_overview",
+      "page_token": "d4w3aHicHdBRboIwGADg7DI-zlaERROzxNGiLnRpoX-Fl4WVKUIL3WCivu0uO9VOs2TfEb7vH3Nqm9-7czUMrl9Op-M43h-77mje73Vnp0V_bfVUF8a8FbpZBg8BfjzoFfnarp8-tmsunYNQoDSE5_fW-LFySSn9IQ9jlM3wKJVrSrWYayywMO45Vz6OFSBodr2-sRokbTJJd_yEvCRiRBlTp6rME4RDDibQiPlxS42yrs9uZABaZbqFcI_8y5vazlPPnAsKSMpF87JhL3mEUWyHJG0p5KTcZi1BgI0rZmyjLXhFW83EnhpuaSwkBKVyaR5V10Q6wmsWpM0C5SFbk6pMuO1nmVqcpBQ7IOZaSuCMXD74rVqD6E5cipuujZVXLFlEkdizQkXVmNRlnVvsqwjOygpV2MzjfHLQ55U3-f9cvR7ssHSf3fEP2veCDg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=d4w3aHicHdBRboIwGADg7DI-zlaERROzxNGiLnRpoX-Fl4WVKUIL3WCivu0uO9VOs2TfEb7vH3Nqm9-7czUMrl9Op-M43h-77mje73Vnp0V_bfVUF8a8FbpZBg8BfjzoFfnarp8-tmsunYNQoDSE5_fW-LFySSn9IQ9jlM3wKJVrSrWYayywMO45Vz6OFSBodr2-sRokbTJJd_yEvCRiRBlTp6rME4RDDibQiPlxS42yrs9uZABaZbqFcI_8y5vazlPPnAsKSMpF87JhL3mEUWyHJG0p5KTcZi1BgI0rZmyjLXhFW83EnhpuaSwkBKVyaR5V10Q6wmsWpM0C5SFbk6pMuO1nmVqcpBQ7IOZaSuCMXD74rVqD6E5cipuujZVXLFlEkdizQkXVmNRlnVvsqwjOygpV2MzjfHLQ55U3-f9cvR7ssHSf3fEP2veCDg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YzTmhaVjlxUVVwNWFUVnZZbWhpYVhJMFMxVktlSGxsU1dWc1NWRllWMXBTZURWaE0wUk5SRk01UVRnd2MxWk9RMUp2VVRsMWJrMVVWMXBMVURsU1UyZElkRWhtUlRsQmFtWjRVRFpyTkRKTmJVRlNlakZuYnpObVp4SVhVa0pyTm1GdllsRkVTVlJKY25WRlVEUk1ha000UVZVYUlrRkVjM0k1WmxSMk0yb3RWbFV5Um5SVU1TMXNhbGRMUTNNdFEwRTBSVEZvWm1jIiwiZmN2IjoiMyIsImVpIjoiUkJrNmFvYlFESVRJcnVFUDRMakM4QVUiLCJxYyI6IkNpTmhaMlVnY21WMGFYSmxiV1Z1ZENCallXeGpkV3hoZEc5eUlHSnZjbTRnTVRrMk1CQUFmU0RTZGo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSByZXRpcmVtZW50IGFnZSBmb3Igc29tZW9uZSBib3JuIGluIDE5NjA/IiwibGsiOiJHaVppYjNKdUlHbHVJREU1TmpBZ2QyaGhkQ0JwY3lCdGVTQnlaWFJwY21WdFpXNTBJR0ZuWlEiLCJicyI6ImM1V1FNV19DTUJTRWxkVVRjNmFiS3NhMkFxUk9DR2lsZG1CaVlNVWtMOG1URWpfSmRtcnhFeGo2bnh0SXBWcEdsY3I2M3QxM3AxUG5USzNmSlVEYUVxWGdBNDMtSkhqQmtWQ0pSZFczTFN4NXR0U1I4ZUJxMEFUdGNCUnJ3QVpQTDR2SDVmTW1YeldfRlA0SGhXOG82cUJtLTBZUFh3ZmZVS3pYOWNoeDBwRVlTc0tuLVVOOFFQaUJkS2VFb2I0eTlScEg3S1JnM1dKSFJXX1pwX0pMelpQMENHVFR5TGQ4RXlLT0d6bnVUbzRTTlZfNXNlOUZWMmd6ckZ1VHg1WktMclNsdl9aZTVET2RHUGxxN0NMajdjU1Q3QnMiLCJpZCI6ImZjX1JCazZhb2JRRElUSXJ1RVA0TGpDOEFVXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YzTmhaVjlxUVVwNWFUVnZZbWhpYVhJMFMxVktlSGxsU1dWc1NWRllWMXBTZURWaE0wUk5SRk01UVRnd2MxWk9RMUp2VVRsMWJrMVVWMXBMVURsU1UyZElkRWhtUlRsQmFtWjRVRFpyTkRKTmJVRlNlakZuYnpObVp4SVhVa0pyTm1GdllsRkVTVlJKY25WRlVEUk1ha000UVZVYUlrRkVjM0k1WmxSMk0yb3RWbFV5Um5SVU1TMXNhbGRMUTNNdFEwRTBSVEZvWm1jIiwiZmN2IjoiMyIsImVpIjoiUkJrNmFvYlFESVRJcnVFUDRMakM4QVUiLCJxYyI6IkNpTmhaMlVnY21WMGFYSmxiV1Z1ZENCallXeGpkV3hoZEc5eUlHSnZjbTRnTVRrMk1CQUFmU0RTZGo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSByZXRpcmVtZW50IGFnZSBmb3Igc29tZW9uZSBib3JuIGluIDE5NjA%2FIiwibGsiOiJHaVppYjNKdUlHbHVJREU1TmpBZ2QyaGhkQ0JwY3lCdGVTQnlaWFJwY21WdFpXNTBJR0ZuWlEiLCJicyI6ImM1V1FNV19DTUJTRWxkVVRjNmFiS3NhMkFxUk9DR2lsZG1CaVlNVWtMOG1URWpfSmRtcnhFeGo2bnh0SXBWcEdsY3I2M3QxM3AxUG5USzNmSlVEYUVxWGdBNDMtSkhqQmtWQ0pSZFczTFN4NXR0U1I4ZUJxMEFUdGNCUnJ3QVpQTDR2SDVmTW1YeldfRlA0SGhXOG82cUJtLTBZUFh3ZmZVS3pYOWNoeDBwRVlTc0tuLVVOOFFQaUJkS2VFb2I0eTlScEg3S1JnM1dKSFJXX1pwX0pMelpQMENHVFR5TGQ4RXlLT0d6bnVUbzRTTlZfNXNlOUZWMmd6ckZ1VHg1WktMclNsdl9aZTVET2RHUGxxN0NMajdjU1Q3QnMiLCJpZCI6ImZjX1JCazZhb2JRRElUSXJ1RVA0TGpDOEFVXzUifQ%3D%3D"
+    },
+    {
+      "question": "What is the Social Security retirement age if you were born in 1960?",
+      "type": "ai_overview",
+      "page_token": "A31_UXicHdBdUqswGIDhcTNe2pD61850HCkBi4VK4EswNw4kpRSSBi1HaO_OXlyVq9FxA-888_7_0vtD-33xWfd9d5xPJsMwXO2s3entlbRmUhxPBzmRhdZlIdv57d2t81DJBfm3cpfvKzeBrmMeRSm-72PNnorU6QAJEmF9nZ_FUiGVl5yiEsi48VWr9MxETFURH03K6YY2ocfO4ZoFys9IDIrcRLxlXZlbLDCtisZtKJoR5on8tXFHQD6Snl4B7gVD2pS4DksntEBWTnxyoIR4pG0nMsyCNHOX_PB4UjCiLfhWgLqOYDZsyLjmsOtV67-A55o0qPUW6oEunadySkUaqCmpVZqYI37lsz0ADRnRvx2WxGR8T861y6jdJ0DPstEGuBMzotJfC2PBPWZZ_FJM3bXMxSFrwmduaquGy0p-LqaXfz8Xb5Xp592H3f0ARdaCjA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=A31_UXicHdBdUqswGIDhcTNe2pD61850HCkBi4VK4EswNw4kpRSSBi1HaO_OXlyVq9FxA-888_7_0vtD-33xWfd9d5xPJsMwXO2s3entlbRmUhxPBzmRhdZlIdv57d2t81DJBfm3cpfvKzeBrmMeRSm-72PNnorU6QAJEmF9nZ_FUiGVl5yiEsi48VWr9MxETFURH03K6YY2ocfO4ZoFys9IDIrcRLxlXZlbLDCtisZtKJoR5on8tXFHQD6Snl4B7gVD2pS4DksntEBWTnxyoIR4pG0nMsyCNHOX_PB4UjCiLfhWgLqOYDZsyLjmsOtV67-A55o0qPUW6oEunadySkUaqCmpVZqYI37lsz0ADRnRvx2WxGR8T861y6jdJ0DPstEGuBMzotJfC2PBPWZZ_FJM3bXMxSFrwmduaquGy0p-LqaXfz8Xb5Xp592H3f0ARdaCjA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YzTmhaVjlxUVVwNWFUVnZZbWhpYVhJMFMxVktlSGxsU1dWc1NWRllWMXBTZURWaE0wUk5SRk01UVRnd2MxWk9RMUp2VVRsMWJrMVVWMXBMVURsU1UyZElkRWhtUlRsQmFtWjRVRFpyTkRKTmJVRlNlakZuYnpObVp4SVhVa0pyTm1GdllsRkVTVlJKY25WRlVEUk1ha000UVZVYUlrRkVjM0k1WmxSMk0yb3RWbFV5Um5SVU1TMXNhbGRMUTNNdFEwRTBSVEZvWm1jIiwiZmN2IjoiMyIsImVpIjoiUkJrNmFvYlFESVRJcnVFUDRMakM4QVUiLCJxYyI6IkNpTmhaMlVnY21WMGFYSmxiV1Z1ZENCallXeGpkV3hoZEc5eUlHSnZjbTRnTVRrMk1CQUFmU0RTZGo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBTb2NpYWwgU2VjdXJpdHkgcmV0aXJlbWVudCBhZ2UgaWYgeW91IHdlcmUgYm9ybiBpbiAxOTYwPyIsImxrIjoiY3dYQlFRcUFNQXdFd0g5NDJpZm9SZkRzUzJKWmJVQWJTRkpLZi1fTWNvNHFDUTFrSmNLS3lvdGc2YTQ1NFV4MWZtd0plUWk5TWExajBJbkx2RUVidG1OZmZ3IiwiYnMiOiJjNVdRTVdfQ01CU0VsZFVUYzZhYktzYTJBcVJPQ0dpbGRtQmlZTVVrTDhtVEVqX0pkbXJ4RXhqNm54dElwVnBHbGNyNjN0MTNwMVBuVEszZkpVRGFFcVhnQTQzLUpIakJrVkNKUmRXM0xTeDV0dFNSOGVCcTBBVHRjQlJyd0FaUEw0dkg1Zk1tWHpXX0ZQNEhoVzhvNnFCbS0wWVBYd2ZmVUt6WDljaHgwcEVZU3NLbi1VTjhRUGlCZEtlRW9iNHk5UnBIN0tSZzNXSkhSV19acF9KTHpaUDBDR1RUeUxkOEV5S09Hem51VG80U05WXzVzZTlGVjJnenJGdVR4NVpLTHJTbHZfWmU1RE9kR1BscTdDTGo3Y1NUN0JzIiwiaWQiOiJmY19SQms2YW9iUURJVElydUVQNExqQzhBVV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YzTmhaVjlxUVVwNWFUVnZZbWhpYVhJMFMxVktlSGxsU1dWc1NWRllWMXBTZURWaE0wUk5SRk01UVRnd2MxWk9RMUp2VVRsMWJrMVVWMXBMVURsU1UyZElkRWhtUlRsQmFtWjRVRFpyTkRKTmJVRlNlakZuYnpObVp4SVhVa0pyTm1GdllsRkVTVlJKY25WRlVEUk1ha000UVZVYUlrRkVjM0k1WmxSMk0yb3RWbFV5Um5SVU1TMXNhbGRMUTNNdFEwRTBSVEZvWm1jIiwiZmN2IjoiMyIsImVpIjoiUkJrNmFvYlFESVRJcnVFUDRMakM4QVUiLCJxYyI6IkNpTmhaMlVnY21WMGFYSmxiV1Z1ZENCallXeGpkV3hoZEc5eUlHSnZjbTRnTVRrMk1CQUFmU0RTZGo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBTb2NpYWwgU2VjdXJpdHkgcmV0aXJlbWVudCBhZ2UgaWYgeW91IHdlcmUgYm9ybiBpbiAxOTYwPyIsImxrIjoiY3dYQlFRcUFNQXdFd0g5NDJpZm9SZkRzUzJKWmJVQWJTRkpLZi1fTWNvNHFDUTFrSmNLS3lvdGc2YTQ1NFV4MWZtd0plUWk5TWExajBJbkx2RUVidG1OZmZ3IiwiYnMiOiJjNVdRTVdfQ01CU0VsZFVUYzZhYktzYTJBcVJPQ0dpbGRtQmlZTVVrTDhtVEVqX0pkbXJ4RXhqNm54dElwVnBHbGNyNjN0MTNwMVBuVEszZkpVRGFFcVhnQTQzLUpIakJrVkNKUmRXM0xTeDV0dFNSOGVCcTBBVHRjQlJyd0FaUEw0dkg1Zk1tWHpXX0ZQNEhoVzhvNnFCbS0wWVBYd2ZmVUt6WDljaHgwcEVZU3NLbi1VTjhRUGlCZEtlRW9iNHk5UnBIN0tSZzNXSkhSV19acF9KTHpaUDBDR1RUeUxkOEV5S09Hem51VG80U05WXzVzZTlGVjJnenJGdVR4NVpLTHJTbHZfWmU1RE9kR1BscTdDTGo3Y1NUN0JzIiwiaWQiOiJmY19SQms2YW9iUURJVElydUVQNExqQzhBVV81In0%3D"
+    },
+    {
+      "question": "At what age can I get Medicare if I was born in 1960?",
+      "type": "ai_overview",
+      "page_token": "-_EodnicHdBdToMwAADgeBkfHbAxsyWLCVKGuFXb0dL2xXTtNn5aYI7I4M0reAZP5Wk0HuH7Pr9NUVc_N19517WX5WTS9_3dqWlO5nCnGjuRl6FWEyWN2UtVLef3c_fhqFbgQwWP7ypApG1piJ3d4GZ01EfuwUE6mMEI2x3gM-jhURls0gi6aeF2LzFmgiRW1xCRUWABtqMoYUsZnXEH-aIOShUaB4c50qlpsPc05bV5Fl4-wDA5H8LTqOookg5wxLp9zWrVpanwMqKpJG3MmY51mfecQblfo9lu3VlRLbBkfKDedSvAdfMC_ISWkdmuMU3HfMNpMNfZIlHTxifAjbM0n4nMFDCKBI51tq-iELOW7J3uecsCAXK9Q_bi8WxREIITCsygCUUQXM9ozAOKmwKRP3dpLI0pP9hrmJLkLAzxpatjZJG7YXRArpa08qnob4_qYzW9_b9evR1tt2zfm9MvoRyNiA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-_EodnicHdBdToMwAADgeBkfHbAxsyWLCVKGuFXb0dL2xXTtNn5aYI7I4M0reAZP5Wk0HuH7Pr9NUVc_N19517WX5WTS9_3dqWlO5nCnGjuRl6FWEyWN2UtVLef3c_fhqFbgQwWP7ypApG1piJ3d4GZ01EfuwUE6mMEI2x3gM-jhURls0gi6aeF2LzFmgiRW1xCRUWABtqMoYUsZnXEH-aIOShUaB4c50qlpsPc05bV5Fl4-wDA5H8LTqOookg5wxLp9zWrVpanwMqKpJG3MmY51mfecQblfo9lu3VlRLbBkfKDedSvAdfMC_ISWkdmuMU3HfMNpMNfZIlHTxifAjbM0n4nMFDCKBI51tq-iELOW7J3uecsCAXK9Q_bi8WxREIITCsygCUUQXM9ozAOKmwKRP3dpLI0pP9hrmJLkLAzxpatjZJG7YXRArpa08qnob4_qYzW9_b9evR1tt2zfm9MvoRyNiA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YzTmhaVjlxUVVwNWFUVnZZbWhpYVhJMFMxVktlSGxsU1dWc1NWRllWMXBTZURWaE0wUk5SRk01UVRnd2MxWk9RMUp2VVRsMWJrMVVWMXBMVURsU1UyZElkRWhtUlRsQmFtWjRVRFpyTkRKTmJVRlNlakZuYnpObVp4SVhVa0pyTm1GdllsRkVTVlJKY25WRlVEUk1ha000UVZVYUlrRkVjM0k1WmxSMk0yb3RWbFV5Um5SVU1TMXNhbGRMUTNNdFEwRTBSVEZvWm1jIiwiZmN2IjoiMyIsImVpIjoiUkJrNmFvYlFESVRJcnVFUDRMakM4QVUiLCJxYyI6IkNpTmhaMlVnY21WMGFYSmxiV1Z1ZENCallXeGpkV3hoZEc5eUlHSnZjbTRnTVRrMk1CQUFmU0RTZGo4IiwicXVlc3Rpb24iOiJBdCB3aGF0IGFnZSBjYW4gSSBnZXQgTWVkaWNhcmUgaWYgSSB3YXMgYm9ybiBpbiAxOTYwPyIsImxrIjoiYzVNeVNTeFJLTThBRW9ucHFRckppWGtLbVFycHFTVUt1YWtwbWNtSlJha0ttV2xBa2ZMRVlvV2tfQ0tnWko2Q29hV1pBUUEiLCJicyI6ImM1V1FNV19DTUJTRWxkVVRjNmFiS3NhMkFxUk9DR2lsZG1CaVlNVWtMOG1URWpfSmRtcnhFeGo2bnh0SXBWcEdsY3I2M3QxM3AxUG5USzNmSlVEYUVxWGdBNDMtSkhqQmtWQ0pSZFczTFN4NXR0U1I4ZUJxMEFUdGNCUnJ3QVpQTDR2SDVmTW1YeldfRlA0SGhXOG82cUJtLTBZUFh3ZmZVS3pYOWNoeDBwRVlTc0tuLVVOOFFQaUJkS2VFb2I0eTlScEg3S1JnM1dKSFJXX1pwX0pMelpQMENHVFR5TGQ4RXlLT0d6bnVUbzRTTlZfNXNlOUZWMmd6ckZ1VHg1WktMclNsdl9aZTVET2RHUGxxN0NMajdjU1Q3QnMiLCJpZCI6ImZjX1JCazZhb2JRRElUSXJ1RVA0TGpDOEFVXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1YzTmhaVjlxUVVwNWFUVnZZbWhpYVhJMFMxVktlSGxsU1dWc1NWRllWMXBTZURWaE0wUk5SRk01UVRnd2MxWk9RMUp2VVRsMWJrMVVWMXBMVURsU1UyZElkRWhtUlRsQmFtWjRVRFpyTkRKTmJVRlNlakZuYnpObVp4SVhVa0pyTm1GdllsRkVTVlJKY25WRlVEUk1ha000UVZVYUlrRkVjM0k1WmxSMk0yb3RWbFV5Um5SVU1TMXNhbGRMUTNNdFEwRTBSVEZvWm1jIiwiZmN2IjoiMyIsImVpIjoiUkJrNmFvYlFESVRJcnVFUDRMakM4QVUiLCJxYyI6IkNpTmhaMlVnY21WMGFYSmxiV1Z1ZENCallXeGpkV3hoZEc5eUlHSnZjbTRnTVRrMk1CQUFmU0RTZGo4IiwicXVlc3Rpb24iOiJBdCB3aGF0IGFnZSBjYW4gSSBnZXQgTWVkaWNhcmUgaWYgSSB3YXMgYm9ybiBpbiAxOTYwPyIsImxrIjoiYzVNeVNTeFJLTThBRW9ucHFRckppWGtLbVFycHFTVUt1YWtwbWNtSlJha0ttV2xBa2ZMRVlvV2tfQ0tnWko2Q29hV1pBUUEiLCJicyI6ImM1V1FNV19DTUJTRWxkVVRjNmFiS3NhMkFxUk9DR2lsZG1CaVlNVWtMOG1URWpfSmRtcnhFeGo2bnh0SXBWcEdsY3I2M3QxM3AxUG5USzNmSlVEYUVxWGdBNDMtSkhqQmtWQ0pSZFczTFN4NXR0U1I4ZUJxMEFUdGNCUnJ3QVpQTDR2SDVmTW1YeldfRlA0SGhXOG82cUJtLTBZUFh3ZmZVS3pYOWNoeDBwRVlTc0tuLVVOOFFQaUJkS2VFb2I0eTlScEg3S1JnM1dKSFJXX1pwX0pMelpQMENHVFR5TGQ4RXlLT0d6bnVUbzRTTlZfNXNlOUZWMmd6ckZ1VHg1WktMclNsdl9aZTVET2RHUGxxN0NMajdjU1Q3QnMiLCJpZCI6ImZjX1JCazZhb2JRRElUSXJ1RVA0TGpDOEFVXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "jQl60HicxZXdcuo2EIDv-x71TQK2w08gM54zsi3AQEgcIARuGP8hDLYFlsEmd32XPlVfoy9Q-Q_MAZLpmelUDJa0Xq12pf28f_zp2N76r9_-XgbBhjyxbBiGZYQxcqyygV1WIwfPYBfYIb6x_EHwzjcs2xSMpY9diznshQpjEIFjLFt4E9d1DeuqrIwUfwdfq_2V1ABjJjEhzHWNWCu6Q7Qi7Jylj_XvFZlOyqRseWVpWdWjd9yLonH5geOb5RdWc6kC-A8bBG9Jr9KfQnvlQiPeHn1jRVXihcOCRCo88_acGlKUpJNuGpUyL6RprCKXZn5VBLKayDpfeDE8n07iBwQhAGLsIlSvrbnmRC7DWS_e3BFeihJlMdtLLpq_Fa9YvGA1tjlqAOl0EXnIIsgjoCqIjsXUYg2I1ddQaktfXBN9s0EduCypV50utFYPbsJs3J-2qUesiWgScqzu045nbWNpJAOfxLkpjZocbr365izqyH5t-HEgPuQ6u2d7Fu284FllDZ3qOVgzLXO-nHM_kjn_wNe4ZuWxcZ9AYZAjFaRIxaz-7IBKd1FpgXK_LPIFJJLDSFMpDylOt9bV8CDoZWdYaDQDU-XkrNVudjb5KY9zNRHndGSC1TrOqulR0IivYnm55zUk8oaKA4pE4okyPq4sqsdDRTy5mjX55_s-zbMYpqCnHkOGBY_Tg4DF-To2rrRzQXh8FVtFDkgQp0jAzODL2XpUdIweligBmL8-ehDryOujGkw8jF9PVXUKlBZFVITpxyFZBzNrUDk_O7A6m7VQ_JfQVcC_a-Lpwm81CPLc_ymViwi09_Vpf1HqfvCbkvnxIlUQ1icvj3632QTXUx67-r-oBMb_C8U4qxPjjITeVSjQN1CoCvyyTqQJfKoTca5I-BYUUgbFeZ1IE_dUJy6hGJ5DcbtOFKBIrXwNhXgTivSzcglFXCcuoEA3oEjrRBGK8zrhHS3HERSg-KU6of5CnUgYsdLuvGjsVuh28Zj4S8379KoDB_KbDRh-bkfdRWfS6Uno2-KxcIMnVzOd-7ltPokP3eBg3s-pAD9ZJrMVNGTd-VZg-5ZrecGdoTnGztEC7N_p2Pfu-GadY1zHxwKn1Ut9LtxORtz0c80P90TmNrMtcZ1tc-iQ1X78vjCjQWP-8dpd1WvKxGyGa2vnjXobjnvoDyJ5x-PnT70_3H6sPFDTHbdvh7UOkINoEr3pddytiKRHqnDgvRvbkr10-wO_Pes60Izsg7gXJ7DXfOgpb0O7bQZ2R038IsLh3WzMu42-iBFD4yKWwDOubwiUhCoCAxVMEDAoAkCl5KoSpv-QJgBDDG1ukb2g6_qjWeethlnR9cqjxbgoOGyEKs8Qzxf4fwCDmiBg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jQl60HicxZXdcuo2EIDv-x71TQK2w08gM54zsi3AQEgcIARuGP8hDLYFlsEmd32XPlVfoy9Q-Q_MAZLpmelUDJa0Xq12pf28f_zp2N76r9_-XgbBhjyxbBiGZYQxcqyygV1WIwfPYBfYIb6x_EHwzjcs2xSMpY9diznshQpjEIFjLFt4E9d1DeuqrIwUfwdfq_2V1ABjJjEhzHWNWCu6Q7Qi7Jylj_XvFZlOyqRseWVpWdWjd9yLonH5geOb5RdWc6kC-A8bBG9Jr9KfQnvlQiPeHn1jRVXihcOCRCo88_acGlKUpJNuGpUyL6RprCKXZn5VBLKayDpfeDE8n07iBwQhAGLsIlSvrbnmRC7DWS_e3BFeihJlMdtLLpq_Fa9YvGA1tjlqAOl0EXnIIsgjoCqIjsXUYg2I1ddQaktfXBN9s0EduCypV50utFYPbsJs3J-2qUesiWgScqzu045nbWNpJAOfxLkpjZocbr365izqyH5t-HEgPuQ6u2d7Fu284FllDZ3qOVgzLXO-nHM_kjn_wNe4ZuWxcZ9AYZAjFaRIxaz-7IBKd1FpgXK_LPIFJJLDSFMpDylOt9bV8CDoZWdYaDQDU-XkrNVudjb5KY9zNRHndGSC1TrOqulR0IivYnm55zUk8oaKA4pE4okyPq4sqsdDRTy5mjX55_s-zbMYpqCnHkOGBY_Tg4DF-To2rrRzQXh8FVtFDkgQp0jAzODL2XpUdIweligBmL8-ehDryOujGkw8jF9PVXUKlBZFVITpxyFZBzNrUDk_O7A6m7VQ_JfQVcC_a-Lpwm81CPLc_ymViwi09_Vpf1HqfvCbkvnxIlUQ1icvj3632QTXUx67-r-oBMb_C8U4qxPjjITeVSjQN1CoCvyyTqQJfKoTca5I-BYUUgbFeZ1IE_dUJy6hGJ5DcbtOFKBIrXwNhXgTivSzcglFXCcuoEA3oEjrRBGK8zrhHS3HERSg-KU6of5CnUgYsdLuvGjsVuh28Zj4S8379KoDB_KbDRh-bkfdRWfS6Uno2-KxcIMnVzOd-7ltPokP3eBg3s-pAD9ZJrMVNGTd-VZg-5ZrecGdoTnGztEC7N_p2Pfu-GadY1zHxwKn1Ut9LtxORtz0c80P90TmNrMtcZ1tc-iQ1X78vjCjQWP-8dpd1WvKxGyGa2vnjXobjnvoDyJ5x-PnT70_3H6sPFDTHbdvh7UOkINoEr3pddytiKRHqnDgvRvbkr10-wO_Pes60Izsg7gXJ7DXfOgpb0O7bQZ2R038IsLh3WzMu42-iBFD4yKWwDOubwiUhCoCAxVMEDAoAkCl5KoSpv-QJgBDDG1ukb2g6_qjWeethlnR9cqjxbgoOGyEKs8Qzxf4fwCDmiBg"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Benefits Planner: Retirement | Retirement Age Calculator",
+      "link": "https://www.ssa.gov/benefits/retirement/planner/ageincrease.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ssa.gov/benefits/retirement/planner/ageincrease.html&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4QFnoECCEQAQ",
+      "displayed_link": "https://www.ssa.gov › retirement › planner › ageincrease",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAt1BMVEUAKlwAJVkAJ1oAJloAIVgADE9NXn5EVnkAAE0AHFUAHlZVZYQwRm4hO2Y9UHXi5eqSm62jqrny9PZxfZWJkqa4vcjY3OI5TXP___8AAEtlc44TMmEAGFQAAEkACU8AE1KwtsNebIkAKl3p7PAAFlPDydNJW3x6hZycpLTQ1NwAAEcLL2AAAD8AKl5OKFJ5JkiSJEKaJD6IJUVvJktiJ0yqIzm-ITHVHybfHyLJICwiKVm3IjQrKVhlSfUiAAABRklEQVR4AWIYZgDAA1UYOAzDQDmxwky9oMP03_3HK7e2mCUhPlz7GPSfS7JhWhaR7biexS-Lr33TgjCKw4TtNMzyouCH5YLy47SSitlFWUM2bRx2RKrHIF8-TUfKYzupCrWtyamjcV6ShT-ZQGrxKjxMRqkMQc62xbDfXWUFYO80FQHT1hLxoTxk9nvsRt8TTI1UXg8sneYv9RiG5ctneqI5Y2yuJpR1wFNx3vc5Ls_dnaxnohNZnjokA5htcTZziV49nSl81cz4i5Oy4QH_VX4StTlaQSTTcIqjorLiY9r3wt-BvLGjBJP79HaWuSpJNs9G0AnbshoipytZfO4sxuvjjUK_1y4WBwADIRCkFt6Rc7T_tuL-z-Cy8AVhGEOMMeUB1heEByWElEKsjZilLi-K68-h7E-0BCNeIAvZ4cMuUcC1_MYMvrsjnedaqocAAAAASUVORK5CYII.png",
+      "snippet": "The retirement age gradually increases by a few months for every birth year, until it reaches 67 for people born in 1960 and later. Related Information.",
+      "snippet_highlighted_words": [
+        "67 for people born in 1960"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The retirement age gradually increases by a few months for every birth year, until it reaches 67 for people born in 1960 and later. Related Information.",
+          "source_info_link": "https://www.ssa.gov/benefits/retirement/planner/ageincrease.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAt1BMVEUAKlwAJVkAJ1oAJloAIVgADE9NXn5EVnkAAE0AHFUAHlZVZYQwRm4hO2Y9UHXi5eqSm62jqrny9PZxfZWJkqa4vcjY3OI5TXP___8AAEtlc44TMmEAGFQAAEkACU8AE1KwtsNebIkAKl3p7PAAFlPDydNJW3x6hZycpLTQ1NwAAEcLL2AAAD8AKl5OKFJ5JkiSJEKaJD6IJUVvJktiJ0yqIzm-ITHVHybfHyLJICwiKVm3IjQrKVhlSfUiAAABRklEQVR4AWIYZgDAA1UYOAzDQDmxwky9oMP03_3HK7e2mCUhPlz7GPSfS7JhWhaR7biexS-Lr33TgjCKw4TtNMzyouCH5YLy47SSitlFWUM2bRx2RKrHIF8-TUfKYzupCrWtyamjcV6ShT-ZQGrxKjxMRqkMQc62xbDfXWUFYO80FQHT1hLxoTxk9nvsRt8TTI1UXg8sneYv9RiG5ctneqI5Y2yuJpR1wFNx3vc5Ls_dnaxnohNZnjokA5htcTZziV49nSl81cz4i5Oy4QH_VX4StTlaQSTTcIqjorLiY9r3wt-BvLGjBJP79HaWuSpJNs9G0AnbshoipytZfO4sxuvjjUK_1y4WBwADIRCkFt6Rc7T_tuL-z-Cy8AVhGEOMMeUB1heEByWElEKsjZilLi-K68-h7E-0BCNeIAvZ4cMuUcC1_MYMvrsjnedaqocAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ssa.gov/benefits/retirement/planner/ageincrease.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ssa.gov%2Fbenefits%2Fretirement%2Fplanner%2Fageincrease.html",
+      "source": "Social Security Administration (.gov)",
+      "read_more_link": "https://www.ssa.gov/benefits/retirement/planner/ageincrease.html#:~:text=The%20retirement%20age%20gradually%20increases,Related%20Information"
+    },
+    {
+      "position": 2,
+      "title": "Benefits Planner: Retirement | Born in 1960 or later",
+      "link": "https://www.ssa.gov/benefits/retirement/planner/1960.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ssa.gov/benefits/retirement/planner/1960.html&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4QFnoECCUQAQ",
+      "displayed_link": "https://www.ssa.gov › benefits › planner › 1960",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAt1BMVEUAKlwAJVkAJ1oAJloAIVgADE9NXn5EVnkAAE0AHFUAHlZVZYQwRm4hO2Y9UHXi5eqSm62jqrny9PZxfZWJkqa4vcjY3OI5TXP___8AAEtlc44TMmEAGFQAAEkACU8AE1KwtsNebIkAKl3p7PAAFlPDydNJW3x6hZycpLTQ1NwAAEcLL2AAAD8AKl5OKFJ5JkiSJEKaJD6IJUVvJktiJ0yqIzm-ITHVHybfHyLJICwiKVm3IjQrKVhlSfUiAAABRklEQVR4AWIYZgDAA1UYOAzDQDmxwky9oMP03_3HK7e2mCUhPlz7GPSfS7JhWhaR7biexS-Lr33TgjCKw4TtNMzyouCH5YLy47SSitlFWUM2bRx2RKrHIF8-TUfKYzupCrWtyamjcV6ShT-ZQGrxKjxMRqkMQc62xbDfXWUFYO80FQHT1hLxoTxk9nvsRt8TTI1UXg8sneYv9RiG5ctneqI5Y2yuJpR1wFNx3vc5Ls_dnaxnohNZnjokA5htcTZziV49nSl81cz4i5Oy4QH_VX4StTlaQSTTcIqjorLiY9r3wt-BvLGjBJP79HaWuSpJNs9G0AnbshoipytZfO4sxuvjjUK_1y4WBwADIRCkFt6Rc7T_tuL-z-Cy8AVhGEOMMeUB1heEByWElEKsjZilLi-K68-h7E-0BCNeIAvZ4cMuUcC1_MYMvrsjnedaqocAAAAASUVORK5CYII.png",
+      "snippet": "If you were born in 1960 your full retirement age is 67. Find out how your Social Security benefits will be affected based on when you begin receiving ...",
+      "snippet_highlighted_words": [
+        "born",
+        "1960",
+        "retirement age"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you were born in 1960 your full retirement age is 67. Find out how your Social Security benefits will be affected based on when you begin receiving ...",
+          "source_info_link": "https://www.ssa.gov/benefits/retirement/planner/1960.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAt1BMVEUAKlwAJVkAJ1oAJloAIVgADE9NXn5EVnkAAE0AHFUAHlZVZYQwRm4hO2Y9UHXi5eqSm62jqrny9PZxfZWJkqa4vcjY3OI5TXP___8AAEtlc44TMmEAGFQAAEkACU8AE1KwtsNebIkAKl3p7PAAFlPDydNJW3x6hZycpLTQ1NwAAEcLL2AAAD8AKl5OKFJ5JkiSJEKaJD6IJUVvJktiJ0yqIzm-ITHVHybfHyLJICwiKVm3IjQrKVhlSfUiAAABRklEQVR4AWIYZgDAA1UYOAzDQDmxwky9oMP03_3HK7e2mCUhPlz7GPSfS7JhWhaR7biexS-Lr33TgjCKw4TtNMzyouCH5YLy47SSitlFWUM2bRx2RKrHIF8-TUfKYzupCrWtyamjcV6ShT-ZQGrxKjxMRqkMQc62xbDfXWUFYO80FQHT1hLxoTxk9nvsRt8TTI1UXg8sneYv9RiG5ctneqI5Y2yuJpR1wFNx3vc5Ls_dnaxnohNZnjokA5htcTZziV49nSl81cz4i5Oy4QH_VX4StTlaQSTTcIqjorLiY9r3wt-BvLGjBJP79HaWuSpJNs9G0AnbshoipytZfO4sxuvjjUK_1y4WBwADIRCkFt6Rc7T_tuL-z-Cy8AVhGEOMMeUB1heEByWElEKsjZilLi-K68-h7E-0BCNeIAvZ4cMuUcC1_MYMvrsjnedaqocAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ssa.gov/benefits/retirement/planner/1960.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ssa.gov%2Fbenefits%2Fretirement%2Fplanner%2F1960.html",
+      "source": "Social Security Administration (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "Full Retirement Age Chart: When Can You Begin ...",
+      "link": "https://www.northwesternmutual.com/life-and-money/social-security-full-retirement-age-chart/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.northwesternmutual.com/life-and-money/social-security-full-retirement-age-chart/&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4QFnoECCwQAQ",
+      "displayed_link": "https://www.northwesternmutual.com › life-and-money",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAD1BMVEUARn0AOYL_xgD_wAD_uRWkby-OAAAAGUlEQVR4AWNkQAFDmSuIwmVUEkDhGg9dLgCeRgPVGXsA-QAAAABJRU5ErkJggg.png",
+      "date": "Dec 5, 2025",
+      "snippet": "If you were born in 1960 or later, your full retirement age is 67. But if you were born before 1960, your retirement age may be slightly lower:.",
+      "snippet_highlighted_words": [
+        "born",
+        "1960",
+        "retirement age",
+        "born",
+        "1960",
+        "retirement age"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you were born in 1960 or later, your full retirement age is 67. But if you were born before 1960, your retirement age may be slightly lower:.",
+          "source_info_link": "https://www.northwesternmutual.com/life-and-money/social-security-full-retirement-age-chart/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAD1BMVEUARn0AOYL_xgD_wAD_uRWkby-OAAAAGUlEQVR4AWNkQAFDmSuIwmVUEkDhGg9dLgCeRgPVGXsA-QAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.northwesternmutual.com/life-and-money/social-security-full-retirement-age-chart/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.northwesternmutual.com%2Flife-and-money%2Fsocial-security-full-retirement-age-chart%2F",
+      "source": "Northwestern Mutual",
+      "read_more_link": "https://www.northwesternmutual.com/life-and-money/social-security-full-retirement-age-chart/#:~:text=If%20you%20were%20born%20in,age%20may%20be%20slightly%20lower%3A"
+    },
+    {
+      "position": 4,
+      "title": "Social Security Calculator: Estimate Your Benefits",
+      "link": "https://www.aarp.org/social-security/benefits-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aarp.org/social-security/benefits-calculator/&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4QFnoECCoQAQ",
+      "displayed_link": "https://www.aarp.org › social-security › benefits-calcula...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzsEgDsEwDsEwDsEwDsEwDsEwDsEwDsEwDsEgDsEwDrEQDsEwDsEwDsEgDsEwB8CywxAAAAD3RSTlMAH6nVg0Zvv1c26QT3XBJ9f8TqAAAAm0lEQVQokc2RRxbDIAxEKaK3-982imSKn5V1PBse-jAagVLvVtEkGcIgRRFWhkFiblwqAgwTeiEOli1B-2Qey41v9wfNWFXx5rtyJ85588VjHM5g0fEyBj-Ep8EgOvKrNXMkWOcF5WtyK9L5wBoCBq3WQHPJeZO375yy69Qc50_Yqx6sH15mALZKG1JjswdeG-r7VTk3P778n_oAl00LGTPbaZAAAAAASUVORK5CYII.png",
+      "snippet": "This calculator estimates your monthly Social Security retirement benefits based on your earnings history and the age when you start to claim benefits.",
+      "snippet_highlighted_words": [
+        "calculator",
+        "retirement",
+        "age"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator estimates your monthly Social Security retirement benefits based on your earnings history and the age when you start to claim benefits.",
+          "source_info_link": "https://www.aarp.org/social-security/benefits-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzsEgDsEwDsEwDsEwDsEwDsEwDsEwDsEwDsEgDsEwDrEQDsEwDsEwDsEgDsEwB8CywxAAAAD3RSTlMAH6nVg0Zvv1c26QT3XBJ9f8TqAAAAm0lEQVQokc2RRxbDIAxEKaK3-982imSKn5V1PBse-jAagVLvVtEkGcIgRRFWhkFiblwqAgwTeiEOli1B-2Qey41v9wfNWFXx5rtyJ85588VjHM5g0fEyBj-Ep8EgOvKrNXMkWOcF5WtyK9L5wBoCBq3WQHPJeZO375yy69Qc50_Yqx6sH15mALZKG1JjswdeG-r7VTk3P778n_oAl00LGTPbaZAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.aarp.org/social-security/benefits-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.aarp.org%2Fsocial-security%2Fbenefits-calculator%2F",
+      "source": "AARP"
+    },
+    {
+      "position": 5,
+      "title": "Use Social Security retirement calculators to estimate your ...",
+      "link": "https://www.usa.gov/social-security-calculators",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usa.gov/social-security-calculators&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4QFnoECCcQAQ",
+      "displayed_link": "https://www.usa.gov › ... › Social Security",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX____u-f7W8PvN7Pni9Pya2vRcvuI3m8IvhaosfKCE0vA4ockiW30PLE4VL1BKtt0RKEoWMlMZOFgXNFS95_cfRWUwaIgbPV1bxOssYIBMpMgAH0kAGkQPV3sofKEAO2AAI0thcobx8_Xh5Ojn6u1xf5Gzu8S_xMwALlHY3OBNYHcAF0SYoq4AJ0xYan8hVHWiq7YyaiTtAAABM0lEQVR4AVyShWLFIAxF64bDnru7_P_XLaQStlvvgXgUKE7SNInpm5TlRVnVdVUWefYPxQ3jQkiQELxs4pClimtjWzmjuUqJ_TCHCDWy1jj2M-xjekCyHjt4aNbtjZWzgybTGX45FSNsONnU8w4a3mAOJRk14ylCNJwBzGEjGR2g4TnAQvjXhddyta7XmyW8bY0VBYRTAjS7_SHU8XAyooyjpJKwc3uOQl1GVyurJEprgEBvhG73hfMZpz10bt-h_emBEQJEs7j12bLn64rfaBYDgp0TRGdXQSooH1BUIFxc0NlKTQdY9EUwb-9s-ZkWf4uQ-Z4s99FzC-EH5SuzrvDX72XywijGVPihZfet_4V0HLYMm021B0TNpjEh0ZiEA4aiARtGs6TRZE38OyISNd7sAAC_nSZpudEwewAAAABJRU5ErkJggg.png",
+      "date": "Jan 16, 2026",
+      "snippet": "Estimate your retirement benefits based on when you would begin receiving them (from age 62 to 70) · Calculate what payments you would receive ...",
+      "snippet_highlighted_words": [
+        "Estimate your retirement benefits based on when you would begin receiving them"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Estimate your retirement benefits based on when you would begin receiving them (from age 62 to 70) · Calculate what payments you would receive ...",
+          "source_info_link": "https://www.usa.gov/social-security-calculators",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX____u-f7W8PvN7Pni9Pya2vRcvuI3m8IvhaosfKCE0vA4ockiW30PLE4VL1BKtt0RKEoWMlMZOFgXNFS95_cfRWUwaIgbPV1bxOssYIBMpMgAH0kAGkQPV3sofKEAO2AAI0thcobx8_Xh5Ojn6u1xf5Gzu8S_xMwALlHY3OBNYHcAF0SYoq4AJ0xYan8hVHWiq7YyaiTtAAABM0lEQVR4AVyShWLFIAxF64bDnru7_P_XLaQStlvvgXgUKE7SNInpm5TlRVnVdVUWefYPxQ3jQkiQELxs4pClimtjWzmjuUqJ_TCHCDWy1jj2M-xjekCyHjt4aNbtjZWzgybTGX45FSNsONnU8w4a3mAOJRk14ylCNJwBzGEjGR2g4TnAQvjXhddyta7XmyW8bY0VBYRTAjS7_SHU8XAyooyjpJKwc3uOQl1GVyurJEprgEBvhG73hfMZpz10bt-h_emBEQJEs7j12bLn64rfaBYDgp0TRGdXQSooH1BUIFxc0NlKTQdY9EUwb-9s-ZkWf4uQ-Z4s99FzC-EH5SuzrvDX72XywijGVPihZfet_4V0HLYMm021B0TNpjEh0ZiEA4aiARtGs6TRZE38OyISNd7sAAC_nSZpudEwewAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.usa.gov/social-security-calculators&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.usa.gov%2Fsocial-security-calculators",
+      "source": "USA.gov",
+      "read_more_link": "https://www.usa.gov/social-security-calculators#:~:text=Estimate%20your%20retirement%20benefits%20based,(from%20age%2062%20to%2070)&text=Calculate%20what%20payments%20you%20would,based%20on%20your%20earning%20history"
+    },
+    {
+      "position": 6,
+      "title": "Planning your Social Security claiming age",
+      "link": "https://www.consumerfinance.gov/consumer-tools/retirement/before-you-claim/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.consumerfinance.gov/consumer-tools/retirement/before-you-claim/&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4QFnoECCsQAQ",
+      "displayed_link": "https://www.consumerfinance.gov › before-you-claim",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEX____s9-7N6dK64cDA5MbY7tyv3bdEuVwArTQMrjgWrz1zx4PT7Ngss0ooskcjsUS24b4ArC8dsEE4tlP2-_fJ6M77_vwfsUKO0Zqa1aVfwXIAqiZ9yovm9Og2tlHf8eJxx4Gr3LO2pF59AAAAuUlEQVR4AbWSRQKFMBBDcZgWd5f7HxKrf9dskAdtJ4n2f-mGaVr2TeS4HiCEAPAV9wMUBkSRh1UWJwQRpVkusSIJFEWZYCViL6uI3KCaw4bAKsV16x3rh1GnMxiGB0P9cT-MAODiZqBs8s4lWzqtNWiSzHNV8G-PT2D5PrQIvO3qBMqBCl2hkTxKdozSk1EkE9JqNwFOE6pOf27fQ-PJNGpkY67JMkIp7Plq5MX10FmT-ebAekEK9m9tTQ4QNB-l3FAAAAAASUVORK5CYII.png",
+      "date": "Jan 29, 2026",
+      "snippet": "Born after 1960? Age 67 is your full benefit claiming age. At this age, you receive your full Social Security benefit with no reductions.",
+      "snippet_highlighted_words": [
+        "Age 67 is your full benefit claiming age"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Born after 1960? Age 67 is your full benefit claiming age. At this age, you receive your full Social Security benefit with no reductions.",
+          "source_info_link": "https://www.consumerfinance.gov/consumer-tools/retirement/before-you-claim/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEX____s9-7N6dK64cDA5MbY7tyv3bdEuVwArTQMrjgWrz1zx4PT7Ngss0ooskcjsUS24b4ArC8dsEE4tlP2-_fJ6M77_vwfsUKO0Zqa1aVfwXIAqiZ9yovm9Og2tlHf8eJxx4Gr3LO2pF59AAAAuUlEQVR4AbWSRQKFMBBDcZgWd5f7HxKrf9dskAdtJ4n2f-mGaVr2TeS4HiCEAPAV9wMUBkSRh1UWJwQRpVkusSIJFEWZYCViL6uI3KCaw4bAKsV16x3rh1GnMxiGB0P9cT-MAODiZqBs8s4lWzqtNWiSzHNV8G-PT2D5PrQIvO3qBMqBCl2hkTxKdozSk1EkE9JqNwFOE6pOf27fQ-PJNGpkY67JMkIp7Plq5MX10FmT-ebAekEK9m9tTQ4QNB-l3FAAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.consumerfinance.gov/consumer-tools/retirement/before-you-claim/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.consumerfinance.gov%2Fconsumer-tools%2Fretirement%2Fbefore-you-claim%2F",
+      "source": "Consumer Financial Protection Bureau (.gov)",
+      "read_more_link": "https://www.consumerfinance.gov/consumer-tools/retirement/before-you-claim/#:~:text=Born%20after%201960%3F%20Age%2067,Security%20benefit%20with%20no%20reductions."
+    },
+    {
+      "position": 7,
+      "title": "Full Retirement Age for Social Security: Rules",
+      "link": "https://www.nerdwallet.com/retirement/learn/retirement-age",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nerdwallet.com/retirement/learn/retirement-age&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4QFnoECCgQAQ",
+      "displayed_link": "https://www.nerdwallet.com › Retirement",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEX29_j4-Pv5-Pvz9vPF4s3M5tPs9O_e7NIApycAqztZtzE_tEbm8N55vQODwizV5sX4-PwNsEsArkxhu0aZyDw4tUqBwSaLxT_X58iRxj4OqEqLvzwGYTQHaDYys0EAYCJfuTa64clEiihqvUROjTqNyi-TzEAAWTNUth7XK_77AAAAvUlEQVR4AcTRNQLEMAwAwRjDzMzw_xeefBxss40tTSnpthAWoddf9G-EMsYox2KQReSHmCqqqmo6KDJMy7JM2_khU13PD0KXY2REcRxbyQo9P01DF_QI_TQGBD1ALY1f6MnWBpHYCISy_AqLSywvsbzE8gCrL9YJWmPatN4bi852Vpj2KiMvLIYxWWHaeyrDXGAxTNYae88FBM3mYYrXuKiqqjAsYZ514_pkiLQUIkgCtROIoMfwJBMgc4AAAIG5Fzk1nAsjAAAAAElFTkSuQmCC.png",
+      "date": "Oct 26, 2025",
+      "snippet": "If you were born in 1960 or later, your full retirement age is 67. However, if you were born before 1960, your full retirement age will be ...",
+      "snippet_highlighted_words": [
+        "born",
+        "1960",
+        "retirement age",
+        "born",
+        "1960",
+        "retirement age"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you were born in 1960 or later, your full retirement age is 67. However, if you were born before 1960, your full retirement age will be ...",
+          "source_info_link": "https://www.nerdwallet.com/retirement/learn/retirement-age",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEX29_j4-Pv5-Pvz9vPF4s3M5tPs9O_e7NIApycAqztZtzE_tEbm8N55vQODwizV5sX4-PwNsEsArkxhu0aZyDw4tUqBwSaLxT_X58iRxj4OqEqLvzwGYTQHaDYys0EAYCJfuTa64clEiihqvUROjTqNyi-TzEAAWTNUth7XK_77AAAAvUlEQVR4AcTRNQLEMAwAwRjDzMzw_xeefBxss40tTSnpthAWoddf9G-EMsYox2KQReSHmCqqqmo6KDJMy7JM2_khU13PD0KXY2REcRxbyQo9P01DF_QI_TQGBD1ALY1f6MnWBpHYCISy_AqLSywvsbzE8gCrL9YJWmPatN4bi852Vpj2KiMvLIYxWWHaeyrDXGAxTNYae88FBM3mYYrXuKiqqjAsYZ514_pkiLQUIkgCtROIoMfwJBMgc4AAAIG5Fzk1nAsjAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.nerdwallet.com/retirement/learn/retirement-age&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.nerdwallet.com%2Fretirement%2Flearn%2Fretirement-age",
+      "source": "NerdWallet",
+      "read_more_link": "https://www.nerdwallet.com/retirement/learn/retirement-age#:~:text=If%20you%20were%20born%20in,retirement%20age%20will%20be%20earlier."
+    },
+    {
+      "position": 8,
+      "title": "Calculating your Full Retirement Age in 30 seconds #socialsecurity",
+      "link": "https://www.youtube.com/shorts/uiCiu9L9mWI",
+      "displayed_link": "6.9K+ views · 7 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdaKivHNi_-LDWBTEveoEhgIi02DbVGPX-lvGqrrrATfN2lD-NRIi4nA&s",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "Calculating your Full Retirement Age in 30 seconds ...",
+      "duration": "0:36",
+      "about_this_result": {
+        "source": {
+          "description": "Calculating your Full Retirement Age in 30 seconds ...",
+          "source_info_link": "https://www.youtube.com/shorts/uiCiu9L9mWI",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/shorts/uiCiu9L9mWI&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fshorts%2FuiCiu9L9mWI",
+      "source": "YouTube · Medicare School"
+    },
+    {
+      "position": 9,
+      "title": "Social Security Calculator",
+      "link": "https://www.calculator.net/social-security-calculator.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calculator.net/social-security-calculator.html&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4QFnoECDQQAQ",
+      "displayed_link": "https://www.calculator.net › financial",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png",
+      "snippet": "The FRA is 67 for those born in 1960 or later. For those born between 1943 and 1960, the FRA is between 66 and 67. A person can receive retirement benefits ...",
+      "snippet_highlighted_words": [
+        "67 for those born in 1960 or later"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The FRA is 67 for those born in 1960 or later. For those born between 1943 and 1960, the FRA is between 66 and 67. A person can receive retirement benefits ...",
+          "source_info_link": "https://www.calculator.net/social-security-calculator.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEXd3d3i4eCvuceGm7WJnrcYWpMpYZczZpkxZZni4d_m5OHj4-Opqal_f392dnafn5-CgoIAAADm5ubk5ORiYmIAVJFqamoXFxdfX18ATY3q6urDw8O2tra4wcvJztQSWJJui6xn82QkAAAA0UlEQVR4AaWRVQLDIBBE2TjQuDZ-_1MWr2zq84E9YGXIX4JDGeb5AZLvaQp-GCGFvoFBFCNFgYMJkoX0-CUlmrIDGUaAc25HMYj_bko5pWnGIU_TgvMiTXMA35XC07Isq7qRYyWGpmatKcXBriz7qurLsqtZ6ErhmYKDfTnU7By25iWpxnG0oxgqQm6yneZ5Bj2CGCYCy7KsxHyLEwq3LxJCL1_HRNkyIZMtqpNF27ZTXSdKiMVJJKBL6La3AkahgKq3yBUaCD-MK9hPCuD8_EMXMvoYZ6_cMTEAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.calculator.net/social-security-calculator.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.calculator.net%2Fsocial-security-calculator.html",
+      "source": "Calculator.net",
+      "read_more_link": "https://www.calculator.net/social-security-calculator.html#:~:text=The%20FRA%20is%2067%20for,as%20early%20as%20age%2062."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Age retirement calculator born 1960 usa",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Age+retirement+calculator+born+1960+usa&sa=X&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q1QJ6BAgpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Age+retirement+calculator+born+1960+usa"
+    },
+    {
+      "block_position": 1,
+      "query": "Social Security retirement age chart",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Social+Security+retirement+age+chart&sa=X&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Social+Security+retirement+age+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Social Security retirement age chart 1968",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Social+Security+retirement+age+chart+1968&sa=X&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Social+Security+retirement+age+chart+1968"
+    },
+    {
+      "block_position": 1,
+      "query": "Social Security retirement age chart 1962",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Social+Security+retirement+age+chart+1962&sa=X&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Social+Security+retirement+age+chart+1962"
+    },
+    {
+      "block_position": 1,
+      "query": "Social Security retirement age chart 1964",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Social+Security+retirement+age+chart+1964&sa=X&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Social+Security+retirement+age+chart+1964"
+    },
+    {
+      "block_position": 1,
+      "query": "When was retirement age 55",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=When+was+retirement+age+55&sa=X&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=When+was+retirement+age+55"
+    },
+    {
+      "block_position": 1,
+      "query": "Social Security 62 vs 67 vs 70",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Social+Security+62+vs+67+vs+70&sa=X&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Social+Security+62+vs+67+vs+70"
+    },
+    {
+      "block_position": 1,
+      "query": "Social Security retirement age chart 1963",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Social+Security+retirement+age+chart+1963&sa=X&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Social+Security+retirement+age+chart+1963"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=age+retirement+calculator+born+1960&sca_esv=bbb7d61e8d3bb37e&ei=RBk6aobQDITIruEP4LjC8AU&start=10&sa=N&sstk=AU9db-Cs78YRxkYHORL3Mc9gLGWdhBoI7ngfwPk4wgqvRJ3hgnJnUcKKIosfr7ZPFCA-ggVU3JypQlTsytBs4rBnpIwnzducHwwjRA&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q8NMDegQIOBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=age+retirement+calculator+born+1960&sca_esv=bbb7d61e8d3bb37e&ei=RBk6aobQDITIruEP4LjC8AU&start=10&sa=N&sstk=AU9db-Cs78YRxkYHORL3Mc9gLGWdhBoI7ngfwPk4wgqvRJ3hgnJnUcKKIosfr7ZPFCA-ggVU3JypQlTsytBs4rBnpIwnzducHwwjRA&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q8tMDegQIOBAE",
+      "3": "https://www.google.com/search?q=age+retirement+calculator+born+1960&sca_esv=bbb7d61e8d3bb37e&ei=RBk6aobQDITIruEP4LjC8AU&start=20&sa=N&sstk=AU9db-Cs78YRxkYHORL3Mc9gLGWdhBoI7ngfwPk4wgqvRJ3hgnJnUcKKIosfr7ZPFCA-ggVU3JypQlTsytBs4rBnpIwnzducHwwjRA&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q8tMDegQIOBAG",
+      "4": "https://www.google.com/search?q=age+retirement+calculator+born+1960&sca_esv=bbb7d61e8d3bb37e&ei=RBk6aobQDITIruEP4LjC8AU&start=30&sa=N&sstk=AU9db-Cs78YRxkYHORL3Mc9gLGWdhBoI7ngfwPk4wgqvRJ3hgnJnUcKKIosfr7ZPFCA-ggVU3JypQlTsytBs4rBnpIwnzducHwwjRA&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q8tMDegQIOBAI",
+      "5": "https://www.google.com/search?q=age+retirement+calculator+born+1960&sca_esv=bbb7d61e8d3bb37e&ei=RBk6aobQDITIruEP4LjC8AU&start=40&sa=N&sstk=AU9db-Cs78YRxkYHORL3Mc9gLGWdhBoI7ngfwPk4wgqvRJ3hgnJnUcKKIosfr7ZPFCA-ggVU3JypQlTsytBs4rBnpIwnzducHwwjRA&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q8tMDegQIOBAK",
+      "6": "https://www.google.com/search?q=age+retirement+calculator+born+1960&sca_esv=bbb7d61e8d3bb37e&ei=RBk6aobQDITIruEP4LjC8AU&start=50&sa=N&sstk=AU9db-Cs78YRxkYHORL3Mc9gLGWdhBoI7ngfwPk4wgqvRJ3hgnJnUcKKIosfr7ZPFCA-ggVU3JypQlTsytBs4rBnpIwnzducHwwjRA&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q8tMDegQIOBAM",
+      "7": "https://www.google.com/search?q=age+retirement+calculator+born+1960&sca_esv=bbb7d61e8d3bb37e&ei=RBk6aobQDITIruEP4LjC8AU&start=60&sa=N&sstk=AU9db-Cs78YRxkYHORL3Mc9gLGWdhBoI7ngfwPk4wgqvRJ3hgnJnUcKKIosfr7ZPFCA-ggVU3JypQlTsytBs4rBnpIwnzducHwwjRA&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q8tMDegQIOBAO",
+      "8": "https://www.google.com/search?q=age+retirement+calculator+born+1960&sca_esv=bbb7d61e8d3bb37e&ei=RBk6aobQDITIruEP4LjC8AU&start=70&sa=N&sstk=AU9db-Cs78YRxkYHORL3Mc9gLGWdhBoI7ngfwPk4wgqvRJ3hgnJnUcKKIosfr7ZPFCA-ggVU3JypQlTsytBs4rBnpIwnzducHwwjRA&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q8tMDegQIOBAQ",
+      "9": "https://www.google.com/search?q=age+retirement+calculator+born+1960&sca_esv=bbb7d61e8d3bb37e&ei=RBk6aobQDITIruEP4LjC8AU&start=80&sa=N&sstk=AU9db-Cs78YRxkYHORL3Mc9gLGWdhBoI7ngfwPk4wgqvRJ3hgnJnUcKKIosfr7ZPFCA-ggVU3JypQlTsytBs4rBnpIwnzducHwwjRA&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q8tMDegQIOBAS",
+      "10": "https://www.google.com/search?q=age+retirement+calculator+born+1960&sca_esv=bbb7d61e8d3bb37e&ei=RBk6aobQDITIruEP4LjC8AU&start=90&sa=N&sstk=AU9db-Cs78YRxkYHORL3Mc9gLGWdhBoI7ngfwPk4wgqvRJ3hgnJnUcKKIosfr7ZPFCA-ggVU3JypQlTsytBs4rBnpIwnzducHwwjRA&ved=2ahUKEwiGgqSg0JyVAxUEpCsGHWCcEF4Q8tMDegQIOBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=age+retirement+calculator+born+1960&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=age+retirement+calculator+born+1960&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=age+retirement+calculator+born+1960&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=age+retirement+calculator+born+1960&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=age+retirement+calculator+born+1960&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=age+retirement+calculator+born+1960&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=age+retirement+calculator+born+1960&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=age+retirement+calculator+born+1960&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=age+retirement+calculator+born+1960&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=age+retirement+calculator+born+1960&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=age+retirement+calculator+born+1960&start=90"
+    }
+  }
+}

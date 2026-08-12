@@ -1,0 +1,404 @@
+{
+  "search_metadata": {
+    "id": "6a3a1856bdfe49ff50d71f65",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/DJUjQBqweSvElO4VYIQsbg/6a3a1856bdfe49ff50d71f65.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/DJUjQBqweSvElO4VYIQsbg/6a3a1856bdfe49ff50d71f65.json_with_pixel_position",
+    "created_at": "2026-06-23 05:23:34 UTC",
+    "processed_at": "2026-06-23 05:23:34 UTC",
+    "google_url": "https://www.google.com/search?q=baking+pan+size+converter+recipe+scaling&oq=baking+pan+size+converter+recipe+scaling&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/DJUjQBqweSvElO4VYIQsbg/6a3a1856bdfe49ff50d71f65.html",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "baking pan size converter recipe scaling",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "baking pan size converter recipe scaling",
+    "total_results": 120,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "How to Scale a Recipe to Fit Any Pan #baking",
+      "link": "https://www.youtube.com/shorts/Mmhiv0sZhrs",
+      "thumbnail": "https://serpapi.com/searches/6a3a1856bdfe49ff50d71f65/images/ag8nAlNX060GEl4rqX7coKhxOXceUoE5gbJyoiwFmMw.jpeg",
+      "channel": "benjaminthebaker",
+      "duration": "1:30",
+      "platform": "YouTube",
+      "date": "Aug 1, 2025",
+      "snippet": "To scale a recipe for different pan sizes, calculate the area of the pan bottom and use a ratio. An 8x8 is about 0.55 of a 13x9.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTLpNNkFIO1qzV7eRUOUEWeSz_8TNv2Ev58vA"
+    },
+    {
+      "position": 2,
+      "title": "Scaling- Adjusting Your Recipe to Fit Your Pans",
+      "link": "https://www.youtube.com/watch?v=shEITL8DBXg",
+      "thumbnail": "https://serpapi.com/searches/6a3a1856bdfe49ff50d71f65/images/sZPAyVeDdRyAeSoNZvYwIyxgpiB7Sq7uU2ooMMSZQto.jpeg",
+      "channel": "Chef Gail Sokol",
+      "duration": "14:07",
+      "platform": "YouTube",
+      "date": "Dec 10, 2020",
+      "key_moments": [
+        {
+          "time": "02:44",
+          "title": "The Conversion Factor",
+          "link": "https://www.youtube.com/watch?v=shEITL8DBXg&t=164"
+        },
+        {
+          "time": "03:19",
+          "title": "Double a Recipe's Ingredients",
+          "link": "https://www.youtube.com/watch?v=shEITL8DBXg&t=199"
+        },
+        {
+          "time": "05:04",
+          "title": "The Volume of a Cylinder for Your Round Cake Pan",
+          "link": "https://www.youtube.com/watch?v=shEITL8DBXg&t=304"
+        },
+        {
+          "time": "09:05",
+          "title": "Convert a Recipes Amount of Batter To Go from a Nine Inch Round Cake Pan to a Nine by 13 by Two Inch Rectangular Pan",
+          "link": "https://www.youtube.com/watch?v=shEITL8DBXg&t=545"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Converting your cake recipes for any size cake tin or cake pan",
+      "link": "https://www.youtube.com/watch?v=ZA-0-HL9HqE",
+      "thumbnail": "https://serpapi.com/searches/6a3a1856bdfe49ff50d71f65/images/_qC3XeB2M8kT5zdUVvkgq0f02X_P9rG-Zi341gov3fo.jpeg",
+      "channel": "CakesbyLynz",
+      "duration": "8:05",
+      "platform": "YouTube",
+      "date": "Apr 9, 2021",
+      "snippet": "To make a smaller cake in a larger tin, divide the new tin's surface area by the recipe's tin's surface area to get an adjustment number.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRxZDz_ui0UsVQVDLYMVtWsQE6bKdEDNbgRqA"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "GZdRHXicxZbbcuI4EEDf9z-WlwRsYwdIqlxT8gXicIu4ZeCF8i2yAVuMBRh423_Zr5ovmM9YydhgAiS1U7W1omzdWq1uqQ_tv_5e-OH85x-_vNVqSZ44Lo7jEsIYLdySjQPOJLvQ5t7xgkS29223kcWCTWS-4PryyEMVk_jd1rryELTgq9gWoQ9wIVkiTy2TuDOqcTsj3JSjr_mfokY7JVJyw5LqSdZ2hJvb7bBU5oXHUpczAyoA_sOig15SQ_ozaG1cSLDt0RdaoMEW9nMjau6dlfZBkWEklXpTqZpaoY6ZiFacRJICNJiMPX9iRf-8-8ZeOogBUJiJOry25poR2RhOa-XmjvrlUCKspHtpefW3_FXyFwyZzkENqKeLyFxWQOYBFUG0rRw0PgBFeo3VhvrJNdGZJXrWvSK8anSu1Jv6Mk7brXGDWsQ5iAYhz1kRrQTOtz07aUSExaY6eORx_TVyJttnLXrof9-RSOef121_sl2HqzbkbIvKLbDpuM7Um_Lfkr5QFh74R7Fau0-gsMmRCpKnYlJpL4D48i7WQalVUoQcEslhGGc-s3BTbrjXTM_wgzg4aGH6XtKzyU55mIkpOKMjHZjNWVSNjwM1dhXexx2ZrksksoLyDYpEYrYxPK7Mi7OmoZxMTYv28b5P_dSHMWjCo8t6zuLDQej5_pwpNxrZQHycYlrRAiSIUyT0VGH3bD3KG0YPS1GBnk0fLWAy2vwopicWsukxhGNg1Cmi9PpQ5nx6lRQJ4_zswOysV0fsUdFVwL8qyunCbxUdZLH_IZTzCOj1ihZ4sNF96znDHqrxYLdxGqQ4W4rwesjjwPoXmcD-f6EYpnlimJLQvAoF-gIKaOif5omD3ac8wWJFxbegUFMozvPEIXBPeeISiv45FLfzRA6Kg5bPoVBuQnH4W7mEguWJCyjQDSgOeSIPxXmeCI-amQc5KH4rT8DfyBMJI-6hOk8a6xm6mTwa-8l0a1pV461ojxCZFMsNt9abdaRt8evk8R6sngLTWdxPfedJKb-sds79lA7gJ9cp_JAtc-6H6G5phnfE37t3Ng43brRyo7vItf2le0dsk37soUKwiLDMmxWv1VCn2qgb269QUl4Gy7WHn_2Ou2nMJvXQ2HSguzekWc997w4dBbXGesusN_GQvAQagLY2GiLozGKMHhRzhPH3kT6JpUkRrtePk-LGK9v9diDtd8XqdqVHgdjsVgd7Y1AWQzAabF-92LdrurRXBz1_-PjWA4ldRBb4fqvMdxrCghSoc8SVhUIQ2TLFQUKgA8EbAjblAED6VQVVTJ-YRkGBejd1yUa2LKvqVAS35oiWJVbdQoBWu6UsCQUSRrLwD1USGuQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GZdRHXicxZbbcuI4EEDf9z-WlwRsYwdIqlxT8gXicIu4ZeCF8i2yAVuMBRh423_Zr5ovmM9YydhgAiS1U7W1omzdWq1uqQ_tv_5e-OH85x-_vNVqSZ44Lo7jEsIYLdySjQPOJLvQ5t7xgkS29223kcWCTWS-4PryyEMVk_jd1rryELTgq9gWoQ9wIVkiTy2TuDOqcTsj3JSjr_mfokY7JVJyw5LqSdZ2hJvb7bBU5oXHUpczAyoA_sOig15SQ_ozaG1cSLDt0RdaoMEW9nMjau6dlfZBkWEklXpTqZpaoY6ZiFacRJICNJiMPX9iRf-8-8ZeOogBUJiJOry25poR2RhOa-XmjvrlUCKspHtpefW3_FXyFwyZzkENqKeLyFxWQOYBFUG0rRw0PgBFeo3VhvrJNdGZJXrWvSK8anSu1Jv6Mk7brXGDWsQ5iAYhz1kRrQTOtz07aUSExaY6eORx_TVyJttnLXrof9-RSOef121_sl2HqzbkbIvKLbDpuM7Um_Lfkr5QFh74R7Fau0-gsMmRCpKnYlJpL4D48i7WQalVUoQcEslhGGc-s3BTbrjXTM_wgzg4aGH6XtKzyU55mIkpOKMjHZjNWVSNjwM1dhXexx2ZrksksoLyDYpEYrYxPK7Mi7OmoZxMTYv28b5P_dSHMWjCo8t6zuLDQej5_pwpNxrZQHycYlrRAiSIUyT0VGH3bD3KG0YPS1GBnk0fLWAy2vwopicWsukxhGNg1Cmi9PpQ5nx6lRQJ4_zswOysV0fsUdFVwL8qyunCbxUdZLH_IZTzCOj1ihZ4sNF96znDHqrxYLdxGqQ4W4rwesjjwPoXmcD-f6EYpnlimJLQvAoF-gIKaOif5omD3ac8wWJFxbegUFMozvPEIXBPeeISiv45FLfzRA6Kg5bPoVBuQnH4W7mEguWJCyjQDSgOeSIPxXmeCI-amQc5KH4rT8DfyBMJI-6hOk8a6xm6mTwa-8l0a1pV461ojxCZFMsNt9abdaRt8evk8R6sngLTWdxPfedJKb-sds79lA7gJ9cp_JAtc-6H6G5phnfE37t3Ng43brRyo7vItf2le0dsk37soUKwiLDMmxWv1VCn2qgb269QUl4Gy7WHn_2Ou2nMJvXQ2HSguzekWc997w4dBbXGesusN_GQvAQagLY2GiLozGKMHhRzhPH3kT6JpUkRrtePk-LGK9v9diDtd8XqdqVHgdjsVgd7Y1AWQzAabF-92LdrurRXBz1_-PjWA4ldRBb4fqvMdxrCghSoc8SVhUIQ2TLFQUKgA8EbAjblAED6VQVVTJ-YRkGBejd1yUa2LKvqVAS35oiWJVbdQoBWu6UsCQUSRrLwD1USGuQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Cake Pan Converter",
+      "link": "https://www.omnicalculator.com/food/cake-pans",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.omnicalculator.com/food/cake-pans&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQFnoECB0QAQ",
+      "displayed_link": "https://www.omnicalculator.com › food › cake-pans",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz8YXX8SWD8RV78RV38TmT8QFn8U2lCbfo-avpEbvpKc_o7aPpAbPo_a_r8R1_LvM1BbPpIcvpAbPo9avr8RFxFb_pPd_pjhvlIcfr8dIb60Cz6zh76zh36zRf6zA_6zA7510r6zh360Cn61DzYpcloAAAAJXRSTlMAFWuqzkr_Lonjczn_v86KBKZPtPjjXiUNRQgvbaDP__8LjkkVqtFInQAAAPBJREFUeAFt0QWWhEAMRdGPywRacNf9r3Eq5HQYqXsEeUgJlON6vu-7sAj8UET4y-GkMU5S3KLwBnwRUWZtHpCRkUM4n-A_XBd40uUl0ZfkORC51DeMQFoAVRArYVTaVEas_ozmAcVKGRMeIXuCNWktJymxFr5MgMX8pwZGS6yTX7owOmIJWEJGCte0qofxokujQ4qBZ8_JHpXts8AwToN9QMC8rOtinwq2xVh3-yI854Ud1uXDsUq1LvxzlnpCvBPdMuNcLgNQp-mrJPGCGHhIM0_llgNaV34xIZXhdu4Hz1yl-Etj3OK_Os_zIu6gvgFLyRf2XteplQAAAABJRU5ErkJggg.png",
+      "snippet": "Input the size and shape of a recipe's baking pan, enter the dimensions of your own pan, and you'll get the conversion rate in the blink of an eye.",
+      "snippet_highlighted_words": [
+        "Input the size and shape of a recipe's baking pan"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Input the size and shape of a recipe's baking pan, enter the dimensions of your own pan, and you'll get the conversion rate in the blink of an eye.",
+          "source_info_link": "https://www.omnicalculator.com/food/cake-pans",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEz8YXX8SWD8RV78RV38TmT8QFn8U2lCbfo-avpEbvpKc_o7aPpAbPo_a_r8R1_LvM1BbPpIcvpAbPo9avr8RFxFb_pPd_pjhvlIcfr8dIb60Cz6zh76zh36zRf6zA_6zA7510r6zh360Cn61DzYpcloAAAAJXRSTlMAFWuqzkr_Lonjczn_v86KBKZPtPjjXiUNRQgvbaDP__8LjkkVqtFInQAAAPBJREFUeAFt0QWWhEAMRdGPywRacNf9r3Eq5HQYqXsEeUgJlON6vu-7sAj8UET4y-GkMU5S3KLwBnwRUWZtHpCRkUM4n-A_XBd40uUl0ZfkORC51DeMQFoAVRArYVTaVEas_ozmAcVKGRMeIXuCNWktJymxFr5MgMX8pwZGS6yTX7owOmIJWEJGCte0qofxokujQ4qBZ8_JHpXts8AwToN9QMC8rOtinwq2xVh3-yI854Ud1uXDsUq1LvxzlnpCvBPdMuNcLgNQp-mrJPGCGHhIM0_llgNaV34xIZXhdu4Hz1yl-Etj3OK_Os_zIu6gvgFLyRf2XteplQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.omnicalculator.com/food/cake-pans&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.omnicalculator.com%2Ffood%2Fcake-pans",
+      "source": "Omni Calculator",
+      "read_more_link": "https://www.omnicalculator.com/food/cake-pans#:~:text=Using%20our%20tool%20is%20a,the%20blink%20of%20an%20eye."
+    },
+    {
+      "position": 2,
+      "title": "Cake Pan Sizes & Conversions",
+      "link": "https://sallysbakingaddiction.com/cake-pan-sizes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sallysbakingaddiction.com/cake-pan-sizes/&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQFnoECBwQAQ",
+      "displayed_link": "https://sallysbakingaddiction.com › Recipes › Baking Tips",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEy5lWzGi29jnZ6TlYnFjHC_mWq_mWq_mWponJxonJxonZ2-mGu_mWq_mWponZ2-mGtonJxonZ2-mGvBjHJonJzOfXbNfnXQe3bPfHbNfnXPfHbOfHbNfnW69C5XAAAAHnRSTlMABUdUDynD_94jbZZhoNT_dnvYiTo8nGHH_3HXu4SSkZC7AAAA-klEQVR4AW3R0bKFEBSAYVuxokjZKcn7v-ZZzGhw9n9X3xgLpOpD6TCM5FeMA0xEyFn8t0UBgCbYKnszoHTBdWuNAYB5cRUNTpC14F7baDUiV1PGbqkBbiwHxQvKChVg3NpvwblHVEqwY2_RAChjNbfOnfi5NYdhNk9k9OW9vwmRB6mC1AI849VfHpqdMrrgn045aAUJg8PFZ68GMp4-Vcsh88SgQ0QJMbKXyuyLUvFCebyPFc5413l6mgRzDWIE-zrUDmXBx_krot8VioLBXXmikVTtBf3tk9b2ES9mZaRpezE43LFLFvT51brELEXCh_WSG4eB0k_14w9FbxWYYcGepwAAAABJRU5ErkJggg.png",
+      "date": "Sep 20, 2022",
+      "snippet": "Here's an in-depth look at common cake pan sizes & conversions, as well as how to adjust recipes or make substitutions based on the pan sizes you have.",
+      "snippet_highlighted_words": [
+        "how to adjust recipes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Here's an in-depth look at common cake pan sizes & conversions, as well as how to adjust recipes or make substitutions based on the pan sizes you have.",
+          "source_info_link": "https://sallysbakingaddiction.com/cake-pan-sizes/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEy5lWzGi29jnZ6TlYnFjHC_mWq_mWq_mWponJxonJxonZ2-mGu_mWq_mWponZ2-mGtonJxonZ2-mGvBjHJonJzOfXbNfnXQe3bPfHbNfnXPfHbOfHbNfnW69C5XAAAAHnRSTlMABUdUDynD_94jbZZhoNT_dnvYiTo8nGHH_3HXu4SSkZC7AAAA-klEQVR4AW3R0bKFEBSAYVuxokjZKcn7v-ZZzGhw9n9X3xgLpOpD6TCM5FeMA0xEyFn8t0UBgCbYKnszoHTBdWuNAYB5cRUNTpC14F7baDUiV1PGbqkBbiwHxQvKChVg3NpvwblHVEqwY2_RAChjNbfOnfi5NYdhNk9k9OW9vwmRB6mC1AI849VfHpqdMrrgn045aAUJg8PFZ68GMp4-Vcsh88SgQ0QJMbKXyuyLUvFCebyPFc5413l6mgRzDWIE-zrUDmXBx_krot8VioLBXXmikVTtBf3tk9b2ES9mZaRpezE43LFLFvT51brELEXCh_WSG4eB0k_14w9FbxWYYcGepwAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://sallysbakingaddiction.com/cake-pan-sizes/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fsallysbakingaddiction.com%2Fcake-pan-sizes%2F",
+      "source": "Sally's Baking Addiction",
+      "read_more_link": "https://sallysbakingaddiction.com/cake-pan-sizes/#:~:text=Here's%20an%20in%2Ddepth%20look%20at,the%20pan%20sizes%20you%20have."
+    },
+    {
+      "position": 3,
+      "title": "Cake Pan Converter & Recipe Scaling Calculator",
+      "link": "https://www.bakevert.com/english",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bakevert.com/english&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQFnoECCEQAQ",
+      "displayed_link": "https://www.bakevert.com › english",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAllBMVEX6-vj8_Pr__v3l5t_L0cfAxrfEzMHe4tv4-PbY2tCxs52boIadpo-YoYmJmoF-kXZ-ln77_Prz8ezDu6auqY7Kx7ansZ9vi3CBm4fAspm5r5alqI-eqZXW29L__vx2loJtj3jPwau6sZmyv7Ll3M_GtJq3vKtSfmSzxLmVrJxahW3x6-TNuJ7RxLCMoIxEd1zj1cagtahQCl6mAAAA6ElEQVR4AbWSRQLDQAwDV94wc8rM3P9_rhimU3wds8T6D4CIgFrEuCCKkqwQqkjVdMMwLduRlBJ1PT_QQtUjJkfxgBcovOEoGI91azKdkTxfeAW6HK5C7nnTyF4z8hbzXGd3s31XBjtOJNhrzOT9gXKFW3_D3xupICmWQcdTWorz5aq4ILYzPbDbEZDvU6RdL2f3u5Yp0ezwXkc5HWYJfFzwaxHtCNPYA52elEG3Gebagg4LJd-2utA0Xegdl_SUWe6U9id0v4_B89-V38fT5_EcDZI985LlxB6_xY7zYqe1OZu0GazveAH2vRdijbJC0AAAAABJRU5ErkJggg.png",
+      "snippet": "Convert between different diameter round cake pans. Perfect for layer cakes, round desserts, and circular baking pans. Calculate exact recipe scaling ratios.",
+      "snippet_highlighted_words": [
+        "Convert between different diameter round cake pans"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Convert between different diameter round cake pans. Perfect for layer cakes, round desserts, and circular baking pans. Calculate exact recipe scaling ratios.",
+          "source_info_link": "https://www.bakevert.com/english",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAllBMVEX6-vj8_Pr__v3l5t_L0cfAxrfEzMHe4tv4-PbY2tCxs52boIadpo-YoYmJmoF-kXZ-ln77_Prz8ezDu6auqY7Kx7ansZ9vi3CBm4fAspm5r5alqI-eqZXW29L__vx2loJtj3jPwau6sZmyv7Ll3M_GtJq3vKtSfmSzxLmVrJxahW3x6-TNuJ7RxLCMoIxEd1zj1cagtahQCl6mAAAA6ElEQVR4AbWSRQLDQAwDV94wc8rM3P9_rhimU3wds8T6D4CIgFrEuCCKkqwQqkjVdMMwLduRlBJ1PT_QQtUjJkfxgBcovOEoGI91azKdkTxfeAW6HK5C7nnTyF4z8hbzXGd3s31XBjtOJNhrzOT9gXKFW3_D3xupICmWQcdTWorz5aq4ILYzPbDbEZDvU6RdL2f3u5Yp0ezwXkc5HWYJfFzwaxHtCNPYA52elEG3Gebagg4LJd-2utA0Xegdl_SUWe6U9id0v4_B89-V38fT5_EcDZI985LlxB6_xY7zYqe1OZu0GazveAH2vRdijbJC0AAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.bakevert.com/english&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bakevert.com%2Fenglish",
+      "source": "Bakevert",
+      "read_more_link": "https://www.bakevert.com/english#:~:text=Convert%20between%20different%20diameter%20round,Calculate%20exact%20recipe%20scaling%20ratios."
+    },
+    {
+      "position": 4,
+      "title": "Hey fellow bakers! 🍰 Need your wisdom on converting ...",
+      "link": "https://www.reddit.com/r/AskBaking/comments/1k2g7hb/hey_fellow_bakers_need_your_wisdom_on_converting/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/AskBaking/comments/1k2g7hb/hey_fellow_bakers_need_your_wisdom_on_converting/&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQFnoECCIQAQ",
+      "displayed_link": "10+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "If using a recipe by weight, multiply each ingredient by 1.6. If doing by volume, multiplying by 1.5 would probably be close enough but give a ...",
+      "snippet_highlighted_words": [
+        "multiply each ingredient by 1.6"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If using a recipe by weight, multiply each ingredient by 1.6. If doing by volume, multiplying by 1.5 would probably be close enough but give a ...",
+          "source_info_link": "https://www.reddit.com/r/AskBaking/comments/1k2g7hb/hey_fellow_bakers_need_your_wisdom_on_converting/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/AskBaking/comments/1k2g7hb/hey_fellow_bakers_need_your_wisdom_on_converting/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FAskBaking%2Fcomments%2F1k2g7hb%2Fhey_fellow_bakers_need_your_wisdom_on_converting%2F",
+      "source": "Reddit · r/AskBaking",
+      "read_more_link": "https://www.reddit.com/r/AskBaking/comments/1k2g7hb/hey_fellow_bakers_need_your_wisdom_on_converting/#:~:text=If%20using%20a%20recipe%20by,but%20give%20a%20shallower%20cake"
+    },
+    {
+      "position": 5,
+      "title": "This Baking Chart Helps You Convert Between Pan Sizes",
+      "link": "https://www.foodnetwork.com/recipes/packages/baking-guide/baking-pan-conversion-calculator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foodnetwork.com/recipes/packages/baking-guide/baking-pan-conversion-calculator&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQFnoECDIQAQ",
+      "displayed_link": "https://www.foodnetwork.com › packages › baking-guide",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAjVBMVEVHcEzMISfLICfLICbKGh_KHyXKICbLICbMJy3MIifLGSDKGyHLISjJFBzLICbTTVHQPkLWX2L-9_f____HAAjbc3X45-jNMjb__f3kmZvXZ2nQPED____JChTz09TnpKbstrjtvb7hjI312tv77u_56OjLJSvQQUXnoqTegIP____UUlbddnjYYWXwubt1cnsuAAAAL3RSTlMANV51Tcj_uecil_9U__ftGOLr__7mrfv07e3q-v7o297u3-rt5_X__Pfo____LQNV6zkAAAFeSURBVHgBbJGFYsMgEECrV2GkK1yGXtzT7f8_b5D52ofzcFa_WG-228169YDdHj45_PfrI_xif_rttvCPzY87wx3b3_MY-2efPvcD4Mnl8s_y50UegV-FFPjXpS_LHYAprY3lvx1zXsapeyAjDXLCoNmSc0Qj03OQAJT5K1d5kfKYW062rGpNSTwOFV42TujWp06Ixlvrm0a2BKvVBngudV76Y6eLUh-PusgEOV8inMIlmZMZihp7XTQZXnyuS7z6nGAdJK_kkOgCU1npHEdZ-Sqehwe5ASzlmEytbRqnayvaqy_tJAsKy64Ba3-hSkyZwyWnbGrSpiSIV6HJE_BEIefUhZyRSqjroIuPkMgWAWbVq5sK9H0_KgjER9iV0hAocxteh7kcbsOo6pkFufy4aOOzzv1rP6u57-eezVEeVpE3iONYBL4jwPP7MBMJIrIJJRPCCQwzaRKRqPFmBwAvBSWzjZWLUAAAAABJRU5ErkJggg.png",
+      "date": "Nov 1, 2021",
+      "snippet": "How to Scale Recipes to Fit Different Sized Pans · Divide the area of the large pan by the area of the smaller pan the recipe calls for.",
+      "snippet_highlighted_words": [
+        "Scale Recipes",
+        "Sized Pans",
+        "pan",
+        "pan",
+        "recipe"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "How to Scale Recipes to Fit Different Sized Pans · Divide the area of the large pan by the area of the smaller pan the recipe calls for.",
+          "source_info_link": "https://www.foodnetwork.com/recipes/packages/baking-guide/baking-pan-conversion-calculator",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAjVBMVEVHcEzMISfLICfLICbKGh_KHyXKICbLICbMJy3MIifLGSDKGyHLISjJFBzLICbTTVHQPkLWX2L-9_f____HAAjbc3X45-jNMjb__f3kmZvXZ2nQPED____JChTz09TnpKbstrjtvb7hjI312tv77u_56OjLJSvQQUXnoqTegIP____UUlbddnjYYWXwubt1cnsuAAAAL3RSTlMANV51Tcj_uecil_9U__ftGOLr__7mrfv07e3q-v7o297u3-rt5_X__Pfo____LQNV6zkAAAFeSURBVHgBbJGFYsMgEECrV2GkK1yGXtzT7f8_b5D52ofzcFa_WG-228169YDdHj45_PfrI_xif_rttvCPzY87wx3b3_MY-2efPvcD4Mnl8s_y50UegV-FFPjXpS_LHYAprY3lvx1zXsapeyAjDXLCoNmSc0Qj03OQAJT5K1d5kfKYW062rGpNSTwOFV42TujWp06Ixlvrm0a2BKvVBngudV76Y6eLUh-PusgEOV8inMIlmZMZihp7XTQZXnyuS7z6nGAdJK_kkOgCU1npHEdZ-Sqehwe5ASzlmEytbRqnayvaqy_tJAsKy64Ba3-hSkyZwyWnbGrSpiSIV6HJE_BEIefUhZyRSqjroIuPkMgWAWbVq5sK9H0_KgjER9iV0hAocxteh7kcbsOo6pkFufy4aOOzzv1rP6u57-eezVEeVpE3iONYBL4jwPP7MBMJIrIJJRPCCQwzaRKRqPFmBwAvBSWzjZWLUAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.foodnetwork.com/recipes/packages/baking-guide/baking-pan-conversion-calculator&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.foodnetwork.com%2Frecipes%2Fpackages%2Fbaking-guide%2Fbaking-pan-conversion-calculator",
+      "source": "Food Network",
+      "read_more_link": "https://www.foodnetwork.com/recipes/packages/baking-guide/baking-pan-conversion-calculator#:~:text=How%20to%20Scale%20Recipes%20to,Fit%20Different%20Sized%20Pans&text=Divide%20the%20area%20of%20the,pan%20the%20recipe%20calls%20for."
+    },
+    {
+      "position": 6,
+      "title": "What cake conversion calculator is recommended for ...",
+      "link": "https://www.facebook.com/groups/CottageFoodBusiness/posts/1391430051467710/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/CottageFoodBusiness/posts/1391430051467710/&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQFnoECDUQAQ",
+      "displayed_link": "6 comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "Hi Bakers Is there a cake conversion calculator that anybody uses for cake recipes and can recommend it to me please ?",
+      "about_this_result": {
+        "source": {
+          "description": "**Adjust the Recipe:** - If your pan size is larger, increase the recipe by 25% for each 1 inch increase in pan size. - If your pan size is ...",
+          "source_info_link": "https://www.facebook.com/groups/CottageFoodBusiness/posts/1391430051467710/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/CottageFoodBusiness/posts/1391430051467710/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2FCottageFoodBusiness%2Fposts%2F1391430051467710%2F",
+      "source": "Facebook · COTTAGE FOOD BUSINESS"
+    },
+    {
+      "position": 7,
+      "title": "Calculators and Converters",
+      "link": "https://cloudykitchen.com/calculators-and-converters/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cloudykitchen.com/calculators-and-converters/&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQFnoECDMQAQ",
+      "displayed_link": "https://cloudykitchen.com › calculators-and-converters",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwAAAAAAABpaWrLy8vn5-ff39-zs7MAAAD____S0tIAAACfn6CKioqgoKAaGhuurq4AAAB8fHx6enru7u7X19fDw8P9_f2Li4s9PT0bGxz29va1tbXh4eFsbGwP6ftdAAAAH3RSTlMAFQaK____4Sf__x_NhpxO6wyA0v___v-zaG__9P9sa_a_4AAAAIpJREFUeAHd0UUCxCAABEEcJu6e_P-XK3Eh55W-Fg755ii7JS6k0ubG8M6hNnMVxjzqB6F9IuA4AKL4iAH2eTthSZBme8w3iwsA5R7FdqkK53Il6hkFLOXxaK6ErYaMFVasJ6xbi61vxfMsTzE2PlSnWrF7JpeQSgJl0QjZeyS-fIA7DO_hNCZ_2BO-tQpQTtXH2wAAAABJRU5ErkJggg.png",
+      "snippet": "These are a set of tools that we developed to help you scale recipes depending on the pan you have available, or to help scale a recipe up or down.",
+      "snippet_highlighted_words": [
+        "help you scale recipes depending on the pan"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "These are a set of tools that we developed to help you scale recipes depending on the pan you have available, or to help scale a recipe up or down.",
+          "source_info_link": "https://cloudykitchen.com/calculators-and-converters/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwAAAAAAABpaWrLy8vn5-ff39-zs7MAAAD____S0tIAAACfn6CKioqgoKAaGhuurq4AAAB8fHx6enru7u7X19fDw8P9_f2Li4s9PT0bGxz29va1tbXh4eFsbGwP6ftdAAAAH3RSTlMAFQaK____4Sf__x_NhpxO6wyA0v___v-zaG__9P9sa_a_4AAAAIpJREFUeAHd0UUCxCAABEEcJu6e_P-XK3Eh55W-Fg755ii7JS6k0ubG8M6hNnMVxjzqB6F9IuA4AKL4iAH2eTthSZBme8w3iwsA5R7FdqkK53Il6hkFLOXxaK6ErYaMFVasJ6xbi61vxfMsTzE2PlSnWrF7JpeQSgJl0QjZeyS-fIA7DO_hNCZ_2BO-tQpQTtXH2wAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cloudykitchen.com/calculators-and-converters/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcloudykitchen.com%2Fcalculators-and-converters%2F",
+      "source": "Cloudy Kitchen",
+      "read_more_link": "https://cloudykitchen.com/calculators-and-converters/#:~:text=These%20are%20a%20set%20of,a%20recipe%20up%20or%20down."
+    },
+    {
+      "position": 8,
+      "title": "Cake Ingredients Conversion Calculator",
+      "link": "https://elvira-cake-school.com/en/pposts-en/cake-ingredients-conversion-calculator/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://elvira-cake-school.com/en/pposts-en/cake-ingredients-conversion-calculator/&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQFnoECDsQAQ",
+      "displayed_link": "https://elvira-cake-school.com › pposts-en › cake-ingre...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz9nCT-myP-miH-myL-myP9nSj7ozT9nCf-mBf-ozz-rVf-lQn-2LP-zqD-48n-tmv-x5L-wYX-myXWEVU0AAAAFHRSTlMAXMv_74g1D0v_____________tU2XwkwAAACwSURBVHgBldKHDsMgDEVREmc9sI2h__-vRY0yIYp6JbQOtpbda11P14Zxt0J1U8v2ZldaqF1_H8R9lLY8ITD8_mE5IYtytBBpq7ugeElZA1qYEiQE8c1JVZ81WcDfmJRyKsgN1BgllieGO7IQ_wJHrlDNmzGZmaDGELgwwEp3hDIIAFEDWfxWtZY1HwmuiKynDhxW5VPHoYz0kCvND9a55yP6uLVpqG10e9N4rXPvfQFbfQ6afxNY1gAAAABJRU5ErkJggg.png",
+      "snippet": "This calculator will help you adjust the ingredient amounts. Choose the original and new pan shapes, enter the dimensions, and get your conversion ratio.",
+      "snippet_highlighted_words": [
+        "Choose the original and new pan shapes, enter the dimensions, and get your conversion ratio"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This calculator will help you adjust the ingredient amounts. Choose the original and new pan shapes, enter the dimensions, and get your conversion ratio.",
+          "source_info_link": "https://elvira-cake-school.com/en/pposts-en/cake-ingredients-conversion-calculator/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz9nCT-myP-miH-myL-myP9nSj7ozT9nCf-mBf-ozz-rVf-lQn-2LP-zqD-48n-tmv-x5L-wYX-myXWEVU0AAAAFHRSTlMAXMv_74g1D0v_____________tU2XwkwAAACwSURBVHgBldKHDsMgDEVREmc9sI2h__-vRY0yIYp6JbQOtpbda11P14Zxt0J1U8v2ZldaqF1_H8R9lLY8ITD8_mE5IYtytBBpq7ugeElZA1qYEiQE8c1JVZ81WcDfmJRyKsgN1BgllieGO7IQ_wJHrlDNmzGZmaDGELgwwEp3hDIIAFEDWfxWtZY1HwmuiKynDhxW5VPHoYz0kCvND9a55yP6uLVpqG10e9N4rXPvfQFbfQ6afxNY1gAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://elvira-cake-school.com/en/pposts-en/cake-ingredients-conversion-calculator/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Felvira-cake-school.com%2Fen%2Fpposts-en%2Fcake-ingredients-conversion-calculator%2F",
+      "source": "Elvira Cake School",
+      "read_more_link": "https://elvira-cake-school.com/en/pposts-en/cake-ingredients-conversion-calculator/#:~:text=If%20the%20size%20and%2For%20shape,and%20get%20your%20conversion%20ratio."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Baking pan size converter recipe scaling reddit",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Baking+pan+size+converter+recipe+scaling+reddit&sa=X&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ1QJ6BAgrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Baking+pan+size+converter+recipe+scaling+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Baking pan sizes chart",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Baking+pan+sizes+chart&sa=X&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Baking+pan+sizes+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Standard cake pan size cm",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Standard+cake+pan+size+cm&sa=X&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Standard+cake+pan+size+cm"
+    },
+    {
+      "block_position": 1,
+      "query": "Baking pan sizes chart in inches",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Baking+pan+sizes+chart+in+inches&sa=X&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Baking+pan+sizes+chart+in+inches"
+    },
+    {
+      "block_position": 1,
+      "query": "Baking pan sizes with pictures",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Baking+pan+sizes+with+pictures&sa=X&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Baking+pan+sizes+with+pictures"
+    },
+    {
+      "block_position": 1,
+      "query": "Bundt pan sizes chart",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Bundt+pan+sizes+chart&sa=X&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ1QJ6BAgsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bundt+pan+sizes+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Baking time conversion pan size",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Baking+time+conversion+pan+size&sa=X&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ1QJ6BAgtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Baking+time+conversion+pan+size"
+    },
+    {
+      "block_position": 1,
+      "query": "Volume of a pan calculator",
+      "link": "https://www.google.com/search?sca_esv=bbb7d61e8d3bb37e&q=Volume+of+a+pan+calculator&sa=X&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ1QJ6BAgqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Volume+of+a+pan+calculator"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=baking+pan+size+converter+recipe+scaling&sca_esv=bbb7d61e8d3bb37e&ei=Vhg6asiOLu65mLQP3M3QiAo&start=10&sa=N&sstk=AU9db-DCHwk1XT9ZZW_CBDwLtQrGgdyjOz6VYMb1ZVZt8CRrprNwDBvynhtMuQI7qeAk2XBbRpr14ow_Lqu-5kPnRuVOw1HdTBrpKQ&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ8NMDegQIKBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=baking+pan+size+converter+recipe+scaling&sca_esv=bbb7d61e8d3bb37e&ei=Vhg6asiOLu65mLQP3M3QiAo&start=10&sa=N&sstk=AU9db-DCHwk1XT9ZZW_CBDwLtQrGgdyjOz6VYMb1ZVZt8CRrprNwDBvynhtMuQI7qeAk2XBbRpr14ow_Lqu-5kPnRuVOw1HdTBrpKQ&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ8tMDegQIKBAE",
+      "3": "https://www.google.com/search?q=baking+pan+size+converter+recipe+scaling&sca_esv=bbb7d61e8d3bb37e&ei=Vhg6asiOLu65mLQP3M3QiAo&start=20&sa=N&sstk=AU9db-DCHwk1XT9ZZW_CBDwLtQrGgdyjOz6VYMb1ZVZt8CRrprNwDBvynhtMuQI7qeAk2XBbRpr14ow_Lqu-5kPnRuVOw1HdTBrpKQ&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ8tMDegQIKBAG",
+      "4": "https://www.google.com/search?q=baking+pan+size+converter+recipe+scaling&sca_esv=bbb7d61e8d3bb37e&ei=Vhg6asiOLu65mLQP3M3QiAo&start=30&sa=N&sstk=AU9db-DCHwk1XT9ZZW_CBDwLtQrGgdyjOz6VYMb1ZVZt8CRrprNwDBvynhtMuQI7qeAk2XBbRpr14ow_Lqu-5kPnRuVOw1HdTBrpKQ&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ8tMDegQIKBAI",
+      "5": "https://www.google.com/search?q=baking+pan+size+converter+recipe+scaling&sca_esv=bbb7d61e8d3bb37e&ei=Vhg6asiOLu65mLQP3M3QiAo&start=40&sa=N&sstk=AU9db-DCHwk1XT9ZZW_CBDwLtQrGgdyjOz6VYMb1ZVZt8CRrprNwDBvynhtMuQI7qeAk2XBbRpr14ow_Lqu-5kPnRuVOw1HdTBrpKQ&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ8tMDegQIKBAK",
+      "6": "https://www.google.com/search?q=baking+pan+size+converter+recipe+scaling&sca_esv=bbb7d61e8d3bb37e&ei=Vhg6asiOLu65mLQP3M3QiAo&start=50&sa=N&sstk=AU9db-DCHwk1XT9ZZW_CBDwLtQrGgdyjOz6VYMb1ZVZt8CRrprNwDBvynhtMuQI7qeAk2XBbRpr14ow_Lqu-5kPnRuVOw1HdTBrpKQ&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ8tMDegQIKBAM",
+      "7": "https://www.google.com/search?q=baking+pan+size+converter+recipe+scaling&sca_esv=bbb7d61e8d3bb37e&ei=Vhg6asiOLu65mLQP3M3QiAo&start=60&sa=N&sstk=AU9db-DCHwk1XT9ZZW_CBDwLtQrGgdyjOz6VYMb1ZVZt8CRrprNwDBvynhtMuQI7qeAk2XBbRpr14ow_Lqu-5kPnRuVOw1HdTBrpKQ&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ8tMDegQIKBAO",
+      "8": "https://www.google.com/search?q=baking+pan+size+converter+recipe+scaling&sca_esv=bbb7d61e8d3bb37e&ei=Vhg6asiOLu65mLQP3M3QiAo&start=70&sa=N&sstk=AU9db-DCHwk1XT9ZZW_CBDwLtQrGgdyjOz6VYMb1ZVZt8CRrprNwDBvynhtMuQI7qeAk2XBbRpr14ow_Lqu-5kPnRuVOw1HdTBrpKQ&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ8tMDegQIKBAQ",
+      "9": "https://www.google.com/search?q=baking+pan+size+converter+recipe+scaling&sca_esv=bbb7d61e8d3bb37e&ei=Vhg6asiOLu65mLQP3M3QiAo&start=80&sa=N&sstk=AU9db-DCHwk1XT9ZZW_CBDwLtQrGgdyjOz6VYMb1ZVZt8CRrprNwDBvynhtMuQI7qeAk2XBbRpr14ow_Lqu-5kPnRuVOw1HdTBrpKQ&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ8tMDegQIKBAS",
+      "10": "https://www.google.com/search?q=baking+pan+size+converter+recipe+scaling&sca_esv=bbb7d61e8d3bb37e&ei=Vhg6asiOLu65mLQP3M3QiAo&start=90&sa=N&sstk=AU9db-DCHwk1XT9ZZW_CBDwLtQrGgdyjOz6VYMb1ZVZt8CRrprNwDBvynhtMuQI7qeAk2XBbRpr14ow_Lqu-5kPnRuVOw1HdTBrpKQ&ved=2ahUKEwjIkYevz5yVAxXuHIYAHdwmFKEQ8tMDegQIKBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=baking+pan+size+converter+recipe+scaling&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=baking+pan+size+converter+recipe+scaling&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=baking+pan+size+converter+recipe+scaling&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=baking+pan+size+converter+recipe+scaling&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=baking+pan+size+converter+recipe+scaling&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=baking+pan+size+converter+recipe+scaling&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=baking+pan+size+converter+recipe+scaling&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=baking+pan+size+converter+recipe+scaling&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=baking+pan+size+converter+recipe+scaling&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=baking+pan+size+converter+recipe+scaling&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=baking+pan+size+converter+recipe+scaling&start=90"
+    }
+  }
+}

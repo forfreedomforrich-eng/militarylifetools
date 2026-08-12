@@ -1,0 +1,406 @@
+{
+  "search_metadata": {
+    "id": "6a3a181e759dbcb15708889f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bj3OUH7TNoYmLQUIh0XyqQ/6a3a181e759dbcb15708889f.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/bj3OUH7TNoYmLQUIh0XyqQ/6a3a181e759dbcb15708889f.json_with_pixel_position",
+    "created_at": "2026-06-23 05:22:38 UTC",
+    "processed_at": "2026-06-23 05:22:38 UTC",
+    "google_url": "https://www.google.com/search?q=military+ETS+countdown+days&oq=military+ETS+countdown+days&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/bj3OUH7TNoYmLQUIh0XyqQ/6a3a181e759dbcb15708889f.html",
+    "total_time_taken": 0.64
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "military ETS countdown days",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "military ETS countdown days",
+    "total_results": 113,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is your ETS date the day your IRR ends?",
+      "type": "featured_snippet",
+      "snippet": "For Reserve and Guard members, ETS marks the end of your current obligated service period, though you may still have time remaining on your Individual Ready Reserve (IRR) commitment. \"My ETS date felt like a deadline for everything and a plan for nothing.",
+      "title": "ETS Military Meaning: What Expiration of Term of Service Really Means",
+      "date": "Apr 11, 2026",
+      "link": "https://bestmilitaryresume.com/blog/career-transition/ets-military-meaning-expiration-term-of-service#:~:text=For%20Reserve%20and%20Guard%20members,and%20a%20plan%20for%20nothing.",
+      "displayed_link": "https://bestmilitaryresume.com › blog › career-transition",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAMAAAD-iNU2AAABQVBMVEVHcEyijmyMQ02ZiXOLhHnQyrlubGVHPzy5wLPy9eOUnqOuqaGXhGXOyb9jXltPRkNwenNmX1WUfYNpZV9ZVlB-dWSgjnd9dmmYdntpZ2B7RUV3an97eHO-qpWei3WEf3ymlHYAAACyq58AAAEbGCA1MiJNQyxBOj4oIydcUTNfTkgJBBHq4t9RR0xeWFErBAT7-fY6BhR7bHKojmDp6e5oV3d_cUkwLDqVjJNTSjFDMizGk3mnd3v0o2p5bEVzYHMvFy9AOS1NW193ZT5UGg_axsKKe6QlEwu8oaCQYWxfSmXWh1aShqfAsbKFc5_VyseklqhzZ4fh2NVlX0osKDBjW0tcP02zWGI3H0BZSkZiJT5vQVjKrZ7OmoZnKACjjWJ4YGDVrp-9u8l9Bh3_nk8RFQDSt7JWYWqkIDCgmaiVj6KJwgG_AAAAI3RSTlMAyva0Z2pu_B0NDJfhMLuwVs3Jx-_Lgbns-rvxScCOfCkMWXoz28wAAADqSURBVAiZLcflWsJgAIbhlxjbsMBu1O9bj7GiJEZ3m9hd538AIpfPr-cGmCOEN32LvkMOx0wY_Pfw4DF1ZlwUncDkhwE3IqKTmkrxoiNqSQZ8r1lVWElOS0r1dHwC7LGqqtBzqqjTssdjn6VyVhQEQczKVIphS9TIde_pwW6UiFYOICpYObXSfetWarmEsIEgMQutmv6pW3cFk6whxNaf-3V37H4M73VjGVjvjNoT3XT7cdszOGBpRyslB41Bp0nIAmatWLZF32kiLUt_BH95-_rVernJeMG5wfnz-bb_KvPPWZHd7dXQ_H4BtM4nhY_1A2QAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJqWlNOWE5SYmw5dVlVeDBiVkEwY0cxWVRGSnBSRTF3Y2xsQk0xbDBjREp6ZWtFdGVtaExNRzQyYVVsRGJqVTBjRzFSUTJ4WWQzaFpkRTB0ZUdsaGIwTjBka3B4UlZneWFGWlJTSEE1VURocmRuUkpNVEpUYlhWWFp4SVhTR2huTm1GdmFYZEdUbTA1Y25WRlVEaG1XR2xwUVdjYUlrRkVjM0k1WmxGblJYZGFlVU42TkRSS04xRk9Wa2t6Tm1GTmVtZG1iVjlDUjFFIiwiZmN2IjoiMyIsImVpIjoiSGhnNmFvaXdGTm05cnVFUDhmWGlpQWciLCJxYyI6IkNodHRhV3hwZEdGeWVTQmxkSE1nWTI5MWJuUmtiM2R1SUdSaGVYTVFBSDFTNXdBXyIsInF1ZXN0aW9uIjoiSXMgeW91ciBFVFMgZGF0ZSB0aGUgZGF5IHlvdXIgSVJSIGVuZHM/IiwibGsiOiJjNU5TeXl4V3FNd3ZMVkpJTFNsV1NFa3NTVlVveVVnRk1pb2hvcGxGUUptOGxHSUEiLCJicyI6ImMyMk9QUXZDTUJDR2NiM0pzV1k2dEg3ZzJFbGNPZ2wyY0tsUzUyQlNFckFKSkNrbFA4UF80NF9UUkttZk54MzNQanozUWdYendxTFhyY0hOWVktTU9vNU84UHZpSDllaUxKRXJadlBrVW1VTE1wTlBtanY3aDViR1JCcldNRG9LNnBCcGJxTjVGUVliVGxXZVhHMUdTTkwxZVhDOWNpaGh1ZFVkT28yMVZBeDE2NzRLU2hXX1V0UDRQRXZKV1B5ai00SUJneDJrd2NtcE9YczhVUldZS0t5TmJ0NXNVeklSUDF4UWZYRER3UTAiLCJpZCI6ImZjX0hoZzZhb2l3Rk5tOXJ1RVA4ZlhpaUFnXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJqWlNOWE5SYmw5dVlVeDBiVkEwY0cxWVRGSnBSRTF3Y2xsQk0xbDBjREp6ZWtFdGVtaExNRzQyYVVsRGJqVTBjRzFSUTJ4WWQzaFpkRTB0ZUdsaGIwTjBka3B4UlZneWFGWlJTSEE1VURocmRuUkpNVEpUYlhWWFp4SVhTR2huTm1GdmFYZEdUbTA1Y25WRlVEaG1XR2xwUVdjYUlrRkVjM0k1WmxGblJYZGFlVU42TkRSS04xRk9Wa2t6Tm1GTmVtZG1iVjlDUjFFIiwiZmN2IjoiMyIsImVpIjoiSGhnNmFvaXdGTm05cnVFUDhmWGlpQWciLCJxYyI6IkNodHRhV3hwZEdGeWVTQmxkSE1nWTI5MWJuUmtiM2R1SUdSaGVYTVFBSDFTNXdBXyIsInF1ZXN0aW9uIjoiSXMgeW91ciBFVFMgZGF0ZSB0aGUgZGF5IHlvdXIgSVJSIGVuZHM%2FIiwibGsiOiJjNU5TeXl4V3FNd3ZMVkpJTFNsV1NFa3NTVlVveVVnRk1pb2hvcGxGUUptOGxHSUEiLCJicyI6ImMyMk9QUXZDTUJDR2NiM0pzV1k2dEg3ZzJFbGNPZ2wyY0tsUzUyQlNFckFKSkNrbFA4UF80NF9UUkttZk54MzNQanozUWdYendxTFhyY0hOWVktTU9vNU84UHZpSDllaUxKRXJadlBrVW1VTE1wTlBtanY3aDViR1JCcldNRG9LNnBCcGJxTjVGUVliVGxXZVhHMUdTTkwxZVhDOWNpaGh1ZFVkT28yMVZBeDE2NzRLU2hXX1V0UDRQRXZKV1B5ai00SUJneDJrd2NtcE9YczhVUldZS0t5TmJ0NXNVeklSUDF4UWZYRER3UTAiLCJpZCI6ImZjX0hoZzZhb2l3Rk5tOXJ1RVA4ZlhpaUFnXzMifQ%3D%3D"
+    },
+    {
+      "question": "What does ETS 88888 mean?",
+      "type": "featured_snippet",
+      "snippet": "It should be there. 888888 just means you are in INDEF status.",
+      "title": "Trying to figure out my ETS date and my LES reads 888888 in ... - Reddit",
+      "date": "Nov 6, 2022",
+      "link": "https://www.reddit.com/r/army/comments/yo6jdx/trying_to_figure_out_my_ets_date_and_my_les_reads/#:~:text=It%20should%20be%20there.,you%20are%20in%20INDEF%20status.",
+      "displayed_link": "https://www.reddit.com › army › comments › trying_to_...",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABaklEQVR4AYWTA4xeQRSFbxXbteKktm3GqRWXUW1EteOkDGubcbG2bVtn_y8vk91ZTnIy99175vrZsgOrPWiJjQjhlhZbQugWQEaHrSO_4-P7POgSE0KYboLTpQMttrDuHresHyRlJAaYbS1w3bteI_-cOkC7Vi9TtQTUuGelNL8tE1ezAAZ3k27VONO50cF3xvvXwJXhMMIUNCcwbBxLrUGUlw9U_PuLALK2TpaGBxznhLfmut1SXiQOdzfH47jpGE1pun3KI-bGxHH1qOMNb436SDmvtlEc6qR2UncHGR02DlzXTCMNaqq8e0HVkMP_SVuNkckdZHTY4MDlDW9dE5m1Uksr8Q5JFy5d0aGjxwAyOmwAblsT3RipJ-_GWUXkl-NIj58-l5kBZHTYBMdNgbfeImGoPrZLEX_D9C-zmAcAGR229o_v-6u8xPLaLxFz5wFARucWratVPoXBw3wP6LzIwF_lLtH779wKcMx4kN4XvzsAAAAASUVORK5CYII.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJqWlNOWE5SYmw5dVlVeDBiVkEwY0cxWVRGSnBSRTF3Y2xsQk0xbDBjREp6ZWtFdGVtaExNRzQyYVVsRGJqVTBjRzFSUTJ4WWQzaFpkRTB0ZUdsaGIwTjBka3B4UlZneWFGWlJTSEE1VURocmRuUkpNVEpUYlhWWFp4SVhTR2huTm1GdmFYZEdUbTA1Y25WRlVEaG1XR2xwUVdjYUlrRkVjM0k1WmxGblJYZGFlVU42TkRSS04xRk9Wa2t6Tm1GTmVtZG1iVjlDUjFFIiwiZmN2IjoiMyIsImVpIjoiSGhnNmFvaXdGTm05cnVFUDhmWGlpQWciLCJxYyI6IkNodHRhV3hwZEdGeWVTQmxkSE1nWTI5MWJuUmtiM2R1SUdSaGVYTVFBSDFTNXdBXyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIEVUUyA4ODg4OCBtZWFuPyIsImxrIjoiYzVPU0tNOUlMRkZJeVU4dFZrZ3RLVmF3QUFHRjNOVEVQQUEiLCJicyI6ImMyMk9QUXZDTUJDR2NiM0pzV1k2dEg3ZzJFbGNPZ2wyY0tsUzUyQlNFckFKSkNrbFA4UF80NF9UUkttZk54MzNQanozUWdYendxTFhyY0hOWVktTU9vNU84UHZpSDllaUxKRXJadlBrVW1VTE1wTlBtanY3aDViR1JCcldNRG9LNnBCcGJxTjVGUVliVGxXZVhHMUdTTkwxZVhDOWNpaGh1ZFVkT28yMVZBeDE2NzRLU2hXX1V0UDRQRXZKV1B5ai00SUJneDJrd2NtcE9YczhVUldZS0t5TmJ0NXNVeklSUDF4UWZYRER3UTAiLCJpZCI6ImZjX0hoZzZhb2l3Rk5tOXJ1RVA4ZlhpaUFnXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJqWlNOWE5SYmw5dVlVeDBiVkEwY0cxWVRGSnBSRTF3Y2xsQk0xbDBjREp6ZWtFdGVtaExNRzQyYVVsRGJqVTBjRzFSUTJ4WWQzaFpkRTB0ZUdsaGIwTjBka3B4UlZneWFGWlJTSEE1VURocmRuUkpNVEpUYlhWWFp4SVhTR2huTm1GdmFYZEdUbTA1Y25WRlVEaG1XR2xwUVdjYUlrRkVjM0k1WmxGblJYZGFlVU42TkRSS04xRk9Wa2t6Tm1GTmVtZG1iVjlDUjFFIiwiZmN2IjoiMyIsImVpIjoiSGhnNmFvaXdGTm05cnVFUDhmWGlpQWciLCJxYyI6IkNodHRhV3hwZEdGeWVTQmxkSE1nWTI5MWJuUmtiM2R1SUdSaGVYTVFBSDFTNXdBXyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIEVUUyA4ODg4OCBtZWFuPyIsImxrIjoiYzVPU0tNOUlMRkZJeVU4dFZrZ3RLVmF3QUFHRjNOVEVQQUEiLCJicyI6ImMyMk9QUXZDTUJDR2NiM0pzV1k2dEg3ZzJFbGNPZ2wyY0tsUzUyQlNFckFKSkNrbFA4UF80NF9UUkttZk54MzNQanozUWdYendxTFhyY0hOWVktTU9vNU84UHZpSDllaUxKRXJadlBrVW1VTE1wTlBtanY3aDViR1JCcldNRG9LNnBCcGJxTjVGUVliVGxXZVhHMUdTTkwxZVhDOWNpaGh1ZFVkT28yMVZBeDE2NzRLU2hXX1V0UDRQRXZKV1B5ai00SUJneDJrd2NtcE9YczhVUldZS0t5TmJ0NXNVeklSUDF4UWZYRER3UTAiLCJpZCI6ImZjX0hoZzZhb2l3Rk5tOXJ1RVA4ZlhpaUFnXzMifQ%3D%3D"
+    },
+    {
+      "question": "How to find out your ETS date in the army?",
+      "type": "ai_overview",
+      "page_token": "DsFF5XicHdBRboIwAADQ7DJ-Coi6YWIW0QIjQhVoi_wsUMRiSyGTWOBvd9mpdpole0d43z-ilvz3JWV93z02mqaUmt_a9iauc9o2Wv4YJdVoLkSRU75Zv66N94puwUPZ-1bZZ9R1-BDpiVfinItnmHYX6L4tiIdhONl14aGpJMOSOEIvXGVSYjkX7qOcoCHeG2HufSwSYVVBCoZSRE7A_TVEg8qa4ZhM_gkR3iPXOV7vjCeg90uCJdKpUQB8yAA7HXE3IAObCRZTCTo7NsEUO76C4DFGwKoDjxlnIxhD3dondzpBzIKCrzhMd7GjszabMlYshBnxVQ9T34jwbpkJ1uXIkW7t25EXjpBkCMsoQNJekTswE4-ZF33orxhnARHnmPRNKbGcVfS5NWf_Y9vPquk33Vd7-wPaGnl9",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DsFF5XicHdBRboIwAADQ7DJ-Coi6YWIW0QIjQhVoi_wsUMRiSyGTWOBvd9mpdpole0d43z-ilvz3JWV93z02mqaUmt_a9iauc9o2Wv4YJdVoLkSRU75Zv66N94puwUPZ-1bZZ9R1-BDpiVfinItnmHYX6L4tiIdhONl14aGpJMOSOEIvXGVSYjkX7qOcoCHeG2HufSwSYVVBCoZSRE7A_TVEg8qa4ZhM_gkR3iPXOV7vjCeg90uCJdKpUQB8yAA7HXE3IAObCRZTCTo7NsEUO76C4DFGwKoDjxlnIxhD3dondzpBzIKCrzhMd7GjszabMlYshBnxVQ9T34jwbpkJ1uXIkW7t25EXjpBkCMsoQNJekTswE4-ZF33orxhnARHnmPRNKbGcVfS5NWf_Y9vPquk33Vd7-wPaGnl9",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJqWlNOWE5SYmw5dVlVeDBiVkEwY0cxWVRGSnBSRTF3Y2xsQk0xbDBjREp6ZWtFdGVtaExNRzQyYVVsRGJqVTBjRzFSUTJ4WWQzaFpkRTB0ZUdsaGIwTjBka3B4UlZneWFGWlJTSEE1VURocmRuUkpNVEpUYlhWWFp4SVhTR2huTm1GdmFYZEdUbTA1Y25WRlVEaG1XR2xwUVdjYUlrRkVjM0k1WmxGblJYZGFlVU42TkRSS04xRk9Wa2t6Tm1GTmVtZG1iVjlDUjFFIiwiZmN2IjoiMyIsImVpIjoiSGhnNmFvaXdGTm05cnVFUDhmWGlpQWciLCJxYyI6IkNodHRhV3hwZEdGeWVTQmxkSE1nWTI5MWJuUmtiM2R1SUdSaGVYTVFBSDFTNXdBXyIsInF1ZXN0aW9uIjoiSG93IHRvIGZpbmQgb3V0IHlvdXIgRVRTIGRhdGUgaW4gdGhlIGFybXk/IiwibGsiOiJHaUpvYjNjZ2RHOGdabWx1WkNCdmRYUWdlVzkxY2lCbGRITWdaR0YwWlNCaGNtMTUiLCJicyI6ImMyMk9QUXZDTUJDR2NiM0pzV1k2dEg3ZzJFbGNPZ2wyY0tsUzUyQlNFckFKSkNrbFA4UF80NF9UUkttZk54MzNQanozUWdYendxTFhyY0hOWVktTU9vNU84UHZpSDllaUxKRXJadlBrVW1VTE1wTlBtanY3aDViR1JCcldNRG9LNnBCcGJxTjVGUVliVGxXZVhHMUdTTkwxZVhDOWNpaGh1ZFVkT28yMVZBeDE2NzRLU2hXX1V0UDRQRXZKV1B5ai00SUJneDJrd2NtcE9YczhVUldZS0t5TmJ0NXNVeklSUDF4UWZYRER3UTAiLCJpZCI6ImZjX0hoZzZhb2l3Rk5tOXJ1RVA4ZlhpaUFnXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJqWlNOWE5SYmw5dVlVeDBiVkEwY0cxWVRGSnBSRTF3Y2xsQk0xbDBjREp6ZWtFdGVtaExNRzQyYVVsRGJqVTBjRzFSUTJ4WWQzaFpkRTB0ZUdsaGIwTjBka3B4UlZneWFGWlJTSEE1VURocmRuUkpNVEpUYlhWWFp4SVhTR2huTm1GdmFYZEdUbTA1Y25WRlVEaG1XR2xwUVdjYUlrRkVjM0k1WmxGblJYZGFlVU42TkRSS04xRk9Wa2t6Tm1GTmVtZG1iVjlDUjFFIiwiZmN2IjoiMyIsImVpIjoiSGhnNmFvaXdGTm05cnVFUDhmWGlpQWciLCJxYyI6IkNodHRhV3hwZEdGeWVTQmxkSE1nWTI5MWJuUmtiM2R1SUdSaGVYTVFBSDFTNXdBXyIsInF1ZXN0aW9uIjoiSG93IHRvIGZpbmQgb3V0IHlvdXIgRVRTIGRhdGUgaW4gdGhlIGFybXk%2FIiwibGsiOiJHaUpvYjNjZ2RHOGdabWx1WkNCdmRYUWdlVzkxY2lCbGRITWdaR0YwWlNCaGNtMTUiLCJicyI6ImMyMk9QUXZDTUJDR2NiM0pzV1k2dEg3ZzJFbGNPZ2wyY0tsUzUyQlNFckFKSkNrbFA4UF80NF9UUkttZk54MzNQanozUWdYendxTFhyY0hOWVktTU9vNU84UHZpSDllaUxKRXJadlBrVW1VTE1wTlBtanY3aDViR1JCcldNRG9LNnBCcGJxTjVGUVliVGxXZVhHMUdTTkwxZVhDOWNpaGh1ZFVkT28yMVZBeDE2NzRLU2hXX1V0UDRQRXZKV1B5ai00SUJneDJrd2NtcE9YczhVUldZS0t5TmJ0NXNVeklSUDF4UWZYRER3UTAiLCJpZCI6ImZjX0hoZzZhb2l3Rk5tOXJ1RVA4ZlhpaUFnXzMifQ%3D%3D"
+    },
+    {
+      "question": "How early can you ETS from the army?",
+      "type": "ai_overview",
+      "page_token": "J98Rj3icHdBdboIwAADg7DI-CtbhoolZ7KAo0RL7C31ZShFRK-DGRHjbXXaqnWbJviN83z_2VF1-n-5l2zafC8fpum58rOujPYxNfXX0Z18Zx2hrM20ui9nLbPJamGXwtYFvtw3c86YRPnFpIhhzo06ETUB91CoEvQx4Xe6mgMtHjK8Nkhevx346HHxYU4aYGuAttarJBlHjyvpZMLHcLwFJbCQQZgQ8WOKWBAPXxWFe7BAGVJanDET7lM-neo3bjKM-lt5NMXWPuXeKEbwlbuTpQWy5xJJdcmJ8qOkZU3HGUgyQbiWJaAKtDMWEcFUJHrW0UkAE7fNhHRUclFVQ5hsdGpDKeZO7Ks6Y7XMu9nGoUi0tVI_6tOdkMGd75aCFJiyhQOiciTnh_mqIJfZ2Qc7TSmz0dNWrblSY-3I6-v9cvhfXdtF81Mc_QXyCOg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=J98Rj3icHdBdboIwAADg7DI-CtbhoolZ7KAo0RL7C31ZShFRK-DGRHjbXXaqnWbJviN83z_2VF1-n-5l2zafC8fpum58rOujPYxNfXX0Z18Zx2hrM20ui9nLbPJamGXwtYFvtw3c86YRPnFpIhhzo06ETUB91CoEvQx4Xe6mgMtHjK8Nkhevx346HHxYU4aYGuAttarJBlHjyvpZMLHcLwFJbCQQZgQ8WOKWBAPXxWFe7BAGVJanDET7lM-neo3bjKM-lt5NMXWPuXeKEbwlbuTpQWy5xJJdcmJ8qOkZU3HGUgyQbiWJaAKtDMWEcFUJHrW0UkAE7fNhHRUclFVQ5hsdGpDKeZO7Ks6Y7XMu9nGoUi0tVI_6tOdkMGd75aCFJiyhQOiciTnh_mqIJfZ2Qc7TSmz0dNWrblSY-3I6-v9cvhfXdtF81Mc_QXyCOg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJqWlNOWE5SYmw5dVlVeDBiVkEwY0cxWVRGSnBSRTF3Y2xsQk0xbDBjREp6ZWtFdGVtaExNRzQyYVVsRGJqVTBjRzFSUTJ4WWQzaFpkRTB0ZUdsaGIwTjBka3B4UlZneWFGWlJTSEE1VURocmRuUkpNVEpUYlhWWFp4SVhTR2huTm1GdmFYZEdUbTA1Y25WRlVEaG1XR2xwUVdjYUlrRkVjM0k1WmxGblJYZGFlVU42TkRSS04xRk9Wa2t6Tm1GTmVtZG1iVjlDUjFFIiwiZmN2IjoiMyIsImVpIjoiSGhnNmFvaXdGTm05cnVFUDhmWGlpQWciLCJxYyI6IkNodHRhV3hwZEdGeWVTQmxkSE1nWTI5MWJuUmtiM2R1SUdSaGVYTVFBSDFTNXdBXyIsInF1ZXN0aW9uIjoiSG93IGVhcmx5IGNhbiB5b3UgRVRTIGZyb20gdGhlIGFybXk/IiwibGsiOiJHaU5vYjNjZ1pXRnliSGtnWTJGdUlIbHZkU0JsZEhNZ1puSnZiU0IwYUdVZ1lYSnRlUSIsImJzIjoiYzIyT1BRdkNNQkNHY2IzSnNXWTZ0SDdnMkVsY09nbDJjS2xTNTJCU0VyQUpKQ2tsUDhQXzQ0X1RSS21mTngzM1BqejNRZ1h6d3FMWHJjSE5ZWS1NT281TzhQdmlIOWVpTEpFclp2UGtVbVVMTXBOUG1qdjdoNWJHUkJyV01Eb0s2cEJwYnFONUZRWWJUbFdlWEcxR1NOTDFlWEM5Y2loaHVkVWRPbzIxVkF4MTY3NEtTaFdfVXRQNFBFdkpXUHlqLTRJQmd4Mmt3Y21wT1hzOFVSV1lLS3lOYnQ1c1V6SVJQMXhRZlhERHdRMCIsImlkIjoiZmNfSGhnNmFvaXdGTm05cnVFUDhmWGlpQWdfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlJqWlNOWE5SYmw5dVlVeDBiVkEwY0cxWVRGSnBSRTF3Y2xsQk0xbDBjREp6ZWtFdGVtaExNRzQyYVVsRGJqVTBjRzFSUTJ4WWQzaFpkRTB0ZUdsaGIwTjBka3B4UlZneWFGWlJTSEE1VURocmRuUkpNVEpUYlhWWFp4SVhTR2huTm1GdmFYZEdUbTA1Y25WRlVEaG1XR2xwUVdjYUlrRkVjM0k1WmxGblJYZGFlVU42TkRSS04xRk9Wa2t6Tm1GTmVtZG1iVjlDUjFFIiwiZmN2IjoiMyIsImVpIjoiSGhnNmFvaXdGTm05cnVFUDhmWGlpQWciLCJxYyI6IkNodHRhV3hwZEdGeWVTQmxkSE1nWTI5MWJuUmtiM2R1SUdSaGVYTVFBSDFTNXdBXyIsInF1ZXN0aW9uIjoiSG93IGVhcmx5IGNhbiB5b3UgRVRTIGZyb20gdGhlIGFybXk%2FIiwibGsiOiJHaU5vYjNjZ1pXRnliSGtnWTJGdUlIbHZkU0JsZEhNZ1puSnZiU0IwYUdVZ1lYSnRlUSIsImJzIjoiYzIyT1BRdkNNQkNHY2IzSnNXWTZ0SDdnMkVsY09nbDJjS2xTNTJCU0VyQUpKQ2tsUDhQXzQ0X1RSS21mTngzM1BqejNRZ1h6d3FMWHJjSE5ZWS1NT281TzhQdmlIOWVpTEpFclp2UGtVbVVMTXBOUG1qdjdoNWJHUkJyV01Eb0s2cEJwYnFONUZRWWJUbFdlWEcxR1NOTDFlWEM5Y2loaHVkVWRPbzIxVkF4MTY3NEtTaFdfVXRQNFBFdkpXUHlqLTRJQmd4Mmt3Y21wT1hzOFVSV1lLS3lOYnQ1c1V6SVJQMXhRZlhERHdRMCIsImlkIjoiZmNfSGhnNmFvaXdGTm05cnVFUDhmWGlpQWdfMyJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "eUNnkXicxZbrcrI4GID_732sf1oFqvXQGeabBKOin7ZUaWv_MJwMqIgSFfHf3ste1d7C3sQmHCxUbWe_mZ2NY0LCy3tI3oeXP_5cuqvFX7_97Wy3a_LAcWEYVrDv46VdMX2P00m0MrmZvySB6fwg_i4wbdcSTSfwPbsU7cVqySSiULJdsefguu67YWfktYIdemrO3lwX4FKsQtQMndhzauEwJ5zG0W7xe7VNJxVSsVcVyakZhxd_cDiolTteaFUeOd2jAuA_bAg8x6NCfzId5TMJZh6DNv5KiyKzB_XcipTrszZkiqgJOR6kqxrHiReyNGUi7fJ7UIOgrcT3el94MS5OX1mHQAgAZC4i5dIzl5zI1vx0hFctovOlWBimtgq7dmYqXYD5A1aYzkkTSB8HkYUMQRYBFcH0GiYK7gGsPYVSV2KhXmlUco17yCkrF53Otc4ArTM9P6dd6hFnYZqEPGcEdBA413TM-CIgLDelSYv3u72R2249Gp1I8tBwJnXmk8XjjvrXnSicaVC5pa9btqU5Gv8jngt3wj3fqjaatzEUJjlRQfJUvNeHS1Dtz6odUPlZgUIOiXgz5MKusnSDV8IbpHv4SRwkWpi-frI32dkBNRODfkZHujBfsK02cLaXTXYUzmeL7J6eXr_TmVTAAecvKBKxJlk9PZkXlph5GDua5_OMyY95GsMUDJRTyIhOTxHDk52kQbBgIcrdbOEjl5hWvExsUyRQqvCx8DzOO8a8lQDKbp88YDLtxUkMxR4C2GX9FMgdpGAqy_5x8OlRUiTk4osEzAuzDvVwhNv4EuAXoc83-L0MAlnuf0rlPAK9_caAjwudf13M74_kddQKwYoYQwvV8eWU9z3jX1QC8_-FQk3rhJqSMLgIBf4GCkVG8iUoMqOJ3x91guWK5F-DYpxCUawTSeJ-1IlzKMZFKE51Qv5cJ3JQJFq-hgJehQKBy1Cwd80ZFPgKFEmdyENRrBOrk2YWQQ6KX6oTyi_UiZgROxmKRWM3x1eLR68M6pGCTHs6m_tHXFZrNinvIst-kr4vHjNv--Dp1vJWc60HeNffRtatRhf8B9sqbUTPXbpbPYhu0GR8Y_q71dbyw9WNpUek5C0DX-T1en9AqnS336VQ2b3uTJc0RsIR9eWesHca5c3YbDYOnsXf9-b3EmwOyhqcODW-D-FwYzW03uLt5VhXn7UZCRre0RZUlbTeWvxGh2QojQfTcUsebKLnfth61o51vJ1Jo-Zyv7Gi3nTc5JFUf1EPZdd94YPIMN7XOPaLiOstOcwGqoGemyUaD7HpB6YXmCIloIbBSAGvGJhAmgKFfkgpkk__IT34EjF1zSZ70TCMhlUX7KZVNYxqwy55eButxZpQIqtAFP4B0vQeag",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eUNnkXicxZbrcrI4GID_732sf1oFqvXQGeabBKOin7ZUaWv_MJwMqIgSFfHf3ste1d7C3sQmHCxUbWe_mZ2NY0LCy3tI3oeXP_5cuqvFX7_97Wy3a_LAcWEYVrDv46VdMX2P00m0MrmZvySB6fwg_i4wbdcSTSfwPbsU7cVqySSiULJdsefguu67YWfktYIdemrO3lwX4FKsQtQMndhzauEwJ5zG0W7xe7VNJxVSsVcVyakZhxd_cDiolTteaFUeOd2jAuA_bAg8x6NCfzId5TMJZh6DNv5KiyKzB_XcipTrszZkiqgJOR6kqxrHiReyNGUi7fJ7UIOgrcT3el94MS5OX1mHQAgAZC4i5dIzl5zI1vx0hFctovOlWBimtgq7dmYqXYD5A1aYzkkTSB8HkYUMQRYBFcH0GiYK7gGsPYVSV2KhXmlUco17yCkrF53Otc4ArTM9P6dd6hFnYZqEPGcEdBA413TM-CIgLDelSYv3u72R2249Gp1I8tBwJnXmk8XjjvrXnSicaVC5pa9btqU5Gv8jngt3wj3fqjaatzEUJjlRQfJUvNeHS1Dtz6odUPlZgUIOiXgz5MKusnSDV8IbpHv4SRwkWpi-frI32dkBNRODfkZHujBfsK02cLaXTXYUzmeL7J6eXr_TmVTAAecvKBKxJlk9PZkXlph5GDua5_OMyY95GsMUDJRTyIhOTxHDk52kQbBgIcrdbOEjl5hWvExsUyRQqvCx8DzOO8a8lQDKbp88YDLtxUkMxR4C2GX9FMgdpGAqy_5x8OlRUiTk4osEzAuzDvVwhNv4EuAXoc83-L0MAlnuf0rlPAK9_caAjwudf13M74_kddQKwYoYQwvV8eWU9z3jX1QC8_-FQk3rhJqSMLgIBf4GCkVG8iUoMqOJ3x91guWK5F-DYpxCUawTSeJ-1IlzKMZFKE51Qv5cJ3JQJFq-hgJehQKBy1Cwd80ZFPgKFEmdyENRrBOrk2YWQQ6KX6oTyi_UiZgROxmKRWM3x1eLR68M6pGCTHs6m_tHXFZrNinvIst-kr4vHjNv--Dp1vJWc60HeNffRtatRhf8B9sqbUTPXbpbPYhu0GR8Y_q71dbyw9WNpUek5C0DX-T1en9AqnS336VQ2b3uTJc0RsIR9eWesHca5c3YbDYOnsXf9-b3EmwOyhqcODW-D-FwYzW03uLt5VhXn7UZCRre0RZUlbTeWvxGh2QojQfTcUsebKLnfth61o51vJ1Jo-Zyv7Gi3nTc5JFUf1EPZdd94YPIMN7XOPaLiOstOcwGqoGemyUaD7HpB6YXmCIloIbBSAGvGJhAmgKFfkgpkk__IT34EjF1zSZ70TCMhlUX7KZVNYxqwy55eButxZpQIqtAFP4B0vQeag"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How far out from ETS did you start counting the days? : r/army",
+      "link": "https://www.reddit.com/r/army/comments/121zhyj/how_far_out_from_ets_did_you_start_counting_the/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/army/comments/121zhyj/how_far_out_from_ets_did_you_start_counting_the/&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQFnoECBkQAQ",
+      "displayed_link": "20+ comments · 3 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "the exact number but it was a little over 900. 913 maybe? tracking days until ETS and days until terminal leave. less than a year!! which was ...",
+      "snippet_highlighted_words": [
+        "days",
+        "ETS",
+        "days"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "How far out did you start counting the days until ETS ...",
+            "link": "https://www.reddit.com/r/army/comments/5box9o/how_far_out_did_you_start_counting_the_days_until/",
+            "answer_count": 15,
+            "date": "Nov 7, 2016"
+          },
+          {
+            "title": "Countdown to Retirement : r/AirForce - Reddit",
+            "link": "https://www.reddit.com/r/AirForce/comments/1hs60x0/countdown_to_retirement/",
+            "answer_count": 91,
+            "date": "Jan 2, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "the exact number but it was a little over 900. 913 maybe? tracking days until ETS and days until terminal leave. less than a year!! which was ...",
+          "source_info_link": "https://www.reddit.com/r/army/comments/121zhyj/how_far_out_from_ets_did_you_start_counting_the/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/army/comments/121zhyj/how_far_out_from_ets_did_you_start_counting_the/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Farmy%2Fcomments%2F121zhyj%2Fhow_far_out_from_ets_did_you_start_counting_the%2F",
+      "source": "Reddit · r/army"
+    },
+    {
+      "position": 2,
+      "title": "Countdown Timer to Any Date",
+      "link": "https://www.timeanddate.com/countdown/create?msg=ETS%20(out%20of%20the%20Army!)&p0=398&year=2015&month=1&day=12&hour=0&min=0&sec=0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.timeanddate.com/countdown/create%3Fmsg%3DETS%2520(out%2520of%2520the%2520Army!)%26p0%3D398%26year%3D2015%26month%3D1%26day%3D12%26hour%3D0%26min%3D0%26sec%3D0&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQFnoECCAQAQ",
+      "displayed_link": "https://www.timeanddate.com › countdown › create › ms...",
+      "favicon": "https://serpapi.com/searches/6a3a181e759dbcb15708889f/images/gw_MDJzIWjCbgg4FtTlp1bigdKytp9bglER8w6D2wOk.png",
+      "snippet": "Create a Countdown Timer that counts down in seconds, minutes, hours and days to any date, with time zone support. It also counts up from a past date.",
+      "snippet_highlighted_words": [
+        "Create a Countdown Timer that counts down in seconds, minutes, hours and days"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Create a Countdown Timer that counts down in seconds, minutes, hours and days to any date, with time zone support. It also counts up from a past date.",
+          "source_info_link": "https://www.timeanddate.com/countdown/create?msg=ETS%20(out%20of%20the%20Army!)&p0=398&year=2015&month=1&day=12&hour=0&min=0&sec=0",
+          "icon": "https://serpapi.com/searches/6a3a181e759dbcb15708889f/images/gw_MDJzIWjCbgg4FtTlp1XvrDZiv88Ezv4eBNOVPgWsvnIgVwucYkP7_m8HlzMW-.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.timeanddate.com/countdown/create?msg=ETS%20(out%20of%20the%20Army!)&p0=398&year=2015&month=1&day=12&hour=0&min=0&sec=0&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.timeanddate.com%2Fcountdown%2Fcreate%3Fmsg%3DETS%2520%28out%2520of%2520the%2520Army%21%29%26p0%3D398%26year%3D2015%26month%3D1%26day%3D12%26hour%3D0%26min%3D0%26sec%3D0",
+      "source": "Time and Date"
+    },
+    {
+      "position": 3,
+      "title": "Army ETS Clock 1.2 Free Download",
+      "link": "https://army-ets-clock.soft112.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://army-ets-clock.soft112.com/&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQFnoECCIQAQ",
+      "displayed_link": "https://army-ets-clock.soft112.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwUXWAVXWAUXWAVXWACV10AT1tKemyJpH-sv4uhtofk66D__63__6pskHUpZ2S9zJHT3ZnENlPlAAAABXRSTlMApvn_-t4y7kcAAADWSURBVHgBfdOHAoQgCADQOgNBwfH_P3ukN2nQ7rnHsqyPcBrbahYuY11-8sGIn7zLlzASc6KIH_8gxiwzlMEhFFFVkXH3OauoSuaUsj1dTmBRaYiAQQ6Ie4Y6XkUknOB8TURnyAiztx5ZTHvB4WetNdZWjD1C1MmSIzo0BTYZTOjQArGwDo7g0QLMd2zo6ny1E_cxzv8I1HoZGo6IWYR2hHiCXYXQYg4VeFTpzH30tfqxnV0cVvx8UpZX9Gjmu1IpMTPV37HdfhYmIsDvsr5f1Mu6XW6HJ4bbEPs3RuMBAAAAAElFTkSuQmCC.png",
+      "snippet": "The Army ETS Clock is a military separation count down timer to count down the number of years, months, weeks, days, hours, minutes and seconds",
+      "snippet_highlighted_words": [
+        "count down the number of years, months, weeks, days"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Army ETS Clock is a military separation count down timer to count down the number of years, months, weeks, days, hours, minutes and seconds",
+          "source_info_link": "https://army-ets-clock.soft112.com/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwUXWAVXWAUXWAVXWACV10AT1tKemyJpH-sv4uhtofk66D__63__6pskHUpZ2S9zJHT3ZnENlPlAAAABXRSTlMApvn_-t4y7kcAAADWSURBVHgBfdOHAoQgCADQOgNBwfH_P3ukN2nQ7rnHsqyPcBrbahYuY11-8sGIn7zLlzASc6KIH_8gxiwzlMEhFFFVkXH3OauoSuaUsj1dTmBRaYiAQQ6Ie4Y6XkUknOB8TURnyAiztx5ZTHvB4WetNdZWjD1C1MmSIzo0BTYZTOjQArGwDo7g0QLMd2zo6ny1E_cxzv8I1HoZGo6IWYR2hHiCXYXQYg4VeFTpzH30tfqxnV0cVvx8UpZX9Gjmu1IpMTPV37HdfhYmIsDvsr5f1Mu6XW6HJ4bbEPs3RuMBAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://army-ets-clock.soft112.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Farmy-ets-clock.soft112.com%2F",
+      "source": "Soft112",
+      "read_more_link": "https://army-ets-clock.soft112.com/#:~:text=The%20Army%20ETS%20Clock%20is,enjoy%20civilian%20life%20once%20again."
+    },
+    {
+      "position": 4,
+      "title": "7 Fun Deployment Countdown Displays",
+      "link": "https://seasonedspouse.com/deployment-countdown-displays/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://seasonedspouse.com/deployment-countdown-displays/&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQFnoECBwQAQ",
+      "displayed_link": "https://seasonedspouse.com › deployment-countdown-d...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX____58O_z4uD79vXqy8jiubXx3dv15uXv1dLgsq3u19Xu7u7f39-7u7vKysr6-vr8-PfFxu7LzPCho-Xv7_q-v-yVl-Lk5Pfx8fvQ0fHf3_XV1vOusOiJi9-qrOe4uuuEht6QkuGbnePQhX7nxcJ9gNx0d9vCYlnLe3S0JxLYoZ3j4_cuTLIVAAAA6ElEQVR4AWKgNmBkYmLEKcfMwsLChEOSiYWVBVDOXBgGCANRAP24WwLx4FT3369YvRv0xXMSRviTFydRmqa4ZR_j4ISO78WRh1NelPeosEsdB1Fa41LlyKtz4OSGfoJDQ_ADBbw6xq7tWMsFEQRSKA3FhZHY-TV2tmV9T3U_6H6c9Dz0FEAIf_FXGKomzTYym152E5kVe0Dw-OSmy-JgV-3j3XVLnp00CHAyA8E3L8GKKsVp09R0igqqVS8bil380aohe8CSpt8wvo4DditufOZbD9pLwzoqZo2djw-8ww8xPgj8VOMfeQNNMA9Bq2xk9wAAAABJRU5ErkJggg.png",
+      "snippet": "There's no wrong way to do a deployment countdown. You can use an app, a calendar, a chalkboard, and little stones in a jar.",
+      "snippet_highlighted_words": [
+        "You can use an app, a calendar, a chalkboard, and little stones in a jar"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "There's no wrong way to do a deployment countdown. You can use an app, a calendar, a chalkboard, and little stones in a jar.",
+          "source_info_link": "https://seasonedspouse.com/deployment-countdown-displays/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX____58O_z4uD79vXqy8jiubXx3dv15uXv1dLgsq3u19Xu7u7f39-7u7vKysr6-vr8-PfFxu7LzPCho-Xv7_q-v-yVl-Lk5Pfx8fvQ0fHf3_XV1vOusOiJi9-qrOe4uuuEht6QkuGbnePQhX7nxcJ9gNx0d9vCYlnLe3S0JxLYoZ3j4_cuTLIVAAAA6ElEQVR4AWKgNmBkYmLEKcfMwsLChEOSiYWVBVDOXBgGCANRAP24WwLx4FT3369YvRv0xXMSRviTFydRmqa4ZR_j4ISO78WRh1NelPeosEsdB1Fa41LlyKtz4OSGfoJDQ_ADBbw6xq7tWMsFEQRSKA3FhZHY-TV2tmV9T3U_6H6c9Dz0FEAIf_FXGKomzTYym152E5kVe0Dw-OSmy-JgV-3j3XVLnp00CHAyA8E3L8GKKsVp09R0igqqVS8bil380aohe8CSpt8wvo4DditufOZbD9pLwzoqZo2djw-8ww8xPgj8VOMfeQNNMA9Bq2xk9wAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://seasonedspouse.com/deployment-countdown-displays/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fseasonedspouse.com%2Fdeployment-countdown-displays%2F",
+      "source": "Seasoned Spouse",
+      "read_more_link": "https://seasonedspouse.com/deployment-countdown-displays/#:~:text=There's%20no%20wrong%20way%20to,little%20stones%20in%20a%20jar."
+    },
+    {
+      "position": 5,
+      "title": "Soldier's Countdown - App Store - Apple",
+      "link": "https://apps.apple.com/us/app/soldiers-countdown/id1579045366",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/soldiers-countdown/id1579045366&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQFnoECB8QAQ",
+      "displayed_link": "https://apps.apple.com › app › soldiers-countdown",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAqFBMVEVHcExy2vB10fs_pvaK0eBUmPFJwfcqdvdDi_NQt_k0w_otjfk3gfIud_JNxvVAw_U9ifNCieFDjfI2f_JmzPRp0vUYZfEZb_IfovkhrvoadvMYafIhs_sZi_UhtfsfnfgOfvMbtPsfqPoShfQdlvcemvccj_Ydk_bC7f-k1_8Bb-5wsPa35f9PzP2bz_7U8_-v4P_l_f-Cvv1QmvRVpvgNqvkAl_Qtl_qIgfU0AAAAFnRSTlMAXvz8LWDZ_f39_P773O-v2i2usKyszzWwHgAAAXNJREFUKJFt0utygjAUBOCjeAnVVu0FFFADUZuQSEhA-_5v1gMExk79ZhjYXQb-BACNvmZv1wdvs9UIOpPxIT2kSTpIMB5eJu12TQ9PpO063iXPveD_kl3vdusuJxnBZ9aHbMx934yHNVvBLOttFS-14fehmIG_7d18ro3xj0PhwUO4C2PUfojbHfjnY68Z5X2IZxxPZ-fkGVNab8jnDPzvk7NXmteFYH0-eVB_OxepuaxKLS99s4V6f-kwzkvKSq6YKy5HHDvMcl6xfc25Za76gRofGaWUCWFzSvNC8TZi-wMeY9QqpbTWZalUIbXmhRCSMhwryqjCGrsSCSu0KVDO2AJHGhEpm5dbNeFK1ZJElOIYRTTKK2uXuVMLUeVNuwASNYS1eeTk-NGweVjCGu8hKewy7MeQiII07RreQxRXJAgHcVW16R2mXY7DB0HQxinAPIifCgievs08eGrZHtzNPP4_xWTizvz043X-x-vHtOl_ASi1Wb9ogO5wAAAAAElFTkSuQmCC.png",
+      "snippet": "A simple countdown only for Soldiers Countdown for. Count the months, weeks, days, hours, minutes and seconds to return home",
+      "snippet_highlighted_words": [
+        "Count the months, weeks, days, hours, minutes and seconds"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 54
+          },
+          "extensions": [
+            "5.0(54)",
+            "Free",
+            "iOS",
+            "Utilities/Tools"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "A simple countdown only for Soldiers Countdown for. Count the months, weeks, days, hours, minutes and seconds to return home",
+          "source_info_link": "https://apps.apple.com/us/app/soldiers-countdown/id1579045366",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAqFBMVEVHcExy2vB10fs_pvaK0eBUmPFJwfcqdvdDi_NQt_k0w_otjfk3gfIud_JNxvVAw_U9ifNCieFDjfI2f_JmzPRp0vUYZfEZb_IfovkhrvoadvMYafIhs_sZi_UhtfsfnfgOfvMbtPsfqPoShfQdlvcemvccj_Ydk_bC7f-k1_8Bb-5wsPa35f9PzP2bz_7U8_-v4P_l_f-Cvv1QmvRVpvgNqvkAl_Qtl_qIgfU0AAAAFnRSTlMAXvz8LWDZ_f39_P773O-v2i2usKyszzWwHgAAAXNJREFUKJFt0utygjAUBOCjeAnVVu0FFFADUZuQSEhA-_5v1gMExk79ZhjYXQb-BACNvmZv1wdvs9UIOpPxIT2kSTpIMB5eJu12TQ9PpO063iXPveD_kl3vdusuJxnBZ9aHbMx934yHNVvBLOttFS-14fehmIG_7d18ro3xj0PhwUO4C2PUfojbHfjnY68Z5X2IZxxPZ-fkGVNab8jnDPzvk7NXmteFYH0-eVB_OxepuaxKLS99s4V6f-kwzkvKSq6YKy5HHDvMcl6xfc25Za76gRofGaWUCWFzSvNC8TZi-wMeY9QqpbTWZalUIbXmhRCSMhwryqjCGrsSCSu0KVDO2AJHGhEpm5dbNeFK1ZJElOIYRTTKK2uXuVMLUeVNuwASNYS1eeTk-NGweVjCGu8hKewy7MeQiII07RreQxRXJAgHcVW16R2mXY7DB0HQxinAPIifCgievs08eGrZHtzNPP4_xWTizvz043X-x-vHtOl_ASi1Wb9ogO5wAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://apps.apple.com/us/app/soldiers-countdown/id1579045366&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fsoldiers-countdown%2Fid1579045366",
+      "source": "Apple"
+    },
+    {
+      "position": 6,
+      "title": "Retirement Planning (+12 Month Countdown)",
+      "link": "https://home.army.mil/meade/2216/5961/6838/Retirement_Planning_1_YR_Out.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://home.army.mil/meade/2216/5961/6838/Retirement_Planning_1_YR_Out.pdf&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQFnoECB0QAQ",
+      "displayed_link": "https://home.army.mil › meade › Retirement_Plan...",
+      "favicon": "https://serpapi.com/searches/6a3a181e759dbcb15708889f/images/gw_MDJzIWjCbgg4FtTlp1eCG02vf5njlCqj6yLDn1dU.png",
+      "snippet": "Terminal Leave (60 Days) Pre Sep Training Day (1 Day) Track Training (2 Days) ❑ Non-military/sanitized ・ 10 regular duty days + 2 days final out or ・ 120 ...",
+      "snippet_highlighted_words": [
+        "Days",
+        "Day",
+        "Day",
+        "Days",
+        "military",
+        "days",
+        "days"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "page": 1
+          },
+          "extensions": [
+            "1 page"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Terminal Leave (60 Days) Pre Sep Training Day (1 Day) Track Training (2 Days) ❑ Non-military/sanitized ・ 10 regular duty days + 2 days final out or ・ 120  ...",
+          "source_info_link": "https://home.army.mil/meade/2216/5961/6838/Retirement_Planning_1_YR_Out.pdf",
+          "icon": "https://serpapi.com/searches/6a3a181e759dbcb15708889f/images/gw_MDJzIWjCbgg4FtTlp1dd1jC3WKlZn2UhjAT9vXhutBJkxlkcs0mkrN1FEErSD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://home.army.mil/meade/2216/5961/6838/Retirement_Planning_1_YR_Out.pdf&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhome.army.mil%2Fmeade%2F2216%2F5961%2F6838%2FRetirement_Planning_1_YR_Out.pdf",
+      "source": "Army.mil"
+    },
+    {
+      "position": 7,
+      "title": "Military Deployment Countdown - Made on a Glowforge",
+      "link": "https://community.glowforge.com/t/military-deployment-countdown/103243",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.glowforge.com/t/military-deployment-countdown/103243&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQFnoECB4QAQ",
+      "displayed_link": "https://community.glowforge.com › military-deployme...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq-R3fIUAAAAEXRSTlMAG1CZz_KtXxJy4fy_Lwc_hVt5yNkAAAEHSURBVHgBdc5RtsUQDAVQIgFJMP_RvlDVd7tW80HZyVF3ykNAIozJu3flUrmiCNpWXqyRpWhzrmkRlv5jSMM_IYT_1Aulda2a5w6EenBwmeMBa8UwrxOHtq3XaANQGUNArhbSAsEZ7LOjQrMCJDsphftF8S7H2u8cyXZE3adhrbxbd1Chqxc4zQNYWz7NwHCwjZkq6x-12rYmzmSFGTg1y2hnslOxhYddh6Wq1rzRY8y2oJrGpbOtqlsVSGe4-KXjvLsKyL5a4fioSnJXtUjgbvWX-rzRQmo3HVtp6lNAuDWbIg_3Ur1VkZL70C7HTqVb-W2PdqLygqNeqDT3ocgfNvXbXEu_9gdLSQxqSWLTpgAAAABJRU5ErkJggg.png",
+      "date": "Nov 13, 2021",
+      "snippet": "The file is available at etsy.com/shop/IronHorseVintage29. It will be available by the weekend. This is similar to the military's “Short Timer” ...",
+      "snippet_highlighted_words": [
+        "military's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The file is available at etsy.com/shop/IronHorseVintage29. It will be available by the weekend. This is similar to the military's “Short Timer” ...",
+          "source_info_link": "https://community.glowforge.com/t/military-deployment-countdown/103243",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq8Aoq-R3fIUAAAAEXRSTlMAG1CZz_KtXxJy4fy_Lwc_hVt5yNkAAAEHSURBVHgBdc5RtsUQDAVQIgFJMP_RvlDVd7tW80HZyVF3ykNAIozJu3flUrmiCNpWXqyRpWhzrmkRlv5jSMM_IYT_1Aulda2a5w6EenBwmeMBa8UwrxOHtq3XaANQGUNArhbSAsEZ7LOjQrMCJDsphftF8S7H2u8cyXZE3adhrbxbd1Chqxc4zQNYWz7NwHCwjZkq6x-12rYmzmSFGTg1y2hnslOxhYddh6Wq1rzRY8y2oJrGpbOtqlsVSGe4-KXjvLsKyL5a4fioSnJXtUjgbvWX-rzRQmo3HVtp6lNAuDWbIg_3Ur1VkZL70C7HTqVb-W2PdqLygqNeqDT3ocgfNvXbXEu_9gdLSQxqSWLTpgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://community.glowforge.com/t/military-deployment-countdown/103243&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcommunity.glowforge.com%2Ft%2Fmilitary-deployment-countdown%2F103243",
+      "source": "Glowforge Owners Forum"
+    },
+    {
+      "position": 8,
+      "title": "Your Army ETS Timeline Explained",
+      "link": "https://americandreamu.org/army-ets-timeline/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://americandreamu.org/army-ets-timeline/&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQFnoECCEQAQ",
+      "displayed_link": "https://americandreamu.org › American Dream U",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEVHcEzF0dllg5I7W24wUmY7WWwzVGg8XHBBX3F0ipdBYHJLZ3hcdYXM5upheogkSV9XcYEvUWY1VmoxU2dIZngwUmZyiJZ_jpqUQ1Z2kZ8cQ1qQKkGRL0aRLEMqT2SDlKF-lqPDz9adsbsSPlYNO1QkSV9je4pOaXo_XG9EYnPkcNCjAAAAKnRSTlMABy-F7rmcRsNUcbOID7v_QPvL3lmoiB9pDf_oq9BTQDMbMv__9Heh1pcRp2FeAAABN0lEQVR4AaXPVaLCMBRF0ROrhwpSqGD3YvOf4AtO7eut5G9H8U9CYprSMJ4fhEGkfAMj4sTiTs_SDLnOivkiD3O19CKZqyC1i3SmEa9MbEuU67WQ1pYlMouy3NjArAwqJy2Bulm3TdOgRl0LbNLKwfYuc7Et66Zp1260Atn2Dg9Syt1e7ndCHI7Ofr_Hx4EemCw8dojTQaTKxcci6kV9-sR5Zyc2SwrPpDaA2PLlWF0Ffiw5TTmC41Oa8hWdSJeYnpGvSdWLfLnwKwZn7seKXpF4eOw5eR8b7wbHFld-xXnA_ZgG1TOSvlI3evffKTgRn0MynRhxVdEJjqYqZa8T9-x-UJ2UOtHtQrxAh-Yg4ZzddB-u0JURs7Y6PVyZOUJPRJwWKRWa6YYBWVTMxDT3MUZki0Vm8fUHYw8jQ7i1wT8AAAAASUVORK5CYII.png",
+      "snippet": "For enlisted soldiers, the ETS process begins 180 days prior to the effective date of separation. · As soon as you find out your official ETS date, begin ...",
+      "snippet_highlighted_words": [
+        "180 days prior to the effective date of separation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "For enlisted soldiers, the ETS process begins 180 days prior to the effective date of separation. · As soon as you find out your official ETS date, begin ...",
+          "source_info_link": "https://americandreamu.org/army-ets-timeline/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEVHcEzF0dllg5I7W24wUmY7WWwzVGg8XHBBX3F0ipdBYHJLZ3hcdYXM5upheogkSV9XcYEvUWY1VmoxU2dIZngwUmZyiJZ_jpqUQ1Z2kZ8cQ1qQKkGRL0aRLEMqT2SDlKF-lqPDz9adsbsSPlYNO1QkSV9je4pOaXo_XG9EYnPkcNCjAAAAKnRSTlMABy-F7rmcRsNUcbOID7v_QPvL3lmoiB9pDf_oq9BTQDMbMv__9Heh1pcRp2FeAAABN0lEQVR4AaXPVaLCMBRF0ROrhwpSqGD3YvOf4AtO7eut5G9H8U9CYprSMJ4fhEGkfAMj4sTiTs_SDLnOivkiD3O19CKZqyC1i3SmEa9MbEuU67WQ1pYlMouy3NjArAwqJy2Bulm3TdOgRl0LbNLKwfYuc7Et66Zp1260Atn2Dg9Syt1e7ndCHI7Ofr_Hx4EemCw8dojTQaTKxcci6kV9-sR5Zyc2SwrPpDaA2PLlWF0Ffiw5TTmC41Oa8hWdSJeYnpGvSdWLfLnwKwZn7seKXpF4eOw5eR8b7wbHFld-xXnA_ZgG1TOSvlI3evffKTgRn0MynRhxVdEJjqYqZa8T9-x-UJ2UOtHtQrxAh-Yg4ZzddB-u0JURs7Y6PVyZOUJPRJwWKRWa6YYBWVTMxDT3MUZki0Vm8fUHYw8jQ7i1wT8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://americandreamu.org/army-ets-timeline/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Famericandreamu.org%2Farmy-ets-timeline%2F",
+      "source": "American Dream U",
+      "read_more_link": "https://americandreamu.org/army-ets-timeline/#:~:text=For%20enlisted%20soldiers%2C%20the%20ETS,begin%20taking%20steps%20to%20ETSing.&text=As%20soon%20as%20you%20find,your%20official%20ETS%20date%2C%20begin"
+    },
+    {
+      "position": 9,
+      "title": "Counting the Days Until They Return",
+      "link": "https://www.military.com/spousebuzz/blog/2011/01/counting-the-days-until-they-return.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.military.com/spousebuzz/blog/2011/01/counting-the-days-until-they-return.html&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQFnoECCMQAQ",
+      "displayed_link": "https://www.military.com › Spouse and Family",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png",
+      "date": "Jan 17, 2011",
+      "snippet": "Although I was always conscious of how much time was left to go, I didn't want to begin the official countdown until we were two months out.",
+      "snippet_highlighted_words": [
+        "countdown"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Although I was always conscious of how much time was left to go, I didn't want to begin the official countdown until we were two months out.",
+          "source_info_link": "https://www.military.com/spousebuzz/blog/2011/01/counting-the-days-until-they-return.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX___-xv9aktdDw9PjQ3Ord4-03Z6UARJUAR5cAOpF9ncQAPpK4xdpCbqgAT5oQWp-kvNdkh7YAVZ0AUZszdK8ASpdymsM2baobXqFflMJId67j7fWQs9MjZaa-0OJRg7aJqcuyx93N2-lUe6__wsL_ubn_tbX_5OT_NTX_AAD_LCz__PxM_IldAAAAtklEQVR4AbTJRQIDIRAEwMbXHVm3__8xnJPhGBgv_PkxzrmIXcauvlGbLJexF2WWV99YN23Wxd4Pg_nFcbIOEH4KBDbzuABr4yi026AFZM53ArMjtApdeWgST3vAZXIn8SoZlkYECu-jdNADaFR2Wocpgetun8wlEEt2lV0Ke7tnTwov27QqhYdpvEjhauwLCr29IfbP-IARI8sBlCQBqKjCgZo6uqSGJgKooUtq4ZPURgKUp2UAiHEUQBqR4MMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.military.com/spousebuzz/blog/2011/01/counting-the-days-until-they-return.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.military.com%2Fspousebuzz%2Fblog%2F2011%2F01%2Fcounting-the-days-until-they-return.html",
+      "source": "Military.com",
+      "read_more_link": "https://www.military.com/spousebuzz/blog/2011/01/counting-the-days-until-they-return.html#:~:text=Although%20I%20was%20always%20conscious,we%20were%20two%20months%20out."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=military+ETS+countdown+days&sca_esv=bbb7d61e8d3bb37e&ei=Hhg6aoiwFNm9ruEP8fXiiAg&start=10&sa=N&sstk=AU9db-CaVbLdTv9q6RXjHpLKmlqQnvOBozwkYAZOb-I3ijCjDhVG1em5lsy87b-BN0sjCR8S4cDCF_5KCbdn6SCJkYHdmzk9aKGG_g&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQ8NMDegQINRAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=military+ETS+countdown+days&sca_esv=bbb7d61e8d3bb37e&ei=Hhg6aoiwFNm9ruEP8fXiiAg&start=10&sa=N&sstk=AU9db-CaVbLdTv9q6RXjHpLKmlqQnvOBozwkYAZOb-I3ijCjDhVG1em5lsy87b-BN0sjCR8S4cDCF_5KCbdn6SCJkYHdmzk9aKGG_g&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQ8tMDegQINRAE",
+      "3": "https://www.google.com/search?q=military+ETS+countdown+days&sca_esv=bbb7d61e8d3bb37e&ei=Hhg6aoiwFNm9ruEP8fXiiAg&start=20&sa=N&sstk=AU9db-CaVbLdTv9q6RXjHpLKmlqQnvOBozwkYAZOb-I3ijCjDhVG1em5lsy87b-BN0sjCR8S4cDCF_5KCbdn6SCJkYHdmzk9aKGG_g&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQ8tMDegQINRAG",
+      "4": "https://www.google.com/search?q=military+ETS+countdown+days&sca_esv=bbb7d61e8d3bb37e&ei=Hhg6aoiwFNm9ruEP8fXiiAg&start=30&sa=N&sstk=AU9db-CaVbLdTv9q6RXjHpLKmlqQnvOBozwkYAZOb-I3ijCjDhVG1em5lsy87b-BN0sjCR8S4cDCF_5KCbdn6SCJkYHdmzk9aKGG_g&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQ8tMDegQINRAI",
+      "5": "https://www.google.com/search?q=military+ETS+countdown+days&sca_esv=bbb7d61e8d3bb37e&ei=Hhg6aoiwFNm9ruEP8fXiiAg&start=40&sa=N&sstk=AU9db-CaVbLdTv9q6RXjHpLKmlqQnvOBozwkYAZOb-I3ijCjDhVG1em5lsy87b-BN0sjCR8S4cDCF_5KCbdn6SCJkYHdmzk9aKGG_g&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQ8tMDegQINRAK",
+      "6": "https://www.google.com/search?q=military+ETS+countdown+days&sca_esv=bbb7d61e8d3bb37e&ei=Hhg6aoiwFNm9ruEP8fXiiAg&start=50&sa=N&sstk=AU9db-CaVbLdTv9q6RXjHpLKmlqQnvOBozwkYAZOb-I3ijCjDhVG1em5lsy87b-BN0sjCR8S4cDCF_5KCbdn6SCJkYHdmzk9aKGG_g&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQ8tMDegQINRAM",
+      "7": "https://www.google.com/search?q=military+ETS+countdown+days&sca_esv=bbb7d61e8d3bb37e&ei=Hhg6aoiwFNm9ruEP8fXiiAg&start=60&sa=N&sstk=AU9db-CaVbLdTv9q6RXjHpLKmlqQnvOBozwkYAZOb-I3ijCjDhVG1em5lsy87b-BN0sjCR8S4cDCF_5KCbdn6SCJkYHdmzk9aKGG_g&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQ8tMDegQINRAO",
+      "8": "https://www.google.com/search?q=military+ETS+countdown+days&sca_esv=bbb7d61e8d3bb37e&ei=Hhg6aoiwFNm9ruEP8fXiiAg&start=70&sa=N&sstk=AU9db-CaVbLdTv9q6RXjHpLKmlqQnvOBozwkYAZOb-I3ijCjDhVG1em5lsy87b-BN0sjCR8S4cDCF_5KCbdn6SCJkYHdmzk9aKGG_g&ved=2ahUKEwiIt5OUz5yVAxXZnisGHfG6GIEQ8tMDegQINRAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+ETS+countdown+days&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+ETS+countdown+days&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+ETS+countdown+days&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+ETS+countdown+days&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+ETS+countdown+days&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+ETS+countdown+days&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+ETS+countdown+days&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+ETS+countdown+days&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=military+ETS+countdown+days&start=70"
+    }
+  }
+}
