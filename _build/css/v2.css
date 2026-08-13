@@ -1,6 +1,6 @@
-/* ============================================
+﻿/* ============================================
    Military Life Tools - v2.css
-   主样式表 v2 - 修复布局问题和优化响应式设计
+   涓绘牱寮忚〃 v2 - 淇甯冨眬闂鍜屼紭鍖栧搷搴斿紡璁捐
    ============================================ */
 
 /* Reset and Base Styles */
@@ -1230,7 +1230,7 @@ nav {
     flex-wrap: wrap;
 }
 
-/* 军人专属验证标签 */
+/* 鍐涗汉涓撳睘楠岃瘉鏍囩 */
 .verified-badge {
     display: inline-flex;
     align-items: center;
@@ -1247,7 +1247,7 @@ nav {
 }
 
 .verified-badge::before {
-    content: '✓';
+    content: '鉁?;
     font-size: 0.8rem;
 }
 
@@ -1284,7 +1284,7 @@ nav {
     border-color: #2d5016; /* OD Green hover */
 }
 
-/* 军人专属钩子标签 */
+/* 鍐涗汉涓撳睘閽╁瓙鏍囩 */
 .military-tag {
     position: absolute;
     top: 8px;
@@ -1323,7 +1323,7 @@ nav {
     line-height: 1.3;
 }
 
-/* 军人专属描述文案 */
+/* 鍐涗汉涓撳睘鎻忚堪鏂囨 */
 .amazon-card-desc {
     color: #666;
     font-size: 0.8rem;
@@ -1338,7 +1338,7 @@ nav {
     font-size: 1rem;
 }
 
-/* 战术风格 CTA 按钮 */
+/* 鎴樻湳椋庢牸 CTA 鎸夐挳 */
 .amazon-card-cta {
     display: inline-block;
     padding: 0.7rem 1.5rem;
@@ -1367,7 +1367,7 @@ nav {
     line-height: 1.5;
 }
 
-/* Tablet 适配 */
+/* Tablet 閫傞厤 */
 @media (max-width: 768px) {
     .amazon-grid {
         grid-template-columns: repeat(2, 1fr);
@@ -1388,7 +1388,7 @@ nav {
     }
 }
 
-/* Mobile 小屏幕 */
+/* Mobile 灏忓睆骞?*/
 @media (max-width: 480px) {
     .amazon-grid {
         grid-template-columns: 1fr;
@@ -1679,7 +1679,7 @@ footer {
         overflow-y: auto;
     }
 
-    .nav-toggle-checkbox:checked + .nav-toggle-icon + .nav-links {
+    .nav-toggle-checkbox:checked ~ .nav-toggle-icon ~ .nav-links, .nav-toggle-checkbox:checked ~ nav .nav-links {
         transform: translateY(0);
     }
 
