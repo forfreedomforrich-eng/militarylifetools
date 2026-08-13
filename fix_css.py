@@ -20,44 +20,56 @@ def write_file(path, content):
     with open(path, "w", encoding="utf-8") as f:
         f.write(content)
 
+def fix_html(content):
+    global fixed_count
+    original = content
+    
+    # 1. 删除所有空标签: <link> <script> <style> 等空标签
+    # 匹配 <tag> 或 <tag/> 其中tag是link, script, style, meta等常见空元素
+    empty_tags = r'<(link|script|style|meta|br|hr|img|input|area|base|col|embed|param|source|track|wbr)\b[^>]*?/\s*>'
+    content = re.sub(empty_tags, '', content, flags=re.IGNORECASE)
+    
+    # 匹配 <tag> </tag> 中间无任何内容的情况
+    empty_blocks = r'<(link|script|style|meta)\b[^>]*>\s*</\1>'
+    content = re.sub(empty_blocks, '', content, flags=re.IGNORECASE)
+    
+    # 2. 统一CSS引用：确保只有一个<link rel="stylesheet" href="/css/v2.css">
+    # 先删除所有已有的stylesheet link标签
+    content = re.sub(r'<link\s+rel\s*=\s*"stylesheet"[^>]*>', '', content, flags=re.IGNORECASE)
+    # 在<head>后插入正确的CSS引用
+    content = re.sub(r'<head>', '<head>\n    <link rel="stylesheet" href="/css/v2.css">', content, flags=re.IGNORECASE)
+    
+    # 3. 修复JS引用：确保路径以/开头，即绝对路径
+    content = re.sub(r'src\s*=\s*["\'][^/][^"\']*\.js["\']', lambda m: m.group(0).replace('src="', 'src="/').replace("src='", "src='/"), content, flags=re.IGNORECASE)
+    # 同理处理外部JS但相对路径的（如../../js/）
+    content = re.sub(r'src\s*=\s*["\']\.\./[^"\']*\.js["\']', lambda m: m.group(0).replace('../../js/', '/js/').replace('../js/', '/js/'), content, flags=re.IGNORECASE)
+    
+    # 4. 确保<body>和<html>闭合
+    body_open = len(re.findall(r'<body[^>]*>', content, re.IGNORECASE))
+    body_close = len(re.findall(r'</body>', content, re.IGNORECASE))
+    if body_open > body_close:
+        content += "</body>"
+    html_close = len(re.findall(r'</html>', content, re.IGNORECASE))
+    if html_close == 0 and '<html' in content.lower():
+        content += "</html>"
+    
+    if content != original:
+        fixed_count += 1
+        return content, True
+    return content, False
+
 for dirpath, dirnames, filenames in os.walk(root_dir):
-    # 跳过 .chrome-profile 等目录
-    dirnames[:] = [d for d in dirnames if not d.startswith('.')]
+    # 跳过无关目录
+    dirnames[:] = [d for d in dirnames if not d.startswith('.') and d not in ['node_modules', '_build']]
     
     if "index.html" in filenames:
         html_path = os.path.join(dirpath, "index.html")
         content, encoding = read_file(html_path)
-        original = content
-
-        # 1. 替换 <head> 中所有相对路径的 href 为 /css/v2.css
-        content = re.sub(
-            r'href\s*=\s*["\'][^"\']*?style\.css["\']',
-            'href="/css/v2.css"',
-            content
-        )
-
-        # 2. 删除空的 stylesheet 标签: <link rel="stylesheet" > 或 <link rel="stylesheet"/>
-        content = re.sub(
-            r'<link\s+rel\s*=\s*"stylesheet"\s*/?>',
-            '',
-            content
-        )
-
-        # 3. 确保 <body> 和主容器 <div> 闭合
-        body_open = len(re.findall(r'<body[^>]*>', content, re.IGNORECASE))
-        body_close = len(re.findall(r'</body>', content, re.IGNORECASE))
-        if body_open > body_close:
-            content += "</body></html>"
-
-        div_open = len(re.findall(r'<div(?:\s[^>]*)?>', content))
-        div_close = len(re.findall(r'</div>', content))
-        if div_open > div_close:
-            content += "</div>" * (div_open - div_close) + "</body></html>"
-
-        if content != original:
-            write_file(html_path, content)
+        new_content, changed = fix_html(content)
+        
+        if changed:
+            write_file(html_path, new_content)
             print(f"Fixed: {html_path}")
-            fixed_count += 1
         else:
             print(f"OK: {html_path}")
 
