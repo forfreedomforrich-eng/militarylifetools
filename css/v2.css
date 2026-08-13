@@ -1271,6 +1271,11 @@ nav {
     transition: transform 0.2s, box-shadow 0.2s;
     border: 2px solid transparent;
     position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
 }
 
 .amazon-card:hover {
