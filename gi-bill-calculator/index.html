@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+﻿<!DOCTYPE html>
+<html lang="en-US">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,7 +8,6 @@
     <meta name="keywords" content="GI Bill calculator, Post 9/11 GI Bill, GI Bill 2026, military education benefits, MHA calculator, tuition assistance">
     <link rel="canonical" href="https://militarylifetools.com/gi-bill-calculator">
     <link rel="stylesheet" href="/css/v2.css">
-    <link rel="stylesheet" href="/ads/adsterra.css">
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -67,7 +66,7 @@
                         <div>
                             <label for="months">Months of Post-9/11 Active Duty Service</label>
                             <input type="number" id="months" min="0" max="60" value="36" placeholder="e.g. 36" />
-                        <<div>
+                        <div>
                             <label for="schoolType">School Type</label>
                             <select id="schoolType" style="padding: 0.85rem; border: 2px solid #ddd; border-radius: 8px; font-size: 1rem; min-height: 44px; width: 100%;">
                                 <option value="public">Public School (in-state)</option>
@@ -75,47 +74,47 @@
                                 <option value="foreign">Foreign School</option>
                                 <option value="vocational">Vocational / Technical</option>
                             </select>
-                        <<div>
+                        <div>
                             <label for="inState">Are you in-state for tuition purposes?</label>
                             <select id="inState" style="padding: 0.85rem; border: 2px solid #ddd; border-radius: 8px; font-size: 1rem; min-height: 44px; width: 100%;">
                                 <option value="yes">Yes (in-state)</option>
                                 <option value="no">No (out-of-state)</option>
                             </select>
-                        <<div>
+                        <div>
                             <label for="tuitionInState">In-State Tuition (annual $)</label>
                             <input type="number" id="tuitionInState" value="10000" placeholder="e.g. 10000" />
-                        <<div>
+                        <div>
                             <label for="tuitionOutState">Out-of-State Tuition (annual $) - if applicable</label>
                             <input type="number" id="tuitionOutState" value="25000" placeholder="e.g. 25000" />
-                        <<div id="privateTuitionRow">
+                        <div id="privateTuitionRow">
                             <label for="tuitionActual">Private / Foreign School Actual Tuition (annual $)</label>
                             <input type="number" id="tuitionActual" value="35000" placeholder="e.g. 35000" />
-                        <<div>
+                        <div>
                             <label for="zipCode">School ZIP Code (for housing allowance)</label>
                             <input type="text" id="zipCode" placeholder="Optional, e.g. 22030" maxlength="10" />
                         </div>
                     </div>
 
                     <button id="calculateBtn" class="btn btn-primary full-width" style="margin-top: 1.5rem;">Calculate My GI Bill Benefits</button>
-                <<div id="giResult" class="tool-result">
+                <div id="giResult" class="tool-result">
                     <h2 style="text-align:center; margin-bottom: 0.5rem;">Your Annual GI Bill Value</h2>
                     <div class="result-headline big" id="resultAnnual">$0</div>
                     <p style="text-align:center; opacity: 0.85; font-size: 0.95rem;">Total Value (Tuition + Housing + Books) per year</p>
 
                     <div class="result-breakdown">
                         <div class="result-item">
-                            <div class="result-item-label">Benefit Tier<<div class="result-item-value" id="resultTier" style="font-size: 1.1rem;">100%</div>
-                        <<div class="result-item">
-                            <div class="result-item-label">Tuition / year<<div class="result-item-value" id="resultTuition">$0</div>
-                        <<div class="result-item">
-                            <div class="result-item-label">Housing Allowance<<div class="result-item-value" id="resultHousing">$0/mo</div>
-                        <<div class="result-item">
-                            <div class="result-item-label">Books Stipend<<div class="result-item-value" id="resultBooks">$0/yr</div>
+                            <div class="result-item-label">Benefit Tier<div class="result-item-value" id="resultTier" style="font-size: 1.1rem;">100%</div>
+                        <div class="result-item">
+                            <div class="result-item-label">Tuition / year<div class="result-item-value" id="resultTuition">$0</div>
+                        <div class="result-item">
+                            <div class="result-item-label">Housing Allowance<div class="result-item-value" id="resultHousing">$0/mo</div>
+                        <div class="result-item">
+                            <div class="result-item-label">Books Stipend<div class="result-item-value" id="resultBooks">$0/yr</div>
                         </div>
-                    <<div style="margin-top: 1.5rem; background: rgba(255,255,255,0.15); padding: 1rem; border-radius: 8px; text-align: center;">
+                    <div style="margin-top: 1.5rem; background: rgba(255,255,255,0.15); padding: 1rem; border-radius: 8px; text-align: center;">
                         <h3 style="margin-bottom: 0.5rem; font-size: 1rem;">Total 4-Year Value</h3>
                         <div style="font-size: 2.5rem; font-weight: bold; color: var(--secondary-color);" id="result4Year">$0</div>
-                    <<div style="margin-top: 1.5rem; background: rgba(255,255,255,0.1); padding: 1rem; border-radius: 8px;">
+                    <div style="margin-top: 1.5rem; background: rgba(255,255,255,0.1); padding: 1rem; border-radius: 8px;">
                         <h3 style="margin-bottom: 0.5rem; font-size: 1rem;">Tuition Details</h3>
                         <p id="resultTuitionNote" style="font-size: 0.9rem; line-height: 1.5;"></p>
                     </div>
@@ -192,7 +191,7 @@
                 </div>
 
                 <h2 style="margin-top: 2rem;">Frequently Asked Questions</h2>
-                <div class="faq-item"><h3>What is the Post-9/11 GI Bill?</h3><p>The Post-9/11 GI Bill (Chapter 33) is the VA education benefit for service members who served at least 90 days after September 10, 2001. It covers tuition, housing, and books at any approved school.</p><<div class="faq-item"><h3>How much does the GI Bill pay for tuition?</h3><p>For public schools, the GI Bill pays 100% of in-state tuition (capped at your benefit tier %). For private and foreign schools, the cap is $28,937.93/year (2025-2026 academic year). Yellow Ribbon can cover above-cap costs at participating schools.</p><<div class="faq-item"><h3>What is the GI Bill housing allowance?</h3><p>The Monthly Housing Allowance (MHA) is based on the BAH rate for E-5 with dependents at your school ZIP code. For 2026, the national average is about $1,800-2,200/month depending on location. Paid only during school attendance (not breaks).</p><<div class="faq-item"><h3>How is GI Bill eligibility tier calculated?</h3><p>Tier is based on total post-9/11 active duty service: 36+ months = 100%, 30-36 months = 90%, 24-30 months = 80%, 18-24 months = 70%, 12-18 months = 60%, 6-12 months = 50%, 90 days-6 months = 40%, less than 90 days = 0%.</p><<div class="faq-item"><h3>Can I transfer my GI Bill to dependents?</h3><p>Yes. Most service members with 6+ years can transfer their Post-9/11 GI Bill benefits to their spouse or children via milConnect, but must commit to 4 additional years of service (or have already served 20).</p><<div class="faq-item"><h3>What is the Yellow Ribbon Program?</h3><p>Yellow Ribbon is a VA program where participating schools agree to fund tuition costs above the $28,937.93 cap, with the VA matching the school contribution dollar-for-dollar. Can make expensive private schools free for veterans.</p><</section>
+                <div class="faq-item"><h3>What is the Post-9/11 GI Bill?</h3><p>The Post-9/11 GI Bill (Chapter 33) is the VA education benefit for service members who served at least 90 days after September 10, 2001. It covers tuition, housing, and books at any approved school.</p><div class="faq-item"><h3>How much does the GI Bill pay for tuition?</h3><p>For public schools, the GI Bill pays 100% of in-state tuition (capped at your benefit tier %). For private and foreign schools, the cap is $28,937.93/year (2025-2026 academic year). Yellow Ribbon can cover above-cap costs at participating schools.</p><div class="faq-item"><h3>What is the GI Bill housing allowance?</h3><p>The Monthly Housing Allowance (MHA) is based on the BAH rate for E-5 with dependents at your school ZIP code. For 2026, the national average is about $1,800-2,200/month depending on location. Paid only during school attendance (not breaks).</p><div class="faq-item"><h3>How is GI Bill eligibility tier calculated?</h3><p>Tier is based on total post-9/11 active duty service: 36+ months = 100%, 30-36 months = 90%, 24-30 months = 80%, 18-24 months = 70%, 12-18 months = 60%, 6-12 months = 50%, 90 days-6 months = 40%, less than 90 days = 0%.</p><div class="faq-item"><h3>Can I transfer my GI Bill to dependents?</h3><p>Yes. Most service members with 6+ years can transfer their Post-9/11 GI Bill benefits to their spouse or children via milConnect, but must commit to 4 additional years of service (or have already served 20).</p><div class="faq-item"><h3>What is the Yellow Ribbon Program?</h3><p>Yellow Ribbon is a VA program where participating schools agree to fund tuition costs above the $28,937.93 cap, with the VA matching the school contribution dollar-for-dollar. Can make expensive private schools free for veterans.</p><</section>
 
         <section class="amazon-picks" aria-label="Recommended College Prep Resources on Amazon">
             <div class="amazon-picks-header">
@@ -235,13 +234,13 @@
           };
         </script>
         <script async src="https://www.highperformanceformat.com/4b6b2036ef121b027d8128b759fbc71b/invoke.js"></script>
-    <<div style="height: 60px;"><footer class="footer">
+    <div style="height: 60px;"></div><footer class="footer">
         <div class="container">
             <div class="footer-content">
                 <div class="footer-section">
                     <h4>Military Life Tools</h4>
                     <p>Free online tools for military personnel, veterans, and their families.</p>
-                <<div class="footer-section">
+                <div class="footer-section">
                     <h4>Tools</h4>
                     <ul>
                         <li><a href="/">ETS Countdown</a></li>
@@ -257,20 +256,18 @@
                         <li><a href="/gi-bill-calculator/">GI Bill</a></li>
                         <li><a href="/tsp-withdrawal-calculator/">TSP Withdrawal</a></li>
                     </ul>
-                <<div class="footer-section">
+                <div class="footer-section">
                     <h4>Legal</h4>
                     <ul>
                         <li><a href="/privacy-policy">Privacy Policy</a></li>
                         <li><a href="/contact">Contact Us</a></li>
                     </ul>
                 </div>
-            <<div class="footer-bottom">
+            <div class="footer-bottom">
                 <p>&copy; 2026 Military Life Tools. All rights reserved.</p>
                 <p class="disclaimer">This is not an official Department of Defense, VA, or U.S. Government website. Data sourced from official public sources (VA.gov).</p>
             </div>
         </div>
-    </footer>
-
-    <script src="/js/gi-bill.js"></script>
+    </footer><script src="/js/gi-bill.js"></script>
 </body>
 </html>

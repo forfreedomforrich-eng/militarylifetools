@@ -1,4 +1,5 @@
-﻿# Force trailing slash for all tool and blog paths (SEO canonical)
+﻿/uniform         /uniform-size/        301
+# Force trailing slash# Force trailing slash for all tool and blog paths (SEO canonical)
 # 308 = permanent, preserves request method
 
 # Ezoic verification placeholder (only for site ownership check)
