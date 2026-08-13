@@ -1,5 +1,22 @@
-﻿/uniform         /uniform-size/        301
-# Force trailing slash# Force trailing slash for all tool and blog paths (SEO canonical)
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+/*.html
+  X-Robots-Tag: index, follow
+
+/css/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/js/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/sitemap.xml
+  Cache-Control: public, max-age=3600
+# Force trailing slash for all tool and blog paths (SEO canonical)
 # 308 = permanent, preserves request method
 
 # Ezoic verification placeholder (only for site ownership check)
@@ -13,6 +30,7 @@
 
 # Trailing slash redirects (avoid 308 chain)
 /time-converter        /time-converter/        301
+/uniform               /uniform-size/          301
 /uniform-size          /uniform-size/          301
 /bah-calculator        /bah-calculator/        301
 /pay-calculator        /pay-calculator/        301

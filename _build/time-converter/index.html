@@ -1,0 +1,303 @@
+﻿<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Military Time Converter | Military Life Tools</title>
+    <meta name="description" content="Convert between standard 12-hour time and military 24-hour time instantly.">
+    <link rel="canonical" href="https://militarylifetools.com/time-converter">
+    <link rel="stylesheet" href="/css/v2.css">
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Military Time Converter","url":"https://militarylifetools.com/time-converter","description":"Convert between standard 12-hour time and military 24-hour time instantly","applicationCategory":"UtilityApplication","operatingSystem":"All","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}</script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {"@type":"Question","name":"Is 0000 midnight or noon?","acceptedAnswer":{"@type":"Answer","text":"0000 is midnight (the start of a new day). Noon is 1200."}},
+            {"@type":"Question","name":"What is 12 PM in military time?","acceptedAnswer":{"@type":"Answer","text":"12:00 PM (noon) is 1200 in military time. Unlike other PM times where you add 12, 12 PM stays as 1200."}},
+            {"@type":"Question","name":"What is 12 AM in military time?","acceptedAnswer":{"@type":"Answer","text":"12:00 AM (midnight) is 0000 in military time."}},
+            {"@type":"Question","name":"How do I convert military time to standard time?","acceptedAnswer":{"@type":"Answer","text":"For times 0001-1200 subtract 0000 for AM. For times 1300-2300 subtract 1200 and add PM."}},
+            {"@type":"Question","name":"What is the difference between military time and 24-hour time?","acceptedAnswer":{"@type":"Answer","text":"They are the same thing. The 24-hour clock is the technical term."}}
+        ]
+    }
+    </script>
+    <style>
+        .converter-card{background:#fff;border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.08);padding:2rem;margin:1.5rem auto;max-width:900px}
+        .current-time-box{background:linear-gradient(135deg,#1a3a5c,#2c5f8a);color:#fff;border-radius:10px;padding:1.5rem;text-align:center;margin-bottom:2rem}
+        .current-time-box .label{font-size:0.85rem;opacity:0.8;margin-bottom:0.5rem}
+        .current-time-box .time-display{font-size:2.5rem;font-weight:700;letter-spacing:2px}
+        .current-time-box .date-display{font-size:0.9rem;opacity:0.7;margin-top:0.25rem}
+        .converter-row{display:flex;gap:2rem;align-items:flex-start;flex-wrap:wrap;justify-content:center}
+        .time-group{flex:1;min-width:280px}
+        .time-group h3{font-size:1rem;color:#1a3a5c;margin-bottom:1rem;text-align:center}
+        .time-input-group{display:flex;align-items:center;gap:0.5rem;justify-content:center;flex-wrap:wrap}
+        .time-input-group select{flex:1;min-width:0;max-width:80px;width:auto;padding:0.6rem 0.4rem;border:1.5px solid #e5e7eb;border-radius:8px;font-size:1rem;font-weight:600;text-align:center;background:#fff;color:#1e293b;cursor:pointer}
+        .time-input-group select:focus{outline:none;border-color:#2563eb;box-shadow:0 0 0 3px rgba(37,99,235,0.1)}
+        .time-separator{font-size:1.5rem;font-weight:700;color:#64748b;padding:0 0.2rem}
+        .conv-or{display:flex;align-items:center;justify-content:center;padding:0 1rem}
+        .conv-or span{background:#f1f5f9;color:#64748b;font-size:0.8rem;font-weight:600;padding:0.4rem 0.8rem;border-radius:20px}
+        .btn-convert{display:block;width:100%;max-width:280px;margin:1.5rem auto 0;padding:0.85rem 1.5rem;background:linear-gradient(135deg,#c9a227,#d4b84a);color:#1a3a5c;border:none;border-radius:8px;font-size:1rem;font-weight:700;cursor:pointer;text-transform:uppercase;letter-spacing:0.5px}
+        .btn-convert:hover{background:linear-gradient(135deg,#b8911f,#c9a227);transform:translateY(-1px);box-shadow:0 4px 12px rgba(201,162,39,0.4)}
+        .result-box{background:#f0f9ff;border:2px solid #bae6fd;border-radius:10px;padding:1.25rem;margin-top:1.5rem;text-align:center}
+        .result-box .result-label{font-size:0.85rem;color:#0369a1;margin-bottom:0.25rem}
+        .result-box .result-value{font-size:1.8rem;font-weight:700;color:#1e3a5f}
+        .reference-section{margin-top:2rem}
+        .reference-section h2{font-size:1.25rem;color:#1a3a5c;margin-bottom:1rem;text-align:center}
+        .reference-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:0.75rem}
+        .reference-item{background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:0.6rem 0.75rem;text-align:center}
+        .reference-item .ref-military{display:block;font-weight:700;color:#1a3a5c;font-size:0.95rem}
+        .reference-item .ref-standard{display:block;font-size:0.8rem;color:#64748b;margin-top:2px}
+        .amazon-section{margin-top:3rem;padding:2rem;background:#fff;border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.08)}
+        .amazon-section h2{font-size:1.3rem;color:#1a3a5c;margin-bottom:0.5rem;text-align:center}
+        .amazon-section .section-desc{text-align:center;color:#64748b;font-size:0.9rem;margin-bottom:1.5rem}
+        .amazon-products-grid{display:grid !important;grid-template-columns:repeat(4,1fr) !important;gap:20px !important;width:100% !important;margin-top:30px !important;box-sizing:border-box !important}
+        @media(max-width:900px){.amazon-products-grid{grid-template-columns:repeat(3,1fr)}}
+        @media(max-width:600px){.amazon-products-grid{grid-template-columns:repeat(2,1fr)}}
+        @media(max-width:400px){.amazon-products-grid{grid-template-columns:1fr}}
+        .amazon-card{border:1px solid #e5e7eb;border-radius:8px;padding:16px;display:flex;flex-direction:column;align-items:center;text-align:center;background:#fff;transition:box-shadow 0.2s}
+        .amazon-card:hover{box-shadow:0 4px 12px rgba(0,0,0,0.1)}
+        .amazon-card-img{font-size:2.5rem;margin-bottom:12px}
+        .amazon-card-title{font-size:14px;font-weight:600;margin-bottom:8px;color:#1e3a8a;line-height:1.4}
+        .amazon-card-price{font-size:14px;font-weight:bold;color:#15803d;margin-bottom:12px}
+        .amazon-card-cta{background:#232f3e;color:#fff;padding:8px 16px;border-radius:4px;text-decoration:none;font-size:12px;font-weight:bold}
+        .amazon-card-cta:hover{background:#37475a}
+        .amazon-picks-footer{text-align:center;font-size:0.75rem;color:#94a3b8;margin-top:1rem}
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="header">
+            <a href="/" class="logo">Military Life Tools</a>
+            <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox">
+            <label for="nav-toggle" class="nav-toggle-icon">&#9776;</label>
+            <ul class="nav-links">
+                <li><a href="/ets/">ETS</a></li>
+                <li><a href="/time-converter/" class="active">Time</a></li>
+                <li><a href="/uniform/">Uniform</a></li>
+                <li><a href="/bah/">BAH</a></li>
+                <li><a href="/pay/">Pay</a></li>
+                <li><a href="/va/">VA</a></li>
+                <li><a href="/retire/">Retire</a></li>
+                <li><a href="/gi-bill/">GI Bill</a></li>
+                <li><a href="/tsp/">TSP</a></li>
+                <li><a href="/blog/">Blog</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="main">
+        <section class="tool-section">
+            <div class="container">
+                <div class="hero">
+                    <h1>Military Time Converter</h1>
+                    <p class="subtitle">Convert between standard 12-hour time and military 24-hour time</p>
+                </div>
+                <div class="converter-card">
+                    <div class="current-time-box">
+                        <div class="label">Current Time</div>
+                        <div class="time-display" id="currentTimeDisplay">--:--:--</div>
+                        <div class="date-display" id="currentDateDisplay">--</div>
+                    </div>
+                    <div class="converter-row">
+                        <div class="time-group">
+                            <h3>Standard Time (12-Hour)</h3>
+                            <div class="time-input-group">
+                                <select id="stdHours">
+                                    <option value="01">01</option><option value="02">02</option><option value="03">03</option>
+                                    <option value="04">04</option><option value="05">05</option><option value="06">06</option>
+                                    <option value="07">07</option><option value="08">08</option><option value="09">09</option>
+                                    <option value="10">10</option><option value="11">11</option><option value="12">12</option>
+                                </select>
+                                <span class="time-separator">:</span>
+                                <select id="stdMinutes">
+                                    <option value="00">00</option><option value="01">01</option><option value="02">02</option>
+                                    <option value="03">03</option><option value="04">04</option><option value="05">05</option>
+                                    <option value="06">06</option><option value="07">07</option><option value="08">08</option>
+                                    <option value="09">09</option><option value="10">10</option><option value="11">11</option>
+                                    <option value="12">12</option><option value="13">13</option><option value="14">14</option>
+                                    <option value="15">15</option><option value="16">16</option><option value="17">17</option>
+                                    <option value="18">18</option><option value="19">19</option><option value="20">20</option>
+                                    <option value="21">21</option><option value="22">22</option><option value="23">23</option>
+                                    <option value="24">24</option><option value="25">25</option><option value="26">26</option>
+                                    <option value="27">27</option><option value="28">28</option><option value="29">29</option>
+                                    <option value="30">30</option><option value="31">31</option><option value="32">32</option>
+                                    <option value="33">33</option><option value="34">34</option><option value="35">35</option>
+                                    <option value="36">36</option><option value="37">37</option><option value="38">38</option>
+                                    <option value="39">39</option><option value="40">40</option><option value="41">41</option>
+                                    <option value="42">42</option><option value="43">43</option><option value="44">44</option>
+                                    <option value="45">45</option><option value="46">46</option><option value="47">47</option>
+                                    <option value="48">48</option><option value="49">49</option><option value="50">50</option>
+                                    <option value="51">51</option><option value="52">52</option><option value="53">53</option>
+                                    <option value="54">54</option><option value="55">55</option><option value="56">56</option>
+                                    <option value="57">57</option><option value="58">58</option><option value="59">59</option>
+                                </select>
+                                <select id="stdPeriod">
+                                    <option value="AM">AM</option>
+                                    <option value="PM">PM</option>
+                                </select>
+                            </div>
+                            <button class="btn-convert" id="btnStdToMil">Convert to Military</button>
+                            <div class="result-box" id="stdResultBox" style="display:none;">
+                                <div class="result-label">Military Time</div>
+                                <div class="result-value" id="stdResultValue">----</div>
+                            </div>
+                        </div>
+                        <div class="conv-or"><span>OR</span></div>
+                        <div class="time-group">
+                            <h3>Military Time (24-Hour)</h3>
+                            <div class="time-input-group">
+                                <select id="milHours">
+                                    <option value="00">00</option><option value="01">01</option><option value="02">02</option>
+                                    <option value="03">03</option><option value="04">04</option><option value="05">05</option>
+                                    <option value="06">06</option><option value="07">07</option><option value="08">08</option>
+                                    <option value="09">09</option><option value="10">10</option><option value="11">11</option>
+                                    <option value="12">12</option><option value="13">13</option><option value="14">14</option>
+                                    <option value="15">15</option><option value="16">16</option><option value="17">17</option>
+                                    <option value="18">18</option><option value="19">19</option><option value="20">20</option>
+                                    <option value="21">21</option><option value="22">22</option><option value="23">23</option>
+                                </select>
+                                <span class="time-separator">:</span>
+                                <select id="milMinutes">
+                                    <option value="00">00</option><option value="01">01</option><option value="02">02</option>
+                                    <option value="03">03</option><option value="04">04</option><option value="05">05</option>
+                                    <option value="06">06</option><option value="07">07</option><option value="08">08</option>
+                                    <option value="09">09</option><option value="10">10</option><option value="11">11</option>
+                                    <option value="12">12</option><option value="13">13</option><option value="14">14</option>
+                                    <option value="15">15</option><option value="16">16</option><option value="17">17</option>
+                                    <option value="18">18</option><option value="19">19</option><option value="20">20</option>
+                                    <option value="21">21</option><option value="22">22</option><option value="23">23</option>
+                                    <option value="24">24</option><option value="25">25</option><option value="26">26</option>
+                                    <option value="27">27</option><option value="28">28</option><option value="29">29</option>
+                                    <option value="30">30</option><option value="31">31</option><option value="32">32</option>
+                                    <option value="33">33</option><option value="34">34</option><option value="35">35</option>
+                                    <option value="36">36</option><option value="37">37</option><option value="38">38</option>
+                                    <option value="39">39</option><option value="40">40</option><option value="41">41</option>
+                                    <option value="42">42</option><option value="43">43</option><option value="44">44</option>
+                                    <option value="45">45</option><option value="46">46</option><option value="47">47</option>
+                                    <option value="48">48</option><option value="49">49</option><option value="50">50</option>
+                                    <option value="51">51</option><option value="52">52</option><option value="53">53</option>
+                                    <option value="54">54</option><option value="55">55</option><option value="56">56</option>
+                                    <option value="57">57</option><option value="58">58</option><option value="59">59</option>
+                                </select>
+                            </div>
+                            <button class="btn-convert" id="btnMilToStd">Convert to Standard</button>
+                            <div class="result-box" id="milResultBox" style="display:none;">
+                                <div class="result-label">Standard Time</div>
+                                <div class="result-value" id="milResultValue">--:-- --</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="reference-section">
+                    <h2>Quick Reference Chart</h2>
+                    <div class="reference-grid">
+                        <div class="reference-item"><span class="ref-military">0000</span><span class="ref-standard">12:00 AM</span></div>
+                        <div class="reference-item"><span class="ref-military">0600</span><span class="ref-standard">6:00 AM</span></div>
+                        <div class="reference-item"><span class="ref-military">1200</span><span class="ref-standard">12:00 PM</span></div>
+                        <div class="reference-item"><span class="ref-military">1800</span><span class="ref-standard">6:00 PM</span></div>
+                        <div class="reference-item"><span class="ref-military">2359</span><span class="ref-standard">11:59 PM</span></div>
+                    </div>
+                </div>
+                <div class="amazon-section">
+                    <h2>Recommended on Amazon</h2>
+                    <p class="section-desc">Essential timepieces and accessories for military life</p>
+                    <div class="amazon-products-grid" id="amazonGrid"></div>
+                    <p class="amazon-picks-footer">As an Amazon Associates, we earn from qualifying purchases. Prices are accurate as of the date indicated and subject to change.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer style="background:#1a3a5c;color:#fff;padding:2rem 0;text-align:center;margin-top:2rem">
+        <div class="container">
+            <p>&copy; 2024 Military Life Tools. All rights reserved.</p>
+        </div>
+    </footer>
+    <script>
+        // Current time display
+        function updateCurrentTime() {
+            var now = new Date();
+            var h = String(now.getHours()).padStart(2, '0');
+            var m = String(now.getMinutes()).padStart(2, '0');
+            var s = String(now.getSeconds()).padStart(2, '0');
+            document.getElementById('currentTimeDisplay').textContent = h + ':' + m + ':' + s;
+            var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+            var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+            document.getElementById('currentDateDisplay').textContent = days[now.getDay()] + ', ' + months[now.getMonth()] + ' ' + now.getDate() + ', ' + now.getFullYear();
+        }
+        updateCurrentTime();
+        setInterval(updateCurrentTime, 1000);
+
+        // Set default values to current time
+        function setDefaults() {
+            var now = new Date();
+            var h = now.getHours();
+            var m = String(now.getMinutes()).padStart(2, '0');
+            var period = h >= 12 ? 'PM' : 'AM';
+            if (h === 0) h = 12;
+            else if (h > 12) h = h - 12;
+            document.getElementById('stdHours').value = String(h).padStart(2, '0');
+            document.getElementById('stdMinutes').value = m;
+            document.getElementById('stdPeriod').value = period;
+            document.getElementById('milHours').value = String(now.getHours()).padStart(2, '0');
+            document.getElementById('milMinutes').value = m;
+        }
+        setDefaults();
+
+        // Convert standard time -> military time
+        document.getElementById('btnStdToMil').addEventListener('click', function() {
+            var h = parseInt(document.getElementById('stdHours').value);
+            var m = document.getElementById('stdMinutes').value;
+            var p = document.getElementById('stdPeriod').value;
+            var milH = h;
+            if (p === 'AM') {
+                if (h === 12) milH = 0;
+            } else {
+                if (h !== 12) milH = h + 12;
+            }
+            var milTime = String(milH).padStart(2, '0') + m;
+            document.getElementById('stdResultValue').textContent = milTime;
+            document.getElementById('stdResultBox').style.display = 'block';
+            document.getElementById('milResultBox').style.display = 'none';
+        });
+
+        // Convert military time -> standard time
+        document.getElementById('btnMilToStd').addEventListener('click', function() {
+            var h = parseInt(document.getElementById('milHours').value);
+            var m = document.getElementById('milMinutes').value;
+            var stdH = h;
+            var period = 'AM';
+            if (h === 0) {
+                stdH = 12;
+            } else if (h === 12) {
+                stdH = 12;
+                period = 'PM';
+            } else if (h > 12) {
+                stdH = h - 12;
+                period = 'PM';
+            }
+            var stdTime = stdH + ':' + m + ' ' + period;
+            document.getElementById('milResultValue').textContent = stdTime;
+            document.getElementById('milResultBox').style.display = 'block';
+            document.getElementById('stdResultBox').style.display = 'none';
+        });
+
+        // Generate Amazon product cards
+        var products = [
+            {icon:'⌚',title:'Casio G-Shock Tactical Watch',price:'$79.99 - $199.00',url:'https://www.amazon.com/s?k=casio+gshock+military+tactical+watch&tag=militarylife2-20'},
+            {icon:'🕐',title:'Marathon Military Pilot Watch',price:'$99.99 - $499.00',url:'https://www.amazon.com/s?k=marathon+pilot+watch+military&i=fashion&tag=militarylife2-20'},
+            {icon:'🕰️',title:'Atomic Digital Wall Clock',price:'$24.99 - $59.99',url:'https://www.amazon.com/s?k=atomic+digital+wall+clock+battery&i=fashion&tag=militarylife2-20'},
+            {icon:'🌍',title:'Multiple Time Zone World Clock',price:'$29.99 - $89.99',url:'https://www.amazon.com/s?k=world+clock+multiple+time+zones&i=fashion&tag=militarylife2-20'},
+            {icon:'🔋',title:'Long-Life Watch Battery Bundle',price:'$12.99 - $24.99',url:'https://www.amazon.com/s?k=watch+battery+bulk+CR2032&i=fashion&tag=militarylife2-20'},
+            {icon:'⏱️',title:'Digital Countdown Timer',price:'$15.99 - $34.99',url:'https://www.amazon.com/s?k=digital+countdown+timer+large&i=fashion&tag=militarylife2-20'},
+            {icon:'🧭',title:'Military Compass with Thermometer',price:'$18.99 - $45.99',url:'https://www.amazon.com/s?k=military+compass+thermometer&i=fashion&tag=militarylife2-20'},
+            {icon:'📟',title:'Rugged Outdoor Digital Watch',price:'$22.99 - $69.99',url:'https://www.amazon.com/s?k=rugged+outdoor+digital+watch+military&i=fashion&tag=militarylife2-20'}
+        ];
+        var grid = document.getElementById('amazonGrid');
+        products.forEach(function(p) {
+            var c = document.createElement('div');
+            c.className = 'amazon-card';
+            c.innerHTML = '<div class="amazon-card-img">' + p.icon + '</div><h3 class="amazon-card-title">' + p.title + '</h3><div class="amazon-card-price">' + p.price + '</div><a class="amazon-card-cta" href="' + p.url + '" target="_blank" rel="sponsored nofollow">View on Amazon</a>';
+            grid.appendChild(c);
+        });
+    </script>
+</body>
+</html>
