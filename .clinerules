@@ -1,0 +1,1 @@
+当前系统是 Windows PowerShell，禁止使用 open 命令（改用 start），禁止使用 && 拼接命令（改用 ; 分隔）。
